@@ -1,0 +1,2708 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://localhost/ontologies/food#"
+     xml:base="http://localhost/ontologies/food"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:food="http://localhost/ontologies/food"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:food1="http://localhost/ontologies/food#"
+     xmlns:untitled-ontology-18="http://www.semanticweb.org/atemengue/ontologies/2021/4/untitled-ontology-18#">
+    <owl:Ontology rdf:about="http://localhost/ontologies/food"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://localhost/ontologies/food#Carrence-Cause -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#Carrence-Cause">
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:range rdf:resource="http://localhost/ontologies/food#Maladie"/>
+        <rdfs:label xml:lang="fr">En Carrence Peut Causer</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#Consommer-Au -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#Consommer-Au">
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <rdfs:range rdf:resource="http://localhost/ontologies/food#Region"/>
+        <rdfs:label xml:lang="fr">Plus Consomer Au</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#EstCompose -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#EstCompose">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <rdfs:range rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <rdfs:comment xml:lang="fr">Sa composition en terme de substance</rdfs:comment>
+        <rdfs:label xml:lang="en">Composed by</rdfs:label>
+        <rdfs:label xml:lang="fr">Est Composer de</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#EstConstituer -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#EstConstituer">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost/ontologies/food#EstConstituer"/>
+                <owl:someValuesFrom rdf:resource="http://localhost/ontologies/food#Aliment"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:label xml:lang="en">Constitute By</rdfs:label>
+        <rdfs:label xml:lang="fr">Est Constituer de</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#EstUnEnsemble -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#EstUnEnsemble">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <rdfs:range rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <rdfs:label xml:lang="fr">Est un Ensemble de</rdfs:label>
+        <rdfs:label xml:lang="en">Is a Set of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#Exces-Cause -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#Exces-Cause">
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:range rdf:resource="http://localhost/ontologies/food#Maladie"/>
+        <rdfs:label xml:lang="fr">En Exces Peut Causer</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime-Conseiller -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#Regime-Conseiller">
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Maladie"/>
+        <rdfs:range rdf:resource="http://localhost/ontologies/food#Regime"/>
+        <rdfs:label xml:lang="fr">Le Regime Conseillé a Suivre Est</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#Se_Mange_Avec -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#Se_Mange_Avec">
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <rdfs:range rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <rdfs:comment xml:lang="fr">Liens qui indique si on peut accompagner un repas avec un autre ou si l&apos;un est seulement manger avec l&apos;autre</rdfs:comment>
+        <rdfs:label xml:lang="fr">Se Mange Avec</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#appartient -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#appartient">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost/ontologies/food#appartient"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://localhost/ontologies/food#Aliment"/>
+                            <rdf:Description rdf:about="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:label xml:lang="fr">Appartient</rdfs:label>
+        <rdfs:label xml:lang="en">Has</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#apporte -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#apporte">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <rdfs:range rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">ce qu&apos;il peut apporter comme substance ou valeur nutritive.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Apporte</rdfs:label>
+        <rdfs:label xml:lang="en">Give</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#contient -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#contient">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost/ontologies/food#contient"/>
+                <owl:someValuesFrom rdf:resource="http://localhost/ontologies/food#TypeAliment"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:label xml:lang="en">Content</rdfs:label>
+        <rdfs:label xml:lang="fr">Contient</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#estFaitDe -->
+
+    <owl:ObjectProperty rdf:about="http://localhost/ontologies/food#estFaitDe">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Boisson"/>
+        <rdfs:range rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <rdfs:comment xml:lang="fr">le principale produit ou aliment dont il est fait</rdfs:comment>
+        <rdfs:label xml:lang="en">Done By</rdfs:label>
+        <rdfs:label xml:lang="fr">Est Fait de</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <rdfs:range rdf:resource="http://localhost/ontologies/food#Plat"/>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://localhost/ontologies/food#CaracteristiqueAliment -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost/ontologies/food#CaracteristiqueAliment">
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="fr">Caracteristique d&apos;Aliment</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#DescriptionPlat -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost/ontologies/food#DescriptionPlat">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label xml:lang="fr">Description du plat</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#IdPlat -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost/ontologies/food#IdPlat">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label xml:lang="fr">ID_Plat</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime-Plus-Facile -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost/ontologies/food#Regime-Plus-Facile">
+        <rdfs:label xml:lang="fr">Regime Plus Facile A Suivre</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime-Plus-Saine -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost/ontologies/food#Regime-Plus-Saine">
+        <rdfs:label xml:lang="fr">Regime Plus Saine A Suivre</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#descriptionRepas -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost/ontologies/food#descriptionRepas">
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="fr">Description de Repas</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#idAliment -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost/ontologies/food#idAliment">
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+        <rdfs:label xml:lang="fr">ID_Aliment</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#idRepas -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost/ontologies/food#idRepas">
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+        <rdfs:label xml:lang="fr">ID_Repas</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#libelleAliment -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost/ontologies/food#libelleAliment">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="fr">LibelleAliment</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost/ontologies/food#libelleDuPlat -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost/ontologies/food#libelleDuPlat"/>
+    
+
+
+    <!-- http://localhost/ontologies/food#libelleRepas -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost/ontologies/food#libelleRepas">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="fr">LibelleRepas</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://localhost/ontologies/food#Aliment -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Aliment">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost/ontologies/food#apporte"/>
+                <owl:someValuesFrom rdf:resource="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost/ontologies/food#appartient"/>
+                <owl:allValuesFrom rdf:resource="http://localhost/ontologies/food#TypeAliment"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="fr">Les aliments constituent donc le principal apport d&apos;énergie pour le corps.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Aliment</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Boisson -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Boisson">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeAliment"/>
+        <rdfs:comment xml:lang="fr">Servant de se deshydraté par la bouche pour se desaltérer ou pour se rafraichir.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Boisson</rdfs:label>
+        <rdfs:label xml:lang="en">Drink</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Cereales -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Cereales">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeAliment"/>
+        <rdfs:comment xml:lang="fr">Designe des préparation alimentaires à base de graines.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Céréales</rdfs:label>
+        <rdfs:label xml:lang="en">Muesli</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Eau -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Eau">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Liquide transparant, incolore, inodore et insipide à l&apos;etat pur de formule brute H2O</rdfs:comment>
+        <rdfs:label xml:lang="fr">Eau</rdfs:label>
+        <rdfs:label xml:lang="en">Water</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Fibres -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Fibres">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">les parties d&apos;un aliment d&apos;origine vegetale constituées de melange complexe de glucide provenant de la paroi cellulaire ou du cytiplasme des cellules vegetales et qui ne peuvent pas etre completement decomposées par les enzymes digestives humaine.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Fibres</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Fruits -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Fruits">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#LegumeFruit"/>
+        <rdfs:label xml:lang="fr">Fruits</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Glucides -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Glucides">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Type de molécule composé de carbone, hydrogene et d&apos;oxygene un des constituant essentiels des etres vivants, qui correspond aux molecules de sucre</rdfs:comment>
+        <rdfs:label xml:lang="en">Carbohydrate</rdfs:label>
+        <rdfs:label xml:lang="fr">Glucides</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#LegumeFruit -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#LegumeFruit">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeAliment"/>
+        <rdfs:comment xml:lang="fr">Ensemble des parti d&apos;une plante produite après la floraison et conteanant des graine ou des tiges</rdfs:comment>
+        <rdfs:label xml:lang="fr">Legumes et Fruits</rdfs:label>
+        <rdfs:label xml:lang="en">Vegetable and fruit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Legumes -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Legumes">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#LegumeFruit"/>
+        <rdfs:label xml:lang="fr">Legumes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Lipides -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Lipides">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#MacroElementMIneraux -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#MacroElementMIneraux">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">les sels minéraux qui sont utilisé en grande quantité</rdfs:comment>
+        <rdfs:label xml:lang="fr">Macro Eléments Minéraux</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Maladie -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Maladie">
+        <rdfs:comment xml:lang="fr">Ensemble des maladies nuttritive connus, leurs causes et la façon de les prévenir ou réguler voire soigner par l&apos;alimentation.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Maladie</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Maladie-des-Carrences -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Maladie-des-Carrences">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#Maladie"/>
+        <rdfs:label xml:lang="fr">Maladies des Carrences</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Maladie-des-Exces -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Maladie-des-Exces">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#Maladie"/>
+        <rdfs:label xml:lang="fr">Maladies des Exces</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#MatiereGrasses -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#MatiereGrasses">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeAliment"/>
+        <rdfs:comment xml:lang="fr">subsstance non soluble dans l&apos;eau et qui tache le papier rencontré dans certains alimebrs entre autres les huiles, la creme, le beure et la viande.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Matières Grasses</rdfs:label>
+        <rdfs:label xml:lang="en">fat</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#OligoElementMIneraux -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#OligoElementMIneraux">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">les sels minéraux qui sont utilisé en une quantité infime</rdfs:comment>
+        <rdfs:label xml:lang="fr">Oligo Eléments Minéraux</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Plat -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Plat">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost/ontologies/food#EstCompose"/>
+                <owl:someValuesFrom rdf:resource="http://localhost/ontologies/food#Aliment"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="fr">Un plat est constituer de plusieurs aliment.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Plat</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#ProduitLaitiers -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#ProduitLaitiers">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeAliment"/>
+        <rdfs:comment xml:lang="fr">Obtenu a partir du lait</rdfs:comment>
+        <rdfs:label xml:lang="en">Milk</rdfs:label>
+        <rdfs:label xml:lang="fr">Produits Laitiers</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#ProduitSucres -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#ProduitSucres">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeAliment"/>
+        <rdfs:comment xml:lang="fr">tout ce qui est fabriqué a partir du sucre,</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sucrérie</rdfs:label>
+        <rdfs:label xml:lang="en">Sugar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Protides -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Protides">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Enchainement d&apos;acides aminées employé notament pour la digestion</rdfs:comment>
+        <rdfs:label xml:lang="fr">Protides</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Regime">
+        <rdfs:comment xml:lang="fr">Façon de s&apos;alimenter et de se nourrir. Alimentation végétarienne basée sur la consommation de fruits, légumes et céréales, alimentation omnivore variée, alimentation carnée sont autant de régimes alimentaires différents.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Regime</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Region -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Region">
+        <rdfs:comment xml:lang="fr">Les types d&apos;alimentation et les repas les plus connues seront reparti selon les region ou sont le plus consommer</rdfs:comment>
+        <rdfs:label xml:lang="fr">Region</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#Repas -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#Repas">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost/ontologies/food#EstUnEnsemble"/>
+                <owl:someValuesFrom rdf:resource="http://localhost/ontologies/food#Plat"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="fr">Un repas qu&apos;il soit complet ou non est un ensemble de plusieurs plat</rdfs:comment>
+        <rdfs:label xml:lang="fr">Repas</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#SubstanceOrganique -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#SubstanceOrganique">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost/ontologies/food#appartient"/>
+                <owl:allValuesFrom rdf:resource="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="fr">Des composés dont les elements chimique constitutifs est le carbone  a quelques exceptions pres</rdfs:comment>
+        <rdfs:label xml:lang="en">Organics Substances</rdfs:label>
+        <rdfs:label xml:lang="fr">Substances Organiques</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#TypeAliment -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#TypeAliment">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost/ontologies/food#contient"/>
+                <owl:someValuesFrom rdf:resource="http://localhost/ontologies/food#Aliment"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="fr">Ensemble dont les aliments sont reparties</rdfs:comment>
+        <rdfs:label xml:lang="fr">Type D&apos;aliments</rdfs:label>
+        <rdfs:label xml:lang="en">Type of Aliment</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#TypeSubstanceOrganique -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#TypeSubstanceOrganique">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost/ontologies/food#EstCompose"/>
+                <owl:someValuesFrom rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="fr">ensembles qui regroupent les substances organiques en des petites familles.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Type des Substances Organiques</rdfs:label>
+        <rdfs:label xml:lang="en">Type of organics substances</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#ViandeBlanche -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#ViandeBlanche">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#ViandeProduitPecheOeuf"/>
+        <rdfs:label xml:lang="fr">Viande Blanche</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#ViandeBrousse -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#ViandeBrousse">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#ViandeProduitPecheOeuf"/>
+        <rdfs:label xml:lang="fr">Viande Brousse</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#ViandeNoire -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#ViandeNoire">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#ViandeProduitPecheOeuf"/>
+        <rdfs:label xml:lang="fr">Viande Noire</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#ViandeProduitPecheOeuf -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#ViandeProduitPecheOeuf">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeAliment"/>
+        <rdfs:comment xml:lang="fr">des aliments d&apos;origine animales qui regroupe la viande, les poisson ou d&apos;autres etres marains et les oeufs</rdfs:comment>
+        <rdfs:label xml:lang="en">Meat,fishes and eggs</rdfs:label>
+        <rdfs:label xml:lang="fr">Viandes, Produits de pèche et Oeufs</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#ViandeRouge -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#ViandeRouge">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#ViandeProduitPecheOeuf"/>
+        <rdfs:label xml:lang="fr">Viande Rouge</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#ViandeSeche -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#ViandeSeche">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#ViandeProduitPecheOeuf"/>
+        <rdfs:label xml:lang="fr">Viande Seche</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitaminesHydrosoluble -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#VitaminesHydrosoluble">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Elles sont soluble dans l&apos;eau et ne sont pas stockées dans l&apos;organisme</rdfs:comment>
+        <rdfs:label xml:lang="fr">Vitamines Hydrosolubles</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitaminesLiposolubles -->
+
+    <owl:Class rdf:about="http://localhost/ontologies/food#VitaminesLiposolubles">
+        <rdfs:subClassOf rdf:resource="http://localhost/ontologies/food#TypeSubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Elles sont solubles dans les graisses et l&apos;organisme peut les mettre en réserve.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Vitamines Liposolubles</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://localhost/ontologies/food#ADAMAOUA -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#ADAMAOUA">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Region"/>
+        <rdfs:label xml:lang="fr">ADAMAOUA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Agneau -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Agneau">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeRouge"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Calorie"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cholesterole"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Fer"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineAnimale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Vitamine_B12"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <rdfs:comment xml:lang="fr">Viande rouge, chair de cet animal Petit du belier et de la brebis</rdfs:comment>
+        <rdfs:label xml:lang="en">Lamb</rdfs:label>
+        <rdfs:label xml:lang="fr">Viande d&apos;Agneau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Ail -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Ail">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cuivre"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Phosphore"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Selenium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB1"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB2"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB5"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineE"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <rdfs:comment xml:lang="fr">Espece de bulbe de la famille des liliacées composé de plusieurs petite grousses reunies sous une enveloppe commun.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Ail</rdfs:label>
+        <rdfs:label xml:lang="en">Garlic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Ananas -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Ananas">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Calorie"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Fer"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Iode"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Manganese"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Phosphore"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineVegetale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Selenium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB1"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB2"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB5"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <rdfs:comment xml:lang="en">Faux-Fruit comestible d&apos;une plante tropicale de forme conique à la peau écailleuse et epaisse et à la chair jaune et sucré.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Ananas</rdfs:label>
+        <rdfs:label xml:lang="en">pineapple</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Anemie -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Anemie">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Carrences"/>
+        <rdfs:comment xml:lang="fr">est un trouble caractérisé par un nombre anormalement faible de globules rouges sains dans le sang. Les globules rouges transportent de l&apos;oxygène dans tout l&apos;organisme, et un nombre insuffisant de globules rouges peut donc avoir des conséquences graves.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Anemie</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Anemie-Ferripive -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Anemie-Ferripive">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Carrences"/>
+        <rdfs:comment xml:lang="fr">se caractérise par une diminution du nombre de globules rouges dans le sang ou de leur teneur en hémoglobine. Les principaux symptômes, lorsqu&apos;il y en a, sont la fatigue, un teint pâle et un essoufflement plus prononcé à l&apos;effort.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Anemie-Ferripive</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Arachide -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Arachide">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Calorie"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cholesterole"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cuivre"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Fer"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Manganese"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Phosphore"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Selenium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB1"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineE"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <CaracteristiqueAliment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arachide cultivé dans la province du Nord Cameroun</CaracteristiqueAliment>
+        <idAliment rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</idAliment>
+        <libelleAliment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arachide de Garoua</libelleAliment>
+        <rdfs:comment xml:lang="fr">Graine d&apos;une plante de la fammile des fabacées (legumineuses) , enterrés apres la fecondation, des graines oléagineuse qui fournissent par la pression d&apos;une huile blanche d&apos;une saveur agréable</rdfs:comment>
+        <rdfs:label xml:lang="fr">Arachide</rdfs:label>
+        <rdfs:label xml:lang="en">Peanut</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Athérome -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Athérome">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Exces"/>
+        <rdfs:comment xml:lang="fr">Ou l&apos;athérosclérose est une maladie artérielle chronique caractérisée par des dépôts de lipides dans les artères. L&apos;artériosclérose correspond au vieillissement des artères.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Athérome</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Azote -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Azote">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Element chimique de numero atomique 7 et de symbole N c&apos;est un pnictogene</rdfs:comment>
+        <rdfs:label xml:lang="fr">Azote</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Banane -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Banane">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cuivre"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Manganese"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <rdfs:comment xml:lang="fr">Fruit comestible du bananier de forme allongée, d&apos;abord vert puis jaune ponctué des taches noires à maturité, à chair farineuse.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Banane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Basilic -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Basilic">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <rdfs:comment xml:lang="fr">Plante annuelle de la famille des lamiacées (labiacées, labiées) cultivé comme plante aromatique et condimentaire est a la base du pesto, condiment emblématique de la cuisine Italienne.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Basilic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Beriberi -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Beriberi">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Carrences"/>
+        <rdfs:comment xml:lang="fr">Le béribéri est une maladie provoquée par un déficit en vitamine B1 (ou thiamine). L&apos;organisme humain n&apos;est pas capable de produire de la vitamine B1 et doit en trouver quotidiennement dans son alimentation. Cette vitamine est indispensable pour le bon fonctionnement du cœur, des nerfs et des muscles.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Beriberi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Ble -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Ble">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Cereales"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cuivre"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Fer"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Iode"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Phosphore"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineVegetale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Selenium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB1"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB5"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineD"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineE"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Vitamine_B12"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <rdfs:comment xml:lang="fr">Céréale apartenant au genre Triticum. ce sont des plantes de la famille des graminées ou Pacées, utilisé pour obtenir la farine.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Blé</rdfs:label>
+        <rdfs:label xml:lang="en">wheat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Boeuf -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Boeuf">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeRouge"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cholesterole"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineAnimale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Vitamine_B12"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <rdfs:comment xml:lang="fr">Viande Rouge, chair de cet animal mammifère d&apos;especes bovine .</rdfs:comment>
+        <rdfs:label xml:lang="fr">Viande de Boeuf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#CENTRE -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#CENTRE">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Region"/>
+        <rdfs:label xml:lang="fr">CENTRE</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Calorie -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Calorie">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">De l&apos;energie produit par l&apos;organisme</rdfs:comment>
+        <rdfs:label xml:lang="fr">Calorie</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Carotte -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Carotte">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Legumes"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cuivre"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Manganese"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Phosphore"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineVegetale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB1"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineE"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <rdfs:comment xml:lang="fr">Legume d&apos;une plante Potagere de la famille des imbellifèes , a racine pivotant et charnue, douce, sucrée comestible.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Carotte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Cerf -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Cerf">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeNoire"/>
+        <rdfs:comment xml:lang="fr">Viande noire, chair de cet animal mammifère ruminant dont lr male porte sur la tete des cornes ramifiées appelées bois</rdfs:comment>
+        <rdfs:label xml:lang="fr">Cerf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Cesame -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Cesame">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Cereales"/>
+        <rdfs:comment xml:lang="fr">Graines d&apos;une plante à fleur blanche et ponctuées de pourpren; elles sont un peu plus grosse ddu millet sont alimentaire fournissent de l&apos;huile</rdfs:comment>
+        <rdfs:label xml:lang="en">Sesame</rdfs:label>
+        <rdfs:label xml:lang="fr">Sésame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Chevreuil -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Chevreuil">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeNoire"/>
+        <rdfs:comment xml:lang="fr">Viande Noire, chair de cet animal des especes cervidé, beaucoup plus petite  que les cerfsdont la tete ressemble un peu a celle des chevres,</rdfs:comment>
+        <rdfs:label xml:lang="fr">Chevreuil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Chlorure -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Chlorure">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Corps composer de chlore et d&apos;une substance simple autre que l&apos;oxygene et l&apos;hydrogene</rdfs:comment>
+        <rdfs:label xml:lang="fr">Chlorure</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Cholesterole -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Cholesterole">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Le cholestérol est un lipide de la famille des stérols qui joue un rôle central dans de nombreux processus biochimiques.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Cholesterole</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Choux -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Choux">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Legumes"/>
+        <rdfs:comment xml:lang="fr">Plant Potagère de la famille des crucifère et qui sert d&apos;aliment</rdfs:comment>
+        <rdfs:label xml:lang="fr">Choux</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Citron -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Citron">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <rdfs:comment xml:lang="fr">Fruit du citronier de couleur jaune, a la peau rugueuse et de la forme ovoide. D&apos;un gout acide, il est utilisées pressé dans de nombreuse boisson.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Citron</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Concombre -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Concombre">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Legumes"/>
+        <rdfs:comment xml:lang="fr">Fruits allongés produit d&apos;une plante potagére de la famille des cucurbitacées</rdfs:comment>
+        <rdfs:label xml:lang="fr">Concombre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Coronaropathies -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Coronaropathies">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Exces"/>
+        <rdfs:comment xml:lang="fr">La coronaropathie, ou maladie coronarienne, est la forme la plus courante de maladie du cœur. Elle survient lorsque les artères coronaires du cœur se rétrécissent ou sont obstruées.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Coronaropathies</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Corossole -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Corossole">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <rdfs:comment xml:lang="fr">Fruit du corossolier vaiété d&apos;annonce a la chair comestible blanche et pulpeuse aux graines noire indigeste, au gout à la fois sucré et acidulé.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Corossole</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#CouscousMais -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#CouscousMais">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#NORD"/>
+        <EstConstituer rdf:resource="http://localhost/ontologies/food#Huile"/>
+        <EstConstituer rdf:resource="http://localhost/ontologies/food#Mais"/>
+        <EstConstituer rdf:resource="http://localhost/ontologies/food#eau"/>
+        <EstConstituer rdf:resource="http://localhost/ontologies/food#sel"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#SauceGombo"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#SauceKenekene"/>
+        <rdfs:comment>Il s&apos;agit du Mais qu&apos;il soit ecrasé. incorporez dans une eau avec un peu de sel. puis bouillit et tournez dans une casserole</rdfs:comment>
+        <rdfs:label xml:lang="fr">Couscous Mais</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#CouscousManioc -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#CouscousManioc">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#CENTRE"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#LITORAL"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#SUD"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#Eru"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#SauceGombo"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#SauceKenekene"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Huile"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Manioc"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <rdfs:comment xml:lang="fr">Plat spécialement africaine de couleur blanche assez conssistent preparer a base Manioc</rdfs:comment>
+        <rdfs:label xml:lang="fr">Couscous Manioc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#CouscousManioc_Eru -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#CouscousManioc_Eru">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#NORD-OUEST"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#OUEST"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#CouscousManioc"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#Eru"/>
+        <rdfs:label xml:lang="fr">Couscous_Manioc + Eru</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#CouscousMil -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#CouscousMil">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#EXTREME_NORD"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#SauceGombo"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#SauceKenekene"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Huile"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Mil"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <rdfs:comment xml:lang="fr">Plat assez consistent fait a partir du Mil</rdfs:comment>
+        <rdfs:label xml:lang="fr">Couscous Mil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#CouscousSauceGombo -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#CouscousSauceGombo">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#CouscousManioc"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#SauceGombo"/>
+        <rdfs:comment xml:lang="fr">Plat spécialement africaine composée de la sauce gombo accompagnée du couscous</rdfs:comment>
+        <rdfs:label xml:lang="fr">Couscous + Sauce Gombo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Cuivre -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Cuivre">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Element chimique de numéro atomique 29 et de symbole Cu</rdfs:comment>
+        <rdfs:label xml:lang="fr">Cuivre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Diabète -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Diabète">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Exces"/>
+        <Regime-Conseiller rdf:resource="http://localhost/ontologies/food#Regime-Dash"/>
+        <Regime-Conseiller rdf:resource="http://localhost/ontologies/food#Regime-Flexitarien"/>
+        <Regime-Conseiller rdf:resource="http://localhost/ontologies/food#Regime-Mediterraneen"/>
+        <rdfs:comment xml:lang="fr">Le diabète correspond à une élévation anormale de la glycémie, définie par le taux de sucre dans le sang. Cette augmentation de la glycémie peut provoquer à plus ou moins long terme des lésions de différents organes, comme les yeux, les reins, les nerfs et les vaisseaux sanguins.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Diabète</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#EST -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#EST">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Region"/>
+        <rdfs:label xml:lang="fr">EST</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#EXTREME_NORD -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#EXTREME_NORD">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Region"/>
+        <rdfs:label xml:lang="fr">EXTREME NORD</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Eru -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Eru">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Feuille_Eru"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Huile"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Piment"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <rdfs:comment xml:lang="fr">Plat fait des feuilles souvant preparer avec la peau ou la viande</rdfs:comment>
+        <rdfs:label xml:lang="fr">Eru</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Fer -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Fer">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Anemie-Ferripive"/>
+        <rdfs:comment xml:lang="fr">Element chimique de numero atomique 26 et de symbole Fe qui fait partie des metaux de transition.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Fer</rdfs:label>
+        <rdfs:label xml:lang="en">Iron</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Feuille_Eru -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Feuille_Eru">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Legumes"/>
+        <rdfs:label xml:lang="fr">Feuille d&apos;Eru</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Feuille_de_Kenekene -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Feuille_de_Kenekene">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Legumes"/>
+        <rdfs:label xml:lang="fr">Feuille Kenekene</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Feuille_de_Ndolé -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Feuille_de_Ndolé">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Legumes"/>
+        <rdfs:comment xml:lang="en">Bitterleave</rdfs:comment>
+        <rdfs:label xml:lang="fr">Feuille Ndolé</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Fromage -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Fromage">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ProduitLaitiers"/>
+        <rdfs:label xml:lang="fr">Fromage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Glucose -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Glucose">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Le glucose est un sucre (glucide) simple stocké dans notre organisme sous la forme de glycogène qui peut être mobilisé à tout moment pour répondre à la demande de la cellule concernée : c&apos;est le carburant de notre organisme.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Glucose</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Goyave -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Goyave">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineVegetale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineA"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <rdfs:comment xml:lang="fr">Fruit tropical comestible produit par l&apos;arbre Goyavier, de la forme de poire qui mesure de 5 à 7 centi-metre a l&apos;etat sauvage mais peut etre jusqu&apos;a deux fois plus grosse sous sa forme cultivée.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Goyave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Haricot -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Haricot">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Legumes"/>
+        <rdfs:comment xml:lang="fr">Legume issus des parties comestible de la plante potagère de la famille des légumineuses</rdfs:comment>
+        <rdfs:label xml:lang="fr">Haricot Graine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Haricot_Preparer -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Haricot_Preparer">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#Riz_SauceArachide"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#Riz_Sauté"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#poisson"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Haricot"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Huile"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Oignon"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <rdfs:label xml:lang="fr">Haricot Préparer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Huile -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Huile">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#MatiereGrasses"/>
+        <rdfs:label xml:lang="fr">Huile</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Hypertension -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Hypertension">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Exces"/>
+        <Regime-Conseiller rdf:resource="http://localhost/ontologies/food#Regime-Dash"/>
+        <Regime-Conseiller rdf:resource="http://localhost/ontologies/food#Regime-Ornish"/>
+        <rdfs:comment xml:lang="fr">se caractérise par une pression anormalement forte du sang sur la paroi des artères. En situation de stress ou durant un effort physique, il est normal que la tension artérielle s&apos;élève.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Hypertension</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Iode -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Iode">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Element chimique de numero atomique 53 et de symbole I qui fait parti des halogenes.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Iode</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#JusAnanas -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#JusAnanas">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Boisson"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Ananas"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Sucre"/>
+        <rdfs:comment xml:lang="fr">Jus naturel extrait du fruits ananas utilisé comme boisson soit directement soit après avoir été concenté puis reconstitué par addition d&apos;eau.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Jus d&apos;ananas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#JusBanane -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#JusBanane">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Boisson"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Banane"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Sucre"/>
+        <rdfs:comment xml:lang="fr">Jus naturel extrait du fruits banane utilisé comme boisson soit directement soit après avoir été concenté puis reconstitué par addition d&apos;eau.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Jus de Banane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#JusCitron -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#JusCitron">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Boisson"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Citron"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Sucre"/>
+        <rdfs:comment xml:lang="fr">Jus naturel extrait du fruits citron utilisé comme boisson soit directement soit après avoir été concenté puis reconstitué par addition d&apos;eau.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Jus de Citron</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#JusCorossole -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#JusCorossole">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Boisson"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Corossole"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Sucre"/>
+        <rdfs:comment xml:lang="fr">Jus naturel extrait du fruits corossole utilisé comme boisson soit directement soit après avoir été concenté puis reconstitué par addition d&apos;eau.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Jus de Corossole</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#JusGoyave -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#JusGoyave">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Boisson"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Goyave"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Sucre"/>
+        <rdfs:comment xml:lang="fr">Jus naturel extrait du fruits goyave utilisé comme boisson soit directement soit après avoir été concenté puis reconstitué par addition d&apos;eau.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Jus de Goyave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#JusMangue -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#JusMangue">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Boisson"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Mangue"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Sucre"/>
+        <rdfs:comment xml:lang="fr">Jus naturel extrait du fruits Mangue utilisé comme boisson soit directement soit après avoir été concenté puis reconstitué par addition d&apos;eau.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Jus de Mangue</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#JusOrange -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#JusOrange">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Boisson"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Orange"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Sucre"/>
+        <rdfs:comment xml:lang="fr">Jus naturel extrait du fruits orange utilisé comme boisson soit directement soit après avoir été concenté puis reconstitué par addition d&apos;eau.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Jus d&apos;Orange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#JusPamplemouse -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#JusPamplemouse">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Boisson"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Pamplemouse"/>
+        <estFaitDe rdf:resource="http://localhost/ontologies/food#Sucre"/>
+        <rdfs:comment xml:lang="fr">Jus naturel extrait du fruits pamplemouse différents du citron utilisé comme boisson soit directement soit après avoir été concenté puis reconstitué par addition d&apos;eau.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Jus de Paplemouse</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Koki -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Koki">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#LITORAL"/>
+        <rdfs:comment xml:lang="cm">Plat assez conssistent de couleur jaune servi sur les feuilles de bananier.</rdfs:comment>
+        <rdfs:label xml:lang="cm">Koki</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Kwashiorkor -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Kwashiorkor">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Carrences"/>
+        <rdfs:comment xml:lang="fr">Le kwashiorkor est une malnutrition résultant d&apos;une grave carence en protéines. Il touche généralement les enfants dans le pays en développement, notamment en cas d&apos;arrêt prématuré de l&apos;allaitement.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Kwashiorkor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#LITORAL -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#LITORAL">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Region"/>
+        <rdfs:label xml:lang="fr">LITTORAL</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Lait -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Lait">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ProduitLaitiers"/>
+        <rdfs:comment xml:lang="fr">Liquide produit par les glandes mammaires des femelles de mammifères pendant la periode de lactation.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Lait</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Lapin -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Lapin">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeBlanche"/>
+        <rdfs:comment xml:lang="fr">Viande blanche d&apos;une petite mamifère lagomorphe caractérisé par des longues oreilles (Oryctolagus cuniculus).</rdfs:comment>
+        <rdfs:label xml:lang="fr">Viande de Lapin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Lipides -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Lipides">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Exces-Cause rdf:resource="http://localhost/ontologies/food#Athérome"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Lièvre -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Lièvre">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeNoire"/>
+        <rdfs:comment xml:lang="fr">Viande noire, la chaire de cet animal quadrupède mammifère à longues oreills, qui a les pattes de derrière plus longues que celles de devant,ce qui le rend très rapides a la course.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Viande lièvre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Magnesium -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Magnesium">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Element chimique de numéro atomique 12 de symbole Mg qui fait parti des métaux alcalino-terreux. Sa forme ionique en solution Mg++,</rdfs:comment>
+        <rdfs:label xml:lang="fr">Magnésium</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Mais -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Mais">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Cereales"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cuivre"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Fer"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Manganese"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Phosphore"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB1"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB2"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB5"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <rdfs:comment xml:lang="fr">Graine de cette plante de la famille des Poacèes (ou Grainées), a tige droite et aux feuilles lancéoléees,et que l&apos;on cultiive comme plante fourragère ou pour ses graines.</rdfs:comment>
+        <rdfs:label xml:lang="en">Corn</rdfs:label>
+        <rdfs:label xml:lang="fr">Mais</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Manganese -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Manganese">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Element chimique metalique de numéro atomique 25 et de symbole Mn</rdfs:comment>
+        <rdfs:label xml:lang="fr">Manganese</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Mangue -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Mangue">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cuivre"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineA"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB1"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB2"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineE"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <rdfs:comment xml:lang="fr">Fruit comestible tropical du manguier de la famille des Anacardiacées. C&apos;est une drupe charbue a la chair jaune er sucré, a la peau verte, jaune ou rouge er contenanr un noyau plat et large sur lequel la chair adhère bien.</rdfs:comment>
+        <rdfs:label xml:lang="en">Mango</rdfs:label>
+        <rdfs:label xml:lang="fr">Mangue</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Manioc -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Manioc">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Calorie"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineVegetale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <rdfs:comment xml:lang="fr">De la famille des euphorbiacées, dont l&apos;espece &quot;Manihot esculenta&quot; fournit une racine qui est rapée afin de confectioner un pain nommé cassava et une fecule nutritive appelée tapioca</rdfs:comment>
+        <rdfs:label xml:lang="en">Cassava</rdfs:label>
+        <rdfs:label xml:lang="fr">Manioc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Mil -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Mil">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Cereales"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cuivre"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Fer"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Iode"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Manganese"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Phosphore"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB1"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB2"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB5"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineD"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineE"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineK"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <rdfs:comment xml:lang="fr">Graine d&apos;une plante de la famille des Poacées</rdfs:comment>
+        <rdfs:label xml:lang="fr">Mil</rdfs:label>
+        <rdfs:label xml:lang="en">Millet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Mouton -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Mouton">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeRouge"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cholesterole"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineAnimale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Vitamine_B12"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <rdfs:comment xml:lang="fr">Viande rouge, chair de cet animal mammifère herbivore de la famille des ovidés, à poils laineux et frisées.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Viande de mouton</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#NORD -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#NORD">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Region"/>
+        <rdfs:label xml:lang="fr">NORD</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#NORD-OUEST -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#NORD-OUEST">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Region"/>
+        <rdfs:label xml:lang="fr">NORD OUEST</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Ndolé -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Ndolé">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#CENTRE"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#LITORAL"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#Riz"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Arachide"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Feuille_de_Ndolé"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Huile"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <rdfs:comment xml:lang="fr">Plat fait a partir des feuilles de ndolé equivalent au nevaquine.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Ndolé</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#OUEST -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#OUEST">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Region"/>
+        <rdfs:label xml:lang="fr">OUEST</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Obergine -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Obergine">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Legumes"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cuivre"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB5"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineE"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <rdfs:comment xml:lang="fr">Espèce de Morelle, des fruits blancs semblables à des oeufs, ou de la forme allongé comme le concombre ,et de couleur violette ,jaune ou rougeatre.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Aubergine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Obésité -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Obésité">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Exces"/>
+        <Regime-Conseiller rdf:resource="http://localhost/ontologies/food#Regime-Volumetrique"/>
+        <Regime-Conseiller rdf:resource="http://localhost/ontologies/food#Regime-WeightWatchers"/>
+        <rdfs:comment xml:lang="fr">Accumulation excessive de graisse corporelle qui augmente le risque de problèmes de santé.
+L&apos;obésité résulte souvent d&apos;une consommation de calories supérieure aux calories dépensées en faisant de l&apos;exercice ou dans des activités quotidiennes normales.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Obésité</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#OeufSimple -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#OeufSimple">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <rdfs:comment xml:lang="fr">Oeuf preparer en omellette consomer au petit dejeuner</rdfs:comment>
+        <rdfs:label xml:lang="fr">Oeuf Simple</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#OeufSpaghetti -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#OeufSpaghetti">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <rdfs:comment xml:lang="fr">Oeuf plus spaghetti preparer en omelette consomer au petit dejeuner.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Oeuf Spaghetti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Oignon -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Oignon">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <rdfs:comment xml:lang="fr">De la famille des lilliacées bulbue utilisé comme légume ou condiments.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Oignon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Orange -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Orange">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Phosphore"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB1"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB2"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB5"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineK"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <rdfs:comment xml:lang="fr">Fruit de l&apos;orangier, arbre apartenant a la famille des rutacées ou des agrumesn en general de couleur orange et de la forme sphérique . Est compodée d&apos;une écorce orange et contient des pépins, une chaire juteuse, divisée de cloisons et de loges.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Orange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Ostéoporose -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Ostéoporose">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Exces"/>
+        <rdfs:comment xml:lang="fr">L&apos;ostéoporose est caractérisée par une perte de la résistance des os qui prédispose aux fractures. Dans la plupart des cas, les os se fragilisent en raison d&apos;un manque de calcium, de phosphore et d&apos;autres minéraux</rdfs:comment>
+        <rdfs:label xml:lang="fr">Ostéoporose</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Pamplemouse -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Pamplemouse">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB1"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB5"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <rdfs:comment xml:lang="fr">Fruit du Pamplemoussier (Citrus maxima, citrus grandis , ou citris decumana), de couleur jaune , rosé , ou verdatre, peu juteux et au gout parfois amer, piriforme, sphérique ou aplati, appartenat a la fammille des agrumes (citrus) dont il est le plus gros.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Pamplemouse</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Papaye -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Papaye">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <rdfs:comment xml:lang="fr">Fruit comestible du papayer, formé d&apos;une grosse baie allongée et arrondien à la pulpe de couleur orange, comestible, povant peser un kilogramme ou plus et renferment de nombreuses grines noire.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Papaye</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Pasteque -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Pasteque">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <rdfs:comment xml:lang="fr">Fruits de nom taxinomique citrullus lanatus , gros ,lisse et a chair rose ou rouge, verdatre ou blanche.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Pastèque</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Pellagre -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Pellagre">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Carrences"/>
+        <rdfs:comment xml:lang="fr">La pellagre est une maladie carentielle due à un déficit en vitamine PP ou niacine. C&apos;est un aspect de la malnutrition chez l&apos;adulte dans les pays pauvres.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Pellagre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Phosphore -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Phosphore">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Ostéoporose"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Rachitisme"/>
+        <rdfs:comment xml:lang="fr">Elément chimique de numero atomique 15 et de symbole P qui fait partis des non-métaux, mais aussi des pnictogènes.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Phosphore</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Piment -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Piment">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Fruits"/>
+        <rdfs:comment xml:lang="fr">De la famille des Solanacées, d&apos;un gout piquant et relevé, et qui s&apos;emploie comme condiment pour assaisonner les viandes ou comme legume.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Piment</rdfs:label>
+        <rdfs:label xml:lang="en">hot pepper</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#PoivreBlanc -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#PoivreBlanc">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <rdfs:comment xml:lang="fr">De l&apos;espece de pipernigrum (famille des piéracée ) qui se decline en poivres vert, noirt blanc ou gris selon le stade de la maturité.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Poivre Blanc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Poivron -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Poivron">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Legumes"/>
+        <rdfs:comment xml:lang="fr">De la famille des solanacées cultivée comme plante potagére consomés cru ou cuits, comme legumes.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Poivron</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Porc -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Porc">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeBlanche"/>
+        <rdfs:comment xml:lang="fr">Viande blanche. Chaire de cet animal mamifère omnivore très repandu dans la monde, au museau terminé par un groin. domestique  qu&apos;on engraisse pour le manger et qui a entre le chair et la peau une graisse qu&apos;on appelle lard. La femmelle est la Truie .</rdfs:comment>
+        <rdfs:label xml:lang="fr">Viande de Porc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Potassium -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Potassium">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Elément chimique de numéro atomique 19 et de symbole K. Metal alcalin mou, d&apos;aspect blanc metalique. il s&apos;oxyde rapidement au contact de l&apos;air et reagit violement avec l&apos;eau .</rdfs:comment>
+        <rdfs:label xml:lang="fr">Potassium</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Poulet -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Poulet">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeBlanche"/>
+        <rdfs:comment xml:lang="fr">Viande blanche, chair de cet aniamal volaille de l&apos;ordre des galiformes .</rdfs:comment>
+        <rdfs:label xml:lang="fr">Viande de poulet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#ProteineAnimale -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#ProteineAnimale">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Kwashiorkor"/>
+        <rdfs:comment xml:lang="fr">Macromolécule constituée d&apos;une ou plusieurs chaines d&apos;au moins cinquante acides animés appelées plypetides , auxquelle sont souvaent ajoutés des groupements divers et possedant d&apos;une structure tridimentionnelle.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Proteine Animale</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#ProteineVegetale -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#ProteineVegetale">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Kwashiorkor"/>
+        <rdfs:comment xml:lang="fr">Macromolécule constituée d&apos;une ou plusieurs chaines d&apos;au moins cinquante acides animés appelées plypetides , auxquelle sont souvaent ajoutés des groupements divers et possedant d&apos;une structure tridimentionnelle.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Proteine Végétale</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Rachitisme -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Rachitisme">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Carrences"/>
+        <rdfs:comment xml:lang="fr">Maladie assez grave des jeunes (jeunes enfant ou nourrissons) qui se manifeste princpalement par la deformation de la colone vertebrale et de la plupart des os, avec le gonflement des articulations, fractures et faiblesse musculaite par suite d&apos;une insuffisance de calcification des os et des cartillage</rdfs:comment>
+        <rdfs:label xml:lang="fr">Rachitisme</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime-Cetogene -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Regime-Cetogene">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Regime"/>
+        <Regime-Plus-Facile xml:lang="fr">Non</Regime-Plus-Facile>
+        <Regime-Plus-Saine xml:lang="fr">Non</Regime-Plus-Saine>
+        <rdfs:comment xml:lang="fr">Est un regime decrier il repose sur une consommation exclusive de graisses (lipides) pour apporter de l&apos;énergie, augmentant ainsi le risque cardiovasculaire.</rdfs:comment>
+        <rdfs:label xml:lang="en">Keto Diet</rdfs:label>
+        <rdfs:label xml:lang="fr">Regimie Cétogene</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime-Dash -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Regime-Dash">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Regime"/>
+        <Regime-Plus-Facile xml:lang="fr">Oui</Regime-Plus-Facile>
+        <Regime-Plus-Saine xml:lang="fr">Oui</Regime-Plus-Saine>
+        <rdfs:comment xml:lang="fr">Mis au point dans les années 1990 par les National Institutes of Health aux Etats-Unis, le régime DASH vise à lutter contre l&apos;hypertension artérielle notamment à travers la perte de poids pour les personnes obèses. Ses principes : plus de fruits et légumes, et moins de sel.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Regime Dash</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime-Flexitarien -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Regime-Flexitarien">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Regime"/>
+        <Regime-Plus-Facile xml:lang="fr">Oui</Regime-Plus-Facile>
+        <Regime-Plus-Saine xml:lang="fr">Oui</Regime-Plus-Saine>
+        <rdfs:comment xml:lang="fr">Le flexitarisme n&apos;est pas un régime au sens strict du terme, mais plutôt un mode alimentaire visant à consommer moins de viande rouge et de poisson, sans pour autant y renoncer totalement. Le régime flexitarien a une forte composante écologique. Il prône une alimentation de qualité et respectueuse de l&apos;environnement.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Regime Flexitarien</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime-Mediterraneen -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Regime-Mediterraneen">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Regime"/>
+        <Regime-Plus-Facile xml:lang="fr">Oui</Regime-Plus-Facile>
+        <Regime-Plus-Saine xml:lang="fr">Oui</Regime-Plus-Saine>
+        <rdfs:comment xml:lang="fr">Le régime méditerranéen est une alimentation axée sur des produits frais, de saison, et qui exclut les produits transformés, industriels. Il est riche en bon gras avec l&apos;utilisation de l&apos;huile d&apos;olive. Il se compose majoritairement de fruits, de légumes, de légumineuses et de céréales</rdfs:comment>
+        <rdfs:label xml:lang="fr">Regime Mediterraneen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime-Ornish -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Regime-Ornish">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Regime"/>
+        <Regime-Plus-Facile xml:lang="fr">Non</Regime-Plus-Facile>
+        <rdfs:comment xml:lang="fr">Le régime Ornish privilégie les protéines végétales, les glucides complexes et les graisses insaturées (les &quot;bonnes graisses&quot;) au détriment des protéines animales, des sucres raffinés, des graisses saturées et des acides gras trans (les &quot;mauvaises graisses&quot;).</rdfs:comment>
+        <rdfs:label xml:lang="fr">Regime Ornish</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime-Volumetrique -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Regime-Volumetrique">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Regime"/>
+        <Regime-Plus-Facile xml:lang="fr">Non</Regime-Plus-Facile>
+        <rdfs:comment xml:lang="fr">Le régime volumétrique est un régime hypocalorique consistant à privilégier les aliments à basse densité énergétique, c&apos;est-à-dire affichant peu de calories pour un gros volume. Idéal pour ceux qui ont un bon coup de fourchette ! La densité énergétique, c&apos;est le nombre de calories contenues dans 100 g.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Regime Volumetrique</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime-WeightWatchers -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Regime-WeightWatchers">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Regime"/>
+        <Regime-Plus-Facile xml:lang="fr">Oui</Regime-Plus-Facile>
+        <rdfs:comment xml:lang="fr">La méthode WW est un régime commercial qui met l&apos;accent sur trois aspects : une perte de poids durable, la pratique d&apos;une activité physique et l&apos;entraide avec les autres adhérents pour parvenir à ses objectifs. Le tout, sans se priver d&apos;un seul aliment.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Regime Weight Watchers</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Regime_Dukan -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Regime_Dukan">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Regime"/>
+        <Regime-Plus-Saine xml:lang="fr">Non</Regime-Plus-Saine>
+        <rdfs:comment xml:lang="fr">Regime restrictif, peu efficace et &quot;idiot&quot;. Dernier du classement, (39e place).</rdfs:comment>
+        <rdfs:label xml:lang="fr">Regime Dukan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Riz -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Riz">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Cereales"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Fer"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Phosphore"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB1"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB2"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <rdfs:comment xml:lang="fr">Céréale cultivé dans les terres humides et merécageuses des pays chaudes, graines farineux produi par cette plante.</rdfs:comment>
+        <rdfs:label xml:lang="en">Rice</rdfs:label>
+        <rdfs:label xml:lang="fr">Riz</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#RizParfume -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#RizParfume">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Huile"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Riz"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <rdfs:comment xml:lang="fr">Plat des riz cuits ayant un parfum agrable et permettant de donner l&apos;appettit</rdfs:comment>
+        <rdfs:label xml:lang="fr">Riz Parfumé</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#RizSauceTomatePoisson -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#RizSauceTomatePoisson">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#RizParfume"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#SauceTomatePoisson"/>
+        <rdfs:comment xml:lang="fr">Plat composé de riz cuits plus la sauce tomate preparer avec le poisson</rdfs:comment>
+        <rdfs:label xml:lang="fr">Riz + SauceTomate_Poisson</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Riz_Ndolé -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Riz_Ndolé">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#CENTRE"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#Ndolé"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#Riz_cuits"/>
+        <rdfs:comment xml:lang="fr">Plat de ndolé accompagné du riz cuits</rdfs:comment>
+        <rdfs:label xml:lang="fr">Riz + Ndolé</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Riz_SauceArachide -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Riz_SauceArachide">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#Riz_cuits"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#SauceArachide"/>
+        <rdfs:comment xml:lang="fr">Riz cuits accopagné avec la sauce arachide sauvent verser au dessus</rdfs:comment>
+        <rdfs:label xml:lang="fr">Riz + Sauce_Arachide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Riz_Sauté -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Riz_Sauté">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#poisson"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Oignon"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Riz"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <contient rdf:resource="http://localhost/ontologies/food#tomato"/>
+        <rdfs:comment xml:lang="fr">Riz preparer avec du tomate, est sauté c&apos;est a dire fait et melanger avec la tomate les epices le sel en un quanrité suffisante.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Riz Sauté</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Riz_cuits -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Riz_cuits">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#Ndolé"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#SauceArachide"/>
+        <Se_Mange_Avec rdf:resource="http://localhost/ontologies/food#Sauce_Tomate"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Riz"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <rdfs:comment xml:lang="fr">Preparation du riz avec l&apos;eau et un peu du seul et une infime quantité d&apos;huile</rdfs:comment>
+        <rdfs:label xml:lang="fr">Riz Cuits</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#SUD -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#SUD">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Region"/>
+        <rdfs:label xml:lang="fr">SUD</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#SUD-OUEST -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#SUD-OUEST">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Region"/>
+        <rdfs:label xml:lang="fr">SUD OUEST</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Sanglier -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Sanglier">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeNoire"/>
+        <rdfs:comment xml:lang="fr">viande noire , chair de cet animal d&apos;espece porcin sauvage vivant dans les forets et aux abords des marécages, tres repandu dans le monde.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sanglier</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#SauceArachide -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#SauceArachide">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Arachide"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Huile"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Oignon"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <contient rdf:resource="http://localhost/ontologies/food#tomato"/>
+        <rdfs:comment xml:lang="fr">Plat liquide fait a base de patte d&apos;arachide contenant des epices et ou accopagner avec le poisson ou la viande.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sauce Arachide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#SauceGombo -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#SauceGombo">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#NORD"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Ail"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Huile"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Oignon"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#gombo"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <contient rdf:resource="http://localhost/ontologies/food#tomato"/>
+        <rdfs:comment xml:lang="fr">Plat liquide specialement africaine fait a base du legume gombo tres gluant.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sauce Gombo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#SauceKenekene -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#SauceKenekene">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#EXTREME_NORD"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#NORD"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Ail"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Feuille_de_Kenekene"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Huile"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Oignon"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <rdfs:label xml:lang="fr">Sauce Kenekene</rdfs:label>
+        <rdfs:label xml:lang="en">Sauce gluante faite a partir des feuilles</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#SauceTomatePoisson -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#SauceTomatePoisson">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#Sauce_Tomate"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#poisson"/>
+        <rdfs:comment xml:lang="fr">Plat compsé de sauce fair a base de tomate preparer avec le poisson.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sauce_Tomate + Poisson</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#SauceTomateViande -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#SauceTomateViande">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#Sauce_Tomate"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#Taureau"/>
+        <rdfs:comment xml:lang="fr">Plat liquide fait de la sauce preparer avec la tomte et de la viande</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sauce_Tomate + Viande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Sauce_Tomate -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Sauce_Tomate">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Ail"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Huile"/>
+        <contient rdf:resource="http://localhost/ontologies/food#Oignon"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <contient rdf:resource="http://localhost/ontologies/food#sel"/>
+        <contient rdf:resource="http://localhost/ontologies/food#tomato"/>
+        <rdfs:comment xml:lang="fr">Sauce preprer genralement a base de tomte</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sauce Tomate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Scorbut -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Scorbut">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Maladie-des-Carrences"/>
+        <rdfs:comment xml:lang="fr">Le scorbut est une maladie due à une carence en vitamine C (acide ascorbique). Elle survient lorsque la consommation est inférieure à 10 mg par jour durant plusieurs mois, là où l&apos;apport conseillé est de 110 mg quotidiennement. Pour repère, 10 mg correspondent à 10 g de kiwi ou 20 g d&apos;orange</rdfs:comment>
+        <rdfs:label xml:lang="fr">Scorbut</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Selenium -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Selenium">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Corps simple metalloide de symbole Se et de numero atomique 34.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Selenium</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Sodium -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Sodium">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Exces-Cause rdf:resource="http://localhost/ontologies/food#Hypertension"/>
+        <rdfs:comment xml:lang="fr">Element chimique de numéro atomique 11 et de symbole Na qui fait parti des metaux alcalin</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sodium</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Soja -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Soja">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Legumes"/>
+        <rdfs:comment xml:lang="fr">Graine legume de la plante de la famille des febacées originaire de Papouasie-Nouvelle-Guinnée, consommées cuites ou fermentées comme aliment, LES GRAINES SONT TOXIQUES CRUES.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Soja</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Sucre -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Sucre">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ProduitSucres"/>
+        <Exces-Cause rdf:resource="http://localhost/ontologies/food#Diabète"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Calorie"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <rdfs:comment xml:lang="fr">Substance alimentaire de saveur douce et agréable le plus souvent sous forme cristallisée, extraite notament de la canne à sucre et de la betterave</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sucre</rdfs:label>
+        <rdfs:label xml:lang="en">Sugar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Taureau -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Taureau">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeRouge"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cholesterole"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineAnimale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Vitamine_B12"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <rdfs:comment xml:lang="fr">Viande rouge, chair de cet animal de l&apos;espece bauvine dont la femelle est la vache.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Viande de Taureau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Veau -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Veau">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeRouge"/>
+        <rdfs:comment>bovin de moins de 6 moins</rdfs:comment>
+        <rdfs:label xml:lang="fr">Viande de Veau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineA -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineA">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Vitamine indispensable au bon fonctionnement de l&apos;oeil, Joue un role important dans la bonne santé de la peau</rdfs:comment>
+        <rdfs:label xml:lang="fr">Vitamine A</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineB1 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineB1">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Beriberi"/>
+        <rdfs:comment xml:lang="fr">La thiamine est également appelée vitamine B1, elle est essentielle pour transformer les glucides en énergie dans l&apos;organisme. Elle ne peut pas être synthétisée par le corps humain, il est donc primordial de l&apos;apporter par l&apos;alimentation.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Vitamine B1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineB10 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineB10">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine B10</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineB11 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineB11">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine B11</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineB2 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineB2">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine B2</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineB3 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineB3">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Pellagre"/>
+        <rdfs:label xml:lang="fr">Vitamine B3</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineB4 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineB4">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine B4</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineB5 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineB5">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine B5</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineB6 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineB6">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine B6</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineB7 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineB7">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine B7</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineB8 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineB8">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine B8</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineB9 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineB9">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Anemie"/>
+        <rdfs:label xml:lang="fr">Vitamine B9</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineC -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineC">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Scorbut"/>
+        <rdfs:comment xml:lang="fr">Une vitamine hydrosoluble, sensible à la chaleur et a la lumiere, antyoxidant et cofacteur, jouant le role important dans le metabolisme de l&apos;etre humain.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Vitamine C</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineD -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineD">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Rachitisme"/>
+        <rdfs:comment xml:lang="fr">Vitamine Liposoluble qui est avant tout une hormone synthetisée dans l&apos;organisme humain a partir d&apos;un derive du cholestérol.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Vitamine D</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineE -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineE">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine E</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineK -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineK">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine K</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#VitamineP -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#VitamineP">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine P</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Vitamine_B12 -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Vitamine_B12">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:label xml:lang="fr">Vitamine B12</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Zinc -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Zinc">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <rdfs:comment xml:lang="fr">Element chimique de numéro atomique 29 et de symbole Zn</rdfs:comment>
+        <rdfs:label xml:lang="fr">Zinc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#calcium -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#calcium">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#SubstanceOrganique"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Ostéoporose"/>
+        <Carrence-Cause rdf:resource="http://localhost/ontologies/food#Rachitisme"/>
+        <rdfs:comment xml:lang="fr">Element chimique de numéro atomique  20 et de symbole Ca qui fait partie des métaux alcalino-terreux.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Calcium</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#cheval -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#cheval">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeRouge"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cholesterole"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineAnimale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB3"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Vitamine_B12"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <rdfs:comment xml:lang="fr">Viande roouge , chair de cet animal mammifère ongulé herbivore de la famille des equidés et du genre Equusn, au cou muni d&apos;une crinière.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Viande de Chéval</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#eau -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#eau">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <rdfs:comment xml:lang="fr">Liquide transparant, incolore, inodore et insipide à l&apos;etat pur de formule brute H2O</rdfs:comment>
+        <rdfs:label xml:lang="fr">Eau</rdfs:label>
+        <rdfs:label xml:lang="en">Water</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#gingembre -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#gingembre">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Legumes"/>
+        <rdfs:comment xml:lang="fr">Racine d&apos;une plante qui a un gout epicé et qui est employé en medecine.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Gingembre</rdfs:label>
+        <rdfs:label xml:lang="en">Ginger</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#gombo -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#gombo">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Potassium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB6"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <rdfs:comment xml:lang="fr">Légume comestible d&apos;une plante africaine à fleurs de la famille des Malvaceae.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Gombo</rdfs:label>
+        <rdfs:label xml:lang="en">Okra</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#okok -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#okok">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Plat"/>
+        <rdfs:label xml:lang="fr">Okok</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#poisson -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#poisson">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#ViandeBlanche"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Fer"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Iode"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Phosphore"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineAnimale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineA"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineD"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Vitamine_B12"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <rdfs:comment xml:lang="fr">Animal possédant un squelette, generalement ovipare (mais parfois ovovivipare ou vivipare) vivant dans l&apos;eau, et respirent généralament par des branchies (bien que certains especes aient des systemes aérienne comlementaire, comme les poumons des dipneustes ou le labyrinthe des anabantidés).</rdfs:comment>
+        <rdfs:label xml:lang="en">Fish</rdfs:label>
+        <rdfs:label xml:lang="fr">Poisson</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#sel -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#sel">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Sodium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Zinc"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#sel"/>
+        <rdfs:comment xml:lang="fr">Substance seche, friable, soluble dans l&apos;eau, que l&apos;on extrait de la mer de sourcees saléees de mines et dont on se sert surtout pour assaisonner les aliments</rdfs:comment>
+        <rdfs:label xml:lang="en">Salt</rdfs:label>
+        <rdfs:label xml:lang="fr">Sel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#sorgo -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#sorgo">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <rdfs:comment xml:lang="fr">Céréales de genre graminées dont il y a plusieurs variétés cultivées dans les zonnes chaudes.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sorgho</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#tomato -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#tomato">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Aliment"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Chlorure"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Cuivre"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#Magnesium"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#ProteineVegetale"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineB9"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineC"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#VitamineE"/>
+        <apporte rdf:resource="http://localhost/ontologies/food#calcium"/>
+        <contient rdf:resource="http://localhost/ontologies/food#eau"/>
+        <rdfs:comment xml:lang="fr">Fruit charnu généralement de couleur rouge vif, qui est l&apos;un des fruits les plus important dans l&apos;alimentation humaine et qui se consomme frais ou transformé. LA TOMATE EST CONCIDERER PAR LES BOTANISTE COMME UN FRUIT MAIS LES CULINAIRES COMME LEGUMES.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Tomate</rdfs:label>
+        <rdfs:label xml:lang="en">Tomato</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost/ontologies/food#Couscous_+_Sauce_Kenekene -->
+
+    <owl:NamedIndividual rdf:about="http://localhost/ontologies/food#Couscous_+_Sauce_Kenekene">
+        <rdf:type rdf:resource="http://localhost/ontologies/food#Repas"/>
+        <Consommer-Au rdf:resource="http://localhost/ontologies/food#NORD"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#CouscousMais"/>
+        <EstUnEnsemble rdf:resource="http://localhost/ontologies/food#SauceKenekene"/>
+        <rdfs:label xml:lang="fr">Couscous + Sauce_Kenekene</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://localhost/ontologies/food#Lipides">
+        <rdfs:comment xml:lang="fr">Molécule hydrophobe ou amphipatique qui constitue la matiere grasse des etres vivant.</rdfs:comment>
+        <rdfs:label xml:lang="en">Lipid</rdfs:label>
+        <rdfs:label xml:lang="fr">Lipides</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
