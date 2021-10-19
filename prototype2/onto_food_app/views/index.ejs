@@ -1,0 +1,61 @@
+
+<%- include('./header'); %>
+
+
+<!-- Product section-->
+<section class="py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="row gx-4 gx-lg-5 align-items-center">
+            <div class="col-md-6">
+                <h1 class="display-5 fw-bolder">OntoFood</h1>
+                <p class="lead">OntoFood est une plateforme de recommandations nutritives et de partage des cultures culinaires,
+                    venez partagez avec nous vos mets de vos pays et
+                    decouvrez ceux des autres!!! Ensemble autour d'une et
+                    une seule culture culinaire.</p>
+
+            </div>
+        </div>
+    </div>
+
+</section>
+<section id="services" class="section-bg">
+  <div class="container"> 
+    <div class="row">
+
+    <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-duration="1.4s">
+      <div class="box">
+        <div class="icon"><i class="ion-ios-analytics-outline" style="color: #ff689b;"></i></div>
+        <button class="btn btn-primary" id="btnAdd" style="float: right;">Ajouter</button> <!-- quand tu clique ici sa renvoir vers operation.ejs-->
+        <p class="description">Remplir la base de connaissance</p>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-duration="1.4s">
+      <div class="box">
+        <div class="icon"><i class="ion-ios-bookmarks-outline" style="color: #e9bf06;"></i></div>
+        <button class="btn btn-secondary" type="submit" id="btnMod" style="float: right;">Modifier</button><!-- quand tu clique ici sa renvoir vers result_page.ejs-->
+        <p class="description">Connecter vous et Modifier</p>
+      </div>
+    </div>
+    
+    <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+      <div class="box">
+        <div class="icon"><i class="ion-ios-paper-outline" style="color: #3fcdc7;"></i></div>
+        <button class="btn btn-info" type="submit" id="btnCon" style="float: right;">Consulter</button><!-- quand tu clique ici sa renvoir vers result_page.ejs-->
+        <p class="description">Visiter les information disponible dans les bases de connaissance</p>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+      <div class="box">
+        <div class="icon"><i class="ion-ios-speedometer-outline" style="color:#41cf2e;"></i></div>
+        <button class="btn btn-success" type="submit" id="btnReq" style="float: right;">Emettre une requète</button><!-- quand tu clique ici sa renvoir vers resquest_page.ejs-->
+        <p class="description">Saisissez des requete sur le OWL.</p>
+      </div>
+    </div>
+  </div>
+
+  </div>
+</section>
+
+<%- include('footer');%>

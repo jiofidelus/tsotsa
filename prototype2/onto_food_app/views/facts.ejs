@@ -1,0 +1,49 @@
+<table class="table  table-responsive colg-lg-4" style="margin-bottom: 15px;">
+    
+
+    <thead class="thead-inverse" style="margin-top: 2px;">
+        <tr>
+            <th>Faits</th>
+            <th>Auteurs</th>
+            <th>Status</th>
+            <th>Action</th> 
+        </tr>
+        </thead>
+        <tbody>
+
+
+        <% entity.getFacts().forEach(fact => {%>
+
+            <tr>
+
+                <td>
+
+                    <%= fact.fact %> </small> </p>
+
+                </td>
+
+                <td>
+
+                    unknown
+
+                </td>
+
+                <td>
+
+                    Waiting...
+
+                </td>
+
+
+                <td>
+
+                    <button class="btn btn-success btn-sm"> validate</button>
+
+                </td>
+
+            </tr>
+
+        <%})%>
+           
+        </tbody>
+</table>

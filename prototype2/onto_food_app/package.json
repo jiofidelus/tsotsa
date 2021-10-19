@@ -1,0 +1,26 @@
+{
+  "name": "onto-food-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@innotrade/enapso-graphdb-client": "^1.8.3",
+    "animate.css": "^4.1.1",
+    "cookie-parser": "~1.4.4",
+    "core.js": "^0.4.2",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "log4js": "^6.3.0",
+    "morgan": "~1.9.1",
+    "mustache": "^4.2.0",
+    "paginate": "^0.2.0",
+    "paginate-array": "^2.1.0",
+    "pagination-apis": "^1.0.8",
+    "solr-node": "^1.2.1",
+    "string-interpolation": "^1.2.5"
+  }
+}

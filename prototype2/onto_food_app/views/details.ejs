@@ -1,0 +1,30 @@
+<% let i =  0;%>
+<% view.data.forEach(dt => { %>
+
+        <% if (i%3 === 0) { %>
+
+            <% if (i === 0) { %>
+
+            <ul class="list-unstyled mb-0">
+
+                <a class="badge <%= view.color %> text-decoration-none link-light" style="font-size: 12px;;" href="/entity/get/<%=dt%>"><%= dt %> </a>
+
+                <% } else { %>
+
+            </ul>
+
+            <ul class="list-unstyled mb-0">
+
+                <a class="badge <%= view.color%>  text-decoration-none link-light" href="/entity/get/<%=dt%>"><%= dt %> </a>
+
+    <% } %>
+
+    <%} else { %>
+
+              <a class="badge <%=view.color%>  text-decoration-none link-light" href="/entity/get/<%=dt%>"><%= dt %> </a>
+
+              <%}%>
+
+                <% i++;})%>
+
+            </ul>

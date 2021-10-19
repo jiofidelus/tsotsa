@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+    <img id="searchbarimage" src="" />
+<head style="position: fixed;">
+    <title>OntoFood Search</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+    <!-- Bootstrap icons-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="/stylesheets/style.css" rel="stylesheet" />
+
+<style>
+    #header_search{
+
+    }
+
+</style>
+</head>
+<body>
+
+    <form method="get" action="/search/text/result">
+        <div id="topbar" style="padding: 15px;">
+            <p><h2 style="size: 100px;padding-left: 10px;">OntoFood</h2></p>
+            <div id="searchbar" type="text" style="margin-left: 25px;">
+                <input  id="searchbartext" type="text" value="<%= search_word %>" name="search_word"/>
+                <input type="number" value="1" name="page" hidden>
+                <button id="searchbarmic">
+                    <p class="user"><i class="fa fa-search"></i></p>
+                </button>
+            </div>
+        </div>
+        <div id="optionsbar" style="background-color: white">
+        </div>
+    </form>
+
+    <!-- Zone de resultat -->
+    <div id="searchresultsarea" style="margin-left: 220px; overflow: auto;">
+
+        <p id="searchresultsnumber">About <%= results.total %> results (0.56 seconds) </p>
+
+
+    <% results.data.forEach(result => { %>
+
+
+            <div class="searchresult">
+                <a href="/entity/get/<%=result.label%>"><h2 style="font-size: 19px; margin-bottom: 5px;"> <%= result.label.charAt(0).toUpperCase() + result.label.slice(1) %> </h2> </a>
+                <a class="text-success">https://ontofood.com</a> <button>▼</button>
+                <p style="font-size: 15px; margin-top: 3px;"> <%= result.comment %> </p>
+            </div>
+
+
+        <%})%>
+
+
+        <%if (results.total_pages > 1){%>
+
+
+        <nav aria-label="..." style="margin-top: 100px;" >
+
+            <ul class="pagination" >
+
+                <%if(results.pre_page >= 1){%>
+
+                    <li class="page-item ">
+                        <a class="page-link" href="/search/text/result?search_word=<%=search_word%>&page=<%=results.pre_page%>" tabindex="-1">Previous</a>
+                    </li>
+                <%}else{%>
+
+                <li class="page-item disabled ">
+                    <a class="page-link" href="/search/text/result?search_word=<%=search_word%>&page=<%=results.pre_page%>" tabindex="-1">Previous</a>
+                </li>
+
+                <%}%>
+
+            <%for(let i = 1; i <= results.total_pages;i++){%>
+
+
+                    <% if (i === results.page){%>
+
+                        <li class="page-item active">
+                            <a class="page-link" href="/search/text/result?search_word=<%=search_word%>&page=<%=i%>"><%= i %> <span class="sr-only">(current)</span></a>
+                        </li>
+
+                    <%}else{%>
+
+                    <li class="page-item ">
+                      <a class="page-link" href="/search/text/result?search_word=<%=search_word%>&page=<%=i%>"><%= i %></a>
+                    </li>
+
+               <%}%>
+
+                <%}%>
+
+
+                    <%if (results.page === results.total_pages ){%>
+
+                        <li class="page-item  disabled">
+                            <a class="page-link" href="#" >Next</a>
+                        </li>
+
+                    <%}else{%>
+
+                        <li class="page-item ">
+                            <a class="page-link" href="/search/text/result?search_word=<%=search_word%>&page=<%=results.next_page%>">Next</a>
+                        </li>
+
+                    <%}%>
+
+            </ul>
+
+            </form>
+        </nav>
+
+        <%}%>
+
+    </div>
+
+
+
+</body>
+
+
+</html>
