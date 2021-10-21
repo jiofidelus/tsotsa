@@ -1,0 +1,86 @@
+[
+  {
+    "name": "diet-assist",
+    "path": "/diet-assist",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/diet-assist.vue",
+    "chunkName": "pages/diet-assist",
+    "_name": "_194f8fd9"
+  },
+  {
+    "name": "enrich",
+    "path": "/enrich",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/enrich/index.vue",
+    "chunkName": "pages/enrich/index",
+    "_name": "_7026fc3e"
+  },
+  {
+    "name": "explore",
+    "path": "/explore",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/explore.vue",
+    "chunkName": "pages/explore",
+    "_name": "_6f868b0a"
+  },
+  {
+    "name": "meal-planner",
+    "path": "/meal-planner",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/meal-planner.vue",
+    "chunkName": "pages/meal-planner",
+    "_name": "_23465861"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/search.vue",
+    "chunkName": "pages/search",
+    "_name": "_78dfbd01"
+  },
+  {
+    "name": "sparql",
+    "path": "/sparql",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/sparql.vue",
+    "chunkName": "pages/sparql",
+    "_name": "_20268e7c"
+  },
+  {
+    "name": "validate",
+    "path": "/validate",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/validate.vue",
+    "chunkName": "pages/validate",
+    "_name": "_381fdd2f"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/auth/login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_0590e61b"
+  },
+  {
+    "name": "auth-register",
+    "path": "/auth/register",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/auth/register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_775ab8e1"
+  },
+  {
+    "name": "enrich-facts",
+    "path": "/enrich/facts",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/enrich/facts.vue",
+    "chunkName": "pages/enrich/facts",
+    "_name": "_adc823d4"
+  },
+  {
+    "name": "wiki-id",
+    "path": "/wiki/:id?",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/wiki/_id.vue",
+    "chunkName": "pages/wiki/_id",
+    "_name": "_1720ff18"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/hiro/Documents/Projects/onto-search-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_71f8cd89"
+  }
+]

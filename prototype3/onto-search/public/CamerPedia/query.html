@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CamerPedia--Query</title>
+    <link rel="stylesheet" href="css/query.css">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+
+
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="">
+        <ol>
+           <li><a href="#"> Home</a></li>
+           <li> <a href="explore.html"> Exploration</a></li>
+           <li  class="active"><a href="query.html">SPARQL Queries</a> </li> 
+           <li><i class="fa fa-user"> </i> Account</li>
+        </ol>
+
+    </header>
+
+    <div class="query"><h3>Ecrivez votre requete SPARQL</h3>
+        <textarea name="query" id="query_sparql" cols="100" rows="10">
+        
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX ingre: <http://www.semanticweb.org/tong/ontologies/2021/4/food#Contient_ingrédient>
+    
+    SELECT * WHERE {  ?sub ?pred ?obj .} 
+    LIMIT 10
+        </textarea>
+        <button id="execute">Executer</button>
+        </div>
+    
+        <div class="results">
+            <table id="tb_result">
+                <thead id="tb_head">
+    
+                </thead>
+            </table>
+        </div>
+        
+        <script src="js/jquery.min.js"></script>
+        <script src="js/query.js"></script>
+    
+</body>
+</html>

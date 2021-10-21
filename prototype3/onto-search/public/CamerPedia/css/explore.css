@@ -1,0 +1,432 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    width:100%;
+    height:80px;
+    box-shadow: -2px 5px 5px .5px rgba(0,0,0,.3);
+}
+header img{
+    width:10%;
+    height:90%;
+    margin-top:5px;
+}
+
+header ol{
+    position: absolute;
+margin-left:27%;
+top:30px;
+}
+header ol li{
+    list-style: none;
+    min-width: 170px;
+    float: left;
+    margin-left:30px;
+    color:grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    height:48px;
+    text-align: center;
+    transition: .5s;
+}
+
+header ol li a{
+    text-decoration: none;
+    color:gray;
+   
+}
+
+header ol li:hover{
+
+    border-bottom: 2px solid rgba(6, 72, 126, 0.8);
+
+}
+
+header ol li:hover a{
+    color:rgba(6, 72, 126, 0.8);
+
+}
+header ol li.active a{
+    color:rgba(6, 72, 126, 0.8);
+}
+header ol li.active{
+  border-bottom: 2px solid rgba(6, 72, 126, 0.8);
+}
+header ol li i{
+transform: scale(2) translateX(-5px);
+}
+header ol li:last-child{
+    margin-left:130px;
+}
+
+.bloc_principal{
+    width:100%;
+    height:490px;
+    margin-top:20px;
+}
+.bloc_principal div{
+    float: left;
+}
+.bloc_principal .path_left{
+width:30%;
+height:100%;
+background-color: rgb(243, 244, 245,.5);
+border-right:2px solid rgb(215, 215, 216,.5)
+}
+
+.bloc_principal .path_right{
+    width:69%;
+    height:100%;
+    }
+
+    .bloc_principal .path_right .bloc1{
+    width:100%;
+    height:65%;
+    }
+
+
+    .bloc_principal .path_left .head{
+        height:5%;
+        width:100%;
+        background-color: rgba(6, 72, 126, 0.2);
+        color:rgba(6, 72, 126, 0.8);
+        font-weight: bolder;
+        padding-top: 5px;
+    }
+
+    .bloc_principal .path_right .bloc2 .head{
+        height:15%;
+        width:100%;
+        background-color: rgba(6, 72, 126, 0.2);
+        color:rgba(6, 72, 126, 0.8);
+        font-weight: bolder;
+        padding-top: 5px;
+    }
+
+    .bloc_principal .path_right .bloc1 .head{
+        height:8%;
+        width:10%;
+        background-color: rgba(6, 72, 126, 0.2);
+        color:rgba(6, 72, 126, 0.8);
+        font-weight: bolder;
+        padding-top: 5px;
+        border-radius: 0px 20px 0 0 ;
+    }
+    .bloc_principal .path_left .corps{
+        height:95%;
+        width:95%;
+        padding:10px;
+        overflow: auto;
+    }
+
+
+    .bloc_principal .path_left .corps ul{
+        margin-left: 20px;
+        list-style: circle;
+        
+    }
+    .bloc_principal .path_left .corps ul li{
+        cursor: pointer;
+    }
+    .bloc_principal .path_left .corps input{
+        border:none;
+        cursor:pointer;
+        font-size:17px;
+    }
+    .bloc_principal .path_left .corps ul li:hover{
+        color: rgb(47, 113, 189);
+    }
+    
+    .bloc_principal .path_left .corps ul li ul{
+        margin-left:20px;
+    }
+
+
+    /* --------------------------------------------------------
+    -----------------------------------------------------------
+    ---------------------PARTIE GRAPHE-------------------------
+    -----------------------------------------------------------
+    -----------------------------------------------------------
+    */
+
+    .bloc_principal .path_right .bloc1 .corps{
+        height:91%;
+        width:99.7%;
+        border:1px solid rgba(6, 72, 126, 0.2);
+        border-radius: 0 30px 0 0;
+        overflow: auto;
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li{
+        list-style: none;
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li p{
+        list-style: none;
+        padding:20px;
+        border:2px solid rgb(47, 113, 189);
+        width: 130px;
+        border-radius: 50%;
+        text-align: center;
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li#base{
+
+        margin-top: 130px;
+        margin-left:100px;
+    }
+    .bloc_principal .path_right .bloc1 .corps ul li ul li{
+        margin-left: 200px;
+        margin-top:50px;
+    }
+
+
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv10 p{
+        background-color: rgb(172, 199, 230);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv21 p{
+        background-color: rgb(206, 220, 236);
+
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv32 p{
+        background-color: rgb(229, 233, 238);
+
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv43 p{
+        background-color: rgb(215, 233, 238);
+
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv54 p{
+        background-color: rgb(171, 220, 235);
+
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv65 p{
+        background-color: rgb(111, 191, 216);
+
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv76 p{
+        background-color: rgb(189, 217, 224);
+
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv87 p{
+        background-color: rgb(225, 233, 235);
+
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv98 p{
+        background-color: rgb(221, 238, 236);
+
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv109 p{
+        background-color: rgb(182, 235, 228);
+
+    }
+/*
+Partie des flèches
+*/
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv10:before{
+        content:'';
+        position: absolute;
+        width:90px;
+        height:2px;
+        background-color: rgb(47, 113, 189);
+        transform: translate(-90px,45px) rotate(-20deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv10:after{
+        content:'';
+        position: absolute;
+        width:0;
+        height:0;
+        border-right:7px solid transparent;
+        border-top:7px solid transparent;
+        border-bottom:7px solid transparent;
+        border-left:7px solid rgb(47, 113, 189);
+        transform: translate(-5px,-40px) rotate(-10deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv21:before{
+        content:'';
+        position: absolute;
+        width:90px;
+        height:2px;
+        background-color: rgb(47, 113, 189);
+        transform: translate(-90px,20px) rotate(20deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv21:after{
+        content:'';
+        position: absolute;
+        width:0;
+        height:0;
+        border-right:7px solid transparent;
+        border-top:7px solid transparent;
+        border-bottom:7px solid transparent;
+        border-left:7px solid rgb(47, 113, 189);
+        transform: translate(-5px,-32px) rotate(10deg);
+    }
+
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv32:before{
+        content:'';
+        position: absolute;
+        width:153px;
+        height:2px;
+        background-color: rgb(47, 113, 189);
+        transform: translate(-115px,-50px) rotate(50deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv32:after{
+        content:'';
+        position: absolute;
+        width:0;
+        height:0;
+        border-right:7px solid transparent;
+        border-top:7px solid transparent;
+        border-bottom:7px solid transparent;
+        border-left:7px solid rgb(47, 113, 189);
+        transform: translate(7px,-55px) rotate(50deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv43:before{
+        content:'';
+        position: absolute;
+        width:250px;
+        height:2px;
+        background-color: rgb(47, 113, 189);
+        transform: translate(-163px,-105px) rotate(67deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv43:after{
+        content:'';
+        position: absolute;
+        width:0;
+        height:0;
+        border-right:7px solid transparent;
+        border-top:7px solid transparent;
+        border-bottom:7px solid transparent;
+        border-left:7px solid rgb(47, 113, 189);
+        transform: translate(7px,-55px) rotate(50deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv54:before{
+        content:'';
+        position: absolute;
+        width:352px;
+        height:2px;
+        background-color: rgb(47, 113, 189);
+        transform: translate(-215px,-162px) rotate(74deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv54:after{
+        content:'';
+        position: absolute;
+        width:0;
+        height:0;
+        border-right:7px solid transparent;
+        border-top:7px solid transparent;
+        border-bottom:7px solid transparent;
+        border-left:7px solid rgb(47, 113, 189);
+        transform: translate(7px,-55px) rotate(50deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv65:before{
+        content:'';
+        position: absolute;
+        width:427px;
+        height:2px;
+        background-color: rgb(47, 113, 189);
+        transform: translate(-247px,-202px) rotate(78deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv65:after{
+        content:'';
+        position: absolute;
+        width:0;
+        height:0;
+        border-right:7px solid transparent;
+        border-top:7px solid transparent;
+        border-bottom:7px solid transparent;
+        border-left:7px solid rgb(47, 113, 189);
+        transform: translate(7px,-55px) rotate(50deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv76:before{
+        content:'';
+        position: absolute;
+        width:484px;
+        height:2px;
+        background-color: rgb(47, 113, 189);
+        transform: translate(-271px,-232px) rotate(81deg);
+    }
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul li#niv76:after{
+        content:'';
+        position: absolute;
+        width:0;
+        height:0;
+        border-right:7px solid transparent;
+        border-top:7px solid transparent;
+        border-bottom:7px solid transparent;
+        border-left:7px solid rgb(47, 113, 189);
+        transform: translate(6px,-55px) rotate(50deg);
+    }
+
+
+
+    .bloc_principal .path_right .bloc1 .corps ul li ul{
+transform: translateY(-170px);
+    }
+
+.bloc_principal .path_right .bloc2{
+    width:100%;
+    height:35%;
+    border-top:2px solid rgb(215, 215, 216,.5)
+
+}
+
+
+
+
+.bloc_principal .path_right .bloc2 .corps{
+    height:92%;
+    width:100%;
+    overflow: auto;
+}
+
+
+.bloc_principal .path_right .bloc2 .corps table{
+    width: 100%;
+    height: 100%;
+}
+
+.bloc_principal .path_right .bloc2 .corps table tr td{
+    border:1px solid rgb(236, 235, 235);
+    height:15px;
+    font-size: 18px;
+    color:grey;
+    min-width: 200px;
+    border-radius: 10px;
+}
+
+.bloc_principal .path_right .bloc2 .corps table tr td#subclass{
+    color:rgb(47, 113, 189);
+}
+
+.bloc_principal .path_right .bloc2 .corps table tr.line td{
+    background-color: rgba(221, 222, 223, 0.3);
+}
+
+
+

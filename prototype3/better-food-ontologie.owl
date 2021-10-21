@@ -1,0 +1,1824 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#"
+     xml:base="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:untitled-ontology-17="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#image -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#image"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#can_be_eaten_as -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#can_be_eaten_as">
+        <owl:equivalentProperty rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#isServedAs"/>
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#isServedAs"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meal"/>
+        <rdfs:label xml:lang="en">Can be eaten as</rdfs:label>
+        <rdfs:label xml:lang="fr">Peut se manger comme</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#can_be_use_to_cook -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#can_be_use_to_cook">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#has_ingredients"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#is_prepared_with"/>
+        <rdfs:label xml:lang="en">can be used to cook</rdfs:label>
+        <rdfs:label xml:lang="fr">est utilisé pour cuisiner</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#contains -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#contains">
+        <rdfs:label xml:lang="en">Contains</rdfs:label>
+        <rdfs:label xml:lang="fr">Contient</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#dishHasRecipes -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#dishHasRecipes">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipeIsForDish"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipe"/>
+        <rdfs:comment>nous donne les differentes recettes pour un plat</rdfs:comment>
+        <rdfs:label>a comme recettes</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#eaten_at -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#eaten_at">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meal"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Period"/>
+        <rdfs:label xml:lang="en">Is eaten at</rdfs:label>
+        <rdfs:label xml:lang="fr">Se mache pendant</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#est_originaire_de -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#est_originaire_de">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region"/>
+        <rdfs:label xml:lang="fr">est originaire de</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#est_recommandé_pour -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#est_recommandé_pour">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Ceremonie"/>
+        <rdfs:label xml:lang="fr">est recommandé pour</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#has_ingredients -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#has_ingredients">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#contains"/>
+        <rdfs:label xml:lang="en">Has ingredients</rdfs:label>
+        <rdfs:label xml:lang="fr">Possede les ingredients</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#has_main_ingredient -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#has_main_ingredient">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#contains"/>
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#has_ingredients"/>
+        <rdfs:label xml:lang="fr">A comme ingredient principal</rdfs:label>
+        <rdfs:label xml:lang="en">Has main ingredient</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#has_preparation_method -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#has_preparation_method">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Preparation"/>
+        <rdfs:label xml:lang="en">Is prepared by</rdfs:label>
+        <rdfs:label xml:lang="fr">Se cuisine par</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#isServedAs -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#isServedAs">
+        <rdfs:label xml:lang="fr">Est servi comme</rdfs:label>
+        <rdfs:label xml:lang="en">Is served as</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#isUsedInRecipe -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#isUsedInRecipe">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipesHasIngredient"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FoodSource"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipe"/>
+        <rdfs:comment>definie les differentes recette dans la quelle une source de nourriture existe</rdfs:comment>
+        <rdfs:label>est utilisé dans les recettes</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#is_eaten_with -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#is_eaten_with">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:label xml:lang="en">Can be eaten with</rdfs:label>
+        <rdfs:label xml:lang="fr">Peut se manger avec</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#is_prepared_with -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#is_prepared_with">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#contains"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FoodSource"/>
+        <rdfs:label xml:lang="fr">Est cuisiné avec</rdfs:label>
+        <rdfs:label xml:lang="en">Is cooked with</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipeIsForDish -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipeIsForDish">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipe"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:comment>est une recette pour un plat</rdfs:comment>
+        <rdfs:label>Recette pour</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipesHasIngredient -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipesHasIngredient">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipe"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FoodSource"/>
+        <rdfs:comment>decris les ingredient pour une recette (avec leur quantité)</rdfs:comment>
+        <rdfs:label>Ingredient pour recette</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#local_name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#local_name"/>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#proteins -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#proteins">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FoodSource"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipeDetail -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipeDetail">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipe"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Detail de la recette</rdfs:comment>
+        <rdfs:label>Detail de la recette</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipeForNumberOfPerson -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipeForNumberOfPerson">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipe"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+        <rdfs:comment>defini le nombre de personnes qui peuvent etre servi pas une recette</rdfs:comment>
+        <rdfs:label>Peut servir combien de personne</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipeItemQuantity -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipeItemQuantity">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipe"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>defini la quantité de chaque ingredient d&apos;une recette</rdfs:comment>
+        <rdfs:label>Quantité par ingredient</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipekCal -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipekCal">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipe"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+        <rdfs:comment>donne une valeur approximation du nombre de kilo calorie  (kcal) que contien une recette</rdfs:comment>
+        <rdfs:label>Calories (kcal)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#AnimalSource -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#AnimalSource">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FoodSource"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <image>https://article.innovadatabase.com/articleimgs/article_images/636504839478506279animalproteins.jpg</image>
+        <rdfs:comment>Nourriture provenant essentiellement des animaux comme la viande, les oeufs et les produits laitiers</rdfs:comment>
+        <rdfs:label xml:lang="fr">Source de nourriture animal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>https://storage.googleapis.com/projecthopeandfairness-org/uploads/Food210.JPG</image>
+        <image>https://www.papillesetpupilles.fr/wp-content/uploads/2011/04/Manioc-bouilli-%C2%A9avlxyz-licence-CC-BY-NC-SA-2.0.jpg</image>
+        <rdfs:label xml:lang="en">Basic dish</rdfs:label>
+        <rdfs:label xml:lang="fr">Plat de base</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Berries -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Berries">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fruit"/>
+        <image>https://www.notretemps.com/cache/com_zoo_images/04/fruits-rouges_0ba3651bcaf78a7e26bf736a6072be81.jpg</image>
+        <rdfs:comment>Fruit charnu, indéhiscent, qui contient directement les graines, tel que la groseille, le raisin ou la myrtille.</rdfs:comment>
+        <rdfs:label>Baies</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Brassica -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Brassica">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Vegetable"/>
+        <image>https://wordpress.potagercity.fr/wp-content/uploads/2019/02/article-savez-vous-manger-les-choux.jpg</image>
+        <rdfs:comment>Le genre Brassica comprend toute une foule de légumes de consommation courante: le chou, le bok choy, le navet, le brocoli, la moutarde et beaucoup d&apos;autres encore. Les Brassicacées ont 4 pétales, ce qui est rare dans le monde végétal.</rdfs:comment>
+        <rdfs:label>Brassica</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Bread -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Bread">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>https://static.toiimg.com/thumb/msid-75010074/75010074.jpg</image>
+        <image>https://tastesbetterfromscratch.com/wp-content/uploads/2020/03/Bread-Recipe-5-2-500x500.jpg</image>
+        <rdfs:label xml:lang="en">Dishes based from bread</rdfs:label>
+        <rdfs:label xml:lang="fr">Plat a base de pain</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Cakes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Cakes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dessert"/>
+        <image>https://www.notretemps.com/images/articles/cuisine/recettes/gateau-pommes.jpg</image>
+        <rdfs:label xml:lang="fr">Gateaux</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Cereals -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Cereals">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <image>https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/1/2/8/1285d84c76_50158851_cereales-completes-agfoto-adobe-stock.jpg</image>
+        <rdfs:comment>Une céréale est une plante cultivée principalement pour ses graines utilisées pour l&apos;alimentation humaine et animale. Il s&apos;agit quasi exclusivement de plantes de la famille des graminées.</rdfs:comment>
+        <rdfs:label>Cereale</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Ceremonie -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Ceremonie">
+        <rdfs:label xml:lang="fr">Cérémonie</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Citrus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Citrus">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fruit"/>
+        <image>https://editionsdelarose.com/wp-content/uploads/2017/12/les-agrumes_620x400.jpg</image>
+        <rdfs:comment>Agrumes est un terme collectif désignant d&apos;une part les arbres qui portent des fruits tels que les oranges, les mandarines, les citrons, les pomelos, les kumquats, c&apos;est-à-dire essentiellement les arbres appartenant au genre Citrus, et d&apos;autre part les fruits de ces mêmes arbres.</rdfs:comment>
+        <rdfs:label>Agrumes</rdfs:label>
+        <rdfs:label>Citrus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Coffee -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Coffee">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Cereals"/>
+        <image>https://cdn.cancercenter.com/-/media/ctca/images/others/blogs/2019/01-january/01-blog-coffee-l.jpg</image>
+        <rdfs:comment>Graine du caféier.</rdfs:comment>
+        <rdfs:label>Café</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Condiments -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Condiments">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>https://www.foodbusinessnews.net/ext/resources/2020/9/Healthy-condiments_lead.png</image>
+        <rdfs:label xml:lang="fr">Condiments (Les epices)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Cookies -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Cookies">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dessert"/>
+        <image>https://images-gmi-pmc.edge-generalmills.com/087d17eb-500e-4b26-abd1-4f9ffa96a2c6.jpg</image>
+        <rdfs:label>Les cookies</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Curry -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Curry">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dessert -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dessert">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>https://images.eatsmarter.com/sites/default/files/styles/max_size/public/moroccan-date-cheesecake-582728.jpg</image>
+        <image>https://www.demandafrica.com/wp-content/uploads/2017/11/Puffpuff.jpg</image>
+        <rdfs:comment>Dessert</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish">
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Preparation"/>
+        <image>https://flavorverse.com/wp-content/uploads/2021/01/African-Food.jpg</image>
+        <rdfs:comment>Un plat est cuisiné avec au moins une source de nouritture, un plat peut se manger en differente periode de la journée, alors la on parle de repas, nous connaissons 3 majeur repas:
+Le petit dejeuner
+Le dejeuner
+Le dinner</rdfs:comment>
+        <rdfs:label xml:lang="en">Dish</rdfs:label>
+        <rdfs:label xml:lang="fr">Plat</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Doughs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Doughs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Bread"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Drinks -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Drinks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>https://villamaasai.fr/wp-content/uploads/2020/02/Chapman-drink-cocktail-africain.jpg</image>
+        <image>https://www.stopblablacam.com/media/k2/items/cache/2cf1f8d39e0698fbf0c2be15e9fa8cfb_M.jpg</image>
+        <rdfs:label xml:lang="fr">Boisson et Cocktail</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Drupes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Drupes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fruit"/>
+        <image>https://static.educalingo.com/img/fr/800/drupe.jpg</image>
+        <rdfs:comment>Fruit indéhiscent, charnu, à noyau (ex. amande, pêche, cerise…).</rdfs:comment>
+        <rdfs:label>Drupe</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Egg -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Egg">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#AnimalSource"/>
+        <image>https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg</image>
+        <rdfs:comment>Les oeufs sont pondu par la female de plusieur especes d&apos;animaux differents, y compris les oiseaux, les reptiles, certaines mamifere et les poisson.
+Et les oeufs sont par les millions d&apos;humains depuis les millier d&apos;années.
+Les oeufs consiste d&apos;une couche protectrices, albumen (le jaune d&apos;oeuf) et le vitellus (le blanc d&apos;oeuf), contenu entre plusieur membranes</rdfs:comment>
+        <rdfs:label>Oeufs</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fish -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fish">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Seafood"/>
+        <image>https://ichef.bbci.co.uk/news/640/cpsprodpb/7A1C/production/_116406213_937652b1-d863-414a-bc2b-15ec579ccdf3.jpg</image>
+        <image>https://www.notretemps.com/cache/com_zoo_images/c8/poisson-dorades2_5f1f0daa4c697300ab57c274aaa3a4c3.jpg</image>
+        <rdfs:label>Poisson</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Flowers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Flowers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <image>https://img-3.journaldesfemmes.fr/-U20H_zwHfE8S055NI-lemDGqdA=/1500x/smart/21b8160e54b54852b524f3af60d5b59d/ccmcms-jdf/16171797.jpg</image>
+        <rdfs:label>Légumes fleur</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FoodSource -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FoodSource">
+        <image>https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg</image>
+        <rdfs:comment>C&apos;est la base de toute nourriture, l&apos;origine de toute les nourriture que nous connaissons</rdfs:comment>
+        <rdfs:label xml:lang="fr">Source de nourriture</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fruit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fruit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <image>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/assortment-of-colorful-ripe-tropical-fruits-top-royalty-free-image-995518546-1564092355.jpg</image>
+        <image>https://i.pinimg.com/originals/c2/2e/32/c22e324ceb7a7f5b1fc69152dd68d85b.jpg</image>
+        <rdfs:comment>le fruit est toujours le produit d&apos;une fleur. C&apos;est l&apos;organe comestible des plantes à fleurs qui succède à la fleur et protège les graines, noyaux ou pépins</rdfs:comment>
+        <rdfs:label>Fruit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FruitVegetable -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FruitVegetable">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fruit"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Vegetable"/>
+        <image>https://cdn.futura-sciences.com/buildsv6/images/wide1920/b/8/a/b8a7d459d3_127369_difference-fruit-legume.jpg</image>
+        <rdfs:comment>Le fruit est l&apos;organe comestible des plantes à fleurs, qui contient les graines et succède à la fleur. Le légume est la partie d&apos;une plante potagère qui se consomme. Ce peut être le fruit.
+Donc c&apos;est la partie d&apos;un plante potagère qui est un fruit</rdfs:comment>
+        <rdfs:label>Fruit Legume</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fungus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fungus">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <image>https://file1.science-et-vie.com/var/scienceetvie/storage/images/9/7/97648/le-champignon-est-fruit-legume.jpeg</image>
+        <rdfs:comment>Les champignons ne sont pas des légumes, bien qu&apos;ils soient cuisinés et consommés comme tels. En effet, les champignons se développent sans chlorophylle, contrairement aux autres végétaux qui ne peuvent pousser sans air, ni lumière.</rdfs:comment>
+        <rdfs:label>Champignon</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Gourds -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Gourds">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Vegetable"/>
+        <image>https://previews.123rf.com/images/csstockimages/csstockimages1710/csstockimages171004017/87896963-gourde-de-l%C3%A9gumes-fra%C3%AEcheur-ou-dudhi.jpg</image>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Courge_encore_verte.jpg/290px-Courge_encore_verte.jpg</image>
+        <rdfs:comment>La calebasse, ou gourde, ou louche est une espèce de plantes herbacées annuelles de la famille des Cucurbitacées, cultivée comme plante potagère pour son fruit caractéristique également dénommé calebasse. Ce fruit est utilisé à l&apos;état sec depuis des temps préhistoriques dans toutes les régions du monde pour fabriquer divers objets (ex. : récipient portatif pour boisson), ou plus rarement consommé à l&apos;état frais comme légume.</rdfs:comment>
+        <rdfs:label>Calebasse</rdfs:label>
+        <rdfs:label>Gourde</rdfs:label>
+        <rdfs:label>Louche</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Greens -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Greens">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Vegetable"/>
+        <image>https://persianmama.com/wp-content/uploads/2014/10/Green-Fava.jpg</image>
+        <image>https://post.healthline.com/wp-content/uploads/2020/08/legumes-colors-1-732x549.jpg</image>
+        <rdfs:label>Graines</rdfs:label>
+        <rdfs:label>Legume graine</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Leaves -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Leaves">
+        <owl:equivalentClass rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Legumes"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <image>https://st3.depositphotos.com/1009329/14071/i/1600/depositphotos_140718404-stock-photo-edible-mustard-leaves.jpg</image>
+        <image>https://www.adiac-congo.com/sites/default/files/coco_2.jpg</image>
+        <rdfs:comment>Nourriture qui provient des feuilles des plantes et des arbres</rdfs:comment>
+        <rdfs:label>Feuilles</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Legumes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Legumes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <rdfs:label>Légumes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meal">
+        <rdfs:comment>Le repas est un ensemble plats qui peuvent se manger en une periode de la journée, nous connaissons 3 majeur repas:
+Le petit dejeuner
+Le dejeuner
+Le dinner</rdfs:comment>
+        <rdfs:label>Repas</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meat -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meat">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#AnimalSource"/>
+        <image>https://cdn.britannica.com/72/143572-050-87DF1262/pork-butcher-shop-Hong-Kong.jpg</image>
+        <rdfs:comment>Chair des mammifères et des oiseaux servant pour la nourriture (surtout animaux de boucherie)</rdfs:comment>
+        <rdfs:label>Viandes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meatball -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meatball">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>https://i.pinimg.com/originals/98/ea/5b/98ea5b8bf468b05acd7b0aed12283a72.jpg</image>
+        <image>https://vudaf.com/wp-content/uploads/2020/07/Mafe%CC%81-X.jpg</image>
+        <rdfs:label xml:lang="fr">Plat a base de boullet de viande</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Milk -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Milk">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#AnimalSource"/>
+        <image>https://www.gannett-cdn.com/-mm-/4e57f417ab56d8147a59ed2deb8f3a4b0b446da3/c=0-108-2120-1306/local/-/media/2017/02/28/USATODAY/USATODAY/636238697589955973-GettyImages-479352566.jpg</image>
+        <rdfs:comment>Liquide blanc, opaque, très nutritif, sécrété par les glandes mammaires des femmes, des femelles de mammifères.</rdfs:comment>
+        <rdfs:label>Lait</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Muffins -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Muffins">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dessert"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Oil -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Oil">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <image>http://www.infoshuile.com/wp-content/uploads/2016/01/bonne-huile-de-canola.jpg</image>
+        <rdfs:comment>Substance grasse, onctueuse et inflammable, d&apos;origine végétale, animale ou minérale, généralement liquide au-dessus de 10ocentigrade, se figeant ou se solidifiant à une température inférieure, employée dans différents usages.</rdfs:comment>
+        <rdfs:label>Huile</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pasta -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pasta">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>https://images.immediate.co.uk/production/volatile/sites/30/2020/08/spaghetti-puttanesca_1-1ce4e81.jpg</image>
+        <rdfs:label>Plat a base de pates</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pepo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pepo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FruitVegetable"/>
+        <image>https://img.cuisineaz.com/610x610/2019/09/19/i150152-courge-et-courgette.jpeg</image>
+        <rdfs:comment>La courgette appartient à la famille des cucurbitacées. C&apos;est une plante potagère qui pousse au sol ; elle possède de grandes feuilles. Elle a des fleurs de couleur jaune, qui donnent le fruit appelé également courgette. On la cultive en potager ou en serre, selon le mode de production.
+
+Pied de courgette en fleurs.
+
+Courgettes jaunes.
+La courgette est un fruit de forme allongée ou ronde, et de couleur verte ou jaune. Elle a l&apos;allure d&apos;un grand concombre. Bien qu&apos;il s&apos;agisse d&apos;un fruit au sens botanique du terme parce qu&apos;elle contient les graines de la plante, elle est communément utilisée comme un légume.
+
+Un pied produit des fleurs mâles stériles et femelles fructifères sur une période de plusieurs mois.</rdfs:comment>
+        <rdfs:label>Courgette</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Period -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Period">
+        <rdfs:label>Period de la journée</rdfs:label>
+        <rdfs:label>definie les different heures de la journée</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pies -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pies">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dessert"/>
+        <rdfs:label>Les tartes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pizza -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pizza">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg</image>
+        <rdfs:label>Pizza</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FoodSource"/>
+        <image>https://i0.wp.com/plantbasednews.org/wp-content/uploads/2021/04/plant-based-foods-iron.jpg</image>
+        <rdfs:comment>De la nouritture qui provient essentielement des plantes, des arbres et des racines</rdfs:comment>
+        <rdfs:label xml:lang="fr">Nourriture provenant des plantes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pods -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pods">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Vegetable"/>
+        <image>https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/e/8/d/e8d6726b38_50079610_ail-inra.jpg</image>
+        <image>https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_387,q_auto,w_650/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/tag_photos/original/9031/veloute-de-cosses-de-petits-pois_-01.jpg</image>
+        <rdfs:comment>La gousse, surnommée par les premiers botanistes légume, est un fruit à péricarpe sec à double déhiscence (suturale et dorsale), les deux fentes isolant deux valves qui portent chacune une rangée de graines.</rdfs:comment>
+        <rdfs:label>Gousse</rdfs:label>
+        <rdfs:label>Legume Gousse</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pomes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pomes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fruit"/>
+        <image>https://jeretiens.net/wp-content/uploads/2016/01/fruits_%C3%A0_p%C3%A9pins_pomme_poire_figue_n%C3%A8fle_coing_corme.jpg</image>
+        <image>https://www.aprifel.com/wp-content/uploads/2020/08/l%C3%A9gumes-vert-%C3%A0-feuille-resize-1.jpg</image>
+        <rdfs:comment>Ce sont des fruit qui contiennent des graines comme la pomme, les oranges, le citron etc.</rdfs:comment>
+        <rdfs:label>Fruits à pépins</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Poultry -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Poultry">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meat"/>
+        <image>https://img-3.journaldesfemmes.fr/G5gSARARCFnGYvIEA9SE0rJdoFY=/1500x/smart/04e0cb38f29d48fb8e88390bba19304c/ccmcms-jdf/10661697.jpg</image>
+        <rdfs:comment>Ensemble des oiseaux qu&apos;on élève (aviculture) pour leurs œufs ou leur chair.</rdfs:comment>
+        <rdfs:label>Volaille (Viande des oiseaux)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Preparation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Preparation">
+        <rdfs:comment>Ce sont les differentes methodes que nous pouvons utiliser pour transformer des aliment en plat mangeable ex: La patiserie</rdfs:comment>
+        <rdfs:label>Methode de cuisson</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PuffPuff -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PuffPuff">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dessert"/>
+        <image>https://data.thefeedfeed.com/static/2020/09/22/16007983695f6a3ea1919f9.jpg</image>
+        <image>https://i0.wp.com/www.cookingwithseki.com/wp-content/uploads/2017/09/Watermarked2017-09-27-2008.jpg?fit=640%2C640&amp;ssl=1</image>
+        <rdfs:label>Les beignets</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#RedMeat -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#RedMeat">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meat"/>
+        <image>https://media.nouvelobs.com/referentiel/1377x667/14503485.jpg</image>
+        <rdfs:comment>Le grand public et les livres de cuisine distinguent généralement les viandes rouges (boeuf, agneau, mouton, cheval) et les viandes blanches (porc, veau, lapin et volailles), le dictionnaire Petit Robert parlant même de « viande noire » pour le gibier</rdfs:comment>
+        <rdfs:label>Viande Rouge</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region">
+        <rdfs:label xml:lang="fr">Région</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Roast -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Roast">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>https://i.pinimg.com/originals/9f/9e/5e/9f9e5ea3c314e9031449362151180f16.jpg</image>
+        <image>https://i.ytimg.com/vi/XaReT46KR6s/maxresdefault.jpg</image>
+        <rdfs:label>Les plat braisés</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Root -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Root">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <image>https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/2/b/9/2b979926f1_50153893_tubercule-dahlia-f-d-richards-flickr.jpg</image>
+        <image>https://jardinage.lemonde.fr/images/dossiers/2017-07/persil-tubereux-134244.jpg</image>
+        <rdfs:comment>Partie des végétaux par laquelle ils se fixent au sol et se nourrissent.</rdfs:comment>
+        <rdfs:label>Racine</rdfs:label>
+        <rdfs:label>Tubercule</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#RootVegetable -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#RootVegetable">
+        <owl:equivalentClass rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Tubers"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Root"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Vegetable"/>
+        <image>https://www.plantes-et-sante.fr/images/istock-912404972.jpg</image>
+        <rdfs:comment>Plante potagère dont les racines peuvent entrer dans l&apos;alimentation humaine.</rdfs:comment>
+        <rdfs:label>Legume Racine</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Salad -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Salad">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>https://cdn.shopify.com/s/files/1/0046/8687/2649/products/salade_avocat_1_480x480.jpg</image>
+        <rdfs:label>Les crudité et les salades</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Sandwiches -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Sandwiches">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Bread"/>
+        <image>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/190322-ham-sandwich-horizontal-1553721016.png</image>
+        <image>https://www.indianhealthyrecipes.com/wp-content/uploads/2019/05/club-sandwich-recipe.jpg</image>
+        <rdfs:label>Les sandwiches</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Sauces -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Sauces">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stew"/>
+        <image>https://lesucresale-doumsouhaib.com/wp-content/uploads/2010/08/sauce-cuillere.jpg</image>
+        <rdfs:label xml:lang="fr">Les Sauces Accompagnateur</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Seafood -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Seafood">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meat"/>
+        <image>https://ichef.bbci.co.uk/news/640/cpsprodpb/7A1C/production/_116406213_937652b1-d863-414a-bc2b-15ec579ccdf3.jpg</image>
+        <rdfs:label>Viande de mer</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Soup -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Soup">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:label>Les boullions en sauces</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Spices -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Spices">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <image>https://i.pinimg.com/originals/47/29/74/472974c1816d0cb1248aa7405eaa22e2.png</image>
+        <rdfs:comment>Une épice est une matière organique d&apos;origine végétale odorante ou piquante.</rdfs:comment>
+        <rdfs:label>Epice</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stem -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stem">
+        <owl:equivalentClass rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stems"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <image>https://docplayer.fr/docs-images/67/57101710/images/189-1.jpg</image>
+        <image>https://lilyfairly.files.wordpress.com/2021/02/3ed2d-tiges25c325a9pinardsbrocoli.jpg</image>
+        <rdfs:comment>Les légumes-tiges sont des plantes potagères cultivées pour la consommation de leur tige et parfois de leurs feuilles. Le légume-tige le plus connu est, sans doute, l&apos;asperge, réel « porte drapeau » ou « ambassadeur » des légumes tiges au potager</rdfs:comment>
+        <rdfs:label>Légumes tiges</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stems -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stems">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Vegetable"/>
+        <rdfs:label>Tiges</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stew -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stew">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>https://assets.afcdn.com/story/20180419/1155925_w640h433.jpg</image>
+        <image>https://i1.wp.com/www.alicepegie.com/fr/wp-content/uploads/2016/08/B%C5%93uf-%C3%A0-la-sauce-tomate-%C3%A9pic%C3%A9e-8.jpg</image>
+        <image>https://upload.wikimedia.org/wikipedia/commons/5/53/Nkui.jpg</image>
+        <rdfs:label xml:lang="fr">Les Sauce</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#TropicalFruit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#TropicalFruit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fruit"/>
+        <image>https://upload.wikimedia.org/wikipedia/commons/9/91/ARS_tropical_fruit.jpg</image>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Carica_papaya_MS4113.JPG/800px-Carica_papaya_MS4113.JPG</image>
+        <image>https://www.desgoutsetdescouleurs.com/wp-content/uploads/2020/05/decouvrir-fruits-tropicaux-martinique.jpg</image>
+        <rdfs:comment>Les fruits tropicaux sont souvent appelés « fruits exotiques » dans les pays où ils sont importés et consommés bien que ce terme ne recouvre aucune réalité biologique5 et ne désigne pas de fruit provenant d&apos;un habitat particulier.</rdfs:comment>
+        <rdfs:label>Fruit Tropical</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Tubers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Tubers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Vegetable"/>
+        <rdfs:label>Legume Tubers</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Vegetable -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Vegetable">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#PlantFood"/>
+        <image>https://observatoireprevention.org/wp-content/uploads/2017/05/iStock-589415708-1080x675.jpg</image>
+        <rdfs:comment>Plante potagère dont certaines parties peuvent entrer dans l&apos;alimentation humaine.</rdfs:comment>
+        <rdfs:label>Légumes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#WhiteMeat -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#WhiteMeat">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meat"/>
+        <image>https://www.santeetnutrition.com/liste-des-viandes/images/viande-de-porc.jpg</image>
+        <rdfs:comment>Le grand public et les livres de cuisine distinguent généralement les viandes rouges (boeuf, agneau, mouton, cheval) et les viandes blanches (porc, veau, lapin et volailles), le dictionnaire Petit Robert parlant même de « viande noire » pour le gibier</rdfs:comment>
+        <rdfs:label>Viandes Blanches</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#couscous -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#couscous">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <image>http://camerdish.e-monsite.com/medias/images/wf3.jpg</image>
+        <image>http://img.over-blog-kiwi.com/0/45/11/06/20140211/ob_368d4f_p1060214.JPG</image>
+        <rdfs:label>Couscous</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipe -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipe">
+        <rdfs:comment>Défini une recette pour un plat.
+C&apos;est un ensemble d&apos;instructions qui nous donnes des indication sur comment cuisiner un plat a partir des aliment et nous donne la methode de cuisson que nous devons utiliser</rdfs:comment>
+        <rdfs:label xml:lang="fr">Recette</rdfs:label>
+        <rdfs:label xml:lang="en">Recipes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Deuil -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Deuil">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Ceremonie"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Est -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Est">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region"/>
+        <rdfs:comment xml:lang="fr">La région de l&apos;Est est l&apos;une des dix régions du Cameroun, située dans le Sud-Est du pays. Son chef-lieu est Bertoua. La majorité de son territoire est couvert de forêt de type équatoriale. Elle est bordée par les régions du Sud, de l&apos;Adamaoua et du Centre.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Est</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#adamaoua -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#adamaoua">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region"/>
+        <rdfs:comment xml:lang="fr">La Région de l&apos;Adamaoua est une des dix régions du Cameroun, la troisième par sa taille. Frontalière du Nigéria à l&apos;ouest et de la République centrafricaine à l&apos;est, c&apos;est une zone montagneuse qui délimite le Cameroun forestier du sud et les savanes du nord. Son chef-lieu est Ngaoundéré.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Adamaoua</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#afternoon -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#afternoon">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Period"/>
+        <rdfs:label xml:lang="en">Afternoon</rdfs:label>
+        <rdfs:label xml:lang="fr">Après midi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#anniversaire -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#anniversaire">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Ceremonie"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#baking_preparation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#baking_preparation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Preparation"/>
+        <rdfs:label xml:lang="en">Baking</rdfs:label>
+        <rdfs:label xml:lang="fr">Patisseria</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#banane -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#banane">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#TropicalFruit"/>
+        <rdfs:label xml:lang="en">Banana</rdfs:label>
+        <rdfs:label xml:lang="fr">Banane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#banane_melaxe -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#banane_melaxe">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+        <rdfs:label xml:lang="fr">Banane malaxée</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#baptême -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#baptême">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Ceremonie"/>
+        <rdfs:label xml:lang="fr">Baptême</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#bar -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#bar">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fish"/>
+        <rdfs:label xml:lang="en">Bar Fish</rdfs:label>
+        <rdfs:label xml:lang="fr">Poisson bar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#baton_de_manioc -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#baton_de_manioc">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics"/>
+        <rdfs:label xml:lang="fr">Baton de manioc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#boiled_rice -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#boiled_rice">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics"/>
+        <can_be_eaten_as rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#dinner"/>
+        <can_be_eaten_as rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lunch"/>
+        <has_main_ingredient rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#rice"/>
+        <has_preparation_method rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#boiling_preparation"/>
+        <is_eaten_with rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sauce_arachide"/>
+        <is_eaten_with rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sauce_tomate"/>
+        <rdfs:label xml:lang="en">Boiled rice</rdfs:label>
+        <rdfs:label xml:lang="fr">Riz bouillie</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#boiling_preparation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#boiling_preparation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Preparation"/>
+        <rdfs:label xml:lang="en">By boiling</rdfs:label>
+        <rdfs:label xml:lang="fr">Par ebullition</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#break_fast -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#break_fast">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meal"/>
+        <eaten_at rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#morning"/>
+        <rdfs:label xml:lang="en">Breakfast</rdfs:label>
+        <rdfs:label xml:lang="fr">Pétit dejeuner</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#brochette_de_boeuf -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#brochette_de_boeuf">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Roast"/>
+        <rdfs:label xml:lang="fr">Brochette de boeuf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#carrot -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#carrot">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#RootVegetable"/>
+        <rdfs:label xml:lang="fr">Carrot</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#centre -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#centre">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region"/>
+        <rdfs:comment xml:lang="fr">La région du Centre est l&apos;une des dix régions du Cameroun, située dans le centre du pays. Son chef-lieu est Yaoundé, qui est aussi la capitale du pays.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Centre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#choux -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#choux">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Flowers"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#citron -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#citron">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Citrus"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#couscous_de_mais -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#couscous_de_mais">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#couscous"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#couscous_de_manioc -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#couscous_de_manioc">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#couscous"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#fufu"/>
+        <has_main_ingredient rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#maize"/>
+        <has_preparation_method rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#boiling_preparation"/>
+        <isServedAs rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lunch"/>
+        <is_eaten_with rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sauce_gombo"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#couscous_de_riz -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#couscous_de_riz">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#couscous"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#dinde -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#dinde">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Poultry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#dinner -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#dinner">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meal"/>
+        <eaten_at rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#evening"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#evening -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#evening">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Period"/>
+        <rdfs:label xml:lang="en">In the Evening</rdfs:label>
+        <rdfs:label xml:lang="fr">Le soir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#extrême_nord -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#extrême_nord">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region"/>
+        <rdfs:label xml:lang="fr">Extrême-Nord</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#folere -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#folere">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Drinks"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#fraise -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#fraise">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Berries"/>
+        <rdfs:label xml:lang="fr">Fraise</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#fromage -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#fromage">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Milk"/>
+        <rdfs:label xml:lang="fr">Fromage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#fufu -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#fufu">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#gateau_au_chocolat -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#gateau_au_chocolat">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Cakes"/>
+        <rdfs:label xml:lang="fr">gateau au chocolat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#ketchup -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#ketchup">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Condiments"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#kossam -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#kossam">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Drinks"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lait_de_vache -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lait_de_vache">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Milk"/>
+        <rdfs:label xml:lang="fr">Lait de vache</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lait_ecreme -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lait_ecreme">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Milk"/>
+        <rdfs:label xml:lang="fr">lait ecremé</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lait_en_poudre -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lait_en_poudre">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Milk"/>
+        <rdfs:label xml:lang="fr">lait en poudre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#littoral -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#littoral">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region"/>
+        <rdfs:comment xml:lang="fr">La région du Littoral est l&apos;une des dix régions du Cameroun2, située dans le sud-ouest du pays. Son chef-lieu est Douala.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Littoral</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lunch -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lunch">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meal"/>
+        <eaten_at rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#afternoon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#macabo -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#macabo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Root"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#maize -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#maize">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Cereals"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#manioc -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#manioc">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Root"/>
+        <rdfs:label xml:lang="en">Cassava</rdfs:label>
+        <rdfs:label xml:lang="fr">Manioc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#maquerot -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#maquerot">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Fish"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#maquerot_braisse -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#maquerot_braisse">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Roast"/>
+        <rdfs:label xml:lang="fr">maquerot braisé</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#marcedoine -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#marcedoine">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Salad"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#mariage -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#mariage">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Ceremonie"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#morning -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#morning">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Period"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#ndole -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#ndole">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stew"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#nkui -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#nkui">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stew"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#nord -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#nord">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region"/>
+        <rdfs:comment xml:lang="fr">La Région du Nord est l&apos;une des dix régions du Cameroun, située dans le nord du pays. Son chef-lieu est Garoua.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Nord</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#nord_ouest -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#nord_ouest">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region"/>
+        <rdfs:comment xml:lang="fr">La région du Nord-Ouest, qui constitue une partie du territoire du Southern Cameroons, est l&apos;une des dix régions du Cameroun1 et l&apos;une des deux régions anglophones du pays. Son chef-lieu est Bamenda.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Nord-Ouest</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#oeuf_de_poule -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#oeuf_de_poule">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Egg"/>
+        <rdfs:label xml:lang="en">Hen Egg</rdfs:label>
+        <rdfs:label xml:lang="fr">Oeuf de poule</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#okok -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#okok">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stew"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#orange -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#orange">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Citrus"/>
+        <rdfs:label>Orange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#ouest -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#ouest">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region"/>
+        <rdfs:comment xml:lang="fr">La Région de l&apos;Ouest est l&apos;une des dix régions du Cameroun2. Elle est le berceau des ethnies Bamiléké et Bamoun. Son chef-lieu est Bafoussam</rdfs:comment>
+        <rdfs:label xml:lang="fr">Ouest</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#pepper_soup -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#pepper_soup">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Soup"/>
+        <rdfs:label xml:lang="en">Pepper soup</rdfs:label>
+        <rdfs:label xml:lang="fr">Soup de piment</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#plantain -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#plantain">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#TropicalFruit"/>
+        <rdfs:label xml:lang="en">Plantain</rdfs:label>
+        <rdfs:label xml:lang="fr">Plantain Banane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#plantain_a_la_vapeur -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#plantain_a_la_vapeur">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics"/>
+        <rdfs:label xml:lang="fr">Plantain cuit a la vapeur</rdfs:label>
+        <rdfs:label xml:lang="en">Steamed Plantains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#plantain_bouillie -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#plantain_bouillie">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics"/>
+        <rdfs:label xml:lang="en">Boiled Plantains</rdfs:label>
+        <rdfs:label xml:lang="fr">Plantain bouillie</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#pomme_de_france -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#pomme_de_france">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pomes"/>
+        <rdfs:label xml:lang="en">Apple</rdfs:label>
+        <rdfs:label xml:lang="fr">Pomme de france</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#poulet -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#poulet">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Poultry"/>
+        <rdfs:label xml:lang="en">Chicken</rdfs:label>
+        <rdfs:label xml:lang="fr">Le poulet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#puree_avocat -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#puree_avocat">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Salad"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#rice -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#rice">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Cereals"/>
+        <rdfs:label xml:lang="fr">Le riz</rdfs:label>
+        <rdfs:label xml:lang="en">Rice</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#riz_saute -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#riz_saute">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics"/>
+        <rdfs:label xml:lang="en">Jallof Rice</rdfs:label>
+        <rdfs:label xml:lang="fr">Riz sauté</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#roasting_preparation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#roasting_preparation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Preparation"/>
+        <rdfs:label xml:lang="en">By roasting</rdfs:label>
+        <rdfs:label xml:lang="fr">Par braise</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sauce_arachide -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sauce_arachide">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stew"/>
+        <rdfs:label xml:lang="en">Groundnut stew</rdfs:label>
+        <rdfs:label xml:lang="fr">Sauce d&apos;arachide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sauce_gombo -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sauce_gombo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stew"/>
+        <rdfs:label xml:lang="fr">Sauce gombo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sauce_tomate -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sauce_tomate">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Stew"/>
+        <can_be_eaten_as rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lunch"/>
+        <has_preparation_method rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#stewing_preparation"/>
+        <is_eaten_with rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#boiled_rice"/>
+        <is_prepared_with rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#tomato"/>
+        <rdfs:label xml:lang="fr">Sauce Tomate</rdfs:label>
+        <rdfs:label xml:lang="en">Tomato stew</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sauce_vinaigrette -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sauce_vinaigrette">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Sauces"/>
+        <rdfs:label xml:lang="fr">sauce vinaigrette</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#stewing_preparation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#stewing_preparation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Preparation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sud -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sud">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region"/>
+        <rdfs:comment xml:lang="fr">La Région du Sud est l&apos;une des dix régions du Cameroun. Elle s&apos;étend sur la partie méridionale et occidentale du pays frontalière de trois pays d&apos;Afrique centrale, d&apos;est en ouest: la Guinée équatoriale, le Gabon et la République du Congo. Elle a pour chef-lieu la ville de Ebolowa.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sud</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sud_ouest -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#sud_ouest">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Region"/>
+        <rdfs:comment xml:lang="fr">La Région du Sud-Ouest est l&apos;une des dix régions du Cameroun, située dans le sud-ouest du pays et frontalière du Nigéria. Son chef-lieu est Buéa.</rdfs:comment>
+        <rdfs:label xml:lang="fr">Sud-ouest</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#tomato -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#tomato">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FruitVegetable"/>
+        <rdfs:label xml:lang="fr">La Tomate</rdfs:label>
+        <rdfs:label xml:lang="en">Tomato</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#vapouring_preparation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#vapouring_preparation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Preparation"/>
+        <rdfs:label xml:lang="en">By Vapouring</rdfs:label>
+        <rdfs:label xml:lang="fr">Par Vapeur</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#viande_de_boeuf -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#viande_de_boeuf">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#RedMeat"/>
+        <rdfs:label xml:lang="en">Beef meat</rdfs:label>
+        <rdfs:label xml:lang="fr">Viande de boeuf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#viande_de_mouton -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#viande_de_mouton">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#RedMeat"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#viande_de_porc -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#viande_de_porc">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#RedMeat"/>
+        <rdfs:label xml:lang="en">Porc meat</rdfs:label>
+        <rdfs:label xml:lang="fr">Viande de porc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#water_fufu -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#water_fufu">
+        <rdf:type rdf:resource="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Basics"/>
+        <rdfs:label>Water fufu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Berries"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Citrus"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Drupes"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pepo"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Pomes"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#TropicalFruit"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Dish"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#FoodSource"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meal"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Period"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Preparation"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#recipe"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Egg"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Meat"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Milk"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Poultry"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#RedMeat"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#Seafood"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#WhiteMeat"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDifferent"/>
+        <owl:distinctMembers rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#afternoon"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#evening"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#morning"/>
+        </owl:distinctMembers>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDifferent"/>
+        <owl:distinctMembers rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#break_fast"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#dinner"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hiro/ontologies/2021/4/untitled-ontology-17#lunch"/>
+        </owl:distinctMembers>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

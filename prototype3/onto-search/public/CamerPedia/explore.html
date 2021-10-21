@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CamerPedia--Explore</title>
+    <link rel="stylesheet" href="css/explore.css">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="">
+        <ol>
+           <li><a href="#"> Home</a></li>
+           <li class="active"> <a href="explore.html"> Exploration</a></li>
+           <li><a href="query.html">SPARQL Queries</a> </li> 
+           <li><i class="fa fa-user"> </i> Account</li>
+        </ol>
+    </header>
+
+        <div class="bloc_principal">
+            <div class="path_left">
+                <div class="head">
+                    Classes
+                </div>
+                <div class="corps">
+                    <ul id="main">
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="path_right">
+                <div class="bloc1">
+                    <div class="head">
+                        Graphe
+                    </div>
+                    <div class="corps">
+                        <ul class="base">
+                            <li id="base"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="bloc2">
+                    <div class="head">
+                        Description
+                    </div>
+                    <div class="corps">
+                        <table>
+                            <tr class="line">
+                                <td>
+                                    SubClass Of
+                                </td>
+                                <td id="subclass">
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Instances
+                                </td>
+                                <td id="instance">
+
+                                </td>
+                            </tr>
+                            <tr  class="line">
+                                <td>Equivalent to</td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/explore.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "KnowledgePane": {
+    "description": "Auto imported from components/KnowledgePane.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "ResultItem": {
+    "description": "Auto imported from components/ResultItem.vue"
+  }
+}

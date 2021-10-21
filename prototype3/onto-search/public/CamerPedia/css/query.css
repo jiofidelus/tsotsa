@@ -1,0 +1,137 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    width:100%;
+    height:80px;
+    box-shadow: -2px 5px 5px .5px rgba(0,0,0,.3);
+}
+header img{
+    width:10%;
+    height:90%;
+    margin-top:5px;
+}
+
+header ol{
+    position: absolute;
+margin-left:27%;
+top:30px;
+}
+header ol li{
+    list-style: none;
+    min-width: 170px;
+    float: left;
+    margin-left:30px;
+    color:grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    height:48px;
+    text-align: center;
+    transition: .5s;
+}
+
+header ol li a{
+    text-decoration: none;
+    color:gray;
+   
+}
+
+header ol li:hover{
+
+    border-bottom: 2px solid rgba(6, 72, 126, 0.8);
+
+}
+
+header ol li:hover a{
+    color:rgba(6, 72, 126, 0.8);
+
+}
+header ol li.active a{
+    color:rgba(6, 72, 126, 0.8);
+}
+header ol li.active{
+  border-bottom: 2px solid rgba(6, 72, 126, 0.8);
+}
+header ol li i{
+transform: scale(2) translateX(-5px);
+}
+header ol li:last-child{
+    margin-left:130px;
+}
+
+
+.query{
+    width:60%;
+    margin-left:20%;
+    margin-top:50px;
+    text-align: center;
+    border-radius: 0 20px 20px 0;
+}
+.query h3{
+    color:rgb(47, 113, 189);
+
+}  
+
+.query textarea{
+    margin-top:30px;
+    text-align: left;
+    border:2px solid rgb(47, 113, 189);
+    border-radius: 10px;
+} 
+.query button{
+    position: absolute;
+    height:30px;
+    width:100px;
+    background-color: rgb(47, 113, 189);
+    color:white;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top:-22px;
+    border: 2px solid rgb(18, 94, 180);
+    box-shadow: .2px 2px 3px .5px rgba(1, 22, 46, 0.5);
+    cursor:pointer;
+transition: .5s;
+}
+
+.query button:hover{
+   box-shadow: .2px .2px .3px .5px rgba(1, 22, 46, 0.5);
+
+}
+
+.results{
+    margin-top:30px;
+    width:100%;
+    min-height: 200px;
+    background-color: rgb(243, 244, 245);
+    overflow: auto;
+}
+
+.results table{
+    width:100%;
+    border-collapse: collapse;
+    
+}
+
+.results table thead{
+    width:100%;
+    height: 30px;
+
+}
+
+.results table thead th{
+    color:white;
+    font-size: 20px;
+    background: rgb(47, 113, 189);
+
+}
+
+.results table tr:first-child td{
+   color:white;
+   font-size: 20px;
+   background: rgb(47, 113, 189);
+}
+.results table tr td{
+    border: 1px solid rgb(47, 113, 189,.5);
+    color:rgb(102, 101, 101);
+}
