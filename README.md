@@ -20,10 +20,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/jiofidelus/tsotsa">
-    <img src="tsotsa.png" alt="Logo" width="135" height="90">
+    <img src="tsotsa.png" alt="Logo" width="310" height="120">
   </a>
-
-  <h3 align="center">TSOTSA</h3>
 
   <p align="center">
    TSOTSA is a broad project dealing with food and feeding of living beings. TSOTSA finds its application in software engineering, knowledge engineering, semantic annotation and ontology matching, Question Answering system, Graph Database...etc 
@@ -41,10 +39,8 @@
   </p>
 </div>
 
-
-# TSOTSA
-
-REPOSITORIES
+<!-- ABOUT THE REPOSITORIES -->
+## REPOSITORIES
 
 Check "SMART_2022"# branch for QA system for TSOTSA CORPUS
 
@@ -52,9 +48,13 @@ Check "SEMTAB_2022" branch for TSOTSA ANNOTATOR Tools for TSOTSA CORPUS
 
 Check "Food_Composition_Tables" branch for the datasets on Food Composition table
 
+<!-- ABOUT THE TSOTSA CORPUS -->
+## TSOTSA CORPUS
 
-TSOTSA CORPUS
 
+### Built With
+* [![Angular][jAVASCRIPT]][Angular-url]
+* 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
