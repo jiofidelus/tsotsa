@@ -55,15 +55,11 @@ Check "Food_Composition_Tables" branch for the datasets on Food Composition tabl
 ### Built With
 
 
-<img alt="Custom badge" src="https://img.shields.io/endpoint?label=CONTRIBUTORS&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fjiofidelus%2Ftsotsa%2Fblob%2Fmain%2Ftsotsa.png">
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]:  https://img.shields.io/endpoint?label=CONTRIBUTORS&message=3&style=for-the-badge
+[contributors-shield]: https://img.shields.io/badge/CONTRIBUTORS-3-brightgreen
 [contributors-url]: https://github.com/jiofidelus/tsotsa/contributors
-
-
-
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/jiofidelus/tsotsa/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
