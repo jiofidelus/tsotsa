@@ -49,9 +49,19 @@ Check "Food_Composition_Tables" branch for the datasets on Food Composition tabl
 
 <!-- ABOUT THE TSOTSA CORPUS -->
 ## TSOTSA CORPUS
-
+Description of the tsotsa corpus
 
 ### Built With
+<h4>FCT</h4>
+
+<h4>Tsotsa Annotator</h4>
+![JAVACRIPT][Javascript.js]
+
+<h4>QA system</h4>
+
+<h4>Tsotsa Graph</h4>
+
+<h4>tsotsa platform</h4>
 
 
 
@@ -63,12 +73,12 @@ Check "Food_Composition_Tables" branch for the datasets on Food Composition tabl
 [forks-url]: https://github.com/jiofidelus/tsotsa/network/members
 [issues-shield]: https://img.shields.io/static/v1?label=ISSUES&message=0&color=red&style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/static/v1?label=LICENCE&message=APACHE_2.0&color=blue&style=for-the-badge
-[license-url]: https://github.com/jiofidelus/tsotsa/network/LICENSE.md
+[license-shield]: https://img.shields.io/static/v1?label=LICENCE&message=APACHE%202.0&color=blue&style=for-the-badge
+[license-url]: https://github.com/jiofidelus/tsotsa/network/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://github.com/jiofidelus/tsotsa/
 [product-screenshot]: images/screenshot.png
-
+[Javascript.js]: https://img.shields.io/badge/_-JAVASCRIPT-orange
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
