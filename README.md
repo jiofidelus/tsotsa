@@ -70,11 +70,11 @@ Description of the tsotsa corpus
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/static/v1?label=CONTRIBUTORS&message=3&color=brightgreen&style=for-the-badge
+[contributors-shield]: https://img.shields.io/static/v1?label=CONTRIBUTORS&message=04&color=brightgreen&style=for-the-badge
 [contributors-url]: https://github.com/jiofidelus/tsotsa/contributors
-[forks-shield]: https://img.shields.io/static/v1?label=FORKS&message=2&color=yellowgreen&style=for-the-badge
+[forks-shield]: https://img.shields.io/static/v1?label=FORKS&message=02&color=yellowgreen&style=for-the-badge
 [forks-url]: https://github.com/jiofidelus/tsotsa/network/members
-[issues-shield]: https://img.shields.io/static/v1?label=ISSUES&message=0&color=red&style=for-the-badge
+[issues-shield]: https://img.shields.io/static/v1?label=ISSUES&message=00&color=red&style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/static/v1?label=LICENCE&message=APACHE%202.0&color=blue&style=for-the-badge
 [license-url]: https://github.com/jiofidelus/tsotsa/network/LICENSE
