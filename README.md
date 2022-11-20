@@ -12,7 +12,6 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Apache 2.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -62,15 +61,15 @@ Check "Food_Composition_Tables" branch for the datasets on Food Composition tabl
 [contributors-url]: https://github.com/jiofidelus/tsotsa/contributors
 [forks-shield]: https://img.shields.io/static/v1?label=FORKS&message=2&color=yellowgreen&style=for-the-badge
 [forks-url]: https://github.com/jiofidelus/tsotsa/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/static/v1?label=FORKS&message=0&color=red&style=for-the-badge
+[issues-shield]: https://img.shields.io/static/v1?label=ISSUES&message=0&color=red&style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/static/v1?label=LICENCE&message=APACHE_2.0&color=blue&style=for-the-badge
+[license-url]: https://github.com/jiofidelus/tsotsa/network/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://github.com/jiofidelus/tsotsa/
 [product-screenshot]: images/screenshot.png
+
+
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
