@@ -58,13 +58,13 @@ Check "Food_Composition_Tables" branch for the datasets on Food Composition tabl
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/badge/CONTRIBUTORS-3-brightgreen
+[contributors-shield]: https://img.shields.io/static/v1?label=CONTRIBUTORS&message=3&color=brightgreen&style=for-the-badge
 [contributors-url]: https://github.com/jiofidelus/tsotsa/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/static/v1?label=FORKS&message=2&color=yellowgreen&style=for-the-badge
 [forks-url]: https://github.com/jiofidelus/tsotsa/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/static/v1?label=FORKS&message=0&color=red&style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
