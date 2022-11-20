@@ -55,9 +55,12 @@ Description of the tsotsa corpus
 <h4>FCT</h4>
 
 <h4>Tsotsa Annotator</h4>
-![JAVACRIPT][Javascript.js]
+
+![Javascript]
 
 <h4>QA system</h4>
+
+![Javascript] ![Python]
 
 <h4>Tsotsa Graph</h4>
 
@@ -78,7 +81,8 @@ Description of the tsotsa corpus
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://github.com/jiofidelus/tsotsa/
 [product-screenshot]: images/screenshot.png
-[Javascript.js]: https://img.shields.io/badge/_-JAVASCRIPT-orange
+[Javascript]: https://img.shields.io/badge/_-JAVASCRIPT-orange
+[Python]: https://img.shields.io/badge/_-PYTHON-yellow
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
