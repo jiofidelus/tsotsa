@@ -19,23 +19,25 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/TSOTSA">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/jiofidelus/tsotsa">
+    <img src="tsotsa.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">TSOTSA</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+   TSOTSA is a broad project dealing with food and feeding of living beings. TSOTSA finds its application in software engineering, knowledge engineering, semantic annotation and ontology matching, Question Answering system, Graph Database...etc 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jiofidelus/tsotsa"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/jiofidelus/tsotsa/tree/SemTab_22">TSOTSA ANNOTATOR</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/jiofidelus/tsotsa/tree/SMART_22">Question Answering System</a>
+    .
+    <a href="#">Food Composition Tables</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/jiofidelus/tsotsa">Request Feature</a>
   </p>
 </div>
 
