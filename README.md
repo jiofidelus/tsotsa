@@ -51,9 +51,10 @@ Check "Food_Composition_Tables" branch for the datasets on Food Composition tabl
 ## TSOTSA CORPUS
 Description of the tsotsa corpus
 
-### Built With
 <h4>FCT</h4>
 
+ ![CSV] ![JSON] ![GRAPH]
+ 
 <h4>Tsotsa Annotator</h4>
 
 ![Javascript]
@@ -83,6 +84,10 @@ Description of the tsotsa corpus
 [product-screenshot]: images/screenshot.png
 [Javascript]: https://img.shields.io/badge/_-JAVASCRIPT-orange
 [Python]: https://img.shields.io/badge/_-PYTHON-yellow
+
+[CSV]: https://img.shields.io/badge/_-CSV-lightgrey
+[JSON]: https://img.shields.io/badge/_-JSON-lightgrey
+[GRAPH]: https://img.shields.io/badge/_-BLAZE%20GRAPH-lightgrey
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
