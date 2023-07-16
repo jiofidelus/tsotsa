@@ -1,107 +1,55 @@
-<!-- Templates Credits : https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
+# TSOTSA project
+This repository aims at gathering resources and systems for Food Information Engineering (FIE).
+
+## Systems
+The different systems that can be used for FIE are:
+* Collecting food data: food data are scattered in several resources. Given the number of resources, it can be very difficult to collect these information. Thus, we provide a set of tools for automatic collection of food information.
+* Processing food data: once collected, it may be needed to process these data in order to get insights from them. To this end, we proposed models and tools for food data processing.
+* Storing food data: to be used further, food data should be stored. We are not planning to develop new storage systems, but to provide resources that can be used to easily store food data.
+* Using food data: the aim of food information is to provide reliable information to users. Thus, we propose systems that exploit food information to provide information to users.
+
+### Food data collection
+
+#### Automatic extraction of food composition tables from scientific papers
+
+### Food data processing
+
+#### TSOTSAAnno
+This is a system used to annotate Food Composition Tables using Knowledge Graphs and ontologies.
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
-[![Apache 2.0 License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+## Datasets
+To develop AI models that exploit food information, one needs datasets. Thus, we build several datasets for food information engineering.
 
-<br />
-<div align="center">
-  <a href="https://github.com/jiofidelus/tsotsa">
-    <img src="tsotsa.png" alt="Logo" width="310" height="120">
-  </a>
+### TSOTSATable dataset
+This is a dataset composed of Food Composition Tables and annotated using several ontologies and Knowledge Graphs.
 
-  <p align="center">
-   TSOTSA is a broad project dealing with food and feeding of living beings. TSOTSA finds its application in software engineering, knowledge engineering, semantic annotation and ontology matching, Question Answering system, Graph Database...etc 
-    <br />
-    <a href="https://github.com/jiofidelus/tsotsa"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/jiofidelus/tsotsa/tree/SemTab_22">TSOTSA ANNOTATOR</a>
-    ·
-    <a href="https://github.com/jiofidelus/tsotsa/tree/SMART_22">Question Answering System</a>
-    .
-    <a href="#">Food Composition Tables</a>
-    ·
-    <a href="https://github.com/jiofidelus/tsotsa">Request Feature</a>
-  </p>
-</div>
 
-<!-- ABOUT THE REPOSITORIES -->
-## REPOSITORIES
+### TSOTSAImg dataset
+Realizing that many food image datasets does not contain food images from several countries, we provide a very complete food dataset.
 
-Check "SMART_2022"# branch for QA system for TSOTSA CORPUS
+## Organizing food information
+To be human and machine understandable, we are using ontologies and Knowledge Graph-based approach to organize food information collected.
 
-Check "SEMTAB_2022" branch for TSOTSA ANNOTATOR Tools for TSOTSA CORPUS
+### TSOTSAOntology
+This ontology is used to described Food, its composition and to link to people consuming these food.
 
-Check "Food_Composition_Tables" branch for the datasets on Food Composition table
+### TSOTSAGraph
+TSOTSAOntology aims to be the schema of the TSOTSAGraph. The latter contains daily consommation of people.
 
-<!-- ABOUT THE TSOTSA CORPUS -->
-## TSOTSA CORPUS
-Description of the tsotsa corpus
 
-<h4>FCT</h4>
+## Applications
+Many applications can be considered.
 
- ![CSV] ![JSON] ![GRAPH]
- 
-<h4>Tsotsa Annotator</h4>
+### Nutritional agenda
 
-![Javascript]
+### Automatic generation of Food Composition Tables
 
-<h4>QA system</h4>
+### Nutrients prediction from food images
 
-![Javascript] ![Python]
-
-<h4>Tsotsa Graph</h4>
-
-<h4>tsotsa platform</h4>
+### Food recommendation
+Recommendation of food to people in diet
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/static/v1?label=CONTRIBUTORS&message=04&color=brightgreen&style=for-the-badge
-[contributors-url]: https://github.com/jiofidelus/tsotsa/contributors
-[forks-shield]: https://img.shields.io/static/v1?label=FORKS&message=02&color=yellowgreen&style=for-the-badge
-[forks-url]: https://github.com/jiofidelus/tsotsa/network/members
-[issues-shield]: https://img.shields.io/static/v1?label=ISSUES&message=00&color=red&style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/static/v1?label=LICENCE&message=APACHE%202.0&color=blue&style=for-the-badge
-[license-url]: https://github.com/jiofidelus/tsotsa/network/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://github.com/jiofidelus/tsotsa/
-[product-screenshot]: images/screenshot.png
-[Javascript]: https://img.shields.io/badge/_-JAVASCRIPT-orange
-[Python]: https://img.shields.io/badge/_-PYTHON-yellow
-
-[CSV]: https://img.shields.io/badge/_-CSV-lightgrey
-[JSON]: https://img.shields.io/badge/_-JSON-lightgrey
-[GRAPH]: https://img.shields.io/badge/_-BLAZE%20GRAPH-lightgrey
-
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+# Aknowledgement
