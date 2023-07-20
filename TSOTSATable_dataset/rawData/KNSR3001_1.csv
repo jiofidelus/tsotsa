@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6
+0,,Chardonnay,Sauvignon,Moscatel,Gewurztraminer,Riesling,Viogner
+1,,n=10,Blancn=6,n=4,n=2,n=2,n=2
+2,cis-Caftaric,0.850.561,0.390.170,0.620.213,0.700.222,1.30.50,Traces
+3,trans-Caftaric,2021.4,5.22.93,143.7,13+5.5,3116.4,2.41.22
+4,cis-Coutaric,2.9a0.96,2.5a1.42,5.9b1.63,2.1a0.29,2.5a0.75,1.6a0.51
+5,trans-Coutaric,7.9a4.34,4.9a3.36,18b5.26,6.1a1.75,7.0a3.75,1.9a0.91
+6,trans-Fertaric,1.11.55,0.300.091,0.610.174,0.870.082,2.60.79,Traces
+7,Catechin,23b6.0,9.5a3.22,16a.b5.9,19a.b6.5,14a.b2.2,Traces
+8,Epicatechin,5.8a.b2.48,3.4a0.27,2.6a0.00,8.3b0.55,Traces,Traces
+9,Procyanidin B3,3716.3,258.2,236.4,214.4,296.1,Traces
+10,Procyanidin B1,2329.7,1612.2,2113.9,486.2,121.6,Traces
+11,Quercetin glucuronide,25a16.1,12a3.9,54b7.0,17a8.4,30a1.5,67b20.3
+12,Quercetin glucoside,17a7.4,8.9a3.79,20a8.8,24a0.4,22a3.8,66b12.9
+13,Kaempferol glucoside,8.4a5.09,2.0a0.97,17b7.9,6.7a1.44,2.9a1.61,26c0.3
+14,Isorhamnetin glucoside,0.480.001,0.78a0.232,0.72a0.360,2.3b0.46,Traces,Traces
+15,Total hydroxycinnamates,33 21.9,134.7,386.6,225.8,45 16.9,5.81.89
+16,Total monomers flavan-3-ol,286.5,123.2,195.9,286.5,142.2,9.70.00
+17,Total dimers flavan-3-ol,60 34.9,4114.7,4415.3,69 7.6,416.3,Traces
+18,Total flavan-3-ols,8934.5,5415.0,63  16.4,9710.0,556.7,9.70.00
+19,Total flavonols,5318.5,25 5.6,98 14.0,508.6,564.4,17024

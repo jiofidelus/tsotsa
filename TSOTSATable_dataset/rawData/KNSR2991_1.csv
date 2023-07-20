@@ -1,0 +1,69 @@
+,0,1,2,3,4
+0,,Nutrient data,Number,Percentage of,Examples of
+1,,source,of foods,contribution to,matched foods
+2,,,n),the data source,
+3,,,n),(%),
+4,,,,,Single ingredient
+5,,,,,foods and basic
+6,,,,,multi-ingredient
+7,,USDA SR DB,276,52%,foods
+8,,,,,Some fast foods
+9,,,,, Some generic
+10,,,,,food products
+11,Nutrition,,,,"dishes (crepes,"
+12,Analysis,FNDDS,15,3%,"chocolate filled,"
+13,software,,,,"""hotdog wiener"""
+14,program,,,,Mixed dishes not
+15,,,,,found in the
+16,,,,,"FNDDS (squid,"
+17,,CNF,11,2%,"fried, vegetarian"
+18,,,,,"samosa, sushi"
+19,,,,,with fish and
+20,,,,,vegetables)
+21,,,,,Some Indian and
+22,,,,,Middle Eastern
+23,,,,,mixed dishes
+24,,,,,(stuffed grape
+25,,,,,leavesPunjabi
+26,,,,,Puri and Bombay
+27,,,,,Mix)
+28,,CoFID,42,8%,cooking methods
+29,,,,,not found on the
+30,,,,,NAS (grilled
+31,,,,,salmon)
+32,,,,,English branded
+33,,,,,food products
+34,,,,,"biscuits, plain)"
+35,EuroFIR,,,,Foods with
+36,Interface,,,,cooking methods
+37,Explorer,,,,NAS or the CoFID
+38,,,,,(fried eggplant
+39,,NZDB,9,2%,and Basmati rice
+40,,,,,cooked with oil)
+41,,,,,Branded food
+42,,,,,products
+43,,,,,"(NutellaTM,"
+44,,,,,PringlesTM)
+45,,,,, Other cooking
+46,,,,,methods (roasted
+47,,French DB,,,tomatoes and
+48,,"Greek DB,",,,homemade fried
+49,,"Swedish DB,",15,3%,meatballs)
+50,,Irish DB,,,Other branded
+51,,Irish DB,,,food products (La
+52,,,,,Vache qui ritTM
+53,,,,,Milky WayTM)
+54,,,,,Breads:Qurus
+55,,,,,"bread, Arabic"
+56,,,,,"bread, Khameer"
+57,,,,,"bread,Chebab"
+58,,,,,"bread, Rgag"
+59,,Emirati,,,"bread,Muhalla"
+60,Regional,chemically,,,bread;local
+61,data,analyzed,9,2%,cheese: Chami
+62,sources,foods,,,desserts: Balaleet
+63,,,,,(sweet
+64,,,,,"vermicelli),"
+65,,,,,Lgeimat
+66,,,,,(cardamom
+67,,,,,fritters)

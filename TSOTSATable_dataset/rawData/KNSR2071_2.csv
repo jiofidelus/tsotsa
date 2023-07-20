@@ -1,0 +1,32 @@
+,0,1,2
+0,,,Correlation Coefficient
+1,Age,,-0.12
+2,BMI,,-0.27**
+3,Food-Derived Carotenoids,Food-Derived Carotenoids,
+4,,Total Vitamin A (IU,0.24
+5,,Beta-Carotene (mcg,0.25*
+6,,Alpha-Carotene(mcg,0.20*
+7,,Beta-Cryptoxanthin (mcg)a,0.16
+8,,Lutein+Zeaxanthin (mcg),0.39***
+9,,Lycopene (mcg),0.10
+10,,Total Food Carotenoids (mcg),0.29**
+11,,Food-and Supplement-Derived Carotenoids,
+12,,Total Vitamin A (IU,0.29**
+13,,Lutein + Zeaxanthin (mcg,0.32**
+14,,Lycopene (mcg),0.10
+15,,Total Carotenoids (mcg,0.33**
+16,Fruit,Fruit,
+17,Citrus Juice a,Citrus Juice a,0.04
+18,,Other Fruit Juicea,-0.12
+19,Citrus Fruit a,Citrus Fruit a,0.12
+20,Other Fruit a,Other Fruit a,0.14
+21,Total Fruit,Total Fruit,0.23*
+22,Vegetables,Vegetables,
+23,,Dark Green Vegetables a,0.41***
+24,,Deep Yellow Vegetables a,0.01
+25,Tomato a,Tomato a,-0.04
+26,,Other Starchy Vegetables a,0.10
+27,,Other Vegetables,0.12
+28,Vegetable Juice a,Vegetable Juice a,0.03
+29,Total Vegetables,Total Vegetables,0.31**
+30,Fruit+Vegetables,Fruit+Vegetables,0.35***

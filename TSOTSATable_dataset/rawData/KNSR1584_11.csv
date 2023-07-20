@@ -1,0 +1,6 @@
+,0,1,2,3,4,5
+0,Ingredient,SR-Legacy code,SR-Legacy name (short version),Amount(g),USDA Food Pattern Group (unit),Amount
+1,Dates,0987,Dates,60,Other fruit (cup eq.),0.8
+2,Almonds,12063,"Almond, dry roasted",30,Nuts and Seeds (oz. eq),2.12
+3,"Cherries, unsweetened",09032,"Apricot, dried*",10,Other fruit (cup eq.),0.15
+4,Total,,,100,,

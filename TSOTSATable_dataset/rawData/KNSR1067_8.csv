@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,,X Extraction solvent,X Sample mass (mg),X Extraction duration (min),Predicted concentration (mg kg  fresh fruitab
+1,CAT,Methanol-BHT 99:1(v/v),500,20,1.79
+2,ECAT,Methanol-BHT 99:1 (v/v),100,20,105.78
+3,PLZ,Methanol-BHT 99:1 (v/v),310,28,12.52
+4,CA,Methanol-BHT 99:1 (v/v),100,29,61.97
+5,HYP,Methanol-BHT 99:1 (v/v),153,38,26.31
+6,IQC,Methanol-BHT 99:1 (v/v),100,36,6.44
+7,QCI,Methanol-BHT 99:1 (v/v),100,40,6.99
+8,IDEA,Methanol-BHT 99:1 (v/v),100,40,18.81
+9,TPC,Methanol-BHT 99:1 (v/v),100,20,210.83

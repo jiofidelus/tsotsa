@@ -1,0 +1,18 @@
+,0,1,2,3,4,5
+0,Vitamin,Treatment,Conditions,Food,Retention (%),References
+1,Pantothenic,Cooking, 20 min,Legumes,76,Hoppner and Lampi
+2,acid,,,,,"(1993a,b)"
+3,,,"20 min, soaking 1 h",,33,
+4,,,"20 min, soaking 16 h",,44,
+5,,,"90 min,soaking 16h",,58,
+6,,,150 min.soaking 16 h,,55,
+7,Niacin,Boiling,"96-99C, 150 min",Beef meat,45,Maskova et al.1994)
+8,,Cooking,"75 min, soaking 15h",Beans,79,Maskova et al.1996
+9,,,"45min, soaking 16h",Peas,67,
+10,,,"165 min,soaking 16h",Soybean,86,
+11,,Pressure-cooking,50 min,Beans,90,
+12,,,40 min,Peas,87,
+13,,,60 min,Soybean,49,
+14,,Microwaving,"60 min, soaking 17 h",Beans,56,
+15,,Stir-frying without oil,"150C,6.5min","Beef, lamb, and pork",78,Rhee et al. (1993)
+16,,addition,,mince,,

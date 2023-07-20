@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,,ATR-FT-MIR,,,DR-FT-NIR,,,T-FT-NIR,,
+1,Component,Comparison,SI,ICC,SEM,SI,ICC,SEM,SI,ICC,SEM
+2,Anthocyanins,Degassed/Filtered,Ho Accepted,0.957,43.953,Ho Accepted,0.956,45.591,Ho Accepted,0.815,79.833
+3,,Degassed/Frozen,Ho Accepted,0.959,43.619,Ho Accepted,0.941,52.046,Ho Rejected,0.797,75.968
+4,,Degassed/Turbid,Ho Accepted,0.969,38.317,Ho Accepted,0.938,53.477,Ho Rejected,0.762,70.442
+5,,Filtered/Frozen,Ho Accepted,0.947,48.398,Ho Accepted,0.923,60.912,Ho Rejected,0.817,70.442
+6,,Filtered/Turbid,Ho Accepted,0.955,45.355,Ho Accepted,0.954,46.714,Ho Rejected,0.838,68.235
+7,,Frozen/Turbid,Ho Accepted,0.966,39.98,Ho Accepted,0.927,58.032,Ho Accepted,0.852,58.015
+8,Colour Density,Degassed/Filtered,Ho Accepted,0.966,1.478,Ho Accepted,0.942,1.889,Ho Accepted,0.856,3.041
+9,,Degassed/Frozen,Ho Accepted,0.948,1.842,Ho Accepted,0.932,2.045,Ho Accepted,0.861,3.044
+10,,Degassed/Turbid,Ho Accepted,0.969,1.433,Ho Accepted,0.939,1.956,Ho Accepted,0.869,2.847
+11,,Filtered/Frozen,Ho Accepted,0.955,1.685,Ho Accepted,0.93,2.11,Ho Accepted,0.842,3.246
+12,,Filtered/Turbid,Ho Accepted,0.973,1.314,Ho Accepted,0.953,1.679,Ho Accepted,0.834,3.217
+13,,Frozen/Turbid,Ho Accepted,0.952,1.758,Ho Accepted,0.937,7.804,Ho Accepted,0.827,3.369
+14,Polymeric Pigments,Degassed/Filtered,Ho Rejected,0.949,6.46,Ho Accepted,0.963,7.804,Ho Rejected,0.958,8.475
+15,,Degassed/Frozen,Ho Accepted,0.947,6.108,Ho Accepted,0.952,9.537,Ho Accepted,0.956,8.864
+16,,Degassed/Turbid,Ho Accepted,0.914,8.121,Ho Accepted,0.969,7.32,Ho Accepted,0.916,11.917
+17,,Filtered/Frozen,Ho Rejected,0.936,7.079,Ho Accepted,0.968,8.036,Ho Accepted,0.942,9.979
+18,,Filtered/Turbid,Ho Accepted,0.912,8.591,Ho Accepted,0.975,6.928,Ho Accepted,0.905,12.338
+19,,Frozen/Turbid,Ho Accepted,0.91,8.128,Ho Accepted,0.961,8.88,Ho Accepted,0.932,10.87
+20,Tannins,Degassed/Filtered,Ho Accepted,0.95,39.928,Ho Accepted,0.953,39.974,Ho Accepted,0.893,58.881
+21,,Degassed/Frozen,Ho Accepted,0.945,42.888,Ho Accepted,0.962,35.491,Ho Accepted,0.936,44.507
+22,,Degassed/Turbid,Ho Accepted,0.965,33.568,Ho Accepted,0.947,42.267,Ho Rejected,0.914,49.096
+23,,Filtered/Frozen,Ho Accepted,0.944,42.561,Ho Accepted,0.963,35.708,Ho Accepted,0.912,53.673
+24,,Filtered/Turbid,Ho Accepted,0.971,28.612,Ho Accepted,0.946,43.658,Ho Rejected,0.884,59.634
+25,,Frozen/Turbid,Ho Accepted,0.951,39.93,Ho Accepted,0.951,40.548,Ho Accepted,0.921,47.461
+26,TPI,Degassed/Filtered,Ho Accepted,0.983,2.216,Ho Accepted,0.956,3.577,Ho Rejected,0.877,5.344
+27,,Degassed/Frozen,Ho Accepted,0.969,3.055,Ho Accepted,0.968,3.048,Ho Accepted,0.947,3.215
+28,,Degassed/Turbid,Ho Accepted,0.989,1.769,Ho Accepted,0.977,2.558,Ho Accepted,0.909,4.477
+29,,Filtered/Frozen,Ho Accepted,0.964,3.343,Ho Accepted,0.963,3.346,Ho Rejected,0.907,4.612
+30,,Filtered/Turbid,Ho Rejected,0.98,2.346,Ho Accepted,0.942,3.058,Ho Accepted,0.942,3.799
+31,,Frozen/Turbid,Ho Accepted,0.976,2.635,Ho Accepted,0.965,3.304,Ho Accepted,0.939,3.604

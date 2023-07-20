@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,EDI of histamine in beef shawarma,,,EDI of histamine in chicken shawarma,,
+1,,,,,EDI mg/day/person,EDI mg/day/person,,EDI (mg/day/person),EDI (mg/day/person)
+2,,,,,1 meal,2meals,,1 meal,2 meals
+3,,,,8.02,16.04,32.08,10.33,30.99,61.98
+4,,,,,% ARfD (NOAEL)or LOAEL% ARfD (NOAEL)or LOAEL,,,,
+5,ARfD(NOAEL),Sensitive persons,5mg,,320.8%,641.6%,,619.8 %,1239.6%
+6,ARfD(NOAEL),Healthy persons,50 mg,,32.08%,64.16%,,61.98 %,123.96%
+7,LOAEL,Healthy persons,75 mg,,21.39%,42.77 %,,41.32 %,82.64 %

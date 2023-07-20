@@ -1,0 +1,15 @@
+,0,1,2,3
+0,microbiological,fresh fish samples,,
+1,characteristics,,,
+2,,Indian mackerel,spotted sardine,yellowtail scad
+3,TPC(cfu/g),4.1102,1.6x103,2.1103
+4,Total coliforms (MPN/g,<3,<3,<3
+5,E.coli (MPN/g),<3,<3,<3
+6,"Staphylococcus aureus,(cfu/",<1.0102,<1.0102,<1.0102
+7,g),,,
+8,Salmonella spp.,absent,absent,absent
+9,(occurrence/25g),,,
+10,"Vibrio parahaemolyticus,",absent,absent,absent
+11,(occurrence/25g),,,
+12,"halophilic count, (cfu/g)",absent,1.4102,8.5 102
+13,total fungal count (cfu/g),absent,absent,absent

@@ -1,0 +1,15 @@
+,0,1,2,3
+0,Categories,,Nutrients,Databases
+1,Comparable,,"Protein,Fat for meat and meat products excluding liver,Dietary fiber",All DBs
+2,,,"Fatty acids (SFA,MUFA,PUFA),Cholesterol,",
+3,,,"-carotene,Vitamin E, Thiamine (B, Riboflavin (B), Vitamin B6,Vitamin C",
+4,,,"Na,K,CaP,Fe,Mg",
+5,Convertible,,Retinol,RDAFSV
+6,,,CHO,All DBs
+7,Not-comparable,Inappropriate analytical method,Energy,All DBs
+8,,,Fat -except for those of meat and meat products,
+9,,,Vitamin B2,
+10,,,Retinol,All DBs except for RDA_FSV
+11,,Not mentioned definition & analytical method,Vitamin D,All DBs
+12,,,All nutrients,DES_DS
+13,,Missing data,Alcohol,All DBs

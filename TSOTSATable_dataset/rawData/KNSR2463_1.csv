@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Compounds,Retention Time (min),Precursor ion (m/z),Product ion (m/z),Fragmentor (V),Collision energy,Polarity
+1,Nicotinic acid,1.59,124,80.1a,92,21,Positive
+2,,,,53.2,,33,
+3,Nicotinamide,1.72,123,80.1b,92,21,Positive
+4,,,,53.2,,33,
+5,Riboflavin,2.12,377,243.1c,131,21,Positive
+6,,,,172.1,,41,

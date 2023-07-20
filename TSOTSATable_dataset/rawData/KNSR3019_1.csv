@@ -1,0 +1,23 @@
+,0,1,2,3,4
+0,Leafy green,Genotype,Total plant fresh mass (kg/plant),Dry mass (dm) content (gdm/100 gfm),Dry mass (dm) content (gdm/100 gfm)
+1,,,,Upper leaves,Lower leaves
+2,Collard,Blue Max,0.790 cdefg,16.6 abc,13.9 b
+3,,Top Bunch,0.658 efg,11.5 fg,11.6 bcd
+4,,Top Pick,0.652 efg,13.7 cdefg,11.8 bcd
+5,,Heavicrop,0.935 abcd,15.0 bcdef,12.3 bcd
+6,,Flash,1.011 abc,13.6 cdefg,12.8 bc
+7,,Vates,0.955 abcd,15.9 abcd,13.8 b
+8,,Champion,0.831 bcdefg,15.3 bcde,13.6 b
+9,,Georgia,1.008 abc,19.2 a,14.3 b
+10,,SC Glaze,0.714 defg,14.9 bcdef,13.7 b
+11,,Variegated,0.923 abcde,16.4 abcd,13.2 b
+12,,NC030,1.070 ab,14.1 cdef,12.7 bc
+13,,NC037,0.914 abcde,14.3 cdef,17.4 a
+14,,NC076,0.900 abcde,18.0 ab,13.9 b
+15,,NC020,0.981abcd,14.6 bcdef,13.0 bc
+16,,NC022,0.633 fg,15.6 bcd,14.4 b
+17,Turnip green,Topper,0.713 defg,11.9 efg,9.7 d
+18,,Alamo,1.120a,15.0 bcdef,14.3 b
+19, Mustard green,FL Broadleaf,0.888 abcdef,10.5 g,10.1 cd
+20,,So.Curled Giant,0.574 g,13.0 defg,13.9 b
+21,LSD.o5 a,,0.273,3.5,2.9

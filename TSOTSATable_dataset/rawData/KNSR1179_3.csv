@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Sample,Element,Extraction,Analytical,LOD,RSDr, Linear range/,Extraction,PF/EF,Ref
+1,,,procedure,technique,(g/L),(%),(g L-1),Time,,
+2,Tap,Cu,CPE,FAAS,0.6,1.9,5400,30,38,"Li and Yang,2015"
+3,"Tap, river",Cu,LLE,FAAS,0.61,3.9,2100,20,12.5,"(Karadas and Kara,2014)"
+4,Tap,Cu,SFODME,FI-FAAS,0.4,0.9,125,60,333/,"(Sahin and Tokgoz,2010)"
+5,,,,,,,,,324,
+6,"Tap, mineral,",Cu,USAE-SFODME,FAAS,4.1,1.2,201200,20,13,"Khayatian and Hassanpoor,2013)"
+7,river,,,,,,,,,
+8,"Tap, river",Cu,DLLME-SFO,FAAS,0.93,11.5,10800,3,20,"(Karadas and Kara,2017)"
+9,Tap,Cu,SDME,GFAAS,0.025,6.77,1020,10,45,"Neri et al., 2019)"
+10,"Tap, spring",Cu,UA-IL-DLLME,FAAS,1.9,3.8,8-400,-,50/56,"Rajabi et al.,2014"
+11,"Tap, mineral,",Cu,DES-based TLPE,FAAS,1.58,5,10500,45,4.2,this work
+12,river,,,,,,,,,
+13,"Tap, spring",Zn,USA-IL-DLLME,FAAS,2.4,1.8,6150,,50/48,"Rajabi et al.,2014"
+14,"Tap, mineral,",Zn,CPE,FAAS,6.5,2.5,10-100,15,18,"(Shokrollahi et al., 2009)"
+15,river,,,,,,,,,
+16,"Tap, river",Zn,EA-DLLME,FAAS,0.14,2.5,20450,-,100,"Sorouraddina et al., 2019)"
+17,"Tap, river",Zn,USAE-SFODME,FAAS,0.79,4,20450,20,79/11,"Ma et al.,2010"
+18,"Tap, mineral,",Zn,IL-CIA-DLLME,FAAS,0.18,3,0.726,4,60,"(Zeeb and Sadeghi,2011)"
+19,river,,,,,,,,,
+20,"Tap, spring",Zn,IL-DLLME,FAAS,0.22,1.92,0.833,60,71,(Abdolmohammad-Zadeh and
+21,"Tap, spring",,,,,,,,,"Sadeghi, 2009)"
+22,"Tap, mineral,",Zn,DES-based TLPE,FAAS,2.37,1,20500,45,3.4,this work
+23,river,,,,,,,,,
+24,"Mineral,",Mg,CPE,FAAS,0.75,5.2,5220,,50,"Giokas et al.,2002"
+25,natural,,,,,,,,,
+26,"Tap, mineral,",Mg,CPE,FAAS,1.47,1.17,7200,20,30/,"Shokrollahi et al.,2011)"
+27,spring,,,,,,,,136,
+28,"Tap, mineral,",Mg,DES-based TLPE,FAAS,1.55,1.3,10-1000,45,2.1,this work

@@ -1,0 +1,10 @@
+,0,1,2,3,4,5
+0,Ingredient,SR-Legacy code,SR-Legacy name,Amount (g),USDA Food Pattern Group (unit),Amount
+1,Enriched White Rice,20048,"Ricewhite,enriched",80,Non-whole grains (oz.eq,2.82
+2,Hydrolyzed Soy Protein,16122,Soy protein isolate,4,Protein foods Soy (oz. eq.),0.28
+3,Carrots (dried),11683,"Carrots, dehydrated",4,Red-orange vegetables (cup eq.2,0.09
+4,Peas (dried),11304,"Peas, green, raw",6,Starchy vegetables (cup eq.),0.04
+5,Sugar (including corn syrup),19335,"Sugars, granulated",1.5,Added sugars (tsp. eq.),0.36
+6,Salt,02047,Salt,2.75,Not a Food Pattern group,0
+7,Food additives,,,1.75,Not a Food Pattern group,0
+8,Total,,,100,,

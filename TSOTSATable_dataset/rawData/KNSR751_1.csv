@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,Primer,Sequence,Fragment,Target element,Reference
+1,,,length (bp),,
+2,IVR1-F/IVR1-R,5-CCg CTg TAT CAC AAg ggC Tgg TAC C-3,226,Maize invertase gene,Ehlers et al.(1997)
+3,,5-ggA gCC CgT gTA gAg CAT gAC gAT C-3',,,
+4,Cry03/Cry04,5'-CTC TCg CCg TTC ATg TCC gT-3,211,Transition site from the,Hupfer et al.(1998
+5,,,,CCDPK-promoter into the,
+6,,,,amino terminal sequence of,
+7,,,,synthetic CrylA(bgene in Bt,
+8,,,,176 maize.,
+9,,5'-ggT CAg gCT CAg gCT gAT gT-3,,,

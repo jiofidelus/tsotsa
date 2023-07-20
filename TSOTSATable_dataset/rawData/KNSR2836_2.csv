@@ -1,0 +1,14 @@
+,0,1,2,3,4
+0,,Vitamin D,,25(OH)D3,
+1,,Internal,External,Internal,External
+2,,std,std,std,std
+3,Concentration found,0.347,,0.149,
+4,n=7,g/100g,,g/100g,
+5,Precision (natural,3.7%,,23%,
+6,leveln=7,,,,
+7,Recovery of enriched,,,,
+8,samplen=7,,,,
+9,Recovery,97%,88%,94%,73%
+10,Recovery RSD,10%,7%,8%,20%
+11,Internal reproducibility,3.5%,,16%,
+12,n=10RSD,,,,

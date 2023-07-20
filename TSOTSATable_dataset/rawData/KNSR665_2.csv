@@ -1,0 +1,8 @@
+,0,1,2,3,4
+0,Correlation,Temperature,Duration,IL,Solvent to
+1,coefficient,,,concentration,material ratio
+2,Temperature,1.000,0.828,0.994,0.923
+3,Duration,0.828,1.000,0.924,0.954
+4,IL concentration,0.994,0.924,1.000,0.810
+5,Solvent to,0.923,0.954,0.810,1.000
+6,material ratio,,,,

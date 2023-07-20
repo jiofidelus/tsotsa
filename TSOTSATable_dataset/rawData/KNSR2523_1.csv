@@ -1,0 +1,12 @@
+,0,1,2
+0,Signal,Chemical Shift (ppm),Functional Group
+1,A,0.830-0.930,"-CHsaturated,oleic and linoleic acyl groups"
+2,B,0.930-1.030,-CHlinolenic acyl groups
+3,C,1.220-1.420,-CHn-acyl groups
+4,D,1.520-1.700,OCO-CH-CH-acyl groups)
+5,E,1.900-2.140,-CH-CHCH-acylgroups
+6,F,2.240-2.360,OCO-CH-acylgroups
+7,G,2.650-2.880,HC-CH2-CHacylgroups
+8,H,4.050-4.350,-CHOCOR(glyceryl groups)
+9,1,5.200-5.260,-CHOCOR(glyceryl groups
+10,J,5.260-5.450,-CH=CH-acyl groups

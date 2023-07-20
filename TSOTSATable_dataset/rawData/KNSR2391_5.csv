@@ -1,0 +1,30 @@
+,0,1,2,3,4,5
+0,Ingredient,SR-,SR-Legacy,Amount,USDA Food,Amount
+1,,Legacy,name (short,(g),Pattern,
+2,,code,version),,Group,
+3,,,,,(unit),
+4,Sugar,19335,Sugar,57.2,Added,13.6
+5,,,granulated,,sugars (tsp.,
+6,,,,,eq.1,
+7,"Wheat flour,",20081,"Wheat flour,",35.0,Non-whole,2.2
+8,bleached,,all-purpose,,grains (oz.,
+9,,,,,eq2),
+10,Egg white,01173,"Egg white,",2.0,Protein,0.15
+11,,,dried,,foods -Eggs,
+12,,,,,oz.eq),
+13,Cornstarch,20027,Cornstarch,1.5,Not a Food,0
+14,,,,,Pattern,
+15,,,,,group,
+16,Baking soda,18372,Baking soda,1.0,Not a Food,0
+17,,,,,Pattern,
+18,,,,,group,
+19,Soy protein,16122,Soy protein,0.5,Protein,0.04
+20,,,isolate,,foods Soy,
+21,,,,,(oz.eq),
+22,Salt,02047,"Salt, table",1.4,Not a Food,0
+23,,,,,Pattern,
+24,,,,,group,
+25,Food,,,1.4,Not a Food,0
+26,additives,,,,Pattern,
+27,,,,,group,
+28,Total,,,100,,

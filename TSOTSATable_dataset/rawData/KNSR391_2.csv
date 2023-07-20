@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6
+0,,,,,,Taste intensities,
+1,FAAs,SeSS (g/L),SS (g/L),Taste attributes,Thresholds (g/L)c,SeSS,
+2,Aspartic acid,5.10  0.19a,4.98  0.17a,Umami,0.17,30.0,29.3
+3,Glutamic acid,7.84  0.32a,7.76  0.31a,Umami,0.075,105,103
+4,Umami FAAs,12.94,12.74,,,135.0,132.3
+5,Serine,4.79  0.18a,4.02  0.15b,Sweet,1.50,3.19,2.68
+6,Glycine,2.03  0.08a,1.98  0.07a,Sweet,1.30,1.56,1.52
+7,Threonine,2.58  0.11a,2.61  0.12a,Sweet,5.2,0.50,0.50
+8,Alanine,2.53  0.10a,2.47  0.09a,Sweet,0.6,4.22,4.12
+9,Proline,2.59  0.12a,2.28  0.10b,Sweet,3.00,0.86,0.76
+10,Lysine,5.68  0.26a,4.97  0.23b,Sweet,0.50,11.4,9.94
+11,Sweet,20.20,18.33,,,21.73,19.52
+12,FAAs,,,,,,
+13,Histidine,1.64  0.09a,1.38  0.08b,Bitter,0.20,8.20,6.90
+14,Arginine,5.56  0.27a,5.23  0.25a,Bitter,0.50,11.1,10.5
+15,Valine,3.16  0.14a,2.98  0.13a,Bitter,0.10,31.6,29.8
+16,Tyrosine,2.27  0.13a,1.62  0.09b,Bitter,0.46,4.93,3.52
+17,Methionine,1.08  0.07a,0.88  0.06b,Bitter,0.30,3.60,2.93
+18,Leucine,5.15  0.17a,4.63  0.15b,Bitter,0.95,5.42,4.87
+19,Isoleucine,3.22  0.14a,3.02  0.13a,Bitter,0.90,3.58,3.36
+20,Tryptophan,0.63  0.06a,0.44  0.04b,Bitter,0.82,0.77,0.54
+21,Phenylalanine,3.73  0.14a,3.63  0.13a,Bitter,0.23,16.2,15.8
+22,Bitter,26.44,23.81,,,85.40,78.22
+23,FAAs,,,,,,
+24,Cysteine,0.10  0.02a,0.04  0.01b,Tasteless,,,
+25,Total,59.68,54.92,,,,

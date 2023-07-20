@@ -1,0 +1,76 @@
+,0,1,2
+0,Food groups,Definition and examples of content,WEIGHT
+1,CEREALS,"Various types, e.g. cracked, flour, flakes, grit",
+2,Rice,Various types of rice; Two groups will be separated:,
+3,,Rice milk,Liquid
+4,,Dry or parboiled rice,Dry
+5,Wheat,"Various types of wheat (e.g. wheat flour, wheat flakes)",Dry
+6,Rye,"Various types of rye (e.g. rye flour, rye flakes)",Dry
+7,Oats,Various types of oats; Two groups will be separated:,
+8,,Dry oats,Dry
+9,,Oat milk,Liquid
+10,Barley,"Various types of barley (e.g. barley flour, barley flakes)",Dry
+11,Corn,"Corn meal, polenta",Dry
+12,Other gluten free flours and starches,"Non-gluten cereals that cannot be categorized to any of the previous categories, e.g. millet,",Dry
+13,,"buckwheat, quinoa, tapioca as well as potato flour starch, wheat starch",
+14,FRUIT AND BERRIES,"Various types, e.g. fresh, cooked, canned, juice, purees (Fruit purees are counted as such under",
+15,,"their corresponding fruit group, i.e.prepared)",
+16,Citrus fruit,"Clementine, grapefruit, lemon, lime, mandarin, orange, tangerine",Raw
+17,Apple,Apple,Raw
+18,Berries,"Strawberry, raspberry, blueberry, lingonberry, bilberry, cloudberry, blackberry, rose hip, acai,",Raw
+19,,"cranberry,arctic brambleberry",
+20,Other fruits,"Banana, nectarine, peach, pineapple, pear, plum, melons, grapes, pomegranate, coconut, kiwi,",Raw
+21,,"passion fruit, cherry",
+22,Canned fruits,All canned fruits are grouped together,Raw
+23,Dried fruits and berries,"Apricot, cranberries, raisins, currants",Dry
+24,Citrus juice,"Orange-, grapefruit-, tangerine juice (100% juice)",Liquid
+25,Apple juice,"Apple juice (100% juice),apple cider",Liquid
+26,Berry juices,All 100% berry juices,Liquid
+27,Other fruit juices,"Cherry-,pineapple juice (100% juice)",Liquid
+28,Mixed Juices,Mixtures of berry and apple juices,Liquid
+29,"Juices, mixture of vegetable and fruit","ACE-juice, i.e. a mixture of carrot and apple/orange",Liquid
+30,VEGETABLES,"Various types, e.g.fresh,cooked, canned, juice",
+31,Potatoes,"Various types of potatoes including cooked, baked, boiled, roasted or pan-fried potatoes, French",Raw
+32,,"fries, dried potatoes, potato flakes, and potato chips",
+33,"Roots,sweet potatoes","Sweet potato, carrot, rutabaga, radish, cassava, yams, celery root, turnip, radish, lotus root, water",Raw
+34,,chestnut,
+35,Leafy vegetables,"Lettuce, arugula, celery stem, mustard green, spinach, asparagus, artichoke, Swiss chard, beet",Raw
+36,,"leaves, fresh basil, fresh coriander, Alfalfa",
+37,Cabbages,"Kale,red cabbage,Chinese cabbage, Savoy, bok choy,broccoli, brussels sprouts,cauliflower, collard",Raw
+38,,"green, Sauerkraut",
+39,Fruit vegetables,"Tomato, eggplant, peppers, zucchini and other squashes, cucumber, plantain, avocado, pumpkin,",Raw
+40,,"fresh corn, okra, heart of palm, bamboo sprouts",
+41,Onions,"All types of onion (e.g. white, yellow, red), spring onion, leek, chives, garlic",Raw
+42,Mushrooms,All wild and cultivated mushrooms,Raw
+43,"Legumes, beans, peas","Lentils,red,kidney,white,lima,black,green beans,peas Note:Dried peas, lentils are not converted",Raw
+44,"Vegetables, dried","All types of dried vegetables (except legumes, beans and peas)",Dry
+45,"Vegetables, canned",All types of canned vegetables,Prepared
+46,Vegetable juices,"Carrot juice, beet juice, vegetable juices like V8, all 100% vegetable juices",Liquid
+47,SOY,,
+48,Soy beans,"Soy nuts, flour, germs, roasted bean",Raw
+49,Soy products,"Soy tofu and cheese, curd",Prepared
+50, Soy milk,Soy milk and cream,Liquid
+51,Soy dessert,"Soy pudding,soy yoghurt,soy ice cream",Prepared
+52,Soy sausage,,Prepared
+53,Soy sauce,"All varieties, e.g. Chinese, Japanese, Vietnamese soy sauce",Liquid
+54,"NUTS,SEEDS","Various types, e.g. grounded, crushed, flakes, milk",
+55,"Nuts, seeds",Various types of nuts; Three groups will be separated:,
+56,,"Nut/seed milks, e.g. almond milk, coconut milk",Liquid
+57,,"Chestnut, peanut, walnut, pistachio, pecan, cashew, sunflower seed, pumpkin seed, sesame, pine",Raw
+58,,"nut, macadamia",
+59,,Nut spreads,Prepared
+60,FATS AND OILS,,
+61,Vegetable oils,"Canola-, olive- sunflower-, corn oils, various nut oils (= liquid at room temperature)",Prepared
+62,Solid vegetable fat,"Vegetable fats such as palm oil, coconut oil,palm kernel oil, and shortening (= naturally solid at",Prepared
+63,,room temperature),
+64,Fish oil,All fish oils,Prepared
+65,Animal fats,"Lard, tallow",Prepared
+66,Butter,"Two groups will be separated, i.e. butter with a fat content <50% and 50%",Prepared
+67,Margarines,"Two groups will be separated, i.e. margarine with a fat content <50% and 50%",Prepared
+68,Butter-margarine mixtures,"Two groups will be separated, i.e. butter-margarine mixtures with a fat content <50% and 50%",Prepared
+69,MILK AND MILK PRODUCTS,"Various types, e.g. slices, shredded, cubes form is taken into account: powder conversion to",
+70,,liquid form,
+71,Breast milk,Human breast milk,Raw
+72,Fat-free milk,Cow's milk or sweetened milk drinks such as cocoa <1%,Raw
+73,Low-fat milk,Cow's milk or sweetened milk drinks such as cocoa 1-2%,Raw
+74,,,(continued on next page)

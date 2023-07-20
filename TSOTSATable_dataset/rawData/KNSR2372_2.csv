@@ -1,0 +1,26 @@
+,0,1,2,3,4,5
+0,Peak,Possible compound,Flesh Blue Bell,Peel Blue Bell,Flesh Melody,Peel Melody
+1,1,Citric acid,V,V,V,V
+2,2,Tyrosine,V,V,V,V
+3,3,Leucine,x,V,V,
+4,4,Quinic acid,V,V,,V
+5,5,Phenylalanine,V,V,V,V
+6,6,Caffeoyl putrescine,x,V,x,V
+7,7,1-Caffeoylquinic acid,,V,,V
+8,8,Tryptophan,V,V,V,V
+9,9,Bis(dihydrocaffeoyl) spermine,x,V,,V
+10,10,Chlorogenic acid,,V,V,V
+11,11,4-Caffeoylquinic acid,x,V,V,V
+12,12,Caffeic acid,,V,x,V
+13,13,Bis(dihydrocaffeoyl) spermidine,,V,,V
+14,14,5-O-feruloylquinic acid,x,V,x,V
+15,15,Tris(dihydrocaffeoyl) spermine,x,V,x,V
+16,16,Rutin,+,x,V,V
+17,17,Ferulic acid derivative,V,V,V,V
+18,18,N-[2-hydroxy-2-(4-hydroxyfenyl) ethyl] ferulamide,x,V,x,V
+19,19,Kaempferol-3-O-rutinoside,,x,V,V
+20,20,"3,4-Di-caffeoylquinic",x,V,x,
+21,22,"3,5-Di-caffeoylquinic",x,V,x,x
+22,22,"N,N,N-tris(dihydrocaffeoyl) spermidine",x,V,x,V
+23,23,"4,5-Di-caffeoylquinic",x,V,x,x
+24,24,Methylumbelliferone,x,V,x,x

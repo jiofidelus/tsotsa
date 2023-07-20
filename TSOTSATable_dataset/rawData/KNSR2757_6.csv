@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6
+0,Analyte/ADI,EDI as a % of ADI,,,,,
+1,,2012,2013,2014,2015,2016,2017
+2,Sulfadiazine/ 0 - 20 g/kg bw,0.14,0.03,0.11,0.02,0.01,0.1
+3,Sulfadimidine/ 0 - 50 g/kg bw,0.02,0.01,0.01,0.02,0.04,<LOD
+4,Sulfamethoxazole/i,detected,<LOD,detected,detected,<LOD,<LOD
+5,Trimethoprim/12.5g/kg bw,0.14,0.12,0.13,0.13,<LOD,0.11
+6,Lincomycin/0 -30 g/kg bw,<LOD,0.34,0.05,0.04,<LOD,0.28
+7,Chlortetracycline/0 -30 g/kg bw,0.19,0.11,0.19,0.09,<LOD,<LOD
+8,Doxycycline/0 -3 g/kg bw,0.89,0.97,<LOD,<LOD,<LOD,1.84
+9,Oxytetracycline/0-30g/kg bw,0.11,0.05,0.15,0.07,<LOD,0.05
+10,Tetracycline/0-30g/kg bw,<LOD,<LOD,0.06,<LOD,<LOD,<LOD
+11,Amoxicillin/0 -0.07 g/kg bw,<LOD,<LOD,<LOD,<LOD,<LOD,<LOD
+12,Tilmicosin/0-40g/kg bw,0.01,<LOD,<LOD,0.02,0.01,0.01

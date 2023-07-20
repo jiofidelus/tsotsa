@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,,,EDIb,,Hazard quotientc,Hazard quotientc,Hazard indexd,
+1,Class,Residue antibiotics,ngg1,ng g-1bw day-1,(ng g~1 bw day~1),(ng g~1 bw day~1),,,,
+2,,,ngg1,,Children,Adult,Children,Adult,Children,Adult
+3,MACROLIDE,Clindamycin,4.80,19,0.04056,0.01990,0.00213,0.00105,0.00213,0.00105
+4,LINCOSAMIDE,Lincomycin,3.59,600,0.03034,0.01488,0.00005,0.00078,0.00005,0.00078
+5,SULFONAMIDE,Sulfadiazine,21.75,Sum of 100,0.18380,0.09016,0.00184,0.00090,0.00682,0.01762
+6,, Sulfathiazole,8.55,,0.07225,0.03544,0.00072,0.00035,,
+7,,Sulfamerazine,24.39,,0.20611,0.10111,0.00206,0.00101,,
+8,,Sulfamethoxazole,15.22,,0.12862,0.06309,0.00129,0.00063,,
+9,,Sulfadimethoxine,10.83,,0.09152,0.04490,0.00092,0.00045,,
+10,AMINOGLYCOSIDE,Spectinomycin,62.05,40,0.52437,0.25723,0.01311,0.01354,0.01311,0.01354
+11,TETRACYCLINE,Oxytetracycline,72.94,3,0.61639,0.30237,0.20546,0.10079,4.62093,2.26680
+12,,Tetracycline,348.68,3,2.94659,1.44545,0.98220,0.48182,,
+13,,Chlortetracycline,1144.38,3,9.67082,4.74402,3.22361,1.58134,,
+14,,Anhydrotetracycline,74.43,3,0.62899,0.30855,0.20966,0.10285,,

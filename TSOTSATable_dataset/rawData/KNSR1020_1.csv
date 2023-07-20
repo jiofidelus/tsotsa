@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Source of variations,Squares sum,Degrees of freedom,Squares mean,F,Probability,Critical value of F
+1,Variance analysis,,,,,,
+2,Copper,,,,,,
+3,Between groups,2.1010-6,5,4.2010-7,0.160,0.974,2.773
+4,Within groups,0.000047,18,2.62  10-6,,,
+5,Total,0.000049,23,,,,
+6,Iron,,,,,,
+7,Between groups,3.1910-3,5,6.3910-4,0.091,0.999,2.773
+8,Within groups,0.12653,18,7.0310-3,,,
+9,Total,0.129728,23,,,,

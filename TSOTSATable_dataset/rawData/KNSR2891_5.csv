@@ -1,0 +1,42 @@
+,0,1,2,3,4
+0,,,Sugar content[g/100gSDn=3],Sugar content[g/100gSDn=3],
+1,No,Sample name,Fructose,Glucose,Sucrose
+2,1,grape molasses 1,39.6  0.3,35.7  0.3,NDb
+3,2,grape molasses 2,29.10.5,26.4  0.3,NDb
+4,3,grape molasses 3,44.6  0.2,26.3  0.4,NDb
+5,4,molasses mix,28.00.5,23.9  0.1,8.25 0.12
+6,5,honey 1,33.5 0.2,25.0 0.7,NDb
+7,6,honey 2,30.9  0.2,21.6  0.6,NDb
+8,7,strawberry jam,12.4  0.2,11.1 0.4,64.8  0.4
+9,8,grape jam,32.7  0.6,31.1  0.1,16.8  0.7
+10,9,pistachio jam,39.9  0.5,39.6 0.5,NDb
+11,10,apricot marmalade,31.3 0.7,28.5  0.4,NDb
+12,11,rose jam,27.5 0.5,42.6  0.5,3.34  0.06
+13,12,peanut butter 1,NDb,NDb,11.31.3
+14,13,peanut butter 2,NDb,NDb,17.7 0.5
+15,14,peanut butter 3,NDb,NDb,8.36 0.11
+16,15,peanut butter 4,NDb,NDb,19.90.3
+17,16,hazelnut spread with,NDb,NDb,22.8  0.9
+18,,cocoa 1,,,
+19,17,hazelnut spread with,NDb,NDb,40.40.2
+20,,cocoa 2,,,
+21,18,hazelnut spread with,NDb,NDb,35.2 0.9
+22,,cocoa 3,,,
+23,19,strawberry,2.74  0.19,2.14  0.08,1.550.32
+24,20,cherry,3.820.26,3.68  0.30,NDb
+25,21,mulberry,3.400.36,2.840.27,NDb
+26,22,nectar,0.8520.241,0.4640.051,7.17 0.52
+27,23,banana,8.120.89,8.13 0.57,4.150.24
+28,24,watermelon,4.29 0.48,1.76  0.08,3.49  0.47
+29,25,melon,2.210.29,1.590.30,2.530.09
+30,26,apricot,1.26 0.16,1.470.11,7.03 0.18
+31,27,apple,6.29  0.42,2.45  0.12,0.590.08
+32,28,pineapple,1.39 0.18,0.8330.050,8.090.47
+33,29,carrot,1.23 0.21,1.410.74,0.5420.141
+34,30,orange,1.44 0.96,1.280.39,4.06 0.29
+35,31,red beet,NDb,NDb,9.81 0.16
+36,32,tomato,2.74  0.96,2.33 0.12,NDb
+37,33,grapefruit,4.010.31,3.60  0.16,7.06 0.16
+38,34,plum,2.31 0.97,1.560.31,7.01 0.57
+39,35,black berry,2.94 0.27,2.56  0.26,NDb
+40,36,fresh corn,NDb,NDb,10.2 1.1

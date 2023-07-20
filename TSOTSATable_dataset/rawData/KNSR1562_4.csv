@@ -1,0 +1,34 @@
+,0,1,2,3,4,5
+0,Study site,,Pb (g/gww),Cd (g/gww),Hg (g/gww),Reference
+1,,,Mean  sd (min-max),Mean  sd (min-max),Mean  sd (min-max),
+2,Mediterranean Basin,Spain (Catalonia),0.08,0.002  0.01,0.09,Falco et al. (2006)
+3,occidental,Spain (Valenvia),0.05 (0.020.36),0.01 (0.0030.021),0.04 (0.020.3),Yusa et al.2008
+4,,France,0.04,,-,Guerin et al.2011
+5,,Italy (Sicily),<0.06,0.045  0.020,0.31  0.26,Copat et al.2012)
+6,,Italy (Sicily),<LD,0.087  0.031,0.132  0.108,Naccari et al.(2015
+7, Mediterranean Basin,Egypt (Suez Canal in Port- Said Harbour),-,0.028  0.012,0.287  0.910,Soliman (2006)
+8,Oriental,,,0.02-0.04,0.200.52,
+9,,Egypt (Kafr Elsheikh,0.33  0.01,-,0.72  0.01,Ali Shokr et al.(2019)
+10,,Governorate),0.100.62,,0.17-1.19,
+11,,Turkey (Izmir),0.14  0.17,0.46  0.56,0.03  0.02,Yabanli (2013)
+12,,,LD-0.38,LD-1.25,0.010.05,
+13,,Turkey (Mersin),0.91  0.08,<0.0004,,Korkmaz et al. (2017)
+14,,,0.571.37,,,
+15,Mediterranean Basin,Morocco (estuaire du bas loukkos),0.55  0.03,"0.08  0,15",,El Morhit et al.(2012)
+16, North Africa,,"0,510,59",0.009-0310,,
+17,,Morocco (Laayoune),0.002  0.001,0.09  0.06,-,El Morhit et al. (2013)
+18,,,0.001-0.008,0.010.23,,
+19,,Oran,0.02  0.01,10.99  3.93,,Merbouh (1998)
+20,,Ghazouet (Tlemcen),0.013,,0.077,Benguendouz (2018)
+21,,Beni saf (Ain T e mouchent),0.018,,0.101,
+22,,Mostaganem,0.024,-,0.117,
+23,,Jijel,0.017,,0.091,
+24,,Algiers,0.016,,0.091,
+25,,Boumerdes,0.99  0.11,00,,Ouabdesselam et al.(2017)
+26,,Boumerdes,0.055  0.021,0.031  0.017,-,Hamida et al. (2018)
+27,,Algiers,0.23  0.26,0.13  0.09,0.1  0.03,Present study
+28,,,(0.210.25),(0.040.31),(0.090.11),
+29,,Bejaia,0.09  0.01,0.04  0.02,0.22  0.01,Present study
+30,,,(0.090.09),(0.010.08),(0.080.50),
+31,,Dellys,0.03  0.003,0.015  0.005,0.13  0.05,Present study
+32,,,(0.010.06),(0.010.02),(0.060.20),

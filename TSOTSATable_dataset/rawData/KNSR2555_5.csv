@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Cut,Fabrication,Cooking,Bone,Cooking,Trim,N,Fat,Moisture,Protein
+1,,,method,status,temperature/final,(cm),,(SEM),(SEM),(SEM)
+2,,,,,internal,,,,,
+3,,,,,temperature (C),,,,,
+4,Ribeye lip-on,Roast,Roasted,Bone-in,160/60,0.32,36,22.7a(0.73),53.3a(0.53),23.5b(0.24)
+5,Ribeye lip-on,Steak,Grilled,Bone-in,195/70,0.32,36,24.2a(0.50),52.5b(0.34),23.0b(0.23)
+6,,,,,,,,p=0.05,p=0.2,p=0.06
+7,Ribeye lip-on,Roast,Roasted,Boneless,160/60,0.32,36,21.5a(0.85),54.5ay(0.33),24.3a(0.31)
+8,Ribeye lip-on,Steak,Grilled,Boneless,195/70,0.32,36,21.8bx(0.45),54.5ay(0.33),23.7ay(0.19)
+9,,,,,,,,p=0.7,p=0.4,p=0.06
+10,Ribeye lip-off,Steak,Grilled,Boneless,195/70,0.32,36,19.1(0.50),55.5*(0.33),24.8*(0.21)
+11,,,,,,,,p<0.001,p=0.01,p<0.001

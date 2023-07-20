@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8
+0,Methods,Extraction,Analytes,Sample,Sample,Linear range,LODg L-1/,RSDs,Ref.
+1,,time (min),,,amount,gL-1/g,gkg1,(%),
+2,,,,,(g),kg-1,,,
+3,UASE-DLLME-,45,"Phorate, diazinon, disolfotane, methyl",Tomato,1,0.5-1000,0.1-0.5,<10,Bidari
+4,GC-FPD,,"parathion, sumithion, chloropyrifos,",,,,,,"et al.,2011"
+5,,,"malathion, fenthion, profenphose, ethion,",,,,,,
+6,,,"phosalone, azinphose-methyl, co-ral",,,,,,
+7,GC  GC-FPDb,~41+,"Methamidophos, dichlorvos, acephate,",Vegetablefruit,5,5-1000,1.5-5.6,<19,"Liu et al.,"
+8,,evaporation,"methoate, dimethoate, isazofos,",and grain,,,,,2012
+9,,step,"chlorpyrifos-methyl, parathion-methyl,",,,,,,
+10,,,"fenchlorphos, fenitrothion, pirimiphos-",,,,,,
+11,,,"methyl, malathion, chlorpyrifos, parathion,",,,,,,
+12,,,"isocarbophos, and triazophos",,,,,,
+13,UASE-DLLME-,35,"Diazinon, phosalone, chlorpyrifos and","Cucumber,",1,5-500,1-4,9,Pirsaheb
+14,SFO-HPLC-UV,,fenthion,"watermelon,",,,,,"et al.,2013"
+15,,,,melon and ribbed,,,,,
+16,,,,melon,,,,,
+17,SPME-GC-NPD,85,"Famphur,pyrozophos and pyridafenthion","Cucumber, lettuce,",2,0.005-2,0.0015-0.01,<3,Saraji
+18,,,,tap and well water,,,,,et al.2013
+19,,,,samples,,,,,
+20,SPME-GC-FPDe,41,"Ethoprophos,sulfotep,diazinontolclo","Cabbage, kale and",0.5,0.1-100,0.01-0.14,<18,Sapahin
+21,,,"fos-methyl, fenitrothion, chlorpyrifos,",mustard,,,,,"et al.,2015"
+22,,,"isofenphos, methidathion, ethion,",,,,,,
+23,,,"triazophos,leptophos",,,,,,
+24,QuEChERs-,~26+,"Parathion,phosphoric acid,parathion","Apple, pear,",10,10-1000,0.13-6,<20,Cheng
+25,APGC-QTOF,evaporation,"methyl, fenthion, triazophos, diazinon,","tomato, cucumber",,,,,"et al.,2017"
+26,MSf,step,"dimethoate, pirimiphos-methyl,",and cabbage,,,,,
+27,,,"fenitrothion, malathion, phosalone,",,,,,,
+28,,,"quinalphoschlorpyrifos,tolclofos-methyl",,,,,,
+29,Biosurfactant,20,"Sulfotep, diazinon, tolclofos-methyl,",Cabbage,10,0.5-500,0.08-0.15,<16,This work
+30,enhanced,,"chlorpyrifos, isofenphos and ethion",,,,,,
+31,MSPE-GC-FID3,,,,,,,,

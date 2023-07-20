@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7
+0,,Treatments,,,,,,
+1,Taste and colour scores,,,,,,,p value
+2,,C,TAN,M1,M7,M21,LH,p value
+3,Colour (1-10 points,,,,,,,
+4,Yellow/green,6.88  0.22a,7.83  0.14a,5.04  4.37a,1.29  2.24b,n.d.,n.d.,<0.001
+5,Yellow,n.d.,n.d.,2.71  4.69bc,6.50  2.41b,8.13  0.25a,8.83  0.07a,<0.001
+6,Reflection (1-10 points,,,,,,,
+7,Green,5.29  0.81a,2.83  0.52b,2.08  1.91b,0.42  0.72c,n.d.,n.d.,<0.001
+8,Yellow,7.04  0.07d,7.79  0.26bc,7.50  0.43cd,7.54  0.51c,8.13  0.00b,8.67  0.19a,<0.001
+9,OIV visual category score (15 points total),14.25 0.00,14.25 0.00,14.25 0.00,14.25 0.00,14.250.00,14.25 0.00,
+10,OIV total taste score,34.00  0.25c,35.33  0.38b,35.33  0.29b,34.17 0.14c,35.83  0.52b,38.33  0.14a,<0.001
+11,(44 points total),,,,,,,
+12,OIV harmony-overall judgement score,9.33  0.38b,9.50  0.25b,9.92  0.29a,9.25  0.00b,10.000.00a,10.17  0.14a,0.001
+13,(7-11 points),,,,,,,
+14,OIV 100-point score (100 points total),81.75  0.25d,83.16  0.57c,85.16  0.38b,82.08  0.29,85.83  0.52,89.33  0.38,<0.001

@@ -1,0 +1,71 @@
+,0,1,2,3,4
+0,Pesticide,% Recovery 100 g L-1,%RSD,% Recovery 500 g L-1,%RSD
+1,Molinate,82.0,11.3,87.6,11.0
+2,Propamocarb,92.0,14.5,106,11.2
+3,Carbendazim,92.0,9.8,105,8.8
+4,Carbaryl,87.6,7.1,94.9,7.1
+5,Isoproturon,101,11.7,108,11.0
+6,Acetamiprid-N-desmethyl,93.2,15.8,97.3,13.2
+7,Pymetrozine,98.5,13.5,60.3,11.1
+8,Dichlorovos,83.4,13.5,60.3,13.5
+9,Carbofuran,85.8,16.4,92.3,16.0
+10,Acetamiprid,98.0,11.8,108,10.7
+11,Ethiophencarb,98.0,11.0,110,10.7
+12,Ametryn,80.0,13.3,85.2,10.1
+13,Ametryn,83.8,13.3,85.1,13.4
+14,Carboxin,87.6,9.9,88.8,9.5
+15,Primicarb,107,10.4,94.9,9.7
+16,Bentazone,78.1,7.7,91.1,7.4
+17,Terbutryn,73.9,8.3,79.6,8.1
+18,Prosulfocarb,98.4,18.9,98.8,18.0
+19,Imidacloprid,93.1,11.1,94.3,10.7
+20,Imidacloprid,93.1,17.1,94.3,16.6
+21,Trichlorfon,73.0,4.8,77.1,4.7
+22,Bromacil,86.1,17.7,94.9,16.5
+23,Spiromesifen,77.0,16.6,82.1,8.0
+24,Fenitrothion,77.0,8.4,82.1,8.0
+25,Fenthion,85.0,17.9,90.2,17.0
+26,Metalaxyl,85.0,17.9,90.2,17.0
+27,Penconazole,77.6,9.0,81.1,8.8
+28,Ethofumesate,91.3,10.8,102,19.0
+29,Imazethapyr,82.4,13.3,87.2,10.1
+30,Isoprothiolane,83.0,13.3,90.2,12.0
+31,Thiametaxam,87.2,17.4,91.4,16.9
+32,Cyproconazole,72.2,10.4,82.4,10.1
+33,Amitraz,75.7,10.4,82.4,9.8
+34,Tridemorph,110,16.7,117,16.0
+35,Desmedifam,104,10.5,111,10.7
+36,Phenmedipham,80.4,10.5,85.1,10.5
+37,Spirotetramate-enol,87.1,17.3,91.9,16.9
+38,Fenamiphos,90.0,13.3,94.2,13.0
+39,Buprofezin,96.7,10.9,83.6,10.5
+40,Tebuconazole,92.0,9.6,105,9.0
+41,Edifenphos,107,13.3,113,10.1
+42,Butachlor,92.5,12.4,74.8,4.8
+43,Fenamidone,92.5,12.4,97.3,12.1
+44,kresoxim-(methyl),93.2,14.0,107,14.0
+45,Hexaconazole,70.0,5.0,74.4,4.9
+46,Sulfotep,88.9,18.8,92.3,12.3
+47,Diniconazole,83.5,18.8,86.7,18.4
+48, Malathion,105,18.1,108,18.0
+49, Malathion,98.0,10.0,85.3,9.7
+50,Carpropamid,80.0,8.9,85.3,8.9
+51,Cloquintocet mexyl,83.8,9.5,85.1,9.7
+52,Bitertanol,77.8,9.5,82.0,9.1
+53,Thiophanate methyl,87.6,17.4,94.9,16.8
+54,Boscalid,73.9,4.8,79.6,4.1
+55,Clodinafop-propargil,73.9,8.8,79.6,8.5
+56,Fenpropathrin,92.6,14.1,92.9,13.9
+57,Chloropyrifos,81.5,12.0,83.7,11.5
+58,Piperonyl butoxide,73.0,9.7,77.1,9.2
+59,Fenoxaprop-ethyl,73.0,4.1,92.7,3.3
+60,Flamprop-isopropyl,86.1,15.5,92.7,15.9
+61,Pyridaben,87.6,15.5,94.9,15.0
+62,Propargite,70.0,9.9,71.8,9.4
+63,Propargite,73.0,6.8,71.8,6.2
+64,Anilofos,73.0,8.7,74.5,8.2
+65,Spirotetramate,80.0,16.4,84.4,17.5
+66,Haloxyfop-R-methyl,82.4,13.1,82.5,17.5
+67,Prochloraz,93.2,17.5,97.3,13.1
+68,Pyridate,98.5,11.8,107,15.7
+69,Fluazafop-p-butyl,98.5,11.8,111,11.8

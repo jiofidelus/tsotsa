@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7
+0,Cultivation practice,Days after,mg/100 g,,,,,
+1,,harvest,,,,,,
+2,,,Harvest year 2008(early),Harvest year 2008(early),,Harvest year 2009(late,Harvest year 2009(late,
+3,,,Octopomine,Synephrine,Tyramine,Octopomine,Synephrine,Tyramine
+4,Conventional,4,22.5  0.80a,10.9  1.62a,16.3  1.58a,6.1  1.84a,3.8  2.25a,4.4  1.68a
+5,Organic,4,17.9  2.76b,10.4  1.09a,16.8  0.98a,5.5  2.97b,3.8  1.57a,4.0 1.75b
+6,Conventional,11,19.2  1.53b,12.4  0.52a,15.3  0.37b,6.8  2.28a,3.8  3.20a,4.7  2.39a
+7,Organic,11,21.5  1.69a,12.3  1.27a,18.7  0.64a,5.4  3.66b,4.5  3.80a,4.5  2.58a
+8,Conventional,18,19.9  1.09a,12.0  0.79a,15.2  2.81a,5.9  4.51a,3.3  1.48b,4.5  2.58a
+9,Organic,18,19.3  1.60a,11.8  1.90a,14.9  0.98a,5.5  3.66a,4.4  3.88a,5.6  4.41a
+10,Conventional,25,19.3  1.60a,10.8  0.52a,15.6  1.37a,5.4  3.44a,3.8  1.39a,5.6  4.41a
+11,Organic,25,17.2  0.91b,11.3  0.75a,14.5  1.04b,4.0 2.71b,3.9  0.84a,4.3  2.23b

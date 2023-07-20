@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Species,Raw/Cooked,Total 3-carotene,Trans -carotene,% Trans of total,Vitamin
+1,,,(ug),(ug),-carotene (g),B2(mg)
+2,Amaranthus tricolor (misbredie),Raw,1601,1214,75.8,0.03
+3,,Cooked,2343,1701,72.6,0.01
+4,Cucurbita maxima (pumpkin leaves),Raw,1695,1300,76.7,0.12
+5,,Cooked,796,589,74.9,0.08
+6,Vigna unguiculata (cowpea leaves),Raw,2249,1748,77.7,0.05
+7,,Cooked,2614,1727,66.1,0.04
+8,Cleome gynandra (cat's whiskers),Raw,4117,2949,71.6,0.08
+9,,Cooked,6047,2332,71.6,0.06
+10,Corchorus tridens (wild jute),Raw,3663,2748,75.0,0.07
+11,,Cooked,6135,4384,71.5,0.04

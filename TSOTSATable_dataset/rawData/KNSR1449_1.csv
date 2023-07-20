@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8
+0,Order,Family,Species,FAO fish,Reproduction,Habitat,,Food habits,
+1,,,,species code,,,,,
+2,,,,,,Pelagic,Demersal,Planktivorous Omnivorous,Carnivorous
+3,Pleuronectiformes,Escoftalmidae Lepidorhombus boscii,Escoftalmidae Lepidorhombus boscii,Fourspot megrim,Spring,,,,x
+4,Lamniformes,Lamnidae,Isurus oxirinchus,Shortfin mako,,X,,,x
+5,Perciformes,Trachinidae,Trachinus draco,Great weaver,June to September,,x,,X
+6,Perciformes,Sparidae,Pagellus acarne,Axillary seabream,,,,,
+7,Perciformes,Scombridae,Scomber scombrus,Atlantic Mackerel,Winter-spring,X,,,X
+8,Clupeiformes,Eugralidae,Eugraulis encrasicholus,European anchovy,July to September,X,,X,
+9,Clupeiformes,Clupeidae,Sardina pilchardus,European pilchard,June to August,X,,X,
+10,Gadiformes,Phycidae,Phycis Phycis,Forkbeard,January to May,,,,X
+11,Gadiformes,Gadidae,Micromesistius poutassou,Blue whiting,January to February,,,,X
+12,Gadiformes,Gadidae,Gadus morhua,Atlantic Cod,,,X,,X
+13,Gadiformes,Merluccidae,Merlucius vulgaris,Hake,December to June,,,,X
+14,Gadiformes,Merluccidae,Merluccius merluccius,European hake,December to June,,X,,X

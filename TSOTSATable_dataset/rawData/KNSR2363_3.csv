@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Peak No.,Rt,Amax,[M-H]-m/,Proposed,Exact,Measured,Am,MS/MS fragments (m/z),Tentative identification
+1,,(min),(nm),z)c,formula,mass,mass,(ppm),,
+2,49.,7.66,350,609.1484,C27H3oO16,610.5175,610.1563,0.36,301.0355,Quercetin hexoside-
+3,,,,,,,,,,deoxyhexosideb
+4,50.,7.69,355,463.0887,C2H2oO12,464.3763,464.0966,0.28,301.0354,Quercetin 3-O-galactosideb
+5,52.,8.22,355,463.0843,C21H2oO12,464.3763,464.0922,0.28,301.0355,Quercetin 3-O-glucosideb
+6,53.,8.30,340,505.0995,C23H22O13,506.4130,506.1074,0.31,"463.0843,301.0354",Quercetin-acylated-hexoside
+7,54.,8.33,351,623.1611,C2gH32O16,624.5441,624.1690,0.38,315.0421,Isorhamnetin 3-0-rhamnosyl-
+8,,,,,,,,,,hexosideb
+9,55.,8.45,351,623.1611,C2gH32O16,624.5441,624.1690,0.38,315.0421,Isorhamnetin 3-O-rhamnosyl-
+10,,,,,,,,,,hexosideb
+11,57.,8.56,350,477.1016,C22H22O12,478.4029,478.1095,0.29,315.0421,Isorhamnetin 3-0-hexosideb
+12,59.,8.70,350,477.1017,C2H22O12,478.4029,478.1096,0.29,315.0421,Isorhamnetin 3-0-hexosideb
+13,60.,8.90,350,477.1016,C22H22O12,478.4029,478.1095,0.29,315.0421,Isorhamnetin 3-O-hexosideb
+14,62.,9.17,340,519.1155,C24H24O13,520.4396,520.1234,0.32,315.0457,Isorhamnetin-acylated-hexoside
+15,63.,9.34,340,519.1155,C24H24O13,520.4396,520.1234,0.32,315.0512,Isorhamnetin-acylated-hexoside
+16,Flavones,,,,,,,,,
+17,39.,5.78,340,401.1441,C2oH1gOg,402.3515,402.1520,0.20,269.1006,Apigenin pentoside
+18,Hydroquinones,Hydroquinones,,,,,,,,
+19,2.,2.11,282,271.0841,C12H16O7,272.2512,272.0920,0.16,,Arbutinb

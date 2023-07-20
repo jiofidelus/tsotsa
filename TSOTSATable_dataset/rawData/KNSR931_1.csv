@@ -1,0 +1,36 @@
+,0,1,2,3,4,5
+0,Figure of merit,Figure of merit,,,,
+1,,1LR (ng mL-1),0.3-70.0,,,
+2,,2LOD (ng mL-1),0.3,,,
+3,,3LOQ(ng mL-1),0.9,,,
+4,Intra-day,Intra-day,2.4,,,
+5,,precision RSD%,,,,
+6,,n=3,,,,
+7,Inter-day,Inter-day,4.6,,,
+8,,precision RSD%.,,,,
+9,,n=3,,,,
+10,12,,0.9962,,,
+11,,External calibration,"y=446,32",,,
+12,,(ECequation,"[OTA]-508,64",,,
+13,Matrix-matched,Matrix-matched,"y=394,39",,,
+14,,calibration (M-MC,"[OTA]+261,37",,,
+15,,equation,,,,
+16,,Recovery study for,,,,
+17,,the analysis of,,,,
+18,,spiked coffee,,,,
+19,,infusions after,,,,
+20,,applying the,,,,
+21,,proposed,,,,
+22,,methodology,,,,
+23,,Sample concentration,Concentration,Concentration,FRR,"""RSD"
+24,,ng mL-1,added (ng,Found after,(%),(%)
+25,,,mL-1,considering theEF,,n=3
+26,,,,x7(ng mL-1,,
+27,N.D.*,N.D.*,0.0,,,
+28,*,,0.25,1.52,87.4,4.1
+29,*,,0.5,3.3,90.3,2.4
+30,*,,1.0,4.7,80.1,3.3
+31,*,,2.5,13.6,86.0,7.5
+32,*,,5.0,27.6,80.6,8.7
+33,*,,8.0,44.1,82.6,1.1
+34,*,,10,61.1,91.7,6.5

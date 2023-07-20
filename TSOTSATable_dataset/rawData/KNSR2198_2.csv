@@ -1,0 +1,57 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Food group1,n,Serving size,,Moisture (g),Wholegrain (g) per 100 g3,Wholegrain (g) per 100 g3,,Wholegrain (g) per serving,Wholegrain (g) per serving,
+1,,,,,per 100 g2,,,,,,
+2,,,Labelled5,Standards,,MeanSD,Median,Ranges,MeanSD7,Median,Ranges
+3,,,mean),(mean),,,,,,,
+4,"Tortilla, Taco Shells, And Corn Bread",3,38.7,40.0,33.2,24.9  17.3,28.6,6.0-40.0,9.96.9,11.4,2.4-16.0
+5,"Tortilla, corn flour",1,28.0,40.0,45.9,6.0-,6.0,0.0,2.4  -,2.4,0.0
+6,"Tortilla, multigrain, wheat based",1,48.0,40.0,26.8,28.6  -,28.6,0.0,11.4-,11.4,0.0
+7,"Tortilla,wholemeal,wheat based",1,40.0,40.0,26.8,40.0-,40.0,0.0,16.0-,16.0,0.0
+8,Pasta And Pasta Products,7,104.6,34.6,9.6,86.0  23.9,100.0,51.0-100.0,29.8  8.5,33.6,17.5-36.8
+9,"Pasta, Including Plain, Flavoured and Egg Varieties",7,104.6,34.6,9.6,86.0  23.9,100.0,51.0-100.0,29.8  8.5,33.6,17.5-36.8
+10,"Pasta,wholemeal wheat flour,dry",7,104.6,34.6,9.6,86.0  23.9,100.0,51.0-100.0,29.8  8.5,33.6,17.5-36.8
+11,"Breakfast Cereals,Unfortified and Fortified Varieties",80,41.0,30.0,7.1,59.9  20.7,61.5,6.0-100.0,18.0  6.2,18.5,1.8-30.0
+12,"Breakfast Cereal, Oat Based",2,66.0,30.0,8.0,70.0-,70.0,0.0,21.0-,21.0,0.0
+13,"Breakfast cereal, oats, fruit juice, added fruit and flavours, unfortified",2,66.0,30.0,8.0,70.0-,70.0,0.0,21.0-,21.0,0.0
+14,"Breakfast Cereal, Oat Based,Fortified",1,30.0,30.0,3.0,44.0 -,44.0,0.0,13.2  -,13.2,0.0
+15,"Breakfast cereal,oat flakes,rice & wheat,added",1,30.0,30.0,3.0,44.0 -,44.0,0.0,13.2  -,13.2,0.0
+16,"vitamins B1,B2,B3& D& Fe",,,,,,,,,,
+17,"Breakfast Cereal, Wheat Based",,39.0,30.0,6.4,99.01.7,100.0,97.0-100.0,29.70.5,30.0,29.1-30.0
+18,"Breakfast cereal, whole wheat, biscuit, organic, unfortified",1,47.0,30.0,5.9,97.0-,97.0,0.0,29.1-,29.1,0.0
+19,"Breakfast cereal, whole wheat, biscuit, small, unfortified",1,47.0,30.0,6.8,100.0-,100.0,0.0,30.0-,30.0,0.0
+20,"Breakfast cereal, whole wheat, puffed, unfortified",1,40.0,30.0,4.4,100.0-,100.0,0.0,30.0,20.3,0.0
+21,"Breakfast Cereal,Wheat Based,Fortified",12,35.7,30.0,5.1,72.3  20.8,67.5,42.099.0,15.9-,20.3,12.629.7
+22,"Breakfast cereal,wheat bran,flakes,added",1,40.0,30.0,4.6,53.0-,53.0,0.0,15.9-,15.9,0.0
+23,"vitamins B1,B2 B3,& folate,Fe & Zn",,,,,,,,,,
+24,"Breakfast cereal,wheat bran,flakes,honey & almond,",1,45.0,30.0,4.6,42.0-,42.0,0.0,12.6-,12.6,0.0
+25,"added vitamins B1, B2,B3 & folate,Fe & Zn",,,,,,,,,,
+26,"Breakfast cereal, wheat, extruded, chocolate coating.",1,30.0,30.0,3.7,61.0-,61.0,0.0,18.3-,18.3,0.0
+27,"added vitamins B1,B2,B3,C & folate,Ca,Fe & Zn",,,,,,,,,,
+28,"Breakfast cereal,wheat, extruded, chocolate malt coating,",1,30.0,30.0,3.7,53.0  -,53.0,0.0,15.9 -,15.9,0.0
+29,"added vitamins B1,B2,B3,C & folate,Ca,Fe & Zn",,,,,,,,,,
+30,"Breakfast cereal, wheat, flakes, sweetened, psyllium, added",1,30.0,30.0,4.6,62.0  -,62.0,0.0,18.6-,18.6,0.0
+31,"vitamins B1, B2, B3, C & folate, Fe & Zn",,,,,,99.0,,,,
+32,"Breakfast cereal, whole wheat,biscuit, added vitamins B1,B2 & B3",1,30.0,30.0,6.8,99.0 -,97.0,0.0,29.7-,29.7,0.0
+33,"Breakfast cereal, whole wheat, biscuit, added",1,30.0,30.0,5.9,97.0  -,97.0,0.0,29.1-,29.1,0.0
+34,"vitamins B1,B2, B3 & folate,Fe & Zn",,,,,,,,,,
+35,"Breakfast cereal,whole wheat, biscuit, bran,",1,40.0,30.0,5.8,57.0-,57.0,0.0,17.1 -,17.1,0.0
+36,"added B1,B2, B3 & folate & Fe",,,,,,57.0,,,,
+37,"Breakfast cereal, whole wheat, biscuit, children's product, added",1,30.0,30.0,5.0,96.0  -,96.0,0.0,28.8  -,28.8,0.0
+38,"vitamins B1, B2 & B3, Ca,Fe & Zn",,,,,,,,,,
+39,"Breakfast cereal, whole wheat, biscuit, small, honey, added",2,45.0,30.0,5.9,74.5  -,74.5,73.076.0,22.4-,22.4,21.9-22.8
+40,"vitamins B1,B2,B3 & folate,Fe &Zn",,,,,,,,,,
+41,"Breakfast cereal,whole wheat,flakes,added vitamins B1 & B3",1,30.0,30.0,5.4,99.0-,99.0,0.0,29.7-,29.7,0.0
+42,"Breakfast Cereal,Wheat Based,With Added Fruit/And Or Fortified",9,42.2,30.0,8.1,53.5  20.4,55.0,23.5-74.0,16.16.1,16.5,7.122.2
+43,"Breakfast cereal,wheat bran & oats,flakes,dried fruit,added",1,45.0,30.0,6.6,26.2 -,26.2,0.0,7.9  -,7.9,0.0
+44,"vitamins B1,B2,B3 & folate &Fe",,,,,,,,,,
+45,"Breakfast cereal,wheat bran,flakes,sultanas, added",2,45.0,30.0,8.4,30.8-,30.8,23.5-38.0,9.2  -,9.2,7.1-11.4
+46,"vitamins B1,B2,B3& folate,Fe &Zn",,,,,,,,,,
+47,"Breakfast cereal,wheat bran,flakes,sultanas, almonds,apple",1,40.0,30.0,8.3,55.0-,55.0,0.0,16.5-,16.5,0.0
+48,"added vitamins B1,B2,B3 & folate,Ca & Fe",,,,,,,,,,
+49,"Breakfast cereal, whole wheat, biscuit, small, fruit or fruit paste,",2,40.0,30.0,9.8,73.5 -,73.5,73.0-74.0,22.1-,22.1,21.9-22.2
+50,"added vitamins B1,B2,B3 & folate",,,,,,,,,,
+51,"Breakfast cereal, whole wheat, biscuit, small, fruit paste, added",1,35.0,30.0,9.8,50.0-,50.0,0.0,15.0-,15.0,0.0
+52,"vitamins B1,B2,B3& C&Fe",,,,,,,,,,
+53,"Breakfast cereal, whole wheat, biscuit, small, fruit, added",2,45.0,30.0,5.9,71.0-,71.0,0.0,21.3-,21.3,0.0
+54,"vitamins B1,B2,B3& folate,Ca & Fe",,,,,,,,,,
+55,"Breakfast Cereal, Mixed Grain, Fortified",14,37.8,30.0,5.5,59.6  25.6,60.0,6.0-98.0,17.9  7.7,18.0,1.8-29.4

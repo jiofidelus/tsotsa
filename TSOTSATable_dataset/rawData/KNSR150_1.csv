@@ -1,0 +1,9 @@
+,0,1
+0,Parameters,Value
+1,Analytical column,"Hamilton PRP-X100,150  4.6mm,5m"
+2,Injection volume,25.0 L
+3,Flow rate of elution,1.50 mL/min
+4,Elution mode,Gradient elution
+5,Running buffer solution 1,1.00mmol/LNH4CO3
+6,Running buffer solution 2,"10.0 mmol/L(NH4HPO4pH 9.50,adjusted with"
+7,,NHHO

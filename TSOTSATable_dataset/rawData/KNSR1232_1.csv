@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6
+0,Methods,Comments*,Linear ranges g L,LODs (g L-1),Recoveries (%),Samples,References
+1,HPLC-MS/MS,SPE,0.525 g kg-1,0.5 g kg-1,66120,Fish,"Nebot et al.,2013"
+2,HPLC,MIP-SPE,0.5-250,0.083,7696,water,"(Hashemi et al.,2019"
+3,HPLC,-CD-GO/MeS,500-20000,210,88.6-100.8,Fish,"Gao et al.,2019"
+4,,-FeO3/SDS,0.50-250.0,0.28,93.7-104.5,Fish,"(Afkhami et al., 2010)"
+5,Spectrophotometry,Tb-MOF,3.65-109.02,1.66,95.6-104.3,Fish,"(Mohammadnejad et al.,2018)"
+6,,PMM,500-30000,200,95-101,Fish,"(Gavrilenko et al.,2019)"
+7,ELISA,dc-ELISA,0.1-100,0.02,76.2-95.0,Fish,"(Xing et al., 2009)"
+8,ELISA,visible light,"0.1-10,000",0.1,85-106,Fish,"(Li et al.,2016)"
+9,Mini-column,visible light,>2,2,Not given,Fish,"(Shalaby et al.,2017"
+10,SERS,AuNPs/GO,10-1000,0.01,Not given,Fish,"(Zhao et al.,2020)"
+11,SERS,MoS2,3.6  10-4-3.6  106,3.6  10-4,Not given,Water,"Jiang et al., 2020)"
+12,Electrochemistry,RNA@CSs,0.30-145.4,0.054,97-108,water,"(Danesh et al.,2021)"
+13,Electrochemistry,Ag/Cu-MOF,0.865.0 (10-140 nmol L-1),0.80,94-98,Fish,"Zhou et al.,2019)"
+14,Fluorescence,Carbon dots,"36.5-36,492 (0.1-10 mol L-1)",339.37,96.0104.8,Fish,"Hu et al.,2021a,2021b)"
+15,Fluorescence,Quantum dots,29.2-7298.4 (0.0820 mol L-),12.0,94-109,Fish,"Wu et al.,2017"
+16,,AuNPs,50350 (0.14-0.96 mol L),3.02,96-104,Fish,"(Heleyel and Elhami, 2019)"
+17,Colorimetry,AuNPs/RNA,7.3-109.5(0.02-0.3 mol L-,5.82,96-104.8,Fish,"Jia et al.,2018"
+18,,Apt/Fe3O4,18.24-875.8 (0.06-2.38 mol L-,10.916.7g kg,93-117,Fish,This work

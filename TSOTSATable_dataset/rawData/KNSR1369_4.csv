@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Dish name:,,Analyzed values-,Analyzed values-,,,,Calculated values-,,
+1,,Protein,Fat,CHO,Kcal/,Protein,Fat,CHO,Kcal/,Ne
+2,,(g/100g),g/100g,g/100g),100g,g/100g),(g/100g),g/100g),100g,
+3,"Githeri - plain (maize, beans)",6.3,1.4,31.1,163,5.1,1.6,29.6,147,1760
+4,Githeri - with fat and onions,4.2,1.8,24.2,130,4.5,1.9,25.9,135,1208
+5,Githeri - with fat and vegetables,4.5,1.9,25.9,138,4.3,1.8,24.3,126,483
+6,"itwero -plainbanana, potato",0.7,0.1,13.6,58,1.2,0.1,17.5,70,227
+7,Gitwero - with fat,1.0,1.7,15.8,82,1.2,1.4,17.1,82,219
+8,Gitwero - with fat and beans,5.0,0.6,21.2,110,3.0,1.1,20.5,98,25
+9,"Porridge - maize flour, water, sugar, milk",1.1,0.4,9.2,45,1.1,0.7,8.9,46,780
+10,"Jgali - plain (maize flour,water",2.1,1.3,26.2,125,3.3,1.7,27.6,134,1243
+11,Ugali -with beans,3.4,1.0,25.5,125,5.2,1.6,30.3,152,12
+12,Ugali - with vegetables,2.3,1.2,23.3,113,3.3,1.3,22.3,109,47
+13,Jgali - with beans and vegetables,3.6,1.2,24.8,125,4.3,1.1,25.0,127,10

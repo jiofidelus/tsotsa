@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7
+0,Groups of AA,Free amino acids,Tomato juice,,,Strawberry juice,,
+1,,,Fresh,HIPEF,TT,Fresh,HIPEF,TT
+2,Negatively charged AA,Asp,49.5a,30.6b,27.0b,60.1a,62.3a,53.7b
+3,,Glu,461.9a,391.4b,370.5c,56.7b,60.6a,54.4c
+4,Polar uncharged AA,Se,43.9a,45.5a,45.9a,94.3b,99.8a,88.0c
+5,,Thr,40.1a,40.6a,41.7a,40.6a,40.9a,37.9b
+6,Positively charged AA,Lys,40.8a,38.5a,39.1a,2.4b,2.3b,3.2a
+7,,His,46.2a,31.6b,32.1b,nd,nd,nd
+8,,Arg,14.4a,13.6b,21.5b,nd,nd,6.7c
+9,Aromatic AA,Tyr,14.4a,54.3a,13.6b,8.9a,7.6b,7.4b
+10,,Phe,56.2a,54.3a,55.1a,6.3c,8.0a,7.4b
+11,Sulfur-containing AA,Met,9.0a,8.6b,8.6b,nd,nd,nd
+12,Aliphatic AA,Al,14.6a,13.6b,13.8b,134.gb,141.4a,126.3c
+13,,Pro,20.4a,16.2a,16.3a,nd,nd,nd
+14,,Leu,16.4b,16.0b,19.7a,7.0a,7.4a,18.0a
+15,,Val,16.4b,16.0b,17.5a,17.2b,18.3a,18.0a
+16,,lle,22.9a,21.6b,21.8b,7.9a,8.2a,8.0a
+17,,Gly,768.8b,6.1a,6.1a,8.8a,418.7c,7.8b
+18,Total amino acids,881.6a,768.8b,750.3c,445.ob,464.5a,418.7c,

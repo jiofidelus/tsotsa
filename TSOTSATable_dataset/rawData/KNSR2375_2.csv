@@ -1,0 +1,5 @@
+,0,1,2,3,4,5
+0,Component,Regression equationa C,7.2b,Linear range,Detection limit,Quantification limit
+1,,(mg/mL),,(mg/mL),(mg/mL),(mg/mL)
+2,Glucosamine,Y=14.613X-2.7433,0.9987,0.210,0.11,0.21
+3,Lactose,Y =16.79X-0.6534,0.9991,120,0.13,0.24

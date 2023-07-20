@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Cultivar,Desiccant,Tuber mean,Tuber diameter size,Dry matter,Nitrate content
+1,,,weight (g),35-70 mm (%),(%),mg kgFW
+2,Ditta,No,123  6.7,92  1.7,20.9  0.61,90  5.3
+3,,Yes,120  5.8,95  2.1,20.6  0.66,78  9.0
+4,Krone,No,117  6.7,94  1.5,20.8  0.40,192  15.4
+5,,Yes,113  8.8,98  0.9,19.3  0.38,191  27.3
+6,Spunta,Yes,1505.8,70  3.5,19.6  0.30,133  11.2
+7,,Yes,148  16.7,85  4.9,19.7  0.62,14218.1
+8,Significancea,,,,,
+9,Cultivar,,*,*,NS,**
+10,Desiccant,,NS,*,NS,NS
+11,Cultivar  desiccant,,NS,NS,NS,NS

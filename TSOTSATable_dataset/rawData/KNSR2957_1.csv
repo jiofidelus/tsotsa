@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,,Cooking,External,Internal,Dry matter content,Fat content
+1,,time (min),temperature ('C),temperature ('C),(g/100 g wet matter),(g/100 g wet matter)
+2,Raw,,,,,
+3,Aranca,,,,8.3,2.2
+4,Excell,,,,5.3,3.2
+5,Boiled,,,,,
+6,Aranca,15,100,83,11.7,1.9
+7,Excell,15,100,83,5.2,3.8
+8,Baked,,,,,
+9,Aranca,18,200,87,11.0,2.0
+10,Excell,18,200,87,6.2,3.5
+11,Fried,,,,,
+12,Aranca,4,110,75,11.8,33.0
+13,Excell,4,110,75,6.7,39.7

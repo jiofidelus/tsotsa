@@ -1,0 +1,16 @@
+,0,1,2
+0,Trait,Common principal component,Common principal component
+1,,coefficients,
+2,,First,Second
+3,AAa,0.405,0.614
+4,Tpb,0.736,0.534
+5,K,-0.908,0.106
+6,Mg,0.484,0.750
+7,Ca,0.671,0.493
+8,Na,0.843,0.133
+9,Fe,0.635,0.204
+10,Mn,0.486,0.554
+11,Cu,-0.297,0.792
+12,Eigenvalue,3.655,2.472
+13,Variability%,42.6,29.5
+14,Accumulated variability%,42.6,72.7

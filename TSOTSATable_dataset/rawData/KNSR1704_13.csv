@@ -1,0 +1,44 @@
+,0,1,2,3,4,5,6
+0,Vitamin,Process,Food,Reaction,EA,kob (s-1),References
+1,,,,order,a(kJ mol-l),,
+2,Thiamin,"Thermal processing(90,120,",Soymilk,First,97.0,1.88  109,Kwok et al.(1998)
+3,,and 140C),,,,,
+4,,,Buffered solution(pH 6,,113-123,,Mulley et al.(1975)
+5,,,"pea puree,beef puree,and",,,,
+6,,,pea in-brine puree,,,,
+7,,,Cow's milk,Second,100.8,8.57 x 109,Kessler and Fink (1986)
+8,,"Cooking5075,80,85,and",Macaroni,First,25,1.908,Ayranci and Kaya(1993
+9,,90C),,,,,
+10,Riboflavin,"Thermal processing (90, 120,",Soymilk,First,83.3,1.14510,Kwok et al. (1998)
+11,,and 140C),,,,,
+12,,"Cooking50,75,80,85,and",Macaroni,First,11,0.020,Ayranci and Kaya(1993
+13,,90C),,,,,
+14,Niacin amide,,,,22,0.761,
+15,Folic acid,Thermal processing (above,"Phosphate buffer (0.2M,",First,51.6625.40,,Nguyen et al.(2003
+16,,65C at ambient pressure,pH 7),,,,
+17,5-Methyltetra-,,,,79.984.88,,
+18,hydrofolic acid,,,,,,
+19,,Combined treatment: high,,,71.88-100.18,,
+20,,pressure+temperature,,,,,
+21,,(100-800MPa),,,,,
+22,AAc,"Storage (4, 8, 12, 16, and",Potatoes,First,98.7,,Nourian et al. (2003)
+23,,20C,,,,,
+24,,Thermal processing,Grapefruit juice,,21.0,3.90  102,Saguy et al. (1978)
+25,,(61.0-96.0C,,,,,
+26,,Thermal processing,,,22.0,6.10 102,
+27,,(60.0-1.0C,,,,,
+28,,Thermal processing,Lime,,58.1,1.55104,Alvarado and Viteri (1989
+29,,(20.0-92.0C,,,,,
+30,,Thermal processing,Lemon (oriente,,46.5,3.59  102,
+31,,(20.092.0 C),,,,,
+32,,Thermal processing,Tangerine (Costa),,44.6,2.25 102,
+33,,(20.092.0,,,,,
+34,,Thermal processing,Grapefruit,,56.9,9.29  103,
+35,,20.092.0,,,,,
+36,,Thermal processing,Orange juice,,128.3,3.23  1013,Johnson et al.(1995
+37,,(70.3-97.6C,,,,,
+38,,Thermal processing,,,97.4,1.62 109,
+39,,(70.3-97.6C),,,,,
+40,,"Thermal processing (60, 70,",Cupuacu nectar,First,745,,Vieira et al. (2000
+41,,"75,80,90,and 99C",,,,,
+42,DHAAd,,,,65 9,,

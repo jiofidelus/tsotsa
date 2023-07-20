@@ -1,0 +1,5 @@
+,0,1,2,3,4,5
+0,Standard,Regression equation,Correlation coefficient (R2),Linear range (g/mL),LODb (g/mL),LOQ(g/mL)
+1,Limonin,y=7.79x-11.0,1.00,1.00-300,0.130,3.10
+2,Nomilin,y=7.00x+1.06,1.00,1.00-300,0.740,2.50
+3,Limonin glucoside,y=5.38x+39.5,0.999,0.500100,0.320,1.00

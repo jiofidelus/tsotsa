@@ -1,0 +1,7 @@
+,0,1,2,3
+0,Variables,Low level,Central point,High level
+1,Sample pH,2,5.5,9
+2,"Surfactant volume (SV,L)",100,300,500
+3,"Ligand volume (LV,L)",0,250,500
+4,"Temperature (Temp,C)",30,50,70
+5,"Extraction time (ET,min",5,17.5,30

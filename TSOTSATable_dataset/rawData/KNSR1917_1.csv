@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,Ash,,,,Phytic acid,
+1,,,g/100gdry,g/100gdry,g/100gdry,Phytic acid,,(mg/100 g of,(mg/100 g of
+2,,,,matter),,mg/100 g),,dry matter),
+3,,Ingredienta,Mean,,SD,Mean,SD,Mean,SD
+4,"Wheat flour type 45,two samples","Wheat flour type 45,two samples",0.46,,0.03,130,34,153,40
+5,"Wheat flour type 55,five samples","Wheat flour type 55,five samples",0.53,,0.03,155,24,180,29
+6,Wheat flour type 65,Wheat flour type 65,0.63,,,150,,176,
+7,Wheat flour type 80,Wheat flour type 80,0.79,,,183,,213,
+8,Whole wheat flour type 110,Whole wheat flour type 110,1.15,,,537,,633,
+9,"Whole wheat flour type 1 50, six","Whole wheat flour type 1 50, six",,,,,,,
+10,samples,,1.67,,0.09,814,76,942,94
+11,Wheat gluten,,0.86,,,313,,339,
+12,"Rye flour type 110,two samples","Rye flour type 110,two samples",1.23,,0.05,376,52,428,65
+13,Rye flour type 150,Rye flour type 150,1.58,,,675,,773,
+14,Faba bcan flour,,3.14,,,1462,,1704,
+15,"Fine wheat bran,three samples","Fine wheat bran,three samples",5.33,,0.56,3123,557,3413,451
+16,Coarse wheat bran,Coarse wheat bran,6.5,,,3578,,4190,
+17,Low fat soya flour,Low fat soya flour,6.61,,,1551,,1735,
+18,Soya bran,,4.81,,,735,,805,
+19,"Soya bran,treated,two samples","Soya bran,treated,two samples",3.69,,0.36,207,21,227,28
+20,Pea fiber,,1.58,,,21,,23,
+21,Oat fiber,,2.53,,,80,,86,
+22,Raisins,,2.43,,,11,,14,
+23,Bakers' yeast,,6.16,,,34,,106,
+24,"Malt extract,two samples","Malt extract,two samples",1.6,,0.1,107,81,143,107

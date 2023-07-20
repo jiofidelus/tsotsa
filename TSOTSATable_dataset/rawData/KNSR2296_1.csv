@@ -1,0 +1,26 @@
+,0,1,2,3,4
+0,No.,Cooking/dish-type category,No.of food items,Food/dish description,Food/dish description
+1,01,Cooked rice,4,"White rice,rice w/other grains,rice w/beans,rice w/barley",
+2,02,Breads and snacks,7,"Chips, bread, buns w/red bean paste filling, steamed bun, pizza.",
+3,,,,"cream-filled pie, crackers","cream-filled pie, crackers"
+4,03,Noodles,3,"Noodles w/soup or sauce,instant noodles (Ra-men)",
+5,04,Soups and stews,23,"Soybean paste soup w/vegetables,clear soup w/beef,eggs or vegetables.",
+6,,,,"soup w/beef or vegetables,stew w/Kim chi,vegetables,fish or tofu",
+7,05,Steamed,1,,Eggs
+8,06,Broiled,4,"Seasoned laver, pork belly or fishes","Seasoned laver, pork belly or fishes"
+9,07,Pan-fried,3,"Eggs,vegetable pancakes","Eggs,vegetable pancakes"
+10,08,Stir-fried,13,"Vegetables,mushrooms, vermicelli, rice cakes, meats, fishes",
+11,09,Boiled in soy sauce,5,"Fishes,meats, beans, tofu,potatoes","Fishes,meats, beans, tofu,potatoes"
+12,10,Deep-fried,3,"Chicken, pork cutlets, beef dumplings w/sauce",
+13,11,Cooked vegetables,5,Parboiled and seasoned vegetables of various kinds,
+14,12,Seasoned vegetables,5,Seasoned fresh vegetables of various kinds,Seasoned fresh vegetables of various kinds
+15,13,Kim-chi,4,"Chinese (nappa cabbage,white-radish, turnip","Chinese (nappa cabbage,white-radish, turnip"
+16,14,Salt-fermented seafood,3,"Crabs, squids, shrimps","Crabs, squids, shrimps"
+17,15,Pickles,5,"Radish, garlic, perilla leaves, green pepper","Radish, garlic, perilla leaves, green pepper"
+18,16,Milk/dairy products,2,"Milk,yogurt","Milk,yogurt"
+19,17,Beverages and teas,4,"Coffee, green tea, soft drinks","Coffee, green tea, soft drinks"
+20,18,Liquors,2,"Beer,distilled liquor","Beer,distilled liquor"
+21,19,Fruits,8,"Mandarin, persimmon, apple, peach, grapes, tomato, watermelon, melon",
+22,20,Cereals and tubers,4,"Potatoes, sweet potatoes,breakfast cereals,parched grain powder",
+23,21,Fresh vegetables and seaweed,7,"Lettuce, cabbage, green pepper, perilla leaves, cucumber, onion, dried laver",
+24,22,Others,1,Canned tuna,Canned tuna

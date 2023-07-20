@@ -1,0 +1,40 @@
+,0,1,2,3,4,5
+0,type of tea,sample code,FLA,,BaA,
+1,,,(FLA+PYR,,(BA +CHR),
+2,,,value,sources,value,sources
+3,green tea,TPG,0.00,,0.00,
+4,,HGT,0.00,,0.39,vehicular
+5,,,,,,emission
+6,,GBG,0.00,,0.38,vehicular
+7,,,,,,emission
+8,,SBG,0.00,,0.38,vehicular
+9,,,,,,emission
+10,,LBG,0.67,"grass, wood,",0.24,biomass
+11,,,,coal,,combustion
+12,,,,combustion,,
+13,,LGL,0.00,,0.00,
+14,,LGR,0.00,,0.00,
+15,,LGJ,0.00,,0.00,
+16,,LGS,0.29,petrogenic,0.26,biomass
+17,,,,,,combustion
+18,,BGT,0.00,,0.39,vehicular
+19,,,,,,emission
+20,,TWG,0.00,,0.00,
+21,herbal tea,NLF,0.00,,0.00,
+22,,TBN,0.00,,0.40,vehicular
+23,,,,,,emission
+24,,MHT,0.00,,0.00,
+25,,SSH,0.16,petrogenic,0.33,biomass
+26,,,,,,combustion
+27,,AHT,0.00,,0.32,biomass
+28,,,,,,combustion
+29,,JCT,0.35,petrogenic,0.17,petrogenic
+30,,KFT,0.00,,0.00,
+31,,ACT,0.00,-,0.00,-
+32,black tea,LYL,0.00,-,0.35,biomass
+33,,,,,,combustion
+34,,TTG,0.00,,0.41,vehicular
+35,,,,,,emission
+36,,TTL,0.00,,0.36,vehicular
+37,,,,,,emission
+38,,TTR,0.00,,0.00,

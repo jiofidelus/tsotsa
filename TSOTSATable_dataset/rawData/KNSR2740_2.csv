@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8
+0,,Units,Site,,,,Interpretationc,,
+1,,,Roodeplaat,Giyani,Hazyview,Empangeni,Low content,High content,Optimum content
+2,Soil physical properties,,,,,,,,
+3,Clay (%),%,28,34,26,32,,,<35%
+4,Soil chemical properties,,,,,,,,
+5,Phosphorousa,mg/kg,92,19,24,9,<15,>60,4090
+6,Potassiumb,mg/kg,147,116,168,193,<40,>250,120-240
+7,Calciumb,mg/kg,1413,959,2991,1126,<200,>3000,400-2500d
+8,Magnesiumb,mg/kg,548,252,611,321,<50,>300,100-400d
+9,Sodiumb,mg/kg,62,16,42,74,<50,>250,
+10,Ironb,ug/kg,-,64.8,-,156,na,na,na
+11,Zincb,pg/kg,-,1.27,-,3.89,na,na,na
+12,pH(water,,6.9,7.0,6.8,6.1,<5.5,>7.3,

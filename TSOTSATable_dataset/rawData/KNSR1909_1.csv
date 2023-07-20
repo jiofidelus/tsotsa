@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,Factor,Definition,Unit,Value,Value
+1,BW,Average,Kg,70,
+2,,bodyweight,,,
+3,EF,Exposure,Days/,365,
+4,,frequency,year,,
+5,ED,Exposure,Years,70,
+6,,duration,,,
+7,AT,Average time,Days,25550BWx EF,25550BWx EF
+8,RfD,Oral reference,mg kg-1,2.0E-03Li)1E+00(Al1.5E+00,2.0E-03Li)1E+00(Al1.5E+00
+9,,dose,day,,"(Cr+3,3.0E-03(Cr+,1.4E-01Mn),7E"
+10,,,,,"01(Fe),3.0E-04(Co),2.0E-02(Ni,4E-02"
+11,,,,,"(Cu),3E-01(Zn),3E-04As),1E-03Cd"
+12,,,,"6.0E-01Sn),4E-03(Pb","6.0E-01Sn),4E-03(Pb"
+13,CSF,Cancer slop,mg kg-1,1.5E+00As,1.5E+00As
+14,,factor,day,,

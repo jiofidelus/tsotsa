@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7
+0,Chocolates analysed,,Lead concentration (g/g),Lead concentration (g/g),Nickel concentration (g/g),Nickel concentration (g/g),Cadmium concentration (ug/g),Cadmium concentration (ug/g)
+1,Type,n,Range,Mean,Range,Mean,Range,Mean
+2,Cocoa based,23 0.236-8.04,23 0.236-8.04,1.915,0.049-8.290,2.763,0.010-2.730,0.244
+3,Milk based,22 0.2342.62,22 0.2342.62,0.613,0.137-8.288,1.739,0.010-0.852,0.071
+4,Sugar-based candies 24 0.049-0.97,,Sugar-based candies 24 0.049-0.97,0.269,0.041-1.150,0.434,0.001-0.027,0.005
+5,Total,69 0.049-8.04,69 0.049-8.04,0.927,0.041-8.230,1.626,0.001-2.730,0.105

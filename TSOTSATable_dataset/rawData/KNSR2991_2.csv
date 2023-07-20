@@ -1,0 +1,30 @@
+,0,1,2,3,4
+0,,Nutrient data,Number,Percentage of,Examples of
+1,,source,of foods,contribution to,matched foods
+2,,,(n),the data source,
+3,,,,(%),
+4,,,,,Traditional fish
+5,,,,,dishes (Malleh.
+6,,Kuwaiti FCT,3,1%,"grilled fish),"
+7,,,,,traditional green
+8,,,,,salad(Tabola)
+9,,,,,"Smoothies,"
+10,,Raw foods,38,7%,"salad,various"
+11,,,,,"fruit salads, etc."
+12,,,,,Sandwiches/
+13,,,,,pastries with
+14,,,,,"different fillings,"
+15,,,,,traditional mixed
+16,Recipe,Cooked,,,different
+17,creation,ingredients,97,18%,"additions,pasta"
+18,,available,,,dishes with
+19,,,,,different
+20,,,,,"additions,"
+21,,,,,homemade
+22,,,,,"burgers, etc."
+23,,Cooked,,,"Cakes, soups,"
+24,,ingredients,17,3%,cookies
+25,,unavailable,,,cookies
+26,Total,,,,
+27,number,,532,100%,
+28,of foods,,,,

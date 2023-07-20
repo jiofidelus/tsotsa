@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7
+0,Peak No.,Rt (min),[M-H],m/za,MS/MS fragments (m/z)a,MS/MS fragments (m/z)a,Tentative indentification,
+1,Phenolic compounds,,,,,,,
+2,1.,1.44,191.0185,191.0185,"173.0096,127.9567,111.0093","173.0096,127.9567,111.0093", Quinic acid b,
+3,2.,1.70,341.1085,341.1085,179.0349,,Caffeoylhexose (isomer 1) b,
+4,3.,1.95,337.0448,337.0448,,,p-Coumarylquinic acid (isomer 1b,
+5,5.,2.42,325.1023,325.1023,"191.0572,145.0554","191.0572,145.0554",p-Coumaroylhexose b,
+6,10.,4.63,341.0849,341.0849,179.0349,,Caffeoylhexose (isomer 2) b,
+7,14.,5.95,337.0905,337.0905,"191.0571,163.0397","191.0571,163.0397",p-Coumarylquinic acid (isomer 2) b,
+8,15.,6.27,609.1434,609.1434,301.0255,,Quercetin 3-O-rutinoside b,
+9,16.,6.89,463.0843,463.0843,301.0354,,Quercetin 3-O-hexoside b,
+10,20.,10.50,367.1354,367.1354,,,Feruloylquinic acid,D
+11,Peak No.,Rt (min),,[M+H]+m/za,,MS/MS fragments (m/z)a,Tentative indentification,
+12,Betalains,,,,,,,
+13,4.,2.10,,727.1846,,"551.1387,389.1765",Amaranthine,Amaranthine
+14,6.,3.99,,727.1846,,"551.1387., 389.1765",Isoamaranthine,Isoamaranthine
+15,7.,5.74,,551.1387,,389.1851,Betanin,
+16,8.,4.23,,551.1387,,389.1851,Isobetanin (isomer 1),
+17,9.,4.49,,389.1766,,345.1190,Betanidin,
+18,11.,4.73,,713.1904,,"551.1387,389.1851",Isobetanin glucoside,
+19,12.,5.20,,325.119,,,Isoleucine-isoBetaxanthin,
+20,13.,5.46,,549.1491,,"387.1387, 343.3543",Neobetanin,Neobetanin
+21,17.,7.11,,551.1387,,389.1851,Isobetanin (isomer 2),
+22,18.,7.31,,637.1697,,"551.1387, 389.1765",4'-O-Malonyl-isobetanin,
+23,19.,9.10,,323.1199,,,Isovulgaxanthin,Isovulgaxanthin

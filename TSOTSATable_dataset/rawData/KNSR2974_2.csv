@@ -1,0 +1,8 @@
+,0,1,2,3,4
+0,Experiment,Number of,Number of,Number of identified,Number of identified
+1,name,resolved,identified,proteins,
+2,,secondary spectra,peptides*,,
+3,,,,Unique-1,Unique-2
+4,Replicate 1,95870,13572,3062,2013
+5,Replicate 2,131141,18818,3635,2651
+6,Replicate 3,92579,7824,2971,2018

@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6
+0,Meat,n,Number of samples with quantifiable,Number of samples with quantifiable,Nitrate,Mean nitrate,Nitrate concentration
+1,type,,nitrate concentrations*,nitrite concentrations,positivity (%),concentration (mg kg-1),range(mg kg
+2,Beef,9,9a,0,100,17.5,8.7  32.3
+3,Chicken,12,3b,0,25,16.7,13.123.7
+4,Pork,9,,0,0,NQ,NQ

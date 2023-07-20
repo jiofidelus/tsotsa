@@ -1,0 +1,23 @@
+,0,1,2,3
+0,HPLC parameters (ICS-5000+and ICS-6000 system),HPLC parameters (ICS-5000+and ICS-6000 system),HPLC parameters (ICS-5000+and ICS-6000 system),
+1,Column,"Dionex IonPacTM AG72 mm 50 mm,10m","Dionex IonPacTM AG72 mm 50 mm,10m","Dionex IonPacTM AG72 mm 50 mm,10m"
+2,Mobile phase,10 mM HNO3+2.5% MeOH+0.30mM EDTA(pH=2.1,10 mM HNO3+2.5% MeOH+0.30mM EDTA(pH=2.1,10 mM HNO3+2.5% MeOH+0.30mM EDTA(pH=2.1
+3,Injection volume,5L,,
+4,Flow rate,0.20 mL min1,,
+5,Elution mode,Isocratic,,
+6,Injector temperature,53,,
+7,Column temperature,301,,
+8,ICP-MS parameters,,,
+9,,,Thermo iCAP-TQ,Agilent 7700
+10,Plasma gas flow (Ar,,15 L min-1,15 L min-1
+11,Auxiliary gas flow (Ar,,0.80 L min-1,0.99 L min-1
+12,Nebuliser gas flow(Ar),,0.92 L min-1,0.95-1.00L
+13,,,,min-1
+14,Sampling cone orifice(Ni),,1.1 mm orifice,1.0 mm orifice
+15,Skimmer cone (high matrix) orifice,Skimmer cone (high matrix) orifice,0.5 mm orifice,0.8 mm orifice
+16,(Ni),,,
+17,Collision gas flow (He),,5.0mL min-1,4.3mLmin-1
+18,Plasma power,,1550 W,1550 W
+19,Dwell time,,250 ms,100ms
+20,Monitored isotopes,,"50Cr,52Cr, 53Cr","50Cr,52Cr,53Cr,45Sc"
+21,,,45Sc,

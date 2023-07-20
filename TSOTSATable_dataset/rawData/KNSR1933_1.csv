@@ -1,0 +1,24 @@
+,0,1,2
+0,Nutrient,Analytical principle used,Comparable standard reference methods where applicable
+1,Alpha-linoleic acids,All methods converted fatty acids in oils,"AOAC 992.25,AOAC 991.39,996.06"
+2,,to FAMES that were then measured by GC with FID,
+3,Vitamin A,Saponification/extraction/HPLC measurement of retinol (and isomers,"AOAC 992.04,AOAC 992.06,EN 12823-1"
+4,Vitamin K,HPLC with fluorescence or UV detection.,"AOAC 999.15,AOAC 992.27,EN 14148"
+5,Thiamin,All methods relied on conversion of thiamine,"AOAC 986.27,EN 14122"
+6,,to thiochrome and then HPLC using fluorescence detection,
+7,Riboflavin,All methods relied on HPLC using fluorescence detection,EN 14152
+8,Niacin,"Two methods were used, either the standard microbiological",AOAC 985.34
+9,,reference method for infant formula or HPLC.,
+10,Vitamin B,"Two methods were used,either microbiological or HPLC.",AOAC986.23
+11,Folic acid,"Three basic methodologies were employed:(1microbiological,",AOAC992.05
+12,,"2HPLC,3BIA.",
+13,Vitamin C,Vitamin C analysis was based upon its reduction potential and,AOAC985.33
+14,,"measured in one of three ways, potentiometrically, coulometrically",
+15,,or colorimetrically.,
+16,Biotin,Three basic methodologies that were employed:(1microbiological,Proposed EN 15607
+17,,"2HPLC,3BIA.",
+18,Iron,Atomic absorption spectrometry or ICP,"AOAC 984.27,AOAC 985.35"
+19,Potassium,Atomic absorption spectrometry or ICP,AOAC 985.35.AOAC 984.27
+20,Manganese,Atomic absorption spectrometry or ICP.,"AOAC 984.27,AOAC 985.35"
+21,lodine,lon-selective electrode or inverse colorimetric method.,AOAC 992.24
+22,Copper,Atomic absorption spectrometry or ICP.,"AOAC 984.27,AOAC 985.35"

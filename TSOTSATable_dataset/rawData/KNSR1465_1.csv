@@ -1,0 +1,7 @@
+,0,1,2,3,4
+0,Treatment,Anthocyaninsa (mg/L),Colour density,Polymeric colour,Polymeric colour (%)
+1,No treatment,426.24  13.75ab,4.855  0.32a,0.546  0.07a,11.25
+2,12.5 J/mL UV dose,418.52  13.75a,5.069  0.32a,0.646  0.07a,12.74
+3,34.4J/mL UV dose,409.65  13.75a,4.945  0.32a,0.650  0.07a,13.15
+4,62.4J/mL UV dose,390.5113.75a,4.862  0.32a,0.690  0.07a,14.19
+5,"Heat (90 C, 2 min)",325.4713.75b,4.979  0.32a,1.2200.07b,24.50

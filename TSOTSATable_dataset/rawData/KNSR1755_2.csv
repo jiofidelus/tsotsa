@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6,7
+0,Compound,Retention time (min),Base mass Plus H+,Precursor ion (m/z),Cone voltage(V,Product ions (m/z),Collision energy (eV,Ionization mode
+1,Cyanocobalamin,2.14,677,678.35,34,147.10,44,ES+
+2,,,,,,359.03,20,ES+
+3,Hydroxocobalamin,1.71,664,664.90,30,147.10,42,ES+
+4,,,,,,635.85,14,ES+
+5,Methylcobalamin,2.45,672,673.29,12,147.16,40,ES+
+6,,,,,,665.04,10,ES+

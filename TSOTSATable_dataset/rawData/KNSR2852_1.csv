@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6
+0,Analyte,Retention time (min),Parent ion (m/z),Product ions (m/z),Dwell time (s),Cone voltage,Collision energy (eV)
+1,,,,,,(V),
+2,RAC,4.06,302.2,164.2,0.2,25,16
+3,,,,121.3,,,16
+4,CLB-dg,4.28,286.1,204.3,0.2,23,15
+5,CLB-dg,,,,,23,15

@@ -1,0 +1,56 @@
+,0,1,2,3,4
+0,Retail Cut,Extractable Lipid%,Extractable Lipid%,Presence of Bone,Cooking Method
+1,,Choice,Select,,
+2,Raw,10.3,,Boneless,Braise
+3,"Cooked,0.64 cm",16.9,14.2,,
+4,"Cooked,0.0cm",15.3,12.0,,
+5,Raw,,,Boneless,Braise
+6,Raw,6.4,5.9,Boneless,
+7,"Cooked,0.64 cm",9.8,9.6,,
+8,"Cooked,0.0 cm",7.3,4.9,,
+9,Raw,8.5,,Bone-in,Braise
+10,"Cooked,0.64 cm",14.4,11.6,,
+11,"Cooked,0.0cm",14.7,11.7,,
+12,Raw,5.1,11.7,Bone-in,Braise
+13,Raw,5.1,3.6,,
+14,"Cooked,0.64 cm",9.3,6.3,,
+15,"Cooked,0.0 cm",8.7,6.3,,
+16,Raw,,7.6,Bone-in,Roast
+17,Raw,10.2,7.6,,Roast
+18,Cooked.0.64 cm,14.7,11.4,,
+19,"Cooked,0.0 cm",15.0,11.4,,
+20,Raw,,,Bone-in,Broil
+21,Raw,8.3,6.2,,
+22,Cooked.0.64 cm,12.6,9.7,,
+23,"Cooked,0.0 cm",11.7,8.7,,
+24,Top Loin Steak,,,Boneless,Broil
+25,Raw,10.7,7.8,Boneless,
+26,"Cooked,0.0 cm",9.6,6.9,,
+27,Raw,,6.9,Boneless,Broil
+28,Raw,8.6,7.1,,
+29,"Cooked,0.64 cm",11.2,8.7,,
+30,Cookea.0.0 cm,10.1,8.8,,
+31,Top Sirloin Steak,5.0,,Boneless,Broil
+32,Raw,5.0,3.7,,
+33,"Cooked,0.64 cm",8.0,6.2,,
+34,"Cooked,0.0 cm",7.8,5.6,,
+35,Raw,,,Boneless,Roast
+36,Raw,4.4,3.2,,
+37,"Cooked,0.64 cm",7.3,5.3,,
+38,"Cooked,0.0 cm",6.4,5.3,,
+39,Raw,,2.5,Boneless,Braise
+40,Raw,3.9,2.5,,
+41,"Cooked,0.64 cm",6.5,4.6,,
+42,"Cooked,0.0 cm",5.8,4.0,,
+43,Eye of Round Roast,,3.6,Boneless,Roast
+44,Raw,4.9,3.6,,
+45,"Cooked,0.64 cm",5.7,4.0,,
+46,"Cooked,0.0 cm",5.7,3.5,,
+47,Bottom Round Roast,,,Boneless,Roast
+48,Raw,5.2,3.4,,
+49,"Cooked,0.64 cm",8.4,6.1,,
+50,"Cooked,0.0 cm",7.8,5.4,,
+51,Bottom Round Steak,,,Boneless,Braise
+52,Raw,6.3,4.7,,
+53,"Cooked,0.64 cm",9.4,6.8,,
+54,"Cooked,0.0 cm",8.7,6.3,,

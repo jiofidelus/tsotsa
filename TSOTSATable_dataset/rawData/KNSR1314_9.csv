@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7,8
+0,No. of laboratory,Light coconut milk,,Coconut milk,,Coconut cream,,Coconut milk powder,
+1,,Round I,Round II,Round I,RoundII,Round I,Round II,RoundI,Round II
+2,Total,17,17,-,17,17,16,17,17
+3,Cochran outliers,-,1,-,1,11,1,22,1
+4,Grubbs outliers,2,3,,-,11,2,22,2

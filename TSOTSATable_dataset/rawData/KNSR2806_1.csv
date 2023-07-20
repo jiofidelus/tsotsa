@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Step,Vp,3V1,3V2,2V,Flow rate,Function
+1,,,,,,(L/s),
+2,1,Off,On,Off,Off,100,Aspiration of tetracycline
+3,,,,,,,standard into HCi
+4,2,Off,Off,On,Off,100,Aspiration of zirconium reagent
+5,,,,,,,into HC2
+6,3,On,Off,Off,Off,100,Aspiration of carrier solution
+7,,,,,,,into a syringe
+8,4,Off,Off,Off,On,100,Dispensing all aspirated zones to
+9,,,,,,,detector simultaneously

@@ -1,0 +1,72 @@
+,0,1,2,3,4,5,6,7,8
+0,Peak,RT,m/z,Molecular,m/z,Error,ma,Fragments,Proposed compound
+1,,(min),experimental,formula,calculated,(ppm),value,,
+2,,,(M-H),,M-H,,,,
+3,Organic acids,Organic acids,,,,,,,
+4,1,2.038,195.0507,CcH2O7,195.0510,1.7,19.3,,Gluconic acid
+5,,2.256,191.0566,CH12O6,191.0561,4.2,26.4,127(17),Quinic acida
+6,4,2.407,133.0141,C4HgO5,133.0142,1.3,4.2,115(100,Malic acid
+7,44,26.089,187.0976,CgH16O4,187.0976,0.0,7.2,125(100,Nonanedioic acid (azelaic acid)
+8,,"Amino acids, peptides and derivatives","Amino acids, peptides and derivatives",,,,,,
+9,2,2.063,131.0471,C4HgNO3,131.0462,-6.9,86.3,"114100,7614",L-Asparagine
+10,5,4.893,130.0870,CgH1O2,130.0874,2.4,7.3,,-(Isoleucine
+11,:,5.044,180.0667,CgHNO,180.0666,-0.4,16.1,"119100,163(47,",L-Tyrosine
+12,,,,,,,,134(14),
+13,7,5.363,292.1395,C12H23NO7,292.1402,2.3,5.1,130(100,-(Isoleucine-hexose
+14,9,7.529,245.1140,C1oHgNO5,245.11463,1.2,38.4,"116100,12868",1-Glutamic acid-l-valine
+15,10,7.730,164.0774,CgHNO2,164.0717,2.0,11.6,147(100,-Phenylalanine
+16,11,7.982,326.1235,C5H2NO,326.1245,3.3,61.9,164(100),l-Phenylalanine-hexose
+17,12,9.224,259.1306,CH2oNO5,259.1299,2.5,32.1,"130(66,255100",L-Glutamic acid-L-leucine isomer
+18,,,,,,,,215(31),
+19,15,10.333,316.1508,C13H23NO6,316.15514,1.9,18.6,"254(100),223(87),",l-Glutamic-L-alanine-L-valine
+20,,,,,,,,"298(86),187(50,",
+21,,,,,,,,"197(49), 146(37),",
+22,16,11.122,203.0829,C1H12NO2,203.0826,0.1,17.9,"116(100),14228)",l-Tryptophan
+23,18,12.147,259.1300,C1H2oN2O5,259.1299,0.1,11.1,"130(100), 128(52),",l-Glutamic acid-l-leucine isomer
+24,,,,,,,,197(23),
+25,21,14.214,263.1392,C4H2oNO3,263.1401,3.4,16.9,115100),L-Valine-L-phenylalanine
+26,31,18.999,372.2121,C4H27NO,372.2081,10.6,23.6,"173(100), 130(86),",L-(Iso)leucine-L-(isoleucine-L-glutamic acid
+27,,,,,,,,277(85),
+28,45,27.820,406.1938,C15H2gN5O8,406.1943,1.3,105.9,"376(100), 164(58).",L-Serine-L-serine-L-serine-L-lysine
+29,,,,,,,,"277(18),332(15)",
+30,47,30.039,583.2841,C24H4oNgOg,583.2845,0.8,10.3,"450(37),523(10)",l-Proline---proline-l-threonine-
+31,,,,,,,,,L-arginine-L-aspartic acid
+32,Polyphenols,Polyphenols,,,,,,,
+33,Phenolic acids,Phenolic acids,,,,,,,
+34,14,9.677,329.0894,Cq4H1gOg,329.0878,-4.7,60.2,167(100,Vanillic acid hexose
+35,17,11.609,353.0875,C16H1gOg,353.0878,0.8,59.2,"191(100), 179(77),",3-Caffeoylquinic acid (chlorogenic acid)a
+36,,,,,355.1035,,,135(23,
+37,19,13.610,355.1044,C16H2oOg,355.1035,2.7,41.1,149(76),Feruloyl hexose isomer
+38,20,13.861,337.0928,C16H1gOg,337.0929,0.4,15.5,"163100),11921",3-p-Coumaroylquinic acid
+39,,,,,,,,191(16,
+40,22,14.264,341.0875,C15H1gOg,341.0878,0.8,20.7,"179(100,135(10)",Caffeoyl hexose
+41,23,14.398,353.0876,C16H1gOg,353.0878,0.7,37.0,191(100),5-Caffeoylquinic acid (neo-chlorogenic
+42,,,,,,,,,acid/1-caffeoylquinic acid
+43,24,15.137,367.1029,C17H2oOg,367.1035,1.5,1.0,"193(100), 134(14)",3-Feruloylquinic acid
+44,25,16.279,355.1036,C16H2oOg,355.1035,2.7,41.1,"193(100),149(18)",Feruloyl hexose isomer
+45,26,17.438,355.1029,C16H2oOg,355.1035,1.7,34.4,"193100),295(71",Feruloyl hexose isomer
+46,,,,C17H2oOg,,,,"175 (64), 235(51)",
+47,28,17.992,367.1049,C17H2oOg,367.1035,-3.9,36.7,"173(100),193(27)",4-Feruloylquinic acid isomer
+48,30,18.781,367.1027,C17H2oOg,367.1035,2.2,20.3,"173(100,193(28)",4-Feruloylquinic acid isomer
+49,35,21.351,267.0883,C13H6O6,267.0874,-3.5,16.4,"252(100,175(59,",Feruloyl glycerol
+50,57,36.610,383.1138,C21H2oO7,383.1136,0.3,20.3,"163(100,145(24,",Dicoumaroyl glycerol
+51,,,,,,,,"11917,21915",
+52,58,36.996,413.1233,Cz2H22Og,413.1242,0.2,0.9,"193(100,163(53",Coumaroylferuloyl glycerol
+53,,,,,,,,"17513,14511",
+54,59,37.332,443.1340,C23H24Og,443.1348,1.7,14.5,"19398,17516,",Diferuloyl glycerol
+55,Flavonoids,Flavonoids,,,,,,249(15),
+56,27,17.606,593.1494,C27H3oO15,593.1512,3.0,11.0,473(6),Apigenin-6-8-di-C-glucoside(vicenin 2)
+57,34,20.729,771.1981,C33H4oO21,771.1989,1.1,4.0,,Quercetin glucosyl rutinoside
+58,36,21.855,625.1395,C27H3oO17,625.1410,2.5,30.8,299(20),Quercetin diglucoside
+59,37,21.906,609.1454,C27H30O16,609.1461,1.2,6.4,301(6),Quercetin-3-O-rutinoside(rutin)a
+60,38,22.863,785.2146,C34H42O21,785.2146,0.0,19.8,315(7,Isorhamnetin glucosyl rutinoside
+61,39,22.896,463.0881,C21H2oO12,463.0882,0.3,22.3,"300(100), 301(74)",Quercetin-3--d glucosidea
+62,40,23.031,533.1662,C26H30O12,533.1664,0.5,24.1,"353(100),341(70)",Noricaritin-O-glucoside (amurensin)
+63,41,23.955,593.1504,C27H3oO15,593.1512,1.3,4.0,285(16),Kaempferol-3-O-rutinoside(nicotiflorin)
+64,42,24.325,623.1609,C2gH32O16,623.1618,1.4,4.5,315(22),Isorhamnetin-O-rutinoside(narcissin)
+65,43,24.963,447.0930,C21H20O11,447.0933,0.7,22.0,"284(69), 285(40)",Kaempferol glucoside
+66,46,28.391,489.1073,C23H22O12,489.1038,-7.0,29.9,285(100),Kaempferol-O-acetylglucoside
+67,48,30.341,635.1610,C2gH32O16,635.1618,1.2,11.2,285(100),Kaempferol-O-acetylrutinoside
+68,50,31.937,593.1313,C15H1oO7,593.1301,2.0,21.1,285(38), Kaempferol-coumaroyl glucoside
+69,51,32.492,301.0356,C15H1oO7,301.0354,0.8,5.9,"151(100,179(61",Quercetin
+70,29,18.177,447.1651,C23H2gOg,447.1661,2.1,25.4,"285(100), 225(36)",Trimethoxystilbene hexose

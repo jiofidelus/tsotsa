@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,Method,Sample,LODa,LRb,RSD (%),Reference
+1,HLLEGC-FIDd,Fruit juice and vegetable samples,0.120.32,0.40-1000,4-7,"Farajzadeh et al.(2016a,b)"
+2,SDME-GC-MSe,Water sample,0.020.05,0.1-300,6.88.2,Bagheri et al.2013
+3,DLLMEGC-FIDf,Fruit juice and vegetable samples,0.322.4,1.1-5000,67,"Farajzadeh et al.(2016a,b)"
+4,DLLME-GC-MS8,Wine,0.60-2.00,,8-11,Chen et al.(2016)
+5,TCDESLPMEGCFIDh,Fruit juice and vegetable samples,0.130.31,0.45-5000,4-7,This method

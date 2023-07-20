@@ -1,0 +1,5 @@
+,0,1,2,3
+0,Milling process,Polished,Husked,% correct
+1,Polished,43,0,100
+2,Husked,3,27,90
+3,Total,46,27,96

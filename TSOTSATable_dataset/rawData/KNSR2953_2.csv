@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Peak No.,Carotenoid,Mass (m/z),UV-vis absorptiona,,HPLC,
+1,,,,Amax(nm)b,%11/11c,Retention,Co-elute with
+2,,,,,,time (min),standard sample
+3,1,Lutein,"568.4332 (M**),551.4253 ([M+H-HO]*)","(421),445,473",56,11.3,Yes
+4,23,Zeaxanthin,568.4339 (M**),"423,451,478",29,13.4,Yes
+5,23,Diatoxanthin,"566.4124 (M**),548.4018 ([M-H0])","422,451,475",35,15.2,-
+6,4,Alloxanthin,564.3967 (M**,"425,452,479",39,17.7,Yes

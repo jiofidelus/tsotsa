@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7
+0,LRI,Odour descriptor,Identity,MF (%,,,,
+1,,,,NEG,LIST,TINT,VIJAR,BABOS
+2,1000,Frutal,Ethyl isobutyratea,35,37,30,53,41
+3,<1000,"Alcoholico,sweet",Propyl acetatea,35,24,12,14,0
+4,1000,"Butter,cream","2,3-Butanedionea",88,88,80,90,76
+5,1015,Flowery,Isobutyl acetatea,22,22,37,32,56
+6,1040,Fruity,Ethyl butyratea,80,80,80,88,83
+7,1057,"Fruity,green apple",Ethyl 2-methylbutyratea,63,71,82,68,80
+8,1066,Cream,"2,3-Pentanedionea",35,25,0,0,0
+9,1073,"Fruity,anise",Ethyl3-methylbutyratea,82,85,63,39,69
+10,1110,Bitter,2-Methylpropanola,37,55,65,24,61
+11,1135,Banana,3-Methylbutyl acetatea,73,61,80,75,44
+12,1150,"Fresa,citrico",Ethyl valeratea,0,0,33,0,0
+13,1205,"Anise,fruity",Ethyl 4-methylpentanoateb,0,0,0,50,17
+14,1230,Cheese,3-Methyl-1-butanola,87,94,91,91,87
+15,1247,"Fruity,anise",Ethyl hexanoatea,78,83,67,78,76
+16,1300,Lemon,Octanalb,0,0,36,50,55
+17,1430,Fruityanise,Ethyl octanoatea,27,19,19,33,25
+18,1443,"Pepper,earthy",3-Isopropyl-2-methoxypyrazineb,0,0,34,0,0
+19,1461,Vinegar,Acetic acida,40,41,71,54,49
+20,1480,Sweet,Furfurala,44,31,6,23,0
+21,1675,"Onion,meaty,roasty",2-Methyl-3-(methyldithiofuran,46,58,17,35,37
+22,1685,Cheese,3-Methylbutiric acida,0,0,46,34,20
+23,1845,Baked apple,-Damascenonea,74,68,78,51,44
+24,1877,"Phenolic,chemical",2-Methoxyphenola,0,8,39,41,37
+25,1940,Roses,2-Phenylethanola,20,12,54,32,19
+26,1985,Coconut,(Z)-Whiskylactonea,0,20,41,44,40
+27,2160,Flowery,Ethyl cinnamatea,32,32,35,8,0
+28,2175,"Phenolic,leather",3-Ethylphenolb,32,0,0,0,0
+29,2203,"Phenolic,leather",4-Ethylphenola,32,42,34,8,0

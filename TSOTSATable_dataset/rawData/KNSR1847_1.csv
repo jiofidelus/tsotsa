@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6
+0,Sample,Wine,Winery,Year,Latitude of wine-growing,Longitude of wine-growing,Altitude of wine-growing
+1,,,,,subregion,subregion,subregion
+2,CS1,Cabernet Sauvignon,"Laguna,Pore,Croatia",2007,4513'38N,1335'4E,29 m
+3,CS2,Cabernet Sauvignon,"Sekulovic,Trebinje,Bosnia and",2008,4242'42N,1820'44E,275m
+4,,,Herzegovina,,,,
+5,CS3,Cabernet Sauvignon,"Plantaza,Podgorica,Montenegro",2007,4226'17N,1915'29E,44.5 m
+6,CS4a,Cabernet Sauvignon,"Kraljevski vinogradi, Topola,",2008,4415'09N,2040'34E,221 m
+7,,"""Oplenac""",Serbia,,,,
+8,CS4b,Cabernet Sauvignon,"Kraljevski vinogradi,Topola,",2009,4415'09N,2040'34E,221 m
+9,,"""Oplenac""",Serbia,,,,
+10,CS5a,,"Cabernet Sauvignon TerraRubinKrusevac, Serbia",2008,4335'0N,2119'36E,137 m
+11,,"Lazarica""",,,,,
+12,CS5b,"Cabernet Sauvignon Terra Rubin,Krusevac,Serbia","Cabernet Sauvignon Terra Rubin,Krusevac,Serbia",2009,4335'0N,2119'36E,137 m
+13,,"Lazarica""",,,,,
+14,CS6a,Cabernet Sauvignon,RubinKrusevacSerbia,2008,4335'0N,2119'36E,137m
+15,CS6b,Cabernet Sauvignon,"Rubin, Krusevac, Serbia",2009,4335'0N,2119'36E,137m
+16,CS7,Cabernet Sauvignon,"Radmilovac,BelgradeSerbia",2008,34449'14N,2027'44E,116.75m
+17,CS8,Cabernet Sauvignon,"CevinNis,Serbia",2008,4319'29N,2154'11E,192 m
+18,CS9a,Cabernet Sauvignon,"Tikves,Kavadarci,Macedonia",2008,4126'00N,2200'00E,320m
+19,,"""Alexandria""",,,,,
+20,CS9b,Cabernet Sauvignon,"Tikves,Kavadarci, Macedonia",2009,4126'00N,2200'00E,320m
+21,,"""Alexandria""",,,,,
+22,CS10,Cabernet Sauvignon,"Lozar,VelesMacedonia",2009,414250N,2146'13E,210m
+23,,"""Cardak""",,,,,
+24,CS11,Cabernet Sauvignon,"Pivka,Negotino,Macedonia",2007 4128'59N,2007 4128'59N,2205'32E,155m
+25,CS12,Cabernet Sauvignon,"Katarzyna Estate Mezzek,",2007,4146'00N,2612'00E,60 m
+26,,,"Svilengrad, Bulgaria",,,,

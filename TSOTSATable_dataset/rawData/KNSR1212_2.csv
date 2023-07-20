@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,Mineral,Certified reference material,Amount of mineral,,Relative error(%),%RSD
+1,,,This study (meanSD),Certified value,,
+2,Al,NIST 1568a,4.20.262 g/g,4.4g/g,4.5,6.2
+3,As,NIST 1568a,0.280.013 g/g,0.29g/g,3.4,4.6
+4,Ca,NIST 1568a,0.01170.0005%,0.0118%,0.8,4.3
+5,CI,NIST 1568a,3053.764g/g,300g/g,1.7,1.2
+6,Cr,ACSP DORM-1,3.540.236 g/g,3.60g/g,-1.7,6.7
+7,Fe,NMIJ 7302-a,5.44  0.279%,5.40%,0.7,5.1
+8,Hg,ACSPDORM-1,0.8210.072g/g,0.798g/g,2.8,8.9
+9,K,NIST 1568a,0.1270.0095%,0.128%,0.8,7.5
+10,Mg,NIST 1568a,0.055  0.0032%,0.056%,1.8,5.8
+11,Mn,NIST 1568a,19.71.478 g/g,20g/g,-1.5,7.5
+12,Se,ACSPDORM-1,1.650.101 g/g,1.62 g/g,1.9,6.1
+13,Zn,ACSPDORM-1,20.71.371 g/g,21.3g/g,2.8,6.6

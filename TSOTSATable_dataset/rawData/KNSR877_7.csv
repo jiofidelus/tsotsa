@@ -1,0 +1,23 @@
+,0,1,2,3,4,5
+0,Origin,Origin,Members of forecast group,Members of forecast group,,Sum
+1,,,Wuchang,Chahayang,Jiansanjiang,
+2,Initial,Initial,,,,
+3,Count,Count,,,,
+4,,Wuchang,35,0,0,35
+5,,Chahayang,0,32,0,32
+6,,Jiansanjiang,0,0,25,25
+7,%,,,,,
+8,,Wuchang,100,0,0,100
+9,,Chahayang,0,100,0,100
+10,,Jiansanjiang,0,0,100,100
+11,,Total,100,100,100,100
+12,Cross-validation,Cross-validation,,,,
+13,Count,Count,,,,
+14,,Wuchang,28,1,6,35
+15,,Chahayang,0,32,0,32
+16,,Jiansanjiang,3,0,22,25
+17,%,,,,,
+18,,Wuchang,80,2.9,17.1,100
+19,,Chahayang,0,100,0,100
+20,,Jiansanjiang,12,0,88,100
+21,,Total,80,100,88,89.3

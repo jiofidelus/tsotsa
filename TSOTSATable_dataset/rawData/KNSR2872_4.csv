@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8
+0,Matrix,Analytes,Automatic cleanup,Testing,Number of samples,Treatment,Recoveries,LOQs,Reference
+1,,,method,instrument,processed in parallel,time,(%,,
+2,Aquaculture,18 SAs,Online SPE method,HPLC-MS/,1,~7min/one,71.5-102%,4.90-51.6 ng kg-1,"(Li et al.,"
+3,,,,MS,,sample,,,2020)
+4,"Apple, citrus fruit.",25,Automated multi-,HPLC -MS/,6,1 min/6,83-108%,3-10 g kg-1,"(Qin et al.,"
+5,"peanut, spinach and",pesticides,channel m-PFC,MS,,samples,,,2016)
+6,green tea,,cleanup method,,,,,,
+7,Mulberry leaves and,82,Automated multi-,GC -MS/MS,24 samples in parallel,1h/64,72-115%,10 g kg-1,"(Wu et al.,"
+8,tea,pesticides,channel m-PFC,,and 48-64 samples in,samples,,,2020)
+9,,,cleanup method,,one time,,,,
+10,Fish muscle tissues,9 drug,Semi-automatic,HPLC-,50,90s/50,101%,15 g kg~1,Our work
+11,,residues,oscillating cleanup,QTRAP-MS/,,samples,-119%,,
+12,,,method,MS,,,,,

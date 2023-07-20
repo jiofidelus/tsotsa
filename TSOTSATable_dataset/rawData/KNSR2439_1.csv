@@ -1,0 +1,48 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,,,OT,OAV,,,,FD(24),,,,RI,,,
+1,No.,Compounds,(g/L),Fe,Hf,T8,Jh,Fe,Hf,T8,Jh,HP-,DB-,Odor types,Identification
+2,,,,,,,,,,,,5MS,WAX,,
+3,1,(E)-2-Hexenal,17a,2.49,5.50,2.59,2.58,16,16,,,852,1215,"green, leaf","MS,RI"
+4,2,Heptanal,3b,,1.41,0.910,1.36,-,16,16,16,901,1183,"fruity,","MS, RI, STD"
+5,,,,,,,,,,,,,,cookie,
+6,3,1-Octen-3-ol,1a,3.98,5.17,1.23,2.99,,32,16,16,982,1451,mushroom,"MS,RI"
+7,4,6-Methyl-5-heptene-2-,50a,0.0970,0.175,0.0746,0.0790,32,-,32,32,988,1337,metallic,"MS,RI"
+8,,one,,,,,,,,,,,,,
+9,5,Benzeneacetaldehyde,4a,95.0,159,74.5,129,512,1024,512,512,1044,1910,"honey,","MS,RI,STD"
+10,,,,,,,,,,,,,,sweet,
+11,6,y-Caprolactone,50b,0.0954,0.348,0.372,0.0894,-,16,-,-,1055,1737,sweet,"MS,RI"
+12,7,unknown,,,,,,,16,,-,1077,,mushroom,"MS,RI"
+13,8,E-Linalool oxide,190a,1.84,0.768,0.700,1.82,16,128,16,64,1089,1452,chocolate,"MS,RI,STD"
+14,,(furanoid),,,,,,,,,,,,,
+15,9,Linalool,0.22a,1.34*103,591,320,425,1024,256,256,256,1100,1552,floral,"MS,RI,STD"
+16,10,Phenylethyl alcohol,390a,1.48,2.24,1.49,2.52,128,128,128,256,1114,1921,"floral,","MS,RI,STD"
+17,,,,,,,,,,,,,,honey,
+18,11,unknown,,,,,,32,32,32,16,1154,,cucumber,"MS,RI"
+19,12,Z-Linalool oxide,,,,,,-,32,32,-,1178,1767,"wood,",MS.RI.STD
+20,13,(pyranoid),,,,,,,,,,,,green,
+21,13,"Z-3,7-Dimethyl-2,6",53a,0.0432,0.171,0.0500,0.123,64,128,64,64,1243,1680,"sweet,","MS, RI, STD"
+22,,octadienal,,,,,,,,,,,,fruity,
+23,14,Geraniol,7.5a,82.8,191,73.2,157,256,512,256,512,1262,1847,floral,"MS,RI, STD"
+24,15,"E-3,7-Dimethyl-2,6-",28b,0.364,0.936,0.317,0.818,,16,-,16,1273,1731,citrus,"MS,RI,STD"
+25,,octadienal,,,,,,,,,,,,,
+26,16,-Octalactone,200b,0.0189,0.272,0.0535,0.0234,,64,16,16,1287,1964,milk,"MS,RI"
+27,17,Indole,40a,0.828,3.25,4.68,12.7,,=,16,16,1295,2450,animal-like,"MS,RI"
+28,18,unknown,,,,,,=,,32,64,1311,,acidity,"MS,RI"
+29,19,p-Vinylguaiacol,5.1c,,0.759,0.130,,,128,-,,1316,2200,herbal,"MS,RI"
+30,20,1-Methylnaphthalene,ga,0.0673,,0.0740,,64,-,16,-,1311,1849,"sweet,mint","MS,RI"
+31,21,Geranic acid,,,,,,32,-,16,64,1373,2351,"sweet,","MS,RI,STD"
+32,,,,,4.50,,1.82,,,,,,,fruity,
+33,22,Biphenyl,0.5b,1.88,4.50,1.88,1.82,16,256,128,128,1380,1987,plastic,"MS,RI"
+34,23,cis-Jasmone,7a,0.670,3.29,1.99,7.53,-,32,16,256,1402,1956,"floral,","MS,RI,STD"
+35,,,,,,,,,,,,,,fruity,
+36,24,Dodecanal,0.13b,7.45,,6.28,11.2,-,,-,16,1409,1711,"fatty, fruity","MS,RI,STD"
+37,25,Coumarin,25b,0.0374,4.60,0.832,0.872,-,256,64,64,1441,2460,"fruity,","MS,STD"
+38,,,,,,,,,,,,,,sweet,
+39,26,trans-Geranylacetone,,,,,,32,64,-,,1454,1863,soymilk,"MS,RI,STD"
+40,27,unknown,,,,,,,,,64,1448,,mint,"MS,RI"
+41,28,(E)--Ionone,0.01a,594,986,593,635,-,128,128,128,1489,1935,"floral,","MS,RI,STD"
+42,,,,,,,,,,,,,,fruity,
+43,29,Jasmine lactone,,,,,,64,256,256,1024,1498,2254,"milk, fruity",MS.RI.STD
+44,30,unknown,,,,,,512,-,256,-,1595,,fruity,"MS,RI"
+45,31,(Z)-Methyl epi-jasmonate,3d,0.567,10.4,8.77,21.0,128,512,1024,1024,1683,2331,sweet,"MS,RI,STD"
+46,32,unknown,,,,,,,512,32,64,2249,,fruity,"MS,RI"

@@ -1,0 +1,26 @@
+,0,1,2,3,4
+0,Food products (and,Producer,Folate content g/100 g DM,Folate content g/100 g DM,Folate loss
+1,raw materials),,,,or gain
+2,,,,,(%)
+3,,,Raw material,Processed food,
+4,Akassa (gelatinized,P1,15.41.5,27.56.2,+78%*
+5,"dough, corn)",P2,18.71.4,16.63.0,-11%
+6,,P3,23.61.5,20.64.1,-13%
+7,Doncounou,P1,17.82.8,19.63.5,10%
+8,(gelatinized,P2,16.72.2,17.91.8,7%
+9,"dough, corn)",P3,15.21.9,11.81.9,22%*
+10,Kaffa (gelatinized,P1,18.32.9,30.47.3,+66%
+11,"dough, sorghum)",,,,
+12,"Massa (batter fritters,",P1,63.93.9,15.13.3,-76%*
+13,pearl-milleta,P2,80.84.5,20.51.8,-75%*
+14,,P3,70.44.4,28.99.6,-59%*
+15,"Fura (dumplings,",P1,81.74.3,38.13.5,-53%*
+16,pearl-millet),P2,72.94.1,74.56.9,2%
+17,,P3,71.911.2,69.710.4,-3%
+18,Ben-kida (porridge,P1,60.54.4,30.85.8,-49%*
+19,pearl-millet),P2,72.1 7.6,40.44.1,-44%*
+20,,P3,65.77.8,32.01.2,-51%
+21,Ben-saalga (porridge,P1,70.37.4,32.37.2,-54%*
+22,pearl-millet),P2,78.17.8,41.59.5,-47%*
+23,,P3,76.98.1,31.85.2,-59%*
+24,,P4,82.39.3,36.21.5,-56%*

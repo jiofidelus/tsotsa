@@ -1,0 +1,22 @@
+,0,1,2,3
+0,CSFII food group,Number of times,Foods from CSFIIin the NCI,USDA-NCC Carotenoid
+1,on NCI DHQ,mentioned in,DHQ Database,Database for US Foods-
+2,,CSFII,,1998a
+3,"Oranges,",941,ORANGE.RAW,"Oranges,raw,all commercial"
+4,"tangerines, tangelos",,,varieties
+5,,81,TANGERINE.RAW(INCLUDE,"Tangerines, (mandarin"
+6,,,MANDARIN ORANGE,"oranges),raw"
+7,,,SATSUMA),
+8,,12,"ORANGES,MANDARIN","Tangerines, (mandarin"
+9,,,"CANNED OR FROZEN,","oranges), raw"
+10,,,SWEETENER NS,
+11,,10,"TANGELO,RAW","Tangerines,(mandarin"
+12,,,,"oranges), raw"
+13,,9,"ORANGES, MANDARIN.","Tangerines,(mandarin"
+14,,,CANNED OR FROZEN.,"oranges), raw"
+15,,,DRAINED,
+16,,2,"ORANGES, MANDARIN.","Tangerines,(mandarin"
+17,,,CANNED OR FROZEN.IN,"oranges),raw"
+18,,,LIGHTSYRUP,
+19,Total number of,1055,,
+20,times mentioned in,,,

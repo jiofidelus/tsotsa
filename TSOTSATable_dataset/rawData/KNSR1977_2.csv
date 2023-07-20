@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7
+0,Isotope,Analysis,Internal,Concentration,Isotope,Analysis mode,Internal standard,Concentration
+1,,mode,standard,range(gL-1),,,,range(gL-1)
+2,11B,Standard,45Sc,0-10,74Ge,He,45Sc,010
+3,23Na,Standard,45SC,0-10,75AS,He,45Sc,0-10
+4,27AI,He,45Sc,050,82Se,He,89Y,0-10
+5,39K,He,45Sc,050,95Mo,He,89Y,0-10
+6,43Ca,He,45SC,"0-20,000",98Mo,He,89Y,0-10
+7,44Ca,He,45Sc,"020,000",107Ag,He,185Re,0-10
+8,49Ti,He,1151n,"0-20,000",111Cd,Standard,185Re,0-10
+9,51V,He,45Sc,0-10,114Cd,Standard,185Re,0-10
+10,52Cr,He,45Sc,0-10,118Sn,Standard,185Re,0-10
+11,ssMn,He,45Sc,0-10,121Sb,Standard,185Re,0-10
+12,56Fe,He,45Sc,050,125Te,Standard,185Re,0-10
+13,59Co,He,45Sc, 050,135Ba,Standard,185Re,0-10
+14,GONi,He,45Sc,0-10,137Ba,Standard,185Re,0-10
+15,63 Cu,He,45Sc,010,202Hg,Standard,209Bi,0-10
+16,65Cu,He,45Sc, 050,206pb,Standard,209Bi,0-10
+17,64Zn,He,45Sc,0-100,207pb,Standard,209Bi,0-10
+18,66Zn,He,45Sc,0-100,208pb,Standard,209Bi,0-10
+19,66Zn,He,45Sc,0-100,208pb,Standard,209Bi,0-10

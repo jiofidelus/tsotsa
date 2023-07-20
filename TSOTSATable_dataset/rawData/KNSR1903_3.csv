@@ -1,0 +1,74 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,No.,Compounds,na,R2,Concentration (mg/L),Concentration (mg/L),Odor thresholds,Matrix,OAVs,,Linear ranges
+1,,,,,Y,R,(g/Lc,,Y,R,(ppm)
+2,,Esters,,,,,,,,,
+3,,Ethyl hexanoate,6,0.9917,1242.57,917.54,55,46% ethanol/water,22592,16683,25-6000
+4,,,,,10.82,42.50,,solution,,,
+5,2,Ethyl butyrate,7,0.9966,290.46,232.24,82,46% ethanol/water,3542,2832,3-800
+6,,,,,10.08,10.88,,solution,,,
+7,3,Ethyl octanoatee,6,0.9939,18.19  4.30,28.07  1.67,13,46% ethanol/water,1400,2159,0.03-512
+8,,,,,,,,solution,,,
+9,4,Ethyl pentanoatee,6,0.9984,25.54  2.22,76.41  2.92,27,46% ethanol/water,946,2830,0.03-512
+10,,,,,,,,solution,,,
+11,5,Phenethyl butyratef,7,0.9981,12.25  0.43,0.100.02,39*,53% ethanol/water,314,<1,0.1-250
+12,,,,,,,,solution,,,
+13,5,Ethyl dodecanoate,6,0.9965,28.25  2.73,4.22  0.00,400,46% ethanol/water,71,11,0.1-250
+14,,,,,,,,solution,,,
+15,7,Ethyl-2-methylbutyratef,7,0.9902,0.98 0.05,0.50  0.03,18*,53% ethanol/water,55,28,0.1-250
+16,,,,,,,,solution,,,
+17,8,Isoamyl butyrate,7,0.9921,0.77  0.05,0.25  0.01,20,58% ethanol/water,39,13,0.1-250
+18,,,,,,,,solution,,,
+19,,Ethyl acetate,6,0.9967,946.37,1831.08,"32,600",46% ethanol/water,29,56,25-6000
+20,,,,, 10.52, 52.83,,solution,,,
+21,10,Ethyl levulinatef,7,0.9942,21.75 0.63,1.96 0.04,1000,53% ethanol/water,22,2,0.1-250
+22,,,,,,,,solution,,,
+23,11,Ethyl phenylacetatef,7,0.9924,4.930.15,0.98  0.06,407,46% ethanol/water,12,2,0.1-250
+24,,,,,,,,solution,,,
+25,12,Ethyl-2-hydroxy-4-,7,0.9991,11.97 0.47,20.70  8.40,1268*,53% ethanol/water,9,16,0.03-512
+26,,methylvalerate,,,,,,solution,,,
+27,13,Palmitic acid ethyl ester,7,0.9923,119.22,14.29  0.07,"15,000*",53% ethanol/water,8,10,0.03-512
+28,,,,, 0.27,,,solution,,,
+29,14,Ethyl lactate,6,0.9891,932.01,945.67,"128,000",46% ethanol/water,7,7,3800
+30,,,,,4.67, 31.32,,solution,,,
+31,15,Isobutyl hexanoatef,6,0.9891,23.63  2.88,0.200.01,5250*,53% ethanol/water,5,<1,0.1-250
+32,,,,,,,,solution,,,
+33,16,Ethyl decanoate,6,0.9984,3.760.35,17.49 1.42,1120,46% ethanol/water,3,16,0.03-512
+34,,,,,,,,solution,,,
+35,17,2-Phenethyl hexanoatef,7,0.9931,0.13 0.01,0.032  0.00,57*,53% ethanol/water,2,2,0.1-250
+36,,,,,,,,solution,,,
+37,18,Ethyl heptanoatee,6,0.9824,15.75 1.07,34.10  2.88,"13,200",46% ethanol/water,1,3,0.03-512
+38,,,,,,,,solution,,,
+39,19,Ethyl isohexanoatef,7,0.9905,4.61  1.02,0.41 0.01,4600,53% ethanol/water,1,<1,0.1-250
+40,,,,,,,,solution,,,
+41,20,Butyl hexanoate,6,0.9975,0.69 0.07,7.70  0.79,5250,46% ethanol/water,<1,1,0.03-512
+42,,,,0.9945,,,,solution,,,
+43,21,Ethyl myristatef,6,0.9945,0.81 0.08,0.100.00,"46,607",46% ethanol/water,<1,<1,0.1-250
+44,,,,,,,,solution,,,
+45,22,Benzenemethanethiolf,7,0.9913,0.090.01,0.09 0.00,0.004,46% ethanol/water,26285,"24,857",0.01-5
+46,,,,,,,,solution,,,
+47,23,Dimethyl trisulfidef,7,0.9953,0.0750.01,0.06  0.00,0.4,58% ethanol/water,187,153,0.01-5
+48,,,,,,,, solution,187,153,
+49,,Acids,,,,,,,,,
+50,24,Hexanoic acid,6,0.9957,890.93,497.48,2520,46% ethanol/water,354,197,25-6000
+51,,,,, 21.98,2.51,,solution,,,
+52,25,Butanoic acide,7,0.9986,130.99,99.86  2.12,964,46% ethanol/water,136,104,3-800
+53,,,,,11.99,,,solution,,,
+54,26,Valeric acide,6,0.9966,17.57  1.35,40.59  0.72,389,46% ethanol/water,45,104,0.03-512
+55,,,,,,,,solution,,,
+56,27,Octanoic acide,6,0.9954,31.98  3.48,16.23  0.15,2700,46% ethanol/water,12,6,0.03-512
+57,,,,,,,,solution,,,
+58,28,Propionic acidf,6,0.9802,10.21  0.74,70.98  1.75,8100,46% ethanol/water,1,9,0.1-250
+59,,,,,,,,solution,,,
+60,29,Heptanoic acid,6,0.9972,15.33 1.97,13.42  0.59,"13,821",52% ethanol/water,1,<1,0.03-512
+61,,,,,,,,solution,,,
+62,30,Isovaleric acidf,7,0.9915,0.080.00,12.980.54,1045,46% ethanol/water,<1,12,0.1-250
+63,,,,,,,,solution,,,
+64,31,Acetic acid,6,0.9914,145.12,429.34,"160,000",56% ethanol/water,<1,3,3-800
+65,,,,,0.25,1.94,,solution,,,
+66,,Pyrazines,,,,,,,,,
+67,32,"5-Ethyl-2,3-dimethylpyrazinef",7,0.9898,0.080.01,0.06 0.00,"21,815",49% ethanol/water,2,2,0.01-5
+68,,,,,,,,solution,,,
+69,33,2-Ethyl-6-methylpyrazinef,6,0.9978,0.03  0.00,1.63  0.00,40,46% ethanol/water,<1,41,0.01-5
+70,,,,,,,,solution,,,
+71,,Aromatic compounds,,,,,,,,,
+72,34,p-Cresolf,7,0.993,0.73  0.25,0.65  0.07,167,46% ethanol/water,4,4,0.1-250

@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Elution solvent (20 mL),,,"Recovery(%(fortification level:1.0g g1,n=2",,,,,,,,,
+1,,Lufenuron,Lufenuron,,,Teflubenzuron,Teflubenzuron,,,Bifenthrin,Bifenthrin,,
+2,,Adsorbent (2.5 g),Adsorbent (2.5 g),,,,,,,,,,
+3,,C18,Silica-gel,Neutral,Florisil,C18,Silica-gel,Neutral,Florisil,C18,Silica-gel,Neutral,Florisil
+4,,,,alumina,,,,alumina,,,,alumina,
+5,Acetonitrile,100,31,91,31,83,40,25,37,71,33,16,20
+6,Ethyl acetate,39,27,41,33,36,38,45,48,40,33,33,33
+7,Acetone,137,55,20,53,48,73,33,34,38,43,28,29
+8,"Ethyl acetate:hexane4:1,v/v",85,38,64,24,46,65,71,38,43,43,33,14
+9,"Ethyl acetate:dichloromethane (4:1, v/v)",35,37,50,31,41,67,49,47,42,43,33,14

@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,Hard bottoms,,,Soft bottoms,,
+1,Taxa,Species,Prey for crab,Taxa,Species,Prey for crab
+2,Asteroidea,Asierias rubens,+,Amphipoda,Ponioporeia fasciata,
+3,Bivalvia,Mytilus edulis,+,Bivalvia,Macoma calcarea,+
+4,Bivalvia,Modiolus modiolus,+,Bivalvia,Mya arenaria,+
+5,Cirripedia,Balanus crenatus,+,Bivalvia,Thyasira sarsi,-
+6,Cirripedia,Balanus balanus,+,Gastropoda,Crypionatica clausa,+
+7,Ophiuroidea,Strongylocentrotus droebachiensis,+,Ophiuroidea,Ophiura robusta,+
+8,Ophiuroidea,Ophiopholis aculeata,+,Polychaeta,Cislenides granulata,+
+9,Polychaeta,Pseudopolamila reniformis,+,Polychaeta,Cislenides hyperborea,+
+10,Porifera,Porifera gen. sp.,-,Polychaeta,Euchone analis,-
+11,Phaeophyta,Alaria esculenta,+,Polychaeta,Harmothoe imbricata,+
+12,Phaeophyta,Chordaria flagelliformis,+,Polychaeta,Nephrys pente,-
+13,Phaeophyta,Desmarestia aculeata,+,Polychaeta,Ophelia limacina,+
+14,Phaeophyta,Laminaria digitata,+,Polychaeta,Praxillella praetermissa,-
+15,Phaeophyta,Lithotamnion spp.,-,Polychaeta,Scoloplos acutus,+
+16,Rhodophyta,Odonihalia dentata,+,,,
+17,Rhodophyta,Phycodris sinuosa,+,,,
+18,Rhodophyta,Plilola plumosa,+,,,
+19,Rhodophyta,Saccharina latissima,+,,,

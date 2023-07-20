@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Compound,Compound Name,Adduct,Precursor,Chemical,a#tR,bEA,c#MsE,dTWCCSN2,TWCCSN2,TWCCSN2,References
+1,number,,,m/z,formulae,(min),(ms),,APoly-,A2Poly-,Ain,
+2,,,,,,,,,DL-alanine,L-malic,Literature,
+3,,,,,,,,,calibrant,acid,,
+4,,,,,,,,,,calibrant,,
+5,,,,,,,,,,,,Stander
+6,,,,,,,,,,,,"et al.,2017"
+7,42,Naringenin,[M-,271.0616,C1sH12Os,5.14,1.86,271->177.0217;,154.6,160.3,164.9,(Causon
+8,,,H],,,,,151.0051;119.0499,,,DTCCSN2,"et al.,2019"
+9,,,,,,,,107.0157,,,,
+10,43,Hesperetin,[M-,301.0708,C16H14O6,5.44,2.14,301->286.0517;,166.4,171.0,166.1,Standard;
+11,,,H],,,,,257.0722; 242.0540;,,,(TWCCSN2),Gonzales
+12,,,,,,,,199.0467;174.0360;,,,,"et al.,2016"
+13,,,,,,,,164.0103;151.0026;,,,,
+14,,,,,,,,136.0261,,,,

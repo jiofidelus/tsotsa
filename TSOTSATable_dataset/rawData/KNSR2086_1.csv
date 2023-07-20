@@ -1,0 +1,4 @@
+,0,1,2,3,4,5,6,7
+0,Pesticides,RT (min),Precursor ion (m/z),Product ion (m/z),DP,EP,CE,CXP
+1,Tricyclazole,6.08,190,First transition quantification (163),86,10,31,16
+2,,,,Second transition identification (136),86,10,36,18

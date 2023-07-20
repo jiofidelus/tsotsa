@@ -1,0 +1,40 @@
+,0,1,2,3,4,5
+0,Peak no.,Compounds,,Relative amount (SD)*,,Odour description
+1,,,D101,D2,D24,
+2,,,n=5,n=4,n=3,
+3,Alcohol,,,,,
+4,6.,Ethanol,0.72ab,1.09a,0.56b,
+5,,,(0.29),(0.19),(0.13),
+6,Sulfur-compounds,,,,,
+7,1.,Ethanethiol,5.48a,4.26a,3.55a,"Onion, rubber odour4"
+8,,,(1.75),(0.76),(0.48),
+9,2.,Propanethiol,5.00a,2.72b,5.77a,"Cabbage, sweet onion-like odour"
+10,,,(1.37),(1.19),(1.77),
+11,5.,1-(methylthio),0.27a,Nd,0.13a,
+12,,-propane,(0.04),,0.12,
+13,16.,S-ethyl ethanethioate,0.34a,Nd,0.31a,Alliaceous coffee odour
+14,,,(0.13,,(0.12),
+15,21.,S-propyl ethanethioate,0.09b,0.06b,0.32a,
+16,,,(0.05,0.13,(0.03),
+17,24.,Diethyl disulfide,12.42a,15.85a,18.76a,"Sulfury, roasty, cabbage-like odour"
+18,,,2.10,(9.52),(4.32),
+19,25.,Methyl propyl disulfide,nd,Nd,0.33,Powerful penetrating sulfuraceous-onion-like odour
+20,,,,,(0.29),
+21,27.,Ethyl propyl disulfide,3.63b,3.35b,9.04a,
+22,,,(1.72),(2.12),(0.55),
+23,30.,1-(ethylthio)-,0.66a,0.14b,0.66a,
+24,,1-(methylthio)-ethane,(0.13),(0.28),(0.16),
+25,31.,Dipropyl disulfide,0.20b,0.11b,1.03a,Pungent sulfur-like onion and garlic odour
+26,,,(0.33),(0.22),(0.24),
+27,34.,Diethyl trisulfide,5.97b,14.68a,2.52b,Sweet and alliaceous odour?
+28,,,(1.98),(5.54),(0.24),
+29,35.,Ethyl propyl trisulfide,0.86a,1.73a,0.68a,"Alliaceous, roasted, rubbery odour?"
+30,,,(0.15),(0.90),(0.21),
+31,36.,"3,5-dimethyl-1,2,4-",0.47b,1.46a,1.74a,"Sulfury, heavy, cocoa odour3"
+32,,trithiolane (isomer 1),(0.05),(0.50),(0.75),
+33,37.,"3,5-dimethyl-1,2,4-",0.59b,1.47a,1.71a,"Sulfury, onion odour3"
+34,,trithiolane (isomer 2),(0.30),(0.52),(0.77),
+35,38.,Dipropyl trisulfide,0.12a,0.16a,0.11a,Powerful diffusive garlic-like odour
+36,,,0.15,(0.13),(0.05),
+37,39.,"1,1-bisethylthio)-ethane",0.42a,0.49a,0.71a,"Burnt, rubbery, alliaceous odour"
+38,,,(0.16),(0.26),(0.05),

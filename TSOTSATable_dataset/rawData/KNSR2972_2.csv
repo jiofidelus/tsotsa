@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Vegetable,ISAa,Measured,Intercept,Slope,Correlatior
+1,,,value,,,coefficient
+2,Carrot,no,2,1.7,1.1,1.00
+3,,yes,2,1.6,1.0,1.00
+4,Wild,no,51,50,1.2,1.00
+5,endive,yes,52,53,1.0,1.00
+6,Celery,no,163,163,1.0,1.00
+7,,yes,164,164,1.1,0.99
+8,Chicory,no,5,5,1.0,1.00
+9,,yes,4,4,1.1,1.00
+10,Spinach,no,109,109,1.0,1.00
+11,,yes,100,100,1.0,1.00
+12,Parsley,yes,57,57,1.0,1.00

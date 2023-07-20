@@ -1,0 +1,18 @@
+,0,1,2,3,4
+0,Fatty acid,Control,A.karroo,Sunflower cake,s.e.m.
+1,n,10,10,10,
+2,12:0,11.00b,1.15a,and,0.107
+3,14:0,3.88b,3.82b,0.12a,0.038
+4,16:0,25.35b,28.74c,9.91a,0.191
+5,18:0,7.11b,9.16c,4.28a,0.107
+6,18:1c9,9.32b,5.80a,31.50c,0.095
+7,18:2n-6,22.96b,16.94a,53.00c,0.159
+8,18:3n-3,20.40b,34.36c,0.93a,0.061
+9,Total saturated,47.38c,42.88b,14.31a,0.232
+10,fatty acidsSFA,,,,
+11,Total Monounsaturated,9.44b,5.86a,31.65c,0.111
+12,Fatty Acids (MUFA),,,,
+13,Total polyunsaturated,43.35a,51.29b,53.94b,0.216
+14,fatty acids(PUFA),,,,
+15,PUFA/SFA,0.91a,1.20b,3.77c,0.017
+16,n-6/n-3,1.12b,0.49a,56.86c,0.215

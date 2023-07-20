@@ -1,0 +1,7 @@
+,0,1,2,3
+0,Stage,Temperature (C),Ramp(Cs-1,Hold time (s)
+1,Drying,120,5,10
+2,Pyrolysis,1000,150,10
+3,Autozero,1000,0,10
+4,Atomization,2700,1200,10
+5,Cleaning,2720,500,4

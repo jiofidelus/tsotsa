@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,,Set-up A,,Set-up B,,,,,,,,,
+1,,Sample #A,Sample #B,Sample #A,,,Sample #B,,,,,Sample#C,
+2,,Hexanal,,Hexanal,,,,,,,,,
+3,,Day 1-5,,Day1/2/3,,,Day 1/2/3,,,,,Day 1/2/3,
+4,Mean,8.07E+02,1.55E+03,Mean,7.96E+02,Mean,,,1.72E+03,,Mean,,1.90E+03
+5,RSD %,8.50,14.47,RSDr %,13.06,RSDr %,,,8.66,,RSDr %,,13.50
+6,,,,RSDR %,13.06,RSDR %,,,16.25,,RSDR %,,13.50
+7,,,,Rec.vs A,98.80%,Rec.vs A,Rec.vs A,,110.60%,,,,
+8,,,,Rec.vs SA,112.53%,,,,,,,,
+9,,Heptanal,,Heptanal,,,,,,,,,
+10,Mean,2.01E+02,3.50E+02,Mean,1.95E+02,Mean,,,3.57E+02,,Mean,,4.16E+02
+11,RSD %,9.45,9.16,RSDr %,10.84,RSDr%,,,4.16,,RSDr %,,17.07
+12,,,,RSDR %,10.84,RSDR %,,,19.81,,RSDR %,,17.07
+13,,,,Rec. vs A,97.20%,Rec.vs A,Rec.vs A,,102.20%,,,,
+14,,,,Rec.vs SA,117.83%,,,,,,,,
+15,,Octanal,,Octanal,,,,,,,,,
+16,,,,Mean,2.21E+02,Mean,,,4.24E+02,Mean,,5.02E+02,5.02E+02
+17,Mean,2.17E+02,3.90E+02,RSDr %,13.74,RSDr %,,5.07,,RSDr %,,8.45,
+18,RSD %,6.47,6.72,RSDR %,13.74,RSDR%,,18.2,,RSDR %,,8.45,
+19,,,,Rec.vs A,101.90%,Rec.vs A,Rec.vs A,108.80%,108.80%,,,,
+20,,,,Rec. vs SA,118.00%,,,,,,,,
+21,,Nonanal,,Nonanal,,,,,,,,,
+22,Mean,2.57E+02,4.27E+02,Mean,2.34E+02,Mean,,4.41E+02,,Mean,,8.39E+02,8.39E+02
+23,RSD %,8.90,7.11,RSDr %,4.31,RSDr%,,8.09,,RSDr %,,13.99,
+24,,,,RSDR %,14.56,RSDR %,,13.29,,RSDR %,,13.99,
+25,,,,Rec. vs A,91.10%,Rec. vs A,Rec. vs A,103.30%,,,,,
+26,,,,Rec.vs SA,83.73%,,,,,,,,

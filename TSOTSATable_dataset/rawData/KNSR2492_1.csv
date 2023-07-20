@@ -1,0 +1,15 @@
+,0,1,2,3
+0,Standards,Concentrationa,tR,Characteristic ions
+1,,(mg/L),(min),(m/z)
+2,Tyrosol,1514,12.81,"179,193,267.282"
+3,p-Hydroxybenzoic acid,120,13.98,"193,223,267"
+4,Vanillic acid,278,16.88,"253,267,297.312"
+5,Protocatechic acid,310,18.05,"193,311,355,370"
+6,Syringic acid,584,19.58,"253,312,327,342"
+7,p-Coumaric acid,458,20.21,"219,249,293,308"
+8,Gallic acid,1464,20.83,"281.311,443.458"
+9,Ferulic acid,520,23.03,"249,308,323,338"
+10,Caffeic acid,520,23.85,"219.307,381.396"
+11,trans-Resveratrol,380,32.82,"429,444,445,446"
+12,Epicatechin,552,35.03,"355,368,369"
+13,Catechin,912,35.36,"355,368,369"

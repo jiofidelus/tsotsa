@@ -1,0 +1,10 @@
+,0,1
+0,Foreign ion,Tolerance limit[ion]/[V]
+1,"Na+K+,Zn+,Cl,acetate,citrate",1500
+2,Mn2+Ca2+Mg2+Hg2+SO2,1300
+3,"Mo6+F,NO3",800
+4,Cr3+A13+Pb2+BrO2,500
+5,"Ni2+Fe3+tartrate,EDTA",150
+6,"Co2+,Cu2+",100
+7,W6+,15
+8,"Cr6+,Ce4+",<1

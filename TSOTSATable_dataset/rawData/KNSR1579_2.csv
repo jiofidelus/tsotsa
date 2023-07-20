@@ -1,0 +1,75 @@
+,0,1,2
+0,Proteina,Query peptides,Functionb
+1,s1-CN,DIPNPI,Growth-promoting
+2,,FFVAP,ACE inhibitory
+3,,IKHQGLPQE,Antimicrobial
+4,,LNENLLRFFVAPFPEVFG,ACE inhibitory
+5,,NENLLRFFVAPFPEVFG,"ACE inhibitory,immunomodulatory"
+6,,RYLG,"ACE inhibitory, antioxidant"
+7,,TTMP,ACE inhibitory
+8,,VAPFPE,Inhibition of cholesterol solubility
+9,,YFYPE,Opioid
+10,s2-CN,AMKPW,ACE inhibitory
+11,,AMKPWIQPK,ACE inhibitory
+12,,IVLNPWDQVK,Antimicrobial
+13,,TKVIP,ACE inhibitory
+14,,VPITPT,DPP-IV inhibitory
+15,-CN,AQTQSLVYP,ACE inhibitory
+16,,AVPYP,ACE inhibitory
+17,,FLQP,"ACE inhibitory, DPP-IV inhibitory"
+18,,FPGPIPN,DPP-IV inhibitory
+19,,GPFPI,Cathepsin B inhibitory
+20,,HQPHQPLPPT,ACE inhibitory
+21,,KVLPVPQ,ACE inhibitory
+22,,LNVPGEIVE,ACE inhibitory
+23,,LPLPL,DPP-IV inhibitory
+24,,LPLPLL,"ACE inhibitory, DPP-IV inhibitory"
+25,,LPQNIPP,DPP-IV inhibitory
+26,,LPQNIPPLT,DPP-IV inhibitory
+27,,LPVP,DPP-IV inhibitory
+28,,LPVPQ,DPP-IV inhibitory
+29,,LQSW,ACE inhibitory
+30,,LVYP,ACE inhibitory
+31,,LVYPFPGP,ACE inhibitory
+32,,LVYPFPGPIP,ACE inhibitory
+33,,LVYPFPGPIPNSLPQ,ACE inhibitory
+34,,NSLP,ACE inhibitory
+35,,PFPGPI,Cathepsin B Inhibitory
+36,,PFPGPIPN,ACE inhibitory
+37,,PGPIPN,"ACE inhibitory, anticancer,"
+38,,," immunomodulatory,"
+39,,PQNIPPL,DPP-IV inhibitory
+40,,QEPVL, Immunomodulatory
+41,,RDMPIQAF,ACE inhibitory
+42,,RELEELNVPGEIVESLSSSEESITR,"CPP, immunomodulatory, promote"
+43,,SLVYP,ACE inhibitory
+44,,TPVVVPPFLQP,ACE inhibitory
+45,,VLPVPQK,"ACE inhibitory,antimicrobial,"
+46,,,"antioxidant, wound healing, anti-"
+47,,,apoptotic effect
+48,,VVPP,ACE inhibitory
+49,,VYPFPG,ACE inhibitory
+50,,VYPFPGPI,PEP-inhibitory
+51,,VYPFPGPIP,PEP-inhibitory
+52,,VYPFPGPIPN,"ACE inhibitory, antioxidant"
+53,,WMHQPHQPLPPT,"ACE inhibitory, anti-inflammatory"
+54,,YPFPGPI,"ACE inhibitory, anticancer,"
+55,,,"anxiolytic, satiety, opioid, reduce"
+56,,,"pancreas MDA level,"
+57,,YPFPGPIP, immunomodulatory
+58,,YPFPGPIP,"ACE inhibitory, antioxidant"
+59,,YPFPGPIPN,"ACE inhibitoryantioxidant, DPP-IV"
+60,,,inhibitory
+61,,YPVEPF,"Antioxidant, DPP-IV inhibitory,"
+62,,,"increase MUC4 expression, opioid"
+63,,YQEPVLGPVR,"ACE inhibitory, antithrombotic,"
+64,,,"antioxidant, immunomodulatory,"
+65,,,anti-inflammatory
+66,K-CN,MAIPPKK,"Antithrombin, ACE inhibitory"
+67,,RYPSYG,ACE inhibitory
+68,-Lg, AASDISLLDAQSAPLR,Antimicrobial
+69,,ALPMH,"ACE inhibitory, hypocholesterolemia"
+70,,IAEK,ACE inhibitory
+71,,IPAV,Anti-inflammatory
+72,,IPAVF,ACE inhibitoryDPP-IV inhibitory
+73,,LDIQK,ACE inhibitory

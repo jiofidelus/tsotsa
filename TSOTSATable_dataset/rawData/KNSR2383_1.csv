@@ -1,0 +1,34 @@
+,0,1,2,3
+0,tag,species,type,origin (location)
+1,mG1,Triticum monococcum,"s,p","Georgia,Elkana collection"
+2,mT2,Triticum monococcum,"s,p",Turkey (Ishangazi)
+3,mT3,Triticum monococcum,"s,p",Turkey (Katalyazi Koyu)
+4,mI4,Triticum monococcum cv. Monlis,"s,V","Italy,selected variety"
+5,eG1,Triticum dicoccum2,"s,p","Georgia,Elkana collection"
+6,eT2,Triticum dicoccum 2,"s,p",Turkey (Ishangazi)
+7,eT3,Triticum dicoccum 2,"s,p",Turkey (Katalyazi Koyu)
+8,eI4,Triticum dicoccum 2,"W,p",Italy(Leonessa)
+9,eI5,Triticum dicoccum 2,"s,p",Italy (Leonessa)
+10,eI6,Triticum dicoccum 2,"s,p",Italy (Monteleone di
+11,,,,Spoleto)
+12,eI7,Triticum dicoccum cv. Zefiro,"W,V","Italy,selected variety"
+13,eI8,Triticum dicoccum cv.Rosso rubino,"s,v","Italy, selected variety"
+14,eI9,Triticum dicoccum,"W,p",Italy (Garfagnana)
+15,eA10,Triticum dicoccum2,"s,p",Armenia (Fantan)
+16,eA11,Triticum dicoccum2,"s,p",Armenia (Fantan)
+17,eA12,Triticum dicoccum2,"s,p",Armenia (Vayotz Dzor)
+18,eA13,Triticum dicoccum2,"s,p",Armenia (Rubik)
+19,eB14,Triticum dicoccum2,"s,p",Bulgaria (Beden)
+20,tG,Triticum timopheevi var.rubiginosum,"s,p","Georgia,Elkana collection"
+21,,Eritz2,,
+22,pG,Triticum palaeo-colchicum Men2,"w,p","Georgia,Elkana collection4"
+23,dG1,Triticum durum var. leucurum Al.,"w,p","Georgia, Elkana collection4"
+24,,Desf.2,,
+25,dG2,Triticum durum var. leucurum Al.,"w,p","Georgia, Elkana collection"
+26,,Desf.2,,
+27,dG3,Triticum durum var. apulicum Koern,"s,p","Georgia, Elkana collection"
+28,dC4,Triticum durum cv. Yelodur2,"s,V",commercial variety
+29,dC5,Triticum durum cv. Miradoux2,"s,V",commercial variety
+30,hG,Triticum macha Dek et Mer Makha,"s,p","Georgia,Elkana collection"
+31,aC1,Triticum aestivum cv.Kalango3,"W,V",commercial variety
+32,aC2,Triticum aestivum cv. Nogal3,"W,v",commercial variety

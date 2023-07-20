@@ -1,0 +1,74 @@
+,0,1,2
+0,Component modules,Advantages,Disadvantages
+1, Main body,,
+2,Comprehensive two-,1 High resolution;,1Complex instrument
+3,dimensional gas,2High sensitivity,configuration
+4,chromatography,3High peak capacity,2High instrument
+5,(GCGC[1-4],,price and
+6,,,maintenance costs
+7,,,(3) (3) Time-consuming
+8,,,and laborious data
+9,,,processing
+10,Modulator(M),,
+11,Thermal-based M,,
+12,Solid State M (SSM) [5],1 Good separation,1) High instrument
+13,Longitudinally,capacity;,price and
+14,modulated cryogenic,2 High sensitivity;,maintenance costs;
+15,system (LMCS)[6],(3) Suitable for analysis of,2Complex equipment
+16,Dual-stage CO2 jet M [7],multiple types of,3 High operational
+17,Liquid nitrogen-cooled,samples;,requirements
+18,jet M [8],(4) Optimization of,
+19,Semi-rotating cryogenic,analysis methods is,
+20,M[9],easier,
+21,Quad-jet dual stage,,
+22,thermal M [10],,
+23,Cold-jet M [11],,
+24,Microswitching and,,
+25,cryogenic M [12],,
+26,"Single-jet, single-stage",,
+27,cryogenic M [13],,
+28,Thermal M [14],,
+29,Valve-based M,,
+30,Microfluidic Deans,(1 Low instrument cost,1Severe parameter
+31,switch M [15],and maintenance cost;,coupling and
+32,Valve-based stop-flow M,(2) Compact construction;,difficult method
+33,[16],"3Fixed method,easy to",optimization;
+34,Consumable-free,operate,2 The separation is
+35,thermal M [17],,less effective than
+36,Quasi-Stop-Flow M [18],,Thermal-based M;
+37,Forward flush/fill M,,(3) Not very sensitivity
+38,[19],,
+39,Reverse-flow flush M,,
+40,[19],,
+41,Quasi-stop-flow M [20],,
+42,Detector,,
+43,Mass spectroscopy,,
+44,(MS,,
+45,Quadrupole MS(QMS,1 Wide range of,1Insufficient
+46,[21],applications;,qualitative ability;
+47,,(2) Simple structure;,(2) Low resolution;
+48,,(3) Low instrument cost,3) Susceptible to
+49,,and maintenance cost;,complex matrix
+50,,4 High quantitative,interference;
+51,,capability of SIM,limit (less than
+52,,function.,limit (less than
+53,,,1200 u)
+54,Time-of-flight MS,(1) Higher selectivity and,1 No string-pole
+55,(TOFMS[22],sensitivity than QMS;,function;
+56,,2 Certain resistance to,2 The qualitative
+57,,interference for,capabilities high
+58,,complex matrices,"than QMS, but also"
+59,,"3 Good resolution,fast",insufficient.
+60,,"scanning speed, and",
+61,,high upper mass limit,
+62,,6000-10000 u),
+63,Triple quadrupole MS,1 With string-pole,1Insufficient
+64,QQQ)[23],function;,resolving power;
+65,,2 High qualitative,2Susceptible to
+66,,ability,interference from
+67,,,ions in the m/z
+68,,,approximation
+69,Triple quadrupole linear,"(1 Simultaneous MRM,",1 Insufficient
+70,ion trap MS (Qtrap),"SRM, string-pole, and",resolution
+71,[24],neutral loss functions;,
+72,,,(continued on next page)

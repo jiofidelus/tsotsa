@@ -1,0 +1,20 @@
+,0,1
+0,Chromatographic conditions,
+1,Injection,50L
+2,Guard column,"Pelliguard LC-18(5mm 4.6mm i.d.,"
+3,,40m(Supelco)
+4,Analytical column,"Water symmetry C18(150 mm 4.6 mm i.d.,"
+5,,5mWaters
+6,Mobile phase,Aformic acid in water 5%v/v:B(methanol
+7,,0-5 min:100:0(elution step)
+8,,15-20:85:15elution step
+9,,25-40:40:60(elution step)
+10,,41-45:0:100(washing step
+11,,46-51:100:0conditioning step
+12,Flow,1mLmin-1
+13,Detection conditions,
+14,Scanning,200-600nm
+15,Detection wavelength,Flavonols:360nm;anthocyanins:520nm
+16,Scan rate,1Hz
+17,Step,2nm
+18,Bandwidth,3nm

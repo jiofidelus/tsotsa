@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6
+0,Cultivars,Total Tocopherols (mg/kg),Total Sterols (mg/kg),Sterols (% total),,,
+1,,,,Campesterol,Stigmasterol,Betasitosterol,D7Stigmasterol
+2,Aegina,415.85 bede,3554 bedefg,4.05,1.25 efgh,93.40 abc,0.45cd
+3,Ajamy,352.50 def,3860 ab,4.20,2.10 ab,92.20 d,0.50 bed
+4,Albina,370.70 cdef,3304 efgh,3.70,1.00 sh,94.10 ab,0.50 bcd
+5,Ashoury,406.60 bede,3689 bede,4.10,1.60 cde,92.80 bcd,0.50 bed
+6,Avdat,496.10 ab,3410 cdefgh,4.00,1.00 sh,93.40 bed,0.70 ab
+7,Avidon,433.70 bcd,3036 h,3.45,0.80 h,94.35 a,0.50 bed
+8,Batoury,416.65 bede,3219 gh,3.85,1.15 efgh,93.55 abc,0.65 abc
+9,Boundoky,388.70 bcdef,3803 abc,4.10,1.20 efgh,93.00 bcd,0.70 ab
+10,Bronte,244.40 g,3732 bcd,4.00,1.80 bcd,92.50 d,0.80 a
+11,Iraq,559.20 a,3664 bcdef,4.40,1.20 efgh,93.10 bcd,0.60 abcd
+12,Joley,283.10 fg,3639 bcdef,4.20,1.50 def,92.90 cd,0.60 abed
+13,Kastel,476.20 abc,3503 bedefg,3.90,1.40 defg,93.50 abc,0.50 bed
+14,Kerman,457.93 abcd,3565 bedefg,4.30,1.20 efgh,93.30 abcd,0.50 bed
+15,Larnaka,344.03 def,3445 cdefg,3.73,2.50 a,92.20 d,0.53 bed
+16,Lathwardy,406.50 bede,3281 fgh,4.10,1.10 fgh,92.70 cd,0.70 ab
+17,Mateur,397.85 bcde,3378 defgh,4.05,1.15 efgh,93.50 abe,0.50 bed
+18, Napoletana,304.65 efg,3609 bedefg,3.95,1.60 cde,93.00 bcd,0.65 abc
+19,Ouleimy,351.95 def,3414 cdefgh,4.15,0.80 h.,93.70 abc,0.60 abed
+20,Sfax,392.00 bedef,4147 a,4.15,0.80 h,93.75 abc,0.50 bed
+21,Sirora,417.45 bede,3442 cdefg,4.10,2.00 bc,92.15 d,0.40 d
+22,P value,<0.0001,<0.0001,0.093,<0.0001,0.001,0.005

@@ -1,0 +1,20 @@
+,0,1,2,3,4,5
+0,N.,Region,Province,Canton,Altitude,"Temperature, annual average"
+1,,,,,(m.a.s.l),(C)
+2,1,,,Milagro (Gmi),25-27,23 - 29
+3,2,,Guayas,Yaguachi (Gyu),13-31,23-27
+4,3,,,Duran (Gdu),8-15,25-32
+5,4,Pacific,,Montalvo (Rmo,133-148,22 -26
+6,5,Coast,Los Rios,Vinces (Rvi),11-25,24-34
+7,6,,,Santa Ana (Msa),61-182,24-31
+8,7,,Manabi,Portoviejo (Mpo),25-42,24-31
+9,8,,,Chone (Mch),24-30,23-31
+10,9,,,El Coca (Oco),282-294,18-28
+11,10,,Francisco de Orellana,Joya de los Sachas (Osa),275-290,22-31
+12,11,,,Loreto (Olo),368-422,19-29
+13,12,,,Lago Agrio (Sla),250 - 268,21-30
+14,13,Amazonian,Sucumbios,Shushufindi (Ssh),283 - 285,25-32
+15,14,,,Gonzalo Pizarro (Sgp),385-615,24-32
+16,15,,,Tena (Nte),300-500,21-29
+17,16,,Napo,Arosemena Tola (Nat),542 - 735,21-29
+18,17,,,Archidona (Nar),665-710,21-29

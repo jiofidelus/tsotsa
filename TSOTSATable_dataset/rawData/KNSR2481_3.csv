@@ -1,0 +1,18 @@
+,0,1,2,3,4,5
+0,,Df,Estimate,Standard Error,t-value,p-value
+1,PC1~Group+Sample,PC1~Group+Sample,,,,
+2,(Intercept),1,12.446,6.858,1.815,0.077
+3,Minor-additive,1,-10.658,10.418,-1.023,0.312
+4,Major-additive,1,26.259,9.699,2.707,0.01
+5,PC2~Group+Sample,PC2~Group+Sample,,,,
+6,(Intercept),1,3.689,5.663,-0.651,0.518
+7,Minor-additive,1,10.849,8.603,1.261,0.214
+8,Major additive,1,1.904,8.008,0.238,0.813
+9,FB1~Group+Sample,FB1~Group+Sample,,,,
+10,(Intercept),44,2.106,4.658,0.452,0.653
+11,Minor-additive,44,5.594,7.077,0.790,0.433
+12,Major-additive,44,17.371,6.588,2.637,0.011
+13,DON~ Group+ Sample,DON~ Group+ Sample,,,,
+14,(Intercept),44,17.818,5.201,3.426,0.001
+15,Minor-additive,44,12.395,7.901,-1.569,0.124
+16,Major-additive,44,9.676,7.355,-1.315,0.195

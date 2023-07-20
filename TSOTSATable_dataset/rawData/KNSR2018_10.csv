@@ -1,0 +1,19 @@
+,0,1,2,3,4,5
+0,Element,Year,"Daily intake,",Type of study,Study population,Reference
+1,,,mg(range),,,
+2,Pb,,,,,
+3,,1987,0.017,Market basket,,Becker and Kumpulainen
+4,,,,,,(1991)
+5,,1988,0.025  0.008 (0.013-0.040),"Duplicate portion study, 7-days",Women,Jorhem et al. (1998)
+6,,1999,0.008 (<0.001-0.039),Market basket,Per capita statistics,Present study
+7,Cd,,,,,
+8,,1987,0.012,Market basket,Per capita statistics,Becker and Kumpulainen
+9,,,,,,(1991
+10,,1988,0.0090.002 (0.005-0.014),"Duplicate portion study,7-days",Women,Jorhem et al. (1998)
+11,,1992,0.011 0.0042 (0.0057-0.026),"Duplicate portion study,4-days","Women, mixed diet",Berglund et al. (1994)
+12,,1992,0.0160.0071 (0.0055-0.038),"Duplicate portion study,4-days","Women, high fibre diet",Berglund et al. (1994)
+13,,1992,0.02780.0176 (0.0032-0.175,"Duplicate portion study,4-days","Women, shellfish consumers",Vahter et al. (1996)
+14,,1998,0.0170.006 (0.005-0.042),Food frequency questionnaire,Farmers; men and women,Olsson et al.(2002)
+15,,1999,0.010 (<0.0004-0.031),Market basket,Per capita statistics,Present study
+16,,1997-1998,0.0064,"7-d food record,","Average intake,calculated from",European Commission
+17,,,,men and women 18-74 y,8 food categories,(2004)

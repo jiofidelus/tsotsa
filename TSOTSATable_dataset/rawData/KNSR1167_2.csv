@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Sample,Found by this,Added,Total found by this,Recovery,Found by by HPLC,Added,Total found by this,Recovery,F-test,t-
+1,,methoda (M),(M),method a (M),(%),a(M),M,method a (M),(%),,Test
+2,Fruit juice,ND b,0.50,0.48,96,ND,0.50,0.49,98,1.137,1.25
+3,tomato,ND,0.50,0.52,104,ND,0.50,0.53,106,1.259,1.13
+4,juice,,,,,,,,,,
+5,soy sauce,ND,1.00,1.05,105,ND,1.00,1.02,102,1.238,1.08
+6,chili sauce,0.78  0.02,1.00,1.76,98,0.83,1.00,1.79,96,1.061,1.46
+7,chili,0.51  0.01,0.50,1.02,102,0.54,0.50,1.03,98,1.138,1.27

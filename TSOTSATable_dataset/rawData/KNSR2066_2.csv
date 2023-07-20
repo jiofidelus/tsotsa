@@ -1,0 +1,24 @@
+,0,1,2
+0,Compounds,repeatability,intermediate precision
+1,,RSD (%),RSD (%)
+2,BTEX (HS-SPME),n=4,n=12
+3,benzene,4,12
+4,toluene,3,6
+5,ethybenzene,3,6
+6,m/p-xylene,3,21
+7,o-xylene,3,12
+8,light PAHs (HS-SPME,n=4,n=12
+9,naphthalene,9,23
+10,acenaphthylene,15,17
+11,acenaphthene,14,23
+12,fluorene,22,30
+13,heavy PAHs(UAE/SPE),n=3,n=9
+14,fluoranthene,19,19
+15,pyrene,4,9
+16,benz[a]anthracene,1,3
+17,chrysene,7,8
+18,benzo[b]fluoranthene,10,8
+19,benzo[a]pyrene,6,12
+20,"indeno[1,2,3-cd]pyrene",2,25
+21,"dibenz[a,h]anthracene",9,23
+22,benzo[ghi]perylene,2,22

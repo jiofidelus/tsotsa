@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Step,Operation,Temp.(C),,Temp.rateC/s,Temp.rateC/s,Time
+1,no.,,,,,,hold
+2,,,Cd,Pb,Cd,Pb,(s)
+3,-,Drying,100,100,10,10,25
+4,2,Pyrolysis,500,500,25,50,15
+5,3,Atomization,1200,1800,FP,FP,5
+6,4,Annealing,2500,2500,1000,1000,4

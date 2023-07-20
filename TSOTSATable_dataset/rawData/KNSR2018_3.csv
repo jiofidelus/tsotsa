@@ -1,0 +1,56 @@
+,0,1,2,3,4,5,6,7,8
+0,Metal,Material,,n,Mean,Ufound,Certified,Ucert,Zeta-score
+1,Cd,BCR no.184a,Bovine muscle,2,0.020,0.005,0.013,0.002,+2.6
+2,,BCR no.422, Non-fat milk powder,2,<0.0006,0.005,0.017,0.0002,+1.5
+3,,NBS 1549b, Non-fat milk powder,4,<0.0006,,0.0005,0.0002,
+4,,ARC/CLc,Potato powder,4,0.031,0.002,0.010,0.003,-1.7
+5,,CRM-SG-B HPSd,Sugar B,2,0.007,0.002,0.010,0.003,-1.7
+6,,NIST 1567a,Wheat flour,2,0.021,0.005,0.026,0.002,1.9
+7,,NIST 8415,Whole egg powder,2,0.008,,(0.005),,
+8,Co,NBS 1549,Non-fat milk powder,4,0.024,0.021,(0.0041),,
+9,,CRM-SG-B HPS,Sugar B,2,0.015,,<0.005,,
+10,,NIST 1567a,Wheat flour,2,0.015,0.014,(0.006),,
+11,,NBS 1549,Whole egg powder,2,<0.015,,0.012,0.0007,
+12,Cr,NBS 1549, Potato powder,4,<0.018,,0.0026,0.0007,
+13,,ARC/CL, Potato powder,4,0.198,0.063,0.098,0.018,+0.5
+14,,CRM-SG-B HPS,Sugar B,2,0.28,0.063,0.095,0.012,0.9
+15,,NIST 8415,Whole egg powder,2,0.28,0.111,0.37,0.18,+1.9
+16,Cu,BCR no. 422,Bovine muscle,2,2.70,0.17,2.36,0.06,+1.9
+17,,BCR no. 422,Cod muscle,2,1.25,0.17,1.05,0.07,+2.2
+18,,NBS 1549,Non-fat milk powder,4,0.61,0.09,0.7,0.1,1.3
+19,,ARC/CL,Potato powder,4,3.67,0.48,3.87,0.18,0.8
+20,,CRM-SG-B HPS,Sugar B,4,<0.29,,0.14,0.06,
+21,,NIST 8415,Whole egg powder,1,2.33,0.309,2.70,0.35,1.6
+22,Fe,BCR no.422,Cod muscle,2,4.82,1.3,1.78,0.3,+1.8
+23,,NBS 1549, Non-fat milk powder,4,2.43,0.7,1.78,0.10,+1.8
+24,,ARC/CL,Potato powder,4,22.0,6.1,22.0,2.0,0.0
+25,,CRM-SG-B HPS,Sugar B,2,3.7,1.0,3.5,0.8,+0.3
+26,,NIST 1567a,Wheat flour,2,15.2,4.2,14.1,0.5,+0.5
+27,,NIST 8415,Whole egg powder,2,100,27.6,112,16,0.8
+28,Mn,BCR no.184,Bovine muscle,2,0.332,0.065,0.334,0.028,-0.1
+29,,NBS 1549,Cod muscle,2,0.565,0.108,0.543,0.028,+0.4
+30,,NBS 1549, Non-fat milk powder,,0.25,0.050,0.26,0.06,0.3
+31,,ARC/CL,Potato powder,,7.8,1.5,8.1,0.32,0.4
+32,,CRM-SG-B HPS,Sugar B,2,0.14,0.030,0.14,0.03,0.0
+33,,NIST 1567a,Wheat flour,2,9.9,1.8,9.4,0.9,+1.6
+34,,NIST 8415,Whole egg powder,2,0.171,0.41,1.78,0.38,+1.6
+35,Ni,ARC/CL, Potato powder,4,0.171,0.053,0.193,0.043,0.6
+36,,CRM-SG-B HPS,Sugar B,2,0.098,0.034,(0.07),,
+37,Pb,BCR no. 422,Bovine muscle,2,0.28,0.077,0.239,0.015,0.7
+38,,BCR no. 422,Cod muscle,2,0.074,0.023,0.085,0.003,0.7
+39,,NBS 1549,Non-fat milk powder,4,0.022,0.010,0.019,0.003,+0.6
+40,,ARC/CL,Potato powder,4,<0.016,,0.026,0.0028,
+41,,CRM-SG-B HPS,Sugar B,2,0.069,0.022,0.042,0.012,+2.2
+42,,NIST 1567a,Whole egg powder,2,0.059,,<0.02,,
+43,,NIST 8415,Whole egg powder,1,0.059,0.020,0.061,0.012,0.2
+44,Zn,BCR no.184,Bovine muscle,2,173,16.7,166,3,+0.8
+45,,BCR no. 422,Cod muscle,2,18.8,2.1,19.6,0.5,0.7
+46,,NBS 1549,Non-fat milk powder,4,46.5,4.7,46.1,2.2,+0.2
+47,,ARC/CL, Potato powder,4,8.4,1.1,0.2,0.32,1.0
+48,,CRM-SG-B HPS,Sugar B,2,0.31,0.34,0.2,,
+49,,NIST 1567a,Wheat flour,2,12.4,1.49,11.6,0.4,+1.0
+50,,NIST 8415,Whole egg powder,2,70.6,7.03,67.5,7.6,+0.8
+51,Se,NIST 1577,Bovine liver,3,0.692,0.077,0.73,0.06,0.8
+52,,ARC/CL,Wheat flour,2,0.057,0.021,0.057,0.005,0.0
+53,,ARC/CL,Total diet HDP,22,0.177,0.023,0.181,0.017,0.3
+54,,BCR CRM 189,Whole meal flour,22,0.130,0.022,0.132,0.01,0.2

@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,,Number of comparisons in the,,,,Studies with sample size,References for each comparison group,References for each comparison group,,
+1,,Number,studies,studies,,,,,,,
+2,Nutrient,of,In favor of,In favor of,In favor of,Organic,Conventional,Group I,Group II,Group III,Group IV
+3,,'studies,conventional,organic,conventional,,,,,,
+4,,,cultivation,cultivation,cultivation,,,,,,
+5,Ascorbic,27,,8,,4,13,"(Caris-Veyrat et al.,","(Polat et al.,",,(Majkowska-Gadomska
+6,acid,,,,,,,"2004; Lumpkin,",2010;Amiri,,"et al.,2012;Aguilo-Aguayo"
+7,,,,,,,,2005;Hernandez,"et al.,2008;",,"et al.,2013;Erba et al."
+8,,,,,,,,"Suarez et al.,2008;","Marti et al.,",,"2013; Raiola et al.,2016;"
+9,,,,,,,,"Pieper and Barrett,",2018;Hossain,,"Riga et al.,2016;Ramos"
+10,,,,,,,,2009;,"Sani et al.,2020;",,"et al.,2017;Melfi et al."
+11,,,,,,,,Ordonez-Santos,Owagboriaye,,"2018;Asensio et al.,2019;"
+12,,,,,,,,"et al.,2011;Oliveira","et al.,2020;",,"Caruso et al.,2019;Li et al.,"
+13,,,,,,,,"et al.,2013;Borguini","Sharpe et al.,",,"2019;Wang et al.,2019;"
+14,,,,,,,,"et al.,2013;Vinha",2020),,"Londono-Giraldo et al.,"
+15,,,,,,,,"et al.,2014",,,"2020;Shu et al.,2020"
+16,Lycopene,30,,5,1,4,10,"(Caris-Veyrat et al.,","Amiri et al.,",(Riahi,"Erba et al.,2013;"
+17,,,,,,,,"2004; Lumpkin,",2008;Bilalis,"et al.,","Aguilo-Aguayo et al.,2013;"
+18,,,,,,,,2005;Ulrichs et al.,"et al.,2018;",2009a;,"Raiola et al.,2016;Riga"
+19,,,,,,,,2008;Pieper and,Hossain Sani,Riahi and,"et al., 2016; Ramos et al."
+20,,,,,,,,"Barrett,2009;Riahi","et al.,2020;","Hdider,",2017;Coyago-Cruz et al.
+21,,,,,,,,"et al.,2009b","Sharpe et al.,",2013;,"2017;Schweiggert et al.,"
+22,,,,,,,,Ordonez-Santos,2020),Sidhu,"2017;Melfi et al.,2018;"
+23,,,,,,,,"et al.,2011;Borguini",,"et al.,","Coyago-Cruz et al.,2018;Li"
+24,,,,,,,,"et al.,2013;Vinha",,2017;,"et al.,2019;Asensio et al."
+25,,,,,,,,"et al.,2014",,Zorb,"2019; Wang et al.,2019;"
+26,,,,,,,,,,"et al.,","Caruso et al., 2019;"
+27,,,,,,,,,,2020),"Londono-Giraldo et al.,"
+28,,,,,,,,,,,2020)
+29,-carotene,18,,2,,1,11,(Caris-Veyrat et al.,(Hossain Sani,(Sidhu,"Erba et al.,2013;"
+30,,,,,,,,"2004; Lumpkin,","et al.,2020;","et al.,","Aguilo-Aguayo et al.,2013;"
+31,,,,,,,,"2005; Ulrichs et al.,",Owagboriaye,2017),"Raiola et al.,2016;Riga"
+32,,,,,,,,2008;,"et al.,2020",,"et al.,2016;Schweiggert"
+33,,,,,,,,Ordonez-Santos,,,"et al.,2017;Coyago-Cruz"
+34,,,,,,,,"et al.,2011;Borguini",,,"et al.,2018; Li et al.,2019;"
+35,,,,,,,,"et al.,2013",,,"Asensio et al.,2019;"
+36,,,,,,,,,,,"Londono-Giraldo et al.,"
+37,,,,,,,,,,,2020; Coyago-Cruz et al.

@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Step,Procedure,Temp (C),Heat time (s),Heat mode,Sensitivity,Ar flow rate (L/min
+1,-,Drying I,95,15,Ramp,Regular,1.0
+2,2,Drying II,120,5,Step,Regular,1.0
+3,3,Ashing I,900,5,Ramp,Regular,1.0
+4,4,Ashing II,900,1,Step,Regular,1.0
+5,5,Atomization,2100,2,Step,High,0.0
+6,6,Cleaning,2700,1,Ramp,Regular,1.0

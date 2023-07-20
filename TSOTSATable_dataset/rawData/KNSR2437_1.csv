@@ -1,0 +1,56 @@
+,0,1,2,3,4,5
+0,Food group,Food group,Mean,Median,Range,Number of
+1,,,ug/kg),ug/kg),,samples
+2,Wheat flakes,Wheat flakes,177,121,<10-468,24
+3,Oat flakes,Oat flakes,34,27,<10-82,4
+4,Rice flake,Rice flake,45,68,<10-90,9
+5,Corn flakes,Corn flakes,122,67,35-478,7
+6,Biscuits,Biscuits,198,82,<10-648,16
+7,Crackers,Crackers,247,213,26-587,18
+8,Baby biscuits,Baby biscuits,152,98,32-613,24
+9,Infant food(powder),Infant food(powder),19,0,<10-108,8
+10,Infant food (canned puree),Infant food (canned puree),<10,0,<10-34,6
+11,Bread,,38,43,<10-85,22
+12,Toasted bread,Toasted bread,164,58,41-474,5
+13,Crispbread,Crispbread,95,73,<10-226,5
+14,Potato crisps,Potato crisps,834,818,59-2336,8
+15,Corn crisps,Corn crisps,425,371,109-835,9
+16,Pidea,,<10,12,<10-16,6
+17,Bakery(pogaca),Bakery(pogaca),120,19,<10-441,4
+18,Roasted hazelnut,Roasted hazelnut,128,42,<10-421,5
+19,Roasted almond,Roasted almond,260,260,207-313,2
+20,Roasted corn,Roasted corn,194,195,100-288,3
+21,Roasted chickpea (leblebi,Roasted chickpea (leblebi,12,<10,<10-33,4
+22,Roates peanut,Roates peanut,66,68,<10-120,5
+23,"Olivepickled,black","Olivepickled,black",82,70,<10-216,8
+24,Hazelnut paste,Hazelnut paste,53,35,<10-141,4
+25,Peanut paste,Peanut paste,54,54,45-63,2
+26,Baby food(fresh cheese,Baby food(fresh cheese,<10,<10,,4
+27,Mashed potato powder,Mashed potato powder,<10,<10,,2
+28,Instant soups,Instant soups,50,53,<10-88,6
+29,Instant coffee,Instant coffee,260,254,95-402,6
+30,Turkish coffee,Turkish coffee,266,264,200-336,4
+31,Hamburger,Hamburger,<10,<10,<10-16,6
+32,Wafer,,180,103,78-486,7
+33,Chocolate,Chocolate,75,78,37-100,5
+34,Meat patty,Meat patty,68,<10,<10-203,3
+35,Syrup-soaked fried pastries,Syrup-soaked fried pastries,193,242,<10-288,4
+36,,made from unleavened,,,,
+37,dough lumpb,dough lumpb,,,,
+38,Tulumbac,Tulumbac,241,50,<10-701,5
+39,Kadayifd,Kadayifd,<10,<10,<10-23,4
+40,Kemalpasa dessertc,Kemalpasa dessertc,512,512,445-578,2
+41,Tahini (Sesame paste),Tahini (Sesame paste),69,61,<10-145,5
+42,Molasses (pekmez),Molasses (pekmez),95,42,<10-297,4
+43,Halva,,93,86,<10-229,7
+44,Pilaf(boiled rice),Pilaf(boiled rice),<10,<10,,4
+45,Deep-fried vegetabless,Deep-fried vegetabless,<10,<10,,4
+46,Fried potato (home-made,Fried potato (home-made,63,63,60-66,2
+47,Fried potato(fast food rest),Fried potato(fast food rest),403,414,355-436,9
+48,Fried potato (frozen potato,Fried potato (frozen potato,74,74,72-76,2
+49,Chicken schnitzel,Chicken schnitzel,34,34,,1
+50,Pop corn,Pop corn,171,171,,1
+51,Omelet,Omelet,<10,<10,,1
+52,Strawberry jam,Strawberry jam,<10,<10,,1
+53,Kakao powder,Kakao powder,<10,<10,,3
+54,Dried red pepper,Dried red pepper,<10,<10,,1

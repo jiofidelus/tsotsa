@@ -1,0 +1,47 @@
+,0,1,2,3,4,5,6
+0,Vitamin,Treatment,Conditions,Food,Retention,Losses (%),References
+1,,,,,(%),,
+2,Pyridoxine,Cooking,"75min,soaking 15h",Beans,100,,Maskova et al.(1996
+3,,,165min.soaking 16h,Soybean,77,,
+4,,Boiling,"96-99C,150min",Beef meat,23,37 ewa,Maskova et al.(1994
+5,,,,Brussels sprouts,,16,Bognar (1993)
+6,,,,Broccoli,,61,
+7,,Stewing,,Beef,,56,Bognar(1993)
+8,,,,Pork,,58,
+9,,Braising,,Separable lean of fresh,55,,Handbook 8-10
+10,,,,pork,,,USDA1992
+11,,Pressure-cooking,50 min,Beans,90,,Maskova et al.(1996
+12,,,60 min,Soybean,53,,
+13,,Continuous-flow,90,Whole milk (3.4% fat),,0,Sierra and Vidal-
+14,,"microwaving, conventional",,,,,Valverde (2001)
+15,,heating,,,,,
+16,,,,Skimmed milk (0.5%,,,
+17,,,,fat),,,
+18,,Microwaving,"60 min,soaking 17 h",Beans,69,,Maskova et al.(1996
+19,,Steaming,,Brussels sprouts,,10,Bognar (1993)
+20,,,,Broccoli,,24,
+21,,Frying with batter,,Meat,,6.5,Olds et al. (1993)
+22,,Roasting,150,Lamb rib-loin,53.3,,Badiani et al. (1998)
+23,,,,Lamb leg,39.5,,
+24,,Roasting,,Separable lean of fresh,56,,
+25,,,,pork,,,
+26,,Broiling,,,68,,
+27,,Frying,,Beef,,58,Bognar (1993)
+28,,,,Pork,,45,
+29,Pyridoxamine,Continuous-flow,110C,Whole milk (3.4% fat),104,,Sierra and Vidal-
+30,,microwaving,,,,,Valverde (2001)
+31,,,120C,,111,,
+32,Pyridoxal,,110,,94,,
+33,,,120C,,88,,
+34,Cobalamin,Roasting,150,Lamb rib-loin,83.7,,Badiani et al.1998
+35,,,,Lamb leg,65.4,,
+36,,Stir-frying without added oil,150C.6.5min,"Beef, lamb, and pork",66-78,,Rhee et al. (1993)
+37,,,,mince,,,
+38,,Sterilization,,Milk,,20,Ottaway (2002)
+39,Biotin,Boiling,20 min,Legumes,95,,Hoppner and Lampi
+40,,,,,,,"(1993a,b)"
+41,,Boiling and soaking,"20,90,and 150 min",,"88,95,88",,
+42,,Cooking,,,,5-15,Velisek (1999)
+43,,,,Meat,80,,
+44,,Pasteurizing,,Milk,,10-15,
+45,,Canning,,Fruit and vegetables,,30,

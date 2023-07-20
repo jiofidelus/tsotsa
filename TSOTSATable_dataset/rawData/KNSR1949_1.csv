@@ -1,0 +1,14 @@
+,0,1,2,3,4
+0,,Spanish law limits,Rarge of obtained values,Number of anomalous samples,
+1,Alcoholic degree,10.8-12.8,10.6-12.7,,2
+2,Total acidity,,,,
+3,g sulfuric acid/l,3.5-6.0,3.0-4.7,,6
+4,Volatile acidity,,,,
+5,g acetic acid/L,0.8,0.317-1.095,,1
+6,Total SO mg/L,170,22.72-136.34,,0
+7,pH,,2.67-3.25,,-
+8,"Reducing sugars, g/L",,,,
+9,.Sweet,>50,51.2-54.4,,0
+10,semi-dry,30-50,29.5-48.4,,1
+11,dry,20-30,17.7-31.0,,2
+12,"""brut""",20,1.5-19.1,,0

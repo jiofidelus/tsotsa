@@ -1,0 +1,18 @@
+,0,1,2
+0,Compound name,Abbreviation,RT (min)
+1,Caffeoylquinic acids,CQAs,
+2,1-O-Caffeolylquinic acid,1-CQA,5.89
+3,3-O-Caffeolylquinic acid(neochlorogenic acid,3-CQA,6.84
+4,4-O-Caffeolylquinic acid (cryptochlorogenic acid),4-CQA,9.92
+5,5-O-Caffeolylquinic acid (chlorogenic acid),5-CQA,10.09
+6,Dicaffeoylquinic acids,diCQAs,
+7,"1,4-di-O-Caffeoylquinic acid","1,4-diCQA",15.36
+8,"3,4-di-O-Caffeoylquinic acid","3,4-diCQA",15.57
+9,"3,5-di-O-Caffeoylquinic acid","3,5-diCQA",16.04
+10,"1,5-di-O-Caffeoylquinic acid","1,5-diCQA",16.43
+11,"4,5-di-O-Caffeoylquinic acid","4,5-diCQA",17.36
+12,Dicaffeoyl-succinylquinic acids,diCSQAs,
+13,"1,5-di-O-Caffeoyl-3-O-succinylquinic acid","1,5-diC-3-SQA",16.95
+14,"1,5-di-O-Caffeoyl-4-O-succinylquinic acid","1,5-diC-4-SQA",17.68
+15,"1,5-di-O-Caffeoyl-3,4-di-O-succinylquinic acid","1,5-diC-3,4-",18.48
+16,,diSQA,

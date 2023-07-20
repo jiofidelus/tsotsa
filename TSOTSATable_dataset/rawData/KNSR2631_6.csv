@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,Compounds,EA (kJ/mol),(M1),Relative intensities (%),Relative intensities (%),
+1,,,,[M],[M+1],[M+15]
+2,B[a]A,40.53,100,22,21,40
+3,B[b]F,,,100,18,1
+4,B[k]F,,,100,24,1
+5,B[a]P,61.76,,100,28,4
+6,I[cd]P,,,100,27,2
+7,B[ghi]P,49.22,,100,30,4

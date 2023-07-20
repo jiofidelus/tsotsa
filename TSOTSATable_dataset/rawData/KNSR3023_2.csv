@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Origin  Season,Origin  Variety,,Variety  Season,,Origin  Variety  Season,,
+1,Crop,Apparatus,S,Origin  Variety,NS,S,NS,,NS,Reference
+2,Bean,ICP-OES,,,,"Ca,Fe,K","Cu,Zn",,,(Ribeiro et al.
+3,seed,,,,,,,,,2012)
+4,Chickpea,ICP-OES,"B,Ca,Cu,FeK,Mg","Ca,CuFe,K,Mg","B,Se","CaCuFeK,",B,"Ca Cu, Fe,K,",B,(Vandemark
+5,,,"Mn,Ni,P,Se,S,Zn","MnNi,PS,Zn",,"Mg,Mn,NiP",,"Mg,Mn,Ni,P",,"et al.,2018"
+6,,,,,,"SeS,Zn",,"Se, S, Zn",,
+7,Lentil,ICP-OES,Mg,"Cu, Mn Ni, P","B,CaFe",Ni,"B,CaCu,Fe",CuPS,"B,Ca,Fe,K,",(Vandemark
+8,seed,,,,"K,Mg,Se",,"K,Mg,Mn,P,",,"Mg,Mn,Ni",et al.2018
+9,,,,,"S,Zn",,"SeS,Zn",,SeZn,
+10,Peanut,"ICP-OES,",,"B,Ca,Co,Cu,Fe",Cr,,,,,(Phan-Thien
+11,,ICP-MS,,"K,Mg,Mn,Mo",,,,,,"et al.,2010"
+12,,,,"NaNi,P,Se,Zn",,,,,,
+13,Peanut,AAS,,"B,Fe,Mg","CaCu,K,",,,,,(Gaines and
+14,,,,,"Mn, P, S,",,,,,"Hammons,1981)"
+15,,,,,Zn,,,,,

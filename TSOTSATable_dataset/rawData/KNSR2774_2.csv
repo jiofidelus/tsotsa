@@ -1,0 +1,27 @@
+,0,1,2,3,4
+0,Food descriptions,FNDDS energy,Measured energy,FNDDS energy:,95% Confidence
+1,,kcal/100 g,mean kcal/100 gSD,measured energy ratio,interval
+2,Breakfast,,,,
+3,Scrambled eggs,148,1330.51,1.11,"1.10,1.12"
+4,Sausage links,320,3301.78,0.97,0.96.0.98
+5,White toast,293,331  2.84,0.89,"0.87,0.91"
+6,Lunch,,,,
+7,Cheeseburger sandwich,182a,192  1.35,0.95,"0.94, 0.96"
+8,Crinkle cut French fries,134,174 2.58,0.77,"0.75,0.79"
+9,Canned peach slices,54,480.15,1.14,"1.13,1.14b"
+10,Sugar cookie,475,412 0.77,1.15,"1.15,1.16b"
+11,Dinner,,,,
+12,"Spaghetti with sauce, cheese",157,1112.72,1.42,"1.36,1.48"
+13,Toasted garlic bread,379,3942.40,0.96,"0.95,0.97"
+14,Romaine lettuce,17,180.01,0.95,"0.95, 0.95b"
+15,Canned pear halves,50,480.11,1.04,"1.04, 1.04b"
+16,Iced chocolate cake,366,343  0.63,1.07,"1.06, 1.07b"
+17,Snacks,,,,
+18,Chocolate chip cookie,489,477  6.86,1.03,"1.00, 1.05"
+19,Brownie,379,434 0.68,0.87,"0.87, 0.88b"
+20,Ice cream sandwich,243,238  0.32,1.02,"1.02, 1.02b"
+21,Berry Blue Go-gurt,102,1060.41,0.95,"0.96, 0.97b"
+22,Strawberry Splash Go-gurt,102,1070.95,0.94,"0.94, 0.97"
+23,Chewy chocolate chip granola bar,464,523 16.52,0.89,"0.84,0.93"
+24,Hostess Ding Dong,399,407 1.61,0.98,"0.97, 0.99"
+25,Little Debbie Swiss Roll,399,458  3.12,0.87,"0.86,0.88"

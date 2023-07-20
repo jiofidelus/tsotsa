@@ -1,0 +1,36 @@
+,0,1,2,3,4,5
+0,Cooked food/Carotenoid,Carotenoid concentration (ug/g) by,Carotenoid concentration (ug/g) by,%TR,%CC,Yield factor
+1,,direct analysis,,,,(Gc/Gr)
+2,,Raw,Cooked,,,
+3,"Broccoli,boiled",,,,,
+4,Trial 1,,,,,
+5,Neoxanthin,6.3,5.3,91,84,1.08
+6,Violaxanthin,10.3,5.3,56,52,1.08
+7,Lutein,26.6,24.5,99,92,1.08
+8,-Carotene,15.2,12.9,92,85,1.08
+9,Trial 2,,,,,
+10,Neoxanthin,8.5,7.1,90,83,1.08
+11,Violaxanthin,14.6,7.2,53,49,1.08
+12,Lutein,24.2,21.8,97,90,1.08
+13,-Carotene,12.4,10.3,90,83,1.08
+14,Trial 3,,,,,
+15,Neoxanthin,10.9,8.6,89,80,1.11
+16,Violaxanthin,19.7,9.4,53,47,1.11
+17,Lutein,35.0,30.2,96,86,1.11
+18,-Carotene,19.2,15.4,90,80,1.11
+19,"Broccoli, stir-fried",,,,,
+20,Trial 1,,,,,
+21,Neoxanthin,6.3,5.9,84,93,0.90
+22,Violaxanthin,10.3,6.8,60,66,0.90
+23,Lutein,26.6,26.9,91,101,0.90
+24,-Carotene,15.2,15.4,92,102,0.90
+25,Trial 2,,,,,
+26,Neoxanthin,8.5,8.9,85,104,0.82
+27,Violaxanthin,14.6,11.3,64,78,0.82
+28,Lutein,24.2,27.3,92,113,0.82
+29,-Carotene,12.4,14.2,94,115,0.82
+30,Trial 3,,,,,
+31,Neoxanthin,10.9,10.0,81,92,0.88
+32,Violaxanthin,19.7,11.7,52,59,0.88
+33,Lutein,35.0,34.9,88,100,0.88
+34,-Carotene,19.2,19.5,90,102,0.88

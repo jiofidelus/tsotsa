@@ -1,0 +1,66 @@
+,0,1,2,3,4,5,6
+0,Vitamin,Treatment,Conditions,Food,Retention (%),Losses (%),References
+1,Retinol,Cooking,,Cabbage,82,,Klein and Perry
+2,,,,,,,(1982)
+3,,,,Corn,98,,
+4,,Making omelette,,Egg,,43,Sungpuag et al.
+5,,,,,,,(1999)
+6,,Hard-boiling,,,,11,
+7,,Cutting and boiling,,Chicken liver,,8,
+8,,Boiling,,,,5,
+9,,Grilling,,,,16,
+10,A,Water-cooking without,"99C,21 min/100CCarrots","99C,21 min/100CCarrots",,13.6/25.0,Sant'Ana et al.
+11,,pressure/with pressure,17 min,,,,(1998)
+12,,Cooking and draining,1 g rice in 100ml,Coated rice,70,,Peil et al. (1982)
+13,,,water,,,,
+14,,Moist/dry-cooking,"99/200C,21/15min",Carrots,,34.3,Sant'Ana et al.
+15,,,,,,,(1998)
+16,,Steam-cooking,"115-120C,15 min",,,19.8,
+17,,Roasting,,Animal fats,,10-30,Smirnov (1970)
+18,,Frying,,"Meat (chicken,",85-100,,Stepanova et al.
+19,,,,"hen, duck, rabbit)",,,(1982)
+20,-Carotene,Various methods,,Carrots,56.0-78.0,,Sant'Ana et al.
+21,,,,,,,(1998)
+22,-Carotene,,,,68.8-89.1,,
+23,- And -,Water-cooking without,,,78.0 and 89.0,,
+24,carotenes,pressure,,,,,
+25,-Carotene,Blanching,"9496C, 90 s",Chive leaves,,20,Kmiecik and
+26,,,,,,,Lisiewska (1999)
+27,,,,Vegetables,,7-11,Sungpuag et al.
+28,,,,,,,(1999)
+29,,Cooking,60 min,Vegetable sponge,,10,Nagra and Khan
+30,,,,,,,(1988)
+31,,,,Carrot,,59,
+32,,Boiling,,Vegetables,,43,Sungpuag et al.
+33,,,,,,,(1999)
+34,,,3.0-5.5min,"Green beans,",57-79,,Masrizal et al. (1997)
+35,,,,"spinach, Nappa",,,
+36,,,,"cabbage,water",,,
+37,,,,spinach,,,
+38,,Open-pan boiling,The absence of spices," Amaranth,",,16-67,Gayathri et al. (2004)
+39,,,or acidulants,"drumstick leaves,",,,
+40,,,,"carrot, pumpkin",,,
+41,,Pressure-cooking,,,,21-71,
+42,,Microwave steaming,3.25-5 min,"Green beans,",74-87,,Masrizal et al. (1997)
+43,,,,"spinach, Nappa",,,
+44,,,,"cabbage,water",,,
+45,,,,spinach,,,
+46,,Steaming,,Vegetables,,15,Sungpuag et al.
+47,,,,,,,(1999)
+48,,Frying,,,,18,
+49,,Stir-frying with oil,3.0-9.42min,"Green beans,",65-80,,Masrizal et al.(1997)
+50,,,,"spinach, Nappa",,,
+51,,,,"cabbage, water",,,
+52,,,,spinach,,,
+53,,Stir-frying with water,2.67-8.0 min,,61-77,,
+54,,Pureeing,,Carrots,,56,Olunlesi and Lee
+55,,,,,,,(1979)
+56,,Canning,,,,65,
+57,,,,Carrot juice,77,,Kim and Gerber
+58,,,,,,,(1988)
+59,Vitamin A,Boiling,,Thai vegetables,,14,Speek et al. (1988)
+60,activity,,,,,,
+61,,Frying,,,,24,
+62,Provitamin A,Cooking,"98C,30 min",Cassava cultivars,,2055,Penteado and
+63,activity,,,,,,Almeida (1988)
+64,,Thermal processing,"100C,30 min",Jalapero peppers,,25,Howard et al. (1994)

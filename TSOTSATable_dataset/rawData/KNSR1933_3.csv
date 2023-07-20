@@ -1,0 +1,37 @@
+,0,1,2,3,4,5
+0,Nutrient,Unit,Codex,,,
+1,,,Minimum value per 100 kJ,Maximum value (MV) per,,Guidance upper level (GUL)
+2,,,per 100 kcal),100kJper 100kcal),,per 100 kJper100 kcal)
+3,Protein,g,0.45 (1.8),0.7 (3.0),,-
+4,Lipid,g,1.05 (4.4),1.4 (6.0),,-
+5,Linoleic acid,mg,70(300),,,330(1400)
+6,-Linolenic acid,mg,1250,NS,,-
+7,Carbohydrate,mg,2.2 (9),3.3(14),,
+8,Vitamin A-RE,pg,14 (60),43 (180),,
+9,Vitamin D,peg,0.25(1,0.6 (2.5),,1.2(5)
+10,Vitamin E- TE,mg,0.12 (0.5),,,1.2(5)
+11,Vitamin K,peg,14,,,6.5(27)
+12,Thiamin,pg,14(60),,,72(300)
+13,Riboflavin,ug,19 (80),-,,119 (500
+14,Niacin,pg,70(300),-,,360(1500
+15,Vitamin Be,peg,8.5 (35),,,45 (175)
+16,Vitamin B2,ug,0.025 (0.1),,,0.36 (1.5)
+17,Pantothenic acid,peg,96(400),,,478 (2000)
+18,Folic acid,peg,2.5 (10),,,12(50)
+19,Vitamin C,mg,2.5(10,-,,1770
+20,Biotin,peg,0.4 (1.5,,,2.4 (10
+21,Iron,mg,0.1(0.45,NS,,NS
+22,Calcium,mg,12 (50),,,35 (140)
+23,Phosphorus,mg,625,,,24100
+24,Magnesium,mg,1.2 (5),,,3.615
+25,Sodium,mg,5 (200),14 (60,,
+26,Chloride,mg,1250,38 (160),,-
+27,Potassium,mg,0.25 (1),43 (180),,
+28,Manganese,pg,0.25 (1),-,,24(100
+29,lodine,peg,2.5 (10),,,14 (60
+30,Selenium,peg,0.24 (1),,1,2.2 (9)
+31,Copper,peg,0.12 (0.5),-,,29 (120
+32,Zinc,mg,1.7 (7),,,12(50
+33,Choline,mg,1.7 (7),-,,12(50
+34,Myo-inositol,mg,1(4),-,,9.5(40)
+35,L-Carnitine,mg,0.3 (1.2),NS,,NS

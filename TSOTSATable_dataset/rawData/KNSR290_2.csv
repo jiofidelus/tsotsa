@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,Degree of,Variance,,,,
+1,,,n,Freedom,Total,% Total,Mean,f,p
+2,Grand Mean,residual,456,,86.68,,,,
+3,Forage (Treatment),mean,3,2,1.45,2%,0.726,9.11,<0.001
+4,Group,mean,2,1,2.22,3%,2.22,27.8,<0.001
+5,Day,mean,6,5,5.12,6%,1.02,12.03,<0.001
+6,Day-Treatment-Group Interaction,mean,12,11,1.82,2%,0.16,2.07,0.021
+7,Cow,mean,76,75,44.44,51%,0.59,7.43,<0.001
+8,Cow-Treatment Interaction,mean,228,227,13.39,15%,0.06,0.74,0.998
+9,Residuals,residual,456,228,18.19,21 %,0.08,,

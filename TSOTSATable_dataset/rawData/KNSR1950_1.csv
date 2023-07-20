@@ -1,0 +1,42 @@
+,0,1,2,3,4
+0,Characteristic,"WWEIA,NHANES","WWEIA,NHANES",HANDLS,
+1,,N,Percentc,N,Percent
+2,All,2598,100,3418,100
+3,Sex:,,,,
+4,Male,1231,47,1550,45
+5,Female,1367,53,1868,55
+6,Age:,,,,
+7,30-49y,1487,57,1887,55
+8,50-64y,1111,43,1531,45
+9,Poverty status:,,,,
+10,<125% poverty,981,38,1421,42
+11,>125 % poverty,1617,62,1997,58
+12,Raced:,,,,
+13,African American,895,34,2029,59
+14,White,1703,66,1389,41
+15,Educational level:,,,,
+16,<High school diploma/GED,640,25,1143,33
+17,High school diploma/GED,775,30,1145,33
+18,Post-secondary education,1181,45,1064,31
+19,Not available,2,f,66,2
+20,Employed last week/month:,,,,
+21,Yes,1495,58,1911,56
+22,No,1103,42,1444,42
+23,Not available,0,,63,2
+24,Weight status:,,,,
+25,Normal weight,681,26,763,22
+26,Overweight,783,30,751,22
+27,Obese,1110,43,1129,33
+28,Not availablee,24,1,775,23
+29,Cigarette smoking status:,,,,
+30,Currently smoking,1622,62,1159,34
+31,Not currently smoking,975,38,1228,36
+32,Not available,1,f,1031,30
+33,Health status:,,,,
+34,Excellent/very good,911,35,1128,33
+35,Good,947,36,1376,40
+36,Fair/poor,739,28,912,27
+37,Not available,1,f,2,f
+38,Day of week of dietary intake:,,,,
+39,Weekday(Monday-Thursday),993,38,1823,53
+40,Weekend (Friday-Sunday),1605,62,1595,47

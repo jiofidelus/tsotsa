@@ -1,0 +1,5 @@
+,0,1,2,3,4,5
+0,Test,Probe,Test speed (mm s-1,,Compression (mm),Mechanical properties
+1,Skin hardness,Needle,1,3,,Fsk=Berry skin break force (N
+2,,,,,,Wsk=Berry skin break energy(mJ
+3,Skin thickness,"P|2,2 mm",0.2,-,,Spsk = Berry skin thickness (m)

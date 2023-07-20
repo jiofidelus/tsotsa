@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,,Foods,Contents,Daily intake,Weekly intake,Cumulative
+1,,,(mg/kg),(g/person),(g/person),% contribution
+2,1,Broiled laver,3.51,15.11,105.78,63.7
+3,2,Soup with sea mustard,0.08,1.81,12.70,71.3
+4,3,Dried laver,7.02,1.40,9.82,77.2
+5,4,Stir-fried anchovy,0.28,1.30,9.13,82.7
+6,5,Soup with beef and sea mustard,0.06,0.91,6.38,86.6
+7,6,Salt-fermented crab,0.71,0.85,5.92,90.1
+8,7,Broiled mackerel,0.19,0.52,3.66,92.3
+9,8,Seasoned sea lettuce,0.30,0.36,2.52,93.8
+10,9,Mackerel boiled in soy sauce,0.07,0.27,1.87,95.0
+11,10,Stew with Alaskan pollack,0.02,0.21,1.44,95.8

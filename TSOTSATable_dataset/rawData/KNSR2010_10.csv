@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Analyte,Sample(year),Assigned value (mg kg-1),Observed value (mg kg-1),Z-scorea
+1,As,Milk powder (2007),0.051,0.053,0.2
+2,,Milk powder (2007),0.104,0.126,1.0
+3,,Canned crab meat(2007,11.4,11.6,0.2
+4,,Milk powder (2008),0.125,0.143,0.7
+5,,Milk powder(2008),0.189,0.209,0.5
+6,,Milk powder(2008),7.6,9.1,1.6
+7,,Canned fish (2008),0.343,0.383,0.6
+8,,Meat(2008),0.770,0.849,0.6
+9,,Canned crab meat(2009,11.2,9.94,-1.0
+10,,Milk powder (2009),0.732,0.844,0.9
+11,,Canned fish (2009),0.654,0.755,0.9
+12,Al,Infant formula cereal (2008),0.992,0.977,-0.1
+13,,Infant formula cereal (2009),0.972,1.72,4.8
+14,,Milk powder (2009),1.84,1.69,0.5
+15,Co,Canned fish (2008),0.007,0.007,0.2
+16,Cu,Canned crab meat (2007),13.7,15.1,0.9
+17,,Canned crab meat(2009,12.1,12.4,0.2
+18,Mo,Infant formula cereal (2008),0.382,0.389,0.1
+19,,Infant formula cereal(2009),0.425,0.456,0.4
+20,Sn,Vegetable puree2008,214,162,3.4
+21,,Fruit juice (2009),91.5,80.8,-1.4
+22,,Tomato paste (2009,255,233,-1.2

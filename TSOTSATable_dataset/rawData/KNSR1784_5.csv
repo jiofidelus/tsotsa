@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7
+0,,RFO,Protein,Total Fe,Total phenols,Condensed tannins,Soysapogen.,Olean. ac.
+1,ARP,ns,ns,ns,+0.921**,+0.829**,ns,ns
+2,Oleanol.ac,ns,ns,ns,ns,ns,+0.872**,
+3,Soysapogen.,ns,ns,ns,ns,ns,,
+4,Condensed tannins,ns,0.707*,+0.749*,+0.880**,,,
+5,Phenols,ns,0.675*,+0.634*,,,,
+6,Total Fe,+0.677*,0.733*,,,,,
+7,Protein,0.698*,,,,,,

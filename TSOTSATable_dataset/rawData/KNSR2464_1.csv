@@ -1,0 +1,25 @@
+,0,1,2,3,4
+0,Peak,Rt (min),Compounds,[M-H],mg/kg DWSD
+1,Phenolic acids,,,,
+2,1,15.4,p-Coumaric acid,163,11.8  1.3a
+3,2,21.1,p-Hydroxybenzoic acid,137,50.2  4.9ab
+4,3,24.7,Caffeic acid,179,142.1 14.2bc
+5,4,26.3,Chlorogenic acid,353,1857.6  180.3e
+6,5,28.9,Ferulic acid,193,49.4  6.1ab
+7,6,29.8,Neochlorogenic acid,353,157.1 23.2c
+8,,,Total,,2268.1  229.9
+9,Flavonols,,,,
+10,8,37.1,Myricetin 3-0-hexoside,479,9.7 1.6a
+11,15,42.7,Myricetin 3-0-hexoside,479,96.0  15.3abc
+12,17,47.5,Quercetin 3-0-hexoside,463,314.2  34.2d
+13,18,48.1,Rutin,609,177.1  27.0c
+14,19,50.0,Quercetin 3-0-pentoside,433,17.2  1.6a
+15,20,52.6,Kaempherol 3-0-hexoside,477,24.2  0.4a
+16,,,,,638.3  80.1
+17,Peak,Rt (min),Compounds,[M.]*,mg/kg DW+SD
+18,Anthocyanins,,,,
+19,7,35.6,Delphinidin 3-O-hexoside,465,8.61.1a
+20,10,38.4,Cyanidin 3-0-glucoside,449,9.3  1.1a
+21,12,41.0,Cyanidin 3-0-pentoside,419,1.70.2a
+22,,,,,19.6  2.4
+23,,,Total,,2926.0  312.4

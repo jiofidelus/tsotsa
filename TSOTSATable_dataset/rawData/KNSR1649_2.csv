@@ -1,0 +1,35 @@
+,0,1,2,3,4
+0,Insecticide,Collected area,Location,Range,References
+1,,(district),,of a.i.,
+2,,,,(%),
+3,Acephate,"Jessore,Gazipur and",Retailers,42.90-,Ahmed et al.
+4,,Rangpur,,100,(2017)
+5,Chlorpyrifos,"Rajshahi, Rangpur,",Local,0.0-,Begum et al.
+6,,"Dinajpur,Bogra",markets,100,(2016)
+7,,"Chittagong,",,,
+8,,"Mymensing,Comilla,",,,
+9,,Norshingdi and,,,
+10,,Jessore,,,
+11,Diazinon,"Rajshahi, Rangpur",Retailers,0.0-,Ahmed et al.
+12,,"Dinajpur, Bogra,",,100,2017);
+13,,"Chittagong,",,,Begum et al.
+14,,"Mymensing, Comilla,",,,(2016)
+15,,Gazipur Norshingdi,,,
+16,,and Jessore,,,
+17,Dimethoate,"Rajshahi, Rangpur,",Local,100,Begum et al.
+18,,"Dinajpur, Bogra,",markets,,(2016)
+19,,"Chittagong,",,,
+20,,"Mymensing, Comilla,",,,
+21,,Norshingdi and,,,
+22,,Jessore,,,
+23,Fenitrothion,"Jessore, Gazipur and",Dealers or,37.20-,Ahmed et al.
+24,,Rangpur,retailers,100,(2016
+25,Malathion,"Jessore, Gazipur and",Dealers or,12.70-,Ahmed et al.
+26,,Rangpur,retailers,100,2016
+27,Quinalphos,"Rajshahi, Rangpur,",Dealers or,14.80-,Ahmed et al.
+28,,"Dinajpur, Bogra",retailers,100,(2016);
+29,,"Chittagong,",,,Begum et al.
+30,,"Mymensing, Comilla",,,(2016)
+31,,"Jessore, Gazipur and",,,
+32,,Rangpur Norshingdi,,,
+33,,and Jessore,,,

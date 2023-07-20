@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,samples,tR(min),Amax,[M-H]-m/z),MS/MS fragment (m/z),identification
+1,standard chlorogenic acid,29.2  0.1a,"326, 294sh","353.0, 191.0",190.9,
+2,standard caffeic acid,34.1  0.2,"324, 294sh",179.0,"178.9, 135.0",
+3,Peak on chromatogram,,,,,
+4,p.1,28.90.1,"326, 294sh","353.2,191.2",191.0,chlorogenic acid isomer 1 (CHI-I)
+5,p.2,29.3 0.2,"326, 294sh","353.2, 191.2",191.0,chlorogenic acid (CH)
+6,p.3,30.2  0.2,"326, 294sh","353.2, 191.2",191.1,chlorogenic acid isomer II (CHI-II)
+7,p.4,33.0  0.2,"324, 294sh",179.1,"179.0, 135.0",caffeic acid

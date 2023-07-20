@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Cultivar,Desiccant,,Reducing sugar (glucose and,Sucrose,Total soluble carbohydrates
+1,,,,fructose(mg kgFW),mg kg1FW),mg kg1FW
+2,Ditta,Yes,1041280 ab,1041280 ab,3782  876,4823  655
+3,,Yes,,1865480b,3052  523,4917393
+4,Krone,Yes,46523 c,46523 c,4713  511,5179308
+5,,Yes,47215 c,47215 c,3425  583,3897  342
+6,Spunta,No,510140c,510140c,1609  162,2119167
+7,,Yes,41494 c,41494 c,1260  77,1674  63
+8,Significancea,,#,,***,
+9,Cultivar,,#,,***,**
+10,Desiccant,,,,NS,NS
+11,Cultivar x desiccant,,*,,NS,NS

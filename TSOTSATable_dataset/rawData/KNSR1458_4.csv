@@ -1,0 +1,19 @@
+,0,1,2,3,4
+0,Enrichment,Source and concentration,Species,Effect of enrichment,References
+1,Lithium,LiCl (500 mg/kg),Po,"Absorption 37.5 mg Li/kg, reduce PC",Fontes-Vieira et al.2013
+2,,,,Maximum absorption (225g Li/g) in the 3rd harvest,De Assuncao et al.2012
+3,Selenium,Wheat straw grown from a seleniferous fields,,Absorption 40.9 g Se/g,Bhatia et al.(2013a)
+4,,,Pof,Absorption 141 g Se/g,
+5,,,Pd,Absorption140.4 g Se/g,
+6,,,Pci,Absorption 23.2 g Se/g,
+7,,,Pf,Absorption 37.5 g Se/g,
+8,,,Psc,Absorption 38.3 g Se/g,
+9,,Eucalyptus and rye grass from seleniferous fields Po,,Absorption 2.9 mg Se/kg,Lin et al.2014b
+10,,Coffee husks +NaSeO(102 mg Se/kg),,Maximum absorption 858g Se/g,Da Silva et al.2012
+11,,Different concentrations of selenium,,Maximum absorption 65.1 mg Se/kg,Lin et al.2014b
+12,,SeO4SeOor SeMe,,Maximum absorption with SeO4 (31.2 mg Se/kg),
+13,,"NaSeO3,Na2SeO4",,"Increase PC, flavonoids and AOX.",Gasecka et al.2015
+14,,,,Maximum absorption 63.4 g Se/g,
+15,Iron,FeSO4(0.8 mg/kg),Po,Increase PC and decrease AOX,Fontes-Vieira etal.2013
+16,Zinc,ZnCO3(2.13 mg/kg),,Increase PC and decrease AOX,
+17,Oyster shells powder,8% of oyster shells powder,Pof,"Increase:70% lipids,55% carbohydrates and 32% proteins Naraian et al.(2014)","Increase:70% lipids,55% carbohydrates and 32% proteins Naraian et al.(2014)"

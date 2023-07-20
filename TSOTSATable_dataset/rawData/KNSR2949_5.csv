@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Element,Missouri grain-,,Missouri grain-,Missouri grass-,Missouri grass-,Missouri grass-,Missouri grain-,,Missouri grain-
+1,,finished ys.Missouri,,finished ys.Missouri,finished vs.,finished vs.,,finished vs.,finished vs.,
+2,,grass-finished,grass-finished,,imported New,imported New,imported New,imported New,,
+3,,,,,Zealand grass-,Zealand grass-,Zealand grass-,Zealand Grass-,Zealand Grass-,Zealand Grass-
+4,,,,,finished,,,finished,,
+5,,Kruskal-Wallis test,,Kruskal-Wallis test,,,,,,
+6,,Chi2,df,Pvalue,Chi2,df,P value,Chi2,df,P value
+7,Mn,0.561,1,0.454,0,1,1,0.561,1,0.454
+8,P,0.561,1,0.454,0,1,1,0.561,1,0.454
+9,Na,0.561,1,0.454,0,1,1,0.561,1,0.454
+10,Mg,0.561,1,0.454,0,1,1,0.561,1,0.454
+11,Ca,0.561,1,0.454,0,1,1,0.561,1,0.454
+12,As,0.567,1,0.452,1.154,1,0.283,0.575,1,0.448
+13,Cd,0.567,1,0.451,1.179,1,0.278,0.567,1,0.451
+14,Co,0.576,1,0.448,0,1,1,0.576,1,0.448
+15,Cr,0.561,1,0.454,0,1,1,0.561,1,0.454
+16,Cu,0.561,1,0.454,0,1,1,0.561,1,0.454
+17,Fe,0.569,1,0.451,0,1,1,0.569,1,0.451
+18,K,0.561,1,0.454,0,1,1,0.561,1,0.454
+19,Ni,0.25,1,0.617,0,1,1,0.569,1,0.451
+20,Pb,0.564,1,0.453,0,1,1,0.055,1,0.814
+21,Se,0.41,1,0.522,0,1,1,0.562,1,0.453
+22,Sn,0.561,1,0.454,0,1,1,0.561,1,0.454
+23,V,0.572,1,0.449,0.025,1,0.874,0.299,1,0.584
+24,Zn,0.561,1,0.454,0,1,1,0.561,1,0.454
+25,Hg,0.561,1,0.454,0,1,1,0.561,1,0.454

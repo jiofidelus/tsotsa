@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,Saliva,,Gastric juice,,Intestinal juice,
+1,Reagent,gL-1,Reagent,gL-1,Reagent,gL-1
+2,KC1,1.13,KC1,0.51,KC1,0.507
+3,KH2PO4,0.5,KH2PO4,0.12,KHPO4,0.109
+4,NaHCO3,1.14,NaHCO3,2.1,NaHCO3,7.14
+5,MgCl2HO)6,0.03,NaCl,2.76,NaCl,2.25
+6,NH4CO3,0.0058,MgCl2(HO6,0.024,MgCl2HO6,0.067
+7,HCI,1.1 mM,(NH4CO3,0.048,HC1,8.4 mM
+8,CaCl2a,0.75mM,HCI,15.6 mM,CaCl2a,0.3 mM
+9,Amylase,37.5 U/mL,CaCl2a,0.075 mM,Pancreatinb,216U/mL
+10,,,Pepsin,4396 U/mL,Bile,27

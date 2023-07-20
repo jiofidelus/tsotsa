@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6
+0,Cellulose type,Concentration,Number of,Method runs per,Average recovery,,Absolute standard
+1,,(% wt/wt),samples,sample,(%),deviation (%),deviation (%)
+2,MC in buffer,0.10,-,10,77,7,
+3,HPMC in buffer,0.10,3,10,90,,
+4,MC in pound cake,1.761.82,,5,93,,
+5,HPMC in pound cake,1.632.14,3,5,99,9,9

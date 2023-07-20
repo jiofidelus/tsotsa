@@ -1,0 +1,9 @@
+,0,1,2
+0,Material code,Concentration (ng/kg),Material name
+1,3CR-CRM532,0.01,PCDDs and PCDFs in unspiked milk powder.
+2,NIST-SRM 1589a,0.019,Human serum
+3,3CR-CRM607,0.025,PCDD and PCDF in milk powder
+4,BCR-CRM 533,0.042,PCDDs and PCDFs in spiked milk powder (low level)
+5,BCR-CRM 534,0.065,PCDDs and PCDFs in spiked milk powder (high level)
+6,NRCC-CARP-1,0.66,"Dioxins,furans,and PCBs in fish"
+7,NIST-SRM 1588a,21.0,Organics in cod liver oil

@@ -1,0 +1,59 @@
+,0,1,2,3,4,5
+0,Bioactive,Food,Processing,In vitro,Effect on bioaccessibility,Reference
+1,compound,,,digestion,,
+2,,,,method,,
+3,,White beans,TT:,Dyalisis, Ca with both treatments in all foods,Sebastia
+4,,Chickpeas,Traditional cooking,,No changes in Fe (except  in beans,et al.
+5,,,,,traditionally-cooked),(2001)
+6,,Lentils,Microwave,,Zn in lentils (both treatments) and,
+7,,,,,chickpeas (traditional cooking),
+8,Ca,Lentils,TT:,,Solubility/ Ca cell uptake only in ready-to-eat,Viadel et al.
+9,Fe,,Traditional cooking,Caco-2,Fe and Zn cell uptake with both food,2006a)
+10,Zn,,Industrial processing (ready-to-eat),cells,processing,
+11,,White beans,TT:,,Solubility/ Ca and Zn cell uptake in white beans Viadel et al.,Solubility/ Ca and Zn cell uptake in white beans Viadel et al.
+12,,,,Caco-2,and lentils,(2006b)
+13,,Chickpeas,(traditional cooking),cells,"Ca,Fe and Zn cell uptake in chickpeas",
+14,,Lentils,,,,
+15,Fe,"Cereals: rice, finger millet,",TT,Dialysis,Zn in cerealsexcept wheat and,Hemalatha
+16,Zn,"sorghum, wheat and maize",,,sorghum) and pulses by pressure-,et al.
+17,,,,,cooking and microwave,(2007)
+18,,"Pulses: chickpea, green and",(pressure-cooking and microwave,,Fe in cereals and pulses by pressure-,
+19,,"black and red gram,cowpea",,,cooking and microwave (except,
+20,,and French bean,,,"sorghum, maize, chickpea and French",
+21,,,,,bean),
+22,Ca,"Milk-based (whole milk,",TT:,,Solubility/ Ca solubility in HPP vs.TT samples,Cilla et al.
+23,P,skimmed milk and soya,(90C/30s),Caco-2,P solubility and cell uptake in HPP vs.2011),P solubility and cell uptake in HPP vs.2011)
+24,,milk) fruit beverages,HPP:,cells,TT,
+25,,,(400 MPa/402C/5min),,,
+26,Ca,Apples,HPP:,Solubility,Ca soluble and dialyzable,Briones-
+27,Fe,(Granny Smith),"500 MPa/202C/2,4,8 and 10min",and,Fe=untreated(except  soluble/4minLabarca,Fe=untreated(except  soluble/4minLabarca
+28,Zn,,,dialysis,and dialyzable/8min;dialyzable/,et al.
+29,,,,,4min),2011a
+30,,,,,Zn=untreated(except soluble/2min,
+31,,,,,and dialyzable/8-10min;dialyzable/,
+32,,,,,2-4min),
+33,,Algarrobo (Prosopis,HPP:,Solubility,Ca solubility anddialyzabilitty,Briones-
+34,,chilensisseeds,"500 MPa/202C/2,4,8 and 10min",and,Fe  solubility and dialyzability/10min,Labarca
+35,,,,dialysis,Zn  solubility/10min and  dialysis/2-et al.,Zn  solubility/10min and  dialysis/2-et al.
+36,,,,,4-8min,2011b)
+37,,Enteral formulas,TT:,Dialysis,"Ca,Fe and Zn after boiling",Galan and
+38,,,Boiling,,,Drago
+39,,,,,,2014
+40,Fe,Cowpea beans,TT:,Dialysis,Fe:Pressure cooking  BACs(and,Pereira
+41,Zn,,,,higher without soaking)vs.cooking in et al.(2016),higher without soaking)vs.cooking in et al.(2016)
+42,,,,,a regular pan,
+43,,,"Pressure cooking (4 min, room T2C, without and",,"Zn: In general, soaking previous",
+44,,,with previous soaking) and boiling in a regular,,"pressure cooking did not affect BAcs,",
+45,,,"pan (30 and 10min, without and with previous",,but it reduced BACs previous cooking,
+46,,,"soaking, respectively)",,in a regular pan,
+47,,,,,Zn BAcs than Fe BAcs,
+48,"Se,","Cereals:wheat, rice,finger",TT,Dialysis,TTBACs Se and SeMet(except in,Khanam
+49,"selenomethionine millet,maize, sorghum and","selenomethionine millet,maize, sorghum and",,,microwaved black gram and amaranth and Platel,microwaved black gram and amaranth and Platel
+50,(SeMet) and,pearl millet,,,leaves),2016
+51,selenocysteine,"Pulses:chickpea,cowpea,","Pressure-cooking (10min and microwave (360W,",,SeCys was destroyed due to TT,
+52,(SeCys),"horse gram, green, black",20min),,,
+53,,andred gram,,,,
+54,,Green leafy vegetables:,,,,
+55,,"fenugreek, spinach,",,,,
+56,,"amaranth,P.graveolens",,,,
+57,,and Moringa oleifera,,,,

@@ -1,0 +1,54 @@
+,0,1,2,3,4,5
+0,Food,No. of,No.of,Sodium,Potassium,Na:K ratio
+1,,brands,purchases,(mg/100g),mg/100g),(mmol basi
+2,,,per brand,,,
+3,Canned peas,,,,,
+4,Farmland,,,,,
+5,regular,1,4,23011a,15011a,2.6
+6, no added salt,1,4,4+1b,1504a,0.04
+7,regular,7,4,29042*,1504*,3.8
+8,no added salt,1,4,41,1504*,0.04
+9,"Canned corn, whole kernels",,,,,
+10,Farmland,,,,1105a,
+11,regular,1,4,280+16a,1105a,4.4
+12, no added salt,1,4,31b,100+5a,0.05
+13,regular,6,1+,27032*,12014*,3.8
+14,Canned tomatoes,1,4,31*,1005*,0.05
+15,Edgell,,,23017a,,
+16,regular,1,4,192b,210+7a,1.8
+17,no added salt,1,4,192b,210+7a,0.2
+18,Farmland,,4,,,0.2
+19,regular,1,4,240+27a,210+16a,1.9
+20,All brands,1,4,101b,220+15a,0.08
+21,regular,3,1+,28079a,220+15a,2.1
+22,unsalted or ro added,,,15+6b,,
+23,salt claim,,1+,15+6b,210+20a,0.1
+24,Tomato sauce,,,,,
+25,Farmiand,,,,,
+26,regular,1,4,920+43a,450+30a,3.4
+27,no added salt,,4,18+1b,430+14a,0.07
+28,Fountain,,,,,
+29,regular,1,4,840+1ga,5004a,2.9
+30,no added salt,,4,91b,45013a,0.03
+31,Rosella,,,,,0.03
+32,regular,1,4,990+21a,45027a,3.7
+33,no added salt,1,4,39+6b,48019a,0.1
+34,regular,10,1+,1000+170a,41060a,3.9
+35,no added salt,4,4,2615b,47033a,0.1
+36,Tomato paste,,,,,
+37,Farmiand,,,,,
+38,no ingredients,,,,,
+39,listed,1,4,31+7a,990+35a,0.05
+40,no added salt,1,4,38+2a,93041a,0.07
+41,All brands,,,530+21b,,0.95
+42,regular,2,1,530+21b,1000+110a,0.95
+43,no ingredients,5,,52+32a,,0.07
+44,listed,5,1+,52+32a,1000+110a,0.07
+45,no added salt,4,1+,406a,93079a,0.07
+46,Tomato juice,,,,,
+47,Farmland,,,190+10a,220+15a,1.5
+48,regular,1,4,71b,2105a,0.06
+49,no added salt,1,4,71b,2105a,0.06
+50,All brands,,,28060*,21045*,
+51,regular,8,1+,7+1*,2105*,0.06
+52,no added salt,1,4,7+1*,2105*,0.06

@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Methods,Detection limits (ng,Detection limits (ng,Linear ranges (ng,Linear ranges (ng,Advantages,,Disadvantages,,References
+1,,mL-1,,mL-,,,,,,
+2,HPLC,,0.59,,1-200,High sensitive,High sensitive,"Complex operation, expensive instrument","Complex operation, expensive instrument",Zhou and Fang (2015)
+3,Colorimetric,,50,,50-1000,"Rapid, visible","Rapid, visible",,Deficiency in sensitivity,Chen et al.2013)
+4,Fluorescence,,0.11,,19,High sensitive,High sensitive,"Complex with labeling operations, narrow linear","Complex with labeling operations, narrow linear",Liu et al.2017
+5,,,,,,,,,range,
+6,Fluorescence,,2.24,,25-300,"Rapid,low cost,simple","Rapid,low cost,simple",,Relatively low sensitivity,This work
+7,,,,,,,operation,,,

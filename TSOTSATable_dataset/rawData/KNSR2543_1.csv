@@ -1,0 +1,10 @@
+,0,1,2,3
+0,Selection,Incubation time for,The concentration of,Washing times
+1,round,ssDNA with the borax,washing buffer (mM),after
+2,,sepharose 6B complex,,incubation
+3,,(min),,
+4,1-2,90,20,3
+5,3-4,60,40,3
+6,5-6,45,60,4
+7,7-8,30,80,4
+8,9-10,20,100,5

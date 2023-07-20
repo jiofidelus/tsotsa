@@ -1,0 +1,14 @@
+,0,1,2,3
+0,Abbreviation,Composition of solvent*,Price of each solvent (US$)**,Yield (mL)
+1,Choline chloride:HO,ChCl:gly:citric acid (3:0:0),6.93,35
+2,Glycerol:HO,ChCl:gly:citric acid (0:3:0),2.74,35
+3,Citric acid:HO,ChCl:gly:citric acid (0:0:3),1.95,35
+4,NADES-1,ChCl:gly:citric acid (1.5:1.5:0),4.80,35
+5,NADES-2,ChCl:gly:citric acid (0:1.5:1.5),6.44,35
+6,NADES-3,ChCl:gly:citric acid (1.5:0:1.5),6.96,35
+7,NADES-4,ChCl:gly:citric acid (3:3:3),3.62,35
+8,NADES-5,ChCl:gly:citric acid (2:0.5:0.5),6.85,35
+9,NADES-6,ChCl:gly:citric acid (0.5:2:0.5),3.54,35
+10,NADES-7,ChCl:gly:citric acid (0.5:0.5:2),6.89,35
+11,MetOH:HO:CHO2,Methanol:water:formic acid,8.23,35
+12,1% citric acid,Water:citric acid (1%),1.05,35

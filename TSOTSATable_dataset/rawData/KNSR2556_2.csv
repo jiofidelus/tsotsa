@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7
+0,Pretreatment methods,Principal components,Training set (n =225),Training set (n =225),,Test set (n=75,,
+1,,,Correct,Error rate,Accuracy,Correct,Error rate,Accuracy
+2,Original,18,198,0.13,87%,65,0.13,87%
+3,Normalization,19,198,0.12,88%,62,0.17,83%
+4,Baseline,19,195,0.13,87%,64,0.15,85%
+5,1st Derivative,19,200,0.11,89%,64,0.15,85%
+6,2nd Derivative,15,189,0.16,84%,63,0.16,84%
+7,MSC,19,200,0.11,89%,61,0.19,81%
+8,SNV,18,201,0.11,89%,62,0.17,83%

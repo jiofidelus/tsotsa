@@ -1,0 +1,44 @@
+,0,1,2,3,4,5
+0,family,genus,species name,Sample code,Poisonous or not,"GenBank accession no.(Wang et al.,2021)"
+1,,,Amanita citrinoannulata,A1,edible,MW192480
+2,,,Amanita concentrica,A2,poisonous,MW192487
+3,,,Amanita griseofolia,A3,poisonous,MW192459
+4,Amanitaceae,Amanita,Amanita hemibapha,A4,edible,MW192463
+5,Amanitaceae,Amanita,Amanita parvipantherina,A5,poisonous,MW192484
+6,,,Amanita pseudovaginata,A6,poisonous,MW192492
+7,,,Amanita sepiacea,A7,poisonous,MW192488
+8,,,Amanita spissacea,A8,poisonous,MW192473
+9,,Chlorophyllum,Chlorophyllum molybdites,A9,poisonous,MW192451
+10,Agaricaceae,Leucoagaricus,Leucoagaricus rubrotinctus,A10,poisonous,MW192455
+11,,Macrolepiota,Macrolepiota dolichaula,Al1,edible,MW192456
+12,,Boletus,Boletus kauffmanii,B1,edible,MW192464
+13,,Butyriboletus,Butyriboletus yicibus,B2,edible,MW192467
+14,Boletaceae,Suillus,Suillus bovinus,B3,edible,MW192452
+15,,Tylopilus,Tylopilus neofelleus,B4,poisonous,MW192465
+16,,Tylopilus,Tylopilus microsporus,B5,poisonous,MW192490
+17,Cortinariaceae,Hebeloma,Hebeloma crustuliniforme,C1,poisonous,MW192482
+18,Hydnaceae,Hydnellum,Hydnellum caeruleum,H1,edible,MW192469
+19,Hydnaceae,Hydnellum,Hydnellum concrescens,H2,edible,MW192472
+20,Inocybaceae,Inocybe,Inocybe mixtilis,11,edible,MW192471
+21,Inocybaceae,Inocybe,Inocybe rimosa,12,poisonous,MW192491
+22,Lyophyllaceac,Hypsizygus,Hypsizygus marmoreus,L1,edible,MW192478
+23,Marasmiaceae,Gymnopus,Gymnopus subnudus,M1,edible,MW192453
+24,,,Pleurotus eryngii,P1,edible,MW192475
+25,Pleurotaceae,Pleurotus,Pleurotus ostreatus,P2,edible,MW192489
+26,,,Pleurotus ostreatus,P3,edible,MW192494
+27,Psathyrellaceae,Panaeolus,Panaeolus subbalteatus,P4,poisonous,MW192454
+28,,Lactarius,Lactarius subbrevipes,R1,edible,MW192457
+29,,,Russula crustosa,R2,edible,MW192481
+30,,,Russula rosacea,R3,edible,MW192466
+31,Russulaceae,Russula, Russula sanguinea,R4,edible,MW192493
+32,,Russula,Russula senecis,R5,edible,MW192462
+33,,, Russula variata,R6,edible,MW192461
+34,,,Russula velenovskyi,R7,edible,MW192468
+35,,Laccaria,Laccaria aurantia,T1,edible,MW192458
+36,,Flammulina,Flammulina filiformis,T2,edible,MW192476
+37,,Lentinus,Lentinus edodes,T3,edible,MW192477
+38,Tricholomataceae,Rhizocybe,Rhizocybe alba,T4,edible,MW192460
+39,Tricholomataceae,,Tricholoma albobrunneum,T5,poisonous,MW192474
+40,,Tricholoma,Tricholoma matsutake,T6,edible,MW192486
+41,,Tricholoma,Tricholoma imbricatum,T7,poisonous,MW192483
+42,,,Tricholoma saponaceum,T8,poisonous,MW192470

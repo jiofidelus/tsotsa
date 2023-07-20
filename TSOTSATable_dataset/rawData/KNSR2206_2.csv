@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,,,SVM,,Hard PLS-DA
+1,,Dataset,,,
+2,,,Gamma,C,Lvs
+3,CO-EVOO,Raw data,0.0001,10,5
+4,CO-EVOO,Preprocessed data,1,10,5
+5,PO-EVOO,Raw data,0.01,0.001,6
+6,PO-EVOO,Preprocessed data,1,10,4
+7,CO-PO-EVOO,Raw data,0.0001,10,5
+8,CO-PO-EVOO,Preprocessed data,10,10,5

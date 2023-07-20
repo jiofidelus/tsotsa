@@ -1,0 +1,42 @@
+,0,1,2
+0,Common name,Botanical name,Edible part
+1,Fruits,,
+2,Apple:,Pyrus malus L.,"flesh with and w/o skin,no core"
+3,Apricot,Prunus armeniaca L,"flesh with skin,no stones"
+4,Avocado pear,Persea gratissima GARTN.,"flesh oniy,no skin,no stone"
+5,Babaco,Carica pentagona Heilb,flesh and skin
+6,Banana,Musa sapientium L.,"flesh only,no skin"
+7,Carob,Ceratonia siliqua L.,dry pod and seeds
+8,Cherry,Prunus aviun L.,"flesh and skin,no stones"
+9,Chestnut,Castanea sativa MIlL.,"flesh only, no skin, no shell"
+10,Dates,Phoenix dactylifera L.,"flesh and skin,no stones"
+11,Feijoa,Feijoa sellowiana,"flesh,no skin"
+12,Fig,Ficus carica L,"flesh only,no skin"
+13,Grapefruit,Citrus paradisi L,"flesh only,no pips"
+14,Grapes,Vitis vinifera L.,flesh onlyno pips
+15,Japan medlar,Eriobotrya japonica LINDLf,flesh onlyno skinno stones
+16,Kiwi fruit,Actinidia deliciosa,"flesh and pips,no skin"
+17,Mandarin,Citrus deliciosa TEN.,"flesh only,no pips"
+18,Melons,Cocumis melo L,"flesh only,no seeds"
+19,Melonwater,Citrullus vulgaris SCHUR,"flesh only,no seeds"
+20,Nectarine,Prunus persica L.,"flesh and skin,no stones"
+21,Orange,Citrus aurantium L.,flesh onlyno pipsno pith
+22,Peach,Prunus persica L.,"flesh with and w/o skin,no stones"
+23,Pear,Pyrus communis L.,"flesh with and w/o skin,no core"
+24,Persimmon,Diospyros kaki,"flesh only,no skin, no stones"
+25,Pineapple,Ananas comosus L.,flesh only
+26,Plum,Prunus domestica L,"flesh and skin,no stones"
+27,Pomegranate,Punica granatum L..,seeds only
+28,Prickly pear,Opuntia ficus indica MlLL.,"pulp,no seeds"
+29,Quince,Cydonia oblonga MILL.,"flesh only,no skin,no core"
+30,Strawberry,Fragaria ananassa Duchesne,flesh and pips
+31,Nuts,,
+32,Aimond,Prunus amygdalus Batsch,kemel only
+33,Hazelnut,Corylus avellana L..,kernel only
+34,Macadamia,Macadamia tetrapirylla,kernel only
+35,"Peanut, toasted",Arachis hypogea L,kernel only
+36,Pecan,Carya illinoensis,kernel only
+37,Pine nut,Pinus pinea L.,kernel only
+38,"Pistachio, toasted",Pistacia vera L.,kernel only
+39,Pumpkin seed,Cucurbita maxima L.,kernel only
+40,Walnut,Juglans regia L.,kernel only

@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7
+0,Parameter,Parameter,,,,,,
+1,Lamp type,Lamp type,,,,Hollow cathode lamp (HCL Agilent,Hollow cathode lamp (HCL Agilent,
+2,Lamp current,Lamp current,,,8.0 mA,,,
+3,Slit,,,,1.2 nm,,,
+4,Se Line,,,,196 nm,,,
+5,PMT,,,,500.0V,,,
+6,Integr.Mode,Integr.Mode,,,Peak area,,,
+7,Tube type,Tube type,,,,Standard tube (wall);Ir coated,Standard tube (wall);Ir coated,
+8,HG parameters,HG parameters,,,Model HS 60,Model HS 60,,
+9,Operation mode,Operation mode,,,Continuous flow,Continuous flow,,
+10,Pump speed,Pump speed,,,3,,,
+11,Sample volume,Sample volume,,,10 mL,,,
+12,,Enrichment cycles,,,1,,,
+13,Sample load,Sample load,,,16s,,,
+14,Reaction time,Reaction time,,,30 s,,,
+15,Purge time,Purge time,,,10s,,,
+16,Rinse time,Rinse time,,,15s,,,
+17,Gas flow,,,,6 NL/h,,,
+18,Carrier solution,Carrier solution,,,3 % HCl,,,
+19,Reduction agent,Reduction agent,,,,0.3 % NaBH4 in 0.1 % NaOH,0.3 % NaBH4 in 0.1 % NaOH,
+20,Cleaning,Cleaning,,,15 s with acid,15 s with acid,,
+21,,Graphite furnace temperature program,Graphite furnace temperature program,Graphite furnace temperature program,,AAS ZEEnit 700P,,
+22,No.,Type,Temp,Rate,Hold,Time,Gas,
+23,,,[C],[C/s],[s],[s],Inert.,Add.
+24,,,,,,,,g
+25,1,Drying,300,300,2,2.9,Min,Stop
+26,2,Pyrolysis,310,50,20,20.1,Max,Stop
+27,3,AZ*,310,0,6,6,Stop,Stop
+28,4,Atomize,2100,1200,5,6.8,Stop,Stop
+29,5,Cleanout,2100,500,4,4.1,Max,Stop

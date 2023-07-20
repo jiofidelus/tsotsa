@@ -1,0 +1,16 @@
+,0,1,2,3
+0,Products,Positive samples,Positive samplesb for RR,Positive samplesb for RR
+1,,for GM materials,soybean and/or Bt176 corn,soybean and/or Bt176 corn
+2,,,2007,2008
+3,Bakery products,3,1.0b0.6,2.0ab0.8
+4,(bread and,,,
+5,health bread,,,
+6,Breakfast cereals,5,3.0a0.8,2.0ab0.52
+7,(cornflakes),,,
+8,Corn flour,,<0.1%,<0.1%
+9,Chips,3,2.0ab0.8,1.0b0.8
+10,Feed samples,4,1.0b0.8,3.0a0.7
+11,"(Soybean,corn)",,,
+12,Total,15,71.0,80.58
+13,Samples with GM<1%,,5 (71.4%),5 (62.5%)
+14,Samples with GM >1%,,2 (28.6%),3 (37.5%)

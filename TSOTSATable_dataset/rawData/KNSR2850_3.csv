@@ -1,0 +1,73 @@
+,0,1,2,3,4,5,6
+0,,18:26,20:26,20:36,,20:46,
+1,,18:26,20:26,20:36,,20:46,22:46
+2,MAMMALS,,,,,,
+3,Beaver (Castor canadensis,,,,,,
+4,"meat,raw",0.30.06,tra,nab,tr,0.10.01,nd
+5,"meat,baked",0.30.06,tr,,tr,0.10.00,nd
+6,"meat,dried",1.3,tr,tr,tr,0.1,nd
+7,"feet,baked",1.7,tr,tr,tr,0.1,nd
+8,"tail,baked",0.5,nd,nd,nd,tr,nd
+9,liver.raw,0.3,tr,tr,tr,0.2,tr
+10,"meat,raw",0.20.04,nd,nd,nd,0.10.02,tr
+11,"meat, baked",0.20.04,nd,nd,nd,tr,nd
+12,"liver,raw",0.20.03,nd,tr,tr,0.2+0.02,nd
+13,"liver,baked",0.20.07,tr,tr,tr,0.30.08,nd
+14,"stomach,raw",0.2,nd,tr,tr,0.1,nd
+15,Woodland Caribou(Rangifer tarandus),Woodland Caribou(Rangifer tarandus),,,,,
+16,"meat,raw",0.20.06,nd,tr,tr,0.20.10,nd
+17,meat baked,0.30.03,nd,tr,tr,0.20.10,nd
+18,"meat, dried",0.40.33,tr,tr,tr,0.20.10,nd
+19,Moose (A/ces alces,,,,tr,,
+20,"meat,raw",0.10.03,nd,nd,nd,tr,nd
+21,"meat,baked",0.20.00,nd,nd,nd,tr,nd
+22,"meat,smoke/dried",0.6,nd,nd,nd,0.3,nd
+23,"liver,raw",0.20.05,tr,tr,tr,0.20.02,nd
+24,"liver,baked",0.20.04,nd,tr,tr,0.20.01,nd
+25,"lung,raw",0.1,nd,tr,tr,0.1,nd
+26,"lung,baked",0.1,nd,tr,tr,0.1,nd
+27,Muskrat (Ondatra zibethicus),0.70.38,,,,,
+28,meat.raw,0.70.38,nd,nd,nd,0.10.01,nd
+29,Rabbit (Lepus americanus),,,,,,nd
+30,"meat,raw",0.30.14,nd,tr,tr,0.10.01,nd
+31,"meat, boiled",0.30.01,nd,tr,tr,0.10.03,nd
+32,Bear (Ursus americanus),,,,,,
+33,"meat,raw",0.1,nd,nd,nd,tr,nd
+34,"meat,smoked",0.2,nd,tr,tr,0.1,tr
+35,BIRDS,,,,,,tr
+36,Black scoter Melanitta nigra),0.20.03,,,,,
+37,"meat, baked",0.20.03,tr,tr,tr,0.30.01,tr
+38,Ptarmigan (Lagopus sp.),,,,,,tr
+39,"meat,baked",0.40.04,tr,nd,nd,0.20.01,nd
+40,Canada Goose (Branta canadensis),Canada Goose (Branta canadensis),,,,0.20.08,
+41,"meat,dried",3.10.49,nd,nd,nd,0.20.08,nd
+42,FISH,,,,,,nd
+43,Cisco (Coregonus autumnalis),Cisco (Coregonus autumnalis),,,,,
+44,"meat,raw",tr,tr,tr,tr,tr,tr
+45,"meat,baked",,nd,nd,nd,tr,nd
+46,"meat,smoke/dried",0.10.03,nd,tr,tr,0.10.02,nd
+47,Inconnu(Stenodus leucichthys),Inconnu(Stenodus leucichthys),,,,,
+48,"meat,raw",tr,tr,nd,nd,tr,tr
+49,"meat, baked",0.10.01,tr,tr,tr,0.10.01,tr
+50,"meat,smoke/baked",tr,tr,nd,nd,0.20.16,tr
+51,meat.smoke/dried,0.20.18,tr,nd,nd,0.20.16,tr
+52,Loche Lota lota),,,,,,
+53,"meat,baked",tr,tr,nd,nd,0.10.02,nd
+54,"head,baked",tr,nd,nd,nd,0.1,tr
+55,"liver,raw",0.60.17,0.10.03,0.10.01,,0.50.11,Q.1005
+56,"skin,raw",,tr,nd,nd,tr,nd
+57,"skin,baked",tr,nd,nd,nd,tr,nd
+58,PikeEsox lucius,,,,,,
+59,"meat,raw",tr,nd,nd,nd,tr,nd
+60,"meat,baked",tr,tr,nd,nd,tr,nd
+61,"meat,raw",0.20.08,tr,tr,tr,0.10.03,tr
+62,"meat,baked",0.10.01,tr,tr,tr,0.10.01,nd
+63,Whitetish (Coregonus clupeaformis),Whitetish (Coregonus clupeaformis),,,,,tr
+64,"meat,raw",0.10.05,tr,tr,tr,0.10.02,tr
+65,"meat,baked",0.10.04,tr,,,0.10.02,tr
+66,"meat,dried",0.1,tr,tr,tr,0.2,
+67,"meat,smoke/baked",0.2,tr,tr,tr,0.2,
+68,"meat, smoke/dried",0.30.10,0.10.04,tr,tr,0.20.10,
+69,"eggs,raw",0.30.20,tr,0.30.07,,0.30.07,tr
+70,"eggs,baked",0.30.04,tr,tr,tr,0.40.12,nd
+71,"tail, raw",0.2,tr,tr,tr,0.1,nd

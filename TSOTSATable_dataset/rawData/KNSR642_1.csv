@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Solvent abbreviation,Run number,Independent variable,Independent variable,,,,,Response,
+1,,,Choline chloride (X),Choline chloride (X),Glycerol (X),,Citric acid (X3),,Total anthocyanin content,Total anthocyanin content
+2,,,,,,,,,(mg equivalents of Cy-3-glc/100 g of blueberry,
+3,,,Coded value,Molar ratio,Coded value,Molar ratio,Coded value,Molar ratio,powder),
+4,Choline chloride:HO,1,1,3,0,0,0,0,249.4,
+5,Citric acid:HO,35,0,0,1/2,0,1,3,275.2,
+6,NADES 2,35,0,0,1/2,1.5,1/2,1.5,159.0,
+7,NADES 4,7,1,1,1,1,1,1,261.10.8,261.10.8
+8,NADES 5,9,1/6,2,2/3,0.5,1/6,0.5,230.2  9.9,230.2  9.9
+9,Glycerol:H2O,2,0,0,1,3,0,0,37.8,
+10,NADES1,4,1/2,1.5,1/2,1.5,0,0,202.1,
+11,NADES 3,6,0,0,1/2,1.5,1/2,1.5,187.0,
+12,NADES 6,8,2/3,0.5,1/6,2,1/6,0.5,362.3  1.1,362.3  1.1
+13,NADES 7,10,1/6,0.5,1/6,0.5,2/3,2,160.8  9,9.1

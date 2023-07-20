@@ -1,0 +1,25 @@
+,0,1,2,3,4
+0,Rank,Rank,Food,% of total energy,Cumulative % of
+1,,,,,total energy
+2,NHANES 1999-2000,,,,
+3,,1,Regular soft drinks,7.1,7.1
+4,,2,"Cake, sweet rolls, doughnuts, pastries",3.6,10.6
+5,,3,"Hamburgers, cheeseburgers, meat loaf",3.1,13.8
+6,,4,Pizza,3.1,16.8
+7,,5,"Potato chips, corn chips, popcorn",2.9,19.7
+8,,6,Rice,2.7,22.4
+9,,7,"Rolls,buns,English muffins, bagels",2.7,25.0
+10,,8,Cheese or cheese spread,2.6,27.6
+11,,9,Beer,2.6,30.2
+12,,10,"French fries, fried potatoes",2.2,32.4
+13,NHANESIII*,NHANESIII*,,,
+14,,1,Regular soft drinks,6.0,6.0
+15,,2,"Cake, sweet rolls, doughnuts, pastries",3.9,9.9
+16,,3,Pizza,3.3,13.2
+17,,4,White bread including Italian or French,3.3,16.5
+18,,5,"Hamburgers, cheeseburgers, meat loaf",3.1,19.6
+19,,6,Beer,2.7,22.3
+20,,7,"Rolls,buns,English muffins, bagels",2.6,24.9
+21,,8,"Potato chips, corn chips, popcorn",2.6,27.5
+22,9,9,Rice,2.3,29.8
+23,,10,"French fries, fried potatoes",2.3,32.1

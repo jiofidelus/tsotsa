@@ -1,0 +1,46 @@
+,0,1,2,3,4,5
+0,Material,,,Total folate expressed as folic acid (g/100 g FW),Total folate expressed as folic acid (g/100 g FW),
+1,,Own study,Literature,Method parameters,Method parameters,References
+2,,method no.,data,,,
+3,,1),,,,
+4,Strawberries,49a,80,,"Phosphate buffer pH 6.0,100C/12min;-amylase and rat plasma;HPLC",Hefni et al.2010
+5,,,64,,"Hepes-Ches pH 7.8,100C/10 min;-amylase,protease,rat plasma;HPLC",Konings et al.(2001
+6,,,51,,"Phosphate pH 6.1,100C/12 min;chicken pancreas;microbiological assay",Stralsjo et al.2002
+7,,,36,,"Phosphate pH 6.0,microwave for 1 min and 100C/10 min;hog-kidney;HPLC",Vahteristo et al.1997
+8,Blackcurrant,15,8,,"Phosphate pH 6.0,microwave for 1 min and 100C/10 min;hog-kidney;HPLC",Vahteristo et al.(1997
+9,Green peas,73,52,,"Phosphate buffer pH 6.0,100C/12min;-amylase and rat plasma;HPLC",Hefni et al.2010)
+10,,,92,MES buffer;rat serum together with chicken pancreas;LC-MS/MS,MES buffer;rat serum together with chicken pancreas;LC-MS/MS,"Ringling and Rychlik,"
+11,,,,,,2013
+12,,,87,,"Hepes-Ches pH 7.85;-amylase,protease,rat serum together with chicken pancreas;LC-",Rychlik et al.2007
+13,,,,MS/MS,,
+14,,,48,"Phosphate buffer pH 6.1,100C/12min;rat serum;HPLC","Phosphate buffer pH 6.1,100C/12min;rat serum;HPLC",Stea et al.2006
+15,,,181,,"Phosphate buffer pH 4.5,100C/10 min;-amylaseprotease,rat plasma;LC-MS/MS",Tyagi et al.2015
+16,Yellow and green,40-68,37-78,,"Hepes-Ches pH 7.85; -amylase,protease,rat serum together with chicken pancreas; LC-Rychlik et al.(2007)",
+17,beans,,,MS/MS,,
+18,,,63,"Phosphate buffer pH 7.0,100C/10 min;chicken pancreas;HPLC","Phosphate buffer pH 7.0,100C/10 min;chicken pancreas;HPLC",Delchier et al.2013
+19,Cauliflower,87,57,,"Phosphate buffer pH 6.0,100C/10 min;-amylaseproteasehog kidney;HPLC",Holasova et al.2008
+20,,,29,,"Hepes-Ches pH 7.8, 100C/10 min; -amylase, protease, rat plasma; HPLC",Konings et al.2001
+21,,,97,MES buffer; rat serum together with chicken pancreas; LC-MS/MS,MES buffer; rat serum together with chicken pancreas; LC-MS/MS,"Ringling and Rychlik,"
+22,,,,,,2013
+23,,,85,,"Phosphate pH 6.0,microwave for 1 min and 100C/10 min;hog-kidney;HPLC",Vahteristo et al.(1997
+24,Broccoli,153,24-42,,"Hepes-Ches pH 7.85,100C/10 min;tri-enzyme treatment;-amylase,protease,rat",Freisleben et al.(2003
+25,,,,serum;LC-MS/MS,serum;LC-MS/MS,
+26,,,63,,"Phosphate buffer pH 6.0,100C/10 min-amylase,protease,hog kidney;HPLC",Holasova et al.2008
+27,,,174,,"Phosphate buffer pH 6.1,121C/10 min;-amylase,protease,chicken pancreas;",Iwatani et al.2003)
+28,,,,microbiological assay,microbiological assay,
+29,,,177,,"Hepes-Ches pH 7.85,100C/10 min;-amylase,protease,rat serum;microbiological assayMcKillop et al.2002",
+30,,,115,"Phosphate buffer pH 6.1,100C/12min;rat serum;HPLC","Phosphate buffer pH 6.1,100C/12min;rat serum;HPLC",Stea et al.2006
+31,,,114,,"Phosphate pH 6.0,microwave for 1 min and 100C/10 min;hog-kidney;HPLC",Vahteristo et al.1997)
+32,Spinach,174,273,"Phosphate buffer pH 7.0,100C/10 min;chicken pancreas;HPLC","Phosphate buffer pH 7.0,100C/10 min;chicken pancreas;HPLC",Delchier et al.2013
+33,,,75-204,,"Hepes-Ches pH 7.85,100C/10 min;tri-enzyme treatment;-amylase,protease,rat",Freisleben et al.(2003
+34,,,,serum;LC-MS/MS,serum;LC-MS/MS,
+35,,,129,,"Phosphate buffer pH 6.0,100C/12min;-amylase and rat plasma;HPLC",Hefni et al.2010
+36,,,194,,"Phosphate buffer pH 6.0,100C/10 min; -amylase, protease,hog kidney; HPLC",Holasova et al.2008)
+37,,,302,,"Phosphate buffer pH 6.1,121C/10 min;-amylase,protease,chicken pancreas;",Iwatani et al.2003
+38,,,,microbiological assay,microbiological assay,
+39,,,55,,"Hepes-Ches pH 7.8,100C/10 min;-amylase,protease,rat plasmaHPLC",Konings et al.(2001)
+40,,,192,,"Hepes-Ches pH 7.85,100C/10 min;-amylase,protease,rat serum;microbiological assay",McKillop et al.2002
+41,,,215,MES buffer;rat serum together with chicken pancreas;LC-MS/MS,MES buffer;rat serum together with chicken pancreas;LC-MS/MS,Ringling and Rychlik
+42,,,,,,(2013)
+43,,,273,,"Phosphate buffer pH 4.5,100C/10 min water bath;-amylase,protease,rat plasma;LC-",Tyagi et al.2015
+44,,,,MS/MS,,

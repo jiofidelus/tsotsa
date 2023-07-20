@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7
+0,Flavonols,% Recovery,% Recovery,,% RSD,,Quercetin calibration range (mg/L),1
+1,"(1Quercetin 7,4-diglucoside",97,,,3,0.25-8,0.25-8,0.995
+2,"(2Quercetin 3,4-diglucoside",97,,,22,,,
+3,"(3 Isorhamnetin 3,4-diglucoside",98,,,22,,,
+4,(4)Quercetin 3-glucoside,98,,,2,,,
+5,(5 Quercetin 4-glucoside,92,,,4,,,
+6,(6) Isorhamnetin 4-glucoside,96,,,2,,,
+7,Anthocyanins,,% Recovery,% RSD,% RSD,Cyanidin 3-glucoside calibration range (mg/L),Cyanidin 3-glucoside calibration range (mg/L),12
+8,1Cyanidin 3-glucoside,99,99,1,,0.04-10,,0.999
+9,2Cyanidin 3-laminaribioside,99,99,21,21,,,
+10,"3Cyanidin 3-6""-malonylglucoside",99,99,21,21,,,
+11,(4Cyanidin 3-malonyl-laminaribioside,99,99,1,,,,
+12,(5) Cyanidin 3-dimalonylaminaribioside,93,93,1,,,,

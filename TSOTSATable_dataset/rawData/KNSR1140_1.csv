@@ -1,0 +1,26 @@
+,0,1,2,3,4,5
+0,Sample,Manufacturer,Characteristics,Serving,Fat content,Oils content
+1,,,,size(g,(g/serving),
+2,1,A,Lightly salted,28,9,Monounsaturated safflower and/or sunflower oil
+3,2,B,Natural potato chips,28,8,Sunflower and/or safflower oil
+4,3,c,Original potato chips,28,9,Peanut oil
+5,4,c,30% less fat than other leading,28,7,Peanut oil
+6,,,brands,,,
+7,5,D,Original extra crunchy,28,8,Sunflower oil
+8,6,D,Classics,28,10,"Corn and/or Cottonseed, and/or Sunflower oil"
+9,7,E,Classics,28,9,Cotton and/or Corn oil
+10,8,F,Bursting with flavour Bar-B-Q waffle,28,9,"Cotton and/or Corn, and/or sunflower, and/or"
+11,,,,,,soybean oil
+12,9,G,Original,28,11,Cotton oil
+13,10,D,Original,28,10,"Corn and/or Cottonseed, and/or sunflower oil"
+14,11,D,Masterpiece BBQ,28,10,Partially hydrogenated Soybean and/or
+15,,,,,,Cottonseed oil
+16,12,H,"All natural snack,40% less fat than",28,6,"Canola and/or sunflower,and/or safflower oil"
+17,,,other leading brands,,,
+18,13,1,"Salted classic,kettle cooked",30,8,"Canola,sunflower and/or safflower oil"
+19,14,J,Classicsa,28,10,"Partially hydrogenated soy and/or corn,and/or"
+20,,,,,,"cottonseed,and/or sunflower oil"
+21,15,B,Kettle cooked and flavored,28,8,Sunflower and/or safflower oil
+22,16b,K,Kettle cooked and flavored,28,8,"Cotton and/or peanut, and/or canola oil"
+23,,,(extra crunchy),,,
+24,17b,K,Extra crunchy potato chips,28,9,"Cotton and/or peanut,and/or canola oil"

@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6
+0,,,,Prepared hash brown potatoes,,,
+1,,"ppm total SO,","ppm total SO,",,No. of samples in range,,
+2,,,<10,,12,12,
+3,,10-19,10-19,,3,3,
+4,,20-29,20-29,,,1,
+5,,,>30,,,4,
+6,,Range=<10-80,Range=<10-80,,Total units=20,Total units=20,
+7,,,,Prepared mashed potatoes,,,
+8,,"ppm total SO,","ppm total SO,",,No.of samples in range,,
+9,,,<10,,,3,
+10,,10-29,10-29,,,2,
+11,,30-49,30-49,,,7,
+12,,50~69,50~69,,,6,
+13,,70-89,70-89,,,9,
+14,,,>89,,,5,
+15,,Range=<10-130,Range=<10-130,,Total units =32,,
+16,,,,Other prepared potatoes,,,
+17,,Product,,ppm total SO2,No. of samples,,No. of samples
+18,French fries,French fries,,<10,15,,15
+19,Baked,,,<10,,,10
+20,Twice baked/stuffed,Twice baked/stuffed,Twice baked/stuffed,<10-15,,,4
+21,Parsley buttered,Parsley buttered,Parsley buttered,<10,,,2
+22,Au gratin,Au gratin,,<10,,,1
+23,Creamed,Creamed,,<10,,,1
+24,Scalloped,Scalloped,,<10,,,1

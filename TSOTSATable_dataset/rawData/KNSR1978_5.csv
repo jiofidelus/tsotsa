@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,Hypothesis,Wheat,Ferulic acid,Paired t-probe,,
+1,,,,t Value,Critical value for t-probe,Equality
+2,Are the samples treated with or without fungicide in 2009 equal?,Bekes,Conjugated,0.8822,2.446911846,Yes
+3,,,Bound,-0.7411,2.446911846,Yes
+4,,,Total,0.7304,2.446911846,Yes
+5,,Csillag,Conjugated,0.5628,2.446911846,Yes
+6,,Csillag,Bound,0.5806,2.446911846,Yes
+7,,,Total,0.6228,2.446911846,Yes
+8,,Petur,Conjugated,-0.4543,2.446911846,Yes
+9,,,Bound,-2.1053,2.446911846,Yes
+10,,,Total,2.1307,2.446911846,Yes
+11,Are the samples treated with fungicide in 2008 and 2009 equal?,Bekes,Conjugated,5.7012,2.446911846,No
+12,,,Bound,0.9799,2.446911846,Yes
+13,,,Total,1.2847,2.446911846,Yes
+14,,Csillag,Conjugated,4.7831,2.446911846,No
+15,,,Bound,1.3256,2.446911846,Yes
+16,,,Total,1.5779,2.446911846,Yes
+17,,Petur,Conjugated,4.4678,2.446911846,No
+18,,,Bound,-1.7567,2.446911846,Yes
+19,,,Total,-0.7500,2.446911846,Yes

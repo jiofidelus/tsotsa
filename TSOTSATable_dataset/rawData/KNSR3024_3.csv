@@ -1,0 +1,35 @@
+,0,1,2,3,4,5
+0,100g edible portion of lean lamb+7% SCF(n=18,,100g edible portion of lean lamb+7% SCF(n=18,100g edible portion of lean lamb+7% SCF(n=18,,
+1,Nutrients analysed,Unit,p-value,SEMb,Raw,Cooke
+2,Proximate analysis,,,,,
+3,Moisture,g,<0.001,0.395,71.5,65.4
+4,ProteinN6.25,g,<0.001,0.406,18.3,25.1
+5,Fat,g,0.217,0.306,9.01,8.44
+6,Ash,g,<0.001,0.287,2.88,1.07
+7,Food energy(calculated),kJ,<0.001,14.4,644,745
+8,Minerals,,,,,
+9,Magnesium (Mg),mg,0.405,1.261,20.1,21.7
+10,Potassium (K),mg,0.852,62.6,291,298
+11,Sodium (Na),mg,0.302,7.90,83.4,71.3
+12,Zinc (Zn),mg,0.196,0.275,2.25,1.72
+13,Iron(Fe,mg,0.260,0.198,0.96,0.63
+14,Vitamins,,,,,
+15,Thiamin (B),mg,0.017,0.015,0.10,0.04
+16,Riboflavin (B),mg,0.102,0.013,0.09,0.05
+17,NiacinB,mg,0.869,0.248,1.47,1.42
+18,Pyridoxine (B),mg,0.003,0.054,0.40,0.12
+19,Cyanocobalamin(B2,ug,0.003,0.493,3.54,0.93
+20,Lipidsc,,,,,
+21,Saturated fatty acids,,,,,
+22,14:0,g,0.297,0.038,0.57,0.50
+23,16:0,g,0.111,0.086,2.22,1.99
+24,18:0,g,0.002,0.048,1.46,1.07
+25,20:0,g,0.137,0.002,0.02,0.02
+26,Monounsaturated fatty acids,,,,,
+27,16:1,g,0.983,0.009,0.19,0.19
+28,18:1n9t,g,0.009,0.017,0.31,0.21
+29,18:1n9c,g,0.001,0.050,3.12,2.65
+30,Polyunsaturated fatty acids,,,,,
+31,18:2n6t,g,0.215,0.003,0.02,0.02
+32,18:2n6c,g,0.233,0.014,0.25,0.22
+33,Cholesterol,mg,0.001,4.15,62.8,87.7

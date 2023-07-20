@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7
+0,Samples,Extraction/ detection technique,LOD,Linear working range,Time,RSD (%),Recovery (%),References
+1,,,(g L-1,(g L-1,(min),,,
+2,Apple juice,SD-LLME/LC-MS,0.5,2-2000,15,4.5,83.6-96.3,"Li et al.,2018)"
+3,Fruit juices,VALLME/HPLC-DAD,0.4,0.5100,-,7.6,90-112,"Abu-Bakar et al.,2014)"
+4,Apple juices,MSPE-HPLC,2.3,40-2000,15,8.7,68.783.6,"Wang et al.,2017"
+5,Apple-based foods,UHPLC-MS/MS,2.5,2.5250,50,14,71-108,"Beltran et al.,2014)"
+6,Apple-based foods,MIP-SPE/HPLC,0.6,2-100,7,11,>77,"Lucci et al.,2017"
+7,Fruit juices,MSPE-HPLC,0.15,1-400,4,5.3,93.9102.6,"Yu and Fan,2017"
+8,Fruit juices,QuEChERS/ GC-MS/MS,0.7,5-192,13,12,82-97,"Marsol-Vall et al.,2016)"
+9,"Fruit juices, dried fruit",In tube SPME/ LC-MS,0.0235,0.5-20,5,0.8-5,92,"Kataoka et al.,2009)"
+10,samples,,,,,,,
+11,Apple juices,DLME/MEKC,0.6,5-500,17,2.6-9.6,75.2-80,"(Victor-Ortega et al.,"
+12,,,,,,,,2013)
+13,Processed apple juice,"MSPD,LLE/HPLC",6,LOD-10.000,2.5,2.96-5.45,85.2-103.2,"Wu et al.,2008"
+14,Fruit juices,DES-UA-ELPME/,2.2,7.5-420,~17,4.2,90.2-106.9,The current study
+15,,Spectrophotometry,,,,,,

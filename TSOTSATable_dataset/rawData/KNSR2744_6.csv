@@ -1,0 +1,37 @@
+,0,1,2,3,4
+0,Basil,Growing,Treatment factors,Modulation of crop performance and functional-sensory quality,Reference
+1,Cultivar,conditions,,,
+2,"""Tigullio'",Greenhouse,Addition of iodine (10 M KI) in nutrient solution on the growth,Biofortification with iodine did not change fresh leaf production,Puccinelli
+3,,,and accumulation of foliar I in two hydroponic techniques,"and nitrate content. At the second harvest, plants grown in the",et al.(2021)
+4,,,(floating system and aeroponics).,aeroponic system showed a higher accumulation of total phenols,
+5,,,,6603 mg GAE kg-FWbecause of biofortification with 10M,
+6,,,,KI. Biofortification with iodine increased foliar iodine content,
+7,,,,"independently of the growing system, with the highest values",
+8,,,,obtained at the second harvest.,
+9,'Tigullio',Greenhouse,"Selenium addition in nutrient solution (0, 4, 8, and 12 mg","Regardless of the selenium dose used in the nutrient solution, no",Puccinelli
+10,,,selenium L- on the yield and quality of sweet basil leaves at two,"significant reduction in yield was observed. In contrast, the",et al.2020
+11,,,successive harvestings,maximum dose(12mg L-selenium)increased the total phenols,
+12,,,,"and rosmarinic acid content by 66.66% and 130.64%,",
+13,,,,"respectively. At the first harvest, the selenium content in the",
+14,,,,"leaves increased as a function of the dose used. In contrast, at the",
+15,,,,"second harvest, in addition to being lower than at the first cut, it",
+16,,,,did not differ between biofortified treatments.,
+17,'Superbo',Open field,Daily application by fertigation of nutrient solutions with KI or,Increasing concentrations of both iodine salts has gradually,Kiferle et al.
+18,,,"KIO at different concentrations (0, 0.1,1.0, and 10 mM).","enhanced the accumulation of iodine in the leaves, resulting in",2019
+19,,,,"increased antioxidant power, total phenols, and production of",
+20,,,,rosmarinic and cinnamic acid.,
+21,Tigullio',Greenhouse,Biofortification in a floating system with different concentrations,The foliar iodine content is increased with the iodine,Incrocci et al.
+22,'Red,,"of iodine in nutrient solution (0.1,10,50,100, and 200 uM",concentration in the nutrient solution. Both treatments (KI and,(2019)
+23,Rubin',,supplied as potassium iodide (KI) and potassium iodate (KIO).,KIO3) of 100 and 200 M resulted in an increase in the total,
+24,,,,phenol content and antioxidant capacity in the ripe leaves of,
+25,,,,both cultivars.,
+26,'Tonus',Greenhouse,Biofortification with sodium selenate applied in nutrient solution,"Compared to foliar treatment, the application in nutrient",Skrypnik
+27,,,"or as foliar spray at three different concentration levels (2.0, 5.0.","solution has increased the selenium content in the leaves,",et al.2019
+28,,,and 10 uM.,"essential oil, and total phenols content.",
+29,'Tigullio',Greenhouse,Floating system application of nutrient solutions containing,The use of biofortified nutrient solutions has induced a dose-,Puccinelli
+30,,,"different levels of sodium selenate (4, 8, and 12 mg L-).",dependent increase in selenium absorption rate. The selenium,et al.2017
+31,,,,concentration in leaves increased during the vegetative phase to,
+32,,,,decrease before and after flowering.,
+33,'Red Opal',Open Field,Foliar treatment with two concentrations of sodium selenate (25,Selenium biofortification generally resulted in a dose-dependent,Baratova
+34,,,and 50 mg m in function of cutting effect.,"increase in the total phenol content, while antioxidant activity",et al.2015
+35,,,,was only positively influenced after the first cut.,

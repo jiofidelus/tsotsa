@@ -1,0 +1,49 @@
+,0,1,2,3,4
+0,,,Fish/shellfish intake,Fish/shellfish intake,
+1,,,frequency(per,,
+2,,All,,,
+3,,n=,<8 times,8,
+4,Food groups,11478),n=,times,p-valueb
+5,,mean,9848),n=,
+6,,(SE),,1630),
+7,,,LS-,mean,
+8,,,meansa,(SE),
+9,,,(SE),,
+10,Total intact/cut fruits and juices,0.90,0.90,1.13,0.002
+11,(cup eq.),(0.02),(0.06),(0.08),
+12,"Total dark green, red/orange,",1.58,1.52,1.73,0.001
+13,"starchy,other vegetables",(0.02),(0.04,(0.07),
+14,excludes legumes (cup eq.),,,,
+15,Total whole and refined grains,6.80,7.0 (0.1),6.2,<0.0001
+16,oz.eq.),(0.05,,(0.2),
+17,Whole grains (oz. eq.),0.89,0.88,0.83,0.457
+18,,(0.03),(0.06),(0.08),
+19,Refined or non-whole grains (oz,5.91,6.10,5.33,<0.0001
+20,eq.),(0.05),(0.13),(0.16),
+21,"Total meat, poultry, seafood,",5.04,4.94,6.35,<0.0001
+22,organ/cured meat oz.eq.),(0.08),(0.19),(0.30),
+23,"Beef, veal, pork, lamb, game meat;",1.69,1.73,1.72,0.943
+24,excludes organ/cured meat (oz.,(0.04),(0.10,(0.15,
+25,eq.),,,,
+26,"Seafood (finfish,shellfish,other",0.17,0.13,0.41,<0.0001
+27,high in n-3 fatty acids (oz. eq.),(0.02),(0.02),(0.05,
+28,"Seafood (finfish, shellfish, other)",0.49,0.46,1.17,<0.0001
+29,low in n-3 fatty acids (oz. eq.),(0.04),(0.16,(0.17),
+30,Soy products;excludes calcium,0.09,0.09,0.09,0.939
+31,fortified soy milk/immature,(0.01),(0.01,(0.02),
+32,soybeans (oz.eq.),,,,
+33,"Eggs (chicken, duck, goose, quail)",0.57,0.55,0.70,0.0007
+34,and egg substitutes (oz. eq.),(0.02),(0.03),(0.05,
+35,"Total milk, yogurt, cheese, whey",1.63,1.57,1.41,0.001
+36,cup eq.,(0.02),(0.06),(0.07),
+37,"Solid fats: lard,tallow,and butter;",36.9,36.3 (0.3),32.8,<0.0001
+38,hydrogenated oils; shortening;,(0.4),,(0.7),
+39,palm/palm kernel/coconut,,,,
+40,oils; fats in coconut meat and,,,,
+41,cocoa butter; 50 % of fat in,,,,
+42,margarines (g),,,,
+43,Caloric sweeteners: syrups/sugars,18.3,18.5 (0.2),16.2,<0.0001
+44,(tsp eq.),(0.3),,(0.6),
+45,Alcoholic beverages and alcohol,0.89,0.76,1.17,0.001
+46,(ethanol added to foods after,(0.04),(0.18,(0.22),
+47,cooking (no. of drinks),,,,

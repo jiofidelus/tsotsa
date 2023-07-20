@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Method,Adsorbent,Compound, Sample type,LOD,LDR,ETa,Amount of,Adsorption,RSD%,RRb%,Ref.
+1,,,,,(ng,(ng mL-1),(min),sorbent,Capacity,,,
+2,,,,,mL-1),,,(mg),,,,
+3,MSPE-HPLC-UV,FeO4@TGA@TMU-6,CPS,Water and rice,1.0,10.0-100,30.0,2.0,-,4.87.1,88.0107.2,"(Shakourian et al.,"
+4,,,PHO,Water and rice,0.5,10.0-150.0,,,,,,2020)
+5,DSPE-GC-MSd,Fe3O4@CNTs,CPS,Milk,0.78,0.721000,5.0,40.0,0.55,6.48,-,"(Lago et al., 2020)"
+6,DSPE-DLLME-HPLC-DADe,C18,PHO,Milk,0.36,1.34-1000,11.0,50.0,-,3.3-5.2,79.092.0,"Zeiadi et al., 2020"
+7,-SPEGC-MSf,Monolithic,PHO,Apples,15, 502000,20.0,,,7.416.3,,"Bagheri et al.,2016"
+8,-SPEGC-MSf,polymers,PHO,Apples,15, 502000,20.0,,,7.416.3,,(Bahrami et al.
+9,TFME-CD-IMS$,PAN/amino-Zr-MOF,CPS,Water samples,0.6,2.0200,15.0,-,-,11,86.0109,2019)
+10,SMNMSBSE-LD-HPLC-UVh,Magnetic nanocomposites,CPS,Water samples,0.76,5.0800,42.0,,,2.06.4,85.0-97.0,"Gorji et al., 2019)"
+11,SMNMSBSE-LD-HPLC-UVh,Magnetic nanocomposites,PHO,Water samples,0.07,1.0-1000,42.0,,,2.06.4,85.0-97.0,"Gorji et al., 2019)"
+12,MMIPs-HPLCi,Fe3O4@SiO2,CPS,Rice sample,0.7,,10.0,5.0,171.12,2.47.3,83.6-90.5,"Ma and Chen,2014"
+13,MdSPE -CD-IMS,(Fe),PHO,vegetables,0.5,1.5-500,5.0,10.0,211,4.47.1,88.3-104.0,This work

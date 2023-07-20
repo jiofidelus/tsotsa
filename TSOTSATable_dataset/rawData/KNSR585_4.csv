@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,,Vegetable/time after processing (days),Concentration (g/g)a,,,
+1,,,-Carotene,Lutein,Violaxanthin,Neoxanthin
+2,Endive,Endive,,,,
+3,0,,27.5a,41.5a,16.9a,12.8a
+4,1,,25.2a,37.3b,16.0a,12.2a
+5,2,,24.1b,37.1b,15.8a,12.5a
+6,3,,21.6b,"35.8b,c",15.4a,11.6a
+7,5,,22.3b,32.6c,15.3a,11.7a
+8,,New Zealand Spinach,,,,
+9,0,,39.8a,53.5a,19.7a,15.5a
+10,1,,35.0b,44.1b,20.4a,15.9a
+11,2,,24.4c,38.5c,19.1a,11.8b
+12,3,,22.3c,37.4c,16.4b,11.6b
+13,5,,23.1c,36.4c,15.8b,11.8b

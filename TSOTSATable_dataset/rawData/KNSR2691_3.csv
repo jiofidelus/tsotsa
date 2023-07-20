@@ -1,0 +1,11 @@
+,0,1,2,3
+0,Food group,Number of,Foods with comparable calculate,
+1,,foods,and analyzed GI values*,
+2,"Baked goods: breads,rolls,taco shell,muffins,pancakes,cakes,cookies,pretzels",28,,21
+3,"Breakfast cereals: bran cereals, cornflakes, oat rings, rice crisps, puffed wheat, shredded wheat,",33,,23
+4,sweetened cereals,,,
+5,"Candy: chocolate bars,nut bars,jelly beans,hard candy",10,,9
+6,"Dairy products: chocolate milk,yogurt,ice cream,sweetened condensed milk",16,,9
+7,"Fruits: sweetened fruit juice, canned fruit",8,,7
+8,"Miscellaneous:spreads,baked beans,pizza",7,,4
+9,Total,102,,73

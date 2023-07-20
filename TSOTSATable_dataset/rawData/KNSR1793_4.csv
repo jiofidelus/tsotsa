@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,,Mixing ratio 1,Mixing ratio 2,Mixing ratio 3,Mixing ratio 4,Mixing ratio 5
+1,Rapeseed oil,90%,30%,50%,70%,90%
+2,Peanut oil,90%,70%,50%,30%,10%
+3,First result,46.56% co-ol,29.94% ra-pe,50.92% ra-pe,61.14% ra-pe,85.35% ra-pe
+4,Second result,11.88% ra-pe,35.03% so-ol,48.89% so-ol,56.13% so-ol,93.23% ra-co
+5,Judgement,Second correct,First correct,First correct,First correct,First correct
+6,,Mixing ratio 6,Mixing ratio 7,Mixing ratio 8,Mixing ratio 9,Mixing ratio 10
+7,Oliver oil,10%,30%,50%,70%,90%
+8,Corn oil,90%,70%,50%,30%,10%
+9,First result,86.90% co-ol,69.24% co-ol,49.75% co-ol,32.54% co-ol,12.39% co-ol
+10,Second result,77.67% se-so,37.91% pe-co,62.78% pe-co,85.07% pe-co,8.85% so-ol
+11,Judgment,First correct,First correct,First correct,First correct,First correct

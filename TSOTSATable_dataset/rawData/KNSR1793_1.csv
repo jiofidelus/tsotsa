@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,Peak notation,8(ppm) (Multiplicityb),Proton,,Assignment,Vegetable origin
+1,Aa,0.88(br),CHCHCH2-CH3,,All fatty acid (Except linolenic),ALLd
+2,B,0.96(t),CH=CH-CH-CH,,Linolenic,Soybean/Rapeseed
+3,c,1.57(br),CH-CH-COO,-,All fatty acid,ALL
+4,D,2.03(q),CH-CH=CH,,UFA(Except oleic),ALL
+5,,1.99(q),CH-CH=CH,,Oleic,ALL
+6,E,2.74(t),CH=CH-CH-CH=CH,,UFA(Except linolenic),ALL
+7,F,"4.18, 3.81(dd)","CH2-OCOR, CHOH sn-1,3",,"1,2-DG",Sesame
+8,G,"4.28, 4.11(dd)","CH2-OCOR sn-1,3",,TG,ALL
+9,H,"4.40, 3.99(dd)","CH2-OCOR sn-1,3",,"1,3-DG",ALL
+10,1,5.31(br),CH-CH=CH,,All UFA,ALL

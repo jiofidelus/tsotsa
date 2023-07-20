@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Components,[M-H],CID products,Samples,,,,,,
+1,,(m/z),(m/z),,,,,,,
+2,,,,EVOO,00,HO,so,EVOO+HO,EVOO+0O,EVOO+SO
+3,Fatty acids,,,,,,,,,
+4,Myristic,227,199,nda,nd,nd,nd,nd,,nd
+5,Palmitoleic,253,235,x,nd,nd,x,nd,nd,nd
+6,Palmitic,255,237,x,x,x,,,x,x
+7,Linolenic,277,259,x,nd,nd,,x,nd,nd
+8,Linoleic,281,261,x,x,x,x,x,nd,x
+9,Stearic,281,253,x,x,x,x,x,x,x
+10,Stearic,283,269,,nd,X,nd,X,X,
+11,Phenolic compounds,,,,,,,,,
+12,Gallic acid,169,151,nd,,nd,nd,nd,nd,nd
+13,Ferulic acid,193,165,X,,X,nd,x,X,x
+14,2-(4-Hydroxyphenyl),195,177,,,X,X,x,X,x
+15,ethyl acetate,,,,,,,,,

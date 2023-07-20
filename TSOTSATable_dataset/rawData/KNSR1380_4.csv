@@ -1,0 +1,38 @@
+,0,1,2,3,4,5
+0,Country/Region,Target population or subjects,Mean exposure to iAs,Study level,Study design,Reference
+1,,,(g kg-1day-1,,,
+2,Japan,">1 year,10 regions",0.25 (range 0.14-0.40),National,Composite sample,This study
+3,Japan,12 adults,0.62,Local,Duplicate diets,Mohri et al.1990
+4,Japan,35 adults,0.62,Local,Duplicate diets,Yamauchi et al.
+5,,,,,,(1992)
+6,Japan,25 female subjects in,0.13a,Local,Duplicate diets,Oguri et al.2012
+7,,Tokyo Metropolitan Area,,,,
+8,Japan,Pairs of pregnant women and their children in Tochigi and,0.65 for child,Local,Duplicate diets,Mise et al.2019
+9,,Hokkaido,0.24a for mother,,,
+10,Japan,Shizuoka,0.43b,Regional,Composite sample,Oguri et al.(2014
+11,Japan,319 adults from 5 regions,0.260,National,Duplicate diets,Hayashi et al.
+12,,,,,,(2019)
+13,Bangladesh,Women residing in Pabna,2.6c,Local,Duplicate diets,Kile et al.2007)
+14,"Hong Kong,",Adults aged 2084,0.22,Regional,Individual foods,Wong et al.(2013
+15,China,,,,,
+16,Spain,12 cities in Catalonia,0.50d,Regional,Individual foods,Marti-Cid et al.
+17,,,,,,(2008)
+18,France,"3-79 years, French population through stratification",0.30-0.39 for 3-17 years,National,Composite sample,Arnich et al.2012
+19,,,old,,,
+20,,,0.240.28 for 1879 years,,,
+21,,,old,,,
+22,Korea,>1year,0.7d,National,Composite sample,Lee et al.2006)
+23,United Kingdom,"4 age categories (1.54.5, 4-18, 1664, and >64 years), and",0.08-0.25 for 1.5-4.5,National,Composite sample,Rose et al.2010
+24,,vegetarians,years old,,,
+25,,,0.020.16 for >4.5 years,,,
+26,,,old,,,
+27,United States,Sixteen age/sex groups under different 9 scenarios,0.016-0.28,National,Simulation using,Jara and Winter
+28,,,,,database,(2014)
+29,EU,Based on 28 surveys from 17 European countries.,0.20-1.37 for <10 years,Continental,Simulation using,EFSA(2014
+30,,,old,,database,
+31,,,0.090.38 for >18 years,,,
+32,,,old,,,
+33,EU,Based on 44 different surveys carried out in 23 different,0.04-0.61 for<18 years,Continental,Simulation using,EFSA et al.(2021
+34,,European countries.,olde,,database,
+35,,,0.03-0.15 for 18 years,,,
+36,,,olde,,,

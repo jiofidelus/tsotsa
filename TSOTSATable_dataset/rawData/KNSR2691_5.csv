@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Ingredient,Serving size,Serving weight (g),ACHO(g) per,Ingredient GI,GL per ingredient serving
+1,,,,serving,(glucose reference),(ACHO per serving
+2,,,,,,ingredient GI/100)
+3,"Hamburger bun,white",1 bun,36,31.25,61a,19.1
+4,Hamburger patty,1 patty,71,0,0,0
+5,Catsup,2 tsp,13,3.10,72b,2.2
+6,Mustard, tsp,4,0.18,49c,0.1
+7,Pickles,2 slices,14,0.41,50d,0.2
+8,American cheese,1 slice,28,0.45,34e,0.2
+9,Total,,,,,21.8

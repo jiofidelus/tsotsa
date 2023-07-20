@@ -1,0 +1,25 @@
+,0,1
+0,Parameter,Value
+1,Linear range(mg L-1,1-10
+2,Linearity-solvent calibration curven=3,
+3,Regression equation-slope,0.023
+4,Regression equation- intercept,-0.003
+5,Coefficient of regression - R2,0.998
+6,Linearity-matrix-matched calibration curve(n=3),
+7,Regression equation-slope,0.023
+8,Regression equation-intercept,0.062
+9,Coefficient of regression - R2,0.994
+10,Precision - standard solution (%RSD; at 4 mg L),
+11,Intra-day precision-corrected peak area(n=3),4.51
+12,Intra-day precision-corrected migration time(n=3),0.12
+13,Inter-day precision-correctedpeakarea(n=9,5.03
+14,Inter-day precision-corrected migration time(n=9,0.71
+15,Precision-tomato-based sample(%RSD;n=15,
+16,Corrected peak area,4.95
+17,Corrected migration time,0.69
+18,Accuracy%n=3,
+19,Low level (2 mg L-1),1043.30
+20,Medium level(6 mg L-1,1012.51
+21,High level (10 mg L-1),1081.53
+22,Limit of detection (mg L-1a,0.09
+23,Limit of quantification (mg L-1,0.31

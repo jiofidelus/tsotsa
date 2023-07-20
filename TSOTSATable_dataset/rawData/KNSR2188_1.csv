@@ -1,0 +1,37 @@
+,0,1,2,3
+0,Electrode,Linear range,LOD,Ref.
+1,,(M),(M),
+2,APS-Au NPs/GCE,0.1-150,0.1,(Maduraiveeran and
+3,,,,"Ramaraj,2017)"
+4,Nanoporous gold,5-4000,0.33,"(Manikandan et al.,"
+5,microelectrode,,,2018)
+6,NiO nanoplatelet/GCE,16.2-610,8.8,"Sudha et al.,2018b"
+7,La3+doped Co3O4/SPE,0.7-1000.0,0.09,"(Beitollahi et al.,"
+8,,,,2019)
+9,LaFeO3/graphene/GCE,1-200,0.21,"Zhu et al.,2020"
+10,PTZIL/MWCNT/GCE,30-1177,9.3,(Manusha and
+11,,,,"Senthilkumar,2020"
+12,AgNPs@PANI/rGO/GCE,2.7-24.4,0.77,"(Kaladevi et al.,"
+13,,,,2020)
+14,PPY-CHI/GCE,50-1100,15.8,"(Adeosun et al.,"
+15,,,,2020)
+16,MIL-101(Cr)-CPE,2-70,0.98,(Tagueu Massah
+17,,,,"et al.,2021"
+18,Pt-Pd NPs/N-Gra/GCE,8-600,5.5,"Luo et al.,2021"
+19,Capillary microfluidic,78-2700,78,"Arroyo et al.,2022"
+20,platform-uTPAD,,,
+21,Flow system (MBL-VP),120-2500,97,"(Kraikaew et al.,"
+22,,,,2019)
+23,PRA-formaldehyde-sulfate,1.62-408,0.5,Almeida et al.
+24,reaction,,,2018)
+25,FIA-FAAS,6.2-312,1,"(Zare-Dorabei et al.,"
+26,,,,2018)
+27,,62-312,41,"(Ayuning Tyas et al.,"
+28,FIA Contactlessconductivity,,,2020)
+29,(C4D),,,
+30,Potentiometric sensor based,2-2300,1.1,(Abd-Rabboh et al.
+31,on MWCNTs,,,2021)
+32,Fluorescent probe,0.1-50.0,0.53,"Yao et al.,2018"
+33,A near-infrared fluorescent,0-14,0.17,"(Chao et al.,2021"
+34,probe,,,
+35,Ce3+-doped CuO/SPE,0.6-400,0.08,This study

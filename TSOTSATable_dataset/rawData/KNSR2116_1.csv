@@ -1,0 +1,10 @@
+,0,1
+0,Parameter,Value
+1,"Buffer solution type, amount","pH 2.0,0.50 mL"
+2,Sample volume,15mL
+3,Zr-NPs amount,20 mg
+4,"Mixing type, period","Vortex,60 s"
+5,"Eluent type, volume",Concentrated HCl100 l
+6,Sample flow rate of FAAS,4.5mL min-1
+7,Acetylene flow rate of FAAS,15.0L h-1
+8,"SQT type,height","3 holes SQT,0.0mm"

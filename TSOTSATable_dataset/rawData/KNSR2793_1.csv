@@ -1,0 +1,33 @@
+,0,1,2
+0,,Set-up A,Set-up B
+1,MHS-SPME,Divinylbenzene/Carboxen/,Divinylbenzene/Carboxen/
+2,devices,Polvdimethylsiloxane(DVB/,Polydimethylsiloxane(DVB/
+3,,CAR/PDMS)df50/30um fiber,CAR/PDMS)df50/30um fiber
+4,,1cm,2 cm
+5,MHS-SPME,Standard-in-fiber pre-loading,Standard-in-fiber pre-loading
+6,conditions,5uLISs MIXTURE 20 mL Vial,5 uL ISs MIXTURE 20 mL Vial
+7,,"50C,5 min",50C-5 min
+8,,Hazelnut granella sampling,Hazelnut granella sampling
+9,,250 0.5 mg granella 20 mL,25 0.3 mg granella 20 mL
+10,,"Vial 50C,50 min",Vial50C-10 min
+11,GC-MS full,100% polyethylene glycol,100% polydimethylsiloxane
+12,scan,column (SolGel-WaxTM Trajan,"(DB1 from J&W,Santa Clara,"
+13,profiling,"Scientific,Ringwood",CA)
+14,,Australia),10 m 0.10 mm dc0.40um
+15,,"30m  0.25mm dc,0.25um",d)
+16,,df),
+17,,He carrier 1.0 mL/min,He carrier 0.4 mL/min
+18,,Oven programming:40C(1,Oven programming: 50C (1
+19,,minto 180C at3C/min and,min) to 260C at 20C/min
+20,,to 260C at15C/min5 min,and to 280C at 30C/min (3
+21,,,min)
+22,,Injector Temperature:250C,Injector Temperature:250C
+23,,Injection mode:split(split ratio,Injection mode: pulsed split
+24,,1:10,split ratio 1:10)
+25,,Fiber desorption time:5 min,"Pulsed pressure 195kPa,2 min"
+26,,,Fiber desorption time:2 min
+27,,EI-MS at 70 eV,EI-MS at 70 eV
+28,,m/z 40-300 at 1000 amu/sec,m/z 40-300 at 6200 amu/sec
+29,Analysis time,115 min for a single run,28 min for a single run
+30,and samples,55 min in sequence overlap,18 min in sequence overlap
+31,throughput,26 samples/day,80 samples/day

@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6,7,8
+0,,Calibration set,,,,Validation set,,,
+1,,Sample number,Rangea,Meana,S.D.,Sample number,Rangea,Meana,S.D.
+2,Lutein,123,0.044-2.223,0.561,0.466,28,0.104-1.699,0.807,0.509
+3,-Carotene,122,0.006-4.852,1.057,1.051,29,0.046-3.674,1.527,1.135

@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6
+0,,Mo-CS (50:50),Mo-CS (60:40),Mo-CS (70:30),Mo-CS (80:20),Mo-CS (90:10),Mo
+1,Polyphenols,,,,,,
+2,Total anthocyanin (mg/L),420a.b,451b,451b,453b,"437a,b",406a
+3,Monomers (%),76.2c,77.5c,72.6b,71.3b,72.3 b,64.8a
+4,Red polymers (%),"14.4a,b",13.6a,16.4c,"15.3b,c","14.7a,b",19.6d
+5,Brown polymers (%),9.35a,9.00a,"11.1a,b",13.4c,"12.9b,c",15.5d
+6,Folin-Ciocalteu index (mg gallic acid/L,2420b,"2370a,b",2180a,"2270a,b",2170a,"2240a,b"
+7,Tannins (mg gallic acid/L),"1450b,c","1400a,b","1430b,c","1390a,b",1300a,1520c
+8,Individual anthocyanins (mg/L),,,,,,
+9,Delphinidin-3-glucoside,8.75a,14.0c,14.3c,12.2b,11.3b,15.9d
+10,Cyanidin-3-glucoside,2.18a,3.34b,4.07c,"3.56b,c",3.34b,5.64d
+11,Petunidin-3-glucoside,15.2a,26.5c,"24.5b,c",22.1b,22.0b,31.5d
+12,Peonidin-3-glucoside,7.65a,"14.5b,c",15.7c,13.9b,15.0b.c,21.4d
+13,Malvidin-3-glucoside,191a,296d,209b,210b,210b,274c
+14,Anthocyanins sum,224a,355c,268b,262b,261b,348c
+15,OH/MeOH ratio,5.12a,5.12a,7.35d,6.39c,5.95b,6.58c
+16,Df-3-G/Pn-3-G ratio,1.15d,0.96c,0.91b,0.88b,0.75a,0.74a
+17,Color parameters,,,,,,
+18,OD 420 nm,3.76a,3.87a,4.43b.c,4.59c,4.37b,"4.48b,c"
+19,OD 520 nm,7.03a,7.38a,8.68b,8.75b,8.37b,8.45b
+20,OD 620 nm,1.28a,1.27a,1.62b.c,1.71d,1.57b,"1.67c,d"
+21,H*,26.0d,26.3d,21.8b,20.6a,22.3c,20.3a
+22,C*,48.9c,49.7c,43.3b,41.7a,44.0b,40.9a
+23,L*,12.5d,12.8e,9.33b,8.51a,9.72c,8.24a
+24,E*ab,10.1,11.0,2.82,0.85,3.75,

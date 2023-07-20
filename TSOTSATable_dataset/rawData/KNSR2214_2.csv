@@ -1,0 +1,5 @@
+,0,1,2
+0,Mobile Phase (B%),Fractions,Volume (mL)
+1,From 5 % to 10 %,1-10,51
+2,From 10 % to 100 %,11-61,255
+3,100%,62-71,51

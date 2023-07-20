@@ -1,0 +1,40 @@
+,0,1,2,3,4
+0,Sample,Analyte,Supercritical fluid,SFE conditions,Reference
+1,,,,"(temperature, pressure,",
+2,,,,flow rate),
+3,Tomato,All-trans-lycopene,CO without modifier,T=40C,Gomez-Prieto et al.2003
+4,,,,Pressure:281 bar,
+5,,,,Flow rate:4mL/min,
+6,Tomato seeds and skins,"Lycopene,-carotene,",COwithout modifier,T=86C,Rozzi et al.2002
+7,,"carotene,-tocopherol,-",,Pressure:345 bar,
+8,,"tocopherol, and -",,Flow rate2.5mL/min,
+9,,tocopherol,,,
+10,Vitamin supplements and,Vitamin A and -carotene,COwithout modifier,Dry carotene beadlets:,Burri et al. (1997)
+11,calf liver tissue (dry,,,T=40C,
+12,"carotene beadlets, liver",,,Pressure: 310 bar,
+13,samples),,,Flow rate:2mL/min,
+14,,,,Liver samples:,
+15,,,,T=80C,
+16,,,,Pressure:310 bar,
+17,,,,Flow rate: 2 mL/min,
+18,Algae Dunaliella bardawil,Geometrical isomers of -,CO without modifier,T=40C,Gamlieli-Bonshtein et al.
+19,,Carotene,,Pressure: 448 bar,(2002)
+20,,,,Flow rate:0.5-1 mL/mir,
+21,Tomato paste waste,Lycopene and -carotene,CO and 5% EtOH as,T=55Clycopene,Baysal et al.2000
+22,,,modifier,T=65C-carotene,
+23,,,,Pressure: 300 bar,
+24,,,,Flow Rate:4 kg/h,
+25,"Vegetables(carrots,collard",-and -carotene,CO and EtOH as,T=40C,Marsili and Callahan
+26,"greens, turnip greens, kale",,modifier,Pressure 342bar,(1993)
+27,"mustard greens,broccoli",,,Flow rate: 1.5 mL/min,
+28,"flowerets, zucchini, and",,,,
+29,yellow squash),,,,
+30,Spirulina Pacifica algae,"-carotene, -",COand 15%EtOH as,T=80C(zeaxanthin,Careri et al.2001
+31,,cryptoxanthin and,modifier,T=76C-,
+32,,zeaxanthin,,cryptoxanthin),
+33,,,,T=60C-carotene,
+34,,,,Pressure:350 bar,
+35,,,,Flow rate: 2mL/min,
+36,Carrots (Daucus carota L.,-and -carotene,CO and 5%,T=40C,Chandra and Nair (1997
+37,var.Caro Pride,,chloroform as modifier,Pressure:606bar,
+38,,,,Flow rate: 1 mL/min,

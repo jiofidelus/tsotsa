@@ -1,0 +1,12 @@
+,0,1,2,3
+0,Plant extracts/pure,Units,EC50,
+1,compounds,,,
+2,,,30 min,2h
+3,Lemon (juice),L/mg DPPH,121.51.7a,127.95.7a
+4,Pomegranate(juice),pL/mg DPPH,52.90.4a,40.5  0.4b
+5,Java green tea (infusion),L/mg DPPH,36.11.3a,29.5  0.4b
+6,Rosemary(essential oil),mL/mg DPPH,1.500.11a,1.190.02b
+7,Gallic acid,mol/mg DPPH,0.2720.003a,0.2510.063b
+8,BHT**,mol/mg DPPH,6.140.15,
+9,L-Ascorbic acid,mol/mg DPPH,0.810.03,
+10,Epigallocatechin gallate,mol/mg DPPH,0.3650.05a,0.353  0.003b

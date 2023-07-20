@@ -1,0 +1,11 @@
+,0,1,2
+0,Parent acid,Carbon no.,Irradiation product
+1,Capric,C10:0,2-Hexylcyclobutanone
+2,Lauric,C12:0,2-Octylcyclobutanone
+3,Myristic,C14:0,2-Decylcyclobutanone
+4,Palmitic,C16:0,2-Dodecylcyclobutanone
+5,Palmitoleic,C16:1,Cis-2-dodec-5'-enylcyclobutanone
+6,Stearic,C18:0,2-Tetradecylcyclobutanone
+7,Oleic,C181,Cis-2-tetradec-5'-enylcyclobutanone
+8,Linoleic,C18:2,"Cis,cis-2-tetradecyl-5',8'-dienylcyclo butanone"
+9,Linolenic,C18:3,"All-cis-2-tetradecyl-5',8',11'-trienylcyclobutanone"

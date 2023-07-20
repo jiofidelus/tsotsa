@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6,7,8
+0,,Source,Allowable total error,Allowable total error,,,Laboratory,,Sigma
+1,Reference,,Bias,CV,,TEa,Bias,CV,
+2,Oseredczuk et al. (2009),,15.0,3.9,1.65,21.44a,-,,-
+3,Dias et al. (2009),(P41),-,,-,-,9.75,3.00,3.90b
+4,Kim et al. (2007),(P42),-,-,-,,9.00,5.00,2.49b
+5,Feliciano et al. (2010),(P43),-,,,-,11.25,3.20,3.18b
+6,,Aggregate,-,-,-,-,,-,3.24c

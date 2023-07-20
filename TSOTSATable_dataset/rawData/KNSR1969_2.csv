@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6
+0,Product name,Sources,Molecular,Determination techniques,Column,Mobile phase,References
+1,,,weight(kDa),,,,
+2,Lentinan,Lentinus edodes,913 and 965,GPC,TSK G-5000 PW XL,0.02M phosphate,Huang et al.(2012)
+3,,,,,,"bufferKHPO4,pH 6.0",
+4,-Glucan,Pleurotus sajor-caju,975,HPSEC,Sepharose CL-4B,0.1 M NaNO3,Carbonero et al.
+5,,,,,,containing,(2012)
+6,,,,,,0.5 g L-1 NaN3,
+7,,,45,HPSEC,Sepharose CL-6B,Distilled water,Satitmanwiwat
+8,,,,,1.560.0cm),,et al.2012
+9,Ganoderan,Ganodema lucidum,103,HPGPC,Ultrahydrogel 500,0.003 M NaOAc,Dong et al.2012
+10,Grifolan,Grifola fondosa,300,HPGPC,Ultrahydrogel500,10 mM NaOH,Fang et al.(2012)
+11,Krestin,Coriolus versicolor,750,GFC,Sepharose CL-4B,0.1 M NaNO3,Kang et al.2013
+12,,,,,,containing,
+13,,,,,,0.5 gL-1 NaN3,
+14,-Glucan,Auricularia auricula,34-288,SEC combined static laser,TSK-GEL G4000 PW XL,0.1 M NaCl,Ma et al.2008
+15,,,,light scattering,7.8 mm 300mm),,
+16,,,2070-2150,SEC combined static laser,ShodexOHpak SB-806 M,0.9% aqueous NaCl,Xu et al.2012
+17,,,,light scattering,HQ8.0 mm300 mm),,
+18,-Glucan,Poria cocos,91,SEC combined with laser,TSK-GEL G5000,Phosphate buffer,Wang et al.2004
+19,,,211,light scattering,7.8 mm 300 mm),solution,
+20,,,1211,SEC combined with laser,TSK-GEL G5000,0.5 M NaCl,Jin et al. (2003)
+21,,,,light scattering,(7.8 mm 300 mm),,

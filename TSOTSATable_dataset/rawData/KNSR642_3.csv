@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Peak,HPLC-DAD,,,MS/MS Fragments,Tentative identification,Tentative identification,Relative percentage (mean  standard deviation),Relative percentage (mean  standard deviation),Relative percentage (mean  standard deviation)
+1,,,,,,,,Extraction solvents,,
+2,,Rt(min),Amax (nm),MS,MS2,Aglycone,Anthocyanin,MetOH:H2O:CHO2,NADES 6,Water:1% citric acid
+3,1,3.4  0.2,523,465,303,Dp,Dp-3-gal,18.0  1.0,17.9  0.1,14.1  0.1
+4,2,7.1  0.5,517,435,303,Dp,Dp-3-ara,10.6  1.3,11.5 1.5,9.1  0.6
+5,3,7.1  0.5,525,479,317,Pt,Pt-3-glc,14.7  0.5,11.8 0.1,10.00.1
+6,4,8.2  0.1,-,-,-,NI*,NI*,0.5  0.1,0.7  0.0,0.8  0.0
+7,5,11.1  0.9,517,449,317,Pt,Pt-3-ara,5.3  0.4,5.8  0.2,4.7  0.0
+8,6, 0.6,522,493,331,Mv,Mv-3-gal,29.9  0.5,26.6  0.2,28.4  0.2
+9,7, 0.1,-,,-,NI*,NI*,1.0  0.1,1.7  0.7,3.1 0.5
+10,8, 0.4,528,463,331,Mv,Mv3-ara,14.3  0.0,18.2  0.5,19.6  0.1
+11,9, 0.9,-,-,11,NI*,NI*,1.6  0.0,1.7  0.0,2.0  0.0
+12,10,17.4  0.9,501,475,11,NI*,NI*,4.2  0.0,4.2  0.6,8.3  0.2

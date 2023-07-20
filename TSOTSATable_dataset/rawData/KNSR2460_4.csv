@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Crude,Polysaccharide,Number,Weight,Polydispersity
+1,polysaccharide,fractions,average,average,index
+2,,,molecular,molecular,
+3,,,weight (Mn),mass(Mw),
+4,,,(g/mol),(g/mol),
+5,Armillaria,I,3.79  107,9.92  107,2.61
+6,mellea,II,3.70106,5.38 106,1.45
+7,,III,3.20  104,4.14 104,1.29
+8,Boletus edulis,I,8.89  106,2.00108,22.6
+9,,II,3.28  104,4.12  104,1.25
+10,Cantharellus,II,1.33107,4.8410,3.62
+11,cibarius,III,4.12  104,5.42  104,1.31

@@ -1,0 +1,66 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Compound,Compound Name,Adduct,Precursor,Chemical,a#tR,btA,c#MSE,APoly-,APoly-,TWCCSN2,References
+1,number,,,m/z,formulae,(min),(ms),,APoly-,APoly-,A2 in,
+2,,,,,,,,, DL-alanine,L-malic,Literature,
+3,,,,,,,,,calibrant,acid,,
+4,,,,,,,,,,calibrant,,
+5,,Piscidic acid,[M-,255.0499,C11H12O7,1.48,1.66,255->,145.2,151.7,145.7,"(Stander et al.,"
+6,,,H],,,,,165.0522;,,,(TWCCSN2),2017)
+7,,,H],,,,2.14,72.9512,165.5,170.0,(TWCCSN2),"(Stander et al.,"
+8,2,Caffeoyl-O-hexose,[M-,341.0885,C15H18O9,2.00,2.14,179.0357;,165.5,170.0,(TWCCSN2),"(Stander et al.,"
+9,,,H],,,,,179.0357;,165.5,,(TWCCSN2),2017
+10,,,,,,,,135.0343,,,,
+11,3,Phenylpyruvic acid-,"HI""",325.0909,C15H1gOg,2.19,2.21,163.0219;,164.8,173.1,173.7 or,Joubert et al.
+12,,O-glucoside (PPAG),"HI""",,,,,163.0219;,,,(TWCCSN2),2013;Stander
+13,, isomer 1,,,,,2.90,119.0592,193.1,194.5,(TWCCSN2),"et al., 2017)"
+14,,Eriodictyol-C-,[M.,449.1080,C21H22O11,2.60,2.90,329.0560;,193.1,194.5,191.6 or,"(Stander et al.,"
+15,,,H],,,,,193.0125;,,,193.0,
+16,,,,,,,,135.0348,,,TWCCSN2),
+17,5,Eriodictyol-C-,[M-,449.1085,C21H22O11,2.70,2.90,329.0577;,193.1,194.5,191.6 or,"(Stander et al.,"
+18,,hexose,H],,,,,193.0125;,,,193.0,2017
+19,,,,,,,,135.0434,,,TWCCSN2),
+20,,Eriodictyol-C-,[M.,449.1080,C21H22O11,2.83,2.90,449->,193.1,194.5,191.6 or,"(Stander et al.,"
+21,,hexose,H],,C21H22O11,2.83,,193.0177;,193.1,194.5,193.0,2017
+22,,,,,,,,135.0679,,,TWCCSN2),
+23,,Phenylpyruvic acid-,[M-,325.0920,C1sH1gOg,2.90,2.21,325->,164.8,173.1,173.7 or,(Joubert et al.
+24,,O-glucoside (PPAG),H],,,,,163.0427;,,,169.0,2013; Stander
+25,,isomer 2,,,,,,119.0514,,,TWCCSN2),"et al., 2017)"
+26,8,Isoorientin,[M-,447.0911,C2H20O11,2.98,3.11,357.0606;,200.3,201.0,TWCCSN2),McCullagh
+27,,(Luteolin-6-C,H],,,,,357.0606;,,,TWCCSN2),McCullagh
+28,,glucoside),,,,,,327.0253;,,,,"et al., 2019)"
+29,,,,,,,,297.0404,,,187.7,"et al., 2019)"
+30,9,Orientin (Luteolin-,[M-,447.0916,C21H2oO11,3.02,2.83,357.0787;,190.6,192.4,(TWCCSN2),McCullagh
+31,,8-C-glucoside),H],,C21H2oO11,,,327.0487;,,,(TWCCSN2),McCullagh
+32,,,,,,,,327.0487;,,,,"et al.,2019)"
+33,,,,,,,,299.0526,,194.6,191.6,
+34,10,Aspalathin (3.,[M.,451.1238,C21H24O11,3.08,2.90,451->,193.1,194.6,191.6,Standard;(de
+35,,3'-C-glucoside),H],,,,,209.0578;,,,,2015; Stander
+36,,,,,,,,209.0578;,,,,"et al.,2017"
+37,,,,,,,,167.0308,,,,
+38,11,PPAG derivative,H],469.1320,C21H26O12,3.14,2.97,325.0920;,195.3,196.5,194.4,2013; Stander
+39,,isomer 1,H],,,,,325.0920;,,,TWCCSN2),2013; Stander
+40,,,,,,,,163.427;,,,,"et al., 2017)"
+41,,,,,,,,119.0514,,,(TWCCSN2),Standard; (
+42,,,,,,,,609->,,,(TWCCSN2),Gonzales et al.
+43,12,Rutin (Quercetin-3-,[M-,609.1434,C27H3oO16,3.23,4.21,300.0436;,231.9,228.6,(TWCCSN2),"et al., 2017;"
+44,12,O-rutinoside),H],609.1434,C27H3oO16,3.23,4.21,300.0436;,231.9,228.6,(TWCCSN2),"et al., 2017;"
+45,,,,,,,,271.0160,,,230.6,"Yang et al.,"
+46,,,,,,,,,,,TWCCSN2),2018
+47,,Vitexin (Apigenin-8.,[M-,,C2H2oO10,,,311.0550;,,,188.8,Standard; (
+48,13,C-glucoside),H]~,431.0928,C2H2oO10,3.25,2.83,283.0457,190.9,192.7,(TWCCSN2),McCullagh
+49,,C-glucoside),H]~,,,,,283.0457,,,(TWCCSN2),"et al.,2019"
+50,,Isovitexin,,,,,,431->,,,,Standard; (
+51,14,(Apigenin-6-C-,"H]""",431.0981,C21H2oO10,3.34,3.04,311.0594;,198.2,199.2,TWCCSN2),McCullagh
+52,,glucoside),"H]""",,,,,283.0714,,,,"et al.,2019"
+53,,,,,,,,463->,,,,
+54,15,(Quercetin-3-O,[M.,463.0870,C21H2oO12,3.37,3.11,300.0172;,200.1,200.8,201.9,"Wang et al.,"
+55,,galactoside),H],,,,,271.0574;,,,(TWCCSN2),2018)
+56,,,,,,,,255.0330,,,,
+57,,,,,,,,301.0329;,,,,
+58,16,(Quercetin-3-O,[M-,463.0884,C21H2oO12,3.42,3.11,300.0240;,200.1,200.8,(TWCCSN2),Gonzales et al.
+59,,glucoside),H],463.0884,C21H2oO12,3.42,,271.0167;,200.1,200.8,(TWCCSN2),2016
+60,,,,,,,,255.0647,,,,
+61,,Luteolin-7-O-,[M.,,,,,447->,,,209.3,Standard; (
+62,17,glucoside,H],447.0943,C21H2oO11,3.44,3.31,285.0420;,206.9,206.9,TWCCSN2),"Yang et al.,"
+63,,glucoside,H],,C21H2oO11,,,284.0193,,,194.4,2018)
+64,18,isomer 2,"H]""",469.1349,C21H26O12,3.54,2.97,325.0920;,195.3,196.5,TWCCSN2),2017

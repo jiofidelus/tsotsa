@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,HPLC retention,TAG structure(Information from HPLC-MS,C16:0,C18:0,C18:1,C18:2,C18:3
+1,time (min),,,,,,
+2,28.13,Mixture of Trilinoleoyl-glycerol LLL* (linolenoyl-linoleoyl-palmitoyl-glycerolLnLP*),10.09,0.00,20.70,63.65,5.55
+3,,and Dilinoleoyl-oleoyl-glycerol LLO*,,,,,5.55
+4,29.30,Dilinoleoyl-oleoyl-glycerolLLO* (Dilinoleoyl-palmitoyl-glycerol LLP*),2.45,0.00,30.87,65.89,0.80
+5,30.43,Dioleoyl-linoleoyl-glycerolLOO* (linoleoyl-palmitoyl-oleoyl-glycerol LPO*),4.75,0.18,62.05,33.02,0.00
+6,31.55,Trioleoyl-glycerol 000*,1.84,0.28,97.08,0.80,0.00

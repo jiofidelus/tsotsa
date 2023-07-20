@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Traits,,Average  SD,Maximum,Minimum
+1,,Leaf petiole length (mm),17.9  7.3,33.2(220),6.2
+2,Leaf,Leaf length (cm),12.3  2.3,22.8(764),3.0
+3,,Leaf width (cm),5.81.1,9.0(330),3.0
+4,Plant,Canopy spread (cm),82.155.3,325.0(703),10.0
+5,Plant,Tree height (m),2.14 0.78,5.1(744),0.6
+6,Stem,Trunk circumference (cm),9.4  6.7,25.0(747),1.1
+7,Yield,Peel: stem ratio,0.160.13,1.44(095),0.001
+8,Yield,Yield (kg/stem),0.168 0.179,2.358(033),0.010

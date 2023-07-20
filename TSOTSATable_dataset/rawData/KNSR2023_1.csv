@@ -1,0 +1,9 @@
+,0,1,2,3
+0,COP standards,Linearity range,Calibration equation,Correlation
+1,,(g),,coefficient (r)
+2,7a-Hydroxy,0.008-0.122,y=1.2794x-0.0007,0.9999
+3,7-Hydroxy,0.025-0.245,y=1.3735x-0.0067,0.9998
+4,-Epoxy,0.099-0.694,y=0.9219x-0.0027,0.9971
+5,-Epoxy,0.102-0.713,y=0.7082x+0.0016,0.9990
+6,Triol,0.051-0.303,y=2.9507x-0.1519,0.9928
+7,7-Keto,0.008-0.281,y=1.084x-0.0047,0.9965

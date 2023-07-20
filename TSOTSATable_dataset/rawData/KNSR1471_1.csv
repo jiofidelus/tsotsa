@@ -1,0 +1,16 @@
+,0,1
+0,Parameter,Value
+1,Plasma,
+2,Radiofrequency power,1550 W
+3,Radiofrequency matching,1.8V
+4,Argon flow rate,15L/min
+5,Auxiliary argon flow rate,1.10 L/min
+6,Sample depth,5.5 mm
+7,Collision/reaction cell,
+8,He flow rate,2.0 mL/min
+9,Octapole bias,-18V
+10,Octapole radio frequency,180V
+11,Energy discrimination,3V
+12,Data acquisition,
+13,Monitored isotopes (ICP-MS),"56Fe,63Cu,66Zn,77Se"
+14,Wavelength (Vis-UV,280 nm

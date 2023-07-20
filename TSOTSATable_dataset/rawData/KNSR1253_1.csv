@@ -1,0 +1,76 @@
+,0,1,2,3,4,5,6,7,8
+0,Food,Number of sample,Number of sample,Number of sample,,,,,Preparation method
+1,,Total, Season,,Regions,,,,
+2,,,Winter,Summer,South,West,North,East,
+3,Barley (Hordeum vulgare L.),19,10,9,5,L5,5,6,Weight 100 g of each purchased samples
+4,Rice (Oryza sativa),21,10,11,5,L5,5,6,Cook at unsalted distilled water
+5,"Legumes (Soya, cowpea, chickpea, broad",169,83,86,40,42,43,44,Mix together thoroughly using blender
+6,"bean, red bean, white bean, lentil, Split",,,,,,,,
+7,pea),,,,,,,,
+8,Industrial breads,31,16,42,7,,19,8,Weight 100 g of each purchased samples
+9,"Traditional breads (Sangak, Taftoon,",82,40,42,20,21,19,22,Dried in an oven at 60 C for 24 h
+10,"Barbari, Lavash)",,,,,,,,Weight before and after heating
+11,,,,,,,,,"Powder and mix together using grinder mill (Moulinex, LM 30114A)"
+12,Pistachio (Pistacia vera),19,11,8,5,4,L5,5,Weight 100 g of each purchased samples
+13,Almond (Prunus dulcis),19,10,9,4,5,L5,5,"Remove hard shell, chop and mixed together using grinder mill"
+14,,,,,,,,,"Moulinex,LM30114A"
+15,Apple (Rosaceae),21,11,10,64,L557,L1L6,,One sample with a medium size and degree of ripeness
+16,,,,,,,,5,
+17,Apricot (Prunus armeniaca),19,,19,64,L557,L1L6,5,Wash and drain on absorbent paper
+18,Pears(Pyrus),17,,17,4,L557,L1L6,3,Remove seeds
+19,Peaches (Prunus persica),25,,25,6,L557,L1L6,6,"Chop and mix together using blender(Moulinex,LM 30114A)"
+20,Plums (Prunus domestica),27,,18,,,,,
+21,Cantaloupe (Cucumis melo),18,-,18,4,L57,4567,5,"Weight 500 g of each purchased samples, with a medium degree of"
+22,Melon(Cucumis melo),19,-,19,4,L57,4567,4,"ripeness,remove the skin and seeds"
+23,Cherries (Prunus avium) *,28,,28,7,8,4567,7,"Chop and mix together using blender (Moulinex, LM 30114A)"
+24,Cherries (Prunus avium) *,28,,28,7,8,4567,6,"Combine 300 g of purchased samples,remove stalks"
+25,Grapes,19,10,9,5,5,5,4,"Chop and remove seeds, mix together using blender (Moulinex, LM"
+26,,,,,,,,,30114A
+27,Lemons (Citrus Limon),30,16,14,7,8,85,7,One sample with a medium size and degree of ripeness
+28,Orange (Citrus sinensis),22,22,,6,6,85,5,Remove the skin and seeds
+29,Tangerine (Citrus tangerina),19,19,11,5,5,45,5,"Chop and mix together using blender (Moulinex, LM 30114A)"
+30,Pomegranate (Punica granatum),17,17,11,4,4,45,4,"One sample with a medium size and degree of ripeness, remove the"
+31,,,,,,,,,"outer skin,mix together using blenderMoulinex,LM 30114A"
+32, Banana (Musa acuminate),20,11,9,6,,4,5,"One sample with a medium size and degree of ripeness, remove the"
+33,Kiwi (Actinidia deliciosa),19,19,19,4,,,5,"outer skin,mix together using blender(Moulinex,LM 30114A"
+34,Figs (Ficus carica),19,,19,5,,,5,"Combine 300 g of purchased samples,with a medium degree of"
+35,,,,,,,,,ripeness
+36,,,,,,,155,,"Mash and mix together using hand blender (Moulinex, DD 100147)"
+37,Industrial fruit juice,19,9,10,5,5,155,,"One package, shake the bottles several times to mix the content"
+38,"Green leafy vegetables (Basil, parsley,",233,113,120,60,55,155,61,"Weight 100 g of each purchased sample, remove stalks below the"
+39,"coriander, cress, dill, fenugreek, leek,",,,,,,,,leaves
+40,"mint, tarragon, spinach)",,,,,,,,Wash and drain on absorbent paper
+41,,,,,,,,,"Chop and mix together using grinder mill (Moulinex, LM 30114A)"
+42,Lettuce(Lactuca sativa),41,19,21,971,10,,12,Remove shriveled outer leaves or roots if any
+43,Cabbage (Brassica oleracea capitata),33,16,21,971,,,9,Wash and drain on absorbent paper
+44,Cauliflower (Brassica oleracea botrytis) *,19,19,,971,,,5,"Weight 100 g of each purchased lettuce, including both outer and"
+45,,,,,,,,,inner leaves
+46,,,,,,,,,"Chop and mix together using grinder mill (Moulinex, LM 30114A)"
+47,Celery (Apium graveolens),21,12,9,5,5,5,6,"Remove base of stalk, weight 100 g of each purchased sample"
+48,,,,,,,,,Wash and drain on absorbent paper
+49,,,,,,,,,"Chop and mix together using grinder mill (Moulinex, LM 30114A)"
+50,Radish (Raphanus sativus),22,12,10,,55,L5,6,"Combine 100 g of purchased samples, remove top, tail and leaves if"
+51,Scallion (Allium cepa),19,10,9,,55,L5,4,any
+52,,,,,,,,,Wash and drain on absorbent paper
+53,,,,,,,,,"Chop and mix together using grinder mill (Moulinex, LM 30114A)"
+54,Green Pea (Pisum sativum),19,-,18,,57,58,5,"Combine 100 g of purchased samples,remove outer skin"
+55,Carrot (Daucus carota sativus),33,15,18,,57,58,9,Cook at unsalted distilled water
+56,,,,,,,,,"Chop and mix together using hand blender(Moulinex,DD 100147)"
+57,Turnip (Brassica rapa)*,20,25,,6,7,5,6,"One sample with a medium size and degree of ripeness, remove top"
+58,Beetroot (Beta vulgaris),20,20,,6,4,5,5,and tail
+59,,,,,,,,,Wash and drain on absorbent paper
+60,,,,,,,,,Cook at unsalted distilled water
+61,,,,,,,,,"Chop and mix together using blender (Moulinex, LM 30114A)"
+62,Potato (Solanum tuberosum) (Cooked or,28,15,13,7,7,6,8,"One sample with a medium size,wash and drain on absorbent paper"
+63,fried),,,,,,,,Peel and cook at unsalted distilled water (or fry in soy bean oil and
+64,,,,,,,,,"drain by oil-absorbent paper), Chop and mix together using hand"
+65,,,,,,,,,"blender(Moulinex,DD 100147"
+66,Tomato (Solanum lycopersicum),39,19,20,9,11,9,10,"One sample with a medium size, remove top"
+67,,,,,9,,,,Wash and drain on absorbent paper
+68,,,,,,,,,"Chop and mix together using blender (Moulinex, LM 30114A)"
+69,Cucumber (Cucumis sativus),41,20,21,11,11,9,10,"One sample with a medium size,remove top and tail"
+70,,,,,,,,,"Chop and mix together using blender (Moulinex, LM 30114A)"
+71,Zucchini (Cucurbita pepo cylindrica),24,12,12,6,57,6,7,"One sample with a medium size, wash and drain on absorbent paper"
+72,Eggplant (Solanum melongena) (Cooked,27,14,13,6,57,6,8,Cook at unsalted distilled water (or fry in soy bean oil and drain by oil-
+73,or fried,,,,,,,,"absorbent paper), chop and mix together using hand blender"
+74,,,,,,,,,"Moulinex,DD 100147"

@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Retention time (min),Peak,Amax(nm),Anthocyanin,Mass(m/z),MS2 main
+1,,,,,,fragment (m/z)
+2,11.20,1,517,Cyanidin 3-xylosylglucosylgalactoside,743,287
+3,13.39,23,518,Cyanidin 3-xylosylgalactoside,581,287
+4,16.63,23,530,Sinapic acid derivative of cyanidin 3-xylosylglucosylgalactoside,949,287
+5,18.53,4,528,Ferulic acid derivative of cyanidin 3-xylosylglucosylgalactoside,919,287
+6,19.67,5,527,Coumaric acid derivative of cyanidin 3-xylosylglucosylgalactoside,889,287
+7,20.80,,530,Peonidin 3-xylosylglucosylgalactoside,757,301
+8,21.76,8,527,Ferulic acid derivative of pelargonidin 3-xylosylglucosylgalactoside,903,271
+9,23.22,8,530,Ferulic acid derivative of peonidin 3-xylosylglucosylgalactoside,933,301

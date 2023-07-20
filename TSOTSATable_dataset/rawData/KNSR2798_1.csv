@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6
+0,STEPS,,Time,Flow-,%A,%B,%C
+1,,,(min),rate,,,
+2,,,,(mL/,,,
+3,,,,min),,,
+4,1,INJECTION OFLIPOPHILIC,-5.0,0.5,100,0,0
+5,,COMPOUNDS AND HEAD COLUMN,,,,,
+6,,FOCUSING,,,,,
+7,2),INJECTION OF HYDROPHILIC,0.0,0.5,100,0,0
+8,,COMPOUNDS,,,,,
+9,3),CHROMATOGRAPHIC,4.0,0.5,100,0,0
+10,,SEPARATION,,,,,
+11,,Flow-rate ramp and elution of WSV,4.5,0.7,100,0,0
+12,,,5.0,0.7,75,25,0
+13,,,6.0,0.7,75,25,0
+14,,,7.0,0.7,20,80,0
+15,,,11.0,0.7,20,80,0
+16,,Elution of FSV and carotenes,12.0,0.7,0,80,20
+17,,,14.0,0.7,0,0,100
+18,,,20.0,0.7,0,0,100
+19,,,21.0,0.7,100,0,0
+20,,Flow-rate ramp and return to the,25.0,0.7,100,0,0
+21,,starting conditions,,,,,
+22,,,26.0,0.5,100,0,0
+23,,Column conditioning,29.0,0.5,100,0,0

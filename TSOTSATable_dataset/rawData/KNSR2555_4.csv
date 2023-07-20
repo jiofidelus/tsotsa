@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Cut,Fabrication,Cooking,Bone,Cooking,Trim,N,Fat,Moisture,Protein
+1,,,method,status,temperature/final,(cm),,(SEM),(SEM),(SEM)
+2,,,,,internal,,,,,
+3,,,,,temperatureC,,,,,
+4,Chuck eye,Roast,Roasted,Boneless,160/60,0.0,36,15.4(0.64,60.1b(0.70),24.6b(0.34)
+5,Chuck eye,Steak,Grilled,Boneless,195/70,0.0,36,19.7(0.60,55.10.45,25.1b(0.35)
+6,,,,,,,,p<0.001,p<0.001,p=0.4
+7,Ribeye lip-on,Roast,Roasted,Boneless,160/60,0.32,36,21.5a(0.85),53.9(0.67),24.3b(0.31)
+8,Ribeye lip-on,Steak,Grilled,Boneless,195/70,0.32,36,21.8a(0.45),54.5b(0.33),23.7(0.19)
+9,,,,,,,,p=0.7,p=0.4,p=0.06
+10,Tenderloin,Roast,Roasted,Boneless,160/60,0.0,36,8.0((0.40),64.4a(0.32),27.3a(0.26)
+11,Tenderloin,Steak,Grilled,Boneless,195/70,0.0,36,8.8((0.45),60.4a(0.38),30.6a(0.40)
+12,,,,,,,,p=0.009,p<0.001,p<0.001
+13,Shoulder,Roast,Braised,Boneless:,120/85,0.0,36,9.0(0.43),59.7(0.35),31.1(0.28)
+14,Shoulder,Steak,Grilled,Boneless,195/70,0.0,36,6.9(0.48),63.9(0.33),28.3(0.23)
+15,,,,,,,,p<0.001,p<0.001,p<0.001
+16,Under blade,Steak,Braised,Boneless,120/85,0.0,36,18.0(0.65,53.8(0.55),28.3(0.39)
+17,Denver cut,Steak,Grilled,Boneless,195/70,0.0,36,13.9(0.57),59.1(0.50),26.0(0.33)
+18,(serratus ventralis),,,,,,,p<0.001,p<0.001,p=0.01

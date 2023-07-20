@@ -1,0 +1,76 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,No.,Compounds*,Odor,RI (DB-WAX)b,,RI(HP-5MS,,Pre-,Identification,Fraction,FDe,
+1,,,descriptora,Calculated,Literature,Calculated,Literature,processing,,,Y,R
+2,,,,value,value,value,value,,,,,
+3,,Esters,,,870,,,,,,,
+4,,Ethyl acetate,fruity sweet,856,870,704,711,"LLE, HS-","MS,O,RI,S",,729,2187
+5,,,,,,,,SPME,,,,
+6,2,Ethyl butyrate,fruity,1016,1018,803,803,HS-SPME,"MS,ORI,S",,729,2187
+7,3,Ethyl-2-methylbutyrate,sharp apple,1035,1036,,,"LLE, HS-","MS,O,RI,S",,81,243
+8,,,,,,,,SPME,,,,
+9,4,Ethyl pentanoate,"sweet fruity,",1123,1135,863,898,"LLE,HS","MS,O,RI,S",NBF,6561,6561
+10,,,wine,,,,,SPME,,,,
+11,5,Ethyl isohexanoate,fruity,1185,1197,915,969,"LLE,HS","MS,O,RI,S",NBF,81,81
+12,,,,,,,,SPME,,,,
+13,6,Ethyl hexanoate,"sweet fruity,",1235,1235,1029,1005,"LLE, HS-","MS,O,RI,S","NBF,AF",6561,6561
+14,,,wine,,,,,SPME,,,,
+15,,Isoamyl butyrate,"banana,rose",1279,1260,1062,-,"LLE,HS","MS,ORI,S","NBF,AF",729,81
+16,,,,,,,,SPME,"MS, O, RI, S",,,
+17,8,Ethyl lactate,sharp tart,1332,1363,859,,LLE,"MS, O, RI, S","NBF,AF",2187,2187
+18,,,fruity,,,,,,,,,
+19,9,Ethyl heptanoate,"fruity,",1351,1357,1104,1104,"LLE, HS-","MS,O,RI,S",NBF,243,81
+20,,,pineapple,,,,,SPME,,,,
+21,10,Isobutyl hexanoate*,sweet fruity,1361,1362,1152,1150,"LLE,HS","MS,O,RI,S","NBF,AF",9,27
+22,,,rose,,,,,SPME,,,,
+23,11,Butyl hexanoate*,fermented,1413,1419,1193,1189,"LLE,HS","MS,ORI,S","NBF,AF",243,729
+24,,,fruit,,,,,SPME,,,,
+25,12,Ethyl octanoate,fruity,1436,1439,1202,1203,"LLE, HS-","MS,O,RI,S","NBF,AF",6561,729
+26,,,,,,,,SPME,,,,
+27,13,Ethyl-2-hydroxy-4-,"fruity,",1562,1520,1070,1060,LLE,"MS,O, RI, S","NBF,AF",243,243
+28,,methylvalerate*,blackberry,,,,,,,,,
+29,14,Ethyl levulinate,sweet,1604,,,,LLE,"MS,O,S",NBF,729,27
+30,15,Ethyl decanoate,oily,1638,1642,1396,1392,"LLE, HS-","MSO,RI,S",NBF,243,729
+31,,,,,,,1247,SPME,,,,
+32,16,Ethyl phenylacetate,rose,1767,1783,1247,1247,"LLE,HS-","MS,O,RI,S",NBF,6561,81
+33,,,,,,,,LLE,,,,
+34,17,Ethyl dodecanoate,floral,1943,1843,1594,1596,LLE,"MS,O,RI,S",NBF,2187,243
+35,18,Phenethyl butyrate*,yeast,1943,1987,,,LLE,"MS,O,RI,S",NBF,729,9
+36,19,Ethyl myristate,medicinal,2057,2046,1792,1790,LLE,"MS,ORI,S","NBF,AF",6561,81
+37,,,liquid,,,,,,,,,
+38,20,2-Phenethyl hexanoate,sour,2159,2155,1642,-,LLE,"MS,O,RI,S",NBF,729,729
+39,21,Palmitic acid ethyl ester,sweet,2304,2251,1997,1991,LLE,"MS,RI,S","NBF,AF",729,243
+40,,Aromatic compounds,,,,,,,,,,
+41,22,Phenol*,plastic,1990,1998,,1082,LLE,"MS,O,RI,S","NBF,AF",27,9
+42,23,p-Cresol,phenolic,2067,2076,1083,1082,LLE,"MS,O,RI,S","NBF,AF",81,243
+43,24,"2,4-Di-tert-butylphenol",phenolic,2385,2303,1511,1511,LLE,"MS,O,RI,S","NBF,AF",27,243
+44,,Acids,,,,,,,,,,
+45,25,Acetic acid, sour vinegar,1425,1427,,-,LLE,"MS,O,RI,S",AF,27,81
+46,26,Propionic acid,acidic,1504,1530,,,LLE,"MS,O,RI,S",AF,6561,6561
+47,27,Butanoic acid,acetic,1606,1610,856,840,LLE,"MS,O,RI,S",AF,2187,729
+48,28,Isovaleric acid,mud,1654,1655,870,875,"LLE, HS-","MS,O,RI,S",AF,243,243
+49,,,,,,,,SPME,,,,
+50,29,Valeric acid,fishy,1740,1734,902,906,"LLE,HS","MS,O, RI, S","NBF,AF",6561,6561
+51,,,,,,,,SPME,,,,
+52,30,Hexanoic acid,sour,1849,1849,1191,1239,"LLE,HS","MS,ORI,S",AF,6561,6561
+53,,,,,,,,SPME,,,,
+54,31,Heptanoic acid,sour,1943,1941,1203,1246,"LLE, HS-","MS,O,RI,S",AF,81,81
+55,,,,,,,,SPME,,,,
+56,32,Octanoic acid,fatty waxy,2053,2055,1240,1280,"LLE,HS","MS,ORI,S",AF,2187,2187
+57,,,,,,,,SPME,,,,
+58,,Alcohols,,,,,,,,,,
+59,33,1-Butanol,sweet,1120,1128,763,,LLE,"MS, O, RI, S","NBF,AF",6561,6561
+60,,,balsam,,,,,,,,,
+61,34,3-Methyl-1-butanol,sweet wine,1197,1191,741,736,"LLE,HS-","MS,O,RI,S","NBF,AF",6561,2187
+62,,,,,,,,SPME,,,,
+63,35,2-Heptanol,fresh,1316,1319,873,-,"LLE, HS-","MS,O,RI,S",NBF,81,243
+64,,,,,,,,SPME,,,,
+65,36,1-Hexanol,"soap,",1346,1366,849,850,"LLE, HS-","MS, O, RI, S","NBF, AF",27,273
+66,,,fragrance,,,,,SPME,,,,
+67,37,2-Ethylhexanol,"oily, scorch",1479,1486,,,LLE,"MS,O,RI,S",NBF,6561,27
+68,38,1-Octanol,waxy,1548,1562,1077,1074,LLE,"MS,O, RI, S",NBF,243,3
+69,39,Furfuryl alcohol,sweet,1639,1642,,,LLE,"MS,O,RI,S",NBF,243,81
+70,40,(-)-a-Terpineol*,tosat,1692,1708,,,LLE,"MS,O,RI,S",NBF,81,3
+71,41,Phenethyl alcohol,floral,1894,1903,1124,1118,"LLE, HS-","MS,O,RI,S","NBF, AF",243,6561
+72,,,,,,,,SPME,,,,
+73,,Pyrazines,,,,,,,,,,
+74,,,,1393,1393,,,IIF,,NBE,729,27

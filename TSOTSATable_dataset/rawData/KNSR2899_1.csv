@@ -1,0 +1,72 @@
+,0,1,2,3,4,5
+0,No.,Kra,Compounds,Formula,Concentration (g/L),R.S.D.%
+1,Terpenes,,,,,33.3
+2,,1448,Linalool oxide,C1oH1gO2,3.0,33.3
+3,2,1856,Citronellol,CoH2oO,19.0,15.8
+4,3,1856,Geraniol,C1oH1gO,19.0,15.8
+5,4,2058,[E]-Nerolidol,C15H26O,42.0,18.1
+6,5,2373,"[E,E]-Farnesol",C15H26O,18.0,18.1
+7,,,Subtotal (%),,102.0,
+8,,,Subtotal (%),,0.2,
+9,Norisoprenoids,,,,,
+10,6,1832,-Damascenone,C13H1gO,29.0,12.9
+11,,,Subtotal (%),C13H1gO,29.0,
+12,,,Subtotal (%),,0.6,
+13,Higher alcohols,,,,,
+14,7,1036,1-Propanol,CgHgO,3642.0,24.7
+15,8,1108,Isobutyl alcohol,C4H1oO,9210.0,19.7
+16,9,1165,1-Butanol,C4H1oO,568.0,11.8
+17,10,1230,Isopentyl alcohol,CH2O,1412.0,24.2
+18,11,1330,Isohexyl alcohol,CgH14O,10.0,10.0
+19,12,1335,2-Heptanol,CH16O,5.0,20.0
+20,13,1339,Cyclopentanol,CH1oO,1.0,68.8
+21,14,1343,3-Methyl-pentan-1-ol,CgH140,15.0,26.7
+22,15,1392,1-Hexanol,CgH4O,617.0,38.1
+23,16,1401,[E]-3-Hexen-1-ol,CH12O2,18.0,21.1
+24,17,1409,3-Ethoxy-1-propanol,CH12O2,13.0,17.7
+25,18,1415,[Z]3-Hexen-1-ol,CgH12O,14.0,50.0
+26,19,1429,[E]-2-Hexen-1-ol,CgH2O,6.0,16.7
+27,20,1449,1-Octen-3-ol,CgH16O,8.0,12.5
+28,21,1450,1-Heptanol,CH16O,15.0,13.3
+29,22,1531,3-Ethyl-4-methyl-pentanol,CgH1gO,34.0,25.9
+30,23,1605,"2,3-Butanediol",C4H1oO2,38.0,13.2
+31,24,1605,1-Octanol,CgH1gO,38.0,50.0
+32,25,1633,p-Menth-1-en-4-ol,C1oH1gO,2.0,50.0
+33,26,1639,"(Z,E2-Octen-1-ol",CgH6O3,7.0,14.3
+34,27,1718,p-Menth-1-en-8-ol,C1oHigO,2.0,50.0
+35,28,1781,1-Decanol,C1oH22O,31.0,19.7
+36,29,1896,Benzyl alcohol,C?HgO,411.0,14.1
+37,30,1931,2-Phenyl-ethanol,CgH1oO,6089.0,33.6
+38,31,2194,1-Hexadecanol,C1cH34O,0.2,38.0
+39,,,Subtotal (%),,46.0,
+40,Acetates,,,,,
+41,32,885,Ethyl acetate,C4HgO2,2399.0,64.8
+42,33,1132,Isopentyl acetate,CH4O2,142.0,64.8
+43,34,1829,Phenethyl acetate,C1oH12O2,7.0,14.3
+44,,,Subtotal,C1oH12O2,2548.0,
+45,,,Subtotal (%),,5.1,
+46,Ethyl esters,,,,,
+47,35,1244,Ethyl hexanoate,CgH16O2,140.0,15.0
+48,36,1317,Ethyl heptanoate,CgH1gO2,1.3,57.0
+49,37,1360,Ethyl 2-hexenoate,CgH4O2,2.0,50.0
+50,38,1363,Ethyl lactate,CH10O,22476.0,41.6
+51,39,1446,Ethyl octanoate,C1oH2oO2,145.0,17.2
+52,40,1486,Ethyl 7-octenoate,C1oH1gO2,0.8,32.2
+53,41,1581,Ethyl nonanoate,C11H22O2,0.8,43.1
+54,42,1651,Ethyl decanoate,C12H24O2,43.0,16.3
+55,43,1701,Diethyl succinate,CgH14O4,51.0,21.8
+56,44,1489,Ethyl 9-decenoate,C12H22O2,2.0,39.5
+57,45,1489,Lauric acid ethyl ester,C14H28O2,3.0,33.3
+58,46,2065,Ethyl tetradecanoate,C16H32O2,1.4,33.7
+59,47,2274,Palmitic acid ethyl ester,C18H36O2,0.3,45.8
+60,48,2407,Diethyl phthalate,C2H14O4,0.1,67.3
+61,49,2483,Stearic acid ethyl ester,C2oH4oO2,0.3,54.7
+62,50,2574,Linoleic acid ethyl ester,C2oH36O2,0.7,38.4
+63,51,2675,Linolenic acid ethyl ester,C2oH34O2,0.5,50.2
+64,,,Subtotal,,22862.0,
+65,,,Subtotal (%),,45.9,
+66,Other esters,,,,,
+67,52,1417,Methyl octanoate,CgH1gO2,0.5,29.9
+68,53,1450,Isopentyl hexanoate,C11H22O2,1.0,26.7
+69,54,1615,Isopentyllactate,CgH16O3,15.0,13.3
+70,55,1628,Methyl decanoate,C11H22O2,0.2,16.0

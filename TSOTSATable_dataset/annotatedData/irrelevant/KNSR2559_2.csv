@@ -1,0 +1,12 @@
+,0,1
+0,Instrumental,
+1,parameters,
+2,Column,"Anion exchange,PRP-X100-Hamilton,RenoNV,USA)"
+3,,"Dimensions:250 mm  4.6 mm,particle size 5 m"
+4,Guard column,PRP-X100 anion exchange -Dimensions4.6 mm
+5,Mobile phase,2 mM PBS;0.2 mM EDTA;PH 6
+6,Injection volume,50L
+7,Flow rate,0.7 mL.min-1
+8,Condition,Isocratic
+9,Column,Room temperature(25C
+10,temperature,

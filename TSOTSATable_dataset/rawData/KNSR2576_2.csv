@@ -1,0 +1,26 @@
+,0,1,2,3
+0,Item,VB1,VB2,VB6
+1,Correlation coefficient (R,0.9965,0.9975,0.9939
+2,Adjusted correlation,0.9954,0.9969,0.9920
+3,coefficient(Raaj,,,
+4,Root mean square,0.0354,0.0197,0.0949
+5,error(RMSE),,,
+6,Root-mean-square error of,0.0293,0.0188,0.0835
+7,prediction (RMSEP),,,
+8,F-Test value,3.10102,1.90103,2.75102
+9,p-Value,4.53  10-15,1.5710-23,1.22 10-15
+10,Correlation coefficient,0.9376,0.9927,0.9671
+11,of LOORLoo-cv,,,
+12,Recovery (%),97.8,109.4,97.6
+13,Precisions(RSDb,,,
+14,%n=6,,,
+15,Intra-day,1.0,5.8,4.6
+16,Inter-day,1.8,2.1,6.1
+17,Limit of detection,0.02,0.02,0.07
+18,"LOD,gmL1",,,
+19,Limit of quantification,0.04,0.03,0.13
+20,LOQgmL-1,,,
+21,Linearity,,,
+22,Test range (g mL-1),0.04-1.17,0.04-0.90,0.25-2.51
+23,Slope,0.9931,0.9949,0.9878
+24,Intercept,0.0044,0.0026,0.0180

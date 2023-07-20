@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,,No clean-up,No clean-up,,,Clean-up (150 mg MgSO4 + 50 mg,Clean-up (150 mg MgSO4 + 50 mg,Clean-up (150 mg MgSO4 + 50 mg,Clean-up (150 mg MgSO4 + 50 mg,Clean-up (150 mg MgSO4 + 50 mg,Clean-up (150 mg MgSO4 + 50 mg,Clean-up (150 mg MgSO4 + 50 mg,Clean-up (150 mg MgSO4 + 50 mg,Immunoaffinity column (IAC),Immunoaffinity column (IAC),Immunoaffinity column (IAC),
+1,,,,,,C18+50 mg PSA),C18+50 mg PSA),,,C18),,,,,,,
+2,Mycotoxin,2ng/gn=5,2ng/gn=5,5ng/g(n=5,5ng/g(n=5,2ng/g(n=5,2ng/g(n=5,5ng/gn=5,5ng/gn=5,2ng/g(n=5,2ng/g(n=5,5ng/gn=5,5ng/gn=5,2ng/gn=5,2ng/gn=5,5ng/gn=5,5ng/gn=5
+3,,Rec,RSD,Rec,RSD,Rec,RSD,Rec,RSD,Rec,RSD,Rec,RSD,Rec,RSD,Rec,RSD
+4,,(%),(%),(%),(%),(%),(%),(%),(%),(%),(%),(%),(%),(%),(%),(%),(%)
+5,Aflatoxin B1,79.9,5.5,77.2,6.0,86.3,10.2,91.7,2.2,86.3,4.2,85.0,4.1,83.8,11.0,69.9,11.8
+6,Aflatoxin B2,86.3,17.3,73.4,6.5,89.0,11.8,92.1,7.3,93.7,11.5,75.4,8.4,87.6,14.1,71.2,12.2
+7,Aflatoxin G1,101.3,3.8,93.3,12.7,89.6,8.1,98.6,2.9,97.6,8.6,91.6,1.8,92.3,2.6,76.9,8.7
+8,Aflatoxin G2,87.6,17.8,88.8,20.2,95.0,10.6,100.6,1.5,99.8,4.6,99.1,3.3,86.0,25.1,60.59,0.84
+9,Ochratoxin,98.4,2.6,99.5,1.0,7.4,71.5,5.7,55.3,107.8,6.8,103.8,2.8,106.0,10.1,94.0,12.1
+10,A,,,,,,,,,,,,,,,,

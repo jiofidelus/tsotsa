@@ -1,0 +1,19 @@
+,0,1,2,3
+0,Interference ions,Extraction,RSD,*Tolerance
+1,,recovery (%),(%),limit
+2,K+,97,2.0,2000
+3,Na+,97,2.5,2000
+4,Zn+2,98,2.2,2000
+5,Mg+2,97,2.3,2000
+6,Proline,99,2.4,2000
+7,Cu+2,98,2.9,1500
+8,Sucrose,96,2.6,1500
+9,p+3,96,2.1,1000
+10,Maltose,95,2.4,1000
+11,2-nitrobenzaldehyde,97,2.8,1000
+12,p-Dimethylaminobenzaldehyde,97,2.5,500
+13,Glucose,95,2.7,500
+14,2-chlorobenzaldehyde,94,3.3,500
+15,Furfural,94,3.1,250
+16,"4-hydroxy-2,5-dimethyl-3(2 H)",93,3.2,250
+17,furanone,,,

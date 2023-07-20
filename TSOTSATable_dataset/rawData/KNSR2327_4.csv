@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6
+0,Item,No,Commercial meat product,Existence of target,No of Total sample,Positive detection,Detection Probability (%)
+1,Meat Products,1,"Beef frankfurtersB=1,S=1,L=3,r=3",,27,0/27,100%
+2,,2,"Chicken frankfurtersB=3,S=3,L=3,r=3",,81,0/81,100%
+3,,3,"BeefnuggetsB=1,S=1,L=3,r=3",,27,0/27,100%
+4,,4,"Chickennuggets(B=3,S=3,L=3,r=3",,81,0/81,100%
+5,,5,"BeefmeatballsB=3,S=3,L=3,r=3",,81,0/81,100%
+6,,6,"Chicken meatballsB=3,S=3,L=3,r=3",,81,0/81,100%
+7,Brands,1,"BAP=6,S=1,L=3;r=3",,162,0/162,100%
+8,,2,"BBP=1,S=1L=3;r=3",,27,0/27,100%
+9,,3,"BCP=1,S=1,L=3;r=3",,27,0/27,100%
+10,,4,"BDP=3,S=1,L=3;r=3",,81,0/81,100%
+11,,5,"BEP=2S=1,L=3;r=3",,54,0/54,100%
+12,,6,"BFP=1,S=1,L=3;r=3",-,27,0/27,100%
+13,Supermarkets,1,"SAP=6,S=1,L=3;r=3",,162,0/162,100%
+14,,2,"SBP=1,S=1,L=3;r=3",-,27,0/27,100%
+15,,3,"SCP=3,S=1,L=3;r=3",,81,0/81,100%
+16,,4,"SDP=1,S=1,L=3;r=3",,27,0/27,100%
+17,,5,"SEP=2,S=1,L=3;r=3",,54,0/54,100%
+18,,6,"SFP=1,S=1,L=3;r=3",-,27,0/27,100%
+19,,,Total commercial product's sample,-,378,0/378,100%

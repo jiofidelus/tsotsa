@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6
+0,,,,,Predicted class,,
+1,,,,Organic,Organic,Conventional,Conventional
+2,Actual class,,Organic,15,15,2,2
+3,,,Conventional,0,0,33,
+4,,Accuracy,Accuracy,Specificity,Specificity,,Sensitivity
+5,SVM,96%,,100%,,,88%

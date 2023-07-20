@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Entry,Sulphur compound,Detection,Odoura,Retention time,Concentrations (g L-1 of PA),Concentrations (g L-1 of PA),,,DLso` (mg/kg)
+1,,,thresholds,,(min),,,,,
+2,,,(gL-1,,,,,,,
+3,,,,,,Cognac 1,Cognac 2,Calvados 1,Calvados 2,
+4,1,Ethanethiol,1.1a,"Onion, rubbera",3.53,0,0,0,0,682
+5,2,Dimethyl sulphide,10-160a,"Cabbage,",3.79,Traces,Traces,traces,Traces,535
+6,,,,asparagusa,,,,,,
+7,3,1-Propanethiol,3.1b,,6.06,0,0,0,0,1790
+8,4,Methyl ethyl sulphide,,,6.06,0,0,0,0,
+9,5,2-Butanethiol,,,7.26,0,0,0,0,
+10,6,Thiophene (I.S.),,,7.36,633,633,633,633,
+11,7,2-Methyl propanethiol,,,7.57,23,0,0,0,
+12,8,Diethyl sulphide,0.93-18b,Garlica,8.08,0,0,3,1,
+13,9,1-Butanethiol,6b,,8.39,17,0,0,0,1500
+14,10,Dimethyl disulphide,2045a,"Cabbage, cooked",9.13,498,73,119,57,290500
+15,,,,cabbagea,,,,,,
+16,11,Ethyl propyl sulphide,,,10.37,42,33,3,Traces,
+17,12,1-Pentanethiol,,,10.86,1,0,0,0,
+18,13,Methyl ethyl disulphide,,,11.23,10,0,1,1,
+19,14,2-Methylthioethanol,250a,"French bean, beana 11.71","French bean, beana 11.71",13,0,6,Traces,
+20,15,Diethyl sulphite,,,12.09,25,53,0,0,
+21,16,3-Methylthiopropanal,0.2b,"Onion, meat,",12.31,39,0,11,10,4400
+22,,,,mashed potatoesa,,,,,,
+23,17,Dipropyl sulphide,,,12.53,2,0,0,0,
+24,18,Diethyl disulphide,4.340a,"Bad smelling,",13.27,0,0,4,4,
+25,,,,oniona,,,,,,
+26,19,3-Methylthiopropanol,12004500a,"Potato, soupa",14.02,Traces,Traces,Traces,Traces,
+27,20,Thiophenol,100-500a,,14.14,4,0,12,8,46.2
+28,21,3-Thiophenecarboxaldehyde,,,14.33,564,342,190,321,
+29,22,2-Thiophenecarboxaldehyde,,,14.57,1207,1233,14,22,915
+30,23,Ethyl propyl disulphide,,,15.24,122,6,18,22,
+31,24,Dibutyl sulphide,,,16.58,97,21,56,44,
+32,25,3-Methylthiopropyl acetate,50-115a,"Mushroom, garlica",16.84,30,14,28,32,
+33,26,4-Methylthiobutan-1-ol,100a,Onion garlica,16.93,0,91,0,0,
+34,27,Dipropyl disulphide,,,17.08,36,5,1,1,
+35,28,Benzothiazole,50-350a,Rubbera,19.48,13,17,8,20,479
+36,,Total concentration of identified,,,,2743,1888,474,543,
+37,,sulphur compounds,,,,,,,,

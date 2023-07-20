@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,,,Mean,St. Dev.,Max,Min
+1,Climate Characteristics,Elevation (m),223.05,237.42,959.00,2.00
+2,,Vapor Pressure (kPa),2.54,0.33,3.03,1.75
+3,,Temperature (C),25.64,1.78,27.71,21.00
+4,,Precipitation (mm),1889.40,784.86,3429.00,886.00
+5,,Solar Radiation (kJ m2 day,16910.25,1687.94,19810.75,14447.67
+6,Soil Characteristics,CEC (cmol/100 g),20.20,12.31,60.00,6.00
+7,,Soil pH,57.60,5.67,75.00,49.00
+8,,Soil Water Capacity (mm/m),13.75,2.75,23.00,1.00
+9,,Soil Texture,4.75,2.75,9.00,1.00
+10,,Nutrient Availability*,1.10,1.27,7.00,0.00
+11,,Nutrient Retention*,1.10,1.23,7.00,0.00

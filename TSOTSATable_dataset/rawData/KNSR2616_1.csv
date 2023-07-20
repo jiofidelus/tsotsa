@@ -1,0 +1,72 @@
+,0,1,2,3,4,5,6,7
+0,,Reference,FM,TP,,DM,Ash,Country
+1,1,Barthe (1905,2.90,3.70,5.80,13.00,0.60,East Africa
+2,23,Leese(1927),2.90,3.70,5.80,13.00,0.60,East Africa
+3,4,Davies (1939),3.07,4.00,5.60,13.47,0.80,UD
+4,4,Lampert (1947),4.47,3.50,5.00,13.67,0.70,UD
+5,567,Khersakov (1953),4.47,3.50,5.00,13.67,0.70,URSS
+6,567,Yasin and Wahid (1957),2.90,3.95,4.88,13.57,0.95,Pakistan
+7,567,Ohri and Joshi (1961),3.78,3.50,4.88,13.57,0.95,India
+8,,El-Bahay (1962),2.90,3.90,5.40,12.00,0.80,Egypt
+9,,Singh (1966),2.90,3.90,5.40,13.00,0.80,India
+10,10,Davies (1963),3.08,3.80,5.40,12.98,0.70,Egypt
+11,11,Khan and Appana (1965),3.08,3.80,5.40,12.98,0.70,India
+12,12,Jenness and Sloan (1969),4.50,3.60,5.00,13.10,0.70,UD
+13,13,Kon and Cowie (1972),4.20,3.70,4.10,14.40,0.80,Pakistan
+14,14,Knoess et al. (1986),5.50,4.50,3.40,14.40,0.90,Egypt
+15,15,Atherton and Newlander (1977),5.38,2.98,3.26,14.30,0.70,Ethiopia
+16,16,Knoess (1977),5.50,4.50,3.40,14.10,0.90,Ethiopia
+17,17,Knoess(1979),4.00,3.60,4.60,14.10,0.60,Ethiopia
+18,18,Elamin(1980,3.90,3.60,,14.10,0.80,Sudan
+19,20,Mukasa-Mugerwa (1981),4.33,4.02,4.21,13.36,0.79,Saudi Arabia
+20,21,Dasai et al. (1982),3.20,2.70,4.20,9.80,0.60,UD
+21,22,El-Agamy (1983),5.40,3.70,3.30,13.10,0.70,Egypt
+22,25,Sawaya et al. (1984),3.30,3.30,5.61,11.74,0.82,Saudi Arabia
+23,26,Gnan and Sherida (1986),3.30,3.30,5.61,13.03,0.82,Pakistan
+24,26,Abdel-Rahim (1987),3.31,4.00,4.67,13.40,0.70,Pakistan
+25,27,Abu-Lehia (1987),3.31,2.68,4.67,11.29,0.80,Saudi Arabia
+26,29,Bachmann and Schulthess (1987),3.60,,4.67,15.40,,Kenya (Somali)
+27,29,Bachmann and Schulthess (1987),3.60,,,11.20,, Kenya (Rendille)
+28,31,Hassan et al. (1987),3.55,2.29,4.69,11.40,0.90,Tunisia
+29,33,Farah and Ruiegg (1989),3.15,3.11,5.24,14.20,0.80,East Africa
+30,33,Farah and Ruiegg (1989),3.15,3.11,5.24,12.20,0.80,Kenya
+31,34,Mehaia and Al-Kahnal (1989),3.24,3.30,4.52,11.91,0.80,Saudi Arabia
+32,35,Mohamed et al. (1989),4.60,3.30,,14.50,0.60,Somalia
+33,36,Taha and Keilwein (1989),5.22,3.19,5.00,13.66,0.80,Egypt
+34,37,Abu-Lehia (1990),3.60,3.27,5.53,13.66,0.85,Saudi Arabia
+35,39,Bayoumi(1990),2.58,2.15,4.83,13.20,0.80,Egypt
+36,39,Gran et al. (1990),3.70,3.45,4.62,,,Lybia
+37,40,Jardali (1988),3.15,3.45,4.62,12.63,0.74,East Africa
+38,41,Elamin and Wilcox (1992),3.15,2.81,4.16,10.95,0.83,Saudi Arabia
+39,42,Farag and Kabary (1992),3.50,3.10,4.60,12.36,0.80,Egypt
+40,43,Mehaia (1993),3.50,2.80,4.60,11.69,0.79,Saudi Arabia
+41,44,Mehaia et al. (1995),2.85,2.52,4.44,10.63,0.80,Saudi Arabia (Hamra)
+42,46,Mehaia et al. (1995),3.22,2.91,4.43,11.35,0.79,Saudi Arabia (Wadah)
+43,47,Mehaia(1996),0.28,3.00,2.40,8.64,0.69,Saudi Arabia
+44,48,Field et al. (1997),5.70,3.20,4.95,12.15,0.80,Kenya
+45,49,Abu-Lehia (1998),3.20,3.20,4.95,12.15,0.85,Jordania
+46,50,El-Agamy et al. (1998),2.58,2.15,4.83,12.80,0.85,Egypt
+47,51,Gnan et al. (1998),2.58,2.15,4.83,,,Mongolia
+48,52,Indra and Erdenebaatar (1998),6.40,4.80,4.70,,0.80,Mongolia
+49,53,Kamoun(1998,3.76,3.43,,12.14,0.81,Kenya
+50,54,Karue(1998),5.60,3.42,3.65,12.14,0.86,Kenya
+51,55,Larsson-Raznikiewicz and Mohamed(1998),4.60,3.00,,13.10,0.60,Somalia
+52,57,Mehaia1998),2.74,3.36,4.19,11.14,0.86,Saudi Arabia
+53,57,Ramdaoui and Obad (1998),4.20,3.08,4.18,11.14,0.86,Morocco
+54,58,Wangoh et al.1998,4.20,3.31,4.18,12.66,0.79, Kenya (Somali)
+55,60,Wangoh et al. (1998),4.81,3.13,4.05,12.45,0.82,Kenya (S  T)
+56,60,Wangoh et al. (1998),4.29,3.13,4.05,12.45,0.82,Kenya (S  T)
+57,61,Zhao(1998),5.54,4.08,5.50,16.08,0.91,China(Bactrian
+58,62,Zhao (1998),4.15,3.45,4.55,8.85,0.70,China (Bactrian)
+59,64,Zia-Ur-Rahman and Straten (1998),5.22,2.68,3.26,10.40,0.73,Pakistan I
+60,66,Zia-Ur-Rahman and Straten (1998),4.50,3.00,4.10,11.10,0.78,Pakistan II
+61,66,Zia-Ur-Rahman and Straten (1998),4.50,3.00,4.10,11.10,0.78,Pakistan III
+62,67,Zia-Ur-Rahman and Straten (1998),2.85,2.67,,9.07,,Pakistan
+63,68,Dell'Orto et al.2000,2.56,3.19,,11.50,,UD
+64,69,Guliye et al. (2000,3.39,2.79,4.81,11.50,0.77,Kenya
+65,70,Serikabeva and Toktamysova (2000),5.17,4.45,4.82,15.51,0.68,Kazakhstan
+66,71,Sharmanov and Zhangabylov (1991),5.10,4.26,3.84,14.35,0.68,Kazakhstan
+67,73,Seitov(2005,4.47,3.50,4.95,13.62,,Kazakhstan
+68,74,Attia et al. (2001),1.20,2.81,5.40,9.61,0.99,Tunisia
+69,75,Indra and Erdenebaatar (1998),3.54,2.64,,12.22,,Mongolia Bactrian
+70,76,Indra(2003,5.45,4.43,4.76,15.54,0.90,Mongolie Bactrian

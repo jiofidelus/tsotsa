@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6
+0,,Regression equation,Regression equation,Regression equation,,,Independent variable(regression coefficient)
+1,,R2,MSr,MSe,F,P,
+2,CY,0.762,0.605,0.016,38.49,4.56X10-5,Syneresis-0.026;pH (-0.558);L*0.047);a*0.102);b*-0.105;E-0.032);Firmness(-0.009);Consistency0.001;
+3,,,,,,,Cohesiveness-0.015;Apparent viscosity -1.6610-4;o-0.011;K-4.1310);n (-0.224);S.thermophilus
+4,,,,,,,(0.027);L.bulgaricus (-0.045);L.acidophilus LA-5(-0.022).
+5,GY,0.857,0.264,0.012,21.97,5.9910-5,Syneresis(-0.012);pH(-1.431;L*-0.048);a*-0.069);b*0.022);E(0.015);Firmness-0.109);Consistency-0.005;
+6,,,,,,,Cohesiveness (0.122);Apparent viscosity (1.80  10-4;To(0.962);K(0.003);n (-0.048);S.thermophilus (0.002);L.
+7,,,,,,,bulgaricus(-0.056);L.acidophilus LA-5(0.006

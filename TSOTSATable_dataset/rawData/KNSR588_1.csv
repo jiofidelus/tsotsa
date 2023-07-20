@@ -1,0 +1,14 @@
+,0,1,2
+0,Maturity,Score range,Score range
+1,stages,,
+2,0,Fruit completely developed.100% green skin colour,Fruit completely developed.100% green skin colour
+3,1,Yellow colour does not cover more than 15% of the,Represents papaya with yellow area on 0-25% of the skin
+4,,fruit surface,
+5,2,"1/4 mature.Fruit with up to 25% of the surface yellow,",Represents papaya with yellow area on 25-50%
+6,,surrounded by light green colour,
+7,3,"1/4 mature.Fruit with up to 50% of the surface yellow,",Represents papaya with yellow area on 50-75%
+8,,surrounded by light green colour,
+9,4,3/4 mature.Fruit with 50-75% of the surface yellow,Represents papaya with yellow area on 75-100%
+10,,surrounded by light green colour,
+11,5,Mature.Fruit with 76-100% of the surface yellow.,
+12,,Only area near the stem is green,

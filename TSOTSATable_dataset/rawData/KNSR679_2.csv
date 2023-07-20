@@ -1,0 +1,57 @@
+,0,1,2,3,4,5,6,7
+0,Peak,Rt (min),aUV-Vis Absorbance (nm),[M-H]-or,Major fragment ions,Formula,Error(ppm),Tentative identification
+1,,,,[M-2 H]2,,,,
+2,1,4.45,"207,259,293",153.0189,109,C?HgO4,-2.8,Dihydroxybenzoic acid
+3,2,5.24,"212,278",451.1245,"289,245",C2H4O11,-0.2,Epicatechin-glucoside
+4,3,5.62,"213,287,325",299.0766,179,C13H6O8,-2.1,Hydroxybenzoic acid glucoside
+5,4,6.84,"214,283,315",341.0872,"161,133",C15H1gO9,-1.8,Caffeoyl-glucose
+6,5,7.05,"212,283",163.0397,119,CgHgO3,-2.4,Coumaric acid (a)
+7,6,7.24,"211,278",1151.2473,NA,C6oH4gO24,0.8,A-type PAC DP-4 (A = 1) (a)
+8,7,7.72,"202,278",577.1346,"407,289",C3oH26O12,-1.0,B-type PAC DP-2 (a)
+9,8,8.34,"214,278",289.0711,"245,203",C15H14O6,-2.4,Catechin
+10,9,9.02,"215,292,312",341.0874,179,C15H18O9,-1.1,Caffeic acid glucoside
+11,10,9.5,"215,283",163.0396,119,CgHgO3,-3.1,Coumaric acid (b)
+12,11,9.79,"216,315",325.0925,"145,117",C5HgO8,-1.3,Coumaroyl-glucose
+13,12,9.98,"216,294,325",353.0874,191,C16H1gO9,-1.2,Chlorogenic acid
+14,13,10.68,"196,231,276",121.0291,77,CH6O2,-3.3,Benzoic acid
+15,14,11.21,"215,290",153.0189,109,CH6O4,2.8,Dihydroxybenzoic acid
+16,15,11.4,"198,221,276",461.1300,"415,121",C1gH26O13,-0.1,Hydroxybenzoyl-hexosyl-hexoside
+17,16,12,"216,286",223.0606,"208,164, 149",C1H2O5,-2.7,Sinapic acid
+18,17,12.1,"202,278",577.1345,"407,289",C3oH26O12,-1.2,B-type PAC DP-2 (b)
+19,18,12.56,"216,286,326",355.1028,"175,160,132",C16H2oO9,-1.8,Feruloyl-glucose
+20,19,13.27,"213,279",289.0711,"245,203",C15H4O6,-2.4,Epicatechin
+21,20,15.19,"216,285,307",119.0500,NA,CgHgO,-2.0,Unknown
+22,21,16.8,"218,277,523",461.1087,"299, 298, 283",C22H23O11,-0.5,Peonidin-3-galacotside
+23,22,17.28,"216,279",863.1820,411,C45H36O18,-1.1,A-type PAC DP-3 (A =1(a)
+24,23,18.39,"216,280",1151.2492,"861,573,411",C6oH48O24,2.5,A-type PAC DP-4 (A=1(b(Supplement)
+25,,,"218,279",1007.2123,NA,C105H84O42,-3.0,A-type PAC DP-7 (A=1)(Fruit)
+26,24,19.35,"219,523",431.0986,299,C22H21O1,0.2,Peonidin-3-arabinoside
+27,25,20.28,"216,348",479.0835,"317,316,271",C2H20O13,0.5,Myricetin-3-galactoside
+28,26,22.7,"218, 283",441.0827,289,C22H1gO10,0.0,Epicatechin/catechin gallate
+29,27,23.75,"217,356",449.0721,"317,316,271",C2oHgO12,-0.9,Myricetin-3-arabinoside
+30,28,24.48,"217, 279",535.1452,"361,147,119",C25H2gO13,-1.0,Coumaroyl-monotropein (a)
+31,29,25.26,"214,278",575.1192,"539,449,285",C3oH24O12,0.6,A-type PAC DP-2
+32,30,25.5,"215,348",463.0884,"301,300,271",C2H2oO12,0.4,Quercetin-3-galactoside
+33,31,26.13,"218,283",535.1454,"371,147,119",C25H28O13,0.6,Coumaroyl-monotropein (b)
+34,32,26.63,"219,274",537.1612,"373,163,119",C25H3oO13,-0.4,Coumaroyl-dihydromonotropein (a) (Supplement)
+35,,,"218,278",863.1819,"575,433",C45H36O18,-1.1,A-Type PAC DP-3(A=1(c(Fruit
+36,33,27.21,"219,347",493.0985,"331,330,315",C22H22O13,-0.5,Laricitrin-3-galactoside
+37,34,28.15,"219,348",433.0775,"301,300,271",C2oHgO11,0.3,Quercetin-3-xyloside
+38,35,28.35,"219,282,313",537.1612,"373,163,119",C25H3oO13,0.4,Coumaroyl-dihydromonotropein (b)
+39,36,29.06,"219,348",433.0775,"301,300,271",C2oH1gO11,0.3,Quercetin-3-arabinopyranoside
+40,37,29.68,"218,348",433.0777,"301,300,271",C2oH8O11,0.1,Quercetin-3-arabinofuranoside
+41,38,31.08,"218,366",317.0298,151,C15H1oOg,-1.5,Myricetin aglycone
+42,39,31.55,"219,348",447.0933,"301,300,271",C2H20O11,-0.1,Quercetin-3-rhamnoside
+43,40,32.1,"219,348",477.1035,"314,271",C22H22O12,-0.6,Isorhamndetin-3-galactoside
+44,41,33.16,"219,279",1149.2317,NA,C6oH46O24,0.9,A-type PAC DP-4 (A = 2)
+45,42,33.43,"219,348",507.1146,344,C23H24O13,0.4,Syringetin-3-galactoside
+46,43,35.03,NA,417.0827,"285,284,255",C2oH1gO10,-0.1,Kaempferol-3-pentoside
+47,44,35.9,"218,346",447.0933,"314,271,243",CH2oO11,-0.1,Isorhamnetin-3-pentoside (a)
+48,45,36.83,"219,347",447.0933,"314,271,243",C2H2oO11,-0.1,Isorhamnetin-3-pentoside (b)
+49,46,37.53,NA,447.0930,"314,271,243",C21H20O11,-0.5,Isorhamnetin-3-pentoside (c)
+50,47,38.42,NA,477.1039,344,C22H22O12,0.0,Syringetin-3-pentoside
+51,48,38.64,NA,491.1192,"345,344",C23H24O12,-0.7,Syringetin-3-rhamnoside
+52,49,39.03,"219,285,315",445.1144,"179,135",C22H22O10,0.9,Caffeic acid-(benzoyl)-galactoside
+53,50,39.15,"219,366",301.0351,151,C15H1oO7,-0.9,Quercetin aglycone
+54,51,39.8,"219,346",609.1250,"463,300",C3oH26O14,0.1,"Quercetin-3-O-(6""-p-coumaroyl)-beta-galactoside"
+55,52,40.95,"220,355",567.1143,300.271,C28H24O13,-0.2,"Ouercetin-3-O-(6""-p-benzoyl)-beta-galactoside"

@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,,02**,,HOCI,,ROO,
+1,,,ICso (g/mL),,Trolox equivalents,,"Ssample/STrolox"""
+2,,,,,(mol TE/mg DW),,
+3,Oleocanthalic acid,"19.09  1.20*,a",,360.87  8.79a,0.0056  0.0003a,,0.0036  0.0004a
+4,Positive controls,,,,,,
+5,Ascorbic acid,"24.01  2.45*,a",,2.87  0.03b,2.94  0.12b,,1.04  0.06b
+6,Gallic acid,13.02  0.21b,,2.88  0.35b,4.98  0.27c,,1.50  0.02c

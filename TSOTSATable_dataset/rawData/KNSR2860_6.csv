@@ -1,0 +1,57 @@
+,0,1,2,3
+0,,,(PD,
+1,General:Organic;Non-GMO or,ORGANIC SOYBEAN OIL; NON-GMO SOYBEAN OIL,OilSoybean,Disregard
+2,GMO,,,
+3,General: Spelling Errors,SOYBEEN OIL,"Oil, Soybean",Disregard
+4,General: Function in the ingredient,DOUGH CONDITIONER (ASCORBIC ACID),Ascorbic Acid,Disregard functions in the name
+5,name,,,
+6,General: Proportions in the,ALMONDS (25 %),Almonds,Disregard proportions
+7,ingredient name,,,
+8,General: Different forms with,BLUEBERRY POWDER,Blueberry Powder,
+9,different moisture contents,BLUEBERRY PUREE,Blueberry Concentrate,contents
+10,General: Ingredients not described,FLOUR,Wheat flour,Some defaults such as wheat flour for flour
+11,or parsed clearly,VITAMINS,Vitamins,used; generally assigned same PD as ingredient
+12,"General: Soybean, coconut and corn",,,
+13,ingredients not described or,,,Based on review of how majority of the
+14,parsed clearly; mainly with,CORN,CORN GRAIN,ingredients were used in baked products; may
+15,unresolved parsing issues and,,,need to reconsider
+16,count=1,,,
+17,,AZODIACARBONAMIDE (ADA);AZODICARBON,,Ingredient similar to as listed in FDA's Added
+18,Additives: General,AMIDE;AZODICARBON-AMIDE;AZODICABONAMIDE;,Azodicarbonamide,"Substance file,use FDA's PD, after confirming"
+19,,AZOOICARBONAMIDE,,that it is the same product
+20,,,"Annatto, Extract (Bixa Orellana",
+21,,ANNATTO FOR COLORING,L.),
+22,Additives: Natural color,PAPRIKA OLEORESIN,Paprika Oleoresin (Capsicum,FDA's PD if available
+23,,PAPRIKA OLEORESIN,Annuum L.),FDA's PD if available
+24,,TURMERIC (COLOR),Turmeric Color,
+25,Additives: Artificial color,"BLUE COLOR, 5 LAKE COLOR, ARTIFICIAL COLOR",Artificial Color,Disregard source for artificial colors
+26,Additives: Artificial color,(INCLUDES FD&C YELLOW #5),Artificial Color,(currently)
+27,Additives: Enzymes,WHEAT ENZYME;PROTEASE ENZYMES,Enzymes,Substance file
+28,"Additives: Fiber, protein, starch",OAT FIBER,Oat Fiber,"Differentiate based on source of protein, fiber"
+29,lecithin,SOY LECITHIN,Soy Lecithin,starch etc.
+30,,HULLED WHOLE MILLET,Millet,
+31,"Cereal grains (not flours), Seeds:",WHOLE BROWN FLAX SEED,"Flaxseeds, Brown","Disregard different terms such as hulled,"
+32,General,CRACKED WHEAT,Wheat,"cracked, whole, whole grain"
+33,,BUCKWHEAT WHOLE GRAIN,Buckwheat,
+34,"Cereal grains, seeds: General",OAT FLAKES;ROLLED OATS,Rolled Oats,varies by grain
+35,Fats: General,COCONUT OIL,"Oil, Coconut",formatting
+36,,,,"Differentiate by source and type of oils, salt"
+37,,,"Margarine, Palm Oil, Salted",and voluntary fortification; not by additives
+38,,,,used.
+39,"Fats: Composite fats -- margarine,",,,
+40,shortening and vegetable oils,,,
+41,,"DIGLYCERIDES, CALCIUM DISODIUM EDTA","Oil, Soybean Oil, Salted",vegetable oils; and the terms animal' or
+42,,"(PRESERVATIVE), ARTIFICIAL FLAVOR, ANNATTO",,"vegetable' for type of shortening, as per SR."
+43,,"(COLOR),VITAMIN A PALMITATE",,Oils used are sorted alphabetically
+44,Flours: General,BARLEY FLOUR,Barley Flour,Differentiate by source
+45,Flours: General,UNBROMATED WHEAT FLOUR,Wheat Flour,Disregard properties which indicate no
+46,,,,Disregard different forms of fortificants; list
+47,,,"Wheat Flour, With Added",fortificants only when the fortificants (such a
+48,Flours: Enriched Flours,,"Malted Barley Flour, Enriched",added ascorbic acid is different than the
+49,,"VITAMIN B2), FOLIC ACID)",(Not as per FDA Standards),"standards; when the order is different, add"
+50,,,,phrase - (Not as per FDA Standards)
+51,"Fruits, chocolate,vegetables",DICED ONION; MINCED ONION OR CHOCOLATE,Onions or Chocolate,Disregard different forms of the same product
+52,"Fruits, chocolate,vegetables",CHIPS;CHOCOLATE CHUNKS,Onions or Chocolate,when ingredients are similar
+53,Fruits: Composite Ingredients,"CRANBERRIES (DRIED CANBERRIES, SUGAR)","Cranberries, Dried, Sweetened",No PD if contain ingredients such as oils
+54,"Fruits, nuts: Composite Ingredients",CRANBERRIES (SULFITE),Cranberries (with added sulfite,No PD if contains non-sulfur preservatives
+55,"Fruits, nuts: Composite Ingredients",CRANBERRIES (SULFITE),agent),No PD if contains non-sulfur preservatives

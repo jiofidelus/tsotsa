@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,,Foods,Contents,Daily intake,Weekly intake,Cumulative
+1,,,(mg/kg),(g/person),(ug/person),percentage
+2,1,Cooked rice,0.002,0.462,3.231,21.1
+3,2,Broiled yellow croaker,0.056,0.424,2.967,34.5
+4,3,Broiled mackerel,0.049,0.298,2.086,43.1
+5,4,Mackerel boiled in soy sauce,0.004,0.291,2.036,49.2
+6,5,Cooked rice with other grains,0.036,0.237,1.661,55.1
+7,6,Stew with Alaskan pollack,0.040,0.172,1.201,60.5
+8,7,Stir-fried dry squid shreds,0.060,0.156,1.095,63.5
+9,8,Kim-chi stew with tuna,0.032,0.138,0.967,66.1
+10,9,Canned tuna,0.040,0.113,0.793,68.7
+11,10,Cooked rice with beans,0.010,0.081,0.568,71.2

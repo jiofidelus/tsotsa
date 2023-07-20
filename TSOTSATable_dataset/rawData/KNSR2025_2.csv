@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Country,Number of Samples,Median,Min.,Max.,Reference
+1,,,mg Cd kg-1DW,,,
+2,Australia,359,0.16,0.02,1.16,McLaughlin et al.1997
+3,Belgium,108,0.12,0.03,0.34,porto et al.(2007)
+4,Canada,75,0.11,0.04,0.20,an et al.(2009)
+5,Switzerland,101,0.06,0.01,0.22,cLaughlin et al.1997
+6,Sweden,75,0.04,<0.01,0.14,porto et al.2007
+7,Norway,79,0.06,<0.01,0.22,porto et al. (2007)
+8,Poland,90,0.05,<0.01,0.45,cLaughlin et al. (1997)
+9,New Zealand,60,0.13,0.04,0.34,Our study

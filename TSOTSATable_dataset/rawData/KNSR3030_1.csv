@@ -1,0 +1,72 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Foods,,Pre-processing,Volatile compounds,Volatile compounds,Detector,Modulators (M),Column arrangements,Column arrangements,Ref.
+1,,,methods,(species),,,,,,
+2,,,,2D,1D,,,1D,2D,
+3,Liquors,,,,,,,,,
+4,Wine,Moscatel,HS-SPME,171,69,TOFMS,Quad-jet dual,DB-5,DB-17 ms,Nicolli et al.
+5,, sparkling wine,,,,,stage thermal M,,,2015
+6,,Croatian,HS-SPME,317,51,TOFMS,Quad-jet dual-,VF-Wax ms,Rxi 17 Sil ms,(2020)
+7,,monovarietal,,,,,stage thermal M,,,(2020)
+8,,wine,,,,,,,,
+9,,Moscatel,HS-SPME,172,42,TOFMS,Quad-jet dual,DB-5,DB-17 ms,Soares et al.
+10,,Merlot wine,,,,, stage thermal M,DB-Wax,,2015
+11,,Merlot wine,HS-SPME,142,43,TOFMS,Quad-jet dual,DB-Wax,DB-17 ms,Welke et al.
+12,,,,,,,stage thermal M,,,(2022)
+13,,Australian Shiraz,HS-SPME,133,46 (Longo,TOFMS,Dual-stage quad-,VF-Wax ms,Rxi 17 Sil ms,Suklje et al.
+14,,wine,,,et al.2018,TOFMS,jet thermal M,,,(2019)
+15,Baijiu,Herbaceous,HS-SPME,409,"99(Ma et al.,",TOFMS,Dual-stage quad-,DB-FFAP,Rxi 17 Sil ms,"Wang, et al."
+16,,aroma-type baijiu,,,2020),,jet thermal M,,,"(2020a),"
+17,,,,,,TOFMS,,,,(2020b)
+18,,,SPE,373,-,TOFMS,,,,
+19,,,SBSE,395,,TOFMS,,,,
+20,,Strong aroma-,LLE,350,64-68 (Dong,TOFMS,Dual-stage quad-,DB-Wax,DB-5,Song et al.
+21,,type baijiu,,,et al.2019,TOFMS,jet thermal M,,,(2020)
+22,,,LLE,262,,TOFMS,Dual nozzle,DB-FFAP,Rxi 17 Sil ms,He et al.2020
+23,,,,,,,thermal M,,,
+24,,Guojing sesame-,LLE,509,56(Zheng,TOFMS,,DB-Wax,DB-5,Li et al.2019)
+25,,aroma baijiu,,,et al.2016,,,,,
+26,Other liquor,Chinese rice wine,LLE,145,37,TOFMS,,HP- Innowax,BPX-5,Yu et al.2019
+27,Other liquor,Huangjiu,HS-SPME/LLE,267,<100,TOFMS,Cold-jet M,TG-5MS/HP-,Rtx-17/Rtx-,Zhou et al.
+28,,,,,,,,Innowax,5ms,(2019
+29,,Plum brandie,LLE,195,89 (Ivanovic,TOFMS,Dual-stage jet,DB-FFAP/HP-5,BPX-50,Vyviurska et al.
+30,,,,,"et al.,2021",,cryogenic M,,,2017
+31,Teas,Fu-brick tea,,,"72 (Li et al.,",TOFMS,,DB-5 ms,,
+32,Black Tea,Fu-brick tea,SDE,373,"72 (Li et al.,",TOFMS,,DB-5 ms,DB-17HT,Shi et al.2019)
+33,,,SDE,,2020),,,,,
+34,,Pu-erh tea,SDE,408,79(Costa,TOFMS,,,,
+35,,,,,et al.2015,,,,,
+36,,Citrus blend black,HS-SPME,348,,TOFMS,,Rxi-5 ms,Rxi-17Sil ms,"(2020a),"
+37,,tea,,,,,,,,"(2020a),"
+38,,,,,,,,,,2020b)
+39,Green tea,Laoshan,SAFE/HS,89,50,QMS,Thermal M,HP-Innowax,BPX-1,Zhu et al.
+40,,(Huangshan),SPME,,,,,,,(2021
+41,,Laoshan,,80,42,,,,,
+42,,Laoshan,,,,,,,,
+43,,Laoshan,,78,43,,,,,
+44,,Taiping Houkui,HS-SPME,735,,TOFMS,Thermal M,Restek Rtx-5,Restek Rtx-,Chen et al.
+45,,tea,,,,,,,200,(2020
+46,Others tea,White tea,HS-SPME,238,"et al., 2019",TOFMS,Quad-jet dual,Rxi-5 ms,Rxi-17Sil ms,Chen et al.
+47,,,,,"et al., 2019",,stage thermal M,,,"(2020a),"
+48,,,,,,,,,,2020b)
+49,,"Green, oolong and",SDE,450,,TOFMS,Quad-jet,DB-5 ms,RTX-200 ms,(2013)
+50,,black tea,,,,,cryogenic M,,,(2013)
+51,, Xihu Longjing tea,SDE,478,,TOFMS,,DB-5 ms,DB-17HT,Zhu et al.
+52,Others tea,C. genistoides,HS-SPME,265,77 (Roux,TOFMS,Dual stage,Rxi-5Sil ms,Stabilwax,Ntlhokwe et al
+53,,,,,"et al.,2008",,cryogenic M,,,(2018)
+54,,C.maculata,HS-SPME,257,183 (Roux,TOFMS,,,,
+55,,,,,et al.2012,,,,,
+56,,C. subternata,HS-SPME,238,,TOFMS,,,,
+57,Fruits,,,,,,,,,
+58,Watermelon,Fresh juice,HS-SPME,140,57(Yang,TOFMS,Solid-state M,DB-Wax,DB-17 ms,2021)
+59,,,,,"et al.,2020",,,,,2021)
+60,,Boild juice,HS-SPME,130,55(Yang,TOFMS,,,,
+61,,,,,"et al.,2020",,,,,
+62,Pear,Longyuan-yangli,HS-SPME,160,43-82 (Longo,TOFMS,,Rxi-5 ms,Rxi-17Sil ms,Wang et al.
+63,,,,,"et al.,2018",,,,,(2019
+64,,D jules,HS-SPME,138,,TOFMS,,,,
+65,,Clapp,HS-SPME,139,,TOFMS,,,,
+66,,Stark,HS-SPME,129,,TOFMS,,,,
+67,,Packham,HS-SPME,67,,TOFMS,,,,
+68,Others,Navel orange,HS-SPME,97,44,TOFMS,Solid state M,HP-5 ms,VF-17 ms,(2019)
+69,,Peach,DHS,177,85(Chen,TOFMS,Reverse fill/flush,MEGA-5 ms,Stabilwax,Nolvachai et al.
+70,,,,,et al.2018,,INSIGHT flow M,,,(2020)

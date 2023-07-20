@@ -1,0 +1,29 @@
+,0,1,2,3,4,5
+0,Origin,Variety,Region,Brand,Storage,Number
+1,,,,,method,
+2,,Musang King,,,Stored,
+3,,N=8,Johor,Pagoda,in liquid,
+4,,N=8,,,nitrogen,
+5,,Udang,,,Stored,
+6,,"Merah,N=3",Johor,Pagoda,in liquid,
+7,,"Merah,N=3",,,nitrogen,
+8,,"Phoenix,",Negeri,JiGuo Bay,in liquid,
+9,,N=8,Pahang,JiGuo Bay,nitrogen,
+10,Malaysia,N=8,,,Stored,24
+11,,SultanN=3,Negeri,JiGuo Bay,in liquid,
+12,,,Pahang,,nitrogen,
+13,,"Kampung,",Negeri,,Stored,
+14,,N=1,Pahang,MaYiLiu,nitrogen,
+15,,"Traka,N =1",Negeri,MaYiLiu,in liquid,
+16,,,Pahang,,nitrogen,
+17,,N=9,Chanthaburi,Jinlong,fruit,
+18,Thailand,"Puangmane,",Nonthaburi,Pagoda,in liquid,25
+19,,N=8,,,nitrogen,
+20,,N=8,Chanthaburi,JiaGuoYuan,fruit,
+21,,Kradum,Kampot,MaYiLiu,Fresh,
+22,,"Thong,N=2",Kampot,MaYiLiu,fruit,
+23,,"Puangmanee,",Kampot,MaYiLiu,Fresh,
+24,Cambodia,"Musang King,",,,Fresh,13
+25,,N=2,Kampot,MaYiLiu,fruit,
+26,,N=7,Kampot,MaYiLiu,fruit,
+27,Vietnam,N=11,Tien Giang,LiMei,fruit,11

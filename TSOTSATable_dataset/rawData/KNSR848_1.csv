@@ -1,0 +1,22 @@
+,0,1,2
+0,Selected ion mass(m/z,MS2 scan range (m/z),Target compounds
+1,Analysis 1: product ion settings,,
+2,Monomers,,
+3,291.3,80-700,PC monomers
+4,307.3,80-700,PD monomers
+5,Dimers,,
+6,579.3,155-2000,PCPC dimers
+7,595.3,160-2000,PCPD dimers
+8,611.3,165-2000,PD:PD dimers
+9,Trimers,,
+10,867.3,235-2000,PC3 timers
+11,883.3,240-2000,PC2:PD trimers
+12,899.3,245-2000,PCPD2 trimers
+13,915.3,250-2000,PD3 trimers
+14,Analysis 2: product ion settings,,
+15,Tetramers,,
+16,1155.3,315-2000,PC4 tetramers
+17,1171.3,320-2000,PC3:PD1tetramers
+18,1187.3,325-2000,PC2:PD2tetramers
+19,1203.3,330-2000,PC1:PD3tetramers
+20,1219.3,335-2000,PD4 tetramers

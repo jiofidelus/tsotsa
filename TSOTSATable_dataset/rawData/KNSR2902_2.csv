@@ -1,0 +1,7 @@
+,0,1
+0,Parameter,Optimal value
+1,Supporting electrolyte,HCI
+2,Concentration of the supporting electrolyte(mol/dm,0.15
+3,Einitial(V),0.80
+4,Eend(V),1.25
+5,Irange(A),3-6

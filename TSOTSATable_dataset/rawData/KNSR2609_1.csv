@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Type,Sample,Origin,Roast,Caffeine
+1,,identification,,,(mg/L)
+2,Robusta,IA,India,Medium,314
+3,,IB,,,413
+4,,IC,,,373
+5,,IDm,,,739
+6,,IDI,,Light,762
+7,,IDd,,Dark,421
+8,,V,Viet Nam,Medium,510
+9,,C1,Cameroon,,327
+10,,C2,,,394
+11,,Ci,Cote d'Ivoire,,646
+12,Arabica,K,Kenya,,190
+13,,H1,Honduras,,214
+14,,H2,,,174
+15,,Z11,Zambia,Light,303
+16,,Z1d,,Dark,322
+17,,Z2,,Medium,253
+18,,Z3,,,456
+19,,B,Brazil,,266
+20,,T,UR Tanzania,,310
+21,,Co,Colombia,,279
+22,,Decaffeinated,,,8

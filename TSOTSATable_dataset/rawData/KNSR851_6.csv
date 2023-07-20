@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8
+0,Crop,Common bean,,Lentil,,Chickpea,,Pea,
+1,Folate,CDC Blackcomb,CDC WM-2,CDC Maxim,CDC Greenstar,CDC Consul,CDC Leader,CDC Striker,CDC Dakota
+2,5-CHO-H4PteGlu,41.0,60.3,31.0,27.1,148.4,157.8,7.8,6.2
+3,5-CH3-H4PteGlu,157.8,154.9,112.9,69.7,240.1,200.8,10.4,9.9
+4,"5,10-CH=H4PteGlu",47.4,8.7,3.2,2.0,2.1,0.5,BLOQ,BLOQ
+5,"7,8-HPteGlu",0.8,BLOQ,BLOQ,BLOQ,BLOQ,BLOQ,BLOQ,BLOQ
+6,10-CHO-HPteGlu,1.8,0.4,5.4,BLOQ,0.9,0.2,BLOQ,BLOQ
+7,10-CHO-PteGlu,7.8,5.6,5.4,5.3,28.2,21.7,0.8,0.9
+8,PteGlu,6.8,4.2,2.8,2.7,5.5,5.1,0.3,0.2
+9,H4PteGlu,32.6,11.1,5.7,8.6,10.0,12.1,2.2,2.4
+10,Total folates,296.2,245.3,161.0,115.5,435.4,398.2,21.4,19.5
+11,Previous work Jha et al. (2015) (seeds from 2012),232.4,181.8,156.0,182.4,588.8,491.0,22.8,29.6

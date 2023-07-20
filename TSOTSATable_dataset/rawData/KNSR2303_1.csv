@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Locality,Code for the, Sample,Sample size:,Number of samples testing,,,Number of samples testing positive for transformation events,,Number of samples testing positive for transformation events,Number of samples testing positive for transformation events,
+1,,farmer's markets,identity,,positive for CP4-EPSPS gene,,,,,,,
+2,,,,,,,GTS40-3-2,MON89788,A2704-12,305423,CV127,A5547-127
+3,Shanxi,SX,1-11,2,,6,5,5,4,0,0,0
+4,Wenmiao,WM,12-13,2,,2,1,2,0,0,0,0
+5,Changshun,CS,14-23,10,,8,7,6,4,0,0,0
+6,Wangjia Guai,WJG,2425,2,,1,0,1,1,0,0,0
+7,Xiangrong Qiao,XRQ,2631,6,,1,0,1,1,0,0,
+8,Qingshi Qiao,QSQ,3237,6,,2,0,2,0,0,0,0
+9,Qingshi Qiao,QSQJ,38-40,3,,3,3,3,2,0,0,0
+10,Jialefu,,41-42,,,,,,,,,
+11,Ximian Qiao,XMQ,41-42,7,,1,0,1,0,0,0,0
+12,Ximian Qiao,XMQY,43-49,7,,2,0,2,0,0,0,0
+13,Yimin,,,,,,,,,,,
+14,Shenxianshu,SXS,5062,13,,1,1,1,0,0,0,0
+15,Liangui,LG,63-70,8,,5,4,5,4,0,0,0
+16,Hongjixing,HJX,7172,2,,1,2,0,0,0,0,0
+17,Guangming,GM,73-81,9,,2,2,2,2,0,0,0
+18,Haitong,HT,8293,12,,6,3,6,3,0,0,0
+19,Laomalu,LML,9495,2,,1,1,0,0,0,0,0
+20,Yulin,YL,96-102,7,,4,3,1,1,0,0,1
+21,Junping,JP,103,1,,0,0,0,0,0,0,0
+22,total,,,103,46,46,31,38,21,0,0,1

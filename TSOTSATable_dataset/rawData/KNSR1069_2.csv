@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7,8
+0,Isothiocyanates,Treatments,Flower,Plant tissues (n=3,Plant tissues (n=3,,,,P value
+1,,,and seed,,,,,,5% LSD
+2,,,n=3,,,,,,excluding flower
+3,,,,,,,,,and seed)
+4,,,,Root,Rhizome,,Petiole,Leaf,
+5,,,,,Epidermis+cortex,Vascular+pith,,,
+6,Allyl ITC,Flowering,412,2867a,3144a,2234b,449f,982e,<0.001.345.4
+7,,Non-flowering,,1275de,1773c,1388d,519f,1198de,
+8,3-Butenyl ITC,Flowering,12.5,78.5ab,88.9a,62.8b,10.3d,25.3cd,<0.001.17.3
+9,,Non-flowering,,29.6cd,38.8c,32.5c,13.1d,34.5c,
+10,4-Pentenyl ITC,Flowering,15.9,60.1b,80.5a,44.5bcde,14.1g,31.1ef,<0.001.15.6
+11,,Non-flowering,,39.9cde,52.5bc,36.6def,21.6fg,51.9bcd,
+12,5-Hexenyl ITC,Flowering,4.7,11.5b,16.8a,8.4bcd,4.2e,5.7de,<0.001.3.2
+13,,Non-flowering,,6.6cde,9.2bc,6.2cde,6.7cd,11.5b,
+14,iso-Propyl ITC,Flowering,7.6,5.6,6.7,4.5,0.4,1.6,0.662.NS 3.1
+15,,Non-flowering,,10.7,11.9,10.8,6.3,9.7,
+16,sec-Butyl,Flowering,7.3,17.1ab,19.5a,14.7ab,2.1d,5.2cd,"0.038, 6.9"
+17,,Non-flowering,,16.8ab,20.5a,19.2a,10.5bc,19.2a,
+18,iso-Butyl,Flowering,1.6,5.9ab,6.5a,4.9ab,ND,1.6c,"0.009,1.8"
+19,,Non-flowering,,5.2ab,5.7ab,5.1ab,2.5c,4.6b,
+20,Total ITC,Flowering,461,3046a,3363a,2374b,480f,1052e,<0.001.385.0
+21,,Non-flowering,,1384de,1912c,1499d,579f,1329de,

@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Levels of factors,,,,,Levels of factors,Levels of factors,,,
+1,,Factors,,,Symbol,,,,,
+2,,,,,,-2,-1,0,+1,+2
+3,,pH,,X1,X1,2,4,6,8,10
+4,"Ligand amount (tartrazine,umol","Ligand amount (tartrazine,umol","Ligand amount (tartrazine,umol",X2,X2,20,40,60,80,100
+5,,L-1,,,,,,,,
+6,"Ionic liquid[Hmim][BF4],mg","Ionic liquid[Hmim][BF4],mg","Ionic liquid[Hmim][BF4],mg",X3,X3,0.1,0.3,0.5,0.7,0.9
+7,Temperature('C),Temperature('C),,X4,X4,25,35,45,55,65
+8,"Dispersive Solvent(acetone,L","Dispersive Solvent(acetone,L","Dispersive Solvent(acetone,L",X5,X5,550,650,750,850,950
+9,BXX+8,bo,3.X2+,BXX+8,BXX+8,BXX+8,,,,(1)
+10,,,,1<i<,,,,,,
+11,"Where y is the response absorbance,Xi,Xi X are the independent",,,,,,,,,
+12,variables affecting the responsesPo is the model intercept coefficient;Pi,,,,,,,,,
+13,"iiandii=1,2,...k;j=1,2...,kare the regression coefficients for",,,,,,,,,
+14,"intercept,linear,quadratic,and interaction terms,respectively;k is the",,,,,,,,,
+15,"number of variables,and e the model residua","number of variables,and e the model residua","number of variables,and e the model residua",,"number of variables,and e the model residua",,,,,

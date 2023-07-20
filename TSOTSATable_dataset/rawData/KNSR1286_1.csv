@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Sample,Type,Repeatabilitya,,,,Intermediate precisionb,,,
+1,,,Mean (g/100 g),RSDr(obs)(%),RSDR(pred)(%),"HorRat,d",RSDr(obs)(%),Mean(g/100g),RSDR(pred)(%),"HorRat,d"
+2,NIST 1846,Infant formula,nde,nd,nd,nd,3.9,133,15.3,0.3
+3,NIST 1546,Milk nutritional,198,0.8,14.4,0.1,5.3,219,14.2,0.4
+4,NIST 1546,Meat homogenate,nd,nd,nd,nd,13.2,6,24.4,0.5
+5,NIST 3244,Ephedra protein,482,5.0,12.6,0.4,7.7,475,12.7,0.6
+6,BCR 121,Wheat flour,45,4.0,18.1,0.2,10.9,52,17.7,0.6
+7,BCR 485,Mixed vegetables,273,1.2,13.8,0.1,5.8,264,13.8,0.4
+8,BCR 487,Pig liver,1138,6.1,11.1,0.6,8.9,1246,10.9,0.8

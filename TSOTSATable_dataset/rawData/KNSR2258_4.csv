@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7
+0,Foods Origin,Foods Origin,Energy,protein,Fat,Ca,P,Fe
+1,,,Kcal,gm,gm,mg,mg,mg
+2,,,,,Per 100 gm dry weight,Per 100 gm dry weight,,
+3,Barley,(Hordeum vulgare,,,,,,
+4,,Morocco,400,7.6,2.2,69.9,350,3.5
+5,,East Asia,379,12.2,2.4,57.9,438,7.0
+6,,Latin America,389,10.8,2.1,61.5,381,5.0
+7,Durum wheat(Triticum durum),Durum wheat(Triticum durum),Durum wheat(Triticum durum),,,,,
+8,,Morocco,402,11.1,2.1,40.1,392,3.5
+9,,East Asia,374,14.9,1.9,55.8,349,
+10,,Latin America,382,14.6,2.9,42.5,444,4.9
+11,Soft wheat,(Triticum aestivum),(Triticum aestivum),,,,,
+12,,Morocco,405,10.2,2.3,53.8,358,3.0
+13,,East Asia,379,10.3,2.3,,397,
+14,,Latin America,379,11.9,2.3,48.8,465,4.0
+15,Corn,(Zea mays),,,,,,
+16,,Morocco,414,8.4,4.1,10.9,301,2.4
+17,,East Asia,404,10.5,4.9,16.2,284,3.2
+18,,Latin America,404,10.5,4.8,10.0,324,2.8

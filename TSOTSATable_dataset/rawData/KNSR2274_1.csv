@@ -1,0 +1,21 @@
+,0,1,2,3,4
+0,Sample,"Genus,Species",Plant Part,Form of,Number of
+1,Code,,,Ingredient or,Samples
+2,,,,Supplement,
+3,Botanical Ingredients (BI),Botanical Ingredients (BI),,,
+4,EPA,E.purpurea,aerial,powder,16
+5,Single Ingredient Botanical Supplements (BS),Single Ingredient Botanical Supplements (BS),Single Ingredient Botanical Supplements (BS),,
+6,EPAS,E.purpurea,aerial,capsule,5
+7,EPAL,E.purpurea,aerial,liquid,1
+8,,Mixed Ingredient/Unknown Botanical Supplements (mBS),,Mixed Ingredient/Unknown Botanical Supplements (mBS),
+9,EXAS,Not listed,aerial,capsule,3
+10,EXRS,Not listed,root,capsule,3
+11,EM1RS,E. purpurea &E.,root,capsule,1
+12,,angustifolia,,,
+13,EM2RS,E.purpurea&E.,root,capsule,1
+14,,pallida,,,
+15,EPML,E. purpurea,aerial&root,liquid,1
+16,EM1ML,E.purpurea&E.,aerial&root,liquid,2
+17,,angustifolia,,,
+18,EM1XL,E.purpurea&E.,not listed,liquid,2
+19,,angustifolia,,,

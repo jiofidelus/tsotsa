@@ -1,0 +1,10 @@
+,0,1,2,3,4,5
+0,Methods,Sensitivity,Specificity,Accuracy,MCC,No of
+1,,(%),(%),(%),,wavebands
+2,PLS-DA,89.7,100,93.1,0.860,220
+3,PLS-DA-,87.3,100,91.4,0.831,30
+4,CARS,,,,,
+5,PLS-DA-,72.4,100,74.4,0.679,29
+6,RF,,,,,
+7,PLS-DA-,69.0,100,72.1,0.648,35
+8,VIP,,,,,

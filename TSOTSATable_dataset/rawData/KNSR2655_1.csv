@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,Calibration,,,,
+1,Pretreatment,LVs,Correct Classification (%CV,Correct Classification (%CV,
+2,,,Class,Class,Average
+3,,,Avola,Non-Avola,
+4,Mean Centering,5,98.0,98.1,98.0
+5,1tDerivative +MC,4,100.0,100.0,100.0
+6,2nd Derivative+MC,6,100.0,100.0,100.0
+7,SNV+MC,5,99.0,100.0,99.5
+8,SNV+1tDerivative+MC,5,99.0,100.0,99.5
+9,SNV+2nd Derivative(+MC,4,100.0,100.0,100.0
+10,Prediction on the test set,,,,
+11,Pretreatment,LVs,Correct Classification (%),Correct Classification (%),
+12,,,Class,Class,Average
+13,,,Avola,Non-Avola,
+14,1Derivative+MC,4,100.0,91.7,95.8

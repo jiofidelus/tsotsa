@@ -1,0 +1,23 @@
+,0,1,2,3
+0,Pigments and,Olive cultivar,,
+1,chromaticparameters,Arno,Tevere,Basento
+2,Chlorophyll a,1.81a,1.79a,1.67b
+3,Chlorophyll b,0.83a,0.92b,0.77c
+4,Pheophytin a,12.05a,11.88a,9.83b
+5,Pheophytin b,0.41a,0.44a,0.35b
+6,Chlorophyllid a,0.15a,0.13a,0.10b
+7,Chlorophyllid b,0.11a,0.11a,0.08b
+8,Pheophorbide a,0.19a,0.17a,0.13b
+9,Pheophorbide b,0.12a,0.10a,0.07b
+10,Pyropheophytin a,0.48a,0.39b,0.33c
+11,Total chlorophylls,16.15a,15.93a,13.33b
+12,B-Carotene,2.33a,2.00b,1.89c
+13,Lutein,3.22a,3.35a,2.86b
+14,Neoxanthin,0.50a,0.41b,0.38b
+15,Violaxanthin,0.59a,0.44b,0.40b
+16,Rest of carotenoids,0.61a,0.58a,0.50b
+17,Total carotenoids,7.25a,6.78b,6.03c
+18,Chroma (%),93.8a,91.7b,89.4c
+19,Brightness (%),86.4a,87.8b,88.2c
+20,Hue(nm),578a,579b,579c
+21,Cold index,-0.03a,-0.02b,-0.02b

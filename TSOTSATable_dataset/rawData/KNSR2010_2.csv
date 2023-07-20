@@ -1,0 +1,13 @@
+,0,1,2
+0,Characteristics to be evaluated,Procedures to be followed,Number of determinations
+1,Linearity,Analysis of standards,20 standard solutions of five concentration levels (0-20gl-150gl-1 or
+2,,,100gldepending on the analyte.
+3,Limits of quantification,Analysis of blanks,At least 21 blank samples after correction for typical sample weight
+4,,,(0.3 g and 0.6g) and dilutions
+5,"Specificity(interferences,matrix effects)",Analysis of spiked samples at,At least 10 spiked samples over working range
+6,,appropriate concentrations,
+7,Precision under repeatability conditions,Replicate analysis of samples,2 measurement values of at least 10 various samples at different levels in
+8,,,the defined linear range
+9,Trueness,"Reference materials (CRMs,if available","At least 5 analysis of 3 CRMs (mussel,fish,herb)"
+10,Intermediate precision reproducibility,Analysis of duplicate sample solutions,"At least 10 duplicate sample solutions (CRMs if available), by different"
+11,,from the same homogeneous sample,analysts over a period of several months

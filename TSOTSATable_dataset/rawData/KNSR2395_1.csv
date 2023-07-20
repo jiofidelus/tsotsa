@@ -1,0 +1,43 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,,Number of servings per 100 g of a food itema,,,,,Common serving size (g),Criteriab
+1,,,G,M,V,F,D,0,,
+2,,Food items on the KFGStotal=3461,,,,,,,,
+3,,"White rice,raw",1.1,0,0,0,0,0,90,1
+4,,"White rice, cooked",0.5,0,0,0,0,0,210,1
+5,,White bread,1.0,0,0,0,0,0,100,1
+6,,"Chicken, raw",0,1.7,0,0,0,0,60,1
+7,,"Chicken, fried",0,2.4,0,0,0,1.9,42,1-A
+8,,"Pork,raw",0,1.7,0,0,0,0,60,1
+9,,"Pork, roasted",0,2.4,0,0,0,0,42,1-A
+10,,"Pork, belly, raw",0,1.7,0,0,0,1.7,60,1-A
+11,,"Kidney bean, dried",0,5.0,0,0,0,0,20,1
+12,,"Kidney bean, cooked",0,3.3,0,0,0,0,30,1-A
+13,,"Carrot, raw",0,0,1.4,0,0,0,70,1
+14,,Cabbage kimchi,0,0,2.5,0,0,0,40,1
+15,,"Mushroom, raw",0,0,3.3,0,0,0,30,1
+16,,"Peach, raw",0,0,16.7,0,0,0,100,1-A
+17,,"Peach, raw",0,0,0,1,0,0,100,1
+18,,"Peach, canned",0,0,0,1,0.5,1,200,1
+19,,Whole milk,0,0,0,0,0.5,0,200,1
+20,,Chocolate flavored milk,0,0,0,0,0.5,0.5,200,1
+21,,Jam,0,0,0,0,0,10.0,10,1
+22,,Mayonnaise,0,0,0,0,0,20.0,5,1
+23,,Instant coffee mix (including sugar and creamer),0,0,0,0,,8.3,12,1
+24,,"Carbonated beverage,coke",0,0,0,0,0,1.0,200,1-A
+25,,,,,:,,,,,
+26,,Food items not on the KFGS(total=793,,,,,,,,
+27,,Wheat flour,1.1,0,0,0,0,0,45d,2
+28,,"Instant noodle (Ramen, dried",0.8,0,0,0,0,2.8,120,2-A
+29,,Bread with jam,0.7,0,0,0,0,3.0,100,2-A
+30,,Doughnut,1.0,0,0,0,,3.2,100,2-A
+31,,"Corn, dried",3.3,0,0,0,0,0,30,2
+32,,"Squid, salt-fermented",0,10.0,0,0,,0,32,2
+33,,"Persimmon, dried",0,0,0,3.1,0,0,32,2
+34,,Salad dressing,0,0,0,0,0,10.0,10,2
+35,,,,,...,,,,,
+36,,Mixed foods(total=116,,,,,,,,
+37,,Sandwich with egg and cheese,0.6,0.5,0,0,0.8,0,100,3
+38,,Pizza,0.5,0.1,0.9,0,0.9,0,145,3
+39,,Dumpling,0.5,1.2,0.9,0,0,0,150,3
+40,,Fried rice with ham,0.6,0.2,0.3,0,0,0,250,3
+41,:,,,,:,,,,,

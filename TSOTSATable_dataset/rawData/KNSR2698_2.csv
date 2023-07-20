@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7,8
+0,Crop common,Trial,Sowing,Harvest,Crop duration,Mean air temperature,Mean daily solar,Relative,Total rainfall
+1,name,,dates,dates,(days),(c),intensity (w-h Wm),humidity (%),(mm)
+2,Choysum,Dry season,Dec 13 2005,Jan 19 to 24 2006,38-43,17.96,3091989,61.4,17
+3,,Wet season,June 28 2006,Jul 31 to Aug 72006,34-41,29.47,4493  1901,65.2,647
+4,Kailaan,Dry season,Dec 27 2005,Feb 7 to 24 2006,43-60,18.88,3365  946,67.3,25
+5,,Wet season,Aug 16 2006,Sep 26-29 2006,42-45,29.17,4420  1049,66.7,311

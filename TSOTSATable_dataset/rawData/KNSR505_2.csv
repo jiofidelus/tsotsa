@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,No.,Pesticide,Retention time,Quantification,Qualification
+1,,,(min),ion,ion
+2,1,aldrin,11.2,263,"103,79"
+3,2,-HCH,9.6,183,"219,109"
+4,3,chlorneb,7.7,191,"141,193"
+5,4,chlortalonil,9.9,264,"266, 268"
+6,5,cyflometofen,4.9,173,145
+7,6,DCPA,11.2,223,273
+8,7,"P,p'-DDE",12.7,248,"316,318"
+9,8,"p,p'-DDT",13.5,235,"237,248"
+10,9,-HCH,9.9,183,"219,109"
+11,10,endosulfan,11.2,229,"195,272"
+12,11,lindane,9.9,181,219
+13,12,permethrin,7.6,163,"183, 184"

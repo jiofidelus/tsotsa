@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,,Predicted group,Predicted group,,
+1,Actual group,Actual group,Group size,Africa,Asia
+2,Africa (A),18(100.0%),18,18(100.0%),0 (0.0%)
+3,Asia(B),,36,1 (2.8%),35 (97.2%)
+4,,Discriminant function=-0.451A1+0.599Ba+0.466Ca-0.811Co+0.366Cr+0.709Cs+0.339Cu+0.625Fe,,,
+5,,+0.354Mg-0.458Mn-0.171Ni+0.542Pb-0.667Rb-1.192Sr-0.585Ti+0.209V-0.415Zn,,,+0.354Mg-0.458Mn-0.171Ni+0.542Pb-0.667Rb-1.192Sr-0.585Ti+0.209V-0.415Zn
+6,SIMCA,,,,
+7,Africa (A),,18,15(83.3%),3 (16.7%)
+8,Asia (B),32 (88.9%),36,4 (11.1%),32 (88.9%)

@@ -1,0 +1,78 @@
+,0,1,2,3
+0,Food group,Sub-group,PB-,PB-
+1,,,,H
+2,,Potato salad with mayonnaise,x,x
+3,,Refined potato products,V,x
+4,,Potatoes mashed with milk/butter/cream/,,V
+5,,dairy fat spreads/other fat spreads,,
+6,,Unrefined potato dishes made with no/,V,V
+7,,minimal animal-derived ingredients,,
+8,Cereal& cereal,,,
+9,products,,,
+10,Breads,Breads made with dairy,x,x
+11,,Wholegrain breads,,V
+12,,Refined breads,,x
+13,,Other breads,,x
+14,Breakfast cereals,Refined ready-to-eat breakfast cereals,,
+15,,Wholegrain ready-to-eat breakfast cereals,,
+16,,Porridge & hot oat cereals made up with,x,x
+17,,milk,,
+18,,Porridge made up without milk,V,V
+19,,Hot oat cereals made up without milk,V,x
+20,"Rice, pasta, flours,","Refined discrete rice, pasta,flours, grains ",V,r
+21,grains & starches,starches,,
+22,,"Wholegrain discrete rice, pasta, flours,",V,V
+23,,grains & starches,,
+24,,Dairy-based dishes & products based on,x,x
+25,,"rice, pasta, flours, grains & starches",,
+26,,"Dishes & products based on rice, pasta,",x,x
+27,,"flours, grains & starches made with/cooked",,
+28,,"in animal fat (e.g., lard, suet, dripping)",,
+29,,"Dishes & products based on refined rice,",V,
+30,,"pasta, flours, grains & starches containing",,
+31,,no/minimal animal-derived ingredients,,
+32,,Batter used to make sweet & savoury,x,x
+33,,pancakes & Yorkshire pudding,,
+34,,"Dishes based on unrefined rice, pasta,",V,V
+35,,"flours, grains & starches containing no/",,
+36,,minimal animal-derived ingredients,,
+37,Beverages,,,
+38,Alcohol,Dairy-based alcoholic beverages,,x
+39,,Non-dairy alcoholic beverages,V,x
+40,Tea&coffee,"Tea, coffee & similar beverages made up",x,x
+41,,with dairy,,
+42,,"Tea, coffee & similar beverages made up",V,V
+43,,without dairy,,
+44,Chocolate & malt,Chocolate & malt drinks made up with,x,x
+45,beverages,dairy,,
+46,,Chocolate & malt drinks made up without,V,x
+47,,dairy,,
+48,Other beverages,Carbonated beverages,V,x
+49,,"Cordials, squashes & other beverages",>>,V
+50,,Mineral water,>>,V
+51,Soups & sauces,,,
+52,Dairy & egg-based,Dairy-based soups & sauces,x,x
+53,soups & sauces,,,
+54,,Egg-based sauces,,x
+55,Other soups&sauces,Refined vegetable soups & sauces,V,x
+56,,containing no/minimal animal-derived,,
+57,,ingredients,,
+58,,Unrefined vegetable soups & sauces,V,
+59,,containing no/minimal animal-derived,,
+60,,ingredients,,
+61,"Foods high in fat,",,,
+62,salt & sugar,,,
+63,Oils,"Seed, vegetable & nut oils",V,V
+64,,Spray oils,V,x
+65,Biscuits & crackers,Biscuits & refined crackers,V,x
+66,,Wholegrain crackers,V,V
+67,"Cakes, pastries & buns","Dairy-based cakes, pastries & buns",x,x
+68,,"Custard-based cakes, pastries & buns",x,x
+69,,"Other cakes, pastries & buns",V,
+70,Puddings & desserts,Dairy-based puddings & desserts,x,x
+71,,Meringue-based puddings & desserts,x,x
+72,,Custard & custard-based puddings &,x,x
+73,,desserts,,
+74,,Other puddings & desserts,V,x
+75,"Sugar, sweeteners,",Sugar,,x
+76,syrups&preserves,,,

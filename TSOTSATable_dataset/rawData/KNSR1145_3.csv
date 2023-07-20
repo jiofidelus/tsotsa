@@ -1,0 +1,6 @@
+,0,1,2,3
+0,Chemical composition,Wild,Cultured,P-value
+1,Moisture,80.8  0.2,80.2  0.4,0.159
+2,Crude protein,14.3  0.2,14.7  0.3,0.259
+3,Crude lipid,1.65  0.03a,1.15  0.06b,0.001
+4,Ash,0.79  0.03b,0.92  0.04a,0.012

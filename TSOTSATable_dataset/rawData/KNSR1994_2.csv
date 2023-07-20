@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6
+0,Shellfish species,"Contents of saxitoxin (g/kg) (RSD, %)","Contents of saxitoxin (g/kg) (RSD, %)",,"Contents of decarbamoylsaxitoxin (g/kg) (RSD, %)","Contents of decarbamoylsaxitoxin (g/kg) (RSD, %)",
+1,,CEIA with EC detection,ELISA Check-kit,Mouse bioassay,CEIA with EC detection,ELISA Check-kit,Mouse bioassay
+2,Clam,17.2 (1.8),<LOD,<LOD,<LOD,<LOD,<LOD
+3,Oyster,421.2 (5.3),415.9(5.1,418.3 (6.3),115.8 (4.1),358.2 (3.7),<LOD
+4,Cockle,421.2 (5.3),415.9(5.1,418.3 (6.3),364.7 (2.9),358.2 (3.7),<LOD
+5,Small clam,716.2 (2.6),710.8 (2.2),702.5 (4.1),603.6 (5.2),612.1 (4.8),615.4 (7.3)
+6,Mussel,1135.6 (6.7),1146.5 (6.3),1152.3 (7.2),1071.4 (5.6),1082.2 (4.3),1087.8 (7.1)
+7,Edible whelk,582.8 (4.9),576.2 (4.5),591.4 (5.8),356.6 (3.7),345.8 (6.1),<LOD
+8,Scallop,664.9 (3.3),665.3 (3.4),656.5 (6.6),512.1 (4.5),519.4 (3.2),<LOD
+9,Quahaug,893.5 (6.1),918.1 (6.7),912.3 (5.3),764.3 (6.5),773.8 (5.5),777.6 (6.2)
+10,Periwinkle,946.3 (3.9),940.7 (4.0),938.2 (8.4),812.5(5.3),803.7 (4.1),805.5 (5.6)

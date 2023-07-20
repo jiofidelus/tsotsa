@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6
+0,,,,End-point PCRc,,qPCR,
+1,,Commercial samples,Label,18SRG-F/18SRG-R,Styj3-F/Styj3-R,Cq (meanSDa,Estimated S. japonicum
+2,,,,,,,"meanSD,%,w/wb"
+3,1,Ginkgo tea (leaves),100 % ginkgo,+,,ND,
+4,2,Ginkgo tea (leaves),100% ginkgo,+,-,ND,
+5,3,Ginkgo tea (leaves),100 % ginkgo,+,,ND,
+6,4,Herbal infusion (sachets),15 % ginkgo,+,-,ND,
+7,5,Ginkgo infusion (sachets),100 % ginkgo,+,+,>32.00,
+8,6,Ginkgo infusion (sachets),100% ginkgo,+,+/-,>32.00,
+9,7,Ginkgo tea (leaves),100 % ginkgo,+,,ND,
+10,8,Ginkgo bio-infusion (leaves(Agriculture non-EU),100 % ginkgo,+,-,ND,
+11,9,Ginkgo tea (leaves)(Agriculture non-EU),100 % ginkgo,+,-,ND,
+12,10,Tisana MC (Plant mixture),15 % ginkgo,,,ND,
+13,11,Tisana TB (Plant mixture),15% ginkgo,+,,ND,
+14,12,Ginkgo tea (sachets),30 % ginkgo,+,+,30.50  0.19,<0.01LOD
+15,13,Ginkgo tea (sachets),100 % ginkgo,+,+,27.28  0.06,<0.05LOQ
+16,14,Herbal tea (sachets),Ginkgo (% not labelled),+,-,ND,
+17,15,Herbal tea (sachets),Ginkgo (% not labelled),+,-,ND,
+18,16,Herbal tea (sachets),Ginkgo (% not labelled),+,-,ND,
+19,17,Herbal tea (sachets) (Agriculture non-EU),15 % ginkgo,+,-,ND,
+20,18,Ginkgo tea (leaves),100 % ginkgo,+,-,ND,
+21,19,Ginkgo tea (leaves),100 % ginkgo,+,+,29.050.16,<0.01(LOD)
+22,20,Ginkgo tea (sachets),100 % ginkgo,+,+/-,>32.00,
+23,21,Ginkgo tea (leaves),100 % ginkgo,+,+/-,>32.00,

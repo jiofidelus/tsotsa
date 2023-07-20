@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Compound Number,Retention Time (min),m/z[M-H]aor,SRM Transition: m/z < Fragment and Detected Fragments c,Tentative Identification
+1,,,[M+H]+b,,
+2,Triterpenoids,,,,
+3,102,19.54,503,"MS[503]:503,485",Madecassic acid isomer
+4,104,20.60,503,"MS2[503]:195,503,485",Madecassic acid isomer 
+5,106,23.08,503,"MS2[503]:503,485",Madecassic acid isomer 
+6,109,25.20,487,"MS2[487]:487,417,413,167","Asiatic acid I, o"
+7,111,26.22,501,"MS2[501]:471,501,453,167,119,126","Guavenoic acid I, :"
+8,112,27.44,487,"MS2[487]:487,213",Asiatic acid
+9,Unknown a,,,,
+10,57,10.83,505,"MS[505]:169,191,125,313,151,301",
+11,91,16.02,443,"MS2[443]:323,353,335,295,204",

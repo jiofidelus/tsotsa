@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,,Mean  SD,Minimum,Maximum,P25,P75,P95
+1,ACR(ng/kg bw/day,,,,,,
+2,Traditional,10.77  17.22 A,2.43,37.10,4.13,14.8,36.22
+3,Novel formulations,17.22  20.14 A,0.55,77.01,3.54,19.57,72.33
+4,HMF(g/kg bw/day),,,,,,
+5,Traditional,0.38  0.92 A,0.01,5.05,0.05,0.23,2.95
+6,Novel formulations,1.02  1.51 B,0.02,5.24,0.07,1.40,5.15
+7,Furfural (g/kg bw/day),,,,,,
+8,Traditional,0.05  0.52 A,0.01,0.21,0.01,0.16,0.55
+9,Novel formulations,0.14  0.16 B,0.01,0.01,0.02,0.16,0.55

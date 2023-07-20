@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Tag,Compound name,Elemental,Polarity,Theorical m/z,Fragmentl,Fragment2,Fragment3,Mass error,RT
+1,,,Composition,,,,,,(ppm),(min)
+2,SL1,"11-,13-dihydro-lactucin",CHgO5,ESI+,279.12380,187.07504,243.10092,215.10622,3.65,15.34
+3,SL2,Lactucin,C15H16O5,ESI+,277.10705,185.09518,213.08983,241.08426,4.51,16.85
+4,SL3,15-deoxylactucin-8-sulfate,C15H16O?S,ESI-,339.05330,96.95867,243.12213,,3.83,18.15
+5,SL4,8-deacetylmatricarin-8-sulfate,C15HgOS,ESI-,341.06895,96.95940,205.12134,,3.69,18.32
+6,,(dihydro-8-deoxy-lactucin-8-sulfate or jacquinelin-8-,,,,,,,,
+7,,sulfate),,,,,,,,
+8,SL5,dihydrolactucin-sulfate,C15HgOgS,ESI-,357.06386,159.04350,269.08066,277.10678,2.49,18.82
+9,HPAI1,4-hydroxyphenylacetic acid inositol A (isomer 1),C22H24O10,ESI-,447.12857,151.03790,279.10195,295.10394,4.43,18.95
+10,HPAI2,4-hydroxyphenylacetic acid inositol A,C22H24O10,ESI-,447.12857,151.03786,175.03769,295.10230,4.63,19.27
+11,,(isomer 2),,,,,,,,
+12,SL6,lactuside C(jacquinelin glucoside),C21H28O9,ESI-,423.16610,261.11105,349.12653,405.15945,3.97,19.30
+13,HPAI3,4-hydroxyphenylacetic acid inositol A,C22H24O10,ESI-,447.12857,151.03783,175.03763,295.07874,4.56,19.95
+14,,(isomer 3),,,,,,,,
+15,SL7,8-deoxy-lactucin,CHO4,ESI+,261.11213,187.11086,215.10542,243.09923,4.02,19.98
+16,HPAI4,4-hydroxyphenylacetic acid inositol B,C3oH30O12,ESI-,581.16535,151.03786,295.07993,429.11548,4.63,20.08
+17,,isomer 1,,,,,,,,
+18,SL8,dihydro-8-deoxy-lactucin (jacquinelin),C15HgO4,ESI+,263.12779,189.09027,217.12120,245.11691,3.99,20.16
+19,HPAI5,4-hydroxyphenylacetic acid inositol B,CoH3oO12,ESI-,581.16535,151.03780,295.17980,429.11548,4.94,20.76
+20,,(isomer 2),,,,,,,,
+21,SL9,Santonin,C5HgO3,ESI+,247.13287,135.08490,173.09520,201.12627,4.61,21.52
+22,SL10,lactucopicrin-15-oxalate,C25H22O10,ESI-,481.11402,151.03775,213.0896,257.07944,3.10,21.58
+23,HPAI6,4-hydroxyphenylacetic acid inositol B,C3oH3oO12,ESI-,581.16535,151.03780,295.07981,429.11554,4.63,21.62
+24,,(isomer 3,,,,,,,,
+25,SL11,"1-(4-hydroxyphenylacetyl)-15-O--D-glucopyranosyl-5,",C2gH38O11,ESI-,561.23413,151.03862,409.19130,427.20938,2.07,21.92
+26,,"6 H-eudesma-3-en-12,6a-olide",,,,,,,,
+27,SL12,Dihydrolactucopicrin,C23H24O7,ESI-,411.14493,151.03793,215.10551,259.06906,4.04,22.92
+28,SL13,santamarin-sulfate,C15H2oOgS,ESI-,327.08968,215.10544,151.03786,96.95805,3.61,22.93
+29,SL14,Lactucopicrin,C23H22O7,ESI-,409.12928,257.07962,213.08974,151.03789,4.20,23.26
+30,SL15,Taraxacin,C15H4O3,ESI+,243.10157,197.09467,215.10641,199.11086,3.54,24.31

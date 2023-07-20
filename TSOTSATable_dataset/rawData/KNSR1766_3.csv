@@ -1,0 +1,74 @@
+,0,1,2,3,4,5
+0,(nm),Tentative identification,Peak no,Quantification mg/100g JPP-MT,Peak no,Quantification mg/1OogJPP-MJ
+1,FREE PHENOLIC COMPOUNDS,FREE PHENOLIC COMPOUNDS,,,,
+2,,Hydroxybenzoate derivatives (HBD) or tannins*,,,,
+3,280,Monogalloyl glucose +HHDP-galloylglucose,1A,9.9  4.5A,1A,3.7  0.8A
+4,280,Casuariin + HHDP-galloylglucose +3-O-galloylquinic acid,2A,168  21A,2A,45.7  3.6B
+5,280,HHDP-galloylglucose isomer,5A,14.5  4.1A,5A,3.1  0.3B
+6,280,Pedunculagin,8A,93.0  9.0A,7A,30.4  3.4B
+7,280,Trisgalloyl HHDP glucose,9A,18.8  1.3A,8A,11.2  0.8B
+8,280,Tellimagrandin I + Castalin,10A,91.4  7.8A,9A,9.8  1.0B
+9,280,Catechin or Epicatechin + Castalin isomer,12A,37.8  6.4A,11A,5.6  0.5B
+10,280,Casuarinin + HHDP-galloylglucose,13A,89.6  4.1A,13A,18.1  1.0B
+11,280,Digalloylglucose + Casuarictin,14A,127  6A,14A,33.4  1.7B
+12,280,HHDP-digalloylglucose isomer +Trisgalloyl-HHDP-glucose isomer,17A,1152A,16A,14.80.8B
+13,280,Trigalloylglucose,19A,217  2A,18A,18.8  0.7B
+14,280,Trigalloylglucose isomer,,,20A,5.8 0.4
+15,280,Bis-HHDP-galloylglucose isomer,,,21A,15.7 1.0
+16,280,Castalagin/Vescalagin,24A,60.8  6.1A,23A,15.3  0.3B
+17,280,Tetragalloylglucose,31A,40.9  3.3A,27A,24.7  2.4B
+18,280,Tetragalloylglucose isomer,39A,244  18^,33A,71.8  4.3B
+19,280,Galloyl-castalagin + Pentagalloyl glucose,39A,142  12A,33A,89.0  3.7B
+20,280,Galloyl-castalagin isomer,47A,44.9  4.8A,40A,17.4 1.0B
+21,280,Sum of non-identified HBD or tannins,##,1799.9,##,361.2
+22,Total HBD or tannins,Total HBD or tannins,,3315.4,,788.5
+23,Hydroxycinnamate derivatives (HCD**,Hydroxycinnamate derivatives (HCD**,,,,
+24,320,Sum of non-identified HCD,##,15.7,##,12.8
+25,Total HCD,,,15.7,,12.8
+26,Flavonol derivatives and ellagic acid***,Flavonol derivatives and ellagic acid***,,,,
+27,360,Ellagic acid pentoside,,,6C,9.7  0.1
+28,360,Ellagic acid pentoside,,,9C,9.3  0.1
+29,360,Ellagic acid,10C,59.4  4.1A,10C,53.9  1.9A
+30,360,Myricetin-rhamnoside,11C,24.4  1.3A,11C,15.70.3B
+31,360,Quercetin-hexoside,12C,16.50.6A,12C,12.00.1
+32,360,Quercetin-hexoside,13C,21.81.1A,13C,13.80.2
+33,360,Quercetin-pentoside,15C,120.2,,
+34,360,Quercetin-pentoside,16C,14.50.4,,
+35,360,Quercetin-rhamnoside,17C,25.41.2A,17C,18.90.4B
+36,360,Sum of non-identified flavonol,##,169.7,##,184.9
+37,Total flavonols and ellagic acid derivatives,Total flavonols and ellagic acid derivatives,,356.5,,318.1
+38,Anthocyanins****,Anthocyanins****,,,,
+39,520,Delphinidin-3-glucoside,1D,176  7.5A,1D,108.1  3.7B
+40,520,Cyanidin-3-glucoside,2D,1632  69.1A,2D,1039.1  47.1B
+41,520,Pelargonidin-3-glucoside,3D,4.7  0.2A,3D,1.90.03B
+42,520,Peonidin-3-glucoside,,,4D,3.5 0.1
+43,520,Sum of non-identified anthocyanins,,0.0,,0.0
+44,Total anthocyanins,Total anthocyanins,,1813,,1153
+45,Total free phenolic compounds,Total free phenolic compounds,,5500.6,,2272.4
+46,,MATRIX-BOUND PHENOLIC COMPOUNDS-Alkaline Hydrolysis,,,,
+47,,Hydroxybenzoate derivatives (HBD) or tannins*,,,,
+48,280,Gallic acid,4A,8.0  0.5B,1A,38.4  12.8A
+49,280,Protocatechuic acid,##,12.2  1.2B,##,23.6
+50,280,Sum of non-identified HBD or tannins,##,23.6,##,23.6
+51,Total HBD or tannins,Total HBD or tannins,,43.8,,95.9
+52,320,Sum of non-identified HCD,##,28.1,##,49.8
+53,Total HCD,,,28.1,,49.8
+54,Flavonol derivatives and ellagic acid***,Flavonol derivatives and ellagic acid***,,,,
+55,360,Ellagic acid,16C,46.6  3.2^,11C,32.8  6.3B
+56,360,Sum of non-identified flavonols,##,108.3,##,187.4
+57,Total Flavonols and ellagic acid,Total Flavonols and ellagic acid,,155.0,,220.2
+58,Total matrix-bound-alkaline hydrolysis,Total matrix-bound-alkaline hydrolysis,,226.9,,365.9
+59,,MATRIX-BOUND POLYPHENOLS-Acid Hydrolysis,,,,
+60,,Hydroxybenzoate derivatives (HBD) or tannins*,,,,
+61,280,Gallic acid,2A,1.3  0.2A,1A,2.3  1.4A
+62,280,Protocatechuic acid,5A,0.2  0.1B,4A,0.5  0.02A
+63,280,Sum of non-identified HBD or tannins,##,8.7,# #,39.5
+64,Total HBD or tannins,Total HBD or tannins,,10.2,,42.3
+65,Hydroxycinnamate derivatives(HCD**,Hydroxycinnamate derivatives(HCD**,,,,
+66,320,Sum of non-identified HCD,##,2.6,##,3.9
+67,Total HCD,,,2.6,,3.9
+68,Flavonol derivatives and ellagic acid***,Flavonol derivatives and ellagic acid***,,,,
+69,360,Ellagic acid,6C,2.5  0.4A,6C,2.6  0.6A
+70,360,Sum of non-identified flavonols,##,4.3,##,12.5
+71,Total flavonols and ellagic acid,Total flavonols and ellagic acid,,6.8,,15.1
+72,,hvdrolvsi,,19.6,,61.3

@@ -1,0 +1,26 @@
+,0,1
+0,ICP-MS,PerkinEmer NexION 350D
+1,Spray chamber,Cyclonic spray chamber(PC3 Peltier Chiller)
+2,Nebulizer,Conical U-series nebulizer
+3,Injector tuber,2.0 mm i.d. Quartz
+4,"RF power,W",1500
+5,"Plasma-gas flow, L/",17
+6,min,
+7,"Auxiliary-gas flow,L/",0.85
+8,min,
+9,Nebulizer-gas flowL/,0.9
+10,min,
+11,"Sampling depth, mm",-0.4
+12,Sweeps,25
+13,Reading per replicate,3
+14,"Dwell time,ms",50
+15,Monitored ion,
+16,,"141pr,146Nd,147Sm,153Eu,157Gd,159Tb,163Dy,165Ho,"
+17,,"166Er,169Tm, 172Yb, and 175Lu."
+18,Internal standard,103Rh
+19,Particle size reduction,Tissue Cell-Destroyer 1000
+20,"Rotation speed, r/min",5500
+21,"Each milling time, s",10
+22,"Time interval, s",10
+23,"Total milling time, s",120
+24,"Temperature,",35

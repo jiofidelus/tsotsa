@@ -1,0 +1,10 @@
+,0,1,2,3
+0,Step,Temperature (C),Ramp(C/s),Gas
+1,Drying,90,3,Oxygen
+2,,110,5,Oxygen
+3,Pyrolysis,500,50,Oxygen
+4,Pyrolysis,600 (Pb),300 (Pb),Argon
+5,,600 (Cd),300 (Cd),
+6,Atomization,1400(Pb,1400(Pb),
+7,,1200 (Cd),1200 (Cd),
+8,Cleaning,2550,500,Argon

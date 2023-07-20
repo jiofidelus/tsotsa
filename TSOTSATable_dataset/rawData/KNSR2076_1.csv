@@ -1,0 +1,11 @@
+,0,1
+0,Wavelength (nm,309.3
+1,Slit width (nm),0.7
+2,Instrumental conditions,
+3,Argon flow (mL/min),30
+4,Heating program temperature(C/(ramp,
+5,time (s)/hold time (s)),
+6,Drying,100-140/5/20
+7,Ashing,1700/10/20
+8,Atomization,2500/0/5
+9,Cleaning,2600/1/3

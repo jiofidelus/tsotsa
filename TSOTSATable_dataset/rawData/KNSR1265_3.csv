@@ -1,0 +1,58 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+0,,A,,,B,c,,E,,,F,,,G,,,H,,,N,,,R,,AA,,AB,AC,AD
+1,1,subgroups,,name,,,Water,,,Crde protein,Crde protein,,Cruda fat,Cruda fat,,Carbohydrates,Carbohydrates,,,,,Vitamin E potenc Vitamin B6,,,Zn,,,outliers,outliers
+2,2,,,,,,,,2,,,3,,,4,,,S,,,11,,,15,,24,,1.5000,3.0000
+3,3,,1Carrot,1Carrot,,,,,,*,,,*,,,,,,,,,*,,,*,,,#NUM!,HNUM
+4,4,,2Radishe,2Radishe,,,,,,*,,,*,,,*,,,,,,*,,,,,,#NUM!,INUM
+5,5,,3Bamboo Shoots,3Bamboo Shoots,3Bamboo Shoots,,0.150606214,0.150606214,0.150606214,0.194315908,0.194315908,0.194315908,0.306018687,0.306018687,0.306018687,0.134899242*,0.134899242*,0.134899242*,,,,*,,,0.804570423,0.804570423,,1.6435,2.5551
+6,6,,4Cabbages,4Cabbages,,,0.156017833,0.156017833,0.156017833,0.189787367,0.189787367,0.189787367,0.480040132,0.480040132,0.480040132,0.117868613*,0.117868613*,0.117868613*,0.117868613*,,,0241244474,0241244474,0241244474,0.22279S846,0.22279S846,,0.6964,1.0200
+7,7,,5Ginger,5Ginger,,,,,0,1.414213562,1.414213562,1.414213562,0.282842712,0.282842712,0.282842712,0.094280904*,0.094280904*,0.094280904*,0.094280904*,,,,,,,0,,0.6462,1.0265
+8,8,,6Asparaguses,6Asparaguses,6Asparaguses,,0.09114811,0.09114811,0.09114811,1.051788303,1.051788303,1.051788303,0.394960544,0.394960544,0.394960544,0.2140SS2S4*,0.2140SS2S4*,0.2140SS2S4*,0.2140SS2S4*,,,*,,,0.641946771,0.641946771,,1.3776,2.0809
+9,9,,7Stems,7Stems,,,0.439596331,0.439596331,0.439596331,0.514259477,0.514259477,0.514259477,0.3462182S8,0.3462182S8,0.3462182S8,0.275892966*,0.275892966*,0.275892966*,0.275892966*,,,*,,,0.346218258,0.346218258,,1.1977,1.7659
+10,10,,8Chinese Chives,8Chinese Chives,8Chinese Chives,,0.300608275,0.300608275,0.300608275,0.060268398,0.060268398,0.060268398,0.428847612,0.428847612,0.428847612,0.082208717*,0.082208717*,0.082208717*,0.082208717*,,,0.498972768,0.498972768,0.498972768,0.3401S866,0.3401S866,,0.7290,1.0513
+11,11,,9Bean Sprouts,9Bean Sprouts,9Bean Sprouts,,0.192068286,0.192068286,0.192068286,0.401922923,0.401922923,0.401922923,0.06S202215,0.06S202215,0.06S202215,,0.4985612*,0.4985612*,0.4985612*,,,*,,,0.187425894,0.187425894,,2.0827,3.2379
+12,12,,10Spinach,10Spinach,,,,,,,,,,,,*,,,,,,,,,,,,#NUM!,HNUM!
+13,13,,11Califlower,11Califlower,11Califlower,,,,,*,,,,,,*,,,,,,*,,,*,,,#NUM!,HVUM!
+14,14,,12Wax Gourd,12Wax Gourd,12Wax Gourd,,,,,,,,,,,*,,,.,,,*,,,.,,,#NUM!,HVUM!
+15,15,,13Baby Com,13Baby Com,13Baby Com,,,,,*,,,,,,,,,,,,,,,,,,#NUM!,HVUM!
+16,16,,14Cucumbers,14Cucumbers,14Cucumbers,,0.06444648,0.06444648,0.06444648,,0.2618914,0.2618914,0.341361894,0.341361894,0.341361894,0.155269738,0.155269738,0.155269738,0.155269738,,,0.061487S46,0.061487S46,0.061487S46,0.061487546,0.061487546,,0.8376,1.2640
+17,17,,15Bitter Melons,15Bitter Melons,15Bitter Melons,,0.711000626,0.711000626,0.711000626,0.265186994,0.265186994,0.265186994,0.538222049,0.538222049,0.538222049,0.162827705,0.162827705,0.162827705,0.162827705,,,0.075330995,0.075330995,0.075330995,0.163481722,0.163481722,,1.4772,2.2433
+18,18,,16Sponge Gourds,16Sponge Gourds,16Sponge Gourds,,0.030347931,0.030347931,0.030347931,0.103182964,0.103182964,0.103182964,0.255022118,0.255022118,0.255022118,0.008368128*,0.008368128*,0.008368128*,0.008368128*,,,0.185575535,0.185575535,0.185575535,0.582323232,0.582323232,,1.5873,2.4461
+19,20,,17Mustard Stem Pickle,17Mustard Stem Pickle,17Mustard Stem Pickle,,,,,*,,,,,,,,,,,,,,,,,,#NUM!,HVUM!
+20,20,,18Tomato,18Tomato,,,,,,*,,,,,,*,,,,,,*,,,,,,#NUM!,HVUM!
+21,22,,19Broccoli,19Broccoli,,,,,,*,,,,,,+,,,,,,*,,,,,,#NUM!,MVUM!
+22,22,,20Chuinese Cabbages,20Chuinese Cabbages,20Chuinese Cabbages,,0.593564491,0.593564491,0.593564491,0.590194984,0.590194984,0.590194984,1.001115005,1.001115005,1.001115005,0.426661972*,0.426661972*,0.426661972*,0.426661972*,,,0.760755665,0.760755665,0.760755665,0.709163551,0.709163551,,0.9848,1.2350
+23,1332223,,21Celeries,21Celeries,,,0.317073027,0.317073027,0.317073027,0.670350273,0.670350273,0.670350273,1.046614016,1.046614016,1.046614016,0.7608S2418,0.7608S2418,0.7608S2418,,,,0.300495905,0.300495905,0.300495905,0.58776247,0.58776247,,1.7648,2.6434
+24,1332223,,22Water Convolvali,22Water Convolvali,22Water Convolvali,,0.032370755,0.032370755,0.032370755,0.342738816,0.342738816,0.342738816,0.17246S069,0.17246S069,0.17246S069,0.115209306,0.115209306,0.115209306,0.115209306,,,,,,0.540193163,0.540193163,,1.4249,2.2448
+25,1332223,,23Lettuces,23Lettuces,,,0.24900722,0.24900722,0.24900722,0.341277759,0.341277759,0.341277759,0.226078518,0.226078518,0.226078518,038882828S*,038882828S*,038882828S*,038882828S*,,,0.680672087,0.680672087,0.680672087,0.127702221,0.127702221,,0.8839,1.5185
+26,1332223,,24 Bottle Gourds,24 Bottle Gourds,24 Bottle Gourds,,0.029219288,0.029219288,0.029219288,0.129687707,0.129687707,0.129687707,0.686103609,0.686103609,0.686103609,0.044757822*,0.044757822*,0.044757822*,0.044757822*,,,0.446S937S7,0.446S937S7,0.446S937S7,0.027729678,0.027729678,,1.0732,1.6998
+27,1332223,,25Snake Gourds,25Snake Gourds,25Snake Gourds,,0.333287368,0.333287368,0.333287368,0.099982195,0.099982195,0.099982195,0.173169008,0.173169008,0.173169008,0.079S37388,0.079S37388,0.079S37388,0.079S37388,,,1.024330124,1.024330124,1.024330124,0.310926386,0.310926386,,0.8693,1.5015
+28,1332223,,26Sprouts,26Sprouts,,,0.087201807,0.087201807,0.087201807,0.380549559,0.380549559,0.380549559,0.20236S709,0.20236S709,0.20236S709,0.23S718333*,0.23S718333*,0.23S718333*,0.23S718333*,,,0.278278753,0.278278753,0.278278753,0.217829632,0.217829632,,1.6538,2.5177
+29,,,27Gymra,27Gymra,,,0.106244701,0.106244701,0.106244701,0.061686214,0.061686214,0.061686214,0.375485983,0.375485983,0.375485983,0.085946681,0.085946681,0.085946681,0.085946681,,,0.097838674,0.097838674,0.097838674,0.105231862,0.105231862,,1.7563,2.7730
+30,,,28Amaranths,28Amaranths,28Amaranths,,0.481301566,0.481301566,0.481301566,0.196430228,0.196430228,0.196430228,0.471428623,0.471428623,0.471428623,0.13849031|*,0.13849031|*,0.13849031|*,0.13849031|*,,,0.885822737,0.885822737,0.885822737,0.157168SS8,0.157168SS8,,1.5698,.3782
+31,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,33,outliers,,,1.5000x,,,0.6992,,,0.9056,,,0.8285,,,0.5043,,,#NUM!,,,1.4233,1.4233,1.1895,1.1895,,,
+33,34,outliers,,,3.0000,,,1.0732,,,1.5532,,,1.1815,1.1815,,0.7529,,,HNUM!,,,2.1600,2.1600,1.8177,1.8177,,,
+34,35,,1,,,,Bitter Melons,Bitter Melons,,Ginger,,,Celeries,Celeries,,Ceteries,,,,#NUM!,,Snake Gourds,Snake Gourds,,Bamboo Shoots,,,,
+35,37,,2,,,,Chinese Cabbages Asparaguses,,,Celeries,,,Chinese Cahha Bean Sprouts,,,Chinese Cahha Bean Sprouts,,,,#NUM!,,Amaranths,Amaranths,,Chinese Cabbages,Chinese Cabbages,,,
+36,37,,3,,,,Amaranths,Amaranths,,Celeries,,,Bottle Gourds,Bottle Gourds,,Chinese Cabbages,Chinese Cabbages,,,#NUM!,,Chinese Cabbages Asparaguses,,,Chinese Cabbages Asparaguses,,,,
+37,39,,4,,,,Stems,,,Chinese CabbagesBitter Melons,,,Chinese CabbagesBitter Melons,,,Lettuces,Lettuces,,,#NUM!,,Lettuces,Lettuces,,Celeries,,,,
+38,39,,,,,,Snake Gourds,Snake Gourds,,Sterms,,,Cabbages,Cabbages,,Stems,,,,#NUM!,,Chinese Chives,Chinese Chives,,Sponge Gourds,,,,
+39,40,,6,,,,Celeries,Celeries,,Bean Sprouts,Bean Sprouts,,Amaranths,Amaranths,,Sprouts,,,,#NUM!,,Bottle Gourds,Bottle Gourds,,Water Convolvuli,Water Convolvuli,,,
+40,41,,,,,,Chinese Chives,Chinese Chives,,Sprouts,,,Chinese Chives,Chinese Chives,,Asparaguses,Asparaguses,,,#NUM!,,Celeries,Celeries,,Stems,,,,
+41,42,,8,,,,Lettuces,Lettuces,,Water Convolvul Asparaguses,,,Water Convolvul Asparaguses,,,Bitter Melons,Bitter Melons,,,#NUM!,,Sprouts,,,Chinese Chives,,,,
+42,43,,9,,,,Bean Sprouts,Bean Sprouts,,Lettuces,Lettuces,,Gyura,,,Cucumbers,Cucumbers,,,#NUMI,,Cabbages,Cabbages,,Snake Gourds,,,,
+43,44,,10,,,,Cabbages,Cabbages,,Bitter Melons,Bitter Melons,,Stems,,,Amaranths,Amaranths,,,#NUM!,,Sponge Gourds,Sponge Gourds,,Cabbages,,,,
+44,45,11,11,,,,Bamboo Shoots,Bamboo Shoots,,Cucumbers,Cucumbers,,Cucumbers,Cucumbers,,Bamboo Shoots,Bamboo Shoots,,,#NUM!,,Gynura,,,Sprouts,,,,
+45,46,12,12,,,,Gynura,,,Amaranths,Amaranths,,Bamboo Shoots,Bamboo Shoots,,Cabbages,Cabbages,,,#NUM!,,Bitter Melons,Bitter Melons,,Bean Sprouts,,,,
+46,47,13,13,,,,Asparaguses,Asparaguses,,Bamboo Shoots,Bamboo Shoots,,Ginger,,,Water Convolvuli,Water Convolvuli,Water Convolvuli,,#NUM!,,Cucumbers,Cucumbers,,Bitter Melons,,,,
+47,48,14,14,,,,Sprouts,,,Cabbages,Cabbages,,Sponge Gounds,Sponge Gounds,,Ginger,,,,#NUM!,,#NUM!,#NUM!,,Amaranths,,,,
+48,50,15,15,,,,Cucumbers,Cucumbers,,Bottle Gourds,Bottle Gourds,,Lettuces,Lettuces,,Gyrmra,,,,#NUM!,,#NUM!,#NUM!,,Lettuces,,,,
+49,50,16,16,,,,Water Convolvuli Sponge Gourds,,,Water Convolvuli Sponge Gourds,,,Sprouts,,,Chinese Chives,Chinese Chives,,,#NUM!,,#NUM!,#NUM!,,Gymira,,,,
+50,51,17,17,,,,Sponge Gourds,Sponge Gourds,,Snake Gourds,Snake Gourds,,Snake Gourds,Snake Gourds,,Snake Gourds,Snake Gourds,,,#NUM!,,#NUM!,#NUM!,,Cucumbers,,,,
+51,,search,,,,,Bottle Gords,Bottle Gords,,Gyrura,,,Water Convolvuli Bottle Gouds,,,Water Convolvuli Bottle Gouds,,,,#NUM!,,#NUM!,#NUM!,,Bottle Gourds,,,,
+52,,search,,,,,Ginger,,,Chinese Chives,Chinese Chives,,Bean Sprouts,Bean Sprouts,,Sponge Gourds,Sponge Gourds,,,#NUM!,,#NUM!,#NUM!,,Ginger,,,,
+53,54,20,20,,,,#NUM!,#NUM!,,#NUM!,#NUM!,,#NUM!,#NUM!,,#NUM!,#NUM!,,,#NUM!,,#NUM!,#NUM!,,#NUM!,,,,
+54,56,,,,,,#NUM!,#NUM!,,#NUM!,#NUM!,,#NUM!,#NUM!,,#NUM!,#NUM!,,,#NUM!,,#NUM!,#NUM!,,#NUM!,,,,
+55,56,22,22,,,,#NUM!,#NUM!,,#NUM!,#NUM!,,#NUM!,#NUM!,,#NUM!,#NUM!,,,#NUM!,,#NUM!,#NUM!,,#NUM!,,,,
+56,,original weightdry wieghtnon-cooked sortinghit ratecooked soring/,,,original weightdry wieghtnon-cooked sortinghit ratecooked soring/,,,TTTEE,,,ATTTT,,,,,,,,,ann,,,,,,,,,

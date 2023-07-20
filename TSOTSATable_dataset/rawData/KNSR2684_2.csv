@@ -1,0 +1,30 @@
+,0,1,2
+0,Attribute,Number,(%)
+1,Gender,,
+2,Male,94,(29.5)
+3,Female,225,(70.5)
+4,Age grade,,
+5,<20,3,(0.9)
+6,20-30,25,(7.8)
+7,30-40,59,(18.5)
+8,40-50,63,(19.7
+9,50-60,97,(30.4)
+10,60-70,71,(22.3)
+11,70,1,(0.3)
+12,District of the community where subjects reside,,
+13,Hokkaido/Tohoku,54,(16.9)
+14,Kanto/Koushin-etsu,73,(22.9)
+15,Tokai/Hokuriku/Kinki,74,(23.2)
+16,Chugoku/Shikoku,64,(20.1)
+17,Kyushu/Okinawa,54,(16.9)
+18,Type of the community,,
+19,Urban,124,(38.9)
+20,Farming,95,(29.8)
+21,Fishery,100,(31.3)
+22,,Mean, SD
+23,Body weight (kg),59.7,11.0
+24,Male,68.7, 9.7
+25,Female,56.0, 9.3
+26,Weight of one-day duplicate diet sample (g),2493,646
+27,Male,2647, 679
+28,Female,2429, 552

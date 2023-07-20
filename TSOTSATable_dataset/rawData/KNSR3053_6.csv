@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,,,Period_1,,,Period 2,
+1,Classes,Level,Diet,Kcal*,Level,Diet,Diet
+2,Zak Chol.,NS,0.0001,NS,0.0004,0.0007,NS
+3,GLC Chol.,0.0003,0.0001,NS,0.0001,0.0001,NS
+4,Stigmasterol,0.0002,0.0001,NS,0.0001,0.0001,0.0066
+5,Sitosterol,0.0001,0.0001,NS,0.0001,0.0001,NS
+6,Total Sterols,0.0001,0.0001,NS,0.0001,0.0001,NS
+7,%,,,,,,
+8,Phyto./Total,0.0009,0.0001,NS,0.0009,0.0001,NS
+9,Total/Zak,0.0031,0.0119,NS,0.0361,0.0153,NS
+10,GLC/Zak,0.0029,0.0026,NS,0.0401,0.0001,NS
+11,GLC/Calc.,NS,NS,NS,0.0401,NS,NS

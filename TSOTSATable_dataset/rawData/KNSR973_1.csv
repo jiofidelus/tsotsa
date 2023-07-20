@@ -1,0 +1,66 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,"Margarines, fat spreads and cooking fats","Margarines, fat spreads and cooking fats",,,,,,,,,
+1,,,,Campe-,Campe-,Stigma-,Sito-,Sito-,Sum 1,Brassica-,5-avena-,Sum 2
+2,Origin*,Food product,Type/Brandname,sterol,stanol,sterol,sterol,stanol,Sum 1,sterol,sterol,Sum 2
+3,D,Baking fat,Baken.en bradvet,66,2.7,56,175,0.0,304,5.5,10.3,320
+4,S,Cooking fat,Kokosfett,7,0.0,13,36,0.0,56,0.0,17.1,73
+5,D,Cooking fat,Cooking fat,37,4.6,29,207,2.9,281,0.0,5.1,286
+6,D,Cooking fat,Cooking fat cro,33,0.0,22,91,0.0,417,5.0,6.7,157
+7,D,Frying fat,Diamant,147,0.0,25,243,1.8,417,1.4,6.7,425
+8,D,Frying fat,Reci,39,0.0,36,127,2.5,204,5.1,7.5,216
+9,D,Margarine,AH,47,0.0,41,120,3.1,214,0.0,4.5,220
+10,D,Margarine,Brio,54,0.0,25,128,2.8,210,0.0,9.0,219
+11,D,Margarine,Low trans,36,0.0,30,95,0.0,161,0.0,5.9,167
+12,D,Margarine,Low trans,35,0.0,29,83,0.0,164,0.0,6.2,154
+13,D,Margarine,Wajang,38,0.0,33,94,0.0,164,11,6.5,181
+14,D,Margarine,Blue band,28,0.0,23,77,2.6,129,0.0,0.0,129
+15,D,Margarine,Bona,56,2.1,46,138,4.2,246,3.2,6.9,256
+16,S,Margarine,Det goda,66,0.0,57,132,0.0,158,nd,7.8,182
+17,S,Margarine,Flora,104,0.0,57,121,0.0,243,nd,nd,243
+18,D,Margarine,Het Volle Pond,45,1.9,38,121,3.6,222,5.9,4.6,219
+19,S,Margarine,Linnea,93,0.0,6,123,0.0,222,22,15.0,258
+20,S,Margarine,Melba,84,0.0,6,108,0.0,198,1.5,10.9,230
+21,D,Margarine,Ruitjes,74,0.0,2,123,0.0,218,8.0,5.8,236
+22,S,Margarine,Runda,90,0.0,6,123,1.9,218,8.0,10.2,236
+23,D,Margarine,Zeeuws Meisje,27,1.5,20,84,1.9,135,9.1,6.2,148
+24,S,Margarine,Adel,66,0.0,6,89,1.3,166,9.1,6.9,182
+25,D,Margarine,Golden Regen,29,0.0,19,67,1.3,117,4.0,4.8,126
+26,S,Margarine,Milda,86,0.0,8,135,0.0,229,20,12.5,262
+27,S,Margarine,Tre ess,62,0.0,8,469,0.0,721,0.0,54.2,192
+28,S,"Margarine 80% fat, poly",Vitaqell,170,9.7,53,469,19,721,0.0,54.2,775
+29,D,Margarine 40% fat, Halvarine blue,23,0.0,20,59,0.0,103,0.0,3.0,106
+30,D,Margarine 40% fat,Halvarine Golden Regen,24,0.0,17,49,0.0,92,2.2,2.4,97
+31,D,Margarine 40% fat,Halvarine gouda's Glorie,24,0.0,21,64,0.0,109,0.0,3.0,112
+32,D,Margarine 40% fat,Halvarine light,12,0.0,11,100,0.0,131,0.0,5.5,106
+33,D,Margarine 40% fat,Halvarine Low 35%,17,0.0,14,100,0.0,131,0.0,9.1,140
+34,D,Margarine 40% fat,Low fat spread,24,0.0,18,63,2.2,107,5.4,2.3,114
+35,S,Margarine 40% fat,Latt & Lagom,42,0.0,0,63,0.0,105,10.5,0.0,115
+36,S,Margarine 40% fat,Latta,38,0.0,4,57,0.0,98,9.4,5.1,113
+37,S,"Margarine 40% fat, poly",Nytta,134,0.0,5,165,0.0,304,nd,nd,304
+38,D,Margarine 70%fat,Becel 70%,29,3.5,26,176,1.6,236,3.3,14.8,254
+39,D,Margarine 70%fat,Dieetella,230,4.6,32,288,2.1,288,1.9,16.3,522
+40,S,Margarine liquid 80%fat,Carlshamns,230,0.0,5,288,0.0,522,nd,nd,522
+41,S,Margarine liquid 80%fat,Milda,172,0.0,3,225,0.0,400,46,16.6,462
+42,S,Margarine liquid 80%fat,Nytta,238,3.1,4,274,2.8,516,58,24.5,599
+43,S,Margarine liquid 80%fat,Vigor,75,3.1,21,77,2.8,144,8.9,11.3,337
+44,S,Margarine w butter 80%fat,Bregott,68,0.0,0,131,0.0,144,19,7,236
+45,,,Mean,67,1,15,131,2,219,8,9,236
+46,,,S.D.,55,2,15,82,3,133,12,9,143
+47,,,Median,46,0,19,104,0,187,5,7,204
+48,,,Min,7,0,0,36,0,56,,0,73
+49,,,,,,,,,,,,
+50,,,Max,238,0.0,56,469,19,721,58,54,775
+51,,,%av 5,25,0.0,10,51,0,100,3,4,109
+52,,,%av7,22,0.0,9,51,0,92,2,3,100
+53,,Vegetable oils,,Campe-,Campe-,Stigma-,Sito-,Sito-,Sum 1,Brassica-,5-avena-,Sum 2
+54,Origin,Food product,,sterol,stanol,sterol,sterol,stanol,,sterol,sterol,
+55,S,Blended oil,,320,0.0,14,453,2.8,789,69,21.6,891
+56,S,Coconut oil,,17,0.0,15,61,3.6,97,6.3,21.6,125
+57,D,Corn germ oil,,184,13,56,586,27,799,6.7,41.4,843
+58,S,Corn oil,,215,14,66,586,28,909,6.7,62.1,978
+59,S,Grape seed oil,,120,3.1,24,160,6.5,215,nd,nd,471
+60,S,Linseed oil,,120,3.1,38,226,0.0,387,13,70.7,471
+61,S,Oat oil,,73,3.8,25,411,12,525,0.0,8.9,534
+62,S, Olive oil,,9,0.0,4,141,0.0,154,0.0,22.9,177
+63,S,Palm oil,,9,0.0,6,24,0.0,39,0.0,0.0,39
+64,D,Peanut oil,,52,0.0,28,203,3.3,286,6.0,22.8,315

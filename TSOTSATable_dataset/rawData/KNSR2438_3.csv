@@ -1,0 +1,14 @@
+,0,1,2
+0,parameter,value,
+1,,total As,As speciation
+2,RFpower,1400W,
+3,Measurement mode,peak hopping,
+4,Measured nuclides,"75As,74Ge",75AS
+5,Acquisition time,500 ms,1000ms
+6,Cell gas flow,0.3mL min-NH3,
+7,Rejection parameter q,0.75,
+8,Total acquisition time,,1100s
+9,Solution uptake,1.3 mL min-l,
+10,Sample injection volume,,50L
+11,Mobile phase flow,,1.0mL min-l
+12,Column temperature,,20C

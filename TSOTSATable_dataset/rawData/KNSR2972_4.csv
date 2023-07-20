@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6
+0,Vegetables,boiting,fresh,tresh,boiled,boiled,nitrate
+1,,time,product,product,product,product,depletion
+2,,,mean,SD,mean,SD,(%)
+3,Carrot,60,63,42,29,15,54
+4,Spinach,30,255,80,76,36,70
+5,Celery,30,788,131,604,149,23

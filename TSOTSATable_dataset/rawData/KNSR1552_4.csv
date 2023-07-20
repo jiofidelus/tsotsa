@@ -1,0 +1,46 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Protein name,Organism,Accession,Coverage,Peptides,Unique,Length,MW,pI,PEP,Score,Function
+1,,,number,(%),No.,Peptides,(calc.),(calc.),(calc.),Score,Sequest,
+2,,,,,,No.,(aa),(kDa),,,HT,
+3,Beta-galactosidase,Betula,A0A4D6C821,44,22,22,836,92.0,6.90,109.58,171.47,CWM
+4,, platyphylla,,,,,,,,,,
+5,Germin-like,Betula,P85336,100,1,1,13,1.3,9.99,2.49,7.11,PD
+6,protein 1,pendula,,,,,,,,,,
+7,(Fragment),,,,,,,,,,,
+8,Germin-like,Betula,P85352,100,,1,14,1.6,4.50,5.07,8.41,PD
+9,protein 2,pendula,,,,,,,,,,
+10,(Fragment),,,,,,,,,,,
+11,Glutathione,Betula,Q9M3T6,15,3,3,358,38.9,6.34,6.59,9.50,os
+12,reductase,pendula,,,,,,,,,,
+13,Pectin lyase-like,Betula,A0A5B9FYX5,7,2,2,513,54.6,6.62,4.22,4.69,CWM
+14,protein,platyphylla,,,,,,,,,,
+15,Peroxidase,Betula,A0A0H4CPS8,64,20,20,321,34.8,5.57,101.94,210.23,os
+16,,platyphylla,,,,,,,,,,
+17,Peroxidase.,Betula,A0A0H4CNW3,68,19,14,318,33.5,6.77,90.94,223.71,os
+18,Peroxidase,Betula,A0A0H4CNW8,52,12,12,272,29.7,6.35,58.14,123.22,os
+19,, platyphylla,,,,,,,,,,
+20,Peroxidase,Betula,A0A0H4CRM9,47,10,7,322,33.8,8.24,50.16,100.64,os
+21,Peroxidase, platyphylla,,,,,,,,,,
+22,Peroxidase,Betula,A0A0H4CRM3,23,7,2,569,59.8,5.08,24.61,89.01,os
+23,, platyphylla,,,,,,,,,,
+24,Peroxidase,Betula,A0A0U2TQ78,21,4,4,315,3.4,6.40,10.08,22.86,os
+25,, platyphylla,,,,,,,,,,
+26,Peroxidase,Betula,A0A0H4CVY2,3,1,1,326,35.6,8.41,1.17,2.40,os
+27,, platyphylla,,,,,,,,,,
+28,Peroxidase 3,Betula,P85334,100,1,1,19,2.2,4.50,7.71,16.20,os
+29,(Fragment),pendula,,,,,,,,,,
+30,Polcalcin,Betula,Q39419,36,3,3,85,9.4,4.94,,,CB
+31,,pendula,,,,,,,,,,
+32,PR protein,Betula,P43176,21,1,1,160,17.5,5.87,,,PD
+33,,pendula,,,,,,,,,,
+34,PR protein 1,Betula,Q9M4Y4,11,1,1,102,10.8,6.51,4.21,7.74,PD
+35,(Fragment),pendula,,,,,,,,,,
+36,PR protein 1,Betula,Q9M3T1,56,1,1,57,6.0,5.17,3.25,3.99,PD
+37,(Fragment),pendula,,,,,,,,,,
+38,PR protein 1,Betula,A0A4D6C8J9,6,1,1,176,19.3,8.65,1.43,1.77,PD
+39,, platyphylla,,,,,,,6.65,,,
+40,Superoxide,Betula,A0A0H4CPR2,29,3,3,220,22.5,6.65,10.11,13.36,os
+41, dismutase [Cu-, platyphylla,,,,,,,,,,
+42,Zn],,,,,,,,,,,
+43,Superoxide,Betula,A0A0H4CNV4,17,2,2,157,15.9,6.51,5.93,16.05,os
+44,dismutase 1,platyphylla,,,,,,,,,,

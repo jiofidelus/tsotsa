@@ -1,0 +1,32 @@
+,0,1,2
+0,Torch injector,Quartz,
+1,Spray chamber,Peltier Cooled Cyclonic,
+2,Sample uptake,0.4 rps (rounds per second),
+3,Nebulizer Type,MicroMist,
+4,Interface,Pt-cones,
+5,RF power,1550W,
+6,Ar gas flow rate (L/min),plasma 15;auxilary 0.9,
+7,Nebulizer pump,0.1rps,
+8,He gas flow rate,0.03 mL min-1,
+9,Ion lenses model,x-lens,
+10,Lens voltage,10.7V,
+11,Omega bias,-90V,
+12,Omega lens,10.2V,
+13,Acquisition mode,Spectrum,
+14,Peak Pattern,1 point,
+15,Integration time,2000 ms,
+16,Replicate,3,
+17,Sweeps/replicate,100,
+18,Tune mode (Stabilization time,,
+19,Integ.Time/mass,HEHe5s;1 s,
+20,,"No gas:Ca 43,Mg24,A129,K39,Pb208","No gas:Ca 43,Mg24,A129,K39,Pb208"
+21,ICP-MS(standard mode),,
+22,,"HEHe:Se78,Fe56",
+23,Internal standards,"209Bi, 115In, 45Sc",
+24,Mercury analyzer,,
+25,Wavelength,,253.65 nm
+26,Drying time,,60s
+27,Decomposition time,,150s
+28,Wait time,,45s
+29,Weight/volume of sample,,100 mg 100 m L-1
+30,Working range,,0.05-600 ng

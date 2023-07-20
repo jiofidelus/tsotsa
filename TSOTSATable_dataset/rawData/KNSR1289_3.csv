@@ -1,0 +1,27 @@
+,0,1,2,3,4
+0,,Zn Concentration (mg/kg),Zn Concentration (mg/kg),,
+1,Genotype,"IIPR,","IIPR,RS,","IIPR,RC,",Mean value over
+2,,Kanpur,Dharwad,Bhopal,locations
+3,IPU02-43,8.6 bcd,19.1abc,19.7 a,15.8
+4,U3108,11.2 bcd,14.6 bcd,16.3 abcde,14.0
+5,WBU-108,12.4 b,17.7abc,15.3 bcdef,15.1
+6,Shekhar 2,8.9 bcd,15.2abcd,13.2 ef,12.5
+7,MASH-1,9.8 bcd,16.6 abcd,15.5 bcde,14.0
+8,IPU94-1,10.0 bcd,15.7 abcd,11.4 f,12.4
+9,NO5-31,10.3 bcd,16.5abcd,14.8 cdef,13.9
+10,IPU99-43,6.7 d,17.1abcd,18.8 abc,14.1
+11,IPU99-209,9.4 bcd,16.7 abcd,17.7 abcd,14.6
+12,WBU137-2,9.2bcd,17.2 abcd,19.2 ab,15.2
+13,UH85-5,12 BCE,20.1ab,14.1 def,15.4
+14,PLU429,8.5 bcd,14.0 cde,15.4 bcdef,12.6
+15,SPS28,10.9 bcd,15.4 abcd,15.6 abcde,14.0
+16,IPU99-79,18.1 a,20.6 a,16.0 abcde,18.2
+17,UH-1,8.1bcd,11.9 de,17.5 abcd,12.5
+18,PU-30,8.4 bcd,17.3 abcd,15.7 abcde,13.8
+19,VBN-7,7.9cd,8.6 e,17.2 abcde,11.2
+20,LBG-787,9.6bcd,16.0 abcd,16.0 abcde,13.9
+21,IPU96-12,9.8 bcd,15.8abcd,15.4 bcdef,13.6
+22,Azad-1,9.6 bcd,14.5 cd,14.0 def,12.7
+23,Mean,10.0,16.0,16.0,14.0
+24,CV,27.5,20.9,15.5,
+25,LSD(5%),4.6,5.5,4.1,

@@ -1,0 +1,11 @@
+,0,1,2
+0,Vitamin E,Linear equationa,R2
+1,homologues,,
+2,a-tocopherol (a-T),y=0.0185-0.7927,0.98
+3,-tocopherol (-T),y=0.0043+2.0168,0.98
+4,-tocopherol (-T),y=0.0061-16.127,0.92
+5,8-tocopherol (-T),y=0.0045-0.1505,0.95
+6,a-tocotrienol(a-T3,y=0.0103-0.3676,0.97
+7,-tocotrienol (-T3),y=0.0341-0.5825,0.99
+8,-tocotrienol (-T3),y =0.0221 -0.2252,0.98
+9,-tocotrienol (-T3),y = 0.0094  -0.321,0.93

@@ -1,0 +1,37 @@
+,0,1,2,3,4,5,6
+0,Type of experimental,Experiment,Solvent X used for the,Solvent X used for the,Sample mass,Extraction,Number of
+1,design,numbera,,,Xmg,duration,extraction
+2,,,first extraction,second extraction,,X(min),X4 cycles
+3,Experimental design 1,1,Methanol,Methanol,50,15,3
+4,,,Methanol,Methanol,550,1,3
+5,,3,Methanol,Methanol,550,1,1
+6,,4,Methanol,Methanol,50,15,1
+7,,5,Methanol,Methanol,50,1,3
+8,,6,Methanol,Methanol,50,1,1
+9,,7,Methanol,Methanol,550,15,1
+10,,8,Methanol,Methanol,550,15,3
+11,,9,Methanol,Methanol,300,8,2
+12,,10,Methanol,Methanol,300,8,2
+13,,11,Methanol,Methanol,300,8,2
+14,Experimental design 2,1,Acetone-water 70:30(v/v,Acetone-water 70:30(v/v),50,15,3
+15,,2,Acetone-water 70:30(v/v),Acetone-water 70:30(v/v,550,1,3
+16,,3,Acetone-water 70:30(v/v),Acetone-water 70:30(v/v,550,1,1
+17,,4,Acetone-water 70:30(v/v),Acetone-water 70:30(v/v),50,15,1
+18,,5,Acetone-water 70:30(v/v,Acetone-water 70:30(v/v,50,1,3
+19,,6,Acetone-water 70:30(v/v,Acetone-water 70:30(v/v),50,1,1
+20,,7,Acetone-water 70:30(v/v),Acetone-water 70:30(v/v),550,15,1
+21,,8,Acetone-water 70:30(v/v,Acetone-water 70:30(v/v),550,15,3
+22,,9,Acetone-water 70:30v/v,Acetone-water 70:30(v/v),300,8,2
+23,,10,Acetone-water 70:30(v/v),Acetone-water 70:30(v/v),300,8,2
+24,,11,Acetone-water 70:30(v/v,Acetone-water 70:30(v/v),300,8,2
+25,Experimental design 3,1,Methanol,Acetone-water 70:30(v/v,50,15,3
+26,,2,Methanol,Acetone-water 70:30(v/v),550,1,3
+27,,3,Methanol,Acetone-water 70:30(v/v),550,1,1
+28,,4,Methanol,Acetone-water 70:30(v/v),50,15,1
+29,,5,Methanol,Acetone-water 70:30(v/v,50,1,3
+30,,6,Methanol,Acetone-water 70:30(v/v,50,1,1
+31,,7,Methanol,Acetone-water 70:30(v/v,550,15,1
+32,,8,Methanol,Acetone-water 70:30(v/v,550,15,3
+33,,9,Methanol,Acetone-water 70:30(v/v,300,8,2
+34,,10,Methanol,Acetone-water 70:30(v/v),300,8,2
+35,,11,Methanol,Acetone-water 70:30(v/v),300,8,2

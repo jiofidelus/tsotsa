@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Macro elements (g/100 g),Macro elements (g/100 g),,,Microelements (mg/kg),Microelements (mg/kg),,,
+1,,P,Mg,Ca,K,B,Fe,Mn,Rb,Sr
+2,Aegina,0.64 abed,0.15 abcdef,0.13 abed,1.25,17.46 def,36.05 cdefg,19.41 bcde,6.98 8h,24.33 bcd
+3,Ajamy,0.60 bede,0.15 bedef,0.10 ef,1.41,16.57 ef,37.74 bcdef,16.35 fg,9.57 bedef,12.69 i
+4,Albina,0.77 a,0.17abc,0.13 abede,1.37,17.71 def,31.00 hi,18.62 cdef,13.08 a,27.22 ab
+5,Ashoury,0.67 abc,0.17abed,0.15 a,1.24,22.52 a,40.03 bc,21.55 ab,6.09 h,14.53 ghij
+6,Avdat,0.52 cde,0.14 ef,0.09 f,1.31,20.28 b,33.79 fgh,17.34 efg,8.14 efg,10.99 i
+7,Avidon,0.58 bede,0.15cdef,0.09 f,1.37,11.32 8,34.30 efgh,19.71 bede,9.22 bedef,10.49 j
+8,Batoury,0.48 e,0.13 f,0.10 def,1.15,19.52 bcd,32.30 ghi,15.29 g,9.25 bedef,14.64 ghij
+9,Boundoky,0.59 bede,0.15 abedef,0.10 cdef,1.38,13.28 8,38.59 bed,18.24 def,9.96 bede,13.06 hij
+10,Bronte,0.62 abede,0.15 cdef,0.12 abedef,1.33,20.12 bc,45.12 a,19.79 bcde,4.43 i,10.31 j
+11,Iraq,0.64 abed,0.16 abede,0.14 ab,1.23,15.69 f,17.25 j,18.21 def,10.68 b,26.61 bc
+12,Joley,0.68 ab,0.18a,0.14 abc,1.42,15.67 f,39.45 bc,22.42 a.,9.13 bedef,20.18 defg
+13,Kastel,0.70 ab,0.17 abed,0.15 a,1.23,19.79 bed,41.20 b,20.96 abe,8.66 cdefg,19.27 defgh
+14,Kerman,0.57 bede,0.17ab,0.12 abede,1.49,18.74 bcde,39.90 bc,23.21 a,10.09 bcd,21.15 bedef
+15,Larnaka,0.56 bede,0.14 cdef,0.10 ef,1.28,11.19 8,29.28 i,18.30 def,7.84 fg,16.10 fghij
+16,Lathwardy,0.62 bcde,0.15abedef,0.12 abedef,1.46,13.13 8,34.33 efgh,19.10 bede,9.58 bedef,9.64 j
+17,Mateur,0.63 abed,0.14 ef,0.13 abede,1.10,16.44 ef,33.51 gh,16.44 fg,8.22 defg,23.34 bede
+18,Napoletana,0.58 bede,0.17 abed,0.13 abede,1.42,17.81 cdef,35.22 deth,19.03 bede,9.81 bed,20.54 cdefg
+19,Ouleimy,0.64 abed,0.17 abc,0.15 a,1.32,16.67 ef,37.96 bcde,20.06 bed,8.47 cdefg,32.70 a
+20,Sfax,0.57 bede,0.15 bedef,0.11 bedef,1.29,16.02 f,31.10 hi,17.83 def,10.24 bc,17.12 efghi
+21,Sirora,0.50 de,0.14 ef,0.12 abcde,1.20,19.62 bed,30.75 hi,18.04 def,8.58 cdefg,24.85 bed
+22,P value,0.008,0.001,<0.0001,0.394, 0.0001,0.0001, 0.0001,0.0001,<0.0001

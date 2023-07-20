@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7
+0,Foodstuff,Consumption rate (g/day),Estimated daily intake (EDI) (mg/day),Estimated daily intake (EDI) (mg/day),,,,
+1,,,Cr,Ni,Cu,As,Cd,Pb
+2,Rice,445a,0.047,0.032,0.060,0.015,0.023,0.004
+3,Maize,26.09b,0.047,0.032,0.060,0.015,0.0019,0.004
+4,Pulse,14.3b,0.033,0.022,0.054,0.0013,0.0001,0.005
+5,Vegetable,191c,0.13,0.49,2.2,0.010,0.018,0.126
+6,Fruit,50.59b,0.063,0.049,0.28,0.018,0.0011,0.024
+7,Fish,87.16c,0.20,0.12,0.33,0.022,0.0024,0.086
+8,Meat,17.4b,0.021,0.0033,0.030,0.0006,0.0002,0.0022
+9,Egg,11.3b,0.016,0.020,0.036,0.0007,0.0002,0.0015
+10,Milk,39.2b,0.066,0.023,0.096,0.0026,0.0012,0.0044
+11,Daily intake via food consumption,Daily intake via food consumption,0.2d,1.2,5.6,0.15,0.047,0.28
+12,Maximum tolerable daily intake (MTDI),Maximum tolerable daily intake (MTDI),0.2d,0.3e,30f,0.126f,0.046f,0.21f

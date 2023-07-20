@@ -1,0 +1,76 @@
+,0,1,2,3,4
+0,Flower,Extraction method,Antioxidant activity method,Range of contents,Reference
+1,,,and bioactive compounds,,
+2,10 common edible flowers,Maceration,,Soluble free phenolic fraction,Xiong et al.2014
+3,,Acetone [80%]/5 min/room temperature,DPPH radical scavenging,Approx.50-1.03 103 mol TE/g,
+4,,,activity,DWa,
+5,,,ABTS radical scavenging,Approx.100-2.06 103 mol TE/,
+6,,,activity,g DWa,
+7,,,ORAC,225-900 mol TE/g DW,
+8,,,FRAP,Approx.200-2.6410mol,
+9,,,,Fe2+/g DWa,
+10,,,Total phenolic content,0.31-235 mg CAE/g DW,
+11,,,Total flavonoids content,7.67-89.4 mg RE/g DW,
+12,12 edible flowers from,Maceration,,Soluble fraction,"Kaisoon et al.,2012"
+13,Thailand,"Methanol:HCl [100:1,v/v]/12 h/35C",DPPH free radical scavenging,31-87% inhibition,
+14,,,activity,,
+15,,,FRAP,7.3062.0 mmol FeSO4/100 g DW,
+16,,,Total phenolic content,37-89 mg GAE/g DW,
+17,,,Total flavonoid content,11.4-68 mg RE/g DW,
+18,12 edible flowers,Maceration,DPPH free radical scavenging,4.21-6.96 g AAE/kg FW,"Rop et al.,2012"
+19,,Methanol/24 h/25 C,activity,,
+20,,,Total phenolic content,1.23-2.27 g GAE/kg FW,
+21,,,Total flavonoid content,2.53-5.28 g rutin/kg FW,
+22,24 edible flowers,Maceration,ABTS radical scavenging,0.7-0.01%,"(Wetwitayaklung et al., 2008)"
+23,,Methanol/1 day/room temperature,activity,,
+24,51 edible and wild flowers,Maceration,FRAP,0.17-178 mol Fe[II]/g FW,"Li et al.,2014)"
+25,,Tetrahydrofuran/30 min/37 C,TEAC,0.19-73.9 mol Trolox/g FW,
+26,,,Total phenolic content,0.13- 11.5 mg GAE/g FW,
+27,8 edible flowers,Maceration,DPPH,1.4-175 g/mL [EC5o],Loizzo et al.2016)
+28,,Ethanol/48 h/room temperature,FRAP,6.3-83.8M Fe[II]/g extract,
+29,,,ABTS,11.4-198 g/mL [ECso],
+30,,,Total phenolic content,30.4-228 mg CAE/g extract,
+31,,,Total flavonoids content,12.7- 64.2 mg QE/g extract,
+32,,,Total anthocyanins content,0.35.4 mg/g of extract.,
+33,12 edible flowers,Maceration,FRAP,0.55-70.4 mmol FeSO4/100 g FW,"Benvenuti et al.,2016"
+34,,Methanol 80% [v/v]/12 h/4C,Total anthocyanins content,0.47-14.9 mg c-3-gE/100 g FW,
+35,23 edible flowers,Maceration,DPPH,21.1-599 mol Trolox/g DW,"Chen et al.,2015"
+36,,Deionized water/20 min/100 C,FRAP,8.08-914 mol Trolox/g DW,
+37,,,ABTS,46.5-2.0810mol Trolox/g DW,
+38,,,Total phenolic content,4.83-222 mg GAE/g DW,
+39,,,Total flavonoid content,0.45-71.5 mg RE/g DW,
+40,Agave durangensis,Maceration,DPPH free radical scavenging,0.875 g/mL [EC5o],"Barriada-Bernal et al.,2014"
+41,,60% ethanol/24 h/room temperature,activity,,
+42,,,Total flavonoid content,1.21103 g/g dry extract,
+43,,,Total antioxidant capacity,4.65 mg AAE,
+44,,,Iron reducing power,98.6 g/mL [EC5o],
+45,Borago officinalis,Soxhlet,DPPH free radical scavenging,Approx. 20-90% [Conc=1000 g/,"Aliakbarlu and Tajik,2012"
+46,,Methanol or acetone/5 h/60 C,activity,mL]a,
+47,,Infusion,Total phenolic content,50.4 to 64.1 mg GAE/g,
+48,,Water/1 h/100C,-carotene bleaching assay,57.8- 95.6%,
+49,,,Reducing power assays,Approx.0.4-2.2[Conc=1000g/,
+50,,,,mL]a,
+51,Calendula officinalis,Maceration,DPPH free radical scavenging,Approx.1.5-3 mmol Trolox/ga,(Butnariu and Coradini
+52,,Methanol [80%] or ethanol [96%] or,activity,,2012
+53,,isopropanol [100%] or ethanol [60%]/,FRAP,Approx.0.25-2.0mmol Fe[II]/ga,
+54,,14 h/17-22C,Total phenolic content,Approx.120150 mg GAE/100 mLa,
+55,,,Total flavonoid content,Approx.40-100 mg QE/100mLa,
+56,Daylily,Maceration,,At different stages of maturation,"Mao et al., 2006"
+57,Daylily,70% methanol/overnight/room,DPPH radical scavenging,63.3-94.6% [Conc=150g/mL],
+58,,temperature,activity,,
+59,,,Reducing power,Approx. 0.2-0.68 [Conc = 80 g/,
+60,,,,mL]a,
+61,,,Superoxide anion scavenging,61.5-95.7% [Conc=160 g/mL],
+62,,,activity,,
+63,,,Ascorbic acid,16.3- 36.1mg AA/100 g FW,
+64,,,-carotene,1.69 -1.97 mg -carotene/100 g,
+65,,,,FW,
+66,,,Individual phenolic,65.0-112 mg CE/100 g FW,
+67,,,compounds [catechin],,
+68,Daylily,Maceration,DPPH free radical scavenging,"Approx.30-90% [Conc =80g/mL]aFu et al.,2009)","Approx.30-90% [Conc =80g/mL]aFu et al.,2009)"
+69,,Water or ethanol/overnight/room,activity,,
+70,,temperature,Total phenolic compound,41.2-160 [mg GAE/g dry extract],
+71,,,Thiocyanate method,50.682.1% [at 20 g of extract],
+72,,,Reducing capacity,Approx.0.05-0.28 [Conc=20 g/,
+73,,,,mL]a,
+74,,,Superoxide anion scavenging,Approx.20-95% [Conc =80 g/,

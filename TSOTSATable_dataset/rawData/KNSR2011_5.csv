@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8
+0,Cultivar,Drying,Myristic acid,Palmitic acid,Palmitoleic acid,Oleic acid,Linoleic acid,Cis-11-14-Eicosadienoic,Arachidonic acid
+1,,Conditions,C14:0,(C16:0,C16:1,C18:1,C18:2),acid (C20:2),(C20:4
+2,,Shade,1.15  0.76Ac,12.99 ,0.99  0.12Ac,7.34 ,60.48  3.57Aa,10.15  2.72Acd,0.35 0.11Aab
+3,,Shade,1.15  0.76Ac,0.43Abc,0.99  0.12Ac,0.93Abc,60.48  3.57Aa,10.15  2.72Acd,0.35 0.11Aab
+4,,Open-Sun,2.81  1.57Ab,1.91Abc,1.56  0.02Aab,1.34Abc,1.59Abc,19.26  1.03Aab,0.19  0.01Aa
+5,,Greenhouse,1.12  0.01Ac,12.39  0.31Ac,1.09  0.16Ac,1.45Ab,3.34Aab,14.70  0.91Abc,
+6,,60,1.20  0.26Ac,1.3gAbc,1.31  0.42Aab,0.38Ac,45.47  3.28Ac,24.41  5.05Aa,0.22  0.03Aa
+7,Bozok,,,1.3gAbc,,5.43 ,,,
+8,,80,4.05  1.31Ab,17.55  5.41Ab,0.93  0.13Ac,0.81Ac,45.69  6.17Ac,3.78  2.25Ad,0.53  0.01Aa
+9,,300 W,1.53  1.42Aa,18.20  1.62Aa,1.78  0.02Aa,0.95Aa,47.44  2.81Ac,16.08  0.01Abc,
+10,,600W,1.41 0.46Ac,12.63  1.55Ac,1.18  0.39Aab,1.73Ac,7.07Abc,13.93  0.01Abc,0.24  0.05Aa
+11,,Freeze dryer,1.18  0.10Ac,10.96  0.13Ac,1.11  0.12Ac,1.00Abc,2.46Abc,21.13  0.63Aab,0.17  0.01Aa
+12,Cultivar,Drying,Myristic acid,Palmitic acid,Palmitoleic acid,Oleic acid,Linoleic acid,Cis-11-14-Eicosadienoic,Arachidonic acid
+13,Cultivar,Conditions,C14:0,C16:0,(C16:1),C18:1,C18:2,acid (C20:2,C20:4
+14,,Shade,0.89  0.14Ac,11.95  0.01Ba,0.80  0.10Ac,1.12Ba,63.32  0.26Aa,6.17  1.51Ac,0.32  0.05Ab
+15,,Open-Sun,0.17  0.41Bc,12.82  0.34Aa,1.23  0.08Bb,0.41Bab,59.36  1.1oBb,10.13  0.42Bbc,0.26  0.06Ab
+16,,Greenhouse,1.18  0.17Bc,13.45  0.01Ba,1.33  0.11Aab,4.61Aab,0.16Bb,16.49  1.81Ba,
+17,,60,1.83  0.1gBb,12.68  0.21Aa,1.41  0.01Aab,0.53Bab,54.99  0.02Ba,14.08  0.03Bab,0.25  0.01Ab
+18,Pinar,,,,,8.56 ,,,
+19,,80,1.11  0.22Bc,13.19  1.17Aa,1.35  0.26Bab,1.13Bab,57.38  2.60Bb,11.43  3.66Bab,0.19  0.05Bb
+20,,300W,5.79  0.14Ba,15.88  2.24Ba,1.39  0.19Bab,0.36Bb,48.60  4.72Ab,14.50  1.75Bab,0.72  0.08a
+21,,600W,1.75  0.21Ab,14.17  1.84Aa,1.71  0.04Ba,0.01Bab,52.01  5.15Ab,15.65  2.9Ba,0.18  0.01Ab
+22,,Freeze dryer,1.30  0.11Bbc,12.83  0.06Ba,1.76  0.07Ba,1.72Aab,54.59  1.84Ab,15.74  2.73Ba,

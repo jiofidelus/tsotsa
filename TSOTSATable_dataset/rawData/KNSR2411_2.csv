@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,,,,,MRLs,Concentration level (g/kg),Concentration level (g/kg),Concentration level (g/kg),Concentration level (g/kg),,
+1,Sample type,,Pesticide,Chemical class,Main use,g/,2017,,2018,,,(%)
+2,,,,,,kg),Nov,Dec,Jan,Feb,Mar,
+3,,T1,,,,,,,,-,,0%
+4,,T1,Total,,,,0.0,0.0,0.0,0.0,0.0,
+5,,T2,,,-,,,,,,,0%
+6,,T2,Total,,,,0.0,0.0,0.0,0.0,0.0,
+7,,,Boscalid,Anilide,F,3000,,31.1,,,,20%
+8,Controlled agronomic,T3,Pyraclostrobin,Strobilurin,F,300,,3.60,,,,20%
+9,condition,,Total,,,,0.0,34.7,0.0,0.0,0.0,
+10,condition,,Boscalid,Anilide,F,3000,721,367,310,51.4,206,100%
+11,,,Chlorantraniliprole,diamide,I,600,72.4,55.2,7.40,,,20%
+12,,T4,Fenhexamid,Hydroxyanilide,F,2000,884,686,495,505,45.7,100%
+13,,,Pyraclostrobin,Strobilurin,F,300,87.3,65.6,31.5,6.70,52.0,100%
+14,,,Total,,,,1764,1173,844,563,304,

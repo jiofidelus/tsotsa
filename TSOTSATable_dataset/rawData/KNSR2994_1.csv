@@ -1,0 +1,8 @@
+,0,1,2
+0,Parameter,DIB methoda,DS-spectrophotometry methodb
+1,Linear range mg L-1,2.0-60,1.5-80
+2,Limit of detection(mg L-,0.5,0.04
+3,Regression equation,Y=0.011+0.0060C,A=0.021+0.0066C
+4,"Correlation coefficient, R",0.990,0.993
+5,"Reproducibility,RSD%(n=3)",3.2(10 mgL-1,1.8(10mgL-1
+6,Person coefficient R2,0.989(USEPA Method),0.995(USEPA Method

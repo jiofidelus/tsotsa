@@ -1,0 +1,47 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,Source,Energy,Prote,Fat,CHO,Iron
+1,,Biologic Name,"Freq""",Code,(kcal/l0g,g/1Xg,g/100g,g/100g,(mg/100
+2,"Milk,cow,powdered,full-fat",,43,1,496,26.3,26.7,38.4,0.5
+3,"Milk, cow,powdered,non-fat",,546,1,362,36.2,0.8,52.0,0.3
+4,Milkgoat,,279,1,69,3.6,4.1,4.4,0.1
+5,Fats and Oils:,,,,,,,,
+6,"Hydrogenated veg fat, solid",,,,,,,,
+7,"Kimbo,CowboyKapra",,8837,1,884,0.0,100.0,0.0,0.0
+8,Margarine (Blueband),,180,1,719,0.9,80.5,0.9,0.1
+9,Lard,,160,1,902,0.0,100.0,0.0,0.0
+10,Maize oil,,516,1,884,0.0,100.0,0.0,0.0
+11,Sugar,Saccharum spp.,9455,1b,385,0.0,0.0,99.5,0.1
+12,Sugarcanc juicc),Saccharum spp.,1042,2,47,0.4,0.0,12.7,0.9
+13,Honey,,17,1b,304,0.3,0.0,82.3,0.5
+14,Glucolin (fortified dextrose),,16,6,340,0.0,0.0,99.1,0.0
+15,Lactogen (Nestle powdered,,,,,,,,
+16,infant formula),,158,6,464,21.6,19.0,51.6,8.0
+17,Cerelac (Nestle infant cereal,,158,6,419,14.0,9.0,70.5,7.5
+18,Milo (powdered drink mix),,21,5,396,13.8,7.5,72.9,1.8
+19,"Soda,cola",,123,1b,39,0.0,0.0,10.0,0.0
+20,"Soda,other",,150,1b,46,0.0,0.0,12.0,0.0
+21,Sweets (hard candy),,60,1b,386,0.0,1.1,97.2,1.9
+22,Saltiodized,,1842,1b,0,0.0,0.0,0.0,0.1
+23,"Salt, non-iodized",,"13,565",1b,0,0.0,0.0,0.0,0.1
+24,Curry powder,,144,1,325,12.7,13.8,58.1,29.6
+25,Roiko (bouillon mix),,198,1,238,16.0,8.9,23.7,0.0
+26,Cocoa powder,Theobroma cacao,406,1b,265,17.3,19.0,51.5,10.7
+27,Tea leaves infused),,7820,7,0,0.0,0.0,0.0,0.0
+28,Muthumnki bark (infused),,15,7,0,0.0,0.0,0.0,0.0
+29,Ciakimora leaves (infused,,95,7,0,0.0,0.0,0.0,0.0
+30,Coffee,Coffea spp,723,2,4,0.4,0.1,1.6,0.4
+31,Water,,19,5,0,5.2,0.0,37.8,0.0
+32,"Berlal,non-specific",,18,8,68,0.0,0.1,5.2,0.0*
+33,"Beerlocal,honey",,22,8,61,0.0,0.1,5.0,0.0
+34,"Beer, local, grain",,7,8,52,0.4,0.1,4.2,0.1'
+35,"Beer,commercial",,24,1b,42,0.3,0.0,3.8,0.0
+36,Restaurant (hotel foods:,,,5,,,,,
+37,Chips (fried potato siips,,9,5,253,3.8,10.9,37.3,0.9
+38,Samosa-potato (pastry with,,,,,,,,
+39,"filling,fried",,22,4,194,3.1,9.5,23.9,0.5'
+40,Samosa-meat,,6,4,281,11.5,12.6,30.2,1.6'
+41,Mandazi (fried wheat dough,,166,4,305,6.7,6.7,"54,4",0.5
+42,"Bread, white wheat)",,722,4,277,8.3,2.6,55.1,0.7*
+43,Queencake (soda bread),,29,5,264,8.0,2.3,56.3,1.0
+44,Biscuits (cookies,,165,5,457,6.7,16.6,74.8,2.1
+45,Chapati (fried wheat flat-bread,,71,4,288,6.3,9.1,49.0,1.6

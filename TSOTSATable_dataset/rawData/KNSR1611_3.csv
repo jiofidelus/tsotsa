@@ -1,0 +1,9 @@
+,0,1,2,3
+0,Standard,Lack of fita,R2,Equationb
+1,2.3-Butanedione,Quadratic-significant Not significant,0.8944,Y=0.14X+0.076X+0.007XX+2.43
+2,3-carene,Quadratic-significant Not significant,0.8821,Y=0.031X+0.012X+0.004XX+0.27
+3,Hexanal,Quadratic-significantNot significant,0.9055,Y=0.004X+0.001X+0.0008XX+0.086
+4,Trans-2-hexenal,Quadratic-significantNot significant,0.9777,Y=0.043X+0.020X2+0.0008XX+0.49
+5,2-isobutyl-3-methoxy,Quadratic-significantNot significant,0.9543,Y=0.004X+0.002X+0.0007XX+0.058
+6,pyrazine,,,
+7,Linalool,Quadratic-significant Not significant,0.9828,Y=0.005X+0.001X+0.0001XX+0.27

@@ -1,0 +1,8 @@
+,0,1,2,3,4
+0,Method,Titrable acidity (g/l) as tartaric acid,Titrable acidity (g/l) as tartaric acid,F,P
+1,,1,2,11.35,0.000
+2,End point pH-7.Diluted wine,4.44,,,
+3,End point pH=7.Undiluted wine,4.55,,,
+4,End point pH=8.2.Undiluted wine,,4.87,,
+5,End point pH=8.2.Diluted wine,,4.91,,
+6,Significance level,0.344,0.723,,

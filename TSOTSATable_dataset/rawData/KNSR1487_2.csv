@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Family of esters,Lack of,R2Adj,R2pred,BIC,Model
+1,,fit,a,b,c,(p-
+2,,(p-,,,,value)
+3,,value),,,,
+4,Ethyl esters of fatty acids,0.59,0.94,0.82,292,<0.001
+5,Higher alcohol acetates,0.83,0.92,0.87,239,<0.001
+6,Ethyl esters of branched acids,0.61,0.95,0.92,210,<0.001
+7,Ethyl esters of odd carbon,0.80,0.93,0.85,223,<0.001
+8,number fatty acids,,,,,
+9,Methyl esters of fatty acids,0.09,0.93,0.74,227,<0.001
+10,Cinnamates,0.44,0.99,0.97,113,<0.001
+11,Isoamyl esters of fatty acids,0.63,0.98,0.96,156,<0.001

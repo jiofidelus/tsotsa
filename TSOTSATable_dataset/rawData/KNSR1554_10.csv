@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Country,Total carbohydrates,Available,Available,Total dietary NSP fibre,Total dietary NSP fibre
+1,,by difference,carbohydrates as,carbohydrates by,fibre,
+2,,(CHOCDF),monosaccharides,difference,,
+3,,,(CHOAVLM),(CHOAVLDF),,
+4,Afghanistan,294,292,279,15,14
+5,Bangladesh,433,435,420,13,7
+6,Guatemala,400,382,372,28,28
+7,Guinea,396,401,366,31,28
+8,Iran,540,531,510,29,25
+9,Italy,442,421,413,29,25
+10,Mozambique,394,385,369,25,23
+11,Tunisia,537,526,505,32,28
+12,USA,487,477,463,24,19

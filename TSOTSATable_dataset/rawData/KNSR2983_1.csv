@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,Parameter,Units,Method of analysis,LoQa,CRM/SRMb,Certified valueUc,Analysed values
+1,Protein,g/100g,Kjeldahl,0.3,BRC-381d,1.25  0.03,1.26  0.03
+2,Ash,g/100 g, Ignition in muffle furnace,0.1,BRC-381d,0.86  0.05,0.83  0.03
+3,Total fat,g/100 g,"Acid digestion, ether extraction",0.1,BRC-381d,1.06  0.20,1.2  0.1
+4,Dietary fibres,g/100 g,AOAC 985.29,0.6,BRC-381d,8.2  0.4,8.24  0.3
+5,Minerals,,Atomic absorption spectrometry,,,,
+6,Magnesium,mg/kg,,0.1,NIST 1568ae,560 20,549  10.1
+7,Calcium,mg/kg,,1,NIST 1568ae,1186,1217.6
+8,Sodium,mg/kg,,1,NIST 1568ae,6.6  0.8,7.04  0.53
+9,Potassium,mg/kg,,1,NIST 1568ae,12808,128013.4
+10,Iron,mg/kg,,0.6,NIST 1568ae,7.4  0.9,7.23 0.19
+11,Manganese,mg/kg,,0.2,NIST 1568ae,2.4  0.3,19.5  0.65
+12,Cooper,mg/kg,,0.06,NIST 1568ae,2.4  0.3,2.31  0.17
+13,Zinc,mg/kg,,0.06,NIST 1568ae,19.4  0.5,19.6  0.21

@@ -1,0 +1,33 @@
+,0,1,2,3
+0,Fatty acids,Common name,0 day,9 day
+1,Saturated FA,,,
+2,C10:0,Capric acid,0.390.094a,0.360.090a
+3,C12:0,Lauric acid,0.160.069a,0.170.071
+4,C13:0,Tridecylic acid,0.710.084a,0.68  0.088a
+5,C14:0,Mvristic acid,5.88  1.98b,6.191.99a
+6,C15:0,Pentadecylic acid,1.990.13a,1.940.12a
+7,C16:0,Palmitic acid,29.642.74b,30.332.95a
+8,C17:0,Margaric acid,1.980.15a,1.970.14a
+9,C18:0,Stearic acid,16.562.15a,16.941.95a
+10,C20:0,Arachidic acid,1.150.097a,1.530.099
+11,Mono-unsaturated FA,,,
+12,C14:1,Tetradecenoic acid,0.43 0.079a,0.44  0.083a
+13,C15:1,Ginkgolic acid,0.47  0.077a,0.560.82a
+14,C16:1,Palmitoleic acid,3.151.51a,3.07  1.49a
+15,C17:1,Ginkgolic acid,0.790.094b,0.920.099a
+16,C18:1 n-9,Oleic acid,24.48  2.45b,25.172.55a
+17,Poly-unsaturated FA,,,
+18,C18:2n6t,Linoleic acid (trans),2.23  0.25a,2.07 0.23b
+19,C18:2n6c,Linoleic acid (Cis,3.46  0.26a,3.01  0.25b
+20,C18:3n6,Gamma linolenic acid,2.03 0.198a,1.39  0.198b
+21,C18:3n3,Alpha linolenic acid,1.900.12a,1.340.106b
+22,C20:2,Eicosadienoic acid,0.080.006,0.070.004a
+23,C20:3n3,Eicosatreinoic acid,0.21  0.007b,0.29  0.009a
+24,C20:4n6,Arachidonic acid,1.870.118a,1.22  0.119b
+25,C22:2,Docosadienoic acid,0.140.008a,0.15 0.009a
+26,C22:6n3,Docosahexaenoic acid,0.310.009a,0.210.008
+27,Total saturated FA,,58.46,60.11
+28,Total unsaturated FA,,41.54,39.89
+29,Total mono-unsaturated FA,,29.32,30.16
+30,Poly-unsaturated FA,,12.23,9.75
+31,Ratio of n-6/n-3,,3.96,4.17

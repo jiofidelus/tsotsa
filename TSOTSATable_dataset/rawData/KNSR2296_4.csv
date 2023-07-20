@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,,Foods,Contents,Daily intake,Weekly intake,Cumulative
+1,,,(mg/kg),(g/person),(g/person),percentage
+2,1,Broiled laver,0.725,3.118,21.823,44.8
+3,2,Dried laver,6.359,1.272,8.902,63.1
+4,3,Stir-fried anchovy,0.103,0.475,3.324,70.0
+5,4,Cooked spinach,0.038,0.256,1.795,73.6
+6,5,Fresh lettuce,0.046,0.243,1.700,77.1
+7,6,"Kim-chi, radish",0.010,0.149,1.043,79.3
+8,7,"Kim-chi, turnip",0.010,0.126,0.881,81.1
+9,8,Stir-fried dry squid shreds,0.172,0.120,0.842,82.8
+10,9,Stir-fried squid,0.061,0.109,0.764,84.4
+11,10,Fresh nappa cabbage,0.028,0.097,0.682,85.8

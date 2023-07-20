@@ -1,0 +1,18 @@
+,0,1,2,3
+0,Materials,LOD,Linearity range,Ref.
+1,,(nM),(M),
+2,Au-Pd-RGO,1.5,0.686-331.686,Wang et al.2016
+3,ZnO-Au/RGO/graphitic,1.34,0.005-0.085,Vilian et al.2020
+4,carbon nitride,,,
+5,CuO/RGO,6,0.2-20,
+6,CuO/RGO,6,20-200,
+7,,,0.01-2.0,
+8,MnO2/RGO,2,2.0-10.0,Ding et al.2019
+9,,,10.0-100.0,
+10,Chitosan/graphene,66,0.2-100,(2018)
+11,Poly (L-cysteine/Ag,75,0.5-300,Tang et al.2016
+12,MWCNTs,22,0.0553-11.05,Zhang et al.2009)
+13,RGO,19.2,0.05-1.0,Tran et al.2019
+14,carbon-ceramic electrode,73,0.1-15,Majidi et al.2014)
+15,AuNPs/carbon paste,30,0.1-2,(2012)
+16,NiO/Ag/RGO,13,50-450,This work

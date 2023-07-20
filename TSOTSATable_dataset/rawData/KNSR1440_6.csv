@@ -1,0 +1,69 @@
+,0,1,2,3,4,5,6,7,8
+0,Sample,Scientific name,Description,Sample,Fat,Final,Vitamin C(mg/100 g),Relative,HORRAT
+1,,,,size(g),extraction,volume,,standard,valuec
+2,,,,,,(ml),,deviation,
+3,Fruits and vegetables,,,,,,,,
+4,Collard greens,Brassica oleracea var. viridis,Raw,2,No,25,114.1  1.2 (3),1.0%,0.2
+5,"Russet potatoes,",Solanum tubersoum,Raw,2,No,25,17.5  0.4 (3),2.4%,0.3
+6,with peel,,,,,,,,
+7,Cauliflower,,Microwaved,2,No,25,16.7  0.3 (3),1.6%,0.2
+8,Cauliflower,Brassica oleracea,Raw,2,No,25,59.4  1.2 (2),2.0%,0.3
+9,,(Botrytis group),,,,,89.71.4 (3),1.6%,
+10,Broccoli,Brassica oleracea var. italica,Raw,2,No,25,89.71.4 (3),1.6%,0.3
+11,,,Steamed,2,No,25,83.1  0.7 (3),0.9%,0.2
+12,Zucchini squash,Cucurbita pepo,Raw,2,No,25,19.7  0.3 (2),1.4%,0.2
+13,,,Steamed,2,No,25,10.1  0.2 (2),2.4%,0.3
+14,Green beans,Phaseolus vulgaris,Raw,2,No,25,7.0  0.2 (2),2.7%,0.3
+15,,,Microwaved,2,No,25,6.6  0.3 (2),4.5%,0.4
+16,Green onions,Allium cepa,Raw,2,No,25,12.4  0.55 (2),4.5%,0.6
+17,Sweet green peppers,Capsicum annuum,Raw,2,No,25,95.0  2.99 (3),3.2%,0.3
+18,Baby spinach,Spinacia oleracea,Raw,2,No,25,33.1  0.59 (4),1.8%,0.3
+19,Carrots,Daucus carota,Raw,2,No,25,3.44  0.01 (2),0.2%,0.0
+20,Celery,Apium graveolens,Raw,2,No,25,7.93  0.16 (2),3.0%,0.3
+21,"Lettuce, green leaf",Lactuca sativa var. crispa,Raw,2,No,50,13.4  0.06 (2),0.4%,0.3
+22,"Lettuce, red leaf",Lactuca sativa var. logifolia,Raw,2,No,25,13.4  0.06 (2),0.4%,0.1
+23,"Lettuce, romaine",Lactuca sativa var. logifolia,Raw,2,No,50,6.83  0.09 (2),1.3%,0.2
+24,Lettuce iceberg,Lactuca sativa var. capitata,Raw,2,No,25,2.60  0.02 (2),0.8%,0.1
+25,Tomatoes,Lycopersicon esculentum,Raw,2,No,25,42.4  1.30 (3),0.6%,0.1
+26,Clementines,Citrus clementina hort.,Raw,2,No,25,42.4  1.30 (3),3.2%,0.5
+27,Cantaloupe,Cucumis melo L.,Raw,2,No,25,27.3  0.65 (4),2.4%,0.4
+28,Honeydew melon,Cucumis melo,Raw,2,No,25,9.530.30 (2),3.1%,0.4
+29,Watermelon,Citrullus lanatus,Raw,2,No,25,9.04  0.26 (4),3.0%,0.4
+30,Bananas,Musa acuminata Colla,Raw,2,No,25,9.04  0.26 (4),2.8%,0.4
+31,Pineapple,Ananas comosus,Raw,2,No,50,71.1 0.10 (3),0.2%,0.03
+32,Mango,Mangifera indica,Raw,2,No,25,94.3  1.69 (2),2.1%,0.3
+33,Papaya,Carica papaya,Raw,2,No,25,12.9  0.05 (2),1.8%,0.3
+34,Blackberries,Rubus spp.,Raw,2,No,25,3.40  0.15 (2),0.4%,0.1
+35,Peaches,Prunus persica,Raw,2,No,25,4.95  0.06 (2),4.4%,0.5
+36,Nectarines,Prunus persica var.,Raw,2,No,25,4.95  0.06 (2),1.1%,0.1
+37,,nucipersica,,,,,3.49  0.19 (2),5.5%,0.6
+38,Red plums,Prunus spp.,Raw,2,No,25,3.49  0.19 (2),5.5%,0.6
+39,"Apples, granny smith",Malus domestica,Raw,2,No,25,4.50  0.26 (2),0.9%,0.1
+40,"Apples, red delicious",Malus domestica,Raw,2,No,25,4.50  0.26 (2),5.8%,0.7
+41,"Grapes,red",Vitis vinifera,Raw,2,No,25,4.77  0.13 (2),2.8%,0.3
+42,"Grapes, green",Vitis vinifera,Raw,2,No,25,2.110.04 (2,2.0%,0.2
+43,Juices,,,,,,,,
+44,Cranberry juice cocktail,,Juice,2,No,50,14.4  0.26 (3),1.8%,0.2
+45,"Juice/cola mixture,",,Juice,,,,14.3  0.57 (3),3.9%,1.1
+46,vitamin C fortified,,,,,,,,
+47,Dried foods,,,,,,,,
+48,Parsley flakes,Petroselinum crispus,5.9% moisture,0.3,No,50,500.01.7(3),0.3%,0.1
+49,Oregano flakes,Origanum vulgare,9.9% moisture,0.3,No,50,1.8 0.1 (2),4.3%,0.4
+50,Breakfast cereal (dry).,n/a,2.6% moisture,0.3,No,50,62.0  1.6 (3),2.6%,0.4
+51,"multigrain, ready-to-eat,",,,,,,,,
+52,vitamin fortified,,,,,,,,
+53,Breakfast cereal (dry).,n/a,2.2% moisture,0.3,No,50,70.5  1.5 (4),2.1%,0.4
+54,"ready-to-eat,",,,,,,,,
+55,vitamin fortified,,,,,,,,
+56,"Brussels sprouts,",Brassica oleracea,7.0% moisture,0.3,No,50,465.0e  4.6 (4),1.0%,0.2
+57,freeze-dried,(Gemmifera Group),,,,,,,
+58,High fat foods,,,,,,,,
+59,French fries,,14.6% fat,1.0,Yes,50,3.8  0.1 (3),2.3%,0.2
+60,"Yellow plantains,fried",Musa X paradisiaca,7.5% fat,1.0,Yes,50,8.6  0.2 (3),1.8%,0.2
+61,Mixed snack foodsd,n/a,27% fat,0.5,Yes,50,3.6  0.1 (6),3.3%,0.4
+62,Plaintain chips,n/a,26% fat,0.5,Yes,50,24.1  0.3 (2),1.1%,0.2
+63,Yucca chips,n/a,26% fat,0.5,Yes,50,20.2  0.2 (2),1.0%,0.1
+64,"Whole milk,powdered",n/a,27% fat 2.9%,0.3,Yes,50,74.2e  0.6 (3),0.8%,0.1
+65,,,moisture,,,,,,
+66,Adult/infant nutritional,n/a,31% fat 1.6%,0.3,Yes,50,104.3  1.0 (4),1.0%,0.2
+67,"formula, dry",,moisture,,,,,,

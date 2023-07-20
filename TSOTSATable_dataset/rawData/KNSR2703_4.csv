@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,No.,Pesticide,% matrix effect,LOD,LOQ,LDR
+1,75,Ethion,10,10,25,25-1000
+2,76,Fluopicolide,17,4,10,10-1000
+3,77,Pinoxaden,-17,4,10,10-1000
+4,78,Triasulforun,14,5,10,10-1000
+5,79,Azoxystrobin,12,15,50,50-1000
+6,80,Difenoconazole,19,5,10,10-1000
+7,81,Trifloxystrobin,20,5,10,10-1000
+8,82,Cinosulfuron,21,5,10,10-1000
+9,83,Fenvalerate,21,15,50,50-1000
+10,84,Fenpyroxymate,27,5,10,10-1000
+11,85,Foramsulfuron,16,10,25,251000
+12,86, Mesosulfuron methyl,20,5,10,10-1000
+13,87,Jodosulfuron methyl,19,5,10,10-1000
+14,88,Lufenuron,21,4,10,10-1000

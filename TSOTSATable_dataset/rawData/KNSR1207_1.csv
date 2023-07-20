@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6
+0,Fiber type,Film,Type of fiber coating,Recommended,Conditioning,Time (h),Type of analytes
+1,,thickness,,operation tempC,temperature(C,,
+2,PDMS,100,Absorbent/non-polar,200-280,250,0.5,Volatiles and semivolatiles
+3,PDMS/DVB,65,Adsorben/bipolart,200-270,250,0.5,Volatiles and semivolatiles
+4,Polyacrilate,85,Absorbent/polar,220-310,300,2,"Volatiles,polar oxygenates"
+5,CAR/PDMS,75,Adsorbent/bipolar,250-310,300,1-2,"Most gases,volatiles"

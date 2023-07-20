@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,,,,Predicted Group Membership,,Total
+1,,,,PGI Interdonato lemon pulps,non-PGI Interdonato lemon pulps,
+2,Original dataset,Count,PGI Interdonato lemon pulps,22,0,22
+3,,,Non-PGI Interdonato lemon pulps,0,18,18
+4,,%,PGI Interdonato lemon pulps,100,0,100
+5,,,non-PGI Interdonato lemon pulps,0,100,100
+6,Cross-validated dataset,Count,PGI Interdonato lemon pulps,22,0,22
+7,,,non-PGI Interdonato lemon pulps,0,18,18
+8,,%,PGI Interdonato lemon pulps,100,0,100
+9,,,non-PGI Interdonato lemon pulps,0,100,100

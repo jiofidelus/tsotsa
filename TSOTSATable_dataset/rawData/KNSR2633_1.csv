@@ -1,0 +1,44 @@
+,0,1,2,3,4,5,6
+0,Common name (Latin name),Food type,na,Folacin (g),Pyridoxine (mg),Niacin (mg),Riboflavin (mg
+1,Sea mammals,,,,,,
+2,Ringed seal(Phoca hispida,"Flesh,raw",2,7.42.1,0.82,10.9,0.360.11
+3,,"Flesh,boiled",3,ND,1.030.21,11.152.62,0.280.05
+4,,"Liver,raw",4,1003.5217.8,1.870.69,18.698.83,1.550.91
+5,,"Brain,raw",1,20.3,0.50,6.05,0.11
+6,,"Eye,raw",1,Trace,1.35,0.07,ND
+7,,Blubber,4,ND,ND,ND,0.03
+8,Bearded seal(Erignathus baratus,Intestineboiled,2,46.019.5,1.17+0.13,2.553.61,0.200.10
+9,,"Flesh,boiled",1,14.7,0.27,8.12,0.18
+10,Narwhal(Monodon monoceros),"Maktaaq,raw",2,ND,0.750.21,ND,0.030.01
+11,Beluga (Delphinapterus leucas),"Maktaaq,raw",2,3.9(1,0.800.01,ND,0.020.004
+12,Walrus (Odobenus rosmarus),Kauk,1,ND,0.27,ND,0.05
+13,,"Flesh,raw",3,15.18.5,0.380.34,6.671.6,0.260.12
+14,,"Flesh,aged",3,7.96.4,0.460.27,8.615.73,0.240.29
+15,,"Liver,raw",4,925.3+108,0.930.18,13.373.34,2.540.29
+16,Land animals,,,,,,
+17,Caribou (Rangifer tarandus spp.groenlandicus),"Meat,raw",5,11.83.0,0.470.13,10.911.86,1.140.52
+18,,"Liver,raw",6,374.3152.2,1.970.62,15.641.56,1.580.48
+19,,"Kidney,raw",1,72.6,1.70,13.52,1.91
+20,,"Kidney,cooked",2,81.766.0,1.230.13,11.790.08,1.620.42
+21,,"Heart,raw",1,5.7,0.88,8.17,0.56
+22,,Stomach,2,ND,1.03,ND,0.290.07
+23,,Abomasum,1,,0.48,TRACE,0.14
+24,,Stomach contents,,5.2,0.68,ND,0.56
+25,,"Tongue,raw",1,ND,0.50,8.16,0.13
+26,,Bone grease,1,TRACE,0.09,ND,0.03
+27,,"Boiled brain, roasted",2,10.45.3,0130.03,7.220.06,0.460.12
+28,Moose(Alces alces,Liverraw,1,267.8,0.58,16.12,6.51
+29,Polar bear (Ursus maritimus,"Meat,raw",2,7.10.5,0.490.42,7.812.07,0.350.10
+30,Grizzly bear (Ursus arctos horribilis),"Grease, boiled",1,ND,0.01,ND,0.03
+31,Arctic hare (Lepus arcticus),"Flesh,boiled",1,8.9,0.87,5.53,0.46
+32,Ptarmigan (Lagopus mutus),"Flesh,raw",1,34.4,1.63,10.97,0.51
+33,Scoter duck (Melanitta,"Flesh,raw",1,21.9,0.72,11.20,3.62
+34,Fish,,,,,,
+35,Arctic cisco(Coregonus autumnalis,"Eggs,raw",1,249.7,0.72,4.17,1.40
+36,Whitefish (Coregonus clupeaformis),Fleshdried,1,21.9,1.01,25.19,0.07
+37,,"Flesh,raw",1,3.7,0.66,8.42,0.11
+38,Arctic char(Salvelinus alpinus),"Flesh,raw",2,13.71.8,0.630.05(3),5.900.80,0.110.08(3
+39,Lake trout (Salvelinus namaycush),"Flesh,raw",3,57.622.0,0.700.31,5.270.112,0.110.11
+40,Shellfish,,,,,,
+41,Clam,"Flesh,raw",1,56.8,3.25,ND,0.23
+42,Sarapee,"Flesh,raw",1,30.7,2.68,ND,0.20

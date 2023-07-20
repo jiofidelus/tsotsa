@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Element or,Min,Max,75th,Mean,No.of,Element,Min,Max,75th,Mean,No.of
+1,parameter,,,percentile,,label with,,,,percentile,,label witl
+2,,,,,,element,,,,,,element
+3,Ag*mg/L),Trace,Trace,Trace,Trace,1,I(mg/L,Trace,207.40,0.021,6.83,32
+4,A13+(mg/L),Trace,2.60,0.08,0.254,30,K*(mg/L),0.09,300,4.15,10.42,340
+5,As (mg/L),Trace,0.007,0.0053,0.0035,2,La(mg/L),Trace,Trace,Trace,Trace,
+6,B(mg/L),Trace,13.6,0.225,0.9,6,Li* (mg/L),Trace,5.02,0.14,0.27,89
+7,Ba2+(mg/L),Trace,1.2,0.06,0.1146,13,Mg2+mg/L),Trace,328.4,29.4,26.02,360
+8,Br (mg/L),Trace,5.2,0.3,0.4924,29,Mn2+mg/L),Trace,9.8,0.5,0.6273,38
+9,Ca2+(mg/L),0.8,864,107.43,97.53,359,N (mg/L),Trace,37.20,20.5,14.35,38
+10,Cd (mg/L),Trace,0.002,0.0005,0.00038,8,Na*(mg/L),Trace,5051.43,35.23,76.53,354
+11,CI-(mg/L),0.15,8055.80,34.72,96.95,324,NH(mg/L),Trace,4.5,0.01,0.16,131
+12,CN-(mg/L),Trace,Trace,Trace,Trace,1,Ni(mg/L),Trace,Trace,Trace,Trace,1
+13,CO(mg/L),Trace,Trace,Trace,Trace,1,NO(mg/L),Trace,3.0,0.00001,0.04,127
+14,CO(mg/L,Trace,2800,48.13,209.90,296,NO(mg/L),Trace,47.49,6.1,5.51,288
+15,CO3-(mg/L),Trace,108,75.05,34.74,6,O(mg/L),Trace,13.10,8.8,5.95,98
+16,Conductivity,35,"24,200",779.5,1208.87,49,POs(mg/L),Trace,0.27,0.1,0.08,22
+17,Cr3+(mg/L),,,,,,,,,,,22
+18,Cr3+(mg/L),Trace,0.002,0.002,0.0001,15,Pb2+(mg/L),Trace,3.5,0.002,0.35,12
+19,Cs2+ (mg/L),0.7,0.7,0.7,0.7,1,PH,5.2,9.4,7.65,7.20,343
+20,Cu2+(mg/L),Trace,Trace,Trace,Trace,6,PO3-(mg/L,Trace,0.95,0.00001,0.08,34
+21,CsH5OH,Trace,Trace,Trace,Trace,3,s2-mg/L,0.001,12.4,9.30,6.20,2
+22,F(mg/L),Trace,8.40,0.61,0.5663,194,Se(mg/L),Trace,Trace,Trace,Trace,1
+23,Fe2+(mg/L),Trace,4,0.053,0.1823,69,SiO(mg/L),Trace,122,19.05,18.93,297
+24,HS(mg/L),Trace,178,10.55,21.54,19,Sn(mg/L),Trace,Trace,Trace,Trace,1
+25,HBO(mg/L),0.002,9.7,6,4,3,SO-mg/L,0.30,1918,60.68,113.82,330
+26,HardnessF,0.4,250,23.58,21.98,149,Sr2+(mg/L),Trace,14.7,1.2,1.30,125
+27,HCO(mg/L),4,3245.20,386.53,362.31,334,TDS (mg/L),17,"15,627",583.1,622.09,356
+28,Hg(mg/L),Trace,Trace,Trace,Trace,2,Zn2+(mg/L),Trace,0.18,0.045,0.045,4

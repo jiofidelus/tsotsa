@@ -1,0 +1,30 @@
+,0,1,2
+0,Composition of canned tuna,code,number of cans
+1,100 % of yellowfin tuna,Yellowfin,38
+2,100 % of skipjack tuna,Skipjack,18
+3,100 % of albacore tuna,Albacore,9
+4,100% of Bigeye tuna,Bigeye,28
+5,99 % of yellowfin tuna and 01% of bigeye tuna,Y99/B01,7
+6,95 % of yellowfin tuna and 05 % of bigeye tuna,Y95/B05,7
+7,90 % of yellowfin tuna and10% of bigeye tuna,Y90/B10,7
+8,75 % of yellowfin tuna and 25 % of bigeye tuna,Y75/B25,7
+9,50 % of yellowfin tuna and 50 % of bigeye tuna,Y50/B50,7
+10,99% of yellowfin tuna and 01 % of skipjack tuna,Y99/S01,4
+11,95 % of yellowfin tuna and 05% of skipjack tuna,Y95/S05,4
+12,90 % of yellowfin tuna and 10 % of skipjack tuna,Y90/S10,4
+13,75 % of yellowfin tuna and 25 % of skipjack tuna,Y75/S25,4
+14,50 % of yellowfin tuna and 50 % of skipjack tuna,Y50/S50,9
+15,25 % of yellowfin tuna and 75 % of skipjack tuna,Y25/S75,5
+16,10 % of yellowfin tuna and 90 % of skipjack tuna,Y10/S90,5
+17,05 % of yellowfin tuna and 95% of skipjack tuna,Y05/S95,5
+18,01 % of yellowfin tuna and 99 % of skipjack tuna,Y01/S99,5
+19,99 % of skipjack tuna and 01 % of bigeye tuna,S99/B01,5
+20,95 % of skipjack tuna and 05% of bigeye tuna,S95/B05,5
+21,90 % of skipiack tuna and 10 % of bigeve tuna,S90/B10,5
+22,75 % of skipjack tuna and 25% of bigeye tuna,S75/B25,5
+23,50% of skipjack tuna and 50 % of bigeye tuna,S50/B50,9
+24,25 % of skipjack tuna and 75 % of bigeye tuna,S25/B75,4
+25,10 % of skipjack tuna and 90 % of bigeye tuna,S10/B90,4
+26,05 % of skipjack tuna and 95% of bigeye tuna,SO5/B95,4
+27,01 % of skipjack tuna and 99 % of bigeye tuna,S01/B99,4
+28,Total,,218

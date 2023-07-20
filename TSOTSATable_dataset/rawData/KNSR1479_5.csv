@@ -1,0 +1,18 @@
+,0,1,2
+0,Material,Concentration,Matrix
+1,,(mg/kg),
+2,NIST-SRM 1563-1,1000,Coconut oil (natural)
+3,NIST-SRM 1846,271,Infant formula
+4,BCR-CRM 122,214,Margarine
+5,LGC-7123,173.6,Refined olive oil
+6,NIST-SRM 1563-2,158,Coconut oil (fortified)
+7,NIST-SRM 1588,112,Organics in cod liver oil
+8,BCR-CRM 421,99,Milk powder
+9,LGC-7122,72.1,Refined olive oil
+10,NIST-SRM 2383,25,Baby food composite
+11,RECIPE-8872,23.9,"Serum,vitamins level III"
+12,RECIPE-8871,19.6,"Serum,vitamins level II"
+13,NIST-SRM 968c-2,16.79,"Human serum,level 2"
+14,RECIPE-8870,10.2,Serumvitamins level I
+15,NIST-SRM 968c-1,7.47,"Human serum,level 1"
+16,NIST-SRM 1588a,0.1342,Organics in cod liver oil

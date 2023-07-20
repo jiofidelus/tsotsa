@@ -1,0 +1,8 @@
+,0,1,2,3,4,5
+0,Feed source,Riboflavin content (mg/kg),Riboflavin content (mg/kg),,,Coefficient of variance (%
+1,,Trial 1,Trial 2,Trial 3,Average,
+2,Soybean meal,5.82  0.65,5.380.61,5.030.94,5.410.40,7.40
+3,Datmeal breakfast cereal,"3.50.88a,b",3.220.65a,4.420.24b,3.710.63,16.88
+4,Corn-based breakfast cereal,19.321.33a,15.31.35b,"17.771.47a,b",17.472.03,11.62
+5,Rice-based breakfast cereal,20.92 0.89,21.6  1.59,23.05  2.42,21.86 1.09,4.97
+6,Wheat-based breakfast cereal,13.370.64,13.20  1.06,12.420.81,13.000.51,3.89

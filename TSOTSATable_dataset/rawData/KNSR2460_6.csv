@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8
+0,Crude polysaccharide,,Thermal degradation step,TonsetC,Tpeake C,Tendset,"W,%",Residue%,DTA characteristic
+1,Armillaria mellea,1,,75,97,150,9.00,35.6,Endothermic
+2,,II,,232,304,326,34.9,,Exothermic
+3,,III,III,326,410,527,20.4,,Exothermic
+4,Boletus edulis,1,,67,85,134,8.23,28.2,Endothermic
+5,,II,,239,301,344,63.5,,Exothermic
+6,Cantharellus cibarius,1,,72,86,143,5.86,32.1,Endothermic
+7,,II,,232,305,346,42.7,,Exothermic
+8,,III,III,346,440,507,19.4,,Exothermic

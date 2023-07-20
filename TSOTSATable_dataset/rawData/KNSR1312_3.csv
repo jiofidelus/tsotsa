@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Extraction,Detection,"LRa,b","LODa,b",EF,RSD,Extraction,Sample,Used solvents or reagents,Refs.
+1,method,system,,,,(%),time (min),amount,,
+2,MA-dUA-,UHPLC-MS/,0.10-100a,0.05-0.19a,145-207,2.88.3,~20,2.0 mL,"Ethanol, Bromocyclohexane,","(Sun et al.,"
+3,DLLME,MS,,,,,,,"Acetonitrile, Bromobenzene",2017)
+4,LLE-SAALLME,GC-FID,2.65000b,2.65.2b,385-450,3.27.2,~12,5.0 g,Diethyldimethyl ammonium,(Ebadnejad et al.
+5,,,,,,,,,"chloride: pivalic acid DES,",2021)
+6,,,,,,,,,"Ethanol,",
+7,SPME,GC-MS,400-2000,,,8,~60,2.5 mL,"N, O-Bistrifluoroacetamide,",(Xie et al. 2021)
+8,,,,,,,,,Pyridine,
+9,USAEME,HPLC-UV,10-12550b,13-40b,97,4.55.2,~50,5.0 mL,"Methanol, n-Hexane,",(Hryniewicka
+10,,,,,,,,,,"et al.,2020"
+11,DES-HLLE-,GC-MS,0.19,0.060.26,215232,5.3-7.5,~8,2.5 g,"n-Hexane,TBAB:EG DES, and",Presented
+12,DLLME,,"10,000",,,,,,TBAB: DCA: decanoic acid DES,method

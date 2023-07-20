@@ -1,0 +1,18 @@
+,0,1
+0,Sensor number,Composition
+1,1,SnO200nm
+2,2,SnO400nm
+3,3,SnO600nm)
+4,4,SnO800nm
+5,5,SnO300nm+Cr4nm+SnO150nm
+6,6,SnO300nm+Cr8nm+SnO150nm
+7,7,SnO300nm+Cr16nm+SnO150nm
+8,8,SnO300nm+Cr24nm+SnO150nm
+9,9,SnO300nm+In10nm+SnO150nm
+10,10,SnO300nm+In20nm+SnO150nm
+11,11,SnO300nm+In30nm+SnO150nm
+12,12,SnO300nm+In40nm+SnO150nm
+13,13,SnO450nm+Cr8nm
+14,14,SnO450nm+Cr16nm
+15,15,SnO450nm+In10nm
+16,16,SnO450nm+In20nm

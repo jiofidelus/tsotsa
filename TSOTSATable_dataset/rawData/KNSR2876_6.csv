@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7
+0,Country of origin,Thailand,India,USA,Philippines,Australia,Bangladesh,% correct
+1,Thailand,38,0,0,,,,100
+2,India,0,23,0,0,,0,100
+3,USA,0,0,3,0,,0,100
+4,Philippines,0,0,0,3,0,0,100
+5,Australia,,0,0,0,3,0,100
+6,Bangladesh,0,0,0,3,0,3,100
+7,Total,38,23,3,3,3,3,100

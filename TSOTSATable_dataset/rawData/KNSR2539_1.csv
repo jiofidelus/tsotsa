@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,,,Class,Cal,Pred,Pre-treatment
+1,Model 1,Pure Paprika,1,40,17,MSC+Auto
+2,,Paprika+Potato starch,2,54,45,
+3,Model 2,Pure Paprika,1,40,17,1Deriv9*+MC
+4,,Paprika + Acacia gum,2,54,45,
+5,Model 3,Pure Paprika,1,40,17,1Deriv3*+Auto
+6,,Paprika+Annatto,2,54,41,
+7,Model 4,Pure Paprika,1,40,17,1Deriv9*+ Auto
+8,,Paprika +Potato starch,2,54,45,
+9,,Paprika+ Acacia gum,3,54,45,
+10,,Paprika+ Annatto,4,54,41,

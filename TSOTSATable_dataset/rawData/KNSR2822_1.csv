@@ -1,0 +1,10 @@
+,0,1,2
+0,Fatty acid (%),CONV,HOHOC
+1,"Palmitic, 16:0",10.3,9.40
+2,"Palmitoleic,16:1",0.10,0.10
+3,"Stearic,18:0",1.90,2.20
+4,"Oleic,18:1",33.1,58.2
+5,Linoleic.18:2,52.0,27.7
+6,"Linolenic,18:3",1.20,1.10
+7,CONV-Conventional corn (control diet),,
+8,"HOHOC-High oleic,high oil corn (treatment diet",,

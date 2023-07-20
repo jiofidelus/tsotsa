@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7
+0,Location,Bean sample ID,Insecticide,RfD*,Adults/ Children,EDI,HQ,Effect
+1,,,,mg kg1day1,,(mg kg1day1,,
+2,Raja bazar,B-6,Quinalphos,0.0005,Adults,2.96  104,0.59,Alarming
+3,Raja bazar,B-6,Quinalphos,0.0005,Children,1.77  10-3,3.55,Yes
+4,Gabtoli bazar,B-2,Quinalphos,0.0005,Adults,2.49 x 105,0.05,No
+5,Gabtoli bazar,B-2,Quinalphos,0.0005,Children,1.49  10-4,0.30,No
+6,Sonatola bazar,B-5,Quinalphos,0.0005,Children,1.67  10-3,3.35,Yes
+7,Shibgonj bazar,B-7,Quinalphos,0.0005,Children,1.16  10-4,0.23,No
+8,Gabtoli bazar,LB-7,Dimethoate,0.002,Children,1.32  10-4,0.07,No
+9,Sonatola bazar,LB-1,Dimethoate,0.002,Adults,1.71  10-4,0.09,Alarming
+10,Sonatola bazar,LB-1,Dimethoate,0.002,Children,1.02 x 10-3,0.51,Alarming
+11,,,Dimethoate,0.002,Adults,8.88 x 10-4,0.44,No
+12,Mohasthan bazar,LB-3,Dimethoate,0.002,Children,5.32 x 10-3,2.66,Yes
+13,Mohasthan bazar,LB-3,Chlorpyrifos,0.01,Adults,7.75  10-5,0.01,No
+14,,,Chlorpyrifos,0.01,Children,4.65  10-4,0.05,No
+15,Mohasthan bazar,LB-7,Quinalphos,0.0005,Children,9.79  10-4,1.96,Yes
+16,Shibgonj bazar,LB-4,Dimethoate,0.002,Children,1.49  10-4,0.07,No

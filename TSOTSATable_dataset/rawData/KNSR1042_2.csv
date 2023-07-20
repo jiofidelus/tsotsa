@@ -1,0 +1,47 @@
+,0,1
+0,Variable,Definition
+1,Fruc,Fructose(mg/L)
+2,Gluc,Glucose(mg/L)
+3,TtlSgrs,Total Sugars Fructose Equiv (mg/L
+4,Brix,Brix% clarified
+5,TA,Titratable Acids %
+6,CtrcAcd,Citric Acid (mg/L)
+7,MlcAcd,Malic Acid (mg/L
+8,ABTSAO,ABTS Antioxidant Tr Eqv(mol/100g FW
+9,a*,a*chroma(red to green
+10,b*,b* chroma (yellow to blue)
+11,L*,L*hue
+12,Lyc,Lycopene as estimated using a
+13,VitC,Vitamin Cg/mL
+14,Brix:TA,Brix to TA ratio
+15,FrWt,"Fruit weightg,average of 10 fruit"
+16,Prmtr,Perimeter(mm
+17,Area,Area(mm)
+18,WdthMH,Width Mid-Height (mm)
+19,MxWdth,Maximum Width (mm)
+20,HghtMW,Height Mid-Width (mm)
+21,MxHght,Maximum Height (mm)
+22,CrvHght,Curved Height (mm)
+23,FSIExI,Fruit Shape Index External I
+24,FSIExII,Fruit Shape Index External II
+25,CrvFS,Curved Fruit Shape Index
+26,PrxFrBlk,Proximal Fruit Blockiness
+27,DstFrBlk,Distal Fruit Blockiness
+28,FSTrngl,Fruit Shape Triangle
+29,Ellpsd,Ellipsoid
+30,Crelr,Circular
+31,Retglr,Rectangular
+32,ShdrHght,Shoulder Height
+33,PrxAngMi,Proximal Angle Micro
+34,PrxAngMa,Proximal Angle Macro
+35,PrxIndAr,Proximal Indentation Area
+36,DstEndPr,Distal End Protrusion
+37,Obov,Obovoid
+38,Ovoid,Ovoid
+39,Vasy,Vertical Asymmetry
+40,HAsyob,Horizontal Asymmetry Obovoid
+41,HAsyov,Horizontal Asymmetry Ovoid
+42,WdthWP,Width Widest Position
+43,Ecctrcty,Eccentricity
+44,FSIInt,Fruit Shape Index Internal
+45,EccAreal,Eccentricity Area Index

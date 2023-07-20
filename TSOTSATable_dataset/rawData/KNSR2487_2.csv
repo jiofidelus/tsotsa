@@ -1,0 +1,52 @@
+,0,1,2,3
+0,Food type (mg/kg)a,n,Mean,Range
+1,Vegetables,,,
+2,"Bean (Snap), cooked",1,86,
+3,"Bean (Yardlong), cooked",2,95,84-107
+4,Broccoli,2,525,412-638
+5,"Broccoli, cooked",2,193,177-209
+6,"Cabbage (choi sum,cooked",2,99,96-101
+7,"Cabbage (won bok), cooked (pe-tsai)",2,86,68104
+8,"Cabbage (pak choi),cooked",2,143,138-14
+9,"Cabbage (bok choi), cooked",1,134,
+10,Cabbage (Head),2,236,188-283
+11,"Cabbage (Head), cooked",2,135,112-158
+12,Lettuce (Iceberg),3,15,1218
+13,Lettuce (Manoa'),3,20,1135
+14,Onion (green),3,155,104-206
+15,Onion (yellow),3,67,42-84
+16,"Onion, yellow, cooked",3,30,1838
+17,Onion yellowMaui,3,46,3760
+18,"Onion yellowMaui',cooked",3,23,1825
+19,Spinach,3,89,76-116
+20,"Potato Sweet,orange,cooked",2,189,185-194
+21,"Potato (Sweet, purple), cooked",1,232,
+22,"Potato leaves (Sweet), cooked",2,4,45
+23,"Taro leaves,cooked",1,26,
+24,Tomato,2,100,99-101
+25,"Tomato, boiled",2,71,6776
+26,"Tomato, canned",2,107,73-140
+27,Watercress,2,153,123-184
+28,"Watercress, cooked",2,96,90102
+29,Fruits,,,
+30,"Apple (Fuji), without skin",2,18,1421
+31,"Apple (Fuji), with skin",2,33,3035
+32,"Apple (Red Delicious), without skin",2,17,17-18
+33,"Apple (Red Delicious), with skin",2,26,2033
+34,Cranberry juice cocktail,1,449,
+35,Grapefruit (ruby red),3,483,413520
+36,Grapefruit (white),2,287,285-289
+37,Mango (Hayden),2,132,91173
+38,Mango (local),2,154,122186
+39,Oranges (local Ka'u),3,455,421485
+40,Oranges (Navel),3,585,541-624
+41,Papaya (Solo),2,737,666-807
+42,Papaya (Sunrise),2,630,627-632
+43,Pineapple,1,50,
+44,Pomelo,2,316,316-317
+45,Strawberry,1,801,
+46,Tangerine,3,220,163-312
+47,Supplements (mg/supplement),,,
+48,Cranberry capsule,,<0.002,
+49,GNC ultra mega pills,,640,
+50,GNC vitamin C tablet,,102,

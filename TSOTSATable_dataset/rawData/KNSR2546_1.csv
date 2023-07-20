@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7
+0,,nb,,Lead,,,Tin,
+1,Standarda,nb,XRFC,NISTa,Rel.Diff.,XRFC,NISTd,Rel.Diff
+2,Set1,,,,,,,
+3,Citnus Leaves,16,13.9 1.4,13.3 2.4,4.5%,<3.1,(0.24),
+4,Tomato Leaves,16,6.31.6,6.30.3,0.0%,<3.3,,
+5,Orchard Leaves,16,412,453,-8.9%,<3.2,[0.290.06],
+6,Pine Needles,16,10.91.1,10.80.5,0.9%,<2.8,,
+7,Set 2,,,,,,,
+8,Citrus Leaves,76,12.6 0.6,13.32.4,-5.3%,<4.1,(0.24),
+9,Tomato Leaves,76,6.0 0.5,6.30.3,-4.8%,<4.1,,
+10,Mixed Diet,76,<1.1,,,67 2,{60-66}e,8%
+11,Fly Ash,4,69.2 2.4,72.40.4,-4.4%,113,[106],10%
+12,Set 3,,,,,,,
+13,Citrus Leaves,6,12.70.3,13.32.4,-4.5%,<4.1,(0.24),
+14,Tomato Leaves,80,5.70.51,6.3 0.3,-9.5%,<4.1,,
+15,Orchard Leaves,6,411.7,45 3,-8.9%,<4.7,[0.29 0.06],
+16,Pine Needles,6,9.80.5,10.80.5,-9.3%,<4.0,,
+17,Mixed Diet,6,<1.2,,,68 1.5,{60-66}e,10%
+18,,,,Average Bias,-4.6%,,Average Bias,9%
+19,,,Average Difference,Average Difference,5.5%,Average Difference,Average Difference,9%

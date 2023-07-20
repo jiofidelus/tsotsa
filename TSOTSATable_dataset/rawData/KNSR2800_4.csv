@@ -1,0 +1,25 @@
+,0,1,2,3,4
+0,Label statement,Product,Number of,Multimeric,ITS real-
+1,,,samples,scFv ELISAa,time
+2,,,analysed,,PCRa
+3,Walnut declared as,biscuit,2,+2,+2
+4,ingredient,nut bar,2,+2,+2
+5,,breakfast,1,+1,+1
+6,,cereals,,,
+7,,chocolate,1,-1,-1
+8,,bread,3,+2/-1,+(2/
+9,,,,,-(1
+10,,yogurt,1,-1,+1
+11,Contains other tree,biscuit,2,-2,-2
+12,nuts or traces,nut bar,2,-2,-2
+13,thereof,breakfast,4,+3/-1,+2/
+14,,cereals,,,2b
+15,,chocolate,2,(2,-2
+16,Not declaring to,biscuit,3,-3,(3)
+17,contain nuts or,nut bar,1,-(1),-1
+18,traces,breakfast,1,-(1,-(1
+19,,cereals,,,
+20,,chocolate,1,(1,-(1
+21,,sauce,1,-(1,-(1
+22,,beverage,2,(2),-(2
+23,,ice cream,1,-1,-1

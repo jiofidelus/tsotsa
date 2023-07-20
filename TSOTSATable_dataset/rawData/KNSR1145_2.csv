@@ -1,0 +1,22 @@
+,0,1,2,3
+0,Parameter,Wild,Cultured,P-value
+1,Weight(g),10.60.5,9.9  0.7,0.099
+2,Eye diameter (cm),0.950.03,0.920.03,0.460
+3,Head length (cm),1.480.04,1.480.02,0.961
+4,Head width (cm),1.42 0.07,1.35 0.03,0.574
+5,Total length (cm),13.90.3a,13.2  0.3b,0.047
+6,Tentacle length (cm),7.56 0.18,7.29  0.20,0.208
+7,Arm I length (cm),1.36  0.04b,1.48 0.04a,0.037
+8,Arm II length (cm),2.110.07,2.22  0.07,0.205
+9,Arm III length (cm),2.79 0.09,2.84  0.07,0.691
+10,Arm IV length (cm),2.77 0.08,2.60  0.07,0.103
+11,Dorsal mantle length (cm,4.840.09a,4.30  0.09b,<0.001
+12,Dorsal mantle width (cm),3.450.07,3.26  0.08,0.063
+13,Ventral mantle length (cm,4.66 0.08a,4.16  0.09b,<0.001
+14,Ventral mantle width (cm,3.81 0.08,3.68  0.09,0.168
+15,Fin length (cm),4.20  0.09a,3.89  0.09b,0.010
+16,Fin width (cm),0.950.02,0.96 0.09,0.114
+17,Gladius length (cm),4.85  0.09a,4.45  0.09b,0.002
+18,Gladius width (cm),1.040.03,1.070.03,0.314
+19,Rancis length (cm),1.32  0.03a,1.22  0.04b,0.047
+20,Rancis width (cm),0.38  0.03,0.36  0.03,0.380

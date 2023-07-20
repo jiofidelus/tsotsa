@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7
+0,,,,Turkish,,,U.S.,
+1,Component,Units,Mean,,Standard,Mean,,Standard
+2,,,,,Deviation,,,Deviation
+3,PH,,4.2a,,0.16,3.7,,0.13
+4,Acidity,%malic,1.gb,,0.47,3.8b,,0.49
+5,Sugars,%,,,,,,
+6,Total,,55,,4.6,58,,6.9
+7,Reducing,,41,,5.6,35,,10
+8,Calcium,ug/gC,1300a,,220,700a,,190
+9,Iron,ug/gC,50,,11,70,,17
+10,B-carotene,IU/100gC,3600a,,380,8000a,,1900
+11,Nitrogen,%,0.62,,0.06,0.91,,0.08
+12,Sulfur dioxide,PpmC,,,,,,
+13,Total,,2200,,na,1170,,na
+14,Free,,1300,,na,530,,na
+15,Reflectance,,,,,,,
+16,,,42,,4.5,41,,4.2
+17,a,,5.5b,,0.86,,,0.45
+18,,,28,,7.8,28,,5.6

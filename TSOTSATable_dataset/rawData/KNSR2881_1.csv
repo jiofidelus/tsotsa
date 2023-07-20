@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8
+0,,Central Tyrrhenian Sea (CT),Central Tyrrhenian Sea (CT),,Central Adriatic Sea(CA,Central Adriatic Sea(CA,,CT vs CA Spring,CT vs CA Autumn
+1,,Spring,Autumn,t-test,Spring,Autumn,t-test,t-test,t-test
+2,Length (cm),20.6  3.8,17.9  2.0,,16.0  0.7,15.9  2.2,,,
+3,Weight (g),110.08 65.47,76.49  25.38,,49.61 6.51,53.75 22.11,,,
+4,Weight (g),,,g 100g1 wet fillet,g 100g1 wet fillet,,**,,
+5,Moisture,79.4  0.2,74.0  0.8,**,79.8  0.4,72.5  1.3,**,,
+6,Protein (N x 6.25),18.6  0.2,18.5  0.7,,18.1  1.1,18.8  1.2,,,
+7,Lipid,0.96  0.10,7.28  1.51,**,1.48  0.11,8.72  2.76,*,*,
+8,Nonprotein nitrogen,0.35 0.01,0.34  0.01,,0.32  0.02,0.34  0.01,,,
+9,Ash,1.31  0.14,1.27  0.05,,1.42  0.02,1.33  0.11,,,
+10,Energy value,,,,,,,,
+11,kJ100g-1wet fillet,348 8,582  51,**,348 14,638  88,**,,
+12,kcal100g-wet fillet),(831,(139 12),,(86  4),(153  21),,,

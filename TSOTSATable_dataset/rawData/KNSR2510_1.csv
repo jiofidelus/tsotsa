@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Sources,Larval stage,Country,,Moisture,Protein,,Total lipids,Ash,Authors
+1,Local market,NS,Nigeria,FW,64.70  3.0,9.9a,,21.94a,2.19a,"Edijala et al., 2009)"
+2,,,,DW,,28.1,0.85,62.15  0.45,6.20  0.45,
+3,Market,NS,Cameroun,FW,61.9  0.2,8.2  0.4,8.2  0.4,25.3  0.2,2.1  0.1,"Womeni et al.,2012)"
+4,,,,DW,,8.42,0.2,66.6  0.4,5.5  0.2,
+5,NS,NS,Nigeria,FW,61.9  0.2,8.42,,25.38,2.21,"(Ekpo and Onigbinde,2005"
+6,,,,DW,,22.1,0.3,66.6  0.4,5.8  0.1,
+7,NS,NS,Nigeria,FW,61.6  0.2,8.45,,25.46,2.23,"Ekpo et al., 2009)"
+8,,,,DW,,22.1  ,0.3,66.3  0.4,5.8 0.1,
+9,Local market,NS,Nigeria,FW,60.43,9.96,,25.72,1.91,"Idolo,2010"
+10,,,,DW,,25.16,,65,4.82,
+11,Local market,NS,Cameroun,FW,70.15  0.68,8.18  0.44,8.18  0.44,21.35  2.01,0.65  0.14,"(Fogang Mba et al.,2017)"
+12,,,,DW,,27.50  1.51,27.50  1.51,71.62  7.61,2.18  0.41,
+13,NS,NS,Nigeria,FW,43.4,13.47a,,37.19,1.02a,"Elemo et al.,2011"
+14,,,,DW,,23.8a,,65.7a,1.8a,
+15,Local market,Late larval stage (30 day),Congo,FW,28.2,15.22a,,47.17a,3.73a,"Lenga et al., 2012)"
+16,,,,DW,,21.2,,65.7,5.2,
+17,Local market,Early larval stage-dried at 60C,Nigeria,DW,11.9  0.2,8.02a,,54.18a,2.09a,"(Omotoso and Adedire,2007"
+18,,,,DW,,9.1  0.0,9.1  0.0,61.5  0.4,2.37  0.15,
+19,Wild,NS,Nigeria,FW,11.3  0.8,31.58,,17.30,4.17,"Onyeike et al.,2005"
+20,,,,DW,,35.6 ,0.7a,19.5  1.4a,4.7  0.5a,
+21,Local market,Late larval stage- dried at 60C,Nigeria,FW,8.4  0.1,9.62a,,56.88a,2.13a,"(Omotoso and Adedire,2007)"
+22,,,,DW,,10.5,0.0,62.1  1.8,2.33  0.23,
+23,Range (FW),,,FW,8.4-64.70,8.02-31.58,8.02-31.58,17.3056.88,0.654.17,

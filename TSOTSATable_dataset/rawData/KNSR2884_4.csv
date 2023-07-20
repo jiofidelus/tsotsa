@@ -1,0 +1,27 @@
+,0,1,2,3
+0,Fatty Acid,Spanish (mg/g of,Valencia (mg/g of,Virginia (mg/g of
+1,,crude oil),crude oil),crude oil)
+2,Palmitic acid;,5.490.08c,8.05 0.12a,7.18  0.20b
+3,C16:0,,,
+4,Stearic acid;,2.67  0.07a,2.07  0.03b,2.12  0.05b
+5,C18:0,,,
+6,Oleic acid;,79.4  1.3a,37.2  0.5c,64.6  1.7b
+7,C18:1,,,
+8,Linoleic acid;,4.98  0.07c,38.3 0.6a,14.90.4b
+9,(C18:2912),,,
+10,-Linolenic acid;,0.13  0.01b,0.25 0.01a,<0.01
+11,C18:3 91215,,,
+12,-Linolenic acid;,0.67  0.02a,0.40  0.01b,<0.01
+13,C18:3912,,,
+14,Arachidic acid;,1.15  0.04b,0.86 0.01c,1.31 0.03a
+15,(C20:0,,,
+16,Eicosenoic acid;,1.56  0.08b,1.210.02c,2.16  0.06a
+17,C20:111,,,
+18,Behenic acid;,2.34  0.07b,2.64  0.04a,2.530.07a
+19,C22:0),,,
+20,Lignoceric acid;,1.24  0.09c,1.40 0.02b,1.630.04a
+21,C24:0,,,
+22,SFA,12.9  0.1b,15.00.2a,14.80.2a
+23,E MUFA,80.9 1.3a,38.4 0.6c,66.8  0.4b
+24,EPUFA,5.77  0.08c,38.9  0.6a,14.90.4b
+25,PUFA/SFA ratio,0.45,2.59,1.01

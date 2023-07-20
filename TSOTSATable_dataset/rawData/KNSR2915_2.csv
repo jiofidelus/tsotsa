@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6
+0,Origin of,Sample,ALB,IVE,Sample,ALB,IVE
+1,samples,type,(mg/,(mg/,type,(mg/,(mg/
+2,,,kg),kg),,kg),kg)
+3,,Milk1,4.10*,n.d.,Milk2,2.33*,n.d.
+4,,Milk (3),1.57*,0.45*,Milk (4),0.46*,n.d.
+5,,Milk5,5.30*,3.80*,Milk (6),0.87*,n.d.
+6,,Curd (1,0.51*,n.d.,Curd (2),0.74*,8.73*
+7,,Curd (3),n.d.,0.31*,Curd (4),0.63*,4.65*
+8,,Curd (5),0.71*,2.42*,Curd (6),0.55*,n.d.
+9,,Butter,0.84*,1.90*,Butter,2.10,0.24*
+10,Bovine,milk (1),0.84*,1.90*,milk2,2.10,0.24*
+11,animals,Butter,0.52*,n.d.,Butter,3.61*,n.d.
+12,(Cow&,milk (3),0.52*,n.d.,milk (4),3.61*,n.d.
+13,Buffalo),milk (5),1.57*,n.d.,,,
+14,,Urine1),n.d.,1.15,Urine (2),0.14,0.73
+15,,Urine(3),0.95,0.86,Urine (4,3.96,n.d.
+16,,Dung1),6.10,n.d.,Dung(2),n.d.,7.24
+17,,Dung(3),0.32,0.40,Dung4,0.24,n.d.
+18,,Saliva (1),2.75,n.d.,Saliva (2),1.23,n.d.
+19,,Saliva (3,0.87,n.d.,,,
+20,,Muscle,0.68*,n.d.,Muscle,0.43*,n.d.
+21,,(1,0.68*,n.d.,(2),0.43*,n.d.
+22,,Muscle,0.23*,n.d.,,,
+23,,(3),0.23*,n.d.,,,
+24,Poultry,(1,0.16,n.d.,,,
+25,(Chicken),Liver (1),0.19,n.d.,Liver (2),0.13,n.d.
+26,,(1),0.20*,n.d.,(2),0.24*,n.d.
+27,,(3),0.39*,n.d.,,,

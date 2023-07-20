@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Cut,Fabrication,Cooking,Bone,Cooking,Trim,N,Fat,Moisture,(SEM)
+1,,,method,status,temperature/final,(cm),,(SEM),(SEM),(SEM)
+2,,,,,internal,,,,,
+3,,,,,temperature(C),,,,,
+4,Top loin,Steak,Grilled,Boneless,195/70,0.0,36,11.2(0.60),60.0(0.43),28.6(0.19)
+5,Top loin,Steak,Grilled,Boneless,195/70,0.32,36,17.7(0.61),55.9(0.44),26.2(0.22)
+6,,,,,,,36,p<0.001,p<0.001,p<0.001
+7,Under blade,Roast,Braised,Boneless,120/85,0.0,36,20.4(0.96),52.6(0.62),26.8(0.53)
+8,Under blade,Steak,Braised,Boneless,120/85,0.0,36,18.0(0.55),53.8(0.65),28.3(0.39)
+9,,,,,,,,p=0.03,p=0.2,p=0.02

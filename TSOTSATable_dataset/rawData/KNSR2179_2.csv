@@ -1,0 +1,32 @@
+,0,1,2,3
+0,Compound,Mean,Max-min,ANOVAa
+1,Odorants with average GC-O score higher than 40,,,
+2,3-Methyl-1-butanol,90,7,NS
+3,"2,3-Butanedione",84,14,NS
+4,Ethyl butyrate,82,8,NS
+5,Ethyl hexanoate,76,16,NS
+6,Ethyl 2-methylbutyrate,73,19,NS
+7,Ethyl 3-methylbutyrate,68,46,NS
+8,3-Methylbutyl acetate,67,36,NS
+9,-Damascenone,63,34,***
+10,Acetic acid,51,31,NS
+11,2-Methylpropanol,48,41,NS
+12,Odorants with average GC-O score lower than 40,,,
+13,Ethyl isobutyrate,39,23,NS
+14,2-Methyl-3-(methyldithio)furan,39,41,NS
+15,Isobutyl acetate,34,34,NS
+16,(Z)-Whiskylactone,29,44,NS
+17,Octanal,28,55,***
+18,2-Phenylethanol,27,42,NS
+19,2-Methoxyphenol,25,41,*
+20,Ethyl octanoate,25,14,NS
+21,4-Ethylphenol,23,42,NS
+22,Ethyl cinnamate,21,35,**
+23,Furfural,21,44,*
+24,3-Methylbutiric acid,20,46,NS
+25,Propyl acetate,17,35,NS
+26,Ethyl 4-methylpentanoate,13,50,***
+27,"2,3-Pentanedione",12,35,**
+28,3-Isopropyl-2-methoxypyrazine,7,34,*
+29,Ethyl valerate,7,33,NS
+30,3-Ethylphenol,6,32,NS

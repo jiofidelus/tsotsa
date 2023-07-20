@@ -1,0 +1,40 @@
+,0,1,2,3,4,5,6,7,8
+0,Element,Mean,Max,Water standards(mg/L),No.of samples above,% samples total above,%samples or number ofRegions,,%samples or number ofRegions
+1,,(mg/L),(mg/L,,standard,standard,label with elements,,
+2,,,,,,,above standard,,
+3,Ag,Trace,Trace,0.1(USEPA,0,0,0,,
+4,AI,0.2454,2.6,0.05(USEPA),9,2.43,30.00,,"E,LO,VE,PI,T,M,B"
+5,As,0.0035,0.0070,0.005(E,1,0.27,50.00,L,
+6,B,0.9,13.6,"1S,EU,IDW,I(RW",1,0.27,16.67,LO,LO
+7,Ba,0.1146,1.2,"1CON,EU,IMW",1,0.27,7.69,T,
+8,Br,0.4924,5.2,0.025 (E),20,5.39,68.97,,"LO,T,M,L,SAR,P,B,C"
+9,Cd,0.000381,0.0020,"0.003EU,I(MW)",0,0,0,,
+10,CI,96.85,8056.80,"250USEPACON,E",98,26.42,30.25,,"E,LO,VA,PI,T,U,M,L,SAR"
+11,,,,"I(DW,IRW)",,,,"P,S,CA,B,C","P,S,CA,B,C"
+12,CO,Trace,Trace,"0,05(I(RW))",0,0,0,,
+13,Cr,0.0001,0.002,"0.05CON,E,EU,I(MW",0,0,0,,
+14,,,,I(DW)),,,,,
+15,Cu,Trace,Trace,"1USEPACON,IMW,",0,0,0,,
+16,,,,"IDW,I(RW)",,,,,
+17,F,0.5663,8.4,"1.5CON,E,IDW,IRW)",12,3.23,6.19,,"LO,TAA,T,L,SAR,S,CA"
+18,Fe,0.1823,4,"0.2E,I(DW)",8,2.16,11.59,,"E,LO,VA,PI,T,L,SAR,CA"
+19,Hg,Trace,Trace,"0.001CON,E,EU,IMW",0,0,0,,
+20,,,,"IDW,I(RW)",,,,,
+21,Mn,0.6273,9.8,"0.05USEPACONE,",22,5.93,57.89,"PI.T.U.L,CA","PI.T.U.L,CA"
+22,,,,I(DW),,,,,
+23,N,14.35,37.2,15I(RW),19,5.12,50.00,,"E,LO,VEPI,FVG,LI,T,U,M"
+24,,,,,,,,L,
+25,Na,76.53,5051.43,"200CONE,IDW",18,4.85,5.08,,"E,LO,VE,PI,T,L,SAR,S,B"
+26,NH4,0.16,4.5,0.5S*ITDW,9,2.43,6.87,"E,LO,T,M,L","E,LO,T,M,L"
+27,Ni,Trace,Trace,"0.02E,EU,I(DW",0,0,0,,
+28,NO,5.51,47.49,44(USEPA),12,3.23,4.17,,"E,LO,PI,T,U,M,L,SAR,P,S"
+29,,,,,,,,B,
+30,NO2,0.0405,3.0,0.1E*EU,4,1.08,3.15,"VE,T,S","VE,T,S"
+31,Pb,0.35,3.5,"0.01CON,EU,IMW",2,0.54,16.67,"E,M","E,M"
+32,,,,I(DW)),,,,,
+33,Se,Trace,Trace,"0.01CON,E,EU,IMW",0,0,0,,
+34,,,,"IDW,I(RW)",,,,,
+35,Sn,Trace,Trace,3I(RW)),0,0,0,,
+36,S04,113.82,1918,"250USEPAE,IDW",30,8.09,9.09,,"E,LO,TAA,VE,VA,PI,T,M,L"
+37,,,,,,,,"SAR,S,CA","SAR,S,CA"
+38,Zn,0.045,0.18,5USEPACON,0,0,0,,

@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Sample,Sorbent type (amount),LODb (ng,LR(ng,RSD (%)d,Instrument,EFe,Extraction,Sample,Ref.
+1,,,mL-1,mL-,,,,time (min),amount,
+2,"Water, fruit juices",Zinc-based MOF (8 mg),0.030.21,0.1100,<8.5,GC-FIDf,914,~15,20 mL,"(Amiri et al.,"
+3,,,,,,,,,,2019)
+4,Milk,M-RACNTs (40 mg),0.360.95,5-40,14.9-19.9,GC-MS8,,~50,40 mL,(Campos do
+5,,,,,,,,,,"Lago et al.,"
+6,,,,,,,,,,2020)
+7,Organic and,UiO-66 (50 mg),0.42.0,10-500,<14.6,GC-MS,-,~ 42,1g,"(Mao et al.,"
+8,conventional,,,,,,,,,2021)
+9,vegetables,,,,,,,,,
+10,Environmental water,-cyclodextrin grafted,12.0,5500,<7,HPLC-UVh,76.1,~15,8 mL,"Mi et al.,2019)"
+11,samples,hyperbranched polymers,,,,,,,,
+12,,(20 mg),,,,LC-MS/,,,,
+13,Fruit juices,NH2-UiO-66(Zr) MOF (7 mg),0.02-0.10,0.29500,8.8,LC-MS/,3745,~ 20,5mL,This work
+14,,,,,,MSi,,,,

@@ -1,0 +1,19 @@
+,0,1,2,3,4,5
+0,Atlantic salmon(100g=3.5oz,EPA(g),DHA(g),Total EPA+DHA (g),Total n-3 FA (g),EPA+DHA (g) per serving
+1,,,,,,meets AHA/DG guidelines
+2,"USDA Nutrient Database,2009(SR 22 and 23",,,,,
+3,"Wild,cooked",0.41,1.43,1.84,,Yes/yes
+4,"Wild,raw",0.32,1.12,1.44,,No/yes
+5,"Farmed, cooked",0.69,1.46,2.15,,Yes/yes
+6,"Farmed, raw",0.86,1.10,1.97,,Yes/yes
+7,Food processor,,,,,
+8,"Wild, cooked",0.40,0.66,1.06,,No/yes
+9,"Farmed, cooked",0.41,0.87,1.28,,No/yes
+10,"aNDSR,2009",0.41,1.43,1.84,2.69,Yes/yes
+11,"NUTTAB,2006",0.51,0.81,1.32,,No/yes
+12,"Bowes & Church,19th ed.",,,,,
+13,"Wild, cooked",,,,2.26,-
+14,"Farmed, cooked",,,,2.59,-
+15,Blanchet et al.2005,,,,,
+16,"Wild,raw",0.26,0.52,0.78,1.00,No/yesb
+17,"Farmed, raw",0.32,0.62,0.94,1.27,No/yes

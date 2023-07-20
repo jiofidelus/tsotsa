@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Samples,Free ABTS,Bound ABTS,Total ABTS,Free DPPH,Bound DPPH,Total DPPH
+1,,(mol TEAC/g),(mol TEAC/g),(mol TEAC/g),(mol TEAC/g),(mol TEAC/g),(mol TEAC/g)
+2,Teff flour (Bolivia),2.78  0.07a,1.30  0.02a,4.08  0.09a,2.45  0.06a,0.93  0.02a,3.38  0.08a
+3,Brown teff (Bolivia),3.75  0.05b,0.86  0.02b,4.61  0.07b,3.65  0.07b,0.65  0.01b,4.30 0.08b
+4,White teff (Bolivia),2.31  0.06c,0.69  0.01c,3.00  0.07c,1.55  0.04c,0.55  0.01c,2.10  0.05c
+5,Brown teff (USA),4.37  0.07d,1.62  0.02d,5.99  0.09d,3.94  0.05d,1.03  0.02d,4.97  0.07d
+6,White teff (USA),1.70  0.06e,1.16  0.02e,2.86  0.08c,1.39  0.05e,0.75  0.01e,2.14  0.06c

@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,Subclass,Sampling plan,Sample handling,Analytical,Analytical QC,Sample number
+1,,"average (min.,","average (min.,",method average,"average (min.,","average (min.,"
+2,,max.),max.),"(min., max.)",max.),max.)
+3,Flavonols,"9(2,14)","1712,20","112,15","6(0,17","14 (1, 20)"
+4,Flavones,"8 (2, 14)","17 (12,20","10(3,15","50,17","9 (1,20)"
+5,Flavanones,"10 (2, 14)","17(12,20","8 (2, 15)","30,17","18 (1,20"
+6,Flavan-3-ols,"9 (2,14)","19 (12, 20)","12(2,15)","90,17","161,20)"
+7,Anthocyanidins,"12 (2, 14)","16 (14, 20)","6 (4, 13)","0 (0,0)","17 (1,20)"

@@ -1,0 +1,5 @@
+,0,1,2,3,4,5
+0,,,PCR reactions (35 cycles),,,
+1,PCR assays,Initial denaturation,Denaturation,Annealing,Extension,Final extension
+2,"Duplex, triplex and tetraplex",95C for 3 min,95C for 30 s,60C for 40 s,72C for 40 s,72C for 5 min
+3,"Pentaplex,hexaplex and heptaplex",95C for 3 min,95C for 40 s,60C for 60 s,72C for 50 s,72C for 5min

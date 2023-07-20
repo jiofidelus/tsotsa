@@ -1,0 +1,22 @@
+,0,1,2,3,4
+0,phenolic acid Standards,tRa (min),Linear Regression equation,R2, maxb (nm)
+1,Gallic acid,5.5,y=305726x-249684,0.999,"227, 272"
+2,"2,4,6 trihydroxybenzoic acid",9.51,y=49119x+29082,0.998,"228, 255"
+3,Protocatechuic acid,13.16,y=530511x+112990,0.999,"228,259,294"
+4,Pyrogallolaldehyde,14.18,y=337860x+147020,0.991,"234,291"
+5,Protocatechualdehyde,14.35,y=548015x+303632,0.998,"234,281"
+6,Gentisic acid,14.92,y=13444x-1829.4,0.998,"232,327"
+7,Sinapic acid,23.90,y=643555x-1E+06,0.991,255
+8,-resorcinolic acid,18.99,y=200138x+46398,0.998,"255,294"
+9,Hypogallic acid,19.61,y=82657x-14787,0.998,"232,314"
+10,Vanillic acid,27.86,y =289390x -82077,0.999,"223,260,294"
+11,Caffeic acid,28.9,y=169059x-140031,0.996,"233,323"
+12,Vanillin,30.83,y=626260x-138097,0.999,"233,281"
+13,Syringic acid,33.30,y=214749x-72422,0.999,"225,275"
+14,p-hydroxybenzoic acid,35.18,y=88856x-14995,0.999,"234,308"
+15,p-coumaric acid,40.5,y=213962x-333316,0.999,"232,309"
+16,Chlorogenic acid,41.92,y=97008x-33773,0.995,"233,327"
+17,Ferulic acid,46.5,y=174006x+127640,0.998,"235,322"
+18,m-coumaric acid,47.59,y=533000x+78590,0.999,"232,278"
+19,o-coumaric acid,48.75,y=7E+06x-2E+06,0.999,"232,277"
+20,Cinnamic acid,49.05,y= 568487x+305505,0.992,"280,330"

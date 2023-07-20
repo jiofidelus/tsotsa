@@ -1,0 +1,7 @@
+,0,1,2,3,4
+0,Compounds,Calibration curves,r2,LOQ(mg/,LOD(mg/
+1,,,,kg),kg)
+2,Tyrosol,Y=1.026X+0.04172,0.9997,0.10,0.40
+3,Hydroxytyrosol,Y=1.883X+0.04403,0.9996,0.10,1.00
+4,Oleocanthal,Y=0.4088X+0.008184,0.9998,0.90,5.20
+5,Oleacein,Y=0.3158X+0.005722,0.9999,0.50,1.60

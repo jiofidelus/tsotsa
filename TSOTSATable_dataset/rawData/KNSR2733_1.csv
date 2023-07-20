@@ -1,0 +1,17 @@
+,0,1,2
+0,EDI parameters,,RfD(mg/kg
+1,,,BW/day)
+2,ED=Exposure,"Pakistan population's 66.4 years,an",Cr=1.5
+3,duration,average lifetime,
+4,IR=Ingestion rate,10 g/day (standard size available in,Mn=0.14
+5,,sachet as single serving),
+6,EFr=Exposure,365 days,Co=0.02
+7,frequency,,
+8,C=Concentration of,mg/kg,Ni=0.0003
+9,metal,,
+10,BW=Average body,Adult=73 kg,Cu=0.04
+11,weight,,
+12,TA=Average,66.4 365days,Zn=0.30
+13,exposure time,,
+14,,,Cd=0.001
+15,,,Pb=0.004

@@ -1,0 +1,73 @@
+,0,1,2,3,4,5,6,7,8
+0,#,RT,Compound Name,Mol.,[M]*/,Fragment ions,[M-2H]/[M-,Fragment ions,Source
+1,,(min),,formula,[M+H]+/,+ve mode,2H+HO]/,-ve mode,
+2,,,,,[M+Na]+,,[M-H],,
+3,,,,,,,,,"SN-Fl,"
+4,,,,,,,,,"SC, SE"
+5,22,5.03,Gentisic acid,C?H6O4,155.0340,,153.0193,109.0296,"SN-Fl,"
+6,,,,,(155.0339),,(153.0193),,"SN-Fr,"
+7,,,,,,"163.0375,",,,"SC, SE,"
+8,23,6.17,4-O-Caffeoyl quinic acid (CQA),C16H1gO9,355.1023,"163.0375,",353.0876,"135.0452,173.0456,179.035,","SN-Fl,"
+9,,,,,(355.1024,"145.0283,",(353.0878),191.0562,"SN-Fr,"
+10,24,7.4,3-O-Caffeoyl quinic acid (CQA),,,"135.0432,",,"135.0448, 179.0362, 191.0563","SC, SE,"
+11,,,,,,117.0351,,,SCe
+12,25,5.6,Glucocaffeic acid,C15H1gOg,,,341.0877,"161.0818,179.0352","SN-Fl,"
+13,,,,,,,(341.0878),,"SN-Fr,"
+14,,,,,,,,,"SC, SE,"
+15,,,,,,,,,SCe
+16,26,6.44,p-Coumaric acid glucoside,C15H1gO8,,,325.0928,163.0398,"SN-Fl,"
+17,,,,,,,(325.0929),,"SN-Fr, SE,"
+18,27,6.57,O-Feruloylquinic acids (FQA),C1H2oO9,369.1183,,367.1034,"193.0516, 134.0374","SN-Fl,"
+19,,,,C1H2oO9,(369.1180),,(367.1035),,"SN-Fr,"
+20,28,8.73,,,,,,,"SN-Fl,"
+21,,,,,,,,,"SN-Fr,"
+22,,,,,,,,,"SC,"
+23,29,7.1,p-Hydroxybenzoic acid,C?HgO3,,,137.0243,,"SN-Fl,"
+24,29,,,C?HgO3,,,(137.0244),,"SC, SE,"
+25,30,7.7,Caffeic acid,CgHgO4,181.0495,,179.0349,,"SN-Fl, Fr,"
+26,,,,,,,(179.035,,"SC, SE,"
+27,,,,,,,,,SCe
+28,31,5.8,3-p-coumaroylquinic acid,C6H1gO8,339.1071,,337.0926,163.0401,"SN-Fl, SC,"
+29,,,,,(339.1074),,(337.0929),,"SE,"
+30,32,7.8,4-p-coumaroylquinic acid,,,,,173.0453,"SN-Fl,"
+31,,,,,,,,,"SN-Fr, SE,"
+32,,,,,,,,,"SCe,SC"
+33,33,12.11,Dicaffeoylquinic acids (diCQA),C25H24O12,517.1341,"355.1025,",515.1194,"353.0874,191.0558,179.0348","SN-FI,"
+34,,,"(3,5-di-O-caffeoylquinic acid/4,5-O-",,(517.1341),"163.0388,",(515.1195,135.0451,"SN-Fr,"
+35,34,12.82,dicaffeoylquinic acid),,,"135.0436,",,"353.0872,173.0451,179.0346,","SC,SE,"
+36,,,,,,117.0330,,"191.0559,135.0450",SCe
+37,35,13.8,3-O-p-coumaroyl-4-O-caffeoylquinic,C25H24O11,501.1389,,499.1245,"353.0877,191.0560,179.0349,",SN-FI
+38,,,acid,,(501.1391,,(499.1246),135.0451,
+39,36,14.44,,,,,,"353.0871, 173.0454, 179.0346,",
+40,,,,,,,,191.0559,
+41,,Non-Targeted Analysis- Isorhamnetin derivatives,Non-Targeted Analysis- Isorhamnetin derivatives,,,,,,
+42,37,8.4,Isorhamnetin-rutinoside-glucoside,C34H42O21,787.2289,317.0652,785.2145,"314.0425, 315.0497","SN-Fl, SE"
+43,,,,,(787.2291),,(785.2146),,
+44,38,9.5,Isorhamnetin 3-laminaribioside,C28H32O17,641.1713,479.1183,639.1665,"477.1019, 314.0427, 315.0499","SN-Fl,"
+45,,,,,641.1715,317.0653,(639.1667),,"SN-Fr, SE"
+46,39,11.3,Isorhamnetin 3-galactoside-7-,C2gH32O16,625.1766,479.1183,623.1619,315.0508,SE
+47,,,rhamnoside,,(625.1769),317.0659,(623.1618),,
+48,40,12.16,Isorhamnetin 3-O-galactoside,C22H22O12,479.1181,317.0657,477.1038,315.0507,SE
+49,41,12.3,Isorhamnetin 3-O-glucoside,,(479.1184),,(477.1038),,"SN-Fl,"
+50,,,,,,,,,"SN-Fr,"
+51,,,,,,,,,"SC, SCe,"
+52,42,,,,,,,,"SN-FI,"
+53,42,13.3,Isorhamnetin 3-O-(acetylgalactoside),C24H24O13,,,519.1144,315.0507,"SN-FI,"
+54,,,,C24H24O13,,,(519.1144),,"SN-Fr,"
+55,,,,,,,,,"SC, SCe,"
+56,,,,,,,,,SE
+57,43,17.5,Isorhamnetin,CH12O7,317.0652,,315.0512,,"SN-Fl,"
+58,,,,,(317.0656),,(315.0510,,"SC, SCe,"
+59,,,,,,,,,SE
+60,,Non-Targeted Analysis-Kaempferol derivatives,Non-Targeted Analysis-Kaempferol derivatives,,,,,,
+61,44,9.3,Kaempferol diglucoside,C27H3oO16,611.1606,449.1082,609.1459,447.0931,"SN-Fl, SE"
+62,,,,,(611.1607,287.0551,(609.1461),"284.0322,285.0380",
+63,45,10.7,Kaempferol 3-O-galactoside-7,C27H3oO15,595.1663,449.1080,593.1509,447.0949,SE
+64,,,rhamnoside,,(595.1664),287.0552,(593.1512),285.0399,
+65,46,11.24,Kaempferol 3-O-glucoside-7-O-,,,,,,"SN-Fl,"
+66,,,rhamnoside (Kaempferol 3-O-,,,,,,"SN-Fr,"
+67,,,rutinoside),,,,,,"SC, SE,"
+68,,,,,,,,,SCe
+69,47,11.6,Kaempferol 3-0-galactoside/,C21H2oO11,449.1075,287.0550,447.0929,285.0398,SE
+70,48,12.09,Kaempferol 3-O-glucoside,,(449.1078),,(447.0933),,"SN-Fl,"
+71,,,,,,,,,"SN-Fr,"

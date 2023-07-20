@@ -1,0 +1,22 @@
+,0,1,2,3
+0,Country,Region,,
+1,,East,North/West,South
+2,Estonia,2,,
+3,Lithuania,3,,
+4,Slovakia,3,,
+5,Latvia,4,,
+6,Poland,5,,
+7,Slovenia,5,,
+8,Czech Republic,7,,
+9,Hungary,9,,
+10,Denmark,,1,
+11,Germany,,2,
+12,Sweden,,3,
+13,Ireland,,5,
+14,Belgium,,6,
+15,Spain,,,2
+16,Portugal,,,6
+17,Switzerland,,,6
+18,France,,,7
+19,Italy,,,7
+20,Total,38,17,28

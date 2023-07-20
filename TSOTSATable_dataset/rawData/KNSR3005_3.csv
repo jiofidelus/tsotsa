@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Corn sample,Anthocyanins,Percentage,Condensed pigments,Percentage
+1,Pericarp of sample A (cv.Arrocillo,Cyanidin-3-glucoside,37,"Catechin-(4,8)-cyanidin-3-malonylglucoside",0.73
+2,,Cyanidin-3-malonylglucoside,21,"Catechin-(4,8)-peonidin-3-glucoside",0.45
+3,,Peonidin-3-glucoside,12,"Catechin-(4,8)-cyanidin-3-glucoside",0.3
+4,,Peonidin-3-malonylglucoside,3,"Epicatechin-(4,8)-cyanidin-3-malonylglucoside",Tr
+5,,Other cyanidin derivatives,10,"Catechin-4,8-pelargonidin-3-glucoside",Tr
+6,,Other peonidin derivatives,7,"Epicatechin-(4,8)-peonidin-3-glucoside",Tr
+7,Endosperm of sample A(cv.Arrocillo,Cyanidin-3-malonylglucoside,28,Catechin-(4.8)-cyanidin-3-malonylglucoside,0.23
+8,,Other cyanidin derivatives,25,"Catechin-(4,8)-cyanidin-3-glucoside",0.20
+9,Pericarp of sample B(cv.Peruano),Cyanidin-3-glucoside,27,"Catechin-(4,8)-cyanidin-3,5-diglucoside",2.7
+10,,Cyanidin-3-malonylglucoside,21,"Catechin-4,8-cyanidin-3-malonylgluc-5-glucoside",0.76
+11,,Peonidin-3-glucoside,12,"Epicatechin-(4,8)-cyanidin-3-malonylgluc-5-",0.31
+12,,Peonidin-3-malonylglucoside,9,glucoside,
+13,,Other cyanidin derivatives,15,,
+14,,Other peonidin derivatives,8,,
+15,Endosperm of sample C(cv.Purepecha,Pelargonidin-3,27,"Catechin-4,8)-cyanidin-3,5-diglucoside",0.30
+16,,malonylglucoside,,,
+17,,Pelargonidin-3-,14,,
+18,,dimalonylglucoside,,,
+19,,Pelargonidin-3-glucoside,10,,
+20,,Cyanidin-3-glucoside,6,,
+21,,Other pelargonidin derivatives,24,,
+22,,Other cyanidin derivatives,7,,

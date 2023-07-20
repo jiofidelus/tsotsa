@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,,Expected,Observed (g),,,,mg/100 g fresh
+1,,(ug),,,,,weight
+2,,,Double,% Recovery,Brief,% Recovery,
+3,,,extraction,,extraction,,
+4,Spiked tubers,,,,,,
+5,0.4 and 0.7 mg standard,4,3.70.9,92.5,40.7,100,
+6,a-solanine:a-chaconine(1:1),7.0,6.80.5,97.1,7.1+0.4,101.4,
+7,addedlg fresh weight,,,,,,
+8,Peeled tubers,,0,,0,,nd
+9,Skin,,6.6+1.1,,7.00.8,,132-140
+10,Leaves,,>10,,,,>200
+11,Sprouts,,8.90.12,,9.21.5,,178-184

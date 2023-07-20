@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,,Observed value,Observed value,,*Recommended
+1,Parameters,,,,value
+2,,Fructose,Glucose,Sucrose,value
+3,Retention time (min,5.01,5.96,8.13,
+4,Tailing factor (T),1.02,0.96,0.97,T<2.00
+5,Resolution (R,12.3,2.51,5.03,Rs>2.00
+6,Capacity factor (k),2.34,2.97,4.42,k>2.00
+7,Selectivity(,,1.27,1.48,>1.00
+8,Asymmetry factor (As),0.99,1.02,1.01,A=0.95-1.20
+9,Theoretical plate,4340,2771,6397,N>2000
+10,number(N),,,,
+11,%RSD of Retention Time,0.08,0.10,0.12,%RSD<1.0

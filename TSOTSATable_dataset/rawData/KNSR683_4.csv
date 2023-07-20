@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,Method,Sample,HNO3,HCI,H2O,Microwave oven
+1,,(mg),(mL),(mL),(mL),programs (time @
+2,,,,,,power)
+3,A,300,0.1,4.0,1.0,2: 3 min @ 0 W
+4,B,100,2.0,6.0,1.0,2: 3 min @ 200 W
+5,c,65,0.25,3.0,0.75,2: 5 min @ 800 W

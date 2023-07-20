@@ -1,0 +1,17 @@
+,0,1,2,3,4
+0,Metal name,"Oral toxicity reference dose, RD","Oral toxicity reference dose, RD",Cancer Slope Factor,
+1,,(mg/kg-day),References,(mg/kg/day)-1,References
+2,Al,7.00,"WHO,1989",,
+3,Cr-IV,0.003,"US-EPA,2017a)",0.50,"(Fanfu et al.,2015;Caspah Manny and Morgan,2016"
+4,As,0.0003,"US-EPA,2017a",1.5,"(US-EPA,1988)"
+5,Se,0.005,"US-EPA,2017a)",,
+6,Zn,0.300,"US-EPA,2017a)",,
+7,Cd,0.001,"US-EPA,2017a)",0.38,"(Nkpaa et al.,2016)"
+8,Hg,0.0003,"US-EPA,2017a)",,
+9,Pb,0.004,"(US-EPA,2017a&OEHHA,2009)",0.01,"OEHHA,2009"
+10,Cu,0.040,"(US-EPA,2017a)",,
+11,Sb,0.0004,"US-EPA,2017a)",,
+12,Ni,0.020,"US-EPA,2017a)",1.7,"Isa et al.,2015)"
+13,Sr,0.600,"US-EPA,2017a)",,
+14,Fe,0.700,(2011),,
+15,Mg,0.140,"(US-EPA,2017a)",,

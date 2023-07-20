@@ -1,0 +1,76 @@
+,0,1,2,3
+0,Food group,Sub-group,PB-,PB-
+1,,,A,H
+2,Non-food items,,,
+3,Non-food items,Nutritional supplements,x,x
+4,,Chewing gum,+,x
+5,"Meat, fish, eggs &",,,
+6,dairy,,,
+7,"Meat, meat dishes &",Discrete meat,x,x
+8,products,,,
+9,,Meat dishes,x,x
+10,,Meat products,x,x
+11,"Fish & seafood, dishes",Discrete fish & seafood,x,x
+12,&products,,,
+13,,Fish & seafood dishes,,x
+14,,Fish & seafood products,x,x
+15,Eggs & egg dishes,Discrete eggs,x,x
+16,,Egg dishes,x,x
+17,Dairy & dairy products,Milk & milk products,x,x
+18,,Cream & cream products,x,x
+19,,Cheese & cheese products,x,+
+20,,Yogurt & yogurt drinks,x,+
+21,,"Butter & animal fat (e.g., lard, suet,",x,
+22,,dripping),,
+23,,Dairy spreads & blended dairy spreads,x,x
+24,Non-dairy,,,
+25,alternatives,,,
+26, Non-dairy alternative,Non-dairy alternative drinks (sweetened &,,
+27,,,,
+28,drinks,unfortified),,
+29,,Non-dairy alternative drinks (unsweetened,V,V
+30,,& at least calcium-fortified),,
+31, Non-dairy alternative,Non-dairy alternative yogurts (sweetened,V,X
+32,yogurts,& unfortified,,
+33,,Non-dairy alternative yogurts,V,V
+34,,(unsweetened & at least calcium-fortified,,
+35,Non-dairy alternative,Non-dairy alternative cheeses,V,
+36,cheeses,,V,
+37,Non-dairy alternative,Non-dairy alternative fat spreads,V,x
+38,fat spreads,,,
+39,Vegetables&,,,
+40,vegetable dishes,,,
+41,Vegetables,Discrete vegetables,,V
+42,,"Vegetables cooked in animal fat (e.g., lard,",x,x
+43,,"suet,dripping)",,
+44,Vegetable dishes &,Dairy-based vegetable dishes,,
+45,products,,,
+46,,Salads/vegetables with a mayonnaise-,x,x
+47,,based sauce,,
+48,,Vegetables with/cooked in butter/dairy fat,V,V
+49,,spreads/other fat spreads,,
+50,,Vegetables in batter/breadcrumbs,V,x
+51,,Other vegetable & vegetarian products (e.,V,x
+52,,"g., 'meat free' products)",,
+53,,Refined vegetable dishes containing no/,V,
+54,,minimal animal-derived ingredients,,
+55,,Unrefined vegetable dishes containing no/,V,V
+56,,minimal animal-derived ingredients,,
+57,,Tofu & tofu dishes containing no/minimal,V,V
+58,,animal-derived ingredients,,
+59,Fruit & fruit juices,,,
+60,Fruit,Discrete fruit,V,V
+61,,Pureed fruit/fruit stewed with added sugar,V,x
+62,,Fruit tinned in juice/syrup,V,x
+63,,Candied fruit,V,x
+64,Fruit juices &,Fruit smoothies made with dairy,x,
+65,smoothies,,,
+66,,Fruit juices/fruit & vegetable juices&,V,x
+67,,smoothies made without dairy,,
+68,Potatoes & potato,,,
+69,dishes,,,
+70,Potatoes,Discrete potatoes,V,V
+71,,"Potatoes cooked in animal fats (e.g., lard,",x,x
+72,,"suet,dripping)",,
+73,Potato dishes &,Dairy-based potato dishes,x,
+74,products,,,

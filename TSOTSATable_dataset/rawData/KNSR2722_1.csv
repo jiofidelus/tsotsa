@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Wine origin,Wine content (mgL-1),Wine content (mgL-1),,Detection mode,(nm,nm,LODmgL-1,LOQmgL-1,Eluents
+1,,Red,White,Rose,,,,,,
+2,Portugal mainland Baptista et al. (2001),1.56a,,,Diode array,306,,0.010,,0.4%v/v o-phosphoric acidpH 2.3
+3,Azores Island Baptista et al.2001,3.36a,,,,,,,,80%(v/v acetonitrile and 20%eluent A
+4,Greece Gerogiannaki-Christopoulou et al.(2006,,0.015b,,Diode array,308,,,0.015,Water:methanol5:5
+5,,,0.009c,,Diode array,,,,,Water acetonitrile7:3
+6,Spain Abril et al.2005,0.32-4.44,,0.12-2.80,Diode array,306,,,,Glacial acetic in water (pH 2.4
+7,,,,,,,,,,Glacial acetic in water pH 2.4/acetonitrile 20:80
+8,Azores Island Ribeiro de Lima et al.(1999),,0.3-2.1,,Diode array,306,,5d,,Glacial acetic in waterpH 2.4
+9,,,0.3-2.1,,Diode array,,,,,Glacial acetic in water pH 2.4/acetonitrile 20:80
+10,Spain Vinas et al.2000,n.d.-2.35,n.d.,,Diode UV-vis,300,,0.06,0.22,Acetonitrile/5% aqueous acetic acid9:91
+11,,n.d.-2.36,0.06,,Fluorescence,,324/370,0.003,0.01,
+12,French Vitrac et al.2002,2.3a,0.06a,-,Fluorescence,,300/390,0.01,0.03,HO99%/trifluoro acetic acid1%
+13,,,,,,,,,,Acetonitrile80%/eluent A20%
+14,Spain Rodriguez-Delgado et al. (2002),2.89a,0.095a,,Fluorescence,,360/374,0.003,,Methanol 10%/acetic acid 2%/Water 88%
+15,,,,,,,,,,Methanol90%/acetic acid2%/water8%
+16,Turkey Giirbuiz et al.(2007,0.176-4.403,0.116-1.931,,Fluorescence,,324/370,,,Acetonitrile (9%/5% aqueous acetic acid91%
+17,,,,,,,,,,Acetonitrile25%/5%aqueous acetic acid75%
+18,,,,,,,,,,Acetonitrile70%/5%aqueous acetic acid 30%
+19,Czech republic Kolouchova-Hanzlikova et al.(2004,0.7-11,,,Electrochemical,,,0.003,,Acetonitrile25%/0.1%H3PO4 andNaCl(5 mmolL-1

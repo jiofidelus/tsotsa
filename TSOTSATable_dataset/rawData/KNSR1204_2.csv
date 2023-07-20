@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7
+0,Herbal product,Product type,Number of species on,Species detected through,Detected species from,Fidelity,Detected species not on,Adulteration
+1,code,,label,AMB,label,,product label,
+2,15,Dried plant,11,25,3,27.3,22,88.0
+3,,parts,,,,,,
+4,4,Powder,8,26,5,62.5,21,80.8
+5,3,Powder,6,22,3,50.0,19,86.4
+6,56,Dried plant,8,21,2,25.0,19,90.5
+7,,parts,,,,,,
+8,5,Powder,7,21,4,57.1,17,81.0
+9,57,Dried plant,6,15,3,50.0,12,80.0
+10,,parts,,,,,,
+11,16,Powder,6,15,4,66.7,11,73.3
+12,38,Dried plant,7,12,2,28.6,10,83.3
+13,,parts,,,,,,
+14,18,Powder,5,13,4,80.0,9,69.2
+15,54,Dried plant,13,11,5,38.5,6,54.5
+16,,parts,,,,,,

@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,,,Confidence interval for B12,Confidence interval for B12,,,Confidence interval for D3,Confidence interval for D3
+1,Product,,Time and temperature of,vitamin B,(95%),,,vitamin D,(95%),
+2,Product,,cooking,12,Lower,Upper,3,vitamin D,Lower,Upper
+3,,,,12,bound,bound,3,,bound,bound
+4,Pooris,,"170-180C,20-30s",13.9  0.7 h,78.3,-7.9,9.5  1.0 e,9.5  1.0 e,-77.0,-17.3
+5,Chapattis,Chapattis,"200-220C,80-90 s",90.6  1.0a,9.4,78.3,28.5  1.0d,28.5  1.0d,-58.0,20.6
+6,Cake(control,Cake(control,"175-180C,25 min",35.8  0.9c,-56.4,23.5,84.2  0.6a,84.2  0.6a,2.3,76.3
+7,Cake sample 1**,Cake sample 1**,"175-180C,25 min",33.7  1.4d,-58.5,21.4,84.9  0.6a,84.9  0.6a,-0.9,77.0
+8,Cake sample 2***,Cake sample 2***,"175-180C,25 min",32.1  0.7e,60.2,19.7,83.5  1.4a,83.5  1.4a,-3.0,75.6
+9,Bread,,"200-205C,20 min",79.7  0.3b,12.6,67.3,40.2  0.8c,40.2  0.8c,46.4,32.3
+10,Cookie (control)*,Cookie (control)*,"200-205C,12 min",24.5  0.4f,67.7,12.2,65.3  1.8b,65.3  1.8b,-21.2,57.5
+11,Cookie,,"200-205C,12 min",23.4  1.4fg,68.8,11.1,64.2  1.8 b,64.2  1.8 b,22.4,56.3
+12,,lo****,,,,,,,,

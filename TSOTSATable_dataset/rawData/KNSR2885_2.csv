@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7
+0,GJ,PB,BW,Ex,Em,Tentatively assigned,Tentatively assigned,Reference
+1,Comp,Comp,Comp,max,max,fluorophores,,
+2,#,#,#,(nm),(nm),contributing to,,
+3,,,,,,signal of component,signal of component,
+4,3,1,1,278,315,monomeric,"s,c,d",
+5,,,,,,catechins,,
+6,1,2,2,278,360,tryptophan,a,
+7,,,,,,vanillic acid,"b,d",
+8,,,,,,syringic acid,b,
+9,,,,,,gallic acid,"s,b,d,e","s,b,d,e"
+10,,,,,,malvidin-3-O-,"s,d",
+11,,,,,,glucoside,,
+12,2,3,4,260,(370/,caffeic acid,S,
+13,,,,,390,,,
+14,4,4,3,(278/,415,caffeic acid,"s,b,d",
+15,,,,320,,p-coumaric,"b,d",
+16,,,,,,acid,,
+17,,,,,,tyrosol,b,

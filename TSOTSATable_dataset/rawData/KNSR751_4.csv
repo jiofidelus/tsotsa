@@ -1,0 +1,5 @@
+,0,1,2,3,4
+0,Technique,MSE in training set,MSE in test set,Training correct classification (%,Holdout correct classification (%
+1,MLP,0.014197,0.046365,100,100
+2,MLP+SA,0.000311,0.010023,100,100
+3,MLP+GA,0.000235,0.000235,100,100

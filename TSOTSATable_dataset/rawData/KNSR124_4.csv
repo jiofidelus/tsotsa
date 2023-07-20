@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+0,Peak,Identification,Experiment 1:Radicchio Corelli,,Experiment 1:Radicchio Corelli,,Experiment 1:Radicchio Corelli,,,,,,,Experiment 2: Radicchio Botticelli,,Experiment 2: Radicchio Botticelli,,Experiment 2: Radicchio Botticelli,,,,,,
+1,,,Fresh,,pMA-8d,pMA-8d,AIR-8d,,pMA-,,AIR-12d,AIR-12d,,Fresh,,pMA-,,AIR-19d,AIR-19d,pMA-,,AIR-25d,AIR-25d,
+2,,,,,,,,,12d,,,,,,,19d,,,,25d,,,,
+3,1,Caftaric acid,0.47,b,3.05,ab,1.76,ab,4.33,a,2.03,ab,*,1.61,b,7.98,ab,6.06,ab,10.7,,5.20,ab,*
+4,2,5-caffeoylquinic acid,28.1,ab,24.6,bc,32.3,a,22.9,bc,19.6,c,*,12.3,,21.6,,24.1,,18.8,,24.5,,ns
+5,3,"Quercetin-7-0-glucuronide-3-0-(6""-",0.84,C,1.60,a,1.52,a,1.68,a,1.21,b,**,0.62,,1.21,,1.06,,1.09,,1.09,,ns
+6,,malonyl)-glucoside,,,,,,,,,,,,,,,,,,,,,,
+7,4,Dihydroquercetin-di-malonylhexoside,0.67,,1.01,,1.09,,1.18,,0.88,,ns,0.60,b,1.55,a,1.47,a,1.91,a,1.60,a,*
+8,5,Quercetin-7-O-glucoside-3-0-(6-,0.46,a,0.00,b,0.00,b,0.00,b,0.00,b,***,0.00,,0.00,,0.00,,0.00,,0.00,,ns
+9,,malonyl)-glucoside,,,,,,,,,,,,,,,,,,,,,,
+10,6,Dihydroquercetin-malonylhexoside,3.86,,4.32,,4.85,,4.98,,4.66,,ns,1.02,,3.29,,4.18,,4.26,,2.57,,ns
+11,7,5-0-feruloylquinic acid,1.21,,0.94,,1.10,,0.93,,0.70,,ns,0.55,,0.71,,0.93,,0.65,,0.80,,ns
+12,8,Caffeoylmalic acid,3.05,,2.69,,3.09,,2.68,,2.54,,ns,0.94,,1.61,,1.75,,2.04,,2.07,,ns
+13,9,Chicoric acid,17.4,C,33.5,ab,34.3,ab,38.2,a,28.5,b,**,17.9,b,49.6,a,51.6,a,52.6,a,53.7,a,*
+14,10,Luteolin-7-O-glucuronide,41.2,,44.3,,43.7,,47.6,,38.2,,ns,42.2,,73.4,,58.3,,85.6,,65.4,,ns
+15,11,"3,5-Di-caffeoylquinic acid+Quercetin-",15.8,,25.2,,24.2,,26.7,,22.0,,ns,5.71,b,26.2,a,19.6,a,23.7,a,17.4,a,
+16,,3-0-glucuronide,,,,,,,,,,,,,,,,,,,,,,
+17,12,Quercetin-3-O-glucoside,5.59,,7.46,,7.85,,8.57,,6.51,,ns,4.14,,9.20,,7.33,,10.3,,8.37,,ns
+18,,(Isoquercitrin),,,,,,,,,,,,,,,,,,,,,,
+19,13,"Quercetin-3-0-(6""-O-malonyl)-",65.1,b,107,a,109,a,118,a,95.3,a,*,35.8,,70.1,,54.6,,72.1,,60.8,,ns
+20,,glucoside,,,,,,,,,,,,,,,,,,,,,,
+21,14,Apigenin glucuronide,1.02,b,1.33,ab,1.66,a,1.56,ab,1.43,ab,*,0.89,b,1.87,a,2.17,a,2.19,,1.66,,*
+22,15,Isorahmnetin-7-O-glucuronide,0.47,b,1.19,ab,1.35,ab,1.71,a,1.19,ab,*,0.00,b,1.10,ab,1.47,ab,2.15,,1.17,ab,*
+23,16,"Kaempferol-3-0-(6""-0-malonyl)-",2.08,c,3.46,b,4.25,ab,4.81,a,3.88,ab,**,1.84,,3.43,,3.93,,4.34,,3.45,,ns
+24,,glucoside,,,,,,,,,,,,,,,,,,,,,,
+25,17,"Isorhamnetin-7-0-(6""-O-malonyl)-",0.84,C,1.72,ab,1.79,ab,2.39,a,1.38,bc,*,0.87,,2.59,,1.83,,2.72,,2.14,,ns
+26,,glucoside,,,,,,,,,,,,,,,,,,,,,,
+27,18,Cyanidin-3-O-glucoside,2.63,,3.15,,3.05,,3.57,,2.54,,ns,0.61,b,3.83,ab,3.09,ab,4.76,a,3.78,ab,*
+28,19,"Cyanidin-3,5-di-O-(6""-O-malonyl)-",2.98,,2.78,,2.85,,3.30,,2.61,,ns,0.58,b,2.89,a,2.32,ab,3.23,a,2.33,ab,*
+29,,glucoside,,,,,,,,,,,,,,,,,,,,,,
+30,20,"Cyanidin-3-O-(6""-O-malonyl)glucoside",54.9,,61.5,,60.7,,64.7,,55.8,,ns,14.4,b,55.1,a,42.8,a,56.9,a,47.2,a,
+31,,Total Phenolic Contents (HPLC),248,,331,,340,,360,,291,,ns,143,b,337,a,289,ab,360,a,305,ab,

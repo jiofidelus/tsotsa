@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6
+0,Statistical parameter,Mercury determination by CVAAS,Mercury determination by CVAAS,,Mercury determination by DMA,,
+1,,Calibration curve without honey,Calibration curve without honey,Calibration curve with honey,Calibration curve without honey,,Calibration curve with honey
+2,aa,0.0045  0.0059,,0.0033  0.0058,0.0006  0.0072,,0.0028  0.0074
+3,Bb,0.0086  0.0002,,0.00850.0001,0.0717  0.0024,,0.0726  0.0024
+4,Linear range,,2.5-75.0 g/l,,,2.5-50.0ng/g,2.5-50.0ng/g
+5,Number of observations,,,,,,
+6,Ne,17,18,18,16,,18
+7,Normality,,,,,,
+8,Rd,0.990,0.984,0.984,0.968,,0.970
+9,Ree,0.955,0.954,0.954,0.953,,0.957
+10,pf,p>0.10,p>0.10,p>0.10,p>0.10,,p>0.10
+11,Independence,,,,,,
+12,dg,1.462,1.595,1.595,2.238,,1.796
+13,There is no correlation,1.380<d<2.619,,1.390<d<2.609,1.370<d<2.629,,1.390<d<2.609
+14,pf,p>0.10,p>0.10,p>0.10,p>0.10,,p>0.10
+15,Homoscedasticity,,,,,,
+16,tth,0.772,0.157,0.157,1.077,,1.460
+17,pf,0.452,0.876,0.876,0.299,,0.164
+18,Regression,,,,,,
+19,Fi,1.474  10*4,1.590  10*4,1.590  10*4,3.825  10*3,,3.899  10+3
+20,pf,7.250  1024,2.040  10-25,2.040  10-25,1.798  10-18,,1.529  10-20
+21,Linearity deviation,,,,,,
+22,Fi,1.283,1.752,1.752,2.329,,2.392
+23,,3.347  10-1,2.035  101,2.035  101,1.268  10-1,,1.08710-1
+24,,,,,,,
+25,LODi,,30.0 ng/g,,,1.0ng/g,
+26,LOQk,,60.0ng/g,,,2.5ng/g,
+27,Accuracy,,98.7102.4%,,,95.6-99.1%,95.6-99.1%
+28,Precision,,3.55.7%,,,2.7-3.4%,

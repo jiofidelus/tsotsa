@@ -1,0 +1,4 @@
+,0,1,2,3,4,5
+0,Method,Linearity,Dynamic range,line equation,LOD,LOQ
+1,Standard solution,0.99982,0.5- 15 ng mL,y =16259x-1601,0.2 ng mL-1,0.5 ng mL-1
+2,Matrix match calibration curve,0.99847,1- 15 ng g-1,y =14645x-796.0,0.34 ng g~1,1ng g~1

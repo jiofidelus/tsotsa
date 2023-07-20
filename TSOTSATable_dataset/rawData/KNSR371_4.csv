@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Country,Crop,Year(s),Sample source,Types,N,+ves (%),Range,Mean,References
+1,,,,,,,,gkg-1,gkg-1,
+2,Nigeria,Maize,2005,Stores and markets,DON,32,0,-,-,This Study
+3,Nigeria,Maize,2005,Stores and markets,15-MAS,32,3.1,4,4,This Study
+4,Nigeria,Maize,2005,Stores and markets,T-2 Tetraol,32,6.3,73-280,177,This Study
+5,South Africa,Maize,1989,Export at preshipment,DON,36,0,-,-,Rheeder et al.1994
+6,South Africa,Maize,1989,Export at preshipment,NIV,36,0,-,-,Rheeder et al.1994
+7,South Africa,Maize,1989,Export at destination,NIV,32,6.2,25,25,Rheeder et al.1994
+8,Ethiopia,Sorghum,1999,Stores,DON,33,90,50-2340,360,Ayalew et al.2006
+9,Ethiopia,Wheat,1999,Stores,DON,23,17,50-110,,Ayalew et al.2006)
+10,Nigeria,Maize,2005,Farmers and markets,DON,180,22,204-745,226,Adejumo et al.2007
+11,Nigeria,Maize,2005,Farmers and markets,3AcDON,180,17,1-72,17,Adejumo et al.2007
+12,Nigeria,Maize,2005,Farmers and markets,DAS,180,9.4,1-51,16,Adejumo et al. (2007)

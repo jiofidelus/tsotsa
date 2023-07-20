@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7,8
+0,Peak,Rt,[M-H]m/z),Ms2 fragment ions (m/z),UV Amax,Identification,Group,Concentrationa,%
+1,1,6.34,191,111,250 (268),Quinic acid,Others,25.0  2.0,2.170
+2,2,7.16,503,"341,179",280,Caffeic acid dihexoside,HC acids,20.0  4.0,1.754
+3,3,7.58,457,"341,179,161,133",267,Caffeoyl-malic acid -hexoside,HC acids,177.0  2.0,15.654
+4,4,8.27,515,"111,173",262,Quinic acid dihexoside,Others,57.0  0.1,4.990
+5,5,8.53,515,"111,174",258,Quinic acid dihexoside,Others,35.0  1.0,3.095
+6,6,9.81,455,"181,131","252, 272",Veratric acid derivative,HB acids,15.0  1.0,1.296
+7,7,10.72,485,"341,179,143","180,300",Caffeoyl-hexoside derivative,HC acids,8.0  0.3,0.741
+8,8,24.73,577,"289, 245,425, 269, 137",279,Procyanidin dimer,Flavanols,57.0  9.0,5.032
+9,9,26.59,289,"245, 203, 123,",279,Catechin,Flavanols,335.06.0,29.589
+10,10,27.27,465,"285,125,303,177","293, 336",Taxifolin hexoside,Flavononols,20.0  1.0,1.762
+11,11,30.63,577,"303,285,125,175,151",289 (336),Taxifolin derivative,Flavononols,113.0 9.0,9.976
+12,12,36.19,289,"245,203, 123",279,Epicatechin,Flavanols,54.0  1.0,4.787
+13,13,40.67,287,"125,259,177,243","293,336",Eriodyctiol,Flavanones,6.0  0.1,0.570
+14,14,46.78,609,300,345,Isorhamnetin hexoside pentoside,Flavonols,26.0  1.0,2.256
+15,15,47.31,303,"285,125,175,151,199","290,331",Taxifolin,Flavononols,135.0  2.0,11.948
+16,16,47.91,465,301,288 (332),Hesperetin hexoside,Flavanones,10.0  0.1,0.922
+17,17,48.31,785,315,349,Isorhamnetin dihexoside pentoside,Flavonols,24.0  0.2,2.086
+18,18,49.74,623,"315,300",353,Isorhamnetin rutinoside,Flavonols,16.0  0.5,1.372

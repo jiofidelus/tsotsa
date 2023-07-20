@@ -1,0 +1,43 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Scientific name,Common name,N,Length,Hg g kg-1,,Se g kg-1,,Hg,Se,Se:Hg,Se-HBV,HBVse
+1,,,,(cm),range,mean,range,mean,mol kg-1,mol kg-1,,,
+2,Fish,,,,,,,,,,,,
+3,Mugil liza,Mullet,9,40,16-18,17,279-436,358,0.08,4.5,54,245,4.5
+4,Paralonchurus brasiliensis,Banded croaker,12,25,20-32,26,374-511,459,0.13,5.8,45,261,5.8
+5,Prionotus punctatus,Bluewing searobin,9,30,32-36,34,177-188,183,0.17,2.3,13,31,2.3
+6,Balistes capriscus,Grey triggerfish,9,44,34-37,36,143-209,182,0.18,2.3,13,29,2.3
+7,Pagrus pagrus,Red porgy,9,35,37-41,39,219-416,287,0.20,3.6,19,67,3.6
+8,Trachinotus marginatus,Pompano,9,20,39-43,41,308-380,350,0.20,4.4,22,96,4.4
+9,Odontesthes argentinensis,Argentinian silverside,9,20,40-43,42,166-184,174,0.21,2.2,23,23,2.2
+10,Merluccius hubbsi,Argentine hake,12,50,45-47,46,444-622,422,0.23,5.3,23,125,5.3
+11,Micropogonias furnieri,Whitemouth croaker,12,45,27-67,47,444-622,535,0.23,6.8,29,195,6.8
+12,Paralichthys orbignyanus,Flounder,9,32,42-65,54,699-909,836,0.27,10.6,39,417,10.6
+13,Pimelodus maculatus,Freshwater catfish,9,36,49-63,55,105-407,288,0.27,3.6,13,48,3.6
+14,Pseudopercis numida,Sandperch,9,40,54-61,57,320-389,359,0.29,4.5,16,72,4.5
+15,Macrodon atricauda,King weakfish,9,35,29-89,59,263-555,377,0.30,4.8,16,77,4.8
+16,Percophis brasiliensis,Brazilian flathead,9,40,49-79,64,506-606,567,0.32,7.2,22,160,7.2
+17,Xiphias gladius,Swordfish,9,240,65-70,67,344-512,421,0.34,5.3,16,84,5.3
+18,Cynoscion guatucupa,Striped weakfish,9,50,38-113,75,215-321,273,0.37,3.5,9,32,3.4
+19,Peprilus paru,Harvestfish,9,18,76-84,80,228-273,252,0.40,3.2,8,25,3.1
+20,Pomatomus saltatrix,Bluefish,9,60,86-93,89,292-356,315,0.45,4.0,9,36,3.9
+21,Priacanthus arenatus,Atlantic bigeye,9,35,90- 99,94,208-340,287,0.47,3.6,8,28,3.6
+22,Pogonias cromis,Black drum,9,50,89-106,98,535-673,607,0.49,7.7,16,121,7.7
+23,Umbrina canosai,Argentine croaker,12,37,96-111,104,285-362,316,0.52,4.0,8,31,3.9
+24,Katsuwonus pelamis,Skipjack tuna,9,80,218-84,109,462-654,553,0.54,7.0,13,90,7.0
+25,Urophycis brasiliensis,Brazilian codling,9,25,101-122,112,285-384,229,0.56,4.1,7,29,4.0
+26,Atherinella brasiliensis,Robust silverside,9,12,144-152,143,194-264,229,0.71,2.9,4,12,2.7
+27,Menticirrhus americanus,Southern kingfish,9,30,42-274,159,286-264,275,0.79,3.5,4,15,3.3
+28,Lycengraulis grossidens,Sardine,12,20,168-204,176,122-194,147,0.88,1.9,2,3,1.4
+29,Sphyrna spp.,Hammerhead shark,9,235,223-246,234,456-566,501,1.17,6.3,5,34,6.1
+30,Trichiurus lepturus,Atlantic cutlassfish,9,120,346-404,375,489-514,501,1.87,6.3,3,21,5.8
+31,Genidens barbus,Sea catfish,9,70,452-510,490,702-751,722,2.44,9.1,4,34,8.5
+32,Isurus oxyrinchus,Shortfin mako,9,270,472-530,502,425-480,450,2.50,5.7,2,11,4.6
+33,Epinephelus marginatus,Dusky grouper,9,50,721-857,789,675-710,688,3.93,8.7,2,17,6.9
+34,Galeorhinus galeus,School shark,9,160,789-821,806,616-701,653,4.02,8.3,2,15,6.3
+35,Shellfish,,,,,,,,,,,,
+36,Farfantepenaeus paulensis,Pink shrimp,9,4,15-18,18,150-296,220,0.09,2.8,31,88,2.8
+37,Litopenaeus vannamei,Pacific white shrimp,9,10,20-27,22,289-320,308,0.11,3.9,35,137,3.9
+38,Pleoticus muelleri,Argentine red shrimp,9,6,21-23,22,315-469,377,0.11,4.8,43,205,4.8
+39,Scyllarides deceptor,Slipper lobster,9,22,24-26,25,331-467,392,0.13,5.0,39,197,5.0
+40,Callinectes sapidus,Blue crab,12,19,31-36,35,277-1360,640,0.17,8.1,47,379,8.1
+41,Chaceon notialis,Deep-sea red crab,9,20,38-40,39,4715-5357,4986,0.20,63.0,320,20147,63.0

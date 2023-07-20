@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,Step,Description,Pump valve position,Selection valve position,Volume(L),Flow rate (L s-1)
+1,1,Load DI water to syringe,In,-,2000,100
+2,2,Load air,Out,2,50,25
+3,3,Load DTAB,Out,6,40,25
+4,4,Load ECR,Out,10,50,25
+5,5,Load DI water,Out,3,"40,25,0",25
+6,6,Load standard,Out,9,"10, 25,50",25
+7,7,Load sample/DI water,Out,8,120,25
+8,8,Load buffer,Out,7,40,25
+9,9,Load air,Out,2,50,25
+10,10,Deliver the monosegmented zone to MC,Out,5,530,30
+11,11,Load air bubble and part of mixing zone for elimination of air,Out,5,155,20
+12,12,Taken air out,Out,1,500,100
+13,13,Deliver the mixing zone back to HC,Out,5,200,20
+14,14,Deliver the mixing zone through flow cell for detection,Out,4,Empty,50

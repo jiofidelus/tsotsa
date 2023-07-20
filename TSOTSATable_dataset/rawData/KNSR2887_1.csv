@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7,8
+0,Original nitrofuran,Metabolite,,Derivatized metabolite,RTW (min),Fragmentor,Quantification,Confirmation transitions,Ion ratio (%)
+1,,,,,,voltage (V),transition (collision,"(collision energy, eV)",
+2,,,,,,,"energy,eV)",,
+3,,,,,1.87-1.97,110,236>134(4,236>51(60,15.4
+4,,HN,,,,,,236>51(60,15.4
+5,Furazolidone MW=225.2,,,O2N,,,,,
+6,,AOZ MW-102.1,,NP-AOZ MW=235.1,,,,,
+7,,,,,2.19-2.31,110,335>291(4,335>100 (28),34.4
+8,,,,,2.19-2.31,110,335>291(4,335>262 (10,25.0
+9,Furaltadone MW=324.3,AMOZ MW-201.2,AMOZ MW-201.2,NP-AMOZ MW=334.2,,,,,
+10,,HN,NH,,1.90-2.05,50,209>166(4),209>9120,29.9
+11,Nitrofurazone MW=198.1,SEM MW=75.1,NH,,,,,209>9120,29.9
+12,,SEM MW=75.1,,"NO,",,,,,
+13,,,,NP-SEM MW=208.1,,,,,
+14,,,,,1.81-1.92,110,249>104 (20),249>7644,49.7
+15,,,,,1.81-1.92,110,249>104 (20),249>134(4,189.6
+16,Nitrofurantoin MW=238.2,AHD MW=115.1,,NP-AHD MW=248.1,,,,,

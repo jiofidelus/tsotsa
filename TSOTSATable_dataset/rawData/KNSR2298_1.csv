@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6
+0,,GMO content,P-35S,T-nos,lec,adh1,ugp
+1,Wheat pasta,Not declared,-,-,-,-,-
+2,Cereal bar,Not declared,-,-,-,-,-
+3,Ketchup,Not declared,-,-,-,+,-
+4,Vegetable soup,Not declared,,-,+,-,-
+5,Feed,Declared,+,,-,+,
+6,Snack,Not declared,,,,,
+7,Snack+Bt11,5%,+,+,-,+,+
+8,Biscuits,Not declared,,-,,,
+9,Biscuits,5%,+,+,-,+,-
+10,Biscuits,2%,+,+,-,+,-
+11,Biscuits,0.5 %,+,-,-,+,-
+12,Tomato,Declared,+,+,-,-,-
+13,Soya sauce,Not declared,+,-,+,-,-
+14,Soya sauce + RRS,2%,+,+,+,-,-

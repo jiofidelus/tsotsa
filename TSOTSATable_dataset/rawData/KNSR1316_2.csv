@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6
+0,Phenolic acids (mg/kg),,,,,,
+1,,Control,3.0 kGy,,,Control,3.0 kGy
+2,(a) Hydroxybenzoic acids,,,,(b) Hydroxycinnamic acids,,
+3,i.Gallic acid,2.3  0.14c,2.90.31c,,i.p-Coumaric acid,1.70.13b,2.30.13b
+4,ii.p-Hydroxybenzoic acid,2.7 0.17d,3.20.25c,,ii.o-Coumaric acid,11.11.31d,12.3  1.42d
+5,iii.m-Hydroxybenzoic acid,1.50.10b,2.10.13b,,iii.m-Coumaric acid,1.10.05a,1.70.11a
+6,iv.Protocatechuic acid,1.10.02a,1.70.15a,,iv.Caffeic acid,3.3  0.16c,4.1  0.21c
+7,v.Vanillic acid,1.50.11b,1.90.17a,,v.Ferullic acid,1.30.03a,1.60.06a
+8,vi. Gentisic acid,1.6  0.12b,2.4  0.14b,,vi. Chlorogenic acid,1.80.12b,2.1  0.22b
+9,vii.Haemovoratic acid,5.90.16f,6.1  0.42d,,LSD,0.3,0.2
+10,viii.-Resorcylic acid,7.4  0.22*,8.4  0.33e,,Total HCA,20.3,24.1
+11,ix.-Resorcylic acid,5.3  0.14e,6.2  0.37d,,%HCA,37.2,36.9
+12,x.y-Resorcylic acid,1.40.10b,1.60.12,,,,
+13,LSD,0.2,0.4,,,,
+14,Total HBA,30.5,36.5,,,,
+15,%HBA,55.9,55.9,,,,
+16,cOther P.A,,,,,,
+17,i.Ellagic acid,3.8  0.33,4.7  0.37,,,,
+18,% Other PA,6.9,7.5,,,,
+19,Total phenolic acids,54.6,65.3,,,,
+20,Flavonoids (mg/kg),,,,,,
+21,,,,Control,,,3.0 kGy
+22,i. Catechin,,,1.10.02,,,1.90.04d
+23,ii.Quercetin,,,4.9  0.23e,,,6.2  0.34e
+24,ii. Kaempferol,,,0.540.01b,,,0.95  0.02b
+25,iv.Naringenin,,,0.940.02c,,,1.20.04c
+26,V.Apigenin,,,6.50.03f,,,8.90.04f
+27,vi.Luteolin,,,0.910.02c,,,1.20.01c
+28,vii.Vitexin,,,0.52 0.03b,,,0.93  0.02b
+29,viii. Isovitexin,,,0.090.01a,,,0.22  0.03a
+30,LSD,,,0.02,,,0.04

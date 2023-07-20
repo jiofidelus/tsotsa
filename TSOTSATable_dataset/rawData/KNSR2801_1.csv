@@ -1,0 +1,24 @@
+,0,1,2
+0,Food group code and name,Examples of food items,Examples of food items
+1,1 Non-alcoholic beverages,"Tea, coffee,fruit and vegetable juice, soft drinks","Tea, coffee,fruit and vegetable juice, soft drinks"
+2,2 Alcoholic beverages,All beverages containing alcohol,All beverages containing alcohol
+3,"3 Cereals, cereal product and cereal dishes",,"All type of breads, pasta, breakfast cereal, biscuits, cakes, pastries, batter-based products (e.g. pancakes)"
+4,4 Fruits,,"Fresh, canned, dried and frozen pome, berry, citrus, stone, tropical, subtropical and other fruit"
+5,5 Free vegetables,,"Brassica, carrot and similar root, leafy and stalk vegetables. Peas, beans, tomato, mushroom, zucchini"
+6,6 Starchy vegetables,"Potato, sweet potato,pumpkin and corn","Potato, sweet potato,pumpkin and corn"
+7,7 Legumes and pulses,,"Chick peas,kidney beans,butter beans, split peas and all other mature legumes and pulses"
+8,8 Meat,,"Processed and unprocessed beef, veal, sheep, pork, poultry, game. Fresh, canned and smoked fish and seafood. Eggs"
+9,9 Seeds and nuts,,"Tree nuts and peanuts, coconuts and products, seeds and mixed seeds"
+10,10 Milk and milk products,"Dairy milk, cheese, yoghurt, cream, ice cream and custard","Dairy milk, cheese, yoghurt, cream, ice cream and custard"
+11,11 Savory sauces and condiments,"Savory sauces, pickles, chutneys, relishes, salad dressing, dips","Savory sauces, pickles, chutneys, relishes, salad dressing, dips"
+12,12 Snack foods,"Potato snacks, corn snacks and extruded snacks","Potato snacks, corn snacks and extruded snacks"
+13,13 Sugar products,"Sugar, honey, topping, jam and sugar-based spreads","Sugar, honey, topping, jam and sugar-based spreads"
+14,14 Confectionery and cereal/nut/fruit/seed bars,,"Chocolate, lollies, fruit, nut and seed bars, and muesli or cereal style bars"
+15,15 Fats and oils,"Butter, margarine, plant oils and other fats","Butter, margarine, plant oils and other fats"
+16,16 Dietary supplements,Protein powder,Protein powder
+17,17 Soup,"Homemade,dry mix,canned soup","Homemade,dry mix,canned soup"
+18,18 Complete dish,,"Dish contains food category 8+ 5 + 3/6 (Meat + Free vegetable + Cereals/Starchy vegetables,e.g.pizza and spaghetti"
+19,,"bolognaise,","bolognaise,"
+20,19 Incomplete dish,,"Dish contains food category 8 + 5/3/6 (Meat + Free vegetable/Cereals/Starchy vegetables), e.g. chicken stir fried, bolognese"
+21,,sauces,
+22,20 Vegetarian dish,,"Dish contains food category 5 + 3/6(Free vegetable + Cereals/Starchy vegetables),e.g.tofu stir fried, chick pea stew"

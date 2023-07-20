@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,C18,,,,Amide,,,
+1,Sugar,Name,DAD (I),,ELSD (II),,DAD (I),,ELSD (II),
+2,,,Sugar, Sugar-PMpa,Original,Sugar-PMP,Original,Sugar-PMP,Original,Sugar-PMP
+3,,Xylose,x,V,D,,S,D,,D
+4,,Ribose,X,,D,,S,D,,D
+5,,Glucose,x,,D,,S,D,,D
+6,Monosaccharides,Galactose,x,,D,,S,D,,D
+7,,Glucosamine,x,>,D,,S,D,,D
+8,,Mannose,x,>,D,,S,D,,D
+9,,Fructose,x,X,D,x,S,x,,x
+10,Sugar alcohol,Sorbitol,x,X,D,x,S,x,,x
+11,Sugar alcohol,Mannitol,x,,D,,S,x,,x
+12,,Lactose,x,V,D,V,S,D,V,D
+13,Disaccharides,Maltose,x,V,D,V,S,D,V,D
+14,,Sucrose,x,X,D,,S,X,V,
+15,,ab,x,x,D,x,S,x,,x
+16,Oligosaccharides,yd,x,x,D,x,S,x,,x
+17,,Chitosane,X,V,D,V,x,D,D,D

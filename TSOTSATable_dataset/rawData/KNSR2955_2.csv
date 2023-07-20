@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7
+0,Trait,aMath,bScatter,R?CAL,SEC,R2cv,SECV,SD/SECV
+1,,treatment,correction,,,,,
+2,NIRSytems 5000 (1108-2492 nm at 2 nm intervals; 692 data points),NIRSytems 5000 (1108-2492 nm at 2 nm intervals; 692 data points),NIRSytems 5000 (1108-2492 nm at 2 nm intervals; 692 data points),,,,,
+3,-glucan,"1,4,4,1",SNV +D,0.966,0.346,0.941,0.435,4.16
+4,Arabinoxylan,"2,4,4,1",MSC,0.665,0.744,0.581,0.816,1.62
+5,Bound Phenol,"2,4,4,1",SNV +D,0.898,0.340,0.830,0.425,2.47
+6,Free Phenol,"2,4,4,1",SNV +D,0.672,0.319,0.515,0.377,1.54
+7,Anthocyanin,"2,5,5,1",MSC,0.839,5.807,0.614,8.578,1.70
+8,DS2500 (408-2492 nm at 0.5 nm intervals; 4138 data points),DS2500 (408-2492 nm at 0.5 nm intervals; 4138 data points),DS2500 (408-2492 nm at 0.5 nm intervals; 4138 data points),,,,,
+9,-glucan,"1,4,4,1",SNV+D,0.949,0.402,0.921,0.488,3.71
+10,Arabinoxylan,"2,4,4,1",SNV + D,0.674,0.721,0.590,0.794,1.66
+11,Bound Phenol,"2,4,4,1",SNV + D,0.855,0.386,0.785,0.458,2.29
+12,Free Phenol,"2,4,4,1",SNV+D,0.704,0.301,0.615,0.335,1.73
+13,Anthocyanin,"2,5,5,1",MSC,0.660,6.920,0.564,8.174,1.78
+14,DS2500 (4081092 nm at 0.5 nm intervals; 1369 data points),DS2500 (4081092 nm at 0.5 nm intervals; 1369 data points),DS2500 (4081092 nm at 0.5 nm intervals; 1369 data points),,,,,
+15,-glucan,"1,4,4,1",SNV + D,0.825,0.724,0.751,0.850,2.13
+16,Arabinoxylan,"2,4,4,1",SNV +D,0.673,0.712,0.552,0.841,1.57
+17,Bound Phenol,"2,4,4,1",MSC,0.844,0.402,0.785,0.460,2.28
+18,Free Phenol,"2,4,4,1",MSC,0.633,0.300,0.401,0.375,1.55
+19,Anthocyanin,"2,5,5,1",MSC,0.856,5.309,0.616,8.292,1.76
+20,DS2500 (11082492 nm at 0.5 nm intervals; 2769 data points),DS2500 (11082492 nm at 0.5 nm intervals; 2769 data points),DS2500 (11082492 nm at 0.5 nm intervals; 2769 data points),,,0.944,,
+21, -glucan,"1,4,4,1",SNV + D,0.967,0.332,0.944,0.415,4.36
+22,Arabinoxylan,"2,4,4,1",SNV + D,0.563,0.811,0.502,0.856,1.54
+23,Bound Phenol,"2,4,4,1",SNV+D,0.807,0.438,0.765,0.484,2.17
+24,Free Phenol,"2,4,4,1",SNV+D,0.682,0.304,0.589,0.347,1.67
+25,Anthocyanin,"2,5,5,1",MSC,0.689,7.231,0.491,9.002,1.62

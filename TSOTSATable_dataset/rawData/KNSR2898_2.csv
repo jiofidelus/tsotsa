@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6
+0,Mixed fractions,,Peak number,Peak number,,Molecular weight(KDa,Molecular weight(KDa
+1,1,,1,,,>100,
+2,2,,2,,,>100-49.9,
+3,3,,2and 3,2and 3,,<49.9,
+4,4,,3 and 4,3 and 4,,<49.9,
+5,5,,4,,,<49.9,
+6,a Molecular,weight,,calculated,from,calibration,curve:
+7,,"=-0,7351x+1,5137;R2=0,9819",,"=-0,7351x+1,5137;R2=0,9819",,,

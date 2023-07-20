@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,Process,Doses (mg/plate),Direct antimutagenic effect,,Indirect antimutagenic effect,
+1,,,-S9,,(+S9),
+2,,,The number,% Inhibition,The number,% Inhibition
+3,,,of revertant colonies/Plate,of mutagenesis,of revertant colonies/Plate,of mutagenesis
+4,Raw,6.25,392 23,54.92  2.64a,41317,45.112.22a
+5,,12.50,35621,59.04  2.37b,42420,43.68  2.62b
+6,,25.00,37227,57.243.07a,44418,41.03  2.34b
+7,Steaming,6.25,532 25,38.852.88a,53822,28.44 2.88a
+8,,12.50,54022,37.942.49a,55330,26.54  4.01a
+9,,25.00,53413,38.561.47a,56024,25.493.13a
+10,Boiling,6.25,61016,29.82  1.82a,60922*,19.012.98a
+11,,12.50,63923,26.56  2.5gb,60311*,19.871.46a
+12,,25.00,63517,26.98 1.99b,5948,20.981.05a
+13,Positive control,,974117,,873  49,
+14,Negative control,,1048,,1216,

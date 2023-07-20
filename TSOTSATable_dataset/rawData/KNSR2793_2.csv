@@ -1,0 +1,38 @@
+,0,1,2,3,4
+0,,Set-up A,Set-up B,,
+1,,One-week,One-week,,
+2,Linearity,Day 1-5,Day 1,Day 2,Day 3
+3,,Range 1-1000 ng,,Range 1-5000 ng(absolute amount,
+4,,(absolute amount),,Number of replicates per calibration,
+5,,Number of,leveln=3,,
+6,,replicates per,,,
+7,,calibration level,,,
+8,,n=3,,,
+9,Precision,,,,
+10,,Sample#A(n=6,Sample,Sample,Sample
+11,,,#A,#A,#A
+12,,,n=3,n=3,n=3
+13,,Sample # B (n=6),Sample,Sample,Sample
+14,,,#B,#B,#B
+15,,,n=3,n=3,n=3
+16,,,Sample,Sample,Sample
+17,,,#C,#C,#C
+18,,,n=3,n=3,n=3
+19,Accuracy,,,,
+20,Exponential,Sample #A up to 6,,Sample #A up to 10 extraction steps,
+21,decay (),extraction steps,n=3,,
+22,,n=3,,,
+23,Estimated amount,Sample #A (n=6),Sample,Sample,Sample
+24,,,#A,#A,#A
+25,,,n=3,n=3,n=3
+26,,Sample #B (n=6,Sample,Sample,Sample
+27,,,#B,#B,#B
+28,,,n=3,n=3,n=3
+29,,,Sample,Sample,Sample
+30,,,#C,#C,#C
+31,,,n=3,n=3,n=3
+32,Limit of,T2 samples,"Sample#A,#B,#C and RIF T5","Sample#A,#B,#C and RIF T5",
+33,Detection,normalized,normalized response>S/N,normalized response>S/N,
+34,Limit of,response> S/N,mimicking blank sample,mimicking blank sample,
+35,Quantitation,mimicking blank,,,
+36,,sample,,,

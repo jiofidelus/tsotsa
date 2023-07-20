@@ -1,0 +1,23 @@
+,0,1,2,3,4,5
+0,Year,Type,Cultivars,Concentration (g/g of fresh weight)a,,
+1,,,,Capsaicin,Dihydrocapsaicin,Totalb
+2,2008,Immature,,,,
+3,,Cayenne,CA408,75.14.2b,16.41.3 c,91.64.5b
+4,,Cayenne,Mesilla,165.50.5 a,17.11.6 c,98.06.0 b
+5,,Jalapeno,Ixtapa,165.50.5 a,64.74.9 a,230.25.0 a
+6,,Serrano,Tuxtlas,39.11.5 c,47.83.0 b,86.94.3 b
+7,2008,Mature,,,,
+8,,Cayenne,CA408,79.73.2 bc,37.45.6 c,117.01.8 b
+9,,Cayenne,Mesilla,95.63.9 b,27.73.6 c,123.2 4.9 b
+10,,Jalapeno,Ixtapa,217.55.5 a,121.3  4.1 a,338.92.2 a
+11,,Serrano,Tuxtlas,49.3  4.4 c,66.2  2.4 b,115.54.7 b
+12,2009,Immature,,,,20.80.4 d
+13,,Cayenne,CA408,20.80.7 d,nd,20.80.4 d
+14,,Cayenne,Mesilla,149.53.1 a,72.01.1 a,221.43.9 a
+15,,Jalapenio,Ixtapa,115.8 0.8 b,54.00.5 c,169.80.9 b
+16,,Serrano,Tuxtlas,47.5 0.6 c,57.20.5 b,104.70.7 c
+17,2009,Mature,,,,
+18,,Cayenne,CA408,53.70.6 d,40.11.6 c,93.81.1 d
+19,,Cayenne,Mesilla,211.76.0 a,113.50.5 a,326.3 7.6 a
+20,,Jalapeno,Ixtapa,169.08.0 b,113.50.5 a,282.50.7 b
+21,,Serrano,Tuxtlas,81.3 3.0 c,87.75.4 b,169.0 5.3 c

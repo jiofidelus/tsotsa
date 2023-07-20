@@ -1,0 +1,56 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,,,Number of comparisons in the,,,Studies with sample size,,References for each comparison group*,References for each comparison group*,,
+1,Mineral,Number,,,,,,,,,,
+2,Mineral,of studies,In favor of,In favor of,In favor of,Organic,Conventional,Conventional,Group I,Group II,Group III,Group IV
+3,,,organic,conventional,conventional,,,,,,,
+4,,,cultivation,cultivation,cultivation,,,,,,,
+5,As,1,1,,-,1,1,1,"Hadayat et al.,2018",,,
+6,Ca,11,1,,1,,3,3,"(Hernandez Suarez et al.,",(Polat,(Ambrosano,"Erba et al.,2013;Riga"
+7,,,,,,,,,"2007;Pieper and Barrett,","et al.,","et al.,2018","et al.,2016;Li et al."
+8,,,,,,,,,"2009; Kelly and Bateman,",2010),,2019; Caruso et al.
+9,,,,,,,,,"2010;Ordonez-Santos et al.,",,,2019)
+10,,,,,,,,,"2011;Knap et al.,2015",,,
+11,Cd,5,,,,3,,4,"Bressy et al.,2013;De Souza",,,"(Trebolazabala et al.,"
+12,,,,,,,,,"Araujo et al.,2014;Hadayat",,,2017
+13,,,,,,,,,"et al.,2018;Romero-Estevez",,,
+14,,,,,,,,,et al.2020,,,
+15,Cu,13,3,,,2,,7,"(Hernandez Suarez et al.,",(Polat,(Ambrosano,"Erba et al.,2013;Riga"
+16,,,,,,,,,"2007;Kelly and Bateman,","et al.,","et al.,2018;","et al.,2016;"
+17,,,,,,,,,2010;Ordonez-Santos et al.,2010),"Zorb et al.,","Trebolazabala et al.,"
+18,,,,,,,,,2011;De Souza Araujo et al.,,2020),2017; Afshari et al.
+19,,,,,,,,,"2014;Hattab et al.,2019",,,"2016;Li et al.,2019"
+20,Cr,5,,,,2,,4,"Bressy et al.,2013;De Souza",,,"Afshari et al.,2016;"
+21,,,,,,,,,"Araujo et al.,2014;Hadayat",,,Trebolazabala et al.
+22,,,,,,,,,"et al.,2018",,,2017)
+23,Fe,13,2,,,2,,7,"(Hernandez Suarez et al.,",(Polat,(Ambrosano,Erba et al.2013;Riga
+24,,,,,,,,,"2007;Kelly and Bateman,","et al.,","et al.,2018","et al.,2016;"
+25,,,,,,,,,2010; Ordonez-Santos et al.,2010;,,"Trebolazabala et al.,"
+26,,,,,,,,,"2011;Bressy et al.,2013;De",Hossain,,"2017; Li et al.,2019)"
+27,,,,,,,,,"Souza Araujo et al.,2014;","Sani et al.,",,
+28,,,,,,,,,"Hattab et al.,2019",2020),,
+29,K,14,2,,1,1,,5,"(Hernandez Suarez et al.,",(Polat,(Ambrosano,"Erba et al.,2013;Riga"
+30,,,,,,,,,"2007; Pieper and Barrett,","et al.,","et al.,2018)","et al.,2016;Caruso"
+31,,,,,,,,,"2009; Kelly and Bateman,",2010;,,"et al.,2019; Li et al.,"
+32,,,,,,,,,2010; Ordonez-Santos et al.,Hossain,,2019)
+33,,,,,,,,,"2011;De Souza Araujo et al.,","Sani et al.,",,
+34,,,,,,,,,"2014;Knap et al.,2015;",2020),,
+35,,,,,,,,,"Hattab et al.,2019",,,
+36,Mg,12,2,,,1,,4,(Hernandez Suarez et al.,(Polat,(Ambrosano,Erba et al.2013;Riga
+37,Mg,,,,,,,,"2007;Pieper and Barrett,","et al.,","et al.,2018","et al.,2016;Caruso"
+38,,,,,,,,,"2009; Kelly and Bateman,",2010,,"et al.,2019; Li et al.,"
+39,,,,,,,,,2010; Ordonez-Santos et al.,,,2019)
+40,,,,,,,,,2011;De Souza Araujo et al.,,,
+41,,,,,,,,,"2014;Hattab et al.,2019",,,
+42,Ni,6,1,,,2,,5,"Bressy et al.,2013;De Souza",,,"(Christou et al., 2014;"
+43,,,,,,,,,"Araujo et al.,2014;Hattab",,,"Afshari et al.,2016;"
+44,,,,,,,,,"et al.,2019)",,,"Trebolazabala et al.,"
+45,,,,,,,,,,,,2017
+46,Pb,5,-,,,2,,4,De Souza Araujo et al.2014;,,,"Afshari et al.,2016;"
+47,,,,,,,,,"Hadayat et al.,2018;",,,Trebolazabala et al.
+48,,,,,,,,,"Romero-Estevez et al., 2020)",,,2017
+49,Zn,15,3,,,2,,9,"(Hernandez Suarez et al.,",(Polat,(Ambrosano,"Erba et al.,2013;"
+50,,,,,,,,,"2007; Kelly and Bateman,","et al.,","et al.,2018","Christou et al., 2014;"
+51,,,,,,,,,2010;Ordonez-Santos et al.,2010;,,"Afshari et al.,2016;"
+52,,,,,,,,,"2011;Bressy et al.,2013;De",Hossain,,"Riga et al.,2016;"
+53,,,,,,,,,"Souza Araujo et al., 2014;","Sani et al.,",,"Trebolazabala et al.,"
+54,,,,,,,,,Hattab et al.2019,2020),,"2017;Li et al.,2019"

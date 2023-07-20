@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+0,Weibull-type Model,Weibull-type Model,,,,,,,,,,,,,,,,,,,,
+1,Cask,Total Polyphenols Index (I28o),Total Polyphenols Index (I28o),Total Polyphenols Index (I28o),Total Polyphenols Index (I28o),Total Polyphenols Index (I28o),,,,,,,Total Flavonoids Index (I36s),Total Flavonoids Index (I36s),Total Flavonoids Index (I36s),,,,,,,
+2,,Co,,,,,,k,,n,R,,Co,,,,,,k,,n,R
+3,New,1.35,,,,,,0.51,,0.320,0.971,,0.0012,,,,,,5.22,,0.102,0.985
+4,MT,1.48,1.48,,,,,0.70,,0.163,0.959,,0.0010,,,,,,6.01,,0.546,0.920
+5,Two-rate Model,Two-rate Model,,,,,,,,,,,,,,,,,,,,
+6,Cask,,Total Polyphenols Index (I2so),Total Polyphenols Index (I2so),Total Polyphenols Index (I2so),Total Polyphenols Index (I2so),,,,,,,Total Flavonoids Index (I36s),Total Flavonoids Index (I36s),Total Flavonoids Index (I36s),,,,,,,
+7,,A,,,B,,C,,D,,R,A,A,,B,,,C,,,D,R
+8,New,2.849,2.849,,0.249,,1.327,1.327,2.994,2.994,0.856,,12.951,,0.289,,,14.051,14.051,,0.277,0.995
+9,MT,2.526,2.526,,0.556,,1.529,1.529,15.875,15.875,0.796,,0.481,,0.368,,,0.469,0.469,,0.368,0.971
+10,Swelling/diffusion Model,Swelling/diffusion Model,Swelling/diffusion Model,,,,,,,,,,,,,,,,,,,
+11,Cask,Total Polyphenols Index (I28o),Total Polyphenols Index (I28o),Total Polyphenols Index (I28o),Total Polyphenols Index (I28o),Total Polyphenols Index (I28o),,,,,,Total Flavonoids Index (I365),Total Flavonoids Index (I365),Total Flavonoids Index (I365),Total Flavonoids Index (I365),,,,,,,
+12,,Ca,,W,,t1/2,,d,,ka,R,Coo,,W,,,t1/2,,d,d,kd,R
+13,New,2.22,,1.72,,3.28,,0.05,,13.88,0.854,0.5*10-3,0.5*10-3,1.08,1.08,,18.15,,0.02,0.02,0.13,0.994
+14,MT,1.80,,13.83,,0.99,,2.36,,0.71,0.802,0.029,0.029,4.16,4.16,,4.51,,0.14,0.14,0.36,0.971
+15,Sorption/desorption Model,Sorption/desorption Model,Sorption/desorption Model,,,,,,,,,,,,,,,,,,,
+16,Cask,,,Total Polyphenols Index (I2so),Total Polyphenols Index (I2so),Total Polyphenols Index (I2so),,,,,,,,Total Flavonoids Index (I365),Total Flavonoids Index (I365),,Total Flavonoids Index (I365),,,,,
+17,,,,ki,,,,k2,,,R,,,k1,,,,,k2,,,R
+18,New,,,0.368,,,,0.219,,,0.850,,,5.501,,,,,0.523,,,0.993
+19,MT,,,0.150,,,,0.230,,,0.788,,,2.347,,,,,0.823,0.823,,0.958
+20,Minchev & Minkov,Minchev & Minkov,,,,,,,,,,,,,,,,,,,,
+21,Cask,,Total Polyphenols Index (I2so),Total Polyphenols Index (I2so),Total Polyphenols Index (I2so),Total Polyphenols Index (I2so),,,,,,,Total Flavonoids Index (I365),Total Flavonoids Index (I365),Total Flavonoids Index (I365),,Total Flavonoids Index (I365),,,,,
+22,,,a,,,,,k,,,R,,a,,,B,,,k,k,,R
+23,,,(1280),,,(1280),,,(months-1),(months-1),,,(I365),,,(136s),(136s),,,(months~1),(months~1),
+24,New,,4.21,,,2.82,,0.233,,,0.991,,1.267,,,1.256,1.256,,,0.132,,0.994
+25,MT,,4.05,,,2.54,,,,,0.990,,0.947,,,0.980,0.980,,0.383,0.383,,0.971

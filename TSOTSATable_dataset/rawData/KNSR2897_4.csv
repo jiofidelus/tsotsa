@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Parameter,Symbol,Unit,Value,Reference
+1,Toxic arsenic concentration,iAs,"mg kg-1,wet weight",Sample-specific,-
+2,Exposure frequency,Ef,day year-1,-,
+3,Food ingestion rate,Fir,g person-1day-1,-,
+4,Exposure duration Adult,ED,year,70,"USEPA,1989"
+5,Reference dose ingestion,RfDg,mg kg~1,As: 0.0003,"USEPA,2015"
+6,Average adult body weight,Wab,kg,70,"USEPA,1989"
+7,Averaging time,AT,day,EDx365,"USEPA,1989"
+8,Consumption per capita (Ef*Fir),-,g year-1,"Argentina: 4,800, Brazil: 9,600","FAO,2016"
+9,Cancer slope factor,CSF,mg kg-1day-1,,"USEPA,2010"
+10,Skin,,,1.5,
+11,Internal (lung and bladder),,,21.3,

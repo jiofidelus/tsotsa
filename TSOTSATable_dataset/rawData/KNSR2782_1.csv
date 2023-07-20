@@ -1,0 +1,34 @@
+,0,1,2,3
+0,Institues,"Name,Year (Short name",Contents,No.of Foods
+1,RDA,"Food Composition Table -First part,8th revision,2011","EnergyWater,ProteinFat,AshCHO","2,757"
+2,,RDA11_I,"Dietary fibersTDF,SDF,IDF)",
+3,,,"Vitamins:A (Retinol Equivalent, Retinol,-carotene,BBNiacin C",
+4,,,"Minerals:Ca,P,Fe,Na,K",
+5,,"Food Composition Table - Second part, 7th revision, 2006","Minerals :MgMnZnCoCu,Mo,SeF,I",33~925
+6,,(RDA06_II),"Vitamins:B6,Pantothenic acid,B2FolateD,E,K","766~1,069"
+7,,,"18 Amino acids + Sulfur-containing amino acids, Aromatic amino acids",749
+8,,,29 Fatty acids,568
+9,,,Cholesterol,296
+10,,"Tables of Food Functional Composition-Amino acid,20l1",Protein &20 Amino acids,"1,585"
+11,,(RDA_AA),,
+12,,"Tables of Food Functional Composition -Fat-soluble vitamin,",Vitamin A-Retinol,"1,398"
+13,,2012 (RDA_FSV,Vitamin D,"1,219"
+14,,,Vitamin E,"1,349"
+15,,,Vitamin K,"1,276"
+16,,"Tables of Food Functional Composition -Cholesterol, 2012","Lipid, Cholesterol",959
+17,,(RDA CHOL,,
+18,KNS,Food values2011(KNS11,"EnergyWater, Protein, Fat, Ash, CHO, Dietary fiber, Cholesterol","3,495"
+19,,,"Vitamins:A Total,retinol,-carotene,E,K,C,B,B2B6B2,NiacinFolate",
+20,,,"Pantothenic acid,biotin",
+21,,,"Minerals:Ca,PNa,K,Cl,Mg,F,Fe,ZnCuMnSe,I",
+22,,,29 Fatty acid,839
+23,,,18 Amino acid + Taurine,878
+24,HNL-SNU,Nutrient Database for DES.2012DES12,"Energy,Water,Protein Fat, AshCHO,Dietary fiber, Cholesterol","2,505"
+25,,,"Vitamins:A (Retinol Equivalent,Retinol,-carotene,BB2C,ENiacin",
+26,,,"Minerals: Ca,P,Fe, Na, K",
+27,,,"Other vitamins:B6,Pantothenic acid,B2,Folate,D,K","1,074"
+28,,,"Other minerals:MgMnZnCo Cu, MoSe,F,I",818~ 832
+29,,"Nutrient Database of Dietary Supplements,2015 (DES_DS)","Energy, Protein, Fat, CHO, Dietary fiber, Cholesterol","1,489"
+30,,,"Mineral: Ca,P,Fe,Na,K,Mg,Mn,Zn,Co,Cu,MoSe,F,I",
+31,,,"Vitamins:A (Retinol Equivalent, Retinol, -carotene, B,B2, Niacin C,B",
+32,,,"Pantothenic acid,B2,Folate,D,E,K",

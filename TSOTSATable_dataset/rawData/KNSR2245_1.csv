@@ -1,0 +1,22 @@
+,0,1,2,3,4
+0,Source,df,MS,P,
+1,ABTS,,,,
+2,Guava,3,410.95,<0.01,<0.01
+3,Repeatability,2,82.69,<0.01,<0.01
+4,Guava x Repeatability,6,11.73,,0.27
+5,Error,24,8.68,,
+6,DPPH,,,,
+7,Guava,3,393.37,<0.01,<0.01
+8,Repeatability,2,13.76,,0.32
+9,Guava x Repeatability,6,8.95,,0.65
+10,Error,24,12.76,,
+11,FRAP,,,,
+12,Guava,3,554.81,<0.01,<0.01
+13,Repeatability,2,2.35,,0.45
+14,Guava x Repeatability,6,0.81,,0.94
+15,Error,24,2.87,,
+16,ORAC,,,,
+17,Guava,3,85.54,<0.01,<0.01
+18,Repeatability,2,75.67,<0.01,<0.01
+19,Guava x Repeatability,6,4.56,,0.56
+20,Error,24,5.52,,

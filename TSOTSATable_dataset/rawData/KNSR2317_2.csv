@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Metal,Beverage,,"Concentration limit,mg/L",Obligatorietya,Reference
+1,Cu,Wine,0.5,0.5,Recommended,Green et al.1997
+2,Pb,Wine,0.2,0.2,Recommended,Green et al.1997
+3,Cu,Beer,0.05,0.05,Recommended,Mayer et al.2003
+4,Cd,Wine,0.1,0.1,MAL,"Salvo et al.2003,Dugo et al.2005"
+5,Cu,Wine,1.0,1.0,MAL,"Salvo et al.2003,Dugo et al.2005)"
+6,Pb,Wine,0.2,0.2,MAL,"Commission of the European Communities (2006),Dugo et al.(2005"
+7,Zn,Wine,0.5-5,0.5-5,MAL,"Salvo et al.2003,Dugo et al.2005"
+8,Cu,Cachaza,5,,MAL,Richter et al.2001
+9,Cu,Fruit distillate,5,,MAL,Soufleros et al.(2004)

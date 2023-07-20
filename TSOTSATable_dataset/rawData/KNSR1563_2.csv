@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7,8
+0,Element,Wavelength,Slit Width,Certified references material (mg kg1),Certified references material (mg kg1),,,,
+1,,(nm),(nm),,,,,,
+2,,,,Rice flour NIST - 1568a,,,Mussel tissue ERM -C278k,Mussel tissue ERM -C278k,
+3,,,,Certified,Found,Recovery,Certified,Found,Recovery
+4,,,,,,(%),,,(%)
+5,Fe,248.3,0.2,7.42 0.44,7.58  0.52,102,161  8,174  7,108
+6,Zn,213.9,0.7,19.42  0.26,20.38  0.24,105,714,744,105
+7,Mn,279.5,0.2,19.20  1.80,18.48  4.20,96,4.88  0.24,5.00  0.21,102
+8,Cu,324.8,0.7,2.35  0.16,2.26  0.34,96,5.98  0.22,6.38  0.66,107
+9,Ca,422.7,0.7,118.4 3.1,116.7  2.1,98,-,-,-
+10,Mg,285.2,0.7,559  10,556  18,99,-,-,

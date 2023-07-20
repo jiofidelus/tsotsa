@@ -1,0 +1,21 @@
+,0,1,2
+0,Genotype Code,Speciality for Oil Content,Oil Content (%
+1,H1,High Oil (>7 %),8.42
+2,H2,High Oil (>7 %,8.63
+3,H3,High Oil (>7 %,9.67
+4,H4,High Oil (>7 %),10.02
+5,H5,High Oil (>7 %),10.47
+6,H6,High Oil (>7 %),10.95
+7,M1,Normal (3-7 %),3.04
+8,M2,Normal (3-7 %),3.26
+9,M3,"Normal (3-7 %,Opaque",3.42
+10,M4,Normal3-7 %Opaque,3.54
+11,M5,Normal (3-7 %),3.61
+12,M6,"Normal(3-7 %,Opaque",3.65
+13,M7,"Normal(3-7 %,Opaque",3.79
+14,L1,Low Oil (< 3%),1.16
+15,L2,Low Oil(< 3%),1.83
+16,L3,Low Oil(< 3%),1.94
+17,L4,Low Oil<3%),2.64
+18,L5,Low Oil<3%,2.70
+19,L6,Low Oil(<3%,2.94

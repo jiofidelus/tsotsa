@@ -1,0 +1,26 @@
+,0,1,2
+0,Code,Subgroup,Name(Food codeb
+1,10,Spinaches,(Un-pro):Spinach(E049400(Pro):Frozen spinach(E049601)
+2,11,Cauliflower,(Un-pro):Cauliflower(E057400);
+3,,,Pro:Frozen cauliflowerE057401
+4,12,Wax gourd,(Un-pro)Wax gourd(E063400;
+5,,,(Pro):Pickled wax gourd(E063601
+6,13,Baby corns,Un-pro):Baby cornE064400ProCanned baby cornE064601
+7,14,Cucumbers,"Un-pro):Small cucumberE065400,CucumberE068400"
+8,,,(Pro):Pickled cucumber(E065401
+9,15,Bitter gourds,"Un-pro):Bitter gourd(E066400,Wild bitter gourd(E102600,Young wild bitter gourd(E103600"
+10,,,(Pro):Pickled bitter gourd(E066401
+11,16,Luffa,"Luffa(E073400,Angled luffa(E077400)"
+12,17,Mustard tuber,"(Pro):Canned hot pickled mustard tuber(E080401,Hot pickled mustard tuber(E080500)"
+13,18,Tomatoes,(Un-pro:Tomato(E084400)
+14,,,"Pro):Canned tomatoE084402,Tomato juiceE084501"
+15,19,Broccoli,Un-pro:Broccoli (E058400)Pro):Frozen broccoliE058601
+16,20,Chinese cabbages,"San-tong cabbage(E028400,Chinese cabbageE032400),Cuiyu cabbage(E109600,Baby Cuiyu cabbage(E110600"
+17,21,Celery,"Chinese celery(E033400,CeleryE040400,Hill celery(E087600"
+18,22,Water convolvulus,"Water convolvulus(E037400),Water cress(E041400)"
+19,23,Lettuce,"Head lettuceE051400,Lettuce leaves(E052400,Leaf lettuce(E056400)"
+20,24,Bottle gourd,"Bottle gourd(E074400,Bottle gourd(E075400)"
+21,25,Snake gourd,"White snake gourd (E089600), Green snake gourd (E108600)"
+22,26,Sprouts,"Alfalfa sprouts(E008400),Chinese kale(E035400,Chinese kale sprouts(E093600)"
+23,27,Gynura,"Red gynura (E044400),White gynura (E090600)"
+24,28,Amaranth,"Red amaranth (E046400,Amaranth (E048400),Purslane(E099600,Wild amaranth (E104600)"

@@ -1,0 +1,25 @@
+,0,1,2
+0,Nutrient (method of analysis cited by authors),Sample source,% of labels in
+1,,,agreement with
+2,,,analysed valuea
+3,"Mandatory nutrients(Australian samplesFabiansson,2006",,
+4,Protein (AOAC 935.36 and 923.03),"70 samples,5 replicate samples of each",80
+5,Sodium ('modified' AOAC 984.27),"70 samples,5 replicate samples of each",73
+6,Saturated fat(AOAC 969.33),"70 samples,5 replicate samples of each",65
+7,"Sugars, total (HPLC,further detail not provided)","70 samples,5 replicate samples of each",61
+8,"Total fat (AOAC 954.02,922.06.960.39 and AS 2300.1.3","70 samples,5 replicate samples of each",59
+9,"Sodium (Australian samples)(FSANZ,2009a,b,c)",,
+10,"Sodium(ICPAES,further detail not provided","165 samples,primarily single samples only",60
+11,"Added micronutrients,voluntary declaration (New Zealand samples)",,
+12,Retinol(modifications of published HPLC method with fluorescence detection),"22 samples of fortified foods,5 replicate",27
+13,,"samples of each (Thomson,2006)",
+14,"Vitamin D (HPLC,published method)","18 samples of fortified foods,5 replicate",33
+15,,"samples of each (Thomson,2006)",
+16,"Vitamin C(HPLC with fluorescence detection,published method","25 samples of fortified foods,5 replicate",28
+17,,"samples of each (Thomson,2007)",
+18,"Folate,total(Tri-enzyme,microbiological,published method","29 samples of fortified foods,up to 5 replicate",45
+19,,"samples of each (Thomson and Jones,2009)",
+20,"Calcium (atomic absorption spectroscopy,further details not provided)","18 samples of fortified foods,5 replicate",51
+21,,"samples of each (Thomson,2006)",
+22,"Zinc (ICP-MS, further detail not provided)","20 samples of fortified foods,5 replicate",50
+23,,"samples of each (Thomson,2007)",

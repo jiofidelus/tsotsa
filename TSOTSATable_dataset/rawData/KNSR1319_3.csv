@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7
+0,Analyte,Method,Sample,LRa),RSD%b),LOD),EFd),Ref.
+1,Oxadiazon,TC-DES-LPME-GC-FID),Fruit juice and,0.77 5000,5,0.22,465,"(Farajzadeh et al., 2018)"
+2,,,vegetable,,,,,
+3,Diniconazole,SDMEGC,Fruit juices and vegetables,0.01-100,5.6,0.85,175,"Abolghasemi et al., 2020)"
+4,,FID,,,,,,
+5,Chlorpyrifos Oxadiazon,DSPEDLLME GCFID),Fruit juices,2.21000,6,0.67,310,"(Farajzadeh and Dabbagh,2020"
+6,Diniconazole,,,1.1500,4,0.34,220,
+7,Clodinafop,,,1.5-3000,6,0.46,220,
+8,propargyl,,,4.0-1000,4,1.2,443,
+9,Clodinafop-propargyl,-SPEGCMsh),Aquatic environmental samples,1.5500,8.7,0.2,409,"(Es-haghi et al., 2015)"
+10,Chlorpyrifos,SPEDLLME-GC-FIDi),Vegetable and fruit juices,1.5500,4,0.45,530,"Aghdam et al., 2021)"
+11,Oxadiazon,,,1500,5,0.30,691,
+12,Diniconazole,,,1.5-1000,4,0.46,691,
+13,Clodinafob-Propargyl,,,1.4-1000,4,0.42,560,
+14,Fenpropathrin,,,1-1000,3,0.32,751,
+15,Diniconazole,MSPE GCMSj),Water,0.5500,3.7,1.5,-,"(Dong et al., 2020)"
+16,Chlorpyrifos,DSPEDLLMEGCFID,Vegetable and fruit juices,1.2500,3,0.42,344,Present work
+17,Oxadiazon,,,1.0-500,4,0.31,309,
+18,Diniconazole,,,1.5-1000,4,0.52,263,
+19,Clodinafob-Propargyl,,,1.2-1000,3,0.40,381,
+20,Fenpropathrin,,,1.0-1000,4,0.31,357,
+21,Fenoxaprop-p-ethyl,,,1.5-400,5,0.53,257,

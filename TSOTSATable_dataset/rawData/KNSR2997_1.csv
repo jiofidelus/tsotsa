@@ -1,0 +1,30 @@
+,0,1
+0,ICP-MS,
+1,Forward power,1250W
+2,Plasma gas flow rate,16Lmin-1
+3,Auxiliary gas flow rate,1.20Lmin-1
+4,Carrier gas flow rate,0.87Lmin-1
+5,Dwell time,35ns
+6,Isotopes monitored,
+7,AFS,
+8,PMT voltage,270V
+9,Wavelength,196nm
+10,Primary current,40 mA
+11,Argon gas flow rate,800mLmin-1
+12,Atomization temperature,300
+13,Atomatization mode,Flame
+14,Reading time,20s
+15,Sampling time,8s
+16,Conc.NaBH4,0.7%(w/v) in 0.05% (w/v) NaOH
+17,Conc.HCl in carrier,5% (v/v)
+18,SEC,
+19,Column,BIOSEP-SEC-S-2000
+20,Mobile phase,"0.05M Tris buffer,pH 7.3"
+21,Flow rate,1mLmin-1
+22,Injection volume,100L
+23,UV detection,280nm
+24,AEC,
+25,Column,Hamilton PRP X100
+26,Mobile phase,"30 mM NaHPO4buffer,pH 6"
+27,Flow rate,1mLmin-1
+28,Injection volume,100L

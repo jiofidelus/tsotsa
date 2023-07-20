@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,Methods,LOD (mg/L),LOQ(mg/L),Precision (RSD%),Recovery (%),Linearity (R2) and linear
+1,,,,,,range(mg/L)
+2,Folin-Ciocalteu (mol GAE),0.55,1.83,3.88,107,0.9984 (1.620)
+3,Folin-Ciocalteu (mol EAE),0.55,1.83,3.88,107,0.9983 (3.820)
+4,Free enzyme(mol GAE),2.65,8.83,2.14,80,0.9983 (3.820)
+5,Free enzyme(mol EAE),0.27,0.90,1.72,86,0.9971 (3.825)
+6,Immobilized enzyme (mol GAE),1.68,5.60,1.72,90,0.9978 (1.815)
+7,Immobilized enzyme (mol EAE),1.38,4.60,1.43,91,0.9978 (1.815)

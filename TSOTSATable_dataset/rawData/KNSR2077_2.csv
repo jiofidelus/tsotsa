@@ -1,0 +1,12 @@
+,0,1,2,3
+0,Detection technique,System,LOD (g/L),References
+1,Liquid chromatography,UHPLC-ESI-MS/,1.5,"Li et al.,2014a"
+2,,MS,,
+3,Gas chromatography,GC-IT/MS,7.6,"Moreira et al.,2012"
+4,Electrochemistry,PPY-NGE/GCE,10.5,"Li et al,2015"
+5,Fluorescence,Thioflavin T,2.0,"Song et al.,2015"
+6,Fluorescence,Cu NCs,12.6,"Bhamore et al.,2016"
+7,Colorimetry,CP[5]A-Au NPs,51.4,"Li et al.,2013"
+8,Colorimetry,CN-DTC-Ag NPs,1.8*103,"Rohit and Kailasa,"
+9,,,,2014
+10,Colorimetry,Au NPs-3MPS,1,This work

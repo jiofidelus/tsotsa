@@ -1,0 +1,7 @@
+,0,1,2,3
+0,,N2 of samples,Histamine,Tyramine
+1,Alcoholic content,60,0.0635,-0.0451
+2,Extract of original wort,62,0.1647,-0.0035
+3,Total acidity,62,0.7445***,0.4380***
+4,pH,62,-0.5673***,-0.3498*
+5,Real degree of fermentation,38,0.4629**,-0.1321

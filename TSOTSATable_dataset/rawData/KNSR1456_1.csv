@@ -1,0 +1,22 @@
+,0,1,2,3
+0,Experiment,Factors,,
+1,,Injection,Composition of injection solution,Composition of injection solution
+2,,"volume*,L",,
+3,,,Methanola%,Buffer aqueous
+4,,,,solution/pure water
+5,1,20(1,151,Buffer
+6,2,201,0-1,Buffer
+7,3,10-0.33,151,Buffer
+8,4,10(-0.33,0-1,Buffer
+9,5,10-0.33,0-1,Buffer
+10,6,10-0.33,0-1,Buffer
+11,7,5-1,151,Buffer
+12,8,5-1,0-1,Buffer
+13,9,201,151,Water
+14,10,20(1),0-1,Water
+15,11,10-0.33,151,Water
+16,12,10(-0.33,0-1,Water
+17,13,10-0.33),0-1,Water
+18,14,10(-0.33,0-1,Water
+19,15,5-1,151,Water
+20,16,51,0-1,Water

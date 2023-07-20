@@ -1,0 +1,15 @@
+,0,1,2,3
+0,Model,Equations,,Parameters
+1,Pseudo-first order,Q=28.24621,Q=28.24621,Qe=28.2462mg/g)
+2,kinetic,,,K=0.0081min-1
+3,,,,R=0.9852
+4,Pseudo-second,t/Qt=0.02574t+3.7906,,Qe=38.85(mg/g
+5,8order,,,K=1.747910-4gmg
+6,kinetic,,,1.min1
+7,,,,R=0.9681
+8,Freundlich,Qe=45.1486C.0.4988,Qe=45.1486C.0.4988,K=45.1486
+9,,,,n=2.005
+10,,,,R=0.9525
+11,Langmuir,,,K=246.4997mg/L
+12,,Qe,Ce,Qm=20.2839(mg/g)
+13,,,,R=0.8246

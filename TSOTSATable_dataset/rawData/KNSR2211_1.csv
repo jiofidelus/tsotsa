@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8
+0,Code,Origin of Brandy,Aging years,Alcohol (%),pH,Total Acidity (g/L),Polyphenols (g/L),Glucose-Fructose (g/L),Total sugar (g/L)
+1,D-3,"DYNASTY, TianJin, China",3,73.2,4.46,0.33  0.06,0.13  0.02,0.04  0.01,0.08  0.01
+2,D-4,"DYNASTY, TianJin, China",4,74.9,4.32,0.33  0.02,0.21  0.01,0.09 0.01,0.17 0.01
+3,D-5,"DYNASTY, TianJin, China",5,73.5,4.33,0.40 0.00,0.43  0.03,0.150.01,0.38  0.05
+4,D-6,"DYNASTY, TianJin, China",6,66.0,4.26,0.70 0.00,0.61 0.07,0.55 0.06,0.96 0.04
+5,D-7,"DYNASTY, TianJin, China",7,66.1,4.04,0.77  0.05,0.65  0.06,0.49  0.05,0.94  0.03
+6,D-8,"DYNASTY, TianJin, China",8,64.7,4.25,0.77  0.05,0.52  0.05,0.69  0.06,1.06  0.08
+7,D-9,"DYNASTY, TianJin, China",9,65.4,4.29,0.93 0.02,0.64  0.07,0.49  0.05,0.97  0.01

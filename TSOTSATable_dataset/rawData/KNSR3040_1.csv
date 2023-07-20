@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,Extraction,Sample,Extract,Total AR,AR,GC,GC,,,,,TLCa,,
+1,method,,yield (mg/,content,content,,,,,,,,,
+2,,,g FW),(g/g,in dry,Relative AR homologue composition (%),,,,,,Total,Content AR,Content of
+3,,,,FW),extract,,,,,,,number,spot(R~0.2),spot (Rf~0.8)
+4,,,,FW),(%),C23:0,C17:0,C19:0,C21:0,C23:0,C25:0,of spots,(% of total,(% of total
+5,,,,,,,,,,,,,count),count)
+6,Ethyl,Whole grain rye,40.4,833 12,202.2,,23,32,25,11,,10,18,30
+7,acetateb,(intact),,,,,,,,,,,,
+8,,Whole grain rye,20  1.4,843 21,4.20.1,,23,32,25,11,9,14,7,74
+9,,Rye bran (milled),29  3.0,2921  19,100.1,,24,33,25,10,8,13,14,20
+10,,Rye aleurone,26  4.0,12305,4.70.0,,25,33,24,10,8,17,11,27
+11,,(milled),,,,,,,,,,,,
+12,,Whole grain wheat,2 0.6,57611,26  6.2,,4,35,49,8,3,6,6,73
+13,,Whole grain wheat,23  0.7,528  11,2.3  0.1,,4,32,51,10,4,13,8,18
+14,,(milled),,,,,,,,,,,,
+15,,Wheat bran (milled),53  0.2,2923  30,5.70.2,,4,30,52,11,4,11,10,25
+16,,Wheat aleurone,43  9.0,1024 44,2.4  0.1,,1,13,58,22,1,13,7,33
+17,,(milled),,,,,,,,,,,,
+18,SC-COb,Whole grain rye,12,1176  5.6,9.8,,26,34,24,9,7,15,14,39
+19,,Rye bran (milled)d,30  0.9,293220,9.70.1,,24,33,24,10,8,14,13,30
+20,,Rye aleurone,20  0.9,1035  50,4.7  0.4,,25,33,24,10,8,14,11,32
+21,,(milled)d,,,,,,,24,,,,,
+22,,Whole grain wheat,18,641  1.2,3.7,,4,34,52,8,2,15,9,46
+23,,(milled)c.d,,641  1.2,,,4,,52,,2,,,
+24,,Wheat bran,49  4.8,3044 150,6.2  0.4,,4,31,50,11,4,13,10,35
+25,,(milled)d,,,,,,,,21,,,,
+26,,Wheat aleurone,41 3.2,10175,2.50.1,,,14,57,21,,13,7,39
+27,,(milled)d,,,,,,,,21,,,,

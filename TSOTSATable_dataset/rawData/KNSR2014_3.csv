@@ -1,0 +1,53 @@
+,0,1,2,3,4,5,6,7,8,9
+0,No.,Compounds,Abbreviation,(min),(nm),[M+H],[M+H],"Error,",[M+,Fragmentation of [M+H]
+1,No.,,,(min),(nm),[M+H],,mDa,Na]+,
+2,,,,,,,,,[M+K]+,
+3,,,,,,,,,,HO-CO]+145 [Fr+H-HO-CHOH]+/
+4,,,,,,,,,,"[Caf+H-2HO]+,135 [Caf+H-HO"
+5,,,,,,,,,,CO]+134 [Fr+H-HO-CO-CH]+
+6,29b,"3,4-di-O-caffeoyl-5-O-","3,4-",72.90,"243,299sh,323",C35H33O15,693.2010,19.1,715.1825,675[M+H-HO]*531[M+H-Caf]+
+7,,feruloylquinic acid,"diC,5FQA",,,,,,731.1583,517[M+H-Fr]+513[M+H-Caf-HO]+
+8,,,,,,,,,,"499 [M+H-Fr-HO]+,351 [M+H-2Caf-"
+9,,,,,,,,,,"HO]+,337 [M+H-Caf-Fr-HO]*,195"
+10,,,,,,,,,,[Fr+H]177 [Fr+H-HO]
+11,,,,,,,,,,163[Caf+H-HO]+149[Fr+H-HO
+12,,,,,,,,,,CO]145[Fr+H-HO-CHOH]/
+13,,,,,,,,,,[Caf+H-2HO]+
+14,,,,,,,,,,135[Caf+H-HO-CO]*134 [Fr+H-
+15,,,,,,,,,,HO-CO-CH]+
+16,31c,"3,4,5-tri-O-caffeoylquinic","3,4,5-triCQA",75.38,"244,300sh,327",C34H31O15,679.1707,4.4,701.1575,661[M+H-HO]+517[M+H-Caf]+
+17,,acid,,,,,,,717.1301,499[M+H-Caf-HO]+337[M+H-2Caf-
+18,,,,,,,,,,HO]+181 [Caf+H]+163[Caf+H-
+19,,,,,,,,,,HO]+145[Caf+H-2HO]+135
+20,,,,,,,,,,[Caf+H-HO-CO]
+21,32b,"3,4-di-O-feruloyl-5-O-","3,4-",76.41,"246,299sh,325",C36H35O15,707.2118,14.2,729.1917,689[M+H-HO]531[M+H-Fr]513
+22,,caffeoylquinic acid,"diF,5CQA",,,,,,745.1773,[M+H-Fr-HO]+195[Fr+H]181
+23,,,,,,,,,,[Caf+H]+177 [Fr+H-HO]+163
+24,,,,,,,,,,[Caf+H-HO]149[Fr+H-HO-CO]
+25,,,,,,,,,,145 [Fr+H-HO-CHgOH]/[Caf+H-
+26,,,,,,,,,,2HO]+
+27,34b,"3-O-caffeoyl-4,5-di-O-","3C,4,5-",77.71,"236,299sh,326",C36H35O15,707.2118,14.2,729.1917,689[M+H-HO]527[M+H-Caf
+28,,feruloylquinic acid,diFQA,,,,,,745.1661,HO]+513 [M+H-Fr-HO]+337
+29,,,,,,,,,,"[M+H-2Fr-HO]195[Fr+H]+,181"
+30,,,,,,,,,,[Caf+H]177[Fr+H-HO]+163
+31,,,,,,,,,,[Caf+H-HO]149[Fr+H-HO-CO]
+32,,,,,,,,,,145[Fr+H-HO-CHOH]+/[Caf+H
+33,,,,,,,,,,"2HO]+135 [Caf+H-HO-CO]+,134"
+34,,,,,,,,,,[Fr+H-HO-CO-CH]
+35,,,Hydroxybenzoyl-hydroxycinnamoyl derivatives (3),,,,,,,
+36,14a,3-O-p-hydroxybenzoyl-5-,"3pHb,5CQA",46.62,"252,298sh,326",C23H23O11,475.1377,13.7,497.1188,457[M+H-H2O]*337[M+H-pHb-
+37,,O-caffeoylquinic acid,,,,,,,513.0936,HO]+313[M+H-Caf]+295[M+H
+38,,,,,,,,,,Caf-HO]181[Caf+H]163[Caf+H-
+39,,,,,,,,,,HO]+145 [Caf+H-2HO]+139
+40,,,,,,,,,,[pHb+H]135[Caf+H-HO-CO]121
+41,,,,,,,,,,[pHb+H-H2O]+
+42,17a,4-O-p-hydroxybenzoyl-5-,"4pHb,5CQA",58.00,"253,300sh,328",C23H23O11,475.1377,13.7,497.1188,457[M+H-HO]*337[M+H-pHb
+43,,O-caffeoylquinic acid,,,,,,,513.0936,HO]+313[M+H-Caf]+295[M+H
+44,,,,,,,,,,Caf-HO]+181[Caf+H]+163[Caf+H
+45,,,,,,,,,,HO]+145[Caf+H-2HO]+135
+46,,,,,,,,,,[Caf+H-HO-CO]+121[pHb+H-HO]
+47,28a,caffeoyl-feruloyl-p-,"C,F,pHbQA",72.50,"248,274,330",C33H31O14,651.1854,14.0,673.1743,633[M+H-HO]*513 [M+H-pHb
+48,,hydroxybenzoylquinic,,,,,,,689.1379,HO]+471 [M+H-Caf-HO]457
+49,,acid,,,,,,,,"[M+H-Fr-HO]195[Fr+H]*,177"
+50,,,,,,,,,,[Fr+H-HO]163 [Caf+H-HO]+149
+51,,,,,,,,,,[Fr+H-HO-CO]145 [Fr+H-HO

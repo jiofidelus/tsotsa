@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Grain (no.samples),Toxin detected,No. of positive samples (%),Toxin in positive samples (g/kg),Toxin in positive samples (g/kg),
+1,,,,Range,Mean,Median
+2,Corn (62),DON,3 (4.8),32.8-191,86.3,83.1
+3,,NIV,3 (4.8),<LOQa,15.1,15.1
+4,Wheat (27),DON,5 (18.5),58.7-468,223,93.8
+5,,NIV,1 (3.7),56.7,56.7,56.7
+6,Multigrain (46),DON,14 (30.4),31.6-127,65.8,55.3
+7,,FUS-X,2 (4.3),<LOQb-42.4,27.2,27.2
+8,Total samples,DON,38 (25.7),31.5-468,96.7,74.4
+9,,3-AcDON,0,-,-,-
+10,,FUS-X,2 (1.3),<LOQb-42.4,27.2,27.2
+11,,15-AcDON,0,,,
+12,,NIV,4 (2.7),<LOQa56.7,25.5,15.1

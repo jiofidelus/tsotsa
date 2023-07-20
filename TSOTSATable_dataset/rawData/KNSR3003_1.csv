@@ -1,0 +1,16 @@
+,0,1,2
+0,Type,Name,Formula
+1,,PDB,Potato dextrose broth medium 35 g;ultra-pure water
+2,Enrichment,PDB,1L;pH=7
+3,medium,LB,
+4,,PDA,L;pH=7
+5,Slant medium,,L;pH=7
+6,,LB,
+7,,,Potato dextrose agar medium 37 g;15 mL ethyl
+8,,1,"ferulate solution (10 % m/v N,N-"
+9,Screening,,dimethylformamide);ultra-pure water 1 L
+10,medium,,NaCl 10 g;peptone 10 g;yeast extract 5g;15 mL ethyl
+11,,2,"ferulate solution 10 % m/v N,N-"
+12,,,dimethylformamide;ultra-pure water 1 L;agar 10 g
+13,Fermentation,,
+14,medium,,

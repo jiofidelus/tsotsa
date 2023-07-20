@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7
+0,PAH,TS-2NC,TS-2CC,IS-NC,,TS-3NC,TS-3CC,IS-CC
+1,Nap,70.2a  1.23,29.3c  1.70,,20.5d  1.19,37.2b  0.15,9.30e  0.83,6.51f  0.10
+2,Anl,105a  3.64,15.0c  0.15,,10.5de  0.54,38.0b  1.19,12.4d  0.38,8.70e  0.83
+3,Ane,60.7a  1.15,15.0c  0.15,,10.5de  0.54,32.8bc  2.19,36.6b  3.43,8.70e  0.83
+4,Flu,58.0a  2.77,35.3b  0.20,,24.7d  0.98,32.8bc  2.19,51.8d  0.81,25.6cd  1.53
+5,Ant,136a  5.61,32.7b  3.66,,89.9c  1.15,57.1a  0.84,14.7d  1.01,10.3d  0.40
+6,Phen,55.1a  4.06,32.7b  3.66,,22.9c  1.45,36.9b  0.57,14.7d  1.01,10.3d  0.40
+7,Flt,15.2a  0.14,13.5b  0.16,,9.50c  0.20,4.43d  0.20,4.50d  0.14,3.10e  0.31
+8,BaA,8.80a  0.03,< LOQ,,< LOQ,6.71b  0.81,< LOQ,<LOQ
+9,Pyr,<LOQ,<LOQ,,<LOQ,< LOQ,< LOQ,<LOQ
+10,Chry,<LOQ,< LOQ,,<LOQ,<LOQ,< LOQ,< LOQ
+11,BbF,< LOQ,< LOQ,,<LOQ,<LOQ,< LOQ,< LOQ
+12,BkF,<LOQ,<LOQ,,<LOQ,< LOQ,< LOQ,< LOQ
+13,BaP,<LOQ,< LOQ,,<LOQ,< LOQ,<LOQ,<LOQ
+14,DahA,<LOQ,<LOQ,,<LOQ,< LOQ,<LOQ,<LOQ
+15,BghiP,< LOQ,< LOQ,,< LOQ,< LOQ,< LOQ,<LOQ
+16,Inp,<LOQ,< LOQ,,<LOQ,<LOQ,<LOQ,<LOQ
+17,EPAH4,8.82a,< LOQ,,<LOQ,6.71b,<LOQ,<LOQ
+18,ZPAH16,509a  11.10,335b  5.34,,234d  3.48,254c  3.26,163c  2.44,114.  2.28

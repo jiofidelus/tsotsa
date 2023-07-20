@@ -1,0 +1,53 @@
+,0,1,2,3,4,5,6,7
+0,Accession,Sp,Origin,Fruit colour and sizea,AsA(mgL-1,Lycopene(mg kg,-Carotene (mg kg,Idealindex
+1,CAMBRIA,1,Spain (control),"Red,4",8529,299,6.70.7,40
+2,BGV012406,1,Spain (control),"Light red, 5",9141,4913,101,25
+3,BGV003095,1,Spain,Orange6,10448,0.50.5,1215,27
+4,BGV004209,1,Czech Republic,"Yellow,5",11830,0.40.1,0.790.02,49
+5,BGV007022,1,Ecuador,"Pink,5",18312,791,8.600.01,13
+6,BGV008097,1,Peru,"Pink,3",9531,22.850.03,1.70.1,47
+7,BGV009514,1,Iran,Pink6,14355,6315,6.4 0.3,29
+8,BGV009515,1,Cuba,"Red,4",11526,23.90.8,6.10.4,37
+9,BGV009518,1,Kyrgyzstan,"Pink,7",713,7414,4.3 0.8,43
+10,BGV009529,1,Vietnam,"Pink,4",14341,351,8.3 0.1,26
+11,BGV011359,1,Taiwan,"Pink,5",517,24.5  0.2,7.30.2,44
+12,BGV011512,1,Portugal,"Yellow,4",12713,11,13.140.01,17
+13,BGV012344,1,The Philippines,"Light pink,4",16038,20.5  0.3,3.890.06,41
+14,BGV012619,1,Taiwan,"Red,6",85.2 0.6,51.70.1,3.30.1,45
+15,BGV012620,1,Taiwan,"Strawberry-reddish,3",13633,5225,6.00.1,32
+16,BGV012630,1,Ethiopia,"Yellow,5",7758,0.5  0.4,2.510.06,48
+17,BGV006753,2,Ecuador,"Orange-reddish,2",15077,912,5.00.6,28
+18,BGV006777,2,Ecuador,"Strawberry-reddish,2",1455,1022,72,18
+19,BGV006824,2,Ecuador,"Strawberry-reddish,3",13770,281,4.9 0.3,38
+20,BGV006825,2,Ecuador,"Strawberry-reddish,3",15935,471,2.90.3,39
+21,BGV006857,2,Ecuador,"Red,2",13131,30.8 0.5,3.90.2,42
+22,BGV006863,2,Ecuador,"Orange,2",16233,892,12.10.4,2
+23,BGV006872,2,Ecuador,"Orange-reddish, 1",574,94.80.3,7.10.3,34
+24,BGV006875,2,Ecuador,"Pink,2",13252,1174,8.00.4,14
+25,BGV006896,2,Ecuador,"Orange-reddish, 1",16935,517,72,21
+26,BGV006923,2,Ecuador,"Orange-reddish,3",11328,887,11.80.6,10
+27,BGV008008,2,Bolivia,"Orange,2",5216,0.50.3,0.940.03,51
+28,BGV008033,2,Peru,"Strawberry-reddish,2",14235,364,8.80.6,22
+29,BGV008051,2,Mexico,"Red,1",15542,540.7,11.390.01,9
+30,BGV008057,2,Malaysia,"Strawberry,2",23127,78.9 0.2,131,1
+31,BGV008060,2,Peru,"Orange,2",16610,821,11.70.3,5
+32,BGV008061,2,Mexico,"Orange-reddish, 2",23441,603,81,11
+33,BGV008065,2,Peru,"Strawberry,3",13130,310.5,6.00.1,35
+34,BGV008070,2,Mexico,"Yellow,1",23376,1.40.6,8.40.1,23
+35,BGV008109,2,Peru,"Orange-reddish, 1",16418,88  0.2,9.90.3,7
+36,BGV008148,2,Ecuador,"Deep red, 1",851,1672,8.6  0.9,19
+37,BGV008169,2,China,"Yellow,2",383,0.70.1,2.60.1,50
+38,BGV008224,2,Nicaragua,"Pink,2",1964,920.4,7.8  0.3,8
+39,BGV008226,2,Panama,"Pink,2",14116,583,7.50.7,24
+40,BGV008354,2,Costa Rica,"Red,3",29912,271,12.3 0.8,6
+41,BGV009512,2,Guinea,"Pink,2",9035,30.50.8,8.40.4,33
+42,BGV012627,2,Colombia,"Red,2",311118,58.00.5,9.90.3,4
+43,BGV012639,2,Ecuador,"Red,2",20045,18.40.1,10.10.1,15
+44,BGV012640,2,Peru,"Red,2",21245,11.70.1,10.10.2,16
+45,BGV007825,3,Mexico,Orange1,4416,22,7.50.3,46
+46,BGV007827,3,Mexico,"Red,2",3810,91.10.5,7.6  0.5,36
+47,BGV008068,3,Peru,"Red,1",301,12011,131,20
+48,BGV008166,3,Ghana,"Red,1",14423,2713,14.40.1,3
+49,BGV008230,3,Honduras,"Red,1",13437,7.70.6,14.60.1,12
+50,BGV012625,3,Peru,"Red,2",10537,232,8.80.2,31
+51,BGV012638,3,Ecuador,"Deep red,2",1563,82.20.8,3.90.2,30

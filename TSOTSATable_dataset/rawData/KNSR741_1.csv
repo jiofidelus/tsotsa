@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,,LOQ,,IAEA 407 fish muscle (mg,IAEA 407 fish muscle (mg,
+1,,mg kg,Determination,kg of dried weight),kg of dried weight),
+2,Element,1 of f.,Coefficient (R2),,,
+3,,1 of f.,Coefficient (R2),Certified,Measured,Recovery
+4,,w.),,ValueU,ValueU,(%)
+5,Cd,0.0043,0.9999,0.189 ,0.182,96.3
+6,,,,0.004,0.015,
+7,Hg,0.012,0.9986,0.222 ,0.230,103.6
+8,,,,0.006,0.020,
+9,Pb,0.012,0.9982,0.120,0.126,105.0
+10,,,,0.020,0.016,

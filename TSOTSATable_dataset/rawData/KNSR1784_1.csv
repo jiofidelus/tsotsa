@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6
+0,Sample,"Landrace""",Traits,,,,
+1,,,Plant growth habitb,Plant growth,Average seed,Seed coat colour,Origin
+2,,,,durationc,weight(mg),,
+3,PH05,Badda bianco FRM,Climber type IV,120,560,White+orange-brown eye,Sicilia
+4,PH08,Badda bianco SG,Climber type IV,120,520,White+orange-brown eye,Sicilia
+5,PH13,Badda nero SG,Climber type IV,120,590,White+black-purple eye,Sicilia
+6,PH14,Monaco Mussu Niuru,Climber type IV,130,600,White+dark mottled eye,Sicilia
+7,PH18,Poverello di Rotonda S,Climber type IV,125,505,Ivory,Basilicata
+8,PH19,Poverello di Rotonda AF,Climber type IV,125,550,Ivory,Basilicata
+9,PH20,Poverello di Rotonda BT,Climber type IV,125,520,Ivory,Basilicata
+10,PH22,Tabacchino,Determinate bush type Ia,100,520,Brown-yellow,Basilicata
+11,PH29,Fagiolo a Formella,Determinate bush type Ia,,430,Ivory,Campania
+12,PH32,Bianco di Rotonda TL,Determinate bush type Ia,125,650,Ivory,Basilicata

@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,Sterol,SRM 1544,,,SRM 3251,,
+1,,Analyzed value,Certificate value,Recovery,Analyzed value,Certificate value,Recovery
+2,,(mg/kg)a,(mg/kg)b,(%)c,(mg/g),(mg/g),(%)
+3,Cholesterol,1352,148.3  9.4,91,0.026  0.00,_d,-
+4,Dihydrocholesterol,1.73  1.0,,-,1.090.03,-,-
+5,Brassicasterol,0.0  0.0,-,,0.013  0.00,-,-
+6,24-Methylene cholesterol,1.31  0.0,-,-,0.0330.00,-,-
+7,Campesterol,1.31  0.0,-,-,0.553  0.02,0.533  0.031,104
+8,Campestanol,23.5  0.2,-,-,0.0290.00,-,-
+9,Stigmasterol,3.36  0.1,11,111,0.224  0.01,0.247  0.040,91
+10,-Sitosterol,87.0  0.5,11,111,1.56  0.04,1.666  0.064,94
+11,Sitostanol,6.28  0.1,-,111,3.53  0.09,-,-

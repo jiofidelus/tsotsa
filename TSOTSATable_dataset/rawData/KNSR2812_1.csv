@@ -1,0 +1,14 @@
+,0,1
+0,Interfering species,Tolerance limits
+1,"Na+K*,NHNO,HCOThiourea,HPO2,Sr2+",>1000
+2,and Mg2+,
+3,"Cl-Br-,Ca2+,Cr3+,Zn2+,hydrazine,formaldehyde,",400-800
+4,"oxalateMn2+,Cd2+and Co2+",
+5,"Fe+A13+BrSCN-Citrate,Tartrate,AgPb2+",250-350
+6,"Sn4+,v5+,Sb5+,As5+and Se4+",
+7,Ni2+Mo6+V4+As3+and Sb3+,75-200
+8,S2-,50
+9,CN-and Fe3+,35
+10,Bi3+bSO2-and SO2-,"20-30150,500"
+11,Hg2+andSiO2,1510250350
+12,103,5150

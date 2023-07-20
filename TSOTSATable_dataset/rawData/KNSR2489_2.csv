@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Storage type,Results in each day,,,,,Results in overall value,Results in overall value,,,
+1,,Day 1,Day 5,Day 7,Day 10,Day 12,Min,Max,Mean,SD,Range
+2,RT,0.100.11,0.100.14,0.110.14,0.130.15,0.130.18,0.10,0.18,0.13,0.02,0.100.18
+3,HT,0.13-0.17,0.230.23,0.290.30,0.490.60,0.720.83,0.13,0.83,0.35,0.20,0.130.83

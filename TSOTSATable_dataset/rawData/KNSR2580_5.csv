@@ -1,0 +1,10 @@
+,0,1,2
+0,Correlation anthocyanin (mg/kg) vs. time of ripening,y=10.56x-9.02,R=0.9425
+1,,y=9.55x-8.8,R=0.9756
+2,Correlation chlorophyll (mg/kg) vs. time of ripening,,
+3,Total,y=-4.41x+149.7,R=0.9893
+4,Chl a,y=-142x+49.78,R=0.9998
+5,Chl b,y=-5.83x+199.48,R=0.9935
+6,,y=-0.5882x+191.16,R=0.9466
+7,Correlation lutein (mg/kg) vs. time of ripening,y=-1.133x+51.17,R=0.9870
+8,Correlation chlorophyll (mg/kg) vs. h angle,y=33.18x-3133.3,R=0.8940

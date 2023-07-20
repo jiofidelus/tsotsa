@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,,Locust,Silkworm,Cricket,,
+1,,Locusta migratoria,Bombyx mori,Acheta domestica,Gryllus assimilis,Gryllus bimaculatus
+2,Conventional enzymatic assay using a Lab assay PL kit (Wako),Conventional enzymatic assay using a Lab assay PL kit (Wako),,,,
+3,Total lipids (mg/g),1456,423  32,350  0,423  1,262  11
+4,Triglycerides (mg/g),11.1  0.9,55.3 0.1,44.9  2.1,117  2,51.1  2.5
+5,Total cholesterols (mg/g),4.4  0.1,4.8  0.0,4.4  0.1,5.4  0.1,4.2  0.3
+6,Phospholipids (mg/g),17.0  0.9,20.7  1.5,35.2  2.1,23.2  3.3,28.7  1.3
+7,Modified enzymatic assay using a phosphatidylcholine-specific phospholipase D,Modified enzymatic assay using a phosphatidylcholine-specific phospholipase D,,,,
+8,Choline-containing phospholipids (mg/g),"25.1 (24.0, 26.3)","31.9 (25.5, 38.3)","48.2(48.8,49.1)","35.8 (28.1, 43.5)","48.9 (42.4, 54.0)"
+9,PC (mg/g),"6.7 (6.2, 7.2)","21.0 (19.4, 22.5)","17.6 (16.9, 18.3)","20.9 (20.7, 21.0)","18.8 (15.7, 21.9)"
+10,Percentage of PC (%),27,66,37,58,38

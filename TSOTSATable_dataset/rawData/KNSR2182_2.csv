@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8
+0,AG(GL,Samples,Total polyphenols content (mg L-1)a,Total polyphenols content (mg L-1)a,Samples,Total polyphenols content(mgL-1b,Total polyphenols content(mgL-1b,Additives,Additives
+1,,,Proposed,Reference method,,Proposed,Reference method,,
+2,,,method,"Horwitz,1970",,method,"Horwitz,1970)",,
+3,0.0d,Beer 1,15321,35625,Beer 1,13810,39414,,E316;E405;carbohydrates;low fermentation
+4,0.5d,Beer2,35.511,1187.8,Beer 2,54 2.2,18010,E306;unmalted cereals,E306;unmalted cereals
+5,0.5d,Beer 3,68.6  6.5,2128.1,Beer 3,1064.1,233  5.0,,E316;E405;carbohydrates;unmalted cereals;
+6,,,,,,,,low fermentation,low fermentation
+7,4.2,Beer 4,16125,33331,Beer 4,200068,81612,,"E316;E405;E150c,unmalted cereals"
+8,4.2,Beer5,21230,87217,Beer 5,23518,474  6.3,,E316;E405;E150c;carbohydrates;unmalted cereals;
+9,,,,,,,,low fermentation,low fermentation
+10,4.3,Beer 6,32538,3219.0,Beer 6,1373.8,2571.8,,E405:E300carbohydrates:unmalted cereals
+11,4.4,Beer7,1528.7,29126,Beer 7,1626.7,242 2.1,,E316;E405;carbohydrates;unmalted cereals
+12,4.5,Beer 8,1909.6,32010,Beer 8,345  8.7,474 6.2,,E316;E405;carbohydrates;unmalted cereals
+13,4.5,Beer 9,17014,399 25,Beer 9,92  4.1,27415,,E316;E405;unmalted cereals
+14,4.7,Beer 10,17115,38034,Beer 10,21210,3507.2,,E316;E405;unmalted cereals
+15,4.7,Beer 11,157 4.4,355 13,Beer 11,15610,1795.0,,E316;E405;E270;carbohydrates; low fermentation
+16,4.7,Beer 12,222  27,402  22,Beer 12,NA,NA,E316E405:unmalted cereals.,E316E405:unmalted cereals.
+17,4.7,Beer 13,1324.9,33330,Beer 13,16417,2816.5,,E316;E405;carbohydrates;unmalted cereals.
+18,4.8,Beer 14,15937,362  7.9,Beer 14,1649.5,249 8.1,,E316;E405;E270;carbohydrates;low fermentation
+19,5.0,Beer 15,19616,38736,Beer 15,16914,29312,NA,
+20,5.0,Beer 16,2877.5,61320,Beer 16,27417,59519,,E316;E405;E150c;carbohydrates;unmalted cereals;
+21,,,,,,,,low fermentation,low fermentation
+22,5.4,Beer 17,55617,89638,Beer 17,46029,75529,,E316;E405E150c;carbohydrates;roasted malt

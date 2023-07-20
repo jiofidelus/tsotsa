@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,The matrix effect (ME is,The matrix effect (ME is,,,1where asterisks indicate the level of significance from ANOVA***p0.001;**p 0.01;*p 0.05;ns p >0.05,,,,,,,,
+1,,,solvent standard curve,solvent standard curve,,,,,,,,,
+2,,BOA,HBOA,MBOA,HBOA-glc-hex,HMBOA,DIBOA-glc,DIBOA-glc-hex,DIMBOA-glc,HBOA-glc-hex,DIBOA,HBOA-glc,HMBOA-glc
+3,a,90.5,176,884,,160,57.6,652,50.0,193,74.2,219,142
+4,LOD,0.17,0.16,0.10,,0.06,0.04,1.70,0.13,0.90,0.38,0.67,0.04
+5,LLOQ,0.52,0.49,0.29,,0.20,0.11,5.14,0.39,2.73,1.16,2.02,0.12
+6,,(0.99),(0.99),(0.54,,(0.54),(0.21),(9.67),(0.72,(5.13,(2.17),(3.79),(0.23)
+7,ME,0.04,0.05,0.01,,0.07,0.09,-0.28,0.20,-0.23,-0.08,-0.04,-0.08
+8,,ns,***,ns,,***,***,***,***,***,*,*,***

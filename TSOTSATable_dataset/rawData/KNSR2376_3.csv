@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,FactorA,Phosphorus,Potassium,Calcium,Sodium,Magnesium
+1,CultivarB,,,,,
+2,Panda,9.6  0.5a,11.1 0.3b,4.4  0.1a,0.63  0.01a,5.9  0.1b
+3,Kora,10.3  0.5b,9.6  0.2a,4.6  0.2b,0.69  0.01b,5.7  0.1a
+4,Treatmentc,,,,,
+5,Ecklonia maxima,9.9  2.1d,11.5  0.2e,4.4  0.2a,0.63  0.02a,6.0  0.1c
+6,Natural nitrophenols,12.0  0.7 h,10.4  0.6c,5.5  0.3e,0.68  0.03bc,6.3  0.1d
+7,Pythium oligandrum,8.00.5b,10.3  0.6c,5.2  0.3d,0.69  0.03c,6.5  0.1d
+8,Bacillus subtilis,7.6  0.2a,11.0  0.7d,4.4  0.2b,0.68  0.03bc,5.9  0.0c
+9,Ecklonia maxima + Pythium oligandrum,9.1  0.6c,9.5  0.4a,4.3  0.2b,0.68  0.01bc,5.6  0.1b
+10,Natural nitrophenols+Pythium oligandrum,10.5  0.2e,10.1  1.2b,4.7  0.2c,0.640.01a,6.1  0.3c
+11,Ecklonia maxima+Bacillus subtilis,10.8  0.3 f,9.6  0.4a,4.2  0.1b,0.63  0.01a,5.4  0.2ab
+12,Natural nitrophenols + Bacillus subtilis,11.5  0.2 g,10.0  0.3b,4.4  0.1b,0.65  0.01ab,5.6  0.1b
+13,Ecklonia maxima + Natural nitrophenols,8.0  0.3b,9.4  0.4a,3.9  0.1a,0.64  0.02a,5.3  0.1a
+14,Control,12.1  0.1 h,11.7  0.0e,3.9  0.2a,0.70  0.03c,5.5  0.1ab

@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Calcium (Ca),,,,,,Magnesium (Mg,,,,,
+1,Variety,Hazy,Giy,Emp,Rood,Mean (variety),Variety,Hazy,Giy,Emp,Rood,Mean(variety)
+2,W_119,60,55,65,72,637 a,Khano,39,31,35,38,373 a
+3,Resisto,79,68,43,61,631 a,Serolane,35,31,37,30,333 ab
+4,Khano,60,43,52,65,5510ab,W_119,24,29,34,37,316 abc
+5,Serolane,64,48,58,46,548ab,Resisto,33,31,27,28,303 bc
+6,2001_5_2,53,45,55,56,535 ab,1999_1_7,28,36,23,30,296 bc
+7,Excel,56,49,47,56,525 abc,Excel,30,30,27,29,291bc
+8,Impilo,56,51,49,47,514 abc,Impilo,30,25,28,25,273c
+9,Beauregard,50,47,48,49,492 bcd,2001_5_2,24,25,31,24,263c
+10,1999_1_7,53,55,23,61,4817 bcd,Beauregard,17,23,23,22,213d
+11,Blesboka,43,46,16,51,3916 cde,Monatea,20,19,18,22,202 de
+12,Ndoua,47,37,15,47,3715 de,Ndoua,20,20,18,20,201 de
+13,Monatea,46,30,16,45,3414 e,Blesboka,13,17,13,16,152e
+14,Mean (site),56 a,48 bc,40 c,55 ab,,Mean (site),26,27,26,27,
+15,Overall mean,,,,,50,Overall mean,26,,26,,26
+16,P-Value (var,,,,,<0.001,P-Value (var),,,,,<0.001
+17,P-Value (site),,,,,<0.001,P-Value (site),,,,,0.932
+18,LSD(var),,,,,12.9,LSD (var),,,,,5.0
+19,LSD(site),,,,,7.5,LSD (site),,,,,ns
+20,CV%,,,,,18.1,CV%,,,,,13.1

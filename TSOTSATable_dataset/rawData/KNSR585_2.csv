@@ -1,0 +1,12 @@
+,0,1,2,3,4
+0,Carotenoid,2max (nm) in,Amax (nm) in the,Response to chemical tests,Molecular ion
+1,,petroleum ether,mobile phase,,(m/z)
+2,Neoxanthin,"414, 438, 466","415,439,467","Positive to 5,6-epoxide test (1 group);",600
+3,,,,positive to acetylation(3 OH groups,
+4,Violaxanthin,"416,440,470","417,441,470","Positive to 5,6-epoxide test (2 groups); 600",
+5,,,,positive to acetylation 2 OH groups,
+6,Lactucaxanthin,"416,440,470","415,440,470",Positive to acetylation (2 OH groups);568,
+7,,,,positive to methylation (2 allylic OH),
+8,Lutein,"421,443, 472","423, 447, 475",568,568
+9,,,,positive to methylation (l allylic OH),
+10,-Carotene,"(424), 448, 476","(428), 454, 480",No substituent,536

@@ -1,0 +1,22 @@
+,0,1,2,3,4
+0,Micronutrient,Source,N Core Foods,Concentration unit,Intake unit
+1,Copper (Cu),FDA 91-97,240,mg/kg,mg/day
+2,,USDA-CB,66,mg/100 g,mg/day
+3,Iron (Fe),FDA 91-97,240,mg/kg,mg/day
+4,,USDA-CB,66,mg/100 g,mg/day
+5,Manganese(Mn,FDA 91-97,245,mg/kg,mg/day
+6,,USDA-SR,51,mg/100 g,mg/day
+7,,FDA substitution,10,mg/kg,mg/day
+8,Nickel (Ni),FDA 91-97,238,mg/kg,ug/day
+9,,IOM,18,ng/g,g/day
+10,,MAFF-UK,9,mg/kg,ug/day
+11,,FDA substitution,40,mg/kg,g/day
+12,,NA,1,,
+13,Silicon (Si),"Pennington,1991",208,mg/100 g,mg/day
+14,,IOM,14,mg/100g,mg/day
+15,,Other literature,43,,
+16,,Imputed,41,,
+17,lodine (I),"Pennington et al., 1995",269,mg/100 g,ug/day
+18,,"Lee et al.,1994",8,g/kg,ug/day
+19,,Imputed,27,mg/kg,ug/day
+20,,NA,2,,

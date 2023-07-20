@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Year,N,pH,Electrical Conductivity,Organic Carbon,Available P,Available K,Available S,Available B,Available Zn,Available Fe
+1,,,,dS/m,%,mg/kg,mg/kg,mg/kg,mg/kg,mg/kg,mg/kg
+2,2011,4,7.5  0.1,0.18  0.04,0.3  0.06,7  3.9,8317,6.5  0.8,0.6  0.05,1.5  0.5,13  2.4
+3,2012,9,6.3  0.06,0.12 0.01,0.6  0.07,4  0.5,76.7  3.5,9.9  0.4,0.3  0.02,2.7  0.4,17 1.8

@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,compounds,Eucalyptus sp. wood***,,,,,,rice husk (Oryza sativa),rice husk (Oryza sativa),,,
+1,,BRa,PBRb,PRC,,CPRd,,BRa,,PBRb,PRc,CPRd
+2,naphthalene,35.6  0.5aA*,10.6  0.4bcBC,6.2  0.8dA,6.2  0.8dA,ND**,,13.4  0.4bA,,14.1  1.5bB,4.7  0.1dA,ND
+3,acenaphthylene,14.3  0.3aB,13.0  0.1aB,ND,,ND,,2.1  0.6cBC,,13.9  0.4aB,ND,ND
+4,fluorene,12.8  0.4aB,14.7  1.9aB,ND,,ND,,5.71.0bB,,15.3  1.9aB,ND,ND
+5,phenanthrene,36.9  0.3bA,81.4  0.0aA,3.5 0.7eBC,3.5 0.7eBC,ND,,13.2  1.5dA,,44.4  1.9bA,0.4  0.2fB,ND
+6,anthracene,10.4 0.1bB,19.2  0.5aB,ND,,ND,,2.6  0.8cBC,,11.6  1.7bBC,ND,ND
+7, fluoranthene,9.0  0.4aB,11.3  1.7aB,0.8  0.3cc,0.8  0.3cc,ND,,3.5  1.5bBC,,8.9  0.1ac.,ND,ND
+8,pyrene,9.2  0.3aB,9.1  0.4ac,1.2  0.9cdc,1.2  0.9cdc,ND,,3.3  1.8cBC,,6.5  1.6bCD,0.6  0.2dB,ND
+9,benzo[a],0.7  0.2ac,1.5  0.7aD,ND,,ND,,ND,,1.1  0.2aE,ND,ND
+10,anthracene,,,,,,,,,,,
+11,chrysene,2.6  0.4abc,3.3  0.7aD,0.9  0.1cc,0.9  0.1cc,ND,,1.8 0.1bc,,4.9  0.7aD,0.9  0.3cB,ND
+12,2,131.6,164.1,12.7,,ND,,45.7,,120.8,6.6,ND
+13,compounds,liquefied petroleum gas (LPG),liquefied petroleum gas (LPG),,,,electric heating,electric heating,,,,
+14,,BRa,PBRb,,CPRd,,BRa,,PBRb,PBRb,PRc,CPRd
+15,naphthalene,9.8  1.7cA,9.9  1.gcB,,ND,,5.5  0.6dA,5.5  0.6dA,3.5  0.4eA,3.5  0.4eA,2.9  0.3eA,ND
+16,acenaphthylene,ND,9.8  1.8bB,ND,ND,,ND,,0.9  0.5cB,0.9  0.5cB,ND,ND
+17,fluorene,ND,4.6  0.6bc,,ND,,ND,,ND,,ND,ND
+18,phenanthrene,3.0  0.8eB,22.9  1.3cA,,ND,,0.7  0.2fB,0.7  0.2fB,4.0  0.geA,4.0  0.geA,ND,ND
+19,anthracene,ND,4.7  1.4cc,,ND,,ND,,ND,,ND,ND
+20,fluoranthene,1.1  0.2cc,5.2  1.1bc,,ND,,0.7  0.4cB,0.7  0.4cB,0.7  0.4cB,0.7  0.4cB,ND,ND
+21,pyrene,1.10.5cdc,4.3  0.8bc,,ND,,0.8  0.7dB,0.8  0.7dB,ND,,ND,ND
+22,benzo[a],ND,ND,,ND,,ND,,ND,,ND,ND
+23,anthracene,,,,,,,,,,,
+24,chrysene,0.9  1.6cc,2.4  0.2bD,,ND,,ND,,ND,ND,ND,ND
+25,,15.9,63.9,,ND,,7.7,,9.1,,2.9,ND

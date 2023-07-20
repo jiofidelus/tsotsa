@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Ingredient,SR-Legacy,SR-Legacy name,Amount,Calories*,Total fat,Saturated fat,Carbohydrate,Total,Protein,Sodium*
+1,,code,(short version),(g),,(g),(g),(g),sugars (g),(g),(mg)
+2,Sugar,19335,"Sugar, granulated",57.2,221,0,0,57.2,57.1,0,0
+3,"Wheat flour,",20081,"Wheat flour, all-",35.0,127,0.3,0.1,26.7,0.1,3.6,0
+4,bleached,,purpose,,,,,,,,
+5,Egg white,01173,"Egg white, dried",1.5,8,0,0,1.4,0.1,1.6,26
+6,Cornstarch,20027,Cornstarch,1.5,6,0,0,1.4,0,0,0
+7,Baking soda,18372,Baking soda,1.0,0,0,0,0,0,0,273
+8,Soy protein,16122, Soy protein isolate,0.5,2,0,0,0,0,0.4,5
+9,Salt,02047,"Salt, table",1.4,0,0,0,0,0,0,543
+10,Food additives,,,1.4,=,,,,,,1
+11,Total,-,,100,364,0.3,0.1,85.4,57.3,5.6,847

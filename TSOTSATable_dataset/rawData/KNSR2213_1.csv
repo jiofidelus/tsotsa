@@ -1,0 +1,17 @@
+,0,1,2,3
+0,Agroforestry,Line,Production,Objective
+1,System,,(sc/ha),
+2,Direct,"3,4,5,6,7,10,13",1.79,Tradictional
+3,Sunlight,,,production
+4,Banana tree,"2,3,4,7,8,9,10,13,14,15,16",5.7,Organic matter
+5,,,,/Income
+6,,,,generation
+7,Peach palm,"2,4,7,8,9,10,13,14,15,16",10.5,/Organicmatter/
+8,,,,Income
+9,,,,generation
+10,Gliricidia tree,"2,4,7,8,9,10,13,14,15,16",8.2,Nitrogen
+11,,,,fixation/Organic
+12,,,,matter
+13,Inga tree,"2,3,5,9,10,11,13,14,15,16",6.2,Nitrogen
+14,,,,fixation/Organic
+15,,,,matter

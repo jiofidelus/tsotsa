@@ -1,0 +1,73 @@
+,0,1,2,3,4
+0,Compound,Skins,Stems,Leaves,Seeds
+1,Phenolic acids,,,,
+2,Gallic acid,ND,ND,ND,3.940.23
+3,Caftaric acid,9.52 ,0.07d,3.34 ,5.45 
+4,,0.72a,0.07d,0.31c,0.14b
+5,Coutaric acid,47.40 ,20.95 ,44.99 ,1.07 
+6,,0.76a,0.32c,1.45b,10.46 
+7,Total phenolic acid,56.92 ,22.20 ,48.33 ,10.46 
+8,content,1.16a,0.30c,1.62b,0.33d
+9,Flavonols,,,,
+10,Myricetin-3-glucoside,4.79 ,0.67 ,15.42 ,ND
+11,,0.46b,0.58c,0.50a,1.65 
+12,Quercetin-3-rhamnose-,42.58 ,43.51 ,729.84 ,1.65 
+13, glucuronide,8.78b,1.31b,11.32a,0.06c
+14,Quercetin-3-rhamnoside,33.46 ,5.19 ,150.33 ,2.64 
+15,,3.34b,1.33c,1.27a,4.29 
+16,Total flavonol content,80.83 ,49.37 ,895.59 ,4.29 
+17,,10.29b,1.54c,12.56a,0.12d
+18,Flavanols,,,,
+19,(+)-Gallocatechin,18.23 ,383.02 ,ND,39.17 
+20,,2.82b,22.65a,,7.49b
+21,Proanthocyanidin dimer,113.12 ,751.90 ,55.07 ,392.02 
+22,B3,1.83c,6.20a,ND,23.10b
+23,()-Epigallocatechin,3.32 ,78.61 ,ND,11.60 
+24,,0.67c,2.72a,,2.22b
+25,Proanthocyanidin,5.17 ,111.90 ,46.02 ,29.18 
+26,tetramer-1,1.28d,1.77a,2.10b,9.54c
+27,Proanthocyanidin dimer,1041.09,3055.12 ,3417.68,779.96 
+28,B1, 49.25c,26.64b, 83.88a,35.54d
+29,(+)-Catechin,113.23 ,2813.92 ,25.31 ,4868.97 
+30,,6.15c,20.66b,1.30d,27.07a
+31,Proanthocyanidin,119.44 ,939.67 ,77.13 ,365.59 
+32,trimer-1,1.20c,10.61a,2.75d,8.10b
+33,Proanthocyanidin,329.15 ,613.96 ,267.35 ,448.22 
+34,tetramer-2,7.03c,8.31a,5.63d,7.60b
+35,Proanthocyanidin dimer,21.96 ,152.36 ,4.91 ,148.57 
+36,B4,2.59b,3.47a,0.92c,1.36a
+37,(-)-Epicatechin,56.40 ,405.81 ,16.96 ,3519.95 
+38,,4.96c,5.14b,2.53c,75.29a
+39,Proanthocyanidin,38.39 ,980.73 .,12.39 ,517.56 
+40,trimer-2,2.69c,15.28a,0.81d,18.56b
+41,Proanthocyanidin,24.55 ,201.71 ,ND,787.77 
+42,trimer-3,1.63c,7.52b,,29.31a
+43,Proanthocyanidin dimer,7.46 ,6.88b,21.32 ,140.57 
+44,B2,0.97b,6.88b,0.42b,13.57a
+45,Proanthocyanidin,9.58 ,34.34 ,31.22 ,10.16 
+46,tetramer-3,0.07c,2.56a,13.44ab,17.60c
+47,(-)-Epicatechin gallate,7.67 ,608.15 ,11.48 ,1631.94 
+48,,0.21c,23.90b,0.12c,42.45a
+49,Total flavanol content,1908.76,11139.10,3986.85,13678.17
+50,, 43.26d,77.21b, 78.54c, 63.45a
+51,Anthocyanins,,,,
+52,"Malvidin-3,5-",11.28 ,ND,ND,ND
+53,diglucoside,1.29,0.60 ,,
+54,Peonidin-3-glucoside,11.60 ,0.60 ,ND,ND
+55,,0.44a,0.03b,,
+56,Malvidin-3-glucoside,7.72 ,ND.,ND,ND
+57,,0.70,ND.,,
+58,"Peonidin-3-6""-p",2.52 ,ND,ND,ND
+59,coumaroyl-glucoside-,1.03,ND,,ND
+60,5-glucoside,,,,
+61,Malvidin-3-6-p-,39.04 ,1.94 ,ND,ND
+62,coumaroyl-glucoside-,1.76a,0.02b,,
+63,5-glucoside,,,,
+64,Cyanidin-3-glucoside,2.40 ,0.16 ,ND,ND
+65,,0.10a,0.02b,,
+66,Petunidin-3-glucoside,4.16 ,0.13 ,ND,ND
+67,,0.60 ,0.01b,,
+68,"Cyanidin-3-6""-p-",0.06,ND,ND,ND
+69,coumaroyl-glucoside,1.94 ,ND,,
+70,Petunidin-36-p,0.14,ND,ND,ND
+71,coumaroyl-glucoside,0.14,,,

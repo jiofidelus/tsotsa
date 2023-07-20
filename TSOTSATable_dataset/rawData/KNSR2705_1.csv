@@ -1,0 +1,17 @@
+,0,1,2,3
+0,Treatments,Hardness (g,Cohesiveness,Springiness (mm)
+1,'Bluecrop,296  15.3b,0.140.01,6.710.08
+2,'Liberty',42810.2a,0.110.01,6.680.18
+3,F cultivar (C,***,ns,ns
+4,RA,349  22.2,0.140.01,6.630.14
+5,MAP,37514.6,0.120.01,6.76 0.14
+6,F atmosphere (A,ns,ns,ns
+7,0d,41022.3a,0.120.01,6.27  0.31b
+8,10d,376  25.1ab,0.120.01,6.83  0.09ab
+9,20d,344  27.1b,0.120.01,6.67  0.15ab
+10,30d,319  26.7b,0.150.02,7.02  0.10a
+11,F storage period (SP),**,ns,
+12,FCXA,ns,ns,ns
+13,FCSP,ns,ns,**
+14,FAXSP,ns,ns,ns
+15,FCXAXSP,ns,ns,ns

@@ -1,0 +1,23 @@
+,0,1,2,3,4
+0,Models based,CDCl extracts,,CDOD extracts,
+1,on'H NMR,,,,
+2,data of,,,,
+3,Investigated,Geographical,Quality,Geographical,Quality
+4,class,origin,processing,origin,processing
+5,R2X,0.914,0.945,0.977,0.958
+6,R2Y,0.956,0.971,0.962,0.860
+7,Q2,0.877,0.787,0.928,0.668
+8,NCa,2+5,1+9,2+6,1+5
+9,Permutation,0.388;-0.724,0.519;,0.453;-0.799,0.507;
+10,test (R2; Q2),(Brazil),-1.27(non,(Brazil),-0.838
+11,,,HT),,non-HT
+12,,0.398;-0.664,0.517;,0.443; -0.796,0.513;
+13,,(Sri Lanka),-1.28 (HT),(Sri Lanka),-0.826 (HT)
+14,,0.389;-0.738,,0.468;-0.801,
+15,,(Vietnam),,(Vietnam),
+16,CV-ANOVAp,7.8  10-26,1.310-5,1.4x10-23,1.110-4
+17,value,,,,
+18,ROCb,1Brazil),1(non-HT,1(Brazil,1(non-HT
+19,,1Sri Lanka),1(HT,1(Sri Lanka),1(HT
+20,,1(Vietnam,,1(Vietnam,
+21,CCR (%)c,100,92,100,82

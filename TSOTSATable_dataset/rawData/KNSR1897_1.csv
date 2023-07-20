@@ -1,0 +1,36 @@
+,0,1,2,3,4,5
+0,,Genotypes,Ripening Stages,Ripening Stages,,
+1,,,Green,Unripe,Ripe,Average
+2,,HZR3,4.04,5.88,8.23 ,6.05D
+3,,HZR3,0.20 h,0.88 g,0.97 d,6.05D
+4,,HZR1,4.55,7.13 ,12.0,7.89 A
+5,,HZR1,0.32 h,0.68 ef,1.1a,7.89 A
+6,Fruit width,HZR2,0.23 h,0.86f,0.98 c,6.77 C
+7,(mm),M1 ALTUNi,4.21 ,7.76 ,9.83 ,7.27B
+8,,M1 ALTUNi,0.42 h,0.47 de,0.10b,7.27B
+9,,Average of,4.34 C,6.86 B,9.77A,
+10,,Stage,4.34 C,6.86 B,9.77A,
+11,,LSD,LSDgen*=0.384 LSDstage*=0.332 LSDgenxstage*,LSDgen*=0.384 LSDstage*=0.332 LSDgenxstage*,LSDgen*=0.384 LSDstage*=0.332 LSDgenxstage*,LSDgen*=0.384 LSDstage*=0.332 LSDgenxstage*
+12,,LSD,0.666,,,
+13,,HZR3,12.4 ,18.7,13.5,14.9C
+14,,HZR3,2.7g,1.8e,1.4g,14.9C
+15,,HZR1,19.2,22.2 ,22.4 ,21.3A
+16,,HZR1,2.2 cde,2.5ab,2.0ab,21.3A
+17,,HZR2,18.8,21.0 ,23.5,21.1 A
+18,Fruit Length,HZR2,1.9de,3.3bc,1.6a,21.1 A
+19,(mm),M1 ALTUNi,15.5,19.1,20.6 ,18.4B
+20,,M1 ALTUNi,2.1 f,2.1 cde,1.7 bcd,18.4B
+21,,Average of,16.5 B,20.2 A,20.0 A,
+22,,Stage,16.5 B,20.2 A,20.0 A,
+23,,LSD,LSDgen*=1.105 LSDstage*=0.957 LSDgenxstage*,LSDgen*=1.105 LSDstage*=0.957 LSDgenxstage*,LSDgen*=1.105 LSDstage*=0.957 LSDgenxstage*,LSDgen*=1.105 LSDstage*=0.957 LSDgenxstage*
+24,,LSD,1.914,,,
+25,,HZR3,0.011,0.0h,0.0d,26.2 D
+26,,HZR1,16.0,34.2,84.5,44.9A
+27,,HZR1,0.0L,0.0e,0.0a,44.9A
+28,,HZR2,15.3,30.1,67.1 ,37.5 B
+29,Fruit Weight,HZR2,0.0 j,0.0g,0.6 b,37.5 B
+30,g/100fruit),M1 ALTUNi,12.3,31.3,65.9,36.7 C
+31,,M1 ALTUNi,0.1k,0.0f,0.6c,36.7 C
+32,,Average of,13.2 C,30.0B,65.8A,
+33,,Stage,13.2 C,30.0B,65.8A,
+34,,LSD,0.393,,,

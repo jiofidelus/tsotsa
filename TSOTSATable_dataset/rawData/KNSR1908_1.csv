@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Flame atomic absorption spectrometry parameters,,,,,,,,,,
+1,Wavelength(nm),,,,,,,,,,217.0
+2,Lamp electric current(mA),,,,,,,,,,10.0
+3,Slit width (nm),,,,,,,,,,1.0
+4,Air gas flow ratio,,,,,,,,,,13.5
+5,Acetylene gas flow ratio,,,,,,,,,,2.0
+6,Background deuterium,,,,,,,,,,ON
+7,Operational sequence of multicommuted flow system,,,,,,,,,,
+8,Step,V1,V2,V3,V4,V5,V6,Time,Cycles,Comments,
+9,,,,,,,,(s),,,
+10,Flow lines,1*,0',0,0,0,0,5,1,Column washing,Column washing
+11,filling,0,1,0,0,0,0,5,,and conditioning,and conditioning
+12,,0,0,1,0,0,0,5,,,
+13,,0,0,0,1,0,0,5,,,
+14,Sampling,1,0,0,0,0,0,8,180,Sample loading,Sample loading
+15,,0,1,0,0,0,,2,,,
+16,Elution,0,0,1,0,1,0,60,1,Pushing,
+17,,,,,,,,,,eluent/HNO3,eluent/HNO3
+18,Detection,0,0,0,0,0,1,21,1,,
+19,Washing,0,0,0,1,1,0,60,1,Pushing,
+20,,0,0,0,0,0,1,21,1,Carrier/water,Carrier/water

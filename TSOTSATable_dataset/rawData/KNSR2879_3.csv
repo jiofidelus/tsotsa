@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,Average value,,,,,
+1,Parameter,Location,P value,Kryder,Volkameriana,Cleopatra,Swingle Citrumelo,Carrizo,Sunki
+2,Firmness*,Lebrija,<0.0001,7.783 a,6.573 a,5.006 b,4.841 b,4.397 b,4.113 b
+3,(Kgf),Espinal,0.0376,4.998 ab,5.529 a,4.355 b,4.424 a,4.831 a,5.464 a
+4,Juice content (%),Lebrija,0.0244,48.385 a,39.539 b,46.467 ab,41.913 ab,42.654 ab,43.319 ab
+5,Juice content (%),Espinal,0.0011,50.484 a,43.870 b,46.597 ab,46.249 b,46.707 ab,43.954 b
+6,TSS (Brix),Lebrija,0.0147,9.856 ab,8.811b,9.222 b,10.767 a,9.978 ab,9.322 ab
+7,pH,Lebrija,<0.0001,2.616 c,2.696 ab,2.317 d,2.647 cb,2.312 d,2.74 a
+8,TA (%),Lebrija,0.0019,9.752abc,9.621 abc,8.189 c,10.830 a,8.549 bc,9.948 ab
+9,Color Index,Lebrija,<0.0001,5.68 a,5.68 a,5.01 a,6.97 b,7.29 b,5.39 a
+10,Tonality,Lebrija,0.0007,166.15 ab,166.03 ab,168.29 a,164.43 b,164.13 b,166.91 a.
+11,Saturation,Lebrija,0.0058,28.45 abc,34.6 a,27.56 abc,25.84 bc,22.60 c,31.19 ab
+12,L*,Lebrija,0.0010,43.513 a,43.748 a,41.527 ab,40.035 b,39.0853 b,43.3 a

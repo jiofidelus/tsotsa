@@ -1,0 +1,34 @@
+,0,1,2,3,4,5
+0,Cultivars/,IDF,SDFP,SDFS,SDF,TDF
+1,Locations,g/100 g DW,g/100 g DW,g/100 g DW,g/100 g DW,g/100 g DW
+2,Sweet Lady (SL),,,,,
+3,Beitem (BE1),75.19  1.30abc,8.30 1.07ab,0.56  0.42ab,8.86  1.22ab,84.04  0.73bcd
+4,Herent (BE2),74.71  2.72abc,7.47  1.51ab,0.42  0.10a,7.89  1.52ab,82.60  2.01abcd
+5,Arras (FR1),75.99  1.33ab,7.38  1.40 ab,0.41  0.27a,7.79  1.65ab,83.78 0.88abcd
+6,Graincourt (FR2),78.08  1.29 b,6.68  0.79 ab,0.40  0.08a,7.08  0.86a,85.16  1.08 cd
+7,Flexine (FLX),,,,,
+8,Beitem (BE1),75.95  0.27ab,7.30  1.38 ab,0.33  0.04a,7.62  1.42a,83.58  1.23abcd
+9,Herent (BE2),73.05  1.03ac,7.49  1.49 ab,0.65  0.21a,8.14  1.70ab,81.19  2.48ab
+10,Arras (FR1),74.76  0.45abc,7.34 1.01 ab,0.34  0.07a,7.69  0.95a,82.44  0.58abcd
+11,Graincourt (FR2),75.58  1.58abc,7.12  1.51 ab,0.40  0.22a,7.52  1.40a,83.11  0.65abcd
+12,Vintor (VTR),,,,,
+13,Beitem (BE1),73.63  0.25ac,8.95  0.34 ab,0.33  0.08a,9.28  0.39ab,82.91  0.64abcd
+14,Herent (BE2),71.98  1.01 c,8.27  0.31 ab,0.480.04ab,8.75  0.28ab,80.73  0.91a
+15,Arras (FR1),73.72  0.35ac,7.24  0.86 ab,0.73  0.30abc,7.98  0.56ab,81.70  0.37ab
+16,Graincourt (FR2),75.32  0.28abc,7.01 0.41 ab,0.30  0.07a,7.32  0.48a,82.64  0.41abcd
+17,Laurine (LAU),,,,,
+18,Beitem(BEl,74.97  1.43ab,8.68  1.37 ab,0.74  0.03bc,9.42  1.39ab,84.39  0.33c
+19,Herent (BE2),73.30  2.12ac,9.67  0.70b,0.34  0.10a,10.01 0.71ab,83.31 1.42abcd
+20,Arras (FR1),75.15  1.52abc,6.75  1.27 ab,0.44  0.10a,7.19  1.30a,82.34  0.88abcd
+21,Graincourt (FR2),75.18 0.81abc,6.55  0.74a,0.35  0.14a,6.89  0.60a,82.08  0.76abd
+22,Mixes,,,,,
+23,Mix 1,74.12  0.17ac,7.79  0.39 ab,0.69  0.32abc,8.49  0.63ab,82.60  0.47abcd
+24,Sweet Lady/All locations,,,,,
+25,Mix 2,72.74  0.26ac,9.75  0.43b,1.17  0.07c,10.92  0.39b,83.65  0.59abcd
+26,All cultivars/Beitem,,,,,
+27,Mix 3,74.80  0.10abc,6.97  0.33 ab,0.46  0.02a,8.26  0.63a,82.22  0.43abcd
+28,"All cultivars/Arras, Graincourt",,,,,
+29,Mix 4,74.71  0.72abc,7.80  0.67 ab,0.71  0.43a,7.42  0.35ab,82.96  0.31abcd
+30,"All cultivars/Beitem, Herent",,,,,
+31,Mix 5,75.10  0.26abc,8.01 0.51 ab,0.49  0.08ab,8.50  0.44ab,83.61  0.65abcd
+32,All cultivars/All locations,,,,,

@@ -1,0 +1,44 @@
+,0,1,2,3
+0,Reference,Foodstuffs,Vitamin D,25OHD
+1,Mattila et al.1995a,"Beef,chuck",<0.05,0.05
+2,,"Beef,steak",<0.05,0.08
+3,MAFF (1997),"Beef,minced",0.2,0.10
+4,Montgomery,"Beef,strip",0.41,0.14
+5,et al.2000,loin steak,,
+6,,"Beef,top round",0.28,0.13
+7,,steak,,
+8,Montgomery,"Beef, strip loin",0.95,0.41
+9,et al.2002,steak,,
+10,Foote et al.(2004),"Beef,steak",0.11,0.09
+11,,infraspinatus,,
+12,,"Beef,steak",0.11,0.17
+13,,longissimus dorsi,,
+14,,"Beef,steak",0.08,0.14
+15,,semimembranous,,
+16,Montgomery,"Beef,longissimus",0.53,0.03
+17,et al.2004,muscle,,
+18,Wertz et al.2004,"Beef,muscle",,0.09
+19,Purchas et al.2007,"Beef,rump mince",0.13,
+20,,"Beef,shoulder roast",0.10,
+21,,"Beef,strip loin",0.11,
+22,,"Beef, topside roast",0.09,
+23,Mattila et al.1995a),"Pork,Boston butt",0.34,0.07
+24,,(shoulder),,
+25,,"Pork,fillet",0.11,<0.06
+26,,(tenderloin),,
+27,MAFF (1997),"Pork, leg joint",0.3,0.11
+28,Clausen et al.2003,"Pork,leg inside",0.05,0.07
+29,,"Pork,loin",0.15,0.09
+30,,"Pork,neck",0.16,0.13
+31,,"Pork, thin belly",0.21,0.14
+32,,(side ribs),,
+33,Jackson etal.1982,"Eggs,whole",1.6,
+34,Sivell et al.1982,"Eggs,whole",0.8-1.4,
+35,MAFF(1997),"Eggs, whole",1.1,0.10
+36,DTU(2007),"Eggs,whole",1.75,
+37,Health Canada(2007a,"Eggs,whole",1.44,
+38,USDA (2007),"Eggs,whole",0.88,
+39,Mattila et al.1995a),Chicken,0.29,0.25
+40,DTU(2007),Chicken,0.20,
+41,USDA(2007),"Pink salmon, canned,",11.7,
+42,,drained solid,,

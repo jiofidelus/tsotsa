@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Sampling occasions (no.),1,1,6,3,3,3
+1,Regions per one sampling (no.),1,1,1,1,4,7
+2,Total number of samples (no.),1,,6,3,12,21
+3,Number of analysis (no.),1,2,2,2,2,2
+4,Estimated cost(US dollars),35,35,210,105,150,195
+5,Standard error of the mean divided by the standard deviation of a samplea,1,0.996,0.166,0.333,0.158,0.131
+6,Cost performance factorb,1,1.004,1.004,1.004,1.497,1.374

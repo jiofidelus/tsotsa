@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7
+0,code,dry matter (%),aw,pH,% protein (N  6.25),protein sourcea,carbohydratesb,carbohydratesb
+1,Infant formula without prebiotics,Infant formula without prebiotics,,,,,,
+2,conventional,,,,,,,
+3,L1 (S),95.4  0.5,0.15,6.74,9.6  0.2,whey protein,lactose,
+4,L2 (S),96.1  0.0,0.11,6.93,10.10.0,whey protein,lactose MDX,lactose MDX
+5,L3 (F),96.1  0.0,0.12,6.83,12.1  0.0,whey protein hydrolysate,"lactose, starch","lactose, starch"
+6,L4 (F),98.3  0.0,0.14,6.70,16.0  0.1,milk protein,"lactose, MDX","lactose, MDX"
+7,without lactose,,,,,,,
+8,LF 1(S),96.8  0.0,0.13,6.67,10.4  0.2,milk protein,MDX,
+9,LF 2(F),98.9  0.0,0.07,6.74,11.1  0.1,milk protein,MDX,
+10,LF3 (S),98.9  0.0,0.13,7.12,12.1  0.5,soy protein,MDX,
+11,LF4 (S),97.3  0.1,0.11,6.83,12.1  0.3,soy protein,MDX,
+12,Infant formula with prebiotics,Infant formula with prebiotics,,,,,,
+13,with fructooligosaccharides,with fructooligosaccharides,,,,,,
+14,PFOS1 (S),96.8  0.0,0.21,6.89,9.8  0.0,whey protein,"lactose, FOs/inulin","lactose, FOs/inulin"
+15,PFOS2 (F),96.6  0.2,0.17,6.80,12.8  0.0,whey protein,"lactose, FOS/inulin","lactose, FOS/inulin"
+16,PFOS3 (S),97.7  0.4,0.11,6.96,11.6 0.4,whey protein,"without lactose, FOS","without lactose, FOS"
+17,with galactooligosaccharides,with galactooligosaccharides,,,,,,
+18,PGOS2 (F),97.8  0.2,0.10,7.04,10.6  0.0,whey protein,"lactose, GOSe","lactose, GOSe"
+19,PGOS2 (F),97.8  0.2,0.16,7.22,10.4 0.1,whey protein,"lactose, GOS, MDX","lactose, GOS, MDX"
+20,PGOS3 (F),96.5  0.2,0.13,7.00,10.3  0.5,whey protein,"lactose,","GOS, MDX"
+21,PGOS4 (S),94.5  0.6,0.12,6.92,0.2,whey protein,"lactose,","GOS, MDX"
+22,PGOS5 (F),94.5  0.6,0.13,6.83,0.2,whey protein,"lactose,","GOS, MDX"
+23,PGOS6 (S),96.7  0.4,0.15,7.13,0.1,milk protein,"lactose,","GOS, MDX"
+24,PGOS7 (S),96.6  0.4,0.13,7.16,0.0,"whey protein, amino acids","lactose GOS, MDX","lactose GOS, MDX"
+25,with GOS and FOS (all samples were follow-up),with GOS and FOS (all samples were follow-up),,,,,,
+26,PGOS/FOS1,96.5  0.2,0.20,6.91,9.2  0.0,whey protein hydrolysate,"lactose, GOS/FOS","lactose, GOS/FOS"
+27,PGOS/FOS2,98.5  0.1,0.14,7.12,9.6  0.1,whey protein,"lactose, GOS/FOS, MDX","lactose, GOS/FOS, MDX"
+28,PGOS/FOS3,95.0  0.5,0.28,6.80,8.3  0.3,whey protein,"lactose GOS/FOS,MDX","lactose GOS/FOS,MDX"
+29,PGOS/FOS4,95.6  0.8,0.24,6.68,9.3  0.2,whey protein,"lactose, GOS/FOS, MDX","lactose, GOS/FOS, MDX"
+30,PGOS/FOS5,98.4  0.2,0.11,6.99,11.2  0.3,amino acids,"lactose, GOS/FOS, MDX","lactose, GOS/FOS, MDX"
+31,PGOS/FOS6,97.5  0.8,0.14,7.23,12.3  0.2,whey protein,"lactose, GOS/FOS, MDX","lactose, GOS/FOS, MDX"

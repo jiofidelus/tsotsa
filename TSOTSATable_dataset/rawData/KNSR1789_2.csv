@@ -1,0 +1,6 @@
+,0,1,2,3
+0,Sample,Ingredients,Leavening time (h),Baking time (min)
+1,Wheat bread,"White wheat bread flour (ash content 0.6%),water,yeast, NaCl",0.75,25
+2,Sourdough wheat bread,"White wheat bread flour (ash content 0.6%,water,yeast, rye sourdough, NaCl",20,25
+3,Wholegrain rye bread,"Wholegrain rye flour (ash content 1.6%,water,rye sourdough,NaCl",23,60
+4,Barley porridge,"Barley grits,water,salt",-,180

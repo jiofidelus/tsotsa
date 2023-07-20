@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,,Repeatability,Repeatability,,Dextrose,Erythritol,Erythritol,Erythritol,Sucrose,Sucrose,Sucrose
+1,,,Repeatability,Repeatability,,Matrix,,Matrix,,,Matrix,
+2,,,CC,ERETIC2,CC,ERETIC2,CC,ERETIC2,ERETIC2,CC,ERETIC2,ERETIC2
+3,,m*,4.37,4.37,4.39,4.42,4.38,,4.37,4.38,,4.40
+4,,b*,-0.92,0.05,0.06,-0.03,-0.42,,0.15,-0.29,-0.03,-0.03
+5,CH18),R2,1.000,1.000,0.998,0.999,0.999,0.999,1.000,0.998,0.998,1.000
+6,,m*,1.45,1.46,1.44,1.46,1.44,,1.44,1.47,,1.47
+7,,b*,0.21,0.00,0.09,0.03,-0.09,,0.08,-0.11,-0.02,-0.02
+8,OH(OGD2,R2,1.000,1.000,0.999,1.000,0.999,0.999,0.999,0.998,0.998,0.999

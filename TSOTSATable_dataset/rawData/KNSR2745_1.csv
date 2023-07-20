@@ -1,0 +1,23 @@
+,0,1,2,3,4
+0,Peak,Compound,tR(min),[M-H],Fragment
+1,,,,,ions (m|z)
+2,1,5-Galloylquinic acid,4.97,343,"191,169"
+3,2,Gallic acid,5.31,169,125
+4,3,Theobromine,6.54,305,125
+5,4,Gallocatechin,6.95,305,"261,219,139,125"
+6,5,Epigallocatechin,9.05,305,"261,219, 139, 125"
+7,6,Catechin,10.57,289,"245,205"
+8,7,Caffeine,11.04,195a,138
+9,8,Epicatechin,12.34,289,"245,205"
+10,9,Epigallocatechin gallate,12.50,457,"305,287, 169, 125"
+11,10,Gallocatechin gallate,12.94,457,"305,287, 169, 125"
+12,11,Vitexin-2-O-rhamnoside,13.24,577,"413,293"
+13,12,Mirycetin-3-O-galactoside,13.80,479,317
+14,13,Mirycetin-3-O-glucoside,14.00,479,317
+15,14,Rhamnosylvitexin isomer,14.75,577,"413,293"
+16,15,Quercetin-3-rutinoside,15.00,609,301
+17,16,Quercetin-3-O-galactoside,15.82,463,301
+18,17,Epicatechin gallate,16.05,593,"289,271,169,125"
+19,18,Kaempferol-3-O-rutinoside,16.59,593,285
+20,19, Kaempferol-3-0-galactoside,17.11,447,285
+21,20,Kaempferol-3-0-glucoside,17.63,447,285

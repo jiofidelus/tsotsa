@@ -1,0 +1,56 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,Product information,Product information,,,,,,,,
+1,code,Brand,Price (RMB,Claimed species,Place of,Production method,code,LAMP,570,327 bp,242 bp
+2,code,code,*),identity #,origin,Production method,code,LAMP,bp,327 bp,242 bp
+3,XW1,PM1,105 g,Yu/Tuna,Taiwan,,XW1-1,,,Thunnus spp.,
+4,XW2,PM2,35/package, Jin Qiangyu,China,,XW2-1,,,platypterus,
+5,XW2,PM2,110g, Jin Qiangyu,mainland,,XW2-2,,,Tetrapturus spp,
+6,XW3,PM1,(200 g),Yu/Tuna,Taiwan,,XW3-1,,,,
+7,XW4,PM3,(300 g),Yu,Taiwan,,XW4-1,,,,
+8,,,26/package,T. albacores,China,,,,,Thunnus spp.,
+9,XW5,PM4,100 g,T. albacores,mainland,,XW5-1,,,,
+10,XW6,PM5,150 g, Jin Qiangyu,mainland,,XW6-1,,,,
+11,XW7,PM6,200g,Tuna,Taiwan,,XW7-1,,, Makaira spp.,
+12,XW8,PM1,112/package,Jin Qiangyu/Wei,Taiwan,,XW8-1,,,,
+13,XW8,PM1,300 g,Yu,Taiwan,,XW8-1,,,,
+14,XW9,PM7,(200 g),Tuna,Taiwan,,XW9-1,,,,
+15,XW10,PM8,package (80, Jin Qiangyu/,China,,XW10-1,,,Thunnus spp.,
+16,XW10,PM8,g),Tuna,mainland,,XW10-1,,,,
+17,XW11,PM9,(100g),Jin Qiangyu,mainland,,XW11-1,,,,
+18,XW12,PM1,53/package,Jin Qiangyu/Wei,Taiwan,,XW12-1,,,,
+19,XW12,PM1,(200 g),Yu/Tuna,Taiwan,,XW12-2,,, Sarda spp.,
+20,,,29.8/, Jin Qiangyu/,China,NM #,,ND#,,,
+21,XW13,PM10,package(100,Tuna,mainland,,XW13-1,,,Thunnus spp.,
+22,,,g),Tuna,mainland,,,,,,
+23,XW14,PM9,49/package,Jin Qiangyu,China,,XW14-1,,,Scomber,
+24,XW14,PM9,100 g,Jin Qiangyu,mainland,,XW14-1,,,scombrus,
+25,XW15,PM11,38/package, Jin Qiangyu/,China,,XW15-2,,,Fail #,
+26,XW15,PM11,156 g,Tuna,mainland,,XW15-3,,,Fail #,
+27,,,28.8/,,China,,XW16-1,,NA,Scomber,
+28,XW16,PM12,package (138,Jin Qiangyu,mainland,,XW16-2,,NA,scombrus,
+29,,,g),,mainland,,XW16-3,,,Fail,
+30,,,33.5/,,China,,XW17-1,,,,
+31,XW17,PM13,package(115,Jin Qiangyu,mainland,,XW17-1,,,,
+32,,,g),,mainland,,,,,,
+33,XW18,PM14,280 g), Jin Qiangyu/,Taiwan,,XW18-1,,,Thunnus spp.,
+34,XW18,PM14,280 g),Tuna,Taiwan,,XW18-1,,,,
+35,XW19,PM14,280 g,Tuna,Taiwan,,XW19-2,,,,
+36,,,21.5/can,,China,,XJ1-1,,,,Fail
+37,XJ1,PM15,500 g, Jin Qiangyu,mainland,,XJ1-2,,,, Makaira
+38,,,500 g,,mainland,,XJ1-2,,,,spp.
+39,XJ2,PM16,10/can (185, Jin Qiangyu/,China,,XJ2-1,,,,
+40,XJ2,PM16,g),Tuna,mainland,,XJ2-2,,,,Fail
+41,XJ3,PM17,g),Tuna,mainland,,XJ3-2,,,,
+42,,,11.5/can, Jin Qiangyu/Tun,Thailand,,XJ4-1,,,, Makaira
+43,XJ4,PM18,100 g,Nayu/Tuna,Thailand,,XJ4-2,,,,spp.
+44,,,11/can (80, Jin Qiangyu/,,"Wild capture,FAO 71/",XJ5-1,K. pelamis,,,
+45,XJ5,PM19,g),Tuna/K. pelamis,Spain,77/81/87/51/57/34/,XJ5-2,ND,,,
+46,,,g),Tuna/K. pelamis,,41/47,XJ5-2,ND,,,
+47,XJ6,PM20,g),Tuna/K. pelamis,Thailand,61/71,XJ6-2,K.pelamis,,NA,
+48,XJ7,PM4,180 g), Jin Qiangyu,mainland,NM,XJ7-2,,,,
+49,XJ8,PM21,g), K. pelamis,South Korea,Pacific,XJ8-2,,,,Fail
+50,XJ9,PM22,g),T. alalunga,Spain,,XJ9-2,ND,,,
+51,XJ10,PM23,16/can (185, Jin Qiangyu/,China,,XJ10-1,,,,
+52,XJ10,PM23,g),Tuna,mainland,NM,XJ10-1,,,,
+53,XJ11,PM24,115 g,Tun Nayu/Tuna,Thailand,,XJ11-1,,,,
+54,XJ12,PM25,185g,Tuna,Thailand,,XJ12-1,,,,

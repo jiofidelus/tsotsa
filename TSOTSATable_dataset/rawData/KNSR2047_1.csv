@@ -1,0 +1,29 @@
+,0,1,2,3,4
+0,Symbol,Honey type/brand/producer,Country of origin,KYNA(g/g)meanSDp<0.05,KYNA(g/g)meanSDp<0.05
+1,,,,,VS
+2,A,Chestnut honey/Miele di Castagnio biologico [1],Italy,60145.3,"C,D,E,F,G,H,IJ,K,L,M,N,O,P,Q,R,S,T,U,V,W,X"
+3,B,Chestnut honey/Miod kasztanowy [2],Italy,576  43.1,"D,E,F,G,H,IJ,K,L,M,N,O,P,Q,R,S,T,U,V,W,X"
+4,C,Chestnut honey/Chataignier - Pure Chestnut Tree Honey [3],France,526  46.3,"A,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X"
+5,D,Chestnut honey/Kastanie [4],Germany/Italy,30510.4,"A,B,C,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X"
+6,,,France,,
+7,E,Chestnut honey/Organic honey from chestnut tree [5],Greece,129  7.20,"A,B,C,D,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,"
+8,,,,,X
+9,F,Pine honey/Miod piniowy [2],Turkey,14.21.26,"A,B,C,D,E"
+10,G,Eucalyptus honey/Miele di Eucalipto [1],Italy,11.30.53,"A,B,C,D,E"
+11,H,Honey made from Pueblo plants/Miod z roslin z Pueblo [2],Mexico,3.46  0.325,"A,B,C,D,E"
+12,1,Sunflower honey/Miele di girasole [6],Italy,1.730.135,"A,B,C,D,E"
+13,J,Fir honey/Miod BIO jodta [5],Greece,1.060.064,"A,B,C,D,E"
+14,K,Clover honey/Miele di trifoglio [6],Italy,0.7460.073,"A,B,C,D,E"
+15,L,Orange honey/Orange honey[7],Greece,0.6090.035,"A,B,C,D,E"
+16,M,Linden honey/Miod lipowy [8],Poland,0.3910.021,"A,B,C,D,E"
+17,N,Clover honey/Miod koniczynowy [2],Argentina,0.3420.017,"A,B,C,D,E"
+18,0,Buckwheat honey/Miod gryczany [9],Poland,0.329  0.032,"A,B,C,D,E"
+19,P,Orange honey/Miod pomaranczowy [2],Spain,0.273 0.022,"A,B,C,D,E"
+20,Q,Sulla honey/Miele di sulla [6],Italy,0.2220.011,"A,B,C,D,E"
+21,R,Linden honey/Miod lipowy [9],Poland,0.1770.008,"A,B,C,D,E"
+22,S,Lavender honey/Miod lawendowy [2],France,0.1470.007,"A,B,C,D,E"
+23,,Thyme honey [7],Greece,0.1430.007,"A,B,C,D,E"
+24,U,Multiflorous honey [7],Greece,0.1240.005,"A,B,C,D,E"
+25,V,Honeydew honey/Miod spadziowy [10],Poland,0.122 0.008,"A,B,C,D,E"
+26,W,Lucerne honey/Miele di medica [6],Italy,0.1010.004,"A,B,C,D,E"
+27,X,Multiflorous honey/Miele di Millefiori [6],Italy,0.0930.005,"A,B,C,D,E"

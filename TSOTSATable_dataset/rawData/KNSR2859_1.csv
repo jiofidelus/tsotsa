@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,Type of,Geographical,Organic matter (mg,pH,Conductivity (S,Gravel,Coarse,,,Clay
+1,,habitat,coordinates,C/g dry weight),pH,cm-,(%),sand (%),Fine,Silt (%),(%)
+2,,,,,,,,sand (%),sand (%),,(%)
+3,El Toyo,Sandy,36.835718/,23.8  15.3a,9.5 ,525.5 523.0ab,13.5 ,83.8 ,4.7 ,7.7 ,3.7 
+4,,beach,2.325802,,0.4a,,14.7b,20.6a,4.7b,10.1a,6.5a
+5,Los,Rocky,36.956220/,31.4  25.9a,9.8 ,466.4  249.8b,75.9 ,88.8  7.8a,3.0 ,6.8 ,1.4 
+6,Muertos,beach,-1.899545,,0.3a,,2.6 ,,3.2ab,4.2a,1.1a
+7,Calblanque,Cliffs,37.602117/,51.2  29.2b,9.5 ,160.0  78.5a,2.6 ,93.01 ,2.1 ,3.4 ,1.4 
+8,,,-0.731187,,0.5a,,4.1ab,3.8a,2.2ab,1.7a,1.3a
+9,Roche,Sandy,36.314138/,20.2  9.8a,9.4 ,168.8  116.8a,0.3 ,94.8  2.9a,1.1,2.8 ,1.3 
+10,,beach,-6.153952,,0.3a,,0.5a,,1.0a,1.5a,0.9a

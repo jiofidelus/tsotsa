@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,Technique,Sensing materials,Sensitivity,Response,References
+1,,,,time (s),
+2,Electrochemical,Zirconia,0.071,,Sumana et
+3,,,uA/mM/cm2,,al.2010
+4,Conductometric,Natural zeolite,20.36,45-70,Saiapina
+5,,clinoptilolite,uS/mM,,et al. 2011
+6,Amperometric,Rhodinized PAN,1.85,15,Velichkova
+7,,membranes,A/mM/cm2,,et al.2011
+8,Potentiometric,Chitosan/cobalt,45,12,Buron et
+9,,oxide (CS/Co3O4),mV/decade,,al. 2014
+10,Electrochemical,Gold nanoparticles,9.212,,Liu et al.
+11,,,uA/mM,,2020
+12,Fiber optic sensor,ZnO nanorods,0.084,5-7,Present
+13,,,nm/mM,,work

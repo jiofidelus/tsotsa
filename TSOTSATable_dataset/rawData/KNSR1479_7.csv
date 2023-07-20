@@ -1,0 +1,56 @@
+,0,1,2,3,4,5
+0,Analyte,Matrix,Lowest value,Highest value,No.of,Material
+1,,,(mg/kg),(mg/kg),materials,
+2,B,Food products,0.1,41.6,34,"Vegetable,diet,milk powder"
+3,,Water,0.01,9.88,6,Ground-and drinkingwater
+4,Ca,Clinical materials,85,286,14,"Serum, urine, animal blood"
+5,,Food products,0.33,416000,111,"Animal tissue,vegetable,milk powder,die"
+6,,Water,0.08,220,21,"Ground-, drinking-, and rainwater"
+7,C1,Clinical materials,3159,440,6,"Serum, urine"
+8,,Food products,31,75000,73,"Vegetable,flour,animal tissue"
+9,,Water,0.3,49.8,13,"Ground-, drinking-, and rainwater"
+10,Co,Clinical materials,0.012,0.0035,18,"Serum, urine, blood, plasma"
+11,,Food products,0.0012,0.94,60,"Animal tissue,flour, diet,vegetable"
+12,,Water,0.00022,0.3,6,"Ground-, drinking-, and rainwater"
+13,Cu,Clinical materials,0.0127,4.3,88,"Serum,urine,plasma"
+14,,Food products,0.06,277,110,"Animal tissue, vegetable,milk powder, diet"
+15,,Water,0.0062,45.7,9,"Ground-,drinking-, and rainwater"
+16,F,Clinical materials,0.001,5.7,46,"Serum, urine"
+17,,Food products,0.02,1250,18,"Flour,corn, milk powder,tea"
+18,,Water,0.063,1.01,7,Drinking- and rainwater
+19,Fe,Clinical materials,0.04,2400,10,"Serum, urine, plasma, blood"
+20,,Food products,1.78,2400,107,"Animal tissue,vegetable,milk powder,diet"
+21,,Water,0.018,3.02,9,"Ground-, drinking-, and rainwater"
+22,1,Clinical materials,0.0525,0.258,3,Urine
+23,,Food products,0.0009,154,30,"Flour, salt, milk powder, diet"
+24,K,Clinical materials,81,2620,12,"Serum, urine"
+25,,Food products,45,196000,111,"Animal tissue,vegetable,milk powder,die"
+26,,Water,0.092,12.8,21,"Ground-, drinking-, and rainwater"
+27,Li,Clinical materials,0.0023,14.6,8,"Serum, plasma"
+28,,Food products,0.02,23,6,"Flour,tea, tobacco"
+29,,Water,0.00059,0.71,6,"Ground-, drinking-, and rainwater"
+30,Mg,Clinical materials,0.014,99,15,"Serum, urine,plasma,animal blood"
+31,,Food products,0.4,39000,106,"Animal tissue,vegetable,flour, diet"
+32,,Water,0.054,23.9,20,"Ground-, drinking-, and rainwater"
+33,Mn,Clinical materials,0.0011,0.33,44,"Serum, urine, plasma, blood"
+34,,Food products,0.1,2170,107,"Animal tissue, vegetable, milk powder, diet"
+35,,Water,0.0061,0.79,10,"Ground-, drinking-, and rainwater"
+36,Mo,Clinical materials,0.02,0.02,1,Bovine serum
+37,,Food products,0.02,236,45,"Animal tissue, vegetable, milk powder, diet"
+38,,Water,0.00017,1.03,6,Ground- and rainwater
+39,N,Food products,670,146800,69,"Animal tissue,vegetable, flour"
+40,,Water,0.44,0.66,3,"Ground-, drinking-, and rainwater"
+41,Na,Clinical materials,2375,3243,12,"Serum, urine"
+42,,Food products,2.2,46000,103,"Animal tissue,vegetable,milk powder,diet"
+43,,Water,0.17,61.5,21,"Ground-, drinking-, and rainwater"
+44,P,Clinical materials,76,940,4,"Serum, urine, animal blood"
+45,,Food products,1.07,214000,84,"Animal tissue,vegetable,milk powder,diet"
+46,,Water,0.005,1.12,4,Ground- and drinkingwater
+47,S,Clinical materials,434,6500,4,"Serum, urine, animal blood"
+48,,Food products,0.85,73200,46,"Animal tissue,vegetable, milk powder, diet"
+49,Se,Clinical materials,0.03,0.987,97,"Serum, urine,plasma"
+50,,Food products,0.009,10.3,86,"Animal tissue,vegetable, milk powder, diet"
+51,,Water,0.00074,0.32,7,Ground- and drinkingwater
+52,Zn,Clinical materials,0.1,13,64,"Serum, urine, plasma"
+53,,Food products,0.22,1424,119,"Animal tissue,vegetable,milk powder, diet"
+54,,Water,0.0111,5.01,9,"Ground-, drinking-, and rainwater"

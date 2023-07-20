@@ -1,0 +1,7 @@
+,0,1,2,3,4
+0,Day,Normal corn diet,High unsaturated fatty acid diet,Standard error,Significance pb
+1,0,1.0a,1.0a,0.067,1.0000
+2,3,1.1a,1.0a,0.067,0.9644
+3,5,1.3b,1.4b,0.067,0.6230
+4,7,3.2b,3.0b,0.067,0.0691
+5,9,4.4b,4.4b,0.067,0.9566

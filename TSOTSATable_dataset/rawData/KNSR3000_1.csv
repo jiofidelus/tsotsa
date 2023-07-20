@@ -1,0 +1,20 @@
+,0,1,2,3,4
+0,,,Sample3,,
+1,Physicochemical property,,,,
+2,,,FS,BS,MS
+3,Moisture contents (%,,90.4,86.5,84.4
+4,,,0.011c2,0.01b,0.02a
+5,,Lightness(L*),42.9 ,45.1 ,40.8
+6,,Lightness(L*),2.62b,3.00c,3.60a
+7,Color value,Redness(a*),37.3,32.7 ,32.1 
+8,Color value,Redness(a*),1.56b,2.60a,2.93a
+9,,Yellowness,28.4 ,23.1 ,23.6 
+10,,b*),3.52b,3.04a,3.63a
+11,,Hardness,"14,700",5910,5210
+12,Texture (g/cm2),Hardness,4070b,2810a,2210a
+13,Texture (g/cm2),Strength,1300,871 ,902 
+14,,Strength,296b,162a,276a
+15,,Bacteria,1.38,2.55 ,6.03 
+16,Microorganism (log,Bacteria,0.18a,0.35b,1.18c
+17,CFU/g),Mold and,1.96 ,3.57 ,6.31 
+18,,yeast,0.14a,0.23b,0.92c

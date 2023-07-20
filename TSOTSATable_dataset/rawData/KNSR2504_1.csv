@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7
+0,,Ca,,Cu,Mg,Mn.,Ni,Zn
+1,Wavelength (nm),422.7,422.7,324.8,285.2,279.5,232.0,213.9
+2,Slit width (nm),0.7,0.7,0.7,0.7,0.2,0.2,0.7
+3,Lamp current (mA),10,10,15,6,20,25,15
+4,Air flow rate (L min-i,15.5,15.5,15.5,15.5,15.5,15.5,15.5
+5,Acetylene flow rate,,,,,,,
+6,(Lmin-i),,2,2,2,2,2,2
+7,Aspiration rate (mLmin-i,,4,4,4,4,4,4
+8,Expansion hollow,,,,,,,
+9,cathode lamp,-,,,,,x5,-
+10,Spoiler,Yes,Yes,No,Yes,No,No,Yes
+11,Impact ball,No,No,Yes,No,Yes,Yes,No
+12,Background correction,,,,=,,Co(232.0 nm),

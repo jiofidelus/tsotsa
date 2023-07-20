@@ -1,0 +1,9 @@
+,0,1,2,3,4
+0,Item,Purity (%),Quantity,Tolerance (manufacturer's,Precision (s.D. of 12-month
+1,,,,specification),performance (n = 10)
+2,Analytical balance,,20 g,2.1  10-4 g,9.19 x 10-5 g
+3,Volumetric flask,,10 mL,0.025 mL*,0.0087mL#
+4,,,25 mL,0.040mL*,0.0113 mL#
+5,Autopipette,,1000 L,8uL*,4.2 L#
+6,"BHA,DG,OG,PG",98,,,
+7,BHT,99,,,

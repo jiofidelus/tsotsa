@@ -1,0 +1,20 @@
+,0,1,2,3,4
+0,Year,Type,Cultivar,Ascorbic acid,
+1,,,,g/g of fresh weight,
+2,,,,Immature,Mature
+3,2008,Habanero,TMH,273.17.9g,1446.737.2
+4,,Cayenne,CA408,655.62.4c,2305.3 34.2b
+5,,Cayenne,Mesilla,569.05.9d,1439.128.3d
+6,,Jalapenio,Ixtapa,375.2 22.6e,1190.623.0e
+7,,Jalapenio,TMJ,318.711.9f,782.019.6f
+8,,Paprika,PA137,1040.4 2.26b,2517.213.3a
+9,,Paprika,B58,1373.013.69a,1885.821.9c
+10,,Serrano,Tuxtlas,367.79.45e,1301.84.21de
+11,2009,Habanero,TMH,479.14.0d,1512.216.8
+12,,Cayenne,CA408,583.5  4.5c,2535.622.7b
+13,,Cayenne,Mesilla,303.033.4e,1274.89.8e
+14,,Jalapenio,Ixtapa,290.2  32.5e,905.3 6.5f
+15,,Jalapenio,TMJ,271.7  4.3e,693.5 0.978
+16,,Paprika,PA137,814.8  24.4b,2458.440.6
+17,,Paprika,B58,929.1817.6a,2817.216.2a
+18,,Serrano,Tuxtlas,195.5  3.2f,1324.724.7e

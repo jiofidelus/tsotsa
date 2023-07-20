@@ -1,0 +1,34 @@
+,0,1,2,3,4
+0,,Diosgenin Content (%),Protein content (%,Protein content (%,Protein content (%
+1,Genotypes/,,,,
+2,cultivars,Dryland,Irrigated,,Dryland
+3,,conditions,conditions,,conditions
+4,Berkem,0.81a-e,28.01ab,,27.32abc
+5,Ciftci,0.90a-e,19.70h,,27.68ab
+6,Giirarslan,0.91a-e,21.66fgh,,27.31abc
+7,PI 173820,1.06a-d,21.19gh,,25.84a-f
+8,PI 194020,0.98a-e,22.32e-h,,29.37a
+9,PI 215615,1.19ab,22.90d-h,,28.15ab
+10,PI 251640,0.70a-e,22.26e-h,,28.24ab
+11,PI 286532,0.88a-e,20.65gh,,26.82a-d
+12,PI 296394,0.72a-e,20.26gh,,27.33abc
+13,PI 302448,1.11abc,19.16h,,24.44b-g
+14,PI 302449,0.57b-e,20.31gh,,30.09a
+15,PI 381062,1.08a-d,21.61fgh,,27.90ab
+16,PI 426971,0.89a-e,20.62gh,,26.51a-e
+17,PI 426973,0.81a-e,21.65fgh,,29.45a
+18,PI 469264,0.65b-e,19.46h,,28.15ab
+19,PI 568215,0.57b-e,21.61fgh,,28.68ab
+20,PI 572538,0.70a-e,21.60fgh,,28.99a
+21,PI 613633,0.61b-e,23.23c-h,,26.22a-e
+22,PI 617076,0.59b-e,19.81h,,28.35ab
+23,PI 639185,1.09a-d,21.43gh,,27.84ab
+24,PI 660995,0.81a-e,19.95h,,28.84a
+25,Mean,0.84,21.40,,27.79
+26,dryland),0.74,,24.60,
+27,Firrigated/dryland,6.15,,0.94,
+28,Fgenotype/cultivar,0.66,,186.99,186.99
+29,Fgenotype/,,,,
+30,cultivarxirrigated/,1.07*,,1.12*,
+31,dryland,,,,
+32,LSD (5%),0.74,,4.32,

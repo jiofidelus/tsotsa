@@ -1,0 +1,19 @@
+,0,1,2,3
+0,Product,Number of samples,Product mean (mg/kg),Product range (mg/k)
+1,Butter,20,<0.04,<0.04-0.04
+2,Cheese-cottage,20,0.10,0.05-0.23
+3,Cheese-cream,20,0.20,0.07-0.58
+4,Cheese-cheddar,20,0.08,0.05-0.16
+5,Cream,20,0.07,<0.04-0.14
+6,Dairy dessert,20,0.09,0.05-0.20
+7,ce creama,18,0.14,0.05-0.26
+8,Milk powderb,20,0.10,0.05-0.16
+9,"Milk,flavoureda",18,0.09,<0.04-0.37
+10,Milk.trim,20,0.09,0.04-0.15
+11,"Milk,UHT,flavoureda",10,0.06,<0.04-0.11
+12,"Milk,UHT,trim",8,0.09,0.04-0.17
+13,"Milk,UHT,standard",11,0.12,0.05-0.32
+14,"Milk, standard",20,0.09,0.04-0.25
+15,Sour cream,20,0.08,<0.02-0.20
+16,Yoghurt,20,0.09,0.06-0.12
+17,Soy drink,11,0.08,<0.02-0.20

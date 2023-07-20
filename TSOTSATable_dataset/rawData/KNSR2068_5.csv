@@ -1,0 +1,36 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Compound,%Ra (RSD %)),,Compound,% Ra (RSD (%)),,Compound,% Ra (RSD (%)),,Compound,% Ra (RSD (%)),
+1,,LOQ,10LOQ,,LOQ,10LOQ,,LOQ,10LOQ,,LOQ,10LOQ
+2,Acrinathrin,8713,99 (17),Diflufenican,104 (9),103 (5),Furatiocarb,100(7),102 (12),Pyridaben,100 (14),103 (9
+3,Aldrin,86 (14),99 (17),Disulfoton,104 (9),100(8),Heptachlor,100(7),1068,Pyrimethanil,100 (14),106 (10)
+4,Atrazine,100 (14),100 (20),Endosulfan I,94 (18),102 (16),Heptachlor,88(19),102 (18),Pirimicarb,96 (6),98 (18)
+5,,,,,88 (5,,epoxide,11613),,,96 (6),
+6,Azinphos ethyl,11017),103 (15,Endosulfan II,88 (5,106 (13),Heptenophos,11613),85 (15,Pirimiphos,106 (8),97(18
+7,,98(11,101(17,,85(8),95 (14),,10611,105 (11,methyl,,
+8,Azoxystrobin,100 (12),106 (17),Endrin,102 (4),103 (12),Hexaconazole,88 (10),94 (20),Pyriproxyfen,102 (8),105 (18)
+9,Benalaxyl,100 (12),106 (17),Endrin,102 (4),103 (12),Iprodione,88 (10),94 (20),Procymidone,102 (8),101 (13)
+10,Bifenthrin,94 (12),104 (13),Esfenvalerate,98 (9),103 (11),Isofenphos,104 (11),102 (16),Propiconazole,85 (16),81 (15)
+11,Bifenthrin,94 (12),104 (13),Esfenvalerate,84 (14),103 (11),Isofenphos,104 (11),102 (16),Propoxur,106 (5,81 (15)
+12,Bitertanol,104 (5),112 (14),Ethiofencarb,90 (19),78 (9),Isofenphos methyl,106 (14),99 (14),Prothiofos,106 (5,101 (20)
+13,Bromopropylate,102 (8),106 (20),Ethion,102 (8),98 (12),Kresoxim methyl,102 (11),105 (14),Quinalphos,108(8),101 (20)
+14,Bupirimate,104 (11),106 (20),Etofenprox,104 (9),96 (20),Lindane,103 (17),85 (15),Chinomethionat,102 (13),101(18
+15,Buprofezin,104 (19),102 (15),Ehoprophos,104 (9),1148,Malathion,103 (17),85 (15),Simazine,102 (13),101(18
+16,Carbaryl,100 (12),99(15),Etridiazole,115 (5,1148,Mecarbam,102 (4),90 (13),Sulfotep,104 (9,86(12
+17,Carbophenothion,110 (11),95 (16,Etrimfos,100 (12),108 (14),Metalaxyl,102(8,99 (20),Tau-fluvalinate,104 (9,104 (13)
+18,Cyalothrin lambda,85 (20),94 (20,Famoxadone,100 (12),104 (20),Metribuzin,100 (14),102 (19),Terbuthylazine,100 (12),9915
+19,Cypermethrin,110 (17),101 (20),Fenamiphos,100 (12),106 (11),Mevinphos,108 (10),106 (10),Terbuthylazine,100 (12),9915
+20,Cypropconazole,110 (17),101 (20),Fenarimol,102 (15),106 (11),Myclobutanil,108 (10),106 (10),Tetraconazole,102 (8),111 (12)
+21,Chlorfenapyr,113 (9,105 (13),Fenbuconazole,106 (8),103 (14),Nuarimol,104 (16),111 (6,Tetradifon,98(13),105 (14)
+22,Chlorfenvinphos,104 (9),97 (20),Fenitrothion,98(5),109 (8),"0,p'-DDD",100 (5),92 (8),Tetramethrin,106 (8),106 (8)
+23,Chlorpyrifos,106 (8),94(16),Fenpropathrin,1105,105 (17),"0,p'-DDE",94 (10),82 (13),Thiometon,104 (5),86 (8)
+24,Chlorpyrifos,106 (8),94(16),Fenpropimorph,1105,105 (17),"o,p'-DDT",94 (10),82 (13),Tolclofos methyl,106 (8),86 (8)
+25,Chlorpyrifos methyl,106 (14),85 (9),Fenthion,106 (5),74 (12),O-phenylphenol,100 (7),97 (15),Triadimefon,110 (6,104 (11
+26,Chlortal dimetil,106 (13),96 (17),Phenthoate,106 (5),74 (12),Oxadixyl,100 (7),107 (9),Triadimenol,110 (6,105 (12)
+27,Chlorothalonil,85 (20),95 (16),Fenvalerate,86 (18),110 (11),Oxyfluorfen,104 (11),100 (7),Trichlorfon,105 (12),121 (6)
+28,Deltamethrin,108 (5,97(7),Fluazifop butyl,108 (8),110(15,Paclobutrazol,108 (8),107 (13),Triflumizole,114 (8,109 (12)
+29,Diazinon,108 (5,102 (14),Fluazifop butyl,94 (6,110(15,Parathion,108 (8),92 (15),Triflumizole,114 (8,105 (12)
+30,Dicloran,104 (9),94 (7),Fludioxonil,100 (12),103 (13),Parathion methyl,110 (9),104 (13),Trifluralin,88 (12),98 (18)
+31,Dichlorvos,94 (6),99 (17),Fludioxonil,1145,1125,Penconazole,104 (9),104 (13),Vinclozolin,106 (11),98 (20)
+32,Dicofol,94 (6),99 (17),Flusilazole,1145,1125,Pendimethalin,105 (10),1106,,,
+33,Dieldrin,100(7),102 (17),Flutolanil,104 (11),102 (14),Permethrin,102 (13),103 (15),,,
+34,Difenoconazole,106 (16),105 (18),Furalaxyl,108 (4,113 (13,Pyprazophos,94 (6),100 (13),,,

@@ -1,0 +1,30 @@
+,0,1,2,3,4
+0,Model,Equation,,Kinetic parameters,References
+1,Weibull-,C=Coexp(kt,,C.is the concentration at,(Amendola
+2,type,,,"determinate time t, Co is","et al.,2010"
+3,,,,the concentration a t=0,
+4,,,,k is the constant of,
+5,,,,velocity and n is order of,
+6,,,,reaction.,
+7,Two-rate,C=a[1-exp-bt,,C is the concentration of,(Cacace and
+8,,]+c[1-exp-dt],,"equilibrium extract,is","Mazza,"
+9,,,,the concentration of the,2003)
+10,,,,extract in equilibrium due,
+11,,,,"to diffusion, ka is the",
+12,,,,kinetic constant due to,
+13,,,,diffusion mechanism,
+14,Swelling/,,,C is the concentration of,(Linares
+15,diffusion,t1/2+t,t1/2+t,"equilibrium extract,Cis","et al.,2010"
+16,Model,C.[1-exp-kat],,the concentration of the,
+17,,,,extract in equilibrium due,
+18,,,,to diffusionka is the,
+19,,,,kinetic constant due to,
+20,,,,diffusion mechanism.,
+21,Sorption/,,t,K and K correspond to,"(Peleg,"
+22,desorption,=K+Kt,,the constants of velocity,1988)
+23,,,,related to the extraction,
+24,,,,process.,
+25,Minchev&,C=a-exp-kt,,a is the saturation,(Balyan
+26,Minkov,,,"concentration,is a",et al.2019
+27,,,,constant of the model y k,
+28,,,,is the constant rate.,

@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Common name,Flower,Part of flower,Nutritional composition (g/100 g dry weight],Nutritional composition (g/100 g dry weight],Nutritional composition (g/100 g dry weight],Nutritional composition (g/100 g dry weight],,,,Reference (recalculated)
+1,,,,Moisturea,TCb,Fiber,Protein,Fat,Ash,Energyc,
+2,Agave,Agave salmiana,Whole,87.4,62.1,12.7,16.4,2.8,5.8,-,Sotelo et al.2007
+3,Chives,Allium schoenoprasum,Whole,80.0,50.0,6.1,15.3,3.4,3.8,243,"Grzeszczuk et al.,2011"
+4,Aloe vera,Aloe vera,Whole,89.5,56.8,13.8,16.4,4.2,8.6,,"Sotelo et al.,2007"
+5,Snapdragon,Antirrhinum majus,Whole,87.4,,,3.8,-,,-,"Rop et al.,2012"
+6,Texas madrone,Arbutus xalapensis,Whole,89.7,66.7,10.4,11.3,3.9,6.9,-,"Sotelo et al.,2007"
+7,Begonia,Begonia boliviensis,Whole,85.8,-,-,2.0,-,-,-,"Rop et al.,2012"
+8,Cauliflower,Brassica oleracea var. botrytis,Whole,93.4,43.6,21.7,18.0,2.9,13.9,75,Vieira2013
+9,Broccoli,Brassica oleracea var. italica,Whole,92.6,10.0,28.0,52.3,2.0,15.4,84,Vieira2013
+10,Pot marigold,Calendula officinalis,Petals,89.3,62.1,13.1,13.6,3.6,7.7,151,Vieira2013
+11,Cornflower,Centaurea cyanus,Petals,90.3,-,-,6.9,-,-,-,"Rop et al.,2012"
+12,Paris daisy,Chrysanthemum frutescens,Petals,90.4,-,,7.2,-,-,-,"Rop et al.,2012"
+13,Feverfew,Chrysanthemum parthenium,Petals,90.1,-,-,6.9,-,-,-,"Rop et al.,2012"
+14,Pumpkin,Cucurbita pepo,Whole,93.1,47.1,10.5,21.9,5.0,15.9,,Sotelo et al.2007
+15,Artichoke,Cynara scolumus,Whole,78.9,60.9,16.6,14.7,2.8,5.9,289,"Vieira,2013"
+16,Carnation,Dianthus caryophyllus,Petals,88.5,-,,6.0,-,-,-,"Rop et al.,2012"
+17,Coral tree,Erythrina americana,Whole,86.6,44.5,17.3,26.2,2.3,9.6,-,"Sotelo et al.,2007"
+18,Erythrina,Erythrina caribaea,Whole,88.5,42.4,17.7,27.4,1.5,10.1,-,Sotelo et al.2007
+19,Sun spurge,Euphorbia radians,Whole,90.1,47.9,12.6,25.1,4.9,9.4,,Sotelo et al.2007
+20,Fuchsia,Fuchsia  hybrida,Whole,91.6,,-,2.9,-,-,-,"Rop et al.,2012"
+21,Busy Lizzie,Impatiens walleriana,Whole,85.3,,-,3.1,-,,,"Rop et al.,2012"
+22,Mahua,Madhuca indica,Whole,73.6,86.0,,5.3,6.1,2.6,465,"Patel and Naik,2010"
+23,Rugosa rose,Rosa micrantha,Petals,71.6,90.2,-,4.3,1.3,4.2,465,"Guimaraes et al.,2010"
+24,Tea Rose,Rosa odorata,Petals,89.9,,,2.6,,-,,"Rop et al.,2012"
+25,Sechuan button,Spilanthes oleracea,Whole,81.7,74.3,55.4,15.6,2.2,7.9,121,"Navarro-Gonzalez et al.,2015"
+26,Mexican marigold,Tagetes erecta,Whole,83.4,85.2,55.4,7.9,1.9,4.8,117,"Navarro-Gonzalez et al.,2015"
+27,French marigold,Tagetes patula,Whole,90.6,,,3.1,,,,"Rop et al.,2012"
+28,Garden nasturtium,Tropaeolum majus,Whole,89.3,66.9,42.2,18.6,3.1,5.9,88,"Navarro-Gonzalez et al.,2015"
+29,,Tropaeolum majus,Whole,88.7,,,4.2,-,1,,"Rop et al.,2012"
+30,,Tropaeolum majus,Whole,90.6,48.1,29.7,14.4,3.6,7.3,109,"Vieira,2013"
+31,Pansies,Viola x wittrockiana,Whole,90.0,-,,6.7,,,,Rop et al.2012
+32,,Viola  wittrockiana,Whole,87.2,64.5,9.3,16.8,5.0,4.4,197,Vieira2013
+33,Yucca,Yucca filifera,Whole,88.1,,8.5,25.9,2.1,9.7,-,Sotelo et al.2007

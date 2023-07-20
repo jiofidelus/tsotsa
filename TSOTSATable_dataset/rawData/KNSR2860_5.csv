@@ -1,0 +1,15 @@
+,0,1,2
+0,Issues in the ingredient statements,Ingredient statement (Issue bolded),Resolution
+1,,MARGARINE (PARTIALLY HYDROGENATED SOYBEAN AND,
+2,,"PALM OILS,WATER,SALT,MONO AND DIGLYCERIDES,.",
+3,Occurrence = 1 for many parsed,"Includes infrequently used ingredients (e.g., BENZOYL PEROXIDE), ingredients described in",Use of thesaurus; About 800 still unresolved
+4,ingredients,"non-typical manner or spelling errors (e.g., ETHOXYLANTED MONOGLYCERIDES; CALCIUM",
+5,,"SUL;FATE),ingredients with unresolved issues (e.g.HIGH, FRUCTOSE CORN SYRUP)",
+6,Ingredients described in multiple,"Includes synonyms (FLAXSEED, LINSEED), terms used interchangeably (NONFAT, SKIM),",Assigned a preferred descriptor (PD)
+7,ways,"spelling and usage variants (SOY, SOYA; ASCORBIC ACID (A PRESERVATIVE), ASCORBIC",
+8,,"ACID (ANTIOXIDANT)), common names (CANOLA, RAPESEED), scientific names (BENZOIC",
+9,,"SULFIMIDE or SACCHARIN), singular/plural (ALMOND, ALMONDS), possible errors",
+10,,"(CALCIUM PROIONATE, rather than CALCIUM PROPIONATE), inconsistent patterns --",
+11,,"BLEACHED (WHEAT FLOUR,MALTED BARLEY FLOUR,NIACIN,REDUCED IRON....,rather",
+12,,"than BLEACHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN,",
+13,,REDUCED IRON....,

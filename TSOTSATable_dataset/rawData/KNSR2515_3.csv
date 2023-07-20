@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6
+0,Trial cultivars,Genome group,Total pVAC of,Local cultivars,Genome group,Total pVAC of,P-Value#
+1,,,trial cultivars,,,local cultivars,
+2,Lahi,AAB-Pacific plantain,10508.6,Vulambya,AAA-EA,944.6,0.002
+3,Lahi,AAB-Pacific plantain,10508.5,Nshikazi,AAA-EA,418.63,0.002
+4,Apantu,AAB-Plantain,10063.1,Musilongo,AAB-Plantain,1272.0,0.002
+5,Apantu,AAB-Plantain,10632.0,Musheba,AAB-Plantain,955.3,0.002
+6,Bira,AAB-Pacific plantain,10632.0,Musilongo,AAB-Plantain,1272.0,0.002
+7,Bira,AAB-Pacific plantain,10632.0,Musilongo,AAB-Plantain,955.3,0.002
+8,Bungaoisan,AAB-Plantain,1674.5,Musilongo,AAB-Plantain,1272.0,0.016
+9,Bungaoisan,AAB-Plantain,1674.5,Musheba,AAB-Plantain,1955.3,0.014
+10,To'o,AA-Cooking,7766.0,Sukali Ndizi,AB Dessert,48.3,0.002
+11,Sepi,AA-Cooking,7766.0,Sukali Ndizi,AB Dessert,48.3,0.002
+12,Hung'tu,AA-Dessert,7760.7,Sukali Ndizi,AB Dessert,48.3,0.002

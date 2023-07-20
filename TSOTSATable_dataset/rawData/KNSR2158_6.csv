@@ -1,0 +1,28 @@
+,0,1
+0,Consideration,Comment
+1,Populating and maintaining dietary supplement databases is a time-consuming,Since LanguaLTM can facilitate a standardized data cataloguing
+2,"task,due to the large number of products that are introduced,modified,or","system,it can promote seamless sharing of data among database"
+3,relabeled each year in the US.,"developers once label data has been entered, thus avoiding"
+4,,duplicative efforts.
+5,"Product type(Facet A,is a very important facet for researchers,since it captures",The narrow terms for Facet A were developed to be consistent with
+6,what type of dietary supplement was consumed from dietary intake records.,"the definition of dietary supplements outlined in DSHEA,which is"
+7,The proposed dietary supplement classification could be expanded to fully,"based on product composition.Additional""narrow""terms based on"
+8,"describe products based on their intended or primary use,e.g. bone health.",intended use could be added to Facet P.label claims/consumer group/
+9,,dietary use. This facet can thus be used to group products based on
+10,,"their intended use. However,manufacturers often list several uses for"
+11,,a product and the primary intended use might not be indicated or
+12,,"obvious, or might differ from consumer use."
+13,Problems arise when indexing dietary supplements that have multiple ingredients,"The practice of grouping ingredients under a""proprietary formula""is"
+14,"grouped under ""proprietary formula"" in the Supplement Facts panel. As dietary","permissible under existing US FDA regulations. However, this practice"
+15,"ingredients can affect the bioavailability of nutrients, the ability to identify all dietary",will not affect indexing nutrients that are of primary interest to
+16,ingredients in a database is considered an important feature for some researchers.,"NHANES,since only dietary ingredients without a Daily Value (DV)"
+17,,"can be included in a""proprietary formula"".DVs are established by the"
+18,,US FDA for labeling purposes.
+19,It is difficult to include possibly significant details when indexing,There are two approaches to indexing multi-ingredient products:(1
+20,multi-ingredient dietary supplements.,Index the main ingredient by weight in Facets B & C with the
+21,,remaining ingredients listed in Facet H.A drawback to this alternative
+22,,is that only the main ingredient will have full information recorded.
+23,,"(2Full ingredient indexing,with all ingredients indexed and listed in"
+24,,"descending order by weight,so that full information retrieval can be"
+25,,achieved.The drawback to this alternative is that an additional
+26,,system analogous to a recipe management system would be required.

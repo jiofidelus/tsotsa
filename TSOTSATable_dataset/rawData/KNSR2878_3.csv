@@ -1,0 +1,20 @@
+,0,1,2,3
+0,Type,Country,Continent,Number of samples
+1,Black,China,Asia,5
+2,,China,Asia,3
+3,Green,China,Asia,2
+4,Oolong,China,Asia,3
+5,Black,India,Asia,7
+6,Black,Sri Lanka,Asia,6
+7,Green,Japan,Asia,3
+8,,Malaysia,Asia,3
+9,Black,Bangladesh,Asia,3
+10,,Papua New Guinea,Asia,1
+11,,,TOTAL,36
+12,Black,Kenya,Africa,5
+13,Black,Tanzania,Africa,4
+14,Black,Malawi,Africa,4
+15,Black,Burundi,Africa,3
+16,Black,Ethiopia,Africa,1
+17,Black,Zimbabwe,Africa,1
+18,,,TOTAL,18

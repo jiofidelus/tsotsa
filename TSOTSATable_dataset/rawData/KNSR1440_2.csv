@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,Sample,Sample weight (g),Dry weight (g),Vitamin C(mg/100g)a,Vitamin C(mg/100g)a,,
+1,,,,"2X-extraction (8 ml, 4 ml)",,3X extraction (3  12 ml),5X-extraction(512ml)
+2,Orange juice,2.0,0.26,"36.9A (0.2, 3)","36.9A (0.2, 3)","36.9^ (0.1, 3)","36.9^ (0.1, 3)"
+3,"Fruit/vegetable mix, canned",2.0,0.18,"11.7^ (0.02, 4)","11.7^ (0.02, 4)","11.8^(0.2, 4)","11.7A0.1,2)"
+4,"Broccoli, raw",2.0,0.21,"104.2 (1.9, 3)","104.2 (1.9, 3)","6.7A0.1,3","109.8^ (0.4, 3)"
+5,"Potatoes, Russet, raw",2.0,0.43,"6.6A0.1,3","6.6A0.1,3","70.7A (1.0, 3)","70.5^ (0.5, 3)"
+6,"Pineapple, raw",2.0,0.28,"70.3A (0.8, 3)","70.3A (0.8, 3)","476.3^ (13.0, 3)","477.3^ (1.2, 3)"
+7,"Parsley, dried",0.3,0.28,,,"476.3^ (13.0, 3)","477.3^ (1.2, 3)"
+8,Breakfast cereal(dry),0.3,0.29,,,"62.0^ (1.6, 3)","62.5A (1.0, 3)"
+9,"multigrain, ready-to-eat,",,,,,,
+10,vitamin fortified,,,,,,
+11,"Plantains,yellow,fried",1.0,0.51,,-,"8.6^ (0.2, 3)","8.6^ (0.03, 3)"

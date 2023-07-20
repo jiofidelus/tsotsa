@@ -1,0 +1,15 @@
+,0,1
+0,Parameters,Ranking order of factors and levels according to the
+1,,influence
+2,(+)-catechin,Time length(60>45>30 min> methanol concentration
+3,,70%>50%>30%>pH7>4>2
+4,kaempferol-3-O-,Methanolconcentration*(70%>50%>30%#)>Time
+5,glucoside,length (60>45> 30 min)> pH (7> 4>2)
+6,"delphinidin-3,5-",Methanol concentration*70%>50%>30%#>pH
+7,diglucoside,2#>7>4>Time length*60>45>30 min#
+8,delphinidin-3-O-,Methanol concentration*(70 %>50%>30%#>pH(2
+9,glucoside,>7>4>Time length (60> 45>30 min)
+10,petunidin-3-O-,Methanol concentration*70%>50%>30%#>pH(2
+11,glucoside,> 7 >4)>Timelength 45 > 60 >30 min
+12,malvidin-3-O-,Methanol concentration*70%>50%>30 %#>Time
+13,glucoside,length (45> 60>30 min)> pH 2> 7>4)

@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+0,Anthocyanins,[M+H]+,[M+H]+,MS/MS fragments,MS/MS fragments,,Kinetics of fermentation times (h),,,,,,,,,,,,,,
+1,,,,,,0,,,1,,2,,4,,6,,8,,12,24,48
+2,cyanidin 3-glucoside,449,,287,,1,,,1,,1,,1,,1,,1,,0,0,0
+3,cyanidin 3-rutinoside,595,,449 287,449 287,1,,,1,,1,,1,,1,,1,,1,1,1
+4,"cyanidin 3,5-hexose pentose",581,,449 287,449 287,1,,,1,,1,,1,,0,,0,,0,0,0
+5,pelargonidin 3-glucoside,433,,271,,1,,,1,,1,,1,,1,,0,,0,0,0
+6,pelargonidin 3-rutinoside,579,,433 271,433 271,1,,,1,,1,,1,,1,,0,,0,0,0
+7,peonidin 3-rutinoside,609,,463 301,463 301,1,,,1,,1,,1,,1,,0,,0,0,0
+8,Phenolic acids,,[M+H],,MS/MS fragments,,Kinetics of fermentation times (h),,,,,,,,,,,,,,
+9,,,,,,,,0,,1,,2,,4,,6,,8,12,24,48
+10,protocatechuic acid,,153,,97 109 125,,,0,,0,,1,,1,,1,,1,1,1,1
+11,"3,4-dihidroxyphenylpropionic acid",,181,,109 137 153 166 181,,,0,,0,,1,,1,,1,,1,1,1,1
+12,m-hydroxyphenylacetic acid,,152,,95 110 122,,,0,,0,,1,,1,,1,,1,1,1,1
+13,p-coumaric acid,,162,,104 118,,,0,,0,,1,,1,,1,,1,1,1,1
+14,caffeic acid,,178,,134 150,,,0,,0,,1,,1,,1,,1,1,1,1
+15,ferulic acid and isoferulic acid,,194,,134 150 194,,,0,,0,,0,,0,,0,,1,1,1,1

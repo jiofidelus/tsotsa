@@ -1,0 +1,14 @@
+,0,1,2,3,4
+0,Treatments,Type,Biosolarisation,Fertiliser,Reference
+1,Organic,Solid,Yes,Solid Agrimartin,OS+BS+Agrim
+2,,,Yes,Lombrimur,OS+BS+Lomb
+3,,,,Negrot,OL+BS+LiqAgr
+4,,Liquid,Yes,Liquid Agrimartin,OL+BS+LiqAgr
+5,,,,Naturamin-WSP,OL+BS+Natur
+6,,,,Tecsoil,OL+BS+Tecsoil
+7,,,,Terrabal,OL+BS+Terrab
+8,Conventional,Soluble solid,No,KNO3,C+NO3
+9,,,,Urea,C+Urea
+10,Mix,,Yes,KNO3,C+BS+NO3
+11,,,,NH4H2PO4,C+BS+NH4
+12,,,,Urea,C+BS+Urea

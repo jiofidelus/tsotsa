@@ -1,0 +1,23 @@
+,0,1,2,3,4,5
+0,Leafy green,Genotype,Folate(g/100gfm),,Phylloquinone (g/100 gfm),
+1,,,Upper leaves,Lower leaves,Upper leaves,Lower leaves
+2,Collard,Blue Max,176.7,113.2,498.6 abc,447.7 bcd
+3,,Top Bunch,155.4,103.9,498.6 abc,497.4 abcd
+4,,Top Pick,178.4,94.2,548.2 ab,616.5 a
+5,,Heavicrop,263.8,142.2,456.9 abcd,397.2 cde
+6,,Flash,203.8,85.1,379.3 cde,458.4 bcd
+7,,Vates,211.1,143.1,420.0 bcde,484.6 abcd
+8,,Champion,224.9,116.2,387.5 cde,436.3 cd
+9,,Georgia,208.9,89.9,576.9 a,505.0 abcd
+10,,SC Glaze,151.6,130.3,424.6 bcde,468.5 abcd
+11,,Variegated,185.2,92.7,356.0 cde,416.9 cd
+12,,NC030,195.1,116.4,354.1 cde,405.8 cde
+13,,NC037,162.8,154.3,312.4 de,369.2 de
+14,,NC076,168.9,81.7,428.6 bcde,498.9 abcd
+15,,NC020,176.7,59.8,308.7 e,390.2 cde
+16,,NC022,138.0,168.8,480.8 abc,478.3 abcd
+17,Turnip green,Topper,131.5,69.9,582.9 a,465.9 abcd
+18,,Alamo,198.0,102.4,560.4 ab,596.9 ab
+19,Mustard green,FL Broadleaf,131.4,139.4,319.5 de,261.0 e
+20,,So.Curled Giant,211.7,119.6,325.4 de,523.2 abc
+21,LSDo.05 a,,ns,ns,145.4,152.1

@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7
+0,,,,Fish/shellfish intake frequency (per month),Fish/shellfish intake frequency (per month),,,
+1,Indicator,Mean (SEa),n,<8 times,n, 8 times,n,p-valueb
+2,,Mean (SEa),,LS-meansa(SE),,LS-means (SE),,
+3,Anthropometric,,,,,,,
+4,Body mass index (kg/m2),29.2 (0.1),11396,29.2 (0.1),9776,28.5 (0.2),1620,0.005
+5,Waist circumference (cm),99.3 (0.3),11208,98.9 (0.3),9611,96.8 (0.5),1597,0.0003
+6,Diabetes/hyperlipidemia,,,,,,,
+7,Glycohemoglobin (%),5.58 (0.01),11062,5.64 (0.01),4291,5.60 (0.03),684,0.187
+8,Total cholesterol (mg/dL),192.0 (0.9),4975,192.1 (0.8),4291,192.3 (2.2),684,0.897
+9,HDLa-cholesterol (mg/dL)c,53.4 (0.3),4975,52.7 (0.3),4291,56.3 (0.9),684,0.0001
+10,LDLa-cholesterol (mg/dL),114.7 (0.7),4892,115.5 (0.7),4218,112.4 (2.0),674,0.125
+11,Triglyceride (mg/dL),121.7 (2.1)),4974,122.0 (2.2),4290,119.9 (4.6),684,0.136
+12,Blood pressure,,,,,,,
+13,Systolic (mm Hg),117.5 (0.3),11233,117.8 (0.4),9633,117.4 (0.7),1600,0.507
+14,Diastolic (mm Hg),70.0 (0.3),11233,70.1 (0.3),9633,68.8 (0.4),1600,0.004
+15,Physical activity,,,,,,,
+16,Sedentary time (min/d),426.8 (6.3),11459,421.7 (6.5),9831,393.3 (10.0),1628,0.011
+17,Moderate recreational activities (min/d),67.2 (2.0),4981,70.8 (3.4),4124,74.7 (3.8),857,0.173
+18,Blood lead (g/dl),1.25 (0.04),7359,1.32 (0.05),6278,1.49 (0.06),1081,<0.0001
+19,Blood cadmium (g/dl),0.47 (0.01),7359,0.50 (0.01),6278,0.55 (0.03),1081,0.001
+20,Total blood mercury (g/dl),1.43 (0.08),7359,1.25 (0.03),6278,3.13 (0.26),1081,<0.0001

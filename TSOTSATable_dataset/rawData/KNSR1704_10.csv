@@ -1,0 +1,37 @@
+,0,1,2,3,4,5,6
+0,Vitamin,Treatment,Conditions,Food,Retention,Losses,References
+1,,,,,(%),(%),
+2,Folate,Boiling,3.5 min,Spinach,,51,McKillop et al.2002)
+3,,,10 min,Broccoli,,56,
+4,,,,,,62,Leichter et al.1978
+5,,,"2 h,soaking 16h",Chickpeas,52.6,,Dang et al.2000
+6,,,,Peas,45,,
+7,,,"1-2 min, open pot",Non-leafy vegetables,50-90,,Lin and Lin (1999)
+8,,,"I min, open pot",Spinach and pak-choi,30,,
+9,,Cooking,,Vegetables,50,,
+10,,,Soaking overnight,Chickpeas,66,,Hoppner and Lampi
+11,,,,,,,"(1993a,b)"
+12,,,,Peas,40,,
+13,,,"150 min, soaking overnight",Legumes,44,,
+14,,Brewing,5 min steeping in boiling,Black tea,87 ewa,,"Chen et al.1983a,b"
+15,,,water,,,,
+16,,,,Green tea,80 ew,,
+17,,Making various,,Frozen strawberry,3-30,,Livsmedelsverket(2002)
+18,,strawberry products,,,,,Levnedsmiddelstyrelsen
+19,,like Jam and stewed,,,,,"1996),Holland (1991a,b),"
+20,,desserts,,,,,and Souci et al.1994
+21,,"Boiling, braising and",,Meat and poultry,55-70,,Bergstrom (1994)
+22,,stewing,,,,,
+23,,Pressure-cooking,"20 min, soaking 16h",Chickpeas,62.1,,Dang et al. (2000)
+24,,,,Peas,50.3,,
+25,,Poaching and steaming,,Fish and shellfish,70-100,,Bergstrom (1994)
+26,,Roasting and baking,,Meat and poultry,60-90,,
+27,,Baking,,Fish and shellfish,80-90,,
+28,,Grilling,,Beef liver,,41,Aramouni and Godber (1991)
+29,,Frying,,,,50,
+30,,Stir-frying with,1 min. Chinese wok,Leafy vegetables,43-70,9-15 cjb,Lin and Lin (1999)
+31,,soybean oil,,,,,
+32,,,,Non-leafy vegetables,100,,
+33,,,,except snap bean and,,,
+34,,,,sponge gourd),,,
+35,,,,Snap bean,54-75,,

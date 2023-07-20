@@ -1,0 +1,28 @@
+,0,1,2
+0,Sample,Variety,Location
+1,SL BE1,Sweet Lady,Beitem(BE)
+2,SLBE2,Sweet Lady,Herent(BE
+3,SL FR1,Sweet Lady,Arras(FR)
+4,SL FR2,Sweet Lady,Graincourt (FR)
+5,FLX BE1,Flexine,Beitem (BE)
+6,FLX BE2,Flexine,Herent (BE)
+7,FLX FR1,Flexine,Arras (FR)
+8,FLX FR2,Flexine,Graincourt (FR
+9,VTR BE1,Vintor,Beitem (BE)
+10,VTR BE2,Vintor,Herent (BE)
+11,VTR FR1,Vintor,Arras(FR
+12,VTR FR2,Vintor,Graincourt (FR)
+13,LAU BE1,Laurine,Beitem (BE)
+14,LAU BE2,Laurine,Herent (BE)
+15,LAU FR1,Laurine,Arras(FR)
+16,LAU FR2,Laurine,Graincourt (FR)
+17,MIX1,Sweet Lady,"Beitem BE,Herent (BE"
+18,,,"Arres FR),Graincourt FR"
+19,MIX 2,"Sweet Lady,Flexine",Beitem (BE)
+20,,"Vintor, Laurine",
+21,MIX 3,Sweet LadyFlexine,"ArresFR,Graincourt FR"
+22,,"Vintor, Laurine",
+23,MIX 4,"Sweet Lady,Flexine","Beitem (BE,HerentBE"
+24,,VintorLaurine,
+25,MIX 5,"Sweet Lady,Flexine","Beitem(BE,Herent (BE,"
+26,,Vintor Laurine,"Arres FR,GraincourtFR"

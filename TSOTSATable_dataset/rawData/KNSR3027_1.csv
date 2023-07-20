@@ -1,0 +1,15 @@
+,0,1,2,3
+0,Characteristics,Moisture content by LF-NMR,Moisture content by LF-NMR,Lipid content by
+1,,,,LF-NMR
+2,,external,internal,external standard
+3,,standard method,standard,method
+4,,,method,
+5,Linear range (mg),0.0-150.0,4.0-140.0,0.0-185.8
+6,Correlation coefficient,0.9949,0.9916,0.9957
+7,(Rb),,,
+8,LODa(mg),2.54,6.09,3.66
+9,LOQb (mg),7.3,7.67,6.16
+10,Recovery (%),,,
+11,Level I(50 mg),352.238.07,116.800.77,110.391.63
+12,Level II(100 mg,317.858.87,105.872.91,112.464.56
+13,RSD(%),2.67,2.54,3.6

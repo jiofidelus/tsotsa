@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,Method,PLS,,,,
+1,Samples,Chl-AaSDb,,Chl-BaSDb,,Ratio (A/B)
+2,,First derivate,Second derivate,First derivate,Second derivate,
+3,Parthenon broccoli,9.40  1.50,9.42  1.39,3.24  0.54,3.21  0.48,3
+4,Monaco broccoli,9.15  1.47,9.17  1.40,3.22  0.63,3.25  1.40,3
+5,Milan cabbage,2.17  0.38,2.16  0.33,0.822  0.101,0.820 0.099,3

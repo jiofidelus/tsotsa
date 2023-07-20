@@ -1,0 +1,9 @@
+,0,1
+0,Lamp current (mA),12
+1,Wavelength (nm),196.0
+2,Slit width (nm),1.0
+3,Background correction,Deuterium
+4,Concentration unit,ng/mL
+5,Number of replication,3
+6,Number of duplication,2
+7,Injection volume (L),30

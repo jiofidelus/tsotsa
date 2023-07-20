@@ -1,0 +1,8 @@
+,0,1,2,3,4
+0,Spectral,Sensitivity,Specificity,Accuracy,MCC
+1,Preprocessing,(%),(%),(%),
+2,None,55.2,92.9,67.5,0.461
+3,SG 1 st,89.7,100,93.1,0.860
+4,SG 2nd,79.3,92.9,83.7,0.681
+5,MSC,82.8,100,88.4,0.781
+6,SNV,72.4,85.7,76.7,0.546

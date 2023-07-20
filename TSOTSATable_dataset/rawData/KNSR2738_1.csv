@@ -1,0 +1,29 @@
+,0,1,2,3,4
+0,Compounds,Olfactive descriptiona,Odor threshold,Ion fragments,Supplier and purity
+1,,,(ug kg1b,(m/z,
+2,Furans,,,,
+3,Furan,ethereal,45001,38/39,Sigma-Aldrich 99 %
+4,2-Methylfuran,ethereal,35001,82/53,Sigma-Aldrich 99 %
+5,"2,5-Dimethylfuran",/,,96/95,Sigma-Aldrich 99 %
+6,Furfural,"almond,woody,bready,grass,nutty,caramel",28011,96/95,Sigma-Aldrich 99 %
+7,Furfuryl acetate,"fruity, ester-like, flowery",,81/98,Sigma-Aldrich 99 %
+8,Furfuryl alcohol,"sweet,bready,caramel",2000111,98/41,Sigma-Aldrich 98 %
+9,Furfuryl propionate,"sweet, fruity, green, floral, spicy",70001,81/98,Sigma-Aldrich 98 %
+10,5-Methylfurfural,"sweet, caramel, coffee, almond, spicy, burned sugar",6000rv,110/109,Sigma-Aldrich 98 %
+11,Ketones and Aldehydes,,,,
+12,Benzaldehyde,"fruity, cherry, almond",350II,77/106,Sigma-Aldrich 99.5 %
+13,Hexanal,"grassy,fatty",2.4v,44/56,Sigma-Aldrich 98 %
+14,"2,3-Pentanedione","buttery, caramel, oily",201I,43/29,Sigma-Aldrich 97 %
+15,3-Methylbutanal,"malty, cocoa,fruitypeach)",0.3511,44/43,Sigma-Aldrich 97 %
+16,2-Methylbutanal,"green, malty, chocolate, coffee, fruity",1.311,41/29,Sigma-Aldrich 95 %
+17,Phenolic compounds,,,,
+18,4-Ethylguaiacol,"spicy, smoky, sweet, clove",251I,137/152,Sigma-Aldrich 98 %
+19,Guaiacol,"phenolic,spicy, woody,smoky,burnt",0.84 v,109/124,Sigma-Aldrich 99 %
+20,4-Vinylguaiacol,"spicy,peanut, wine,clove, woody",0.75[V,135/150,Sigma-Aldrich 98 %
+21,Pyrazines,,,,
+22,"2,5-Dimethylpyrazine","nutty, roasty,earthy,cocoa, woody",80,42/108,Sigma-Aldrich 98 %
+23,"2,6-Dimethylpyrazine","nutty, roasty, cocoa, coffee",400lV,108/42,Sigma-Aldrich 98 %
+24,Ethylpyrazine,"buttery,woody,nutty",62VI,107/108,Sigma-Aldrich 98 %
+25,Nitrogen containing compounds,,,,
+26,Pyridine,"sour, fishy, burnt/smoky",77VII,79/52,Sigma-Aldrich 99 %
+27,Pyrrole,"nutty,ethereal, sweet","20,000111",67/39,Sigma-Aldrich 98 %

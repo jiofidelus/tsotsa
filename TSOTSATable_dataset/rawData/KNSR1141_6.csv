@@ -1,0 +1,25 @@
+,0,1,2,3,4
+0,A,,,,
+1,Cultivar,Water regime,Digestive enzyme inhibition (%),Digestive enzyme inhibition (%),
+2,,,-glucosidase,Pancreatic lipase,Pancreatic lipase
+3,Raramuri,IWC,41.01.2,2.9  0.4e,2.9  0.4e
+4,,TD,37.1  0.8d,30.8  0.2b,30.8  0.2b
+5,,RI,51.80.4,18.0  0.3d,18.0  0.3d
+6,Pinto Saltillo,IWC,49.5  0.4a,0.9  0.1e,0.9  0.1e
+7,,TD,45.8 0.4b,26.7  1.6c,26.7  1.6c
+8,,RI,30.8  0.4e,38.9 1.3a,38.9 1.3a
+9,HSD,,2.837,3.461,
+10,P>F,,0.000,0.000,
+11,B,,,,
+12,,,,,-amylase
+13,Cultivar,,,,
+14,Raramuri,,,,5.1  2.2
+15,Pinto Saltillo,,,,5.41.1
+16,HSD,,,,
+17,P>F,,,,0.612
+18,Water regime,,,,
+19,IWC,,,,3.7 1.1b
+20,TD,,,,5.0  0.7b
+21,RI,,,,7.0  1.1a
+22,HSD,,,,1.937
+23,P>F,,,,0.005

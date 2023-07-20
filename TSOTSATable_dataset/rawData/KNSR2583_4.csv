@@ -1,0 +1,7 @@
+,0,1,2,3
+0,Sample,Products,Packing,Product composition
+1,Code,,weight,
+2,Sample,White bread (Bakery,,
+3,29,-6),,
+4,Sample,White bread (Bakery,,"Wheat flour,water,yeast, salt"
+5,30,7),,

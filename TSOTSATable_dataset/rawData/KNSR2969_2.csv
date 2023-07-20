@@ -1,0 +1,58 @@
+,0,1,2,3,4,5
+0,,N,MeanSD,Min,Max,References
+1,Cow milk,4,0.08  0.03,0.04,0.10,Lemire et al.(2010
+2,Brazil nut milk,3,6.63  2.65,3.76,8.98,Lemire et al. (2010)
+3,Meat,,,,,
+4,Beef Meat,3,0.38  0.09,0.30,0.47,Lemire et al. (2010)
+5,Organ beef meat,8,0.25  0.09,0.24,0.51,Lemire et al. (2010)
+6,Chicken meat,12,0.33  0.07,0.15,0.58,Lemire et al.2010
+7,Chicken organ meat,15,0.48  0.13,0.22,0.97,Lemire et al. (2010)
+8,Game meat,,,,,
+9,Paca,2,1.06  0.45,0.73,1.38,Lemire et al. (2010
+10,Armadillo,3,0.52  0.47,0.03,0.97,Lemire et al. (2010)
+11,Carnivorous fish,,,,,
+12,,11,1.22  0.39,-,-,Kehrig et al. (2009)
+13,,,0.95  0.5,,,Seixas et al. (2012)
+14,,65,0.15  0.06,0.06,0.36,"Silva et al. (2013a, 2013b)"
+15,,40,0.36  0.10,0.27,0.48,Faial et al. (2015)
+16,,40,1.63  0.45,-,-,Seixas et al. (2014)
+17,Non-carnivorous fish,,,,,
+18,,2,0.89  0.20,-,-,Kehrig et al. (2009)
+19,,74,0.21  0.11,0.25,0.64,"Silva et al. (2013a, 2013b)"
+20,,127,0.35  0.10,0.25,2.28,Faial et al. (2015)
+21,,30,1.08  0.76,-,,Seixas et al. (2014)
+22,Shrimp,90,1.08  0.76,-,-,Seixas et al. (2014)
+23,Squid,5,1.34  0.28,,,Kehrig et al.(2009)
+24,Eggs,16,,,,
+25,Yolks,16,0.56  0.19,0.19,0.83,Lemire et al. (2010)
+26,White,15,0.21  0.14,0.04,0.53,Lemire et al. (2010)
+27,Vegetables,,,,,
+28,Onion,10,0.08  0.10,<0.01,0.21,Lemire et al. (2010)
+29,Garlic,4,0.08  0.10,0.03,0.11,Lemire et al. (2010)
+30,Fruit,,,,,
+31,Tucuma,18,0.09  0.10,<0.01,0.28,Lemire et al. (2010)
+32,Pupunha,5,0.10  0.12,<0.01,0.17,Lemire et al. (2010)
+33,Coconut pulp,16,0.10  0.12,<0.01,0.36,Lemire et al. (2010)
+34,Coconut water,14,0.08  0.11,<0.01,0.32,Lemire et al. (2010)
+35,Cereals,,,,,
+36,Potato,7,0.11  0.14,0.01,0.23,Lemire et al. (2010)
+37,Sweet potato,7,0.14  0.12,0.01,0.31,Lemire et al. (2010)
+38,Corn flour,2,0.14  0.02,0.12,0.16,Lemire et al. (2010)
+39,Pasta,4,0.06  0.11,<0.01,0.22,Lemire et al. (2010)
+40,Yucca,14,0.14  0.14,0.03,0.42,Lemire et al. (2010
+41,Cara,14,0.06  0.11,<0.01,0.19,Lemire et al. (2010
+42,Rice,7,0.13  0.09,0.03,0.23,Lemire et al. (2010)
+43,Legumes,6,,,,
+44,Beans,6,0.05  0.06,0.01,0.11,Lemire et al. (2010)
+45,Edible Seeds,,,,,
+46,Brazil nuts,,22.70  7.04,9.40,39.00,Martins et al. (2012)
+47,,-,58.10  3.00,,,Cominetti et al. (2012)
+48,,40,52.02  74.76,1.80,158.42,Freitas et al. (2008)
+49,,103,27.75  33.54,0.40,158.42,Lemire et al. (2010)
+50,,80,33.62  10.25,16.7,48.75,Pacheco and Scussel (2007)
+51,,13,3.6  0.4,-,-,Parekh et al. (2008)
+52,,-,31.7  0.18,-,-,Manfio et al. (2012)
+53,,3,2.04  0.01,-,-,"Silva et al.2013a,2013b"
+54,Almonds,-,2.04  0.01,,-,Freitas and Naves (2010
+55,Walnuts,2,9.69  6.61,5.01,14.36,Lemire et al. (2010)
+56,Cariru,,1.5a,-,-,Manhaes et al. (2008)

@@ -1,0 +1,33 @@
+,0,1,2,3,4
+0,Bands,Protein name,Score,MW (Da),Uniprot acc no.
+1,1,Lipoxygenase,323,97595,tr|A0A444Y8T2
+2,2,"Allergen Ara h 1,clone P17",120,70282,sp|P43237
+3,,"Allergen Ara h 1,clone P41B",120,68351,tr|A0A6B9VGI9
+4,3,Conarachin (fragment),274,66574,tr|Q6PSU3
+5,4,Arachin Ahy-1,113,61505,tr|Q647H4
+6,,Arachin Ahy-2,113,61531,tr|Q647H3
+7,5,Storage protein,132,61498,tr|Q6T2T4
+8,,Arachin Arah3 isoform,102,60518,tr|A0A445CPR0
+9,,Arachin 6,102,60375,tr|A1DZF0
+10,,Steroleosin-B,99,39597,sp|A7LB59
+11,,Steroleosin-A,99,38691,sp|A7LB60
+12,6,"Allergen Ara h 1,clone P41B",175,63251,tr|A0A6B9VEU6
+13,,Glycinin (fragment),146,58060,tr|Q6IWG5
+14,7,Arachin 6,249,60375,tr|A1DZF0
+15,,Annexin,209,36134,tr|A0A0F7GF62
+16,8,Conarachin (fragment),214,34132,tr|Q6PSU6
+17,,Peroxygenase (caleosin,172,27537,tr|A0A445BHD3
+18,9,Ferritin,179,28252,tr|A0A444ZK21
+19,10,Glycinin (fragment),168,58060,tr|Q6IWG5
+20,11,Gly1,192,60448,tr|Q9FZ11
+21,,Arachin Ahy-4,161,60735,tr|Q5I6T2
+22,12,Conglutin-7,130,20114,sp|Q6PSU2
+23,13,Ara h 2 allergen,162,18758,tr|A0A445BYI5
+24,14,Oleosin 17.8,238,17752,sp|Q647G5
+25,,Oleosin,142,16875,sp|Q647G3
+26,,Oleosin variant A,103,18448,tr|Q9AXI1
+27,,Oleosin variant B,103,18382,tr|Q9AXI0
+28,15,Oleosin 1,107,14308,sp|Q45W87
+29,,Oleosin 2,107,14354,sp|Q45W86
+30,16,Ara h 7 allergen,128,19338,tr|B4XID4
+31,17,Ara h 6 allergen,112,15373,sp|Q647G9

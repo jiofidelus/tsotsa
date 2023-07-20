@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7
+0,inositol phosphate species,amount added(mol/g),recovery (%),,,,,
+1,,,macadamias,,pecans,hazelnuts,Brazil nuts,pistachios
+2,InsP6,0.97,98.5,,98.5,102.1,95.2,99.7
+3,InsP4,1.34,104.2,,106.7,92.1,97.4,95.7
+4,InsP4,1.30,101.4,,97.3,101.7,99.4,95.7
+5,InsP2,1.21,96.2,,96.5,104.3,99.8,92.1
+6,InsP2,0.81,95.1,,106.9,104.9,97.0,96.6
+7,InsP1,0.39,99.6,,101.9,103.1,97.2,94.7
+8,inositol phosphate species,amount added(mol/g,recovery (%),,,,,
+9,,,walnuts,cashews,cashews,wheat aleurone,corn germ,rice bran
+10,InsPe,0.97,102.4,95.1,,106.8,96.9,97.8
+11,InsP5,1.34,100.7,94.2,,92.8,107.9,96.9
+12,InsP4,1.30,102.0,98.6,,100.1,103.3,102.9
+13,InsP3,1.21,95.6,95.4,,101.1,107.9,109.8
+14,InsP1,0.81,98.1,96.5,,102.0,102.1,93.1
+15,InsP1,0.39,103.2,94.0,,103.7,95.4,107.4

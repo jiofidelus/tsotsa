@@ -1,0 +1,12 @@
+,0,1,2,3
+0,,,Classification accuracy %,Classification accuracy %
+1,,Chemometrics,,
+2,,method,Sub-genomic,Genomic
+3,,,group,group
+4,Training/calibration,PCA-LDA,100.00,100.00
+5,set,,,
+6,,PCA-LNN,100.00,100.00
+7,,PCA-SVM,100.00,100.00
+8,Test/verification set,PCA-LDA,78.95,100.00
+9,,PCA-LNN,94.87,100.00
+10,,PCA-SVM,100.00,100.00

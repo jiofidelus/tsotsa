@@ -1,0 +1,24 @@
+,0,1,2,3
+0,Food product,Producer,Bioaccessible folate,Folate
+1,,,g/100g FW),bioaccessibility%
+2,Akassa (gelatinized,P1,0.90.4a,29.1  6.8
+3,dough corn),P2,0.40.1,23.6  5.4
+4,,P3,0.7  0.2a,26.4  6.2i
+5,Doncounou (gelatinized,P1,3.2  0.8c,66.9  10.9
+6,"dough, corn)",P2,2.80.5,57.4  7.6lm
+7,,P3,2.2  0.5bc,62.4  11.1mn
+8,Kaffa (gelatinized,P1,1.60.4ab,29.8  4.5
+9,"dough, sorghum)",,,
+10,"Massa (batter fritters,",P1,5.6 0.5e,77.65.8
+11,pearl-millet),P2,8.31.3fg,80.97.7
+12,,P3,8.6  3.23,66.813.3
+13,"Fura (dumplings,",P1,4.5 0.8d,27.7  4.9
+14,pearl-millet),P2,7.4  1.5f,23.5  4.9
+15,,P3,8.2 1.6fg,27.8  3.9
+16,"Ben-kida (porridge,",P1,1.10.2ab,45.5 10.7jk
+17,pearl-millet),P2,1.10.2ab,43.59.0
+18,,P3,1.40.6ab,55.7 10.glm
+19,Ben-saalga,P1,1.10.3ab,57.3  7.5lm
+20,"(porridge,",P2,1.20.4ab,45.7 8.1jk
+21,pearl-millet),P3,1.0 0.2a,52.9  10.9kl
+22,,P4,0.60.1,30.18.8

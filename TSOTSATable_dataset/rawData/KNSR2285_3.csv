@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Method,Instrument,LOD,Sorption capacity,PFa,RSD (%),Ref.
+1,,,(ngmL-1,mgg-),,,
+2,Pb(IImagnetic ion imprinted polymer,FAAS,1.7,51.8,495,<4.1,This work
+3,Imprinted polymer on mesoporous SBA-15,FAAS,15,39.9,,1.5,Liu et al. 2011)
+4,Multiwalled carbon nanotubes/APDCb,FAAS,0.30.6,7.314.2,80,<5,Tuzen et al.2008
+5,4-(2-Pyridylazoresorcinol functionalized magnetic,FAAS,0.7,78,250,<6.6,Asgharinezhad et al. (2014)
+6,nanosorbent,,,,,,
+7,Bulk polymerization imprinted polymer,FAAS,50.2,2.01,10,3.8,Esen et al. (2009)
+8,Core-shell magnetic ion-imprinted polymer,FAAS,-,19.61,50,-,Zhang et al.(2011)
+9,Magnetic ion-imprinted and-SH functionalized polymer,FAAS,-,30.55,-,-,Guo et al. (2014)

@@ -1,0 +1,8 @@
+,0,1,2,3
+0,Blind trials,Amount of the,Actual dose,Calculated
+1,,fluorescent,(kGy),dose(kGy)a
+2,,compound(mg/kg),,
+3,Unknown 1,17.670.30,2.0,1.990.05
+4,Unknown 2,30.050.40,4.0,4.000.07
+5,Unknown 3,42.370.41,6.0,5.990.06
+6,Unknown 4,54.840.30,8.0,8.010.06

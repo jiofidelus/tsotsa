@@ -1,0 +1,75 @@
+,0,1,2,3,4,5
+0,Peak,Compound,TR,Amax,[M-H],MS/MS(m/z
+1,,,(min)a,(nm)b,m/z,
+2,1,(Epi)catechin,13.0,280,,289; 191
+3,,derivative,,,,
+4,2,Pedunculagin,13.4,320,783.0545,301;275;191
+5,,isomer I,,,,
+6,3,Caffeoyl Hexoside,13.4,320,539.1194,341;179
+7,,derivative,,,,
+8,4, Pedunculagin,13.9,320,783.0708,301;275
+9,,Isomer II,,,,
+10,5,Pedunculagin,14.1,320,783.0710,301;275;191
+11,,isomer III,,,,
+12,6,Corilagin (HHDP-,14.7,320,633.0759,481;421;301;
+13,,galloyl-hexoside,,,,275
+14,,isomer I),,,,
+15,7,Phyllanthusiin E,15.2,320,305.0689,225;191;96
+16,,methyl ester,,,,
+17,8,Not identified,15.5,320,705.2131,308;218;160;
+18,,,,,352.1054,146
+19,9,Castalagin,15.8,280,933.0656,301;275
+20,10,Pedunculagin,16.0,289,783.0695,301;275
+21,,isomer IV,,,,
+22,11,Corilagin (HHDP-,16.1,280,633.0734,481;301;275
+23,,galloyl-hexoside,,,,
+24,,isomer II),,,,
+25,12,Valoneic acid,16.2,280,469.0044,425;299
+26,,dilactone,16.3,,,
+27,13,Pedunculagin,16.3,280,783.0555,423;363;301;
+28,,isomer V,,,,275
+29,14,Trisgalloyl HHDP,16.4,280,951.0748,783;481;301;
+30,,glucose isomer I,,,,275
+31,15,Corilagin (HHDP,16.8,320,633.0782,301;275
+32,,galloyl-hexoside,,,,
+33,,isomer III),,,,
+34,16, Procyanidin B,17.0,280,577.1342,451;425;407;
+35,,dimer,,,,339; 289; 245;
+36,,,,,,125
+37,17,Caffeic acid,17.4,320,491.1418,323;179;121
+38,,derivative,,,,
+39,18,Caffeoyl Hexoside,18.4,278,341.0892,179;135
+40,19,Derivative ellagic,18.5,279,588.0664;,301;249;169
+41,,acid,,,,
+42,20,Corilagin (HHDP-,18.8,280,633.0731,301;275;249;
+43,,galloyl-hexoside,,,,169;125
+44,, isomer IV),,,,
+45,21,Catechin,18.9,275,289.0741,221;203;123;
+46,,,,,,109
+47,22,(Epicatechin Dimer,19.0,276,579.1497,289;245;221;
+48,,or Procyanidin B,,,,203; 191.0227;
+49,,dimer,19.5,,,179;123
+50,23,Casuarinin,19.5,280,935.0836,633;301;275;
+51,,,,,,249
+52,24,Di-caffeoyl shikimic,20.1,280,497.1343,335;179;135
+53,,acid,,,,
+54,25,Procyanidin B,20.3,280,577.1382,43;421;407;
+55,,dimer,,,,339;289;245;
+56,,,21.0,,,125
+57,26,Phyllanthusiin E,21.2,360,291.0165,247;191
+58,27,Ellagic acid,21.2,280,799.0647,745;435;301;
+59,,derivative,21.7,,,275
+60,28,Epicatechin,21.7,280,289.0728,191
+61,29,Not identified,22.2,280,537.2014,327;195; 165;
+62,,,,,,119;113
+63,30,Quercetin 3,22.6,360,463.0526,301
+64,,glucoside,,,,
+65,31,Cirsilineol,22.7,360,539.2166,491;343;329;
+66,,,,,,195;165
+67,32,(Epi)catechin Dimer,23.4,280,602.2140,289;195
+68,,or Procyanidin B,,,575.1929,
+69,,dimer,,,,
+70,33,(Epi)Catechin,23.4,280,729.1468,577;451;407;
+71,,derivative,,,,289;125
+72,34,Quercetin pentoside,25.5,360,433.0431,301
+73,35,,26.3,363,477.0695,315;299

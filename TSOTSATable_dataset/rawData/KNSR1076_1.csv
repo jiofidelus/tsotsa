@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,,,-tocopherol,-tocopherol,-tocopherol,-sitosterol
+1,,Standards linearity,,,,
+2,,Range (ppm),10-90,1-15,1-15,20-845
+3,Intercept,Intercept,0.0560.068,0.0083+0.0081,0.00050.0020,0.0010.005
+4,Slope,Slope,0.0150.001,0.0200.001,0.0120.001,0.00370.0001
+5,r,,0.9954,0.9981,0.9994,0.9999
+6,LOD,LOD,6.1,0.76,0.41,3.3
+7,,Precision: intra-assay,,,,
+8,RSD,RSD,1.488,1.255,1.356,2.053
+9,n,,6,6,6,6
+10,,Precision: inter-assay,,,,
+11,RSD,RSD,4.639,3.133,3.371,1.269
+12,n,,6,6,6,3

@@ -1,0 +1,19 @@
+,0,1,2,3,4,5
+0,Metals/Fish species,Site,Pb (g/g ww),Cd (g/g ww),Hg (g/g ww),Reference
+1,,,Mean  sd (min-max),Mean  sd (min-max),Mean  sd (min-max),
+2,Sardina pilcardus,Oran,0.020.01,10.99  3.93,-,Merbouh (1998)
+3,,Boumerdes,0.990.11,0,,Ouabdesselam et al.(2017
+4,,Ghazaouet/Tlemcen,0.013,,0.077,Benguendouz(2018)
+5,,Benisaf,0.018,-,0.101,
+6,,Mostaganem,0.024,-,0.117,
+7,,Algiers,0.016,-,0.091,
+8,,Jijel,0.017,,0.129,
+9,,Boumerdes,0.055  0.021,0.031  0.017,,Hamida et al.2018
+10,,Algiers,0.23  0.26,0.130.09,0.100.03,Present study
+11,,,(0.21-0.25),(0.040.31),(0.090.11),
+12,,Bejaia,0.09  0.01,0.04  0.02,0.22  0.01,
+13,,,(0.09-0.09),(0.01-0.08),(0.08-0.50),
+14,,Dellys,0.03  0.003,0.0150.005,0.13  0.05,
+15,,,(0.01-0.06),(0.01-0.02,(0.06-0.20),
+16,Sardinell aaurita,Oran,0.024,3.193,-,Benamar (2006
+17,Trachurus trachurus,Oran,0.02  0.002,1.85  0.76,-,Benadda (2009)

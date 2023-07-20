@@ -1,0 +1,24 @@
+,0,1,2,3
+0,Matrix,Problems encountered when standard validated,Modifications,Example of error in assayed
+1,,method for orange juice was applied to other,,vitamin C without modification
+2,,matrices,,
+3,Fruits and vegetables,Incomplete extraction of AA in some fruit/,3X-extraction as standard procedure,"Underestimation(for example,"
+4,,"vegetable matrices (e.g.,broccoli) when",,"broccoli in Table 2,2X-extraction"
+5,,2X-extraction was used,,yielded 5% lower AA values than
+6,,,,3X-extraction)
+7,,"Starchy matricese.g.potatodifficult to filter,",Vacuum filtration,Inaccuracy and imprecision
+8,,with long centrifugation times when filtering,,from possible extract losses
+9,,extract using centrifugal filtration,,
+10,, Interfering peaks eluting close to AA,Dilution of extract to render interfering,Inaccuracy and decreased
+11,,(10% of AA peakon HPLCe.g.collard,peaks undetectable (only applied when,precision from variability
+12,,"greens,potato and",interferences10% of AA peak),in integration of AA peak area
+13,,"Deformed AA peak on HPLC,indicating lack of",HPLC mobile phase changed to 0.02%,Overestimation
+14,,"resolution from interferences, with interferences up",ortho-phosphoric acid (at 0.7ml/min flow,
+15,,"to ~25-30% AA (e.g., green onions, cantaloupe, corn)",rate for routine analysis,
+16,Dry foodsparsley,Homogenization difficult due to large flakes floating,Parsley and oregano flakes were ground to,Underestimation and
+17,and oregano flakes,on top of extraction buffer and not processed by the,a powder prior to AA extraction and extracts,imprecision due to incomplete
+18,,blade; also flakes make centrifugal filtration difficult,filtered by vacuum filtration,extraction and extract losses.
+19,High-fat foods,Fat layer on top of AA extract that interfered,Hexane extraction of fat prior,Inaccurate AA measurements
+20,,"with filtration, taking extract accurately to",to extraction of AA,and high variability due to
+21,,volumeand HPLC,,"extract losses,inaccurate volumes"
+22,,,,and HPLC problems.

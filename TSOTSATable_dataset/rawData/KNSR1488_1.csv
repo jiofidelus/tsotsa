@@ -1,0 +1,10 @@
+,0,1
+0,Parameter,Erg
+1,Linear range (ng/band),40-600
+2,Slope  SD (a),10.44 0.34
+3,InterceptSD(a),209.59 37.52
+4,"Correlation coefficient, r",0.9995
+5,"Determination Coefficient,r2",0.9913
+6,RF Value,0.45  0.002
+7,LOD (ng/band),10.79
+8,LOQ(ng/band),35.95

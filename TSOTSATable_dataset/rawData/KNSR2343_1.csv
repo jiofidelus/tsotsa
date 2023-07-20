@@ -1,0 +1,45 @@
+,0,1,2,3
+0,Accessions,Seed,Accessions,Seed
+1,,color,,color
+2,Afghanistan 1,BLK,Nepal,DB
+3,Afghanistan 2,DB,Pakistan,W
+4,Afghanistan 3,W,Russia 1,DB
+5,Afghanistan 4,LB,Russia 2,W
+6,China 1,LB,Russia 3,W
+7,China 2,G,South Korea 1,DW
+8,China 3,BLK,South Korea 2,BLK
+9,China 4,BLK,Taiwan 1,BLK
+10,Egypt 1,BLK,Taiwan 2,BLK
+11,Egypt 2,W,Taiwan 3,DW
+12,Egypt 3,DB,"Turkey, Izmir 1",BLK
+13,Greece 1,LB,"Turkey, Izmir 2",B
+14,Greece 2,LB,"Turkey, Izmir 3",B
+15,Greece 3,BLK,"Turkey, Izmir 4",LB
+16,India 1,BLK,"Turkey, Izmir 5",W
+17,India 2,W,Turkey-Balikesir-Bandirma***,LB
+18,India 3,W,Turkey-Bursa-Orhangazi***,LB
+19,India 4,W,Turkey-Diyarbakir-Ergani-Dagaras,LB
+20,,,1**,
+21,India 5,W,Turkey-Diyarbakir-Ergani-Dagarasi,BLK
+22,,,2**,
+23,India 6,W,Turkey-Denizli-Acipayam***,B
+24,Iran 1,Y,Turkey-Diyarbakir-Bismil-Bakacak**,DB
+25,Iran 2,DB,Turkey-Diyarbakir-Ergani-Gisgis**,DB
+26,Iran 3,W,Turkey-Diyarbakir-Ergani-,DB
+27,,,Giilbaran**,
+28,Iraq,BLK,Turkey-Diyarbakir-Lice-Durukoy**,DB
+29,Israel 1,DB,Turkey-Izmir-Tire***,W
+30,Israel2,G,Turkey-icel-Anamur***,Y
+31,Israel 3,BLK,Turkey-Kitahya-Gediz***,LB
+32,Japan 1,BLK,Turkey-Kuitahya-Tavsanli***,LB
+33,Japan 2,DB,Turkey-Manisa***,BLK
+34,Japan 3,DW,Turkey-Orhangazi-990***,W
+35,Jordan,W,Turkey-Osmaniye***,B
+36,Libya 1,B,Turkey-S.Urfa-Siverek-Yuvakoy**,B
+37,Libya 2,BLK,Turkey-Sanliurfa-Suruc*,LB
+38,Mexico 1,B,Turkey-Tekirdag-$arkoy***,B
+39,Mexico 2,W,Turkey-Usak-Sivasl***,Y
+40,Mozambique 1,W,USA,B
+41,Mozambique 2,LB,Venezualla 1,DW
+42,Myanmar 1,DW,Venezuella 2,W
+43,Myanmar 2,DG,Zaire,W

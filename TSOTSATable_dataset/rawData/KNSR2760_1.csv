@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,DES Type,DES components,HBAs,HBD,Molar ratio,Recovery(%
+1,DES-1,ChCl-ethylene glycol,ChCl,Ethylene glycol,1:2,79.4
+2,DES-2,ChCl-glycerol,ChCl,Glycerol,1:3,70.8
+3,DES-3,"ChCl-1,3-butanediol",ChCl,"1,3-Butanediol",1:3,59.1
+4,DES-4,"TBACl-1,4-butanediol",TBACI,"1,4-Butanediol",1:2,62.4
+5,DES-5,"TBACl-2,3-butanediol",TBACI,"2,3-Butanediol",1:2,88.1
+6,DES-6,"TOACl-1,3-butanediol",TOACI,"1,3-Butanediol",1:3,57.3
+7,DES-7,TOACl-glycerol,TOACI,Glycerol,1:3,75.5

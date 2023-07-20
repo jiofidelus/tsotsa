@@ -1,0 +1,23 @@
+,0,1,2,3,4,5
+0,Leafy green,Genotype,Upper leaves,,Lower leaves,
+1,,,Ascorbic acid,,Ascorbic acid,
+2,,,Total (mg/100 gfm),Free (mg/100 gfm,Total (mg/100 gfm),Free(mg/100 gfm)
+3,Collard,Blue Max,109.7 d,42.1 g,99.0 defg,37.0 ghi
+4,,Top Bunch,128.0 bcd,47.1 efg,77.0 g,35.8 hi
+5,,Heavicrop,111.3d,47.0 efg,88.8 efg,35.9 hi
+6,,Heavicrop,132.7 abcd,41.6 g,86.5 fg,32.3 i
+7,,Flash,135.7 abcd,67.6 bcdef,90.7 efg,46.7 efghi
+8,,Vates,132.3 abcd,51.3 cdefg,119.5 bcd,67.4 abc
+9,,Georgia,151.5ab,74.9 abc,129.6 bc,74.4 a
+10,,Georgia,147.1 ab,74.9 abc,129.6 bc,51.1 cdefgh
+11,,SC Glaze,132.6 abcd,66.0 bcdef,104.5 cdef,39.9 fghi
+12,,Variegated,148.5 ab,47.9 efg,102.8 defg,52.8 bcdefg
+13,,NC030,113.5 cd,50.6 defg,112.7 bcde,48.8 defgh
+14,,NC037,128.2 bcd,55.9 bcdefg,108.9 cdef,57.4 bcde
+15,,NC022,134.7 abcd,72.7 abcd,107.4 cdef,48.2 defghi
+16,,NC022,135.5 abcd,72.7 abcd,121.4 bcd,68.7 ab
+17,Turnip green,Topper,110.7d,55.4 bcdefg,107.8 cdef,67.0 abc
+18,,Alamo,150.8 ab,94.8 a,117.5 bcd,67.0 abc
+19,Mustard green,FL Broadleaf,114.5 cd,48.2 efg,84.2 fg,40.8 fghi
+20,,So. Curled Giant,162.3 a,76.9 ab,168.9 a,78.8 a
+21,LSDo.05 a,,31.0,23.6,26.3,16.5

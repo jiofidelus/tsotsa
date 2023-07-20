@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,Laboratory,Laboratory,,,,,,,,
+1,,A,A,,,C,D,D,,E,FCMDLa
+2,Method source,AOAC 2002.05b,AOAC 2002.05b,AOAC982.29,Chen et al.1990,,Hollis2005,Hollis2005,Hollis(2005,Hollis(2005,Extraction from AOAC
+3,,(modified),(modified),(modified),,,modified,modified,(modified,(modified,992.26(internal
+4,,,,,,,,,,,standard addedand
+5,,,,,,,,,,,chromatographic
+6,,,,,,,,,,,method from AOAC
+7,,,,,,,,,,,2002.05b
+8,Internal standard,Dihydrotachy-sterol,,None,3H-Vitamin Df,,Vitamin D2,Vitamin D2,3H-Vitamin D3,,Vitamin D
+9,Initial extraction solvent,n-Heptane,n-Heptane,Hexane,Hexane,Hexane,Hexane,Hexane,Hexane,Hexane,Ether/petroleum ether
+10,Cleanup steps,,2,2,,3,,3,,3,
+11,Quantification,HPLC-UV,HPLC-UV,HPLC-UV,HPLC-UV+scintillation,,HPLC-UV,HPLC-UV,HPLC-UV+scintillation,,HPLC-UV diode array
+12,,,,,counting for the IS,,,,counting for the IS,,and LC-MS (auxiliary
+13,,,,,,,,,,,detection)
+14,Further confirmation of data,HPLC/MS,HPLC/MS,N/A,N/A,N/A,Recovery studies on,,N/A,N/A,LC/MS in SIM mode
+15,,,,,,,skim milkg,skim milkg,,,

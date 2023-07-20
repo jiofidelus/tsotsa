@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,Location,Bean sample,Insecticide,Level of,MRLs*(mg
+1,,ID,detected,residue,kg1
+2,,,,(mg,
+3,,,,kg1,
+4,Raja bazar,B-6,Quinalphos,0.107,0.01
+5,Gabtoli bazar,B-2,Quinalphos,0.009,0.01
+6,Gabtoli bazar,LB-7,Dimethoate,0.008,0.01
+7,Sonatola bazar,B-5,Quinalphos,0.101,0.01
+8,Sonatola bazar,LB-1,Dimethoate,0.062,0.01
+9,Mohasthan,LB-3,Dimethoate,0.321,0.01
+10,bazar,LB-3,Chlorpyrifos,0.028,0.05
+11,bazar,LB-7,Quinalphos,0.059,0.01
+12,Shibgonj bazar,B-7,Quinalphos,0.007,0.01
+13,Shibgonj bazar,LB-4,Dimethoate,0.009,0.01

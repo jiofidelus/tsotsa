@@ -1,0 +1,27 @@
+,0,1,2,3,4,5
+0,Product information,Product information,,,Molecular identification,Molecular identification
+1,,Price,,,,DNA barcoding
+2,Sample,(RMB/,Date of,Country of,LAMP,BOLD/BLAST
+3,code,kg),Production,Origin,,98%
+4,Lw-1,98,2021.06.05,,S.salar,S.salar
+5,Lw-2,245,2021.07.08,Norway,S.salar,S.salar
+6,Lw-3,300,2021.07.08,,S.salar,S.salar
+7,Lw-4,106,2021.05.18,Chile,S.salar,S.salar
+8,Lw-5,196,2021.05.03,Chile,S.salar,S.salar
+9,Lw-6,90,2021.05.09,China,S.salar,S.salar
+10,Lw-7,40,2021.06.15,The Faroe,No,O. mykisss
+11,Lw-7,40,2021.06.15,Islands,signal,O. mykisss
+12,Lw-8,193,2021.05.24,Chile,S. salar,S.salar
+13,Lw-9,188,2021.04.07,Chile,S.salar,S.salar
+14,Lw-10,20,2021.07.02,,S.salar,S.salar
+15,Lw-11,20,2021.07.02,Australia,S.salar,S.salar
+16,Lw-12,56,2021.07.03,,S.salar,S.salar
+17,Lw-13,780,2021.04.10,,No,O.keta
+18,Lw-13,780,2021.04.10,China,signal,O.keta
+19,Lw-14,57,2021.04.28,,S.salar,S.salar
+20,Lw-15,160,2021.07.03,Denmark,S.salar,S. salar
+21,Lw-16,995,2020.10.19,,signal,O. gorbuscha
+22,Lw-17,182,2021.04.10,China,S.salar,S.salar
+23,Lw-18,21,2021.05.16,China,S.salar,S.salar
+24,Lw-19,21,2021.04.30,,S.salar,S.salar
+25,Lw-20,446,2021.05.28,,S.salar,S.salar

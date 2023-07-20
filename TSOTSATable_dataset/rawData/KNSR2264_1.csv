@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6
+0,Fraction,Solvent,"Spectrum, Amax (nm)",%111/11,Hypsochromic shift (nm),Results of epoxide test,Tentative identification
+1,C1,Chloroform,"426,450,479",,40,,
+2,,Ethanol,"417,440,470",95,,,
+3,,CS2,"446,470,499",,,Diepoxide,Violanxanthin
+4,,Acetone,"417,440,470",,,,
+5,C2,Chloroform,"432, 455, 485",,None,,
+6,,Ethanol,"423, 445, 474",,,,
+7,,CS2,"474,505",,,Nonepeoxide,Lutein
+8,,Acetone,,,,,
+9,C3,Chloroform,"462,487",25,None,,
+10,,Ethanol,"448,473",25,,,
+11,,CS2,"449,476",,,Nonepoxide,-Carotene
+12,,Acetone,"453,479",15,,,

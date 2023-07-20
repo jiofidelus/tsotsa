@@ -1,0 +1,17 @@
+,0,1,2,3
+0,Class type (element extracted),Regression equation,R2,R
+1,Class I,Cl conc=3367+0.937 Cla,0.935,0.967
+2,,Cu conc=-13.2+38.7 Cua,0.775,0.880
+3,,Zn conc=-35.4+8.97Zna,0.593,0.770
+4,,Sr conc=13.9+11.6Sra,0.569,0.754
+5,Class II,F conc=7.90+0.066Fa,0.007,0.085
+6,Class III,Cd conc=1.97-1.94Cda,0.281,-0.97
+7,,Co conc=11.2-2.49Coa,0.369,0.607
+8,,Mn conc=67.5-9.1Mna,0.214,0.463
+9,,Ni conc=14.9-1.30Nia,0.054,0.232
+10,,Pb conc=27.9-2.18Pba,0.942,0.971
+11,,Fe conc=1823-0.388Fea,0.104,0.322
+12,,Mg conc=7021-5.18Mga,0.857,-0.910
+13,,Na conc=3186-0.53Naa,0.119,-0.346
+14,,K conc=32568-1.67Ka,0.829,-0.910
+15,,I conc=10.4-9.11a,0.119,0.336

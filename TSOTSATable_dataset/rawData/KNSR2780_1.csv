@@ -1,0 +1,6 @@
+,0,1,2,3
+0,Operation,Temperature (C),Ramp (s),Holding time (s)
+1,Drying,100,10,10
+2,Pyrolysis,800,10,20
+3,Atomization,1800,0,4
+4,Cleaning,2300,0,1

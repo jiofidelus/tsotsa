@@ -1,0 +1,37 @@
+,0,1,2,3,4,5
+0,No.,Geographical,Administrative,District,Variety,Sample
+1,,region,zone,,of teff,ID
+2,,,,Minjar,White,AW1
+3,,,,Shenkora,Brown,AB19
+4,,,,Tar Mahber,White,AW2
+5,,Group 1,North Shewa,Tar Mahber,Brown,AB20
+6,,Group 1,North Shewa,Antsokiyana,White,AW3
+7,,,,Gemza,Brown,AB21
+8,,,,Ankober,White,AW4
+9,1,,,Ankober,Brown,AB22
+10,1,,,Dessie Zuria,White,AW5
+11,,,,Dessie Zuria,Brown,AB23
+12,,,South Wollo,Were Ilu,White,AW6
+13,,,South Wollo,Were Ilu,Brown,AB24
+14,,,,Legahida,White,AW7
+15,,,,Legahida,Brown,AB25
+16,,,East Gojam,Goncha Siso,White,AW8
+17,,,East Gojam,Enese,Brown,AB26
+18,,,,Boset,White,OW9
+19,,,East Shewa,Boset,Brown,OB27
+20,,,East Shewa,Adama Zuria,White,OW10
+21,,,,Adama Zuria,Brown,OB28
+22,,,Arsi,Jeju,White,OW11
+23,,,Arsi,Jeju,Brown,OB29
+24,,,West Arsi,Negelle Arsi,White,OW12
+25,2,Group 2,,,White,OW13
+26,,,,Ada'a,Brown,OB31
+27,,,,Bishoftu,White,OW14
+28,,,East Shewa,Bishoftu,Brown,OB32
+29,,,East Shewa,Gimbichu,White,OW15
+30,,,,Gimbichu,Brown,OB33
+31,,,,Dugda,White,OW16
+32,,,,Dugda,Brown,OB34
+33,,,,Soro,White,SW17
+34,3,Group 3,Haddiya,,White,SW18
+35,,,,Gomibora,Brown,SB36

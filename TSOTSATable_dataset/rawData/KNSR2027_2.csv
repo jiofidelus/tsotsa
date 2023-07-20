@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Componentsa,[M+Na]*,CID products,Samples,,,,,,
+1,,(m/z),(m/z),,,,,,,
+2,,,,EVOO,00,HO,so,EVOO+HO,EVOO+0O,EVOO+SO
+3,Triacylglycerols,,,,,,,,,
+4,PLL,877,597,nd,nd,nd,,nd,nd,X
+5,PLO,879,"623, 601, 555",nd,x,x,nd,,x,x
+6,POO,881,"625, 599, 577",x,X,x,nd,x,x,X
+7,POS,883,"627,601,579",x,X,,nd,,X,x
+8,LLL,901,621,nd,nd,X,x,nd,nd,X
+9,"LLO, LLn",903,"625,623,621",nd,nd,X,X,nd,nd,X
+10,"OOL, LLS",905,"623, 601 621",x,,X,x,x,x,X
+11,"O00, SOL",907,"625, 603",x,x,X,nd,x,x,X
+12,"O0S, SSL",909,"627, 605",x,x,X,nd,x,X,x

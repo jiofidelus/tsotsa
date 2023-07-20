@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,,Intra-day,Inter-day,Recovery%,,
+1,Tocopherols,precision,precision,,,
+2,,RSD (%),RSD (%),Low,Medium,High
+3,-Tocopherol,3.74,3.68,83.88,99.67,99.92
+4,-Tocopherol,2.01,2.03,81.82,100.94,100.41
+5,8-Tocopherol,1.89,1.98,81.25,102.54,99.98

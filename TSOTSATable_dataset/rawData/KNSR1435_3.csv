@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Class,Analyte,MRL,,, Linear range,Matrix matched calibration,LOD,LOQ,CCa,CC
+1,,,,,,gkg-1,(r2),(g kg-1),(g kg~1),(g kg~1),(gkg~1
+2,MACROLIDE,Clindamycin,,,,12.5200,0.998,4.9,14.9,,
+3,LINCOSAMIDE,Lincomycin,100a,,,12.5200,0.993,7.2,21.7,116.9,133.9
+4,SULFONAMIDE,Sulfadiazine,Sum of 100 a,,,12.5200,0.995,2.4,7.3,111.0,122.0
+5,,Sulfathiazole,-,,,12.5200,0.997,0.3,0.8,106.8,113.7
+6,,Sulfapyridine,-,,,12.5200,0.994,3.0,9.0,109.8,119.5
+7,,Sulfamerazine,-,,,12.5200,0.998,7.6,22.9,107.2,114.4
+8,,Sulfamethizole,-,,,580,0.998,2.9,8.7,101.5,103.0
+9,,Sulfamethoxypyridazine,,,,580,0.999,0.9,2.6,108.6,117.3
+10,,Sulfamethoxazole,-,,,580,0.995,7.4,22.4,116.8,133.6
+11,,Sulfisoxazole,-,,,580,0.997,0.9,2.6,105.0,110.0
+12,,Sulfadimethoxine,-,,,5-80,0.999,0.9,2.6,109.5,119.0
+13,AMINOGLYCOSIDE,Spectinomycin,-,,,50800,0.998,28.2,85.4,,-
+14,,Hygromycin B,,,,25-400,0.994,0.6,1.7,,-
+15,,Streptomycin,125 a,,,25-400,0.996,15.4,46.6,134.8,144.7
+16,,Dihydrostreptomycin,,,,12.5200,0.994,7.7,23.4,,
+17,,Amikacin,,,,12.5200,0.997,7.4,22.3,,=
+18,,Kanamycin,=,,,12.5200,0.998,2.8,5.5,,-
+19,,Apramycin,-,,,12.5-200,0.997,2.8,8.6,-,
+20,,Gentamicin,-,,,50-800,0.994,13.6,41.2,-,-
+21,,Paromomycin,-,,,12.5200,0.996,6.4,19.4,-,
+22,PENICILLINE,Penicillin G,,1,,580,0.996,2.2,6.7,,
+23,TETRACYCLINE,Oxytetracycline,300b,,,12.5200,0.997,2.1,6.5,255.2,319.4
+24,,Teteracycline,250 a,,,12.5200,0.997,3.3,10.0,255.2,260.4
+25,,Minocycline,,,,12.5200,0.998,4.9,15.0,-,-
+26,,Chlortetracycline,100a,,,12.5200,0.997,4.6,14.1,109.9,119.9
+27,,Anhydrotetracycline,,,,12.5200,0.998,5.4,16.3,,-

@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Foodstuffs,na,mg/100 g dry matter,mg/100 g dry matter,,,,,,,
+1,,,Fe,Zn,Ca,P,K,Cu,Mn,Mg,Phytate
+2,Cereals,,,,,,,,,,
+3,"Sorghum,whole grain,white (Surghum bicolour",9,4.3,2.3,7,275,329,0.2,1.7,129,503
+4,"Sorghum,whole grain, red (Surghum bicolour)",9,3.8,2.2,11,330,431,0.3,1.8,138,373
+5,"Maize,whole grain,whiteZea mays)",10,2.6,2.2,6,276,367,0.2,0.7,105,348
+6,"Millet,whole grain (Pennisetum glaucum)",7,8.4,3.4,21,228,441,0.5,1.2,107,104
+7,Roots and tubers,,,,,,,,,,
+8,"Yam,driedchipsDioscorea spp.)",7,2.3,1.2,30,68,1011,0.3,0.2,53,ND
+9,"Cassava,dried (chips(Manihot esculenta",6,0.3,0.5,54,69,899,0.3,0.9,75,ND
+10,Legumes,,,,,,,,,,
+11,"Bambara groundnuts,seeds,red,dried(Voandzeia subterranea)",8,1.4,2.2,38,296,1405,0.7,1.1,194,220
+12,"Bambara groundnuts, seeds, white,dried(Voandzeia subterranea)",8,2.1,2.6,54,335,1484,0.9,1.4,201,325
+13,"Soya,seeds,whole,dried(Glycine max)",6,7.4,5.1,349,616,1926,1.6,3.7,264,808
+14,"Cowpea,seeds,whole,dried,black Vigna unguiculata",7,7.8,4.6,87,448,1582,0.7,2.4,232,769
+15,"Cowpea,seeds,whole,dried,whiteVigna unguiculata",8,6.8,4.9,101,413,1441,1.0,2.2,218,251
+16,"Peanut, seeds, dried, rose (Arachis hypogaea)",6,3.9,3.9,36,358,758,1.2,2.2,208,703
+17,"Peanut, seeds, dried, red (Arachis hypogaea)",6,2.4,3.0,46,353,834,1.1,1.7,203,483
+18,Vegetables,,,,,,,,,,
+19,"Okra ladies-fingers,pods,dried (Hibiscus esculentus",7,33.7,5.1,960,616,2775,1.2,4.8,600,ND
+20,"Okra ladies-fingers,leaves,dried Hibiscus esculentus",8,111.3,5.0,3565,600,1918,1.3,17.2,1191,ND
+21,"Bombax,flower calyces,dried(Bombax buonopozense",7,9.8,2.8,2200,88,1923,1.2,4.0,626,ND
+22,"Onions, leaves, dried (Allium cepa)",6,236.0,3.4,2009,206,3799,0.7,41.2,525,NM
+23,"False sesame,leaves, dried(Ceratotheca sesamoides)",7,146.2,5.0,1207,377,2125,2.6,20.7,592,NM
+24,Seeds and fruits,,,,,,,,,,
+25,"African locust bean,seeds,fermentedParkia biglobosa",8,57.2,12.9,1045,875,466,3.3,17.7,379,ND
+26,"Monkey-bread,seed,dried (Adansonia digitata)",10,10.3,7.9,348,1767,1029,2.6,3.4,782,4903
+27,"African locust bean,fruit,pulp(Parkia biglobosa)",7,268.3,0.9,123,101,1947,0.5,5.1,156,91
+28,"Cochlospermum spp., root's powder (Cochlospermum spp.)",10,103.8,1.0,703,48,373,0.3,5.0,404,ND
+29,Ackee fruit (Bligia sapida),6,5.5,2.2,127,189,1576,1.4,1.0,261,NM

@@ -1,0 +1,38 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Class,Subclass,Compound,Linear range,LOQg,R2,Matrix,Accuracy and precision (first and second columns),,,Accuracy and precision (first and second columns),Accuracy and precision (first and second columns),
+1,,,,(ng mL-1,kg-1,,effect (%),for each validation level (%),for each validation level (%),for each validation level (%),,,
+2,,,,,,,,1000 g kg-1,1000 g kg-1,,,10 g kg~1,10 g kg~1
+3,,,Gallic acid,1-1000,1,0.995,57,99.4,3.0,92.0,6.5,74.1,11.1
+4,,,acid,1-1000,1,0.994,68,99.4,4.3,105.6,6.6,101.3,9.5
+5,,Hydroxybenzoic acids,Syringic acid,1-1000,1,0.997,58,105.1,7.4,98.7,9.5,114.6,8.0
+6,,,acid,5-1000,5,0.991,75,96.2,3.6,116.3,6.8,78.3,15.6
+7,Phenolic acids,,Vanillic acid,10-1000,10,0.998,75,96.0,5.7,99.6,3.1,111.5,14.7
+8,,,p-Coumaric acid,1-1000,1,0.988,75,92.1,3.1,113.5,5.1,104.5,9.5
+9,,,Ferulic acid,1-1000,1,0.998,68,100.3,3.6,98.1,6.7,93.8,7.9
+10,,Hydroxycinnamic,o-Coumaric acid,1-1000,1,0.998,71,101.2,4.7,100.3,5.4,99.4,6.7
+11,,acids,Chlorogenic acid,2.5-1000,2.5,0.996,50,100.1,3.6,94.7,2.2,73.0,28.7
+12,,,Sinapic acid,2.5-1000,2.5,0.997,64,99.9,5.1,83.1,4.4,81.4,8.7
+13,,,Caffeic acid,5-1000,5,0.993,70,96.3,4.4,108.0,12.4,77.1,13.3
+14,,Flavan-3-ols,Catechin,2.5-1000,2.5,0.997,55,104.6,6.9,83.9,16.3,81.0,8.2
+15,,Flavan-3-ols,Epicatechin,2.5-1000,2.5,0.992,53,112.2,8.3,81.0,22.1,79.6,10.7
+16,,,Isovitexin,1-1000,1,0.984,42,105.6,3.6,116.7,6.6,112.1,10.5
+17,,Flavones,Chrysin,1-1000,1,0.998,74,90.8,3.4,108.9,6.5,89.7,8.5
+18,,Flavones,Luteolin,5-1000,5,0.994,67,95.1,3.8,100.9,9.9,105.2,26.0
+19,,,Apigenin,5-1000,5,0.971,75,88.3,3.3,126.4,5.6,80.9,10.1
+20,,Isoflavones,Genistein,1-1000,,0.982,70,91.2,4.2,112.7,6.6,106.2,5.8
+21,,Isoflavones,Daidzein,1-1000,,0.971,65,91.6,7.7,126.5,7.2,105.3,6.7
+22,Flavonoids,,Formononetin,1-1000,1,0.962,68,88.8,2.8,126.0,6.9,110.9,8.0
+23,Flavonoids,Isoflavones (O-,Acacetin,1-1000,,0.995,62,103.9,8.1,110.8,13.9,118.0,8.4
+24,,methylated),Biochanin A,1-1000,1,0.990,63,95.0,9.6,116.2,6.0,107.2,4.8
+25,,,Rhamnetin,10-1000,10,0.987,21,118.9,5.9,84.4,31.6,113.9,19.4
+26,,,Kaempferol,1-1000,1,0.994,75,96.1,5.2,92.1,23.1,79.3,3.0
+27,,Flavonols,Galangin,1-1000,1,0.979,55,94.5,8.8,116.8,7.3,88.2,6.5
+28,,Flavonols,Myricetin,5-1000,5,0.991,40,88.5,5.0,99.6,6.0,96.8,15.7
+29,,,Quercetin,5-1000,5,0.971,33,124.3,10.5,62.8,32.8,69.4,20.9
+30,,Flavonol glycoside,Rutin,5-1000,5,0.986,15,115.6,10.5,99.9,18.9,47.1,27.2
+31,,Proanthocyanidin,Procyanidin A2,5-1000,5,0.996,62,99.4,3.8,84.6,12.2,92.5,10.1
+32,Plant hormones,Isoprenoid,Abscisic acid,1-1000,1,0.997,71,97.3,2.3,101.8,4.4,96.2,10.6
+33,Plant hormones,Auxin,Phenylacetic acid,5-1000,5,0.994,67,99.2,3.8,101.6,13.2,87.9,11.2
+34,Water-soluble,,Pantothenic acid,1-1000,1,0.993,42,102.2,4.0,106.5,6.2,100.9,11.3
+35,vitamins,B vitamins,Biotin,2.5-1000,2.5,0.995,58,101.6,5.2,87.1,15.4,90.0,13.2
+36,vitamins,,Folic acid,5-1000,5,0.988,8,102.5,12.0,103.7,9.4,65.2,13.1

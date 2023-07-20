@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7
+0,,Automated,Default,Manual,Manual,Total,Share of InfoScan,Share of Consumer Network
+1,,,,,correction,,sales,purchases
+2,,(Number of UPCs),(Number of UPCs),,,,(Percent),
+3,,PPC to FNDDS 2013-14,PPC to FNDDS 2013-14,,2669,,IRI 2015,94.05
+4,Valid match,"487,544",0,"34,720",2669,"524,933",95.04,94.05
+5,Reviewed and no match available,52,0,"32,407",286,"32,745",4.56,5.23
+6,Unmatched,0,"43,421","36,644",0,"80,065",0.4,0.72
+7,No sales (unmatched),0,"407,045",0,0,"407,045",0,0
+8,,PPC to FNDDS 2015-16,PPC to FNDDS 2015-16,,,,IRI 2015,
+9,Valid match,"195,839",0,"21,114",,"216,953",92.3,92.31
+10,Reviewed and no match available,"13,582",0,3090,,"16,672",5.4,4.05
+11,Low sales (unmatched),0,"509,057",0,,"509,057",2.6,3.63
+12,Product dictionary errors,8,6815,17,,6840,0.01,0.01
+13,(unmatched),,,,,,,
+14,No sales (unmatched),0,"399,640",0,,"399,640",0,0
+15,,PPC to FNDDS 2015-16,PPC to FNDDS 2015-16,,,, IRI 2016,
+16,Valid match,"195,839",0,"21,114",,"216,953",91.9,92.3
+17,Reviewed and no match available,"13,582",0,3090,,"16,672",5.6,4.3
+18,Low sales (unmatched),0,"509,057",0,,"509,057",2.6,3.4
+19,Product dictionary errors,8,6815,17,,6840,0.01,0.01
+20,(unmatched),,,,,,,
+21,No sales (unmatched),0,"399,640",0,,"399,640",0,0

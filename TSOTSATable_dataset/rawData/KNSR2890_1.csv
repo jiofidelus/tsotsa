@@ -1,0 +1,25 @@
+,0,1,2,3,4
+0,,Dehulled red,Whole reda,Dehulled green,Whole green
+1,Raffinose(%),,,,
+2,Raw,0.40.1a,0.40.1a,0.40.1a,0.4 0.1a
+3,Cooked,0.40.1a,0.40.1a,0.40.1a,0.40.1a
+4,Cooled,0.40.1a,0.30.1b,0.50.1a,0.30.1b
+5,Reheated,0.30.1a,0.30.1b,0.40.1a,0.30.1b
+6,SEb,0.01,0.01,0.01,0.01
+7,Stachyose (%),,,,
+8,Raw,3.10.3a,3.40.3a,3.40.4a,3.00.4a
+9,Cooked,3.30.3a,3.40.4a,3.10.2a,2.90.2ab
+10,Cooled,3.30.6a,2.90.3a,3.10.2a,2.60.3bc
+11,Reheated,2.80.6a,2.80.1a,2.90.3a,2.40.3c
+12,SE,0.1,0.1,0.1,0.1
+13,Verbascose(%,,,,
+14,Raw,2.10.4a,2.30.3a,1.90.4a,2.10.4a
+15,Cooked,2.20.3a,2.2 0.4a,2.00.3a,1.90.3ab
+16,Cooled,2.20.4a,1.90.2a,2.10.3a,1.80.4ab
+17,Reheated,1.80.4a,1.80.2a,2.00.4a,1.70.3b
+18,SE,0.1,0.1,0.1,0.1
+19,Total raffinose family sugars (%,Total raffinose family sugars (%,,,
+20,Raw,5.51.1a,6.11.2a,5.71.2a,5.51.1a
+21,Cooked,5.91.2a,6.01.2a,5.51.1a,5.21.1a
+22,Cooled,5.91.2a,5.21.0b,5.71.1a,4.60.9b
+23,Reheated,4.91.0a,4.91.0b,5.41.0a,4.30.9b

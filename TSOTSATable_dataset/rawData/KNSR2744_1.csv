@@ -1,0 +1,27 @@
+,0,1,2
+0,Compound3456,Determination,Reference
+1,,method,
+2,Mineral Profile,AAS,"Majkowska-Gadomska et al.,2014;Naiji"
+3,,,"& Souri,2018;Nurzynska-Wierdak et al."
+4,,,2012
+5,,IC,"Ciriello et al,2021a;Ciriello et al."
+6,,,2021b
+7,Ascorbic Acid,IDM,"Dumbrava et al.,2012"
+8,,HPLC,"Murarikova& Neugebauerova,2018"
+9,,SPM,"Sgherri et al.,2010"
+10,Tocopherols,RP-HPLC,"Sgherri et al.,2010"
+11,(Vitamin E),HPLC,"Fernandes et al.,2019"
+12,Carotenoids,HPLC,"Daly et al.,2010;Kopsell et al.,2005"
+13,,SPM,"Batra et al.,2016;Proshkin et al.,2021"
+14,,,"Sakalauskaite et al.,2013;Stagnari et al."
+15,,,"2018;Wongsen et al.,2013"
+16,Volatile organic,SPME and GC/,Ciriello et al.2021a;Ciriello et al.
+17,compounds,MS,"2021b;Ciriello et al.,2022;Ciriello et al."
+18,,,2020
+19,,GC-EIMS,"Kiferle et al.,2019"
+20,,GC/MS and GC/,"Elementi et al.,2006;Ilic et al.,2022;"
+21,,FID,Milenkovic et al..2019:Patel et al..2016
+22,,GC/MS,"Chutimanukul et al.,2022;Majdi et al."
+23,,,"2020;Patel et al.,2021;Tangpao et al."
+24,,,"2018;Wogiatzi et al.,2011;Zeljkovic"
+25,,,"et al.,2020"

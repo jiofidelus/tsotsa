@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6
+0,Bird,Type,Part,Moisture,Protein,Fat,Ash
+1,Bush fowl,Bush fowl,Drumstick,70b,25.6,5.2,1.17
+2,,,and Thigh,0.19,0.20,0.09,0.01
+3,,,Breast,66.5,28.7c,3.4,1.38a
+4,,,,0.19,0.20,0.15,0.06
+5,,,Wing,68.0b,24.4,4.4,1.23
+6,,,,0.21,0.26,0.26,0.47
+7,Domestic fowl Drumstick,Domestic fowl Drumstick,Domestic fowl Drumstick,70.7,24.0,4.4,1.06
+8,,,and Thigh,0.31,0.12,0.32,0.06
+9,,,Breast,71.2,25.0c,2.8,1.04a
+10,,,,0.27,0.16,0.16,0.04
+11,,,Wing,71.8,23.4,3.7,1.1
+12,,,Wing,0.61,0.18,0.16,0.13

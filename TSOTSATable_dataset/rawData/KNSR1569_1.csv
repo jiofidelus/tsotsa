@@ -1,0 +1,23 @@
+,0,1
+0,Main effect,Internalization
+1,,(%)
+2,Cultivar(A),
+3,Nanica,0.09
+4,Prata,0.08
+5,P0.05,0.0874
+6,Temperature(B),
+7,Without heating (20C,0.10
+8,Heat at 38C,0.07
+9,P(0.05),0.4306
+10,Immersion period (C),
+11,15 min.,0.08
+12,30 min.,0.06
+13,45 min.,0.07
+14,60 min.,0.13
+15,P0.05),0.1559
+16,Interaction,
+17,AxB,0.2465NS
+18,AxC,0.0009**
+19,BxC,0.0277*
+20,AxBxC,0.0083**
+21,CV (%),48.95

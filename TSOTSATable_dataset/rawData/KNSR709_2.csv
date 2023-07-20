@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,Cultivars,Yield (t/ha),Average fruit weight (g),Soluble solid content (Brix),pH,Titratable acidity (%)
+1,Rio Grande,1335b,"81,2  3.2b",5.87  0.04,4.84  0.03a,0.3770.031
+2,HLY 13,1525a,"93,4  4.6a",6.20  0.13,4.860.01a,0.358  0.010
+3,HLY 18,1144c,"70,1  2.4c",6.10  0.16,4.69  0.02c,0.381  0.010
+4,Lyco 2,1144c,"80,43.0b",5.87  0.14,4.69  0.02c,0.388  0.022
+5,Significance,,,NS,,NS

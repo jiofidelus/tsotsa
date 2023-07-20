@@ -1,0 +1,21 @@
+,0,1,2,3
+0,Treatments,Grain yield+,Seed oil (% dry,Seed protein (%
+1,,(kg ha-1),matter),dry matter)
+2,Irrigation regimes,,,
+3,Deficit Irrigation,417b,46.8 b,30.2a
+4,Full Irrigation,1191 a,51.3 a,25.4 b
+5,Cultivars,,,
+6,Oltan,932 a,48.1 b,28.1 b
+7,Dashtestan,924 a,51.0a,27.7c
+8,Naz,556b,48.0 b,29.2 a
+9,Nitrogen rates (kg ha 1,,,
+10,No,333 c,47.5c,26.4c
+11,N60,967 b,50.7a,28.5b
+12,N120,1112a,48.9 b,29.2 a
+13,Interactions (F-test),,,
+14,Irrigation  Cultivar,**,ns,**
+15,Irrigation  Nitrogen,**,ns,ns
+16,Cultivar  Nitrogen,**,ns,**
+17,Irrigation  Cultivar,**,ns,**
+18, Nitrogen,,,
+19,CV (%),14.39,5.26,2.78

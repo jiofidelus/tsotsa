@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6
+0,Food categories,n,,Mean GI 2009,Mean GI 2012,,p-Value
+1,Non-alcoholic beverages,275,275,41.2 (21.2),44.8 (20.3),+3.6 (18.3),0.001
+2,Cereals and cereal products,377,377,62.1 (11.3),61.112.7),1.0(10.1),0.058
+3,Cereal based products and dishes,515,515,56.2 (17.2),59.3(15.7),+3.1(14.8),<0.001
+4,Fats and oils,,88,0.0 (0.0),0.0 (0.0),0.0(0.0),
+5,Fish and seafood products and dishes,189,189,7.5(16.3,14.0(16.0),+6.5(16.3,<0.001
+6,Fruit products and dishes,152,152,43.8 (15.6),45.8 (14.0),+2.0 (12.3),0.046
+7,Egg products and dishes,,23,0.0 (0.0),2.8(13.6),+2.8 (13.6),0.328
+8,"Meat,poultry and game products and dishes",813,813,5.615.1,9.717.5),+4.1 (15.2),<0.001
+9,Milk products and dishes,297,297,27.6 (15.8),25.7 (15.6),1.8 (12.1),0.009
+10,Dairy substitutes,,46,44.1 (14.8),40.4 (18.7),3.7 (16.4),0.133
+11,Soups,,70,37.5 (20.6),50.2 (17.2),+12.7 (23.3),<0.001
+12,Seed and nut products and dishes,,45,7.4 (11.7),15.9 (9.4),+8.6 (13.9,<0.001
+13,Savoury sauces and condiments,,94,19.1 (23.8),23.8 (17.3),+4.7 (21.2),0.035
+14,Vegetable products and dishes,311,311,27.2 (34.2),33.6 (30.2),+6.3 (23.2),<0.001
+15,Legume and pulse products and dishes,,47,31.1 (19.1),31.5 (17.2),+0.4 (17.5),0.885
+16,Snack foods,,28,57.6 (16.3),63.6(11.5),+6.1 (15.3),0.045
+17,Sugar products and dishes,,44,55.6 (12.9),56.7 (13.8),+1.2 (11.6),0.509
+18,Confectionery and cereal/nut/fruit/seed bars,109,109,54.7 (13.9),54.4(15.1),0.3 (12.9),0.834
+19,Alcoholic beverages,,25,48.7 (10.8),18.5(28.0,+1.913.4,0.491
+20,Special dietary foods,,10,48.7 (10.8),33.5(5.2),15.3 (12.1),0.003
+21,Miscellaneous,,55,0.8 (6.1),0.0 (0.0),0.8 (6.1),0.322
+22,Infant formulae and foods,,21,25.2 (39.3),55.4 (21.0),+30.2 (27.4),<0.001
+23,All food groups,3634,3634,31.0 (28.4),34.0 (27.2),+3.016.0,<0.001

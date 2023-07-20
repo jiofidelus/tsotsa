@@ -1,0 +1,76 @@
+,0,1,2,3,4,5,6
+0,Source,Name of,Extraction process,Purification,Structural features,,References
+1,,-glucans,,,,,
+2,Himematsutake,-Glucan,Water extraction (100C,DEAE-cellulose column,A greater proportion of (1-6)--side,,Camelini et al.
+3,mushroom,,,chromatography:,branches on the (1-3)--backbone,,(2005)
+4,Agaricus brasiliensis),,,Toyopear HW-65F,,,
+5,,,,column;,,,
+6,,,,Con A-Sepharose 4B,,,
+7,,,,column,,,
+8,Common pelit gill,Schizophylan,Hot water extraction,Thin-layer,A mixture of /glucose in the ratio1/1.3;,,Klaus et al.2011
+9,(Schizophyllum commune),,HWE;,chromatography,"Amixture of / glucose at a 1/1 ratio, and",,
+10,,,Hot alkali extraction,,/ mannose at 0.6/0.4 ratio vs -glucose,,
+11,,,(HAE),,,,
+12,Reishi (Ganodema lucidum),Ganoderan,Water extraction100C,DEAE-cellulose column,"A 1,6-linked -d-glucopyranosyl backboneDong et al.(2012",,"A 1,6-linked -d-glucopyranosyl backboneDong et al.(2012"
+13,,,and graded ethanol,and Sephacryl S-300,with different length of branches consisting,,
+14,,,precipitation,column,"of terminal and 1,4-linked glucopyranosyl",,
+15,,,,,"residues,attached to O-4 of alternative",,
+16,,,,,glucose residues in the backbone,,
+17,Shiitake (Lentinus edodes),Lentinan,Water extraction and,,Highly branched glucan containing mainly,,Rasmy et al.
+18,,,absolute ethanol,,"1, 3 and 1, 6 linkages",,2010
+19,,,precipitation,,,,
+20,,,Dynamic high pressure,,,,Huang et al.
+21,,,microfluidization,,,,(2012)
+22,,,extraction,,,,
+23,Oyster mushroom,Pleuran,80% Methanol extraction;,,,,Cha et al.2012)
+24,(Pleurotus ostreatus),,Neutral saline0.9% NaCl,,,,
+25,,,extraction;,,,,
+26,,,Water extraction (100C),,,,
+27,Maitake (Grifola fondosa),Grifolan,"Water extraction (100 C),",,,,(2012)
+28,,,"ethanol precipitation,",,,,(2012)
+29,,,"alkaline extraction,acid",,,,
+30,,,precipitation and protein,,,,
+31,,,depletion,,,,
+32,,,Alkali (5% NaOH),DEAE-cellulose column,A --(1-3)-linked glucan backbone with a,,Fang et al.2012
+33,,,extraction,,single -d-(1-6)-linked glucopyranosyl,,
+34,,,,,residue branched at C-6 on every,,
+35,,,,,third residue.,,
+36,Rainbow conk,Krestin,Hot water extraction,DEAE-cellulose anion-,,,Kang et al. (2013)
+37,(Coriolus versicolor,,,exchange,,,
+38,,,,chromatography with,,,
+39,,,,0.7M NaCl,,,
+40,Enokitake mushroom,Flammulin,Aqueous and alkaline,,A main chain of(1-3-linked-,,Smiderle et al.
+41,(Flammulina velutipes),,extraction,,"glucopyranosyl residues, substituted at 0-6",,(2006
+42,,,,,by single-unit - glucopyranosyl side,,
+43,,,,,chains,,
+44,Judas's ear,-Glucan,70% Ethanol/water,,A main chain of (1-4-linked D-,,Ma et al.2008
+45,(Auricularia auricula),,solution extraction,,glucopyranosyl with glucopyranosyl side,,
+46,,,,,groups at 0-6,,
+47,,,0.15 M Aqueous NaCl,,A-1-3-D-glucan with two-1-6-D-,,Xu et al.2012
+48,,,extraction (80-100C,,glucosyl residues for every three main,,
+49,,,,,chain glucose residues,,
+50,Honey fungus,-Glucan,Water extraction,,,,Lai and Ng2013)
+51,Bamboo fungus,-Glucan,Water extraction (90C,Sephadex G-200 gel,"A backbone of -conformation,mainly",,Deng et al.2012
+52,(Dictyophora indusiata),,,chromatography,consist of glucose (98.58%,,
+53,Geastrum saccatum,-Glucan,Water extraction (100C,,High amount of glucose and traces of,,Guerra Dore et al.
+54,mushroom(Geastrum,,,,galactose. The signal appearing at,,(2007
+55,saccatum),,,,103.5 ppm was assigned to C1 of -glucose.,,
+56,Tuckahoe (Poria cocos),-Glucan,Water extraction,,(1-3)--d-glucan with some -(16),,Wang et al. (2004)
+57,,,,,linked branches;,,
+58,,,,,1-3--D-glucan containing some,,
+59,,,,,glucose branches,,
+60,,,"Hot water,0.5 M NaOH",,1-3--D-glucans,,Jin et al.2003
+61,,,and 88% formic acid,,,,
+62,,,extraction,,,,
+63,Pleurotus sajor-caju,-Glucan,Hot aqueous extraction,,A branched structure with a (1 3)-linked,,Carbonero et al.
+64,,,,,"-Glcp main-chain,substituted at O-6 by",,(2012)
+65,,,,,single-unit -Glcp side-chains,,
+66,,,Hot water extraction,DEAE Toyopearl and,-1-31-6-glucan in the native triple,,Satitmanwiwat
+67,,,,Sepharose CL-6B column,helical structure,,et al.2012
+68,,,,chromatography,,,
+69,Hybrid mushroom of,-Glucan,Water extraction,Sepharose 6B column,A(16--D-glucan,,Das et al.(2010)
+70,Pleurotus florida and,,,,6)--D-Glcp-16)--D-Glcp-(16)--D-G1cp-(1,,
+71,Volvariella volvacea,,,,,3,
+72,,,Alkaline extraction,DEAE-cellulose column,,,Maity et al.2013
+73,,,,and Sepharose 6B column,,1,
+74,,,,,-D-Glcp,-D-Glcp,

@@ -1,0 +1,14 @@
+,0,1,2,3
+0,Samples,,Declared Values,Measured Values
+1,Infant formula,A,5.7,14.90.17
+2,(mg/kg),B,7.1,9.59  0.12
+3,,C,11.7,20.6  0.28
+4,,D,8.5,13.80.15
+5,,E,5.7,22.2  1.85
+6,Breakfast Cereal,A,7.5,24.1  5.86
+7,(mg/kg),,,
+8,Milk,A,N.A.b,1.47  0.04
+9,(mg/kg),,,
+10,Multivitamin,B,1.2,1.30  0.10
+11,(g/kg),C,1.0,1.24 0.10
+12,,D,2.5,2.30  0.54

@@ -1,0 +1,32 @@
+,0,1,2,3
+0,"Programming constraintsa,b",,"Outcomea,b",
+1,Ingredients,Nutrients,Nutrients,Price of cooked
+2,,,,product
+3,Option 1,,,
+4,After fortification 33.33% restriction.,"Omitting energy, potassium",EAR satisfaction for other nutrients,ZAR1.03/469 g
+5,but 25% soy restriction,,"Shortfall: 33% energy,34% potassium",US$0.15/469 gc
+6,Prior to fortification 33.33%,"Omitting energy, potassium,vit A",EAR satisfaction for other nutrients.,ZAR1.13/495 g
+7,"restriction, but 25% soy restriction",(Not reasonable with omitting vit A,"Shortfall: 31% energy, 29% potassium,",US$0.17/495 g
+8,,,99% vit A,
+9,Option 2,,,
+10,After fortification 33.33% restriction.,"Omitting potassium,95% energy",EAR satisfaction for other nutrients,ZAR1.51/640 g
+11,ut 25% soy restriction,restriction,"Shortfall: 5% energy, 9% potassium",US$0.15/640 g
+12,Prior to fortification,"Omitting vit A,Not reasonable","Shortfall: 31% energy, 29% potassium",ZAR1.13/640 g
+13,,,,US$ 0.17/640 g
+14,Option 3,,,
+15,After fortification 33.33% restriction.,"Omitting potassium, 95% energy",EAR satisfaction for other nutrients.,ZAR1.59/640 g
+16,but 20% soy restriction,restriction,"Shortfall: 5% energy, 13% potassium",US$ 0.24/640 g
+17,Prior to fortification,Omitting vit ANot reasonable,"Shortfall: 28% energy,25% potassium",ZAR1.23/640 g
+18,,,,US$0.18/640 g
+19,Option 4,,,
+20,After fortification 33.33% restriction,"Omitting potassium, 95% energy",EAR satisfaction for other nutrients,ZAR1.38/640 g
+21,,restriction,"Shortfall: 5% energy, 7% potassium",US$ 0.20/649 g
+22,Prior to fortification 33.33% restriction,"Omitting potassium and vit A, 95%",EAR satisfaction for other nutrients.,ZAR1.22/705 g
+23,,energy restriction. Not reasonable with,"Shortfall: 5% energy, 7% potassium,",US$0.18/705 g
+24,,omitting vit A,99% vit A,
+25,Option 5,,,
+26,After fortification 33.33% restriction,"Omitting potassium, 90% energy",EAR satisfaction for other nutrients,ZAR1.23/640 g
+27,,restriction,"Shortfall: 10% energy,17% potassium",US$ 0.18/640 g
+28,Prior to fortification 33.33% restriction,"Omitting potassium and vit A, 90%",EAR satisfaction for other nutrients,ZAR1.16/669 g
+29,,energy restriction. Not reasonable with,"Shortfall: 10% energy, 21% potassium,",US$0.17/669 g
+30,,omitting vit A,99% vit A,

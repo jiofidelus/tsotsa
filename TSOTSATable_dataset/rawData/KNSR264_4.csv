@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,Matrix,Method,Analyte,Run time,Recovery(%,LOQs(g/kg)
+1,,,,(min),,
+2,"Fish (Guidi et al.,2018",HPLC-MS/,"10 QNs and 4 TCs including TC,OTC,DOX,ENR,CIP)",15,>93.5,3.75-75.0
+3,,MS,,,,
+4,"Chicken muscle Bousova et al.,2013",LC-MS/MS,"36 veterinary drugs (including TC,OTC,DOX, ENR,",19,80-120,1.0-10.0
+5,,,CIP),,,
+6,"Fish (Shin et al., 2018)",UPLC-MS/,"52 veterinary drugs (including TC, OTC, DOX, ENR,",20,68.1-111,<10
+7,,MS,CIP),,,
+8,"Chicken muscle (Wang et al.,2020)",UPLC-MS/,"7 veterinary drugs (including TC,OTC)",10,>84.1,<0.17
+9,,MS,,,,
+10,"Porcine tissue Yu et al.,2012",HPLC-DAD,5 veterinary drugs (including TC),15,62-95.3,7-34
+11,"Catfish muscleSchneider et al.,2007",HPLC-FLD,"5 FQs and 3 TCs (including TC, OTC, ENR, CIP)",30,6092,0.15-1.5
+12,"Pig and chicken muscle (Castillo-Garcia et al.,",UPLC-FLD,"3 QNs and 3 TCs (including TC, OTC)",12.5,>61.5,0.8-12.7
+13,2015),,,,,
+14,Chicken muscle (this study),UPLC-FLD,"TC, OTC, DOX, ENR, CIP",9,87.3396.90,0.4-39.4

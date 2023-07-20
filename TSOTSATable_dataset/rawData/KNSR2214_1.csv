@@ -1,0 +1,10 @@
+,0,1,2
+0,Mobile Phase,Fractions,Volume (mL)
+1,100 %CHCl3,1-30,450
+2,5:95 % AcOEt:n-Hexane,31-51,315
+3,10:90 % AcOEt:n-Hexane,52-72,315
+4,20:80 % AcOEt:n-Hexane,73-93,315
+5,30:70 % AcOEt:n-Hexane,94-114,315
+6,40:60 % AcOEt:n-Hexane,115-135,315
+7,50:50 % AcOEt:n-Hexane,136-156,315
+8,100 % AcOEt,157-222,990

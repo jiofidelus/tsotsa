@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,Method,LOD,"LOQ,",%RSD,Linear Range,Ref.
+1,FAAS,1440 g L-1, 4800 g L-1,7.3,5.0-50mgL-1,This study
+2,SQT-FAAS, 550 g L-1,1850 g L-1,5.2,2.0 - 25 mg L-1,This study
+3,ZrNP-VA-LDSPE-FAAS,23 g L -1,77 g L-1,6.8,75-1000 gL-1,This study
+4,ZrNP-VA-LDSPE-SQT-FAAS,8.0 g L-1,27 g L-1,4.9,30-250gL-1,This study
+5,HR-CS FAAS,5.7 mg L-1,19 mg L-1,111,-,"(Dessuy et al., 2013)"
+6,SPE-ICP-OES (Sb(III-IV)),32-42g L-1,,111,-,"(Lukaszczyk and Zyrnicki,2010)"
+7,LC- ICP-OES (Sb(III-IV)),29.5  42.4 g L -1,80.7-49.9 g L1,111,-,"Moreno-Andrade et al.,2020)"

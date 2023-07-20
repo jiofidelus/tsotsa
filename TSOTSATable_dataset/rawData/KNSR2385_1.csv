@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,Vitamer,R1,R2,R3,,,Structure
+1,a-Tocopherol,-CH,-CH3,-CH3,,,
+2,,,,,,R,
+3,-Tocopherol,-CH,-H,-CH,HO,,
+4,(-T),-CH,-H,-CH,HO,,
+5,-Tocopherol,-H,-CH3,-CH3,,,
+6,y-T),-H,-CH3,-CH3,,,
+7,(8-T),-H,-H,-CH,,,
+8,a-Tocotrienol,-CH,-CH,-CH,,,
+9,-T3,-CH,-CH,-CH,,R,
+10,-Tocotrienol,-CH,-H,-CH,HO,,
+11,y-Tocotrienol,-H,-CH3,-CH,,,
+12,8-Tocotrienol,,,,,R3,
+13,(8-T3),-H,-H,-CH,,,

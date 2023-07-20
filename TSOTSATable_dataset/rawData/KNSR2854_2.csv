@@ -1,0 +1,10 @@
+,0,1,2,3,4,5
+0,Treatments,Pasting temperature (C),Peak viscosity (RVU),Breakdown(RVU),Setback(RVU),Final viscosity (RVU)
+1,Non-parboiled,68.52,245.94a,81.20a,133.86a,300.38a
+2,"Parboiled""",,,,,
+3,0.00%,84.45a,12.92c,2.78b,7.78d,17.92e
+4,0.20%,81.90b,26.69b,3.33b,10.89cd,35.13d
+5,0.40%,79.93c,27.33b,5.03b,14.00bc,36.30d
+6,0.60%,79.10cd,33.47b,4.83b,14.25b,41.88b
+7,0.80%,77.95de,31.08b,5.03b,14.41b,40.47bc
+8,1.00%,77.80e,32.89b,4.31b,13.70bc,39.71c

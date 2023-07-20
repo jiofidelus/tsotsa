@@ -1,0 +1,6 @@
+,0,1,2,3,4,5
+0,Species,Target,Primer,Sequence(5-3`),Length,Reference
+1,S. japonicum,ITS2,Styj3-R,TCTCGTTATGGGGCGATCGTA,110 bp,This work
+2,,,18SRG-F,CTGCCCTATCAACTTTCGATGGTA,113 bp,Costa et al.2013
+3,Eukaryotes,Nuclear 18S rRNA,EG-F,TCGATGGTAGGATAGTGGCCTACT,,
+4,,,EG-R,TGCTGCCTTCCTTGGATGTGGTA,109 bp,Villa et al.(2017)

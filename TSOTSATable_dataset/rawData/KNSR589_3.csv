@@ -1,0 +1,75 @@
+,0,1,2,3,4,5,6
+0,Cheeses,Fractions,Origin and Protein,Amino acid sequence,Molecular weights,Molecular weights,Previous works
+1,,,fragment,,(Da),,
+2,"B,H,P","f2,f3,f5",k-CN (112-117),QPTTMA,,728.3,"Skrzypczak et al., 2017"
+3,,,1Phospho,,,,
+4,"B,H,HD","f5,f6",K-CN (118-126,RHPHPHLSF,,1177.5,"Skrzypczak et.al.,2017"
+5,"B,C",f2,K-CN (148-159),SGEPTSTPTTEA,,1177.5,
+6,"B,C","f1,f2,f3,f4,f5,",k-CN (15,MMKSF,,643.3,
+7,,"f6,f7",,,,,
+8,"B,C,H,HD,P","f1,f2,f3,f4,f5",K-CN (160-165),VESTVA,,605.3,"Skrzypczak et. al.,2017"
+9,,"f6,f7",,,,,
+10,"B,C,H,HD,","f3,f4,f5",K-CN (160-167),VESTVATL,,899.4,"Contreras et.al., 2009"
+11,K,,1Phospho,,,,
+12,,f4,K-CN (168-174),EDSPEVI,,788.4,"Skrzypczak et.al., 2017"
+13,"B,C,H","f2,f5,f6",K-CN (175-180),ESPPEI,,671.3,"Skrzypczak et.al., 2017"
+14,"B,H,HD,P,K","f2,f6",K-CN (181-189),TVQVTSTAV,,1160.4,"Tavares et al.,2011; Skrzypczak et.al.,2017"
+15,,,3Phospho,,,,
+16,"B,H","f2,f4",K-CN (40-44),SDKIA,,533.3,"Skrzypczak et.al.,2017"
+17,"B,C,HD","f3,f4,f7",K-CN(52-56,VLSRY,,637.4,"Hernandez-Ledesma et.al.,2005;Saito et.al.,1994"
+18,"B,C,H,HD,","f1,f2,f5,f6,f7",K-CN (5459,SRYPSY; SRYPSY,,1012.3,"Hernandez-Ledesma et.al., 2005; Saito et.al., 1994;"
+19,"P,K",,3Phospho,,,,"Skrzypczak et.al., 2017"
+20,"B,C",f1,K-CN (5761),PSYGL,,696.2,"Lu et.al.,2016"
+21,"B,C,H","f1,f5,f7",K-CN(7-11)1phospho,LVVTI,,624.3,"Skrzypczak et.al., 2017"
+22,"B,C,H","f1,f5,f7",K-CN(8-12)1phospho,VVTIL,,624.3,
+23,"B,C,K,P",f5,K-CN (8792),AVRSPA,,680.3,"Skrzypczak et.al.,2017"
+24,"C,H,HD,P,K","f1,f5",k-CN (88-94),VRSPAQI,,850.4,"Skrzypczak et.al., 2017"
+25,,,1Phospho,,,,
+26,B,f4,K-CN (98106),QVLSNTVPA,,1008.5,"Skrzypczak et.al., 2017"
+27,,,1Phospho,,,,
+28,C,"f2,f4",K-CN166-174,TLEDSPEVI,,1162.4,"Skrzypczak et.al., 2017"
+29,,,2Phospho,,,,
+30,"H,HD,P","f1,f2,f3",K-CN(101106),SNTVPA,,668.3,"Skrzypczak et.al., 2017"
+31,,,1Phospho,,,,
+32,H,f2,K-CN(107-111,KSCQA,,616.2,"Skrzypczak et.al.,2017"
+33,K,f6,K-CN(107-117)2,KSCQAQPTTMA,,1325.5,
+34,,,Phospho,,,,
+35,H,f7,K-CN(130-143),IPPKKNQDKTEIPT,,1768.8,"Torkova et.al., 2017"
+36,,,2Phospho,,,,
+37,H,f2,K-CN(141146),PTINTI,,738.3,"Skrzypczak et.al., 2017"
+38,,,1Phospho,,,,
+39,"H,HP","f3,f5",K-CN(147159),ASGEPTSTPTTEA,,1568.4,
+40,,,4Phospho,,,,
+41,"C,H,HD","f3,f5,f6",K-CN(168-180),EDSPEVIESPPEI;,,1440.7,"Skrzypczak et.al., 2017;"
+42,,,,EDSPEVIESPPEI,,,
+43,H,f6,k-CN(31-38),RCEKDERF,,1082.5,Parmar et.al.2018
+44,"C,K,P","f5,f7",k-CN(39-43),FSDKI,,609.3,"Skrzypczak et.al., 2017"
+45,"C,H,P","f1,f5,f6",k-CN(64-70)1,YQQKPVA,,913.4,"Xiang et.al.,2021"
+46,,,Phospho,,,,
+47,H,"f2,f4,f5",k-CN(65-70),QQKPVA,,670.4,"Xiang et.al.,2021"
+48,H,f2,K-CN(65-71),QQKPVAL,,"783,5","Xiang et.al.,2021"
+49,c,f7,K-CN(72-76,INNQF,,635.3,
+50,,f7,K-CN(73-77),NNQFL,,635.3,
+51,"C,P","f3,f5",K-CN(8892),VRSPA,,609.3,"Skrzypczak et.al., 2017"
+52,,,1Phospho,,,,
+53,C,f5,K-CN(96-100),QWQVL,,673.4,
+54,"B,C","f1,f4,f7",-LA100-104,LDDDL,,590.3,
+55,"B,C,H,HD,P","f3,f4,f6",-LA(101-108,DDDLTDDI,,921.4,
+56,,,1Phospho,,,,
+57,B,f4,-LA105-114,TDDIMCVKKI,,1165.6,
+58,B,"f4,f7",-LA(115-120,LDKVGI,,644.4,
+59,C,f5,-LA (116-122),DKVGINY,,644.4,
+60,,,1Phospho,,,,
+61,"B,H,HD,K","f1,f4,f7",-LA (129134,LCSEKL,,888.4,
+62,"B,C,H,HD,","f3,f4,f5,f7",-LA130-134,CSEKL,,692.4,
+63,"P,K",,,,,,
+64,"B,K","f4,f7",-LA (130137),CSEKLDQW,,579.3,
+65,"B,C,K,P","f1,f4,f5,f6",-LA (138142),LCEKL,,1008.4,
+66,"B,H","f1,f4,f5,f6",-LA (1519),HATQA,,607.2,
+67,,,1phospho,,,,
+68,"B,C","f1,f7",-LA(1-71Phospho,MMSFVSL,,894.4,
+69,"B,K",f2,-LA (2028),EQLTKCEVF,,1176.5,
+70,,,1Phospho,,,,
+71,"C,H","f3,f7",-LA (2328),TKCEVF,,806.3,
+72,,"f2,f3",1Phospho,,,773.5,
+73,"H,P","f2,f3",-LA2934,RELKDL,,773.5,Brandelli et.al.2015

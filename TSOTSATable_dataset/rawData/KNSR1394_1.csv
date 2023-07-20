@@ -1,0 +1,7 @@
+,0,1,2,3
+0,Coded levels,Independent variables,,
+1,,A%v/v,B(min),C (mL/g)
+2,,Ethanol concentration,Extraction time,Solvent-to-solid ratio
+3,-1,70,5,5
+4,0,85,20,20
+5,+1,100,35,35

@@ -1,0 +1,11 @@
+,0,1,2,3
+0,,Sequence,T,
+1,,Argentina,,
+2,non-toxAs,M>L>G,>100,<0.0001
+3,DMA,L=M>G,9.7,<0.003
+4,iAs,M=G>L,27,<0.0001
+5,Total As,M>L>G,>100,<0.0001
+6,,Brazil,,
+7,non-toxAs,M>L>G,27,<0.0001
+8,iAs,L=G=M,1.9,<0.4
+9,Total As,M>L>G,47,<0.0001

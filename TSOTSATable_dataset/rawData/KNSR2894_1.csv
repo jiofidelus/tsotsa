@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Species/Primer,Target gene,Sequence (5'-3'),Amplicon size (bp),References
+1,Cow,ND5,Reversed: GTCCAATCAAGGGTATGTTTGAG,106,Hossain et al.(2017)
+2,Buffalo,ND5,Reversed: TGGTTTGTGACTGTGATGGAT,138,Hossain et al.(2017
+3,Chicken,Cytb,Reversed: GGAATGGGGTGAGTATGAGAGT,161,Hossain et al.(2019)
+4,Duck,ND5,Forward: CACCGTAAAAGCTGCATTTCTAA,203,this study
+5,Duck,ND5,Reversed: ACATGGCGAATTGTAGAATGG,203,this study
+6,Goat,ND5,Forward: TGTTTTCTTCTCTTGCACTAACCAC,236,this study
+7,Goat,ND5,Reversed: CTTGAAGCTGAGCGATAATTTAAGG,236,this study
+8,Pig,ND5,Forward: GATTCCTAACCCACTCAAACG,73,Hossain et al.(2017)
+9,Pig,ND5,Reversed: GGTATGTTTGGGCATTCATTG,73,Hossain et al.(2017)
+10,Sheep,ND5,Forward: TTCCTCCCTCACACTAGTCACC,263,this study
+11,Sheep,ND5,Reversed: CTGGAACGAATATTATTGAGAAGAAGTC,263,this study

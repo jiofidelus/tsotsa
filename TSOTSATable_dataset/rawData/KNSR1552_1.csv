@@ -1,0 +1,17 @@
+,0,1,2
+0,,Correlation coefficient(r),P value
+1,Protein vs Temperature,0.041,0.816
+2,Protein vs Rain,0.107,0.540
+3,Protein vs Sunshine,-0.039,0.826
+4,Microbiota in TSA vs Temperature,0.641*,3.28 e-005
+5,Microbiota in TSA vs Rain,0.072,0.680
+6,Microbiota in TSA vs Sunshine,0.194,0.264
+7,Microbiota in TSA vs Protein,0.151,0.388
+8,Microbiota in MRS vs Temperature,0.534*,0.001
+9,Microbiota in MRS vs Rain,0.335*,0.048
+10,Microbiota in MRS vs Sunshine,0.118,0.497
+11,Microbiota in MRS vs Protein,0.289,0.092
+12,Microbiota in G18 vs Temperature,0.578*,2.79 e-004
+13,Microbiota in G18 vs Rain,0.265,0.122
+14,Microbiota in G18 vs Sunshine,0.226,0.190
+15,Microbiota in G18 vs Protein,0.291,0.088

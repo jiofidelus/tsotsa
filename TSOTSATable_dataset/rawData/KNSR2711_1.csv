@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Batch,No. of replications,Smoking conditions,,Smoking duration (days),,Duration of production process (days)
+1,TS-2NC,3,Traditional smoking in natural casing hanging 2 m from the fire,12,12,45,
+2,TS-2CC,3, Traditional smoking in collagen casing hanging 2 m from the fire,12,12,45,
+3,TS-3NC,3,Traditional smoking in natural casing hanging 3 m from the fire,12,12,45,
+4,TS-3CC,3,Traditional smoking in collagen casing hanging 3 m from the fire,12,12,45,
+5,IS-NC,3,Industrial smoking in natural casing,4,,45,
+6,IS-CC,3,Industrial smoking in collagen casing,4,,45,

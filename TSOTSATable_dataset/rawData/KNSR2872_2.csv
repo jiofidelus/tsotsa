@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Target analyte,Abbrev.,CAS No., Molecular,Retention time,Precursor ion,Product ion,Collision energy,De-clustering
+1,,,,formula,(min),(m/z,(m/z,(eV,potential (V)
+2,Sulfabenzamide,SBA,127719,C13H12N2O3S,7.15,277.0,156.0 *,18.2,80.0
+3,,,,,,,108.0,32.9,80.0
+4,Sulfaphenazole,SPA,526089,C15H14N4O2S,7.51,315.1,156.0 *,30.8,75.0
+5,,,,,,,222.0,26.8,75.0
+6,Sulfachloropyridazine,SCP,80320,C1oH9ClN4O2S,5.62,285.0,156.0 *,21.4,80.0
+7,,,,,,,108.0,34.7,90.0
+8,Sulfaquinoxaline,SQX,59405,C14H12N4O2S,7.85,301.0,156.0 *,23.3,80.0
+9,,,,,,,108.0,35.8,80.0
+10,Sulfadoxine,SDX,2447576,C12H14N4O4S,6.81,311.1,156.0 *,26.5,80.0
+11,,,,,,,108.0,26.4,80.0
+12,Tetracaine,,94-24-6,C1sH24N2O2,8.12,265.1,176.1 *,21.0,80.0
+13,,,,,8.12,,72,37.0,80.0
+14,Bupivacaine,,2180929,C1gH2gN2O,7.94,289.2,140.2 *,29.0,90.0
+15,,,,,,,84.0,56.0,90.0
+16,Sulfisoxazole,SIZ,127695,C11H13N3O3S,6.93,268.0,156*,31.3,80.0
+17,,,,,,,113,23.1,80.0
+18,sulfamethoxazole,SMZ,72346-6,C1oH11N3O3S,6.09,254.0,156.0 *,22.4,80.0
+19,,,,,,,108.0,34.0,80.0

@@ -1,0 +1,11 @@
+,0,1,2
+0,Method,,Spectrophotometer
+1,Standard linearity,,
+2,Intercept,4.85,4.85
+3,Slope,0.147,0.147
+4,R2,0.99,0.99
+5,Range(g/mL),1.26-10,1.26-10
+6,Mean(g/mL),11.8,11.8
+7,Precision(n=5(RSD%,3,
+8,Mean recovery(%)standard deviation,97.03,97.03
+9,Detection limit(g/mL,0.2,0.2

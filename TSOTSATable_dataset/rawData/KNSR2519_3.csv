@@ -1,0 +1,20 @@
+,0,1,2,3,4
+0,Anion,"Content,",Spiked,Found in spiked,"Recovery,"
+1,,mg/L,"amount,mg/L","sample, mg/L",%
+2,Gluconate,80030,1000,1700100,87
+3,Quinate,11010,50,15020,92
+4,Shikimate,8010,50,12010,86
+5,Acetate,800100,500,1300100,106
+6,Lactate,1900,1500,3200200,87
+7,,200,,,
+8,Galacturonate,1200,1000,2200100,97
+9,,100,,,
+10,Chloride,241,25,47  2,92
+11,Sulfate,42010,250,65010,94
+12,Malate,19020,100,29040,100
+13,Succinate,430  20,200,65020,110
+14,Tartrate,3500,2000,5300200,92
+15,,100,,,
+16,Phosphate,312,30,605,97
+17,Nitrate,202,15,352,104
+18,Citrate,33040,300,60040,90

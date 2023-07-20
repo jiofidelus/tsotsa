@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,,,IC5o (mg/mL),,,,,
+1,,% Yield,,,,,,,,
+2,Mushroom,,,,Alpha-amylase inhibition,,Alpha-glucosidase inhibition,Alpha-glucosidase inhibition,Lipase inhibition,
+3,,80 % ethanol (v/v),Hexane,,80 % ethanol (v/v),Hexane,80 % ethanol (v/v),Hexane,80 % ethanol (v/v),Hexane
+4,Cultivated local mushrooms,Cultivated local mushrooms,,,,,,,,
+5,L. edodes,13.0,,0.44,184,127,20.4,12.9,8.85,23.1
+6,P.djamor,12.4,,0.33,>1000,24.9,213,>1000,>1000,>1000
+7,L. squarrosulus,7.86,,0.52,41.6,744,52.7,71.0,64.4,>1000
+8,L.polychrous,15.4,,0.17,ND,17.1,25.7,>1000,55.1,>1000
+9,S. commune,0.61,,0.20,339,15.3,50.9,307,>1000,>1000
+10,Wild mushrooms,,,,,,,,,
+11,R. delica,8.53,,0.82,143,204,>1000,>1000,>1000,>1000
+12,L. flavidulus,12.8,,2.59,>1000,649,90.2,>1000,>1000,>1000
+13,A. odoratus,3.30,,0.60,>1000,17.4,>1000,>1000,591,>1000
+14,R. rosacea,9.51,,0.98,>1000,25.6,152,>1000,>1000,33.6
+15,P. portentosus,10.4,,0.44,41.1,15.7,203,>1000,>1000,33.6
+16,C.aureus,2.97,,0.50,130,477,25.9,165,ND,ND
+17,Acarbose*(DMSO),,,,0.01,,7.33,,,
+18,Orlistat#(DMSO),,,,,,,,0.94,

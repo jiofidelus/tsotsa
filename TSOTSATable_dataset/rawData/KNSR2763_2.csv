@@ -1,0 +1,11 @@
+,0,1
+0,"-XRF benchtop system(M4 Tornado,Bruker GmbH",
+1,Anode X-ray tube,Rh
+2,Spot size(Polycapillary,25 mm for Mo Ka
+3,Detector,SDD-XFlash
+4,Total analysis time,600s(300s/per analytical condition)
+5,Measuring mode,Vacuum
+6,Analytical LinesKlines,"Mg,AI,Si,P,S,Cl,K,Ca,Ti,Fe,Br,Rb,Sr"
+7,Measurement conditions,
+8,"-Condition-110 kV,0.1 mA,No primary filter","Mg,Al,Si,P,S,Cl,K,Ca,Ti"
+9,"-Condition-2:50 kV,0.6 mA,100/50/25 m Al/Ti/Cu filter","Fe,Br,Rb,Sr"

@@ -1,0 +1,24 @@
+,0,1,2
+0,A.Use of reference material:,,
+1,,Certified,Reference
+2,Values within accepted range,9,7
+3,Values within extended range,5,3
+4,(15%),,
+5,B.Recoveries of standards:,% Recovery,Rating
+6,,95%-100%,4
+7,,90%-110%,3
+8,,85%-115%,2
+9,,80%-120%,1
+10,,<80%->120%,0
+11,C.Comparison with another Laboratory/Method:,C.Comparison with another Laboratory/Method:,
+12,,%Difference,Rating
+13,,10%,4
+14,,15%,3
+15,,20%,2
+16,,>20%,0
+17,D.Repeatability studies(precision,,
+18,,%CV,Rating
+19,,10%,3
+20,,15%,2
+21,,20%,1
+22,,>20%,0

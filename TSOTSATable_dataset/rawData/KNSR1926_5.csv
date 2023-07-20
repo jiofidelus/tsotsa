@@ -1,0 +1,36 @@
+,0,1,2,3,4,5
+0,,kind of sample,manufacturer,,soluble oxalate,soluble oxalate
+1,,,,n,mean,SD
+2,wellness drinks,,,,,
+3,aloe vera drink,"beverage with 50% multi-fruit juice (apple, orange, pineapple, passion fruit, mango,",Pro Health,1,0.28,
+4,,"lemon, 20% aloe vera juice and vitamins",,,,
+5,apple-sea buckthorn drink,"beverage with multi-fruit juice (2.5% grape, 2.0% apple, 0.5% sea buckthorn juice",Kneipp,1,0.06,
+6,,from concentrates and vitamins,,,,
+7,bread drink,"beverage from fermented whole grain bread (wheat, rye, oats)",Kanne,1,0.72,
+8,grape-St. John's wort drink,"beverage with 5% grape juice (from concentrate), extracts of St. John's wort and lemon",Kneipp,1,0.04,
+9,,balm and vitamins,,,,
+10,kombucha drink,"low-calorie beverage with 29% fermented herbal tea (water, multi-fruit juice",Pro Health,1,0.30,
+11,,"concentrate,herbal extract,kombucha cultures) and 28.5% fruit tea",,,,
+12,kombucha herbal tea drink,herbal tea infusion (herbal tea blend with kombucha cultures and lactobacillus,Stock Vital,,0.44,
+13,vital drink,"beverage based on fermented cereals and 20% multi-fruit juice (orange, apple, passion",Pro Health,1,0.31,
+14,,"fruit juice from concentrates, mango pulp) and vitamins",,,,
+15,vital apple-mint drink,"beverage with multi-fruit juice (45% apple, 4% quince, lemon) and extracts of green",Dr.Koch,1,0.81,
+16,,tea and peppermint,,,,
+17,"vital drink apple, peach,passion","beverage with 70% multi-fruit juice (apple, peach, grape, passion fruit, acerola and",Hohes C,1,0.35,
+18,fruit,"lemon juice from concentrates) and extracts of red malva, artichoke and melissa",,,,
+19,soft drinks,,,,,
+20,"cola, regular",caffeinated soft drink,Afri Cola; Coca-Cola; Pepsi;,4,0.10,0.05
+21,,,Sinalco,,,
+22,"cola,diet",caffeinated low-calorie soft drink,Afri Cola;Coca-Cola;Pepsi,3,0.10,0.00
+23,lemon soda,soft drink with lemon flavor,Pepsi;Sinalco,2,0.06,0.01
+24,orange soda,soft drink with orange flavor,Coca-Cola,1,0.18,
+25,ginger ale,soft drink with ginger extract,Schweppes,1,0.04,
+26,tonic water,soft drink with quinine,Schweppes,1,0.05,
+27,bitter lemon,soft drink with 3% lime juice and quinine,Schweppes,1,0.10,
+28,energy drinks,,,,,
+29,"Caps Energy apple, grape,","with fruit juice (10%), guarana, taurine, caffeine (25 mg/100 mL)","Capri-Sonne, Deutsche SiSi",1,0.21,
+30,blackcurrant,,"Werke, Germany",,,
+31,Red Bull,Red Bull,Red Bull,1,0.09,
+32,sports drinks,,,,,
+33,Powerade,isotonic drink,Coca-Cola,1,LOD,
+34,Trendy Isorade lemon,low-calorie isotonic drink,Plus,1,0.24,

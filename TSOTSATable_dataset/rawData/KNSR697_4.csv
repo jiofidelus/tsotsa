@@ -1,0 +1,36 @@
+,0,1,2,3,4,5
+0,Food,No.of,No.of,Sodium,Potassium,Na:Kratio
+1,,brands,purchases,(mg/100g),mg/100g,(mmol basis
+2,,,per brand,,,
+3,Breads,,,,,
+4,Wholewheat,,,,,
+5,regular,5,1,450+52a,230+32a,3.3
+6,low salt,3,1,200+72c,310+160a,1.1
+7,salt free,1,4,242*,440+12*,0.1
+8,Multigrain,,,,,
+9,regular,10,1,46059a,210+30a,3.8
+10,low salt,2,1,200+120c,300240a,0.8
+11,Breakfast cereals,,,,,
+12,Crunchy granola,,,,,
+13,Farmland,,,,,
+14,regular,1,4,28015a,30024a,1.6
+15,no added salt,1,4,17+2d,33010a,0.09
+16,All brands,,,,,
+17,regular,6,1+,1905ga,300+83a,1.0
+18,no added salt,4,1+,14+3d,400+10oa,0.06
+19,Natural bran,,,,,
+20,no ingredients,,,,,
+21,listed,4,1,21+7*,1100+230*,0.03
+22,no added salt,1,4,324*,95049*,0.06
+23,Crispbreads and crackers,,,,,
+24,Crispbread,,,,,
+25,Ryvita,,,,,
+26,regular,1,4,530+11a,430+7a,2.1
+27,no added salt,1,4,62+9d,370+17d,0.3
+28,Vitawheat,,,,,
+29,regular,1,4,510+53a,41014a,2.1
+30,no added salt,1,4,59+4d,390+2b,0.3
+31,Crackers,,,,,
+32,Premium,,,,,
+33,regular,1,4,1000+42a,120+12a,14.8
+34,salt-reduced,1,4,540+15d,110+11a,8.1

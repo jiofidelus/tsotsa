@@ -1,0 +1,28 @@
+,0,1,2,3
+0,Steps,Order,The Reagent,Time/Frequency
+1,Paraffin Imbedding,1,FAAa,24h/1
+2,,2,70 % ethyl alcohol,4h/1
+3,,3,90% ethyl alcohol,4h/1
+4,,4,Absolute ethyl alcohol,4h/1
+5,,5,Absolute ethyl alcohol: tertiary butyl alcohol= 1:1 (V/V),4h/1
+6,,6,Absolute tertiary butyl alcohol,4h/2
+7,,7,Paraffin,2h/3
+8,Slice,1,Thickness: 5 m,
+9,,2,Baking,1~3h/1
+10,Dewaxing,1,Dimethylbenzene,20 min/2
+11,,2,Absolute ethyl alcohol,5min/1
+12,,3,95 % ethyl alcohol,5min/1
+13,,4,80% ethyl alcohol,5min/1
+14,,5,70 % ethyl alcohol,5min/1
+15,,6,50% ethyl alcohol,5min/1
+16,,7,Distilled water,10min/1
+17,Antigen retrieval,1,Citric acid buffer,Microwave till 95C
+18,,2,Water bath,20 min (95C)/1
+19,Non-specific antigen blocking,1,Incubated in 10 % normal goat serum (prepared by 0.01 M PBS),1h (RTb)/1
+20,Reduce the fluorescence of paraffin,1,Incubated in 0.1 % citric acid buffer (prepared by 0.01 M PBS),30 min (RTb)/1
+21,Primary antibody incubation,1,Primary antibody diluted by PBS and dropping on the slice,Overnight (4C)/ 1
+22,,2,Holded in room temperature,30min/1
+23,,3,washed by PBS (pH 7.4),5 min/3
+24,Secondary antibody incubation,1,Secondary antibody diluted by PBS and dropping on the slice,2 h (RTb)/1
+25,,2,Washed by PBS (pH 7.4),5min/3
+26,Sealing,1,0.5 M carbonate buffer solution (pH 8.5): glycerin (AR) =1:9,

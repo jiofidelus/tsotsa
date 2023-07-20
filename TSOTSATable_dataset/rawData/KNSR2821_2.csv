@@ -1,0 +1,14 @@
+,0,1,2,3
+0,Replicate,Replicate,Assayed with,Assayed
+1,,,2000-2001,with 2010
+2,,,samples,samples
+3,,,Lab A,Lab B
+4,1,,0.64,0.65
+5,2,,0.67,0.62
+6,3,,0.73,
+7,4,,0.70,
+8,5,,0.72,
+9,Mean,Mean,0.69a,0.64a
+10,Standard deviation,Standard deviation,0.04,0.02
+11,,Relative standard deviation,5.8%,3.3%
+12,a,Means do not differ significantly=0.05,Means do not differ significantly=0.05,

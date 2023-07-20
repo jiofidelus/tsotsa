@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,Water sources,No.of samples,Nitrate range,Levels (mg/L) mean,Nitrite range,Levels (mg/L) mean
+1,Bore-holes,12,1.20-4.66,3.12+1.17,0.20-1.50,0.680.47
+2,Streams/rivers,10,0.60-2.13,1.070.5,0.15-0.67,0.320.18
+3,Wells,15,0.5-21.45,11.18+10.48,0.33-1.20,0.730.44
+4,Tap water,6,0.75-4.45,3.051.22,0.12-0.83,0.630.42
+5,Central sewage effluents,2,02.32-126.73,120.0215.48,18.05-19.72,18.88+1.20

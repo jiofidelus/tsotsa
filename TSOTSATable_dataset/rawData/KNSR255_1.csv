@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6
+0,Peak,Rt,Amax,Molecular ion,MS2(m/2),MS3(m/z),Tentative identification
+1,,(min),(nm),[M+H]+m/z,,,
+2,1,12.9,528,1189,881,"735,573,421,287",Cy 3-rutinoside dimer
+3,2,13.6,528,737,"575,557","557,449,423,329,287",(Epi)catechin-(48)-Cy 3-glucoside
+4,3,14.4,528,883,"737,575","557,449,423,329,287",(Epi)catechin-(4-8)-Cy 3-rutinoside
+5,4,15.2,516,611,"449,287",287,"Cy 3,5-diglucoside"
+6,5,16.8,528,883,"737,575","557,423,329.287",(Epicatechin-4-8)-Cy 3-rutinoside
+7,6,17.5,524,867,"721,559","559,541.433.407.312",(Epicatechin-4-8)-Pg 3-rutinoside
+8,7,19.1,525,867,"721, 559","559,541,433,407,312",(Epicatechin-4->8)-Pg 3-rutinoside
+9,8,20.4,506,663,355,"327,311, 299",5-Carboxypyranocyanidin-3-rutinoside
+10,9,20.8,520,697,"535, 449, 287",287,Cy 3-malonylglicosyl-5-glucoside
+11,10,22.2,516,449,287,287,Cy 3-glucoside
+12,11,22.8,518,595,"449,287",287,Cy 3-rutinoside
+13,12,27.7,n.a.,433,271,,Pg 3-glucoside
+14,13,28.6,506,579,"433,271",271,Pg 3-rutinoside
+15,14,29.9,520,609,"463,301",301,Pn 3-rutinoside
+16,15,32.9,518,535,287,287,Cy 3-malonylglucoside

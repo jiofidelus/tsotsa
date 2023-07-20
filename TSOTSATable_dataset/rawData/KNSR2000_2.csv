@@ -1,0 +1,17 @@
+,0,1
+0,Neural network type,Testing
+1,,recognition (%)
+2,ImgProcNN(raw milk and raw-2ngmL-1penicillin G,93
+3,ImgProcNN(raw milk and raw-4ng mL-1 penicillin G),97
+4,ImgProcNN(raw milk and raw-8ngmL-1penicillin G),97
+5,ImgProcNN(UHT milk and UHT-2 ng mL-1 penicillin G),97
+6,ImgProcNN(UHT milk and UHT-4ng mL-1 penicillin G,97
+7,ImgProcNN(UHT milk and UHT-8 ng mL-1 penicillin G),97
+8,ImgProcNN(raw milk and raw-2ngmL-1 ampicillin),97
+9,ImgProcNN(raw milk and raw-4ng mL-1 ampicillin),97
+10,ImgProcNN(raw milk and raw-8 ngmL-1Ampicillin),97
+11,ImgProcNN(UHT milk and UHT-2ng mL-1 ampicillin,93
+12,ImgProcNN(UHT milk and UHT-4ng mL-1 ampicillin,100
+13,ImgProcNN(UHT milk and UHT-8 ng mL-1 ampicillin,93
+14,ImgProcNN(Raw milk and milk naturally contaminated,97
+15,with penicillin G),

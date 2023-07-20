@@ -1,0 +1,13 @@
+,0,1
+0,Parameters,Value
+1,Forward power,1550W
+2,Plasma gas flow rate (Ar),14Lmin-1
+3,Auxiliary gas flow rate (Ar,0.89Lmin-1
+4,Carrier gas flow rate (Ar),0.91 Lmin-1
+5,Collision gas flow rate (He,4.5 mL min-1
+6,Spray chamber temperature,2.70
+7,Sample uptake/wash time,45s
+8,Injection volume,200L
+9,Sample introduction flow rate,0.93 mLmin-1
+10,Scan mode,Full scan
+11,Dwell time,Optimized for each analyte

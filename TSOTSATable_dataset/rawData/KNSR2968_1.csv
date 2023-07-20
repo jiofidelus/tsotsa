@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7,8
+0,Peak,tR,Amax,Mode,Accurate,Proposed,Error,LC-ESI-MS/MS,Proposed compound
+1,labela,(min)b,(nm),,"mass, exp.",molecular,(ppm),fragment ions,
+2,,,,,,formula,,,
+3,4,5.34,"230,274",-,343.1037,C15H1gOg,2.3,"16350,119100",Hydroxybenzene propanoic acid-2-0-hexoside
+4,36,41.97,"242, 340",+,449.1093,C21H21O11,2.0,287 (100),Luteolin-7-O-glucoside
+5,,,,-,447.0944,C21H1gO11,3.8,"447 (8), 285 (100)",

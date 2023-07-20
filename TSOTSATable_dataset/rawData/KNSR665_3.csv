@@ -1,0 +1,8 @@
+,0,1,2,3,4
+0,Analyte,Extraction yield using MAE (mg g-),,Extraction yield using HRE (mg g-1),
+1,,Aqueous IL solution,50% ethanol solution,Aqueous IL solution,50% ethanol solution
+2,NCA,1.33  0.12,0.89  0.07,1.02  0.10,0.76  0.05
+3,CA,40.19  1.26,33.73  0.84,36.97  1.01,29.54  0.93
+4,CFA,0.44  0.02,0.32  0.01,0.93  0.07,0.28  0.02
+5,ICA-C,1.02  0.08,0.81  0.05,0.93  0.07,0.69  0.03
+6,ICA-A,8.71  0.65,5.98  0.52,7.16  0.48,4.85  0.36

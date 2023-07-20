@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7
+0,Analyte,Peach,Mango,Pineapple,Orange,Pomegranate,Sour cherry,Apricot
+1,All samples were spiked with each analyte at a concentration of 5 ng mL-1.,,,,,,,
+2,Chlorpyrifos,92  5,92  4,90  3,93  3,90  4,94  2,93  3
+3,Cyanazine,90  4,94  3,91  5,95  5,89  5,93  3,95  4
+4,Hexaconazole,94  4,95  4,93  5,96  4,93  3,97 4,94  6
+5,Tebuconazole,95  6,93  3,95 4,97  2,914,955,95  4
+6,Triticonazole,96  4,92  5,94  5,98  4,93  2,92  3,92  5
+7,Diniconazole,93  5,94  4,97  4,93  5,95  5,94  6,94  4
+8,Chlorpyrifos,92  4,97  2,92  5,92  6,92  4,92  4,97  4
+9,Cyanazine,94  3,92  4,91  2,95  4,93  5,93  3,97  3
+10,Hexaconazole,91  4,93  3,92  3,91  5,96  3,94  4,89  4
+11,Tebuconazole,97  6,96  4,94  4,91  4,98  4,91  5,93  3
+12,Triticonazole,93  5,94  5,93  3,98  5,92  2,95  4,94  2
+13,Diniconazole,92  2,95  4,96  4,96  6,89  4,93  6,92  3

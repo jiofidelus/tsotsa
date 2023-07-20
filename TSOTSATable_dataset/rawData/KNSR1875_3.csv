@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7
+0,Type of eggs,n,yolk vs albumen,yolk vs membranes,yolk vs shell,albumen vs membranes,albumen vs shell,membranes vs shell
+1,Turkey eggs,60,0.79***,0.82***,0.91***,0.67**,0.79***,0.69**
+2,Goose eggs,48,0.82***,ns,ns,ns,ns,ns
+3,Free-range chicken eggs,40,ns,ns,ns,ns,ns,ns
+4,Barn-laid chicken eggs,40,ns,ns,ns,0.74*,ns,ns
+5,Caged chicken eggs,64,ns,ns,ns,ns,0.96*,ns
+6,Peking duck eggs,24,ns,0.82*,0.82*,ns,ns,0.86*
+7,Muscovy duck eggs,32,ns,ns,0.92***,.0.92***,ns,ns

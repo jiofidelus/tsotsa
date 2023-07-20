@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Extraction,Analytes,Adsorbent,Sample,Sample,Extraction,Recovery,LOD,RSD (%),References
+1,and analytical,,,,amount,time (min,(%),,,
+2,method,,,,,,,,,
+3,LLE/SPE/,BaP,SPE glass tubes,"Smoking,",30.0g or,,83.6-96.8,0.1-1.5 g kg1,1.8-15.6,(Olatunji
+4,GC-FID,,containing neutral Si/,"grilling,",2.0 mL,,,,,"et al.,2014"
+5,,,basic Si/acidic Si/,boiling meat,,,,,,
+6,,,neutral Si,,,,,,,
+7,SPME/GC-,"PyBaP,",TpBD bonded SPME,Grilled meat,2.0 g,50,85.1-102.8,0.00002-0.00166 ng mL-1,<8.4,"Ma et al.,"
+8,MS/MS,"BaA,BbF,",fiber,,,,,,,2019)
+9,,DahA,,,,,,,,
+10,SPE/HPLC-,"BaP,BaA",Aluminum oxide,Smoked meat,1.0g,-,83.3-101.0,0.18 g kg-1,0.6-0.9,(Zachara
+11,FLD,BbF,,,,,,,,et al.2017
+12,MAE-DLLME/,"Py,BaP",,Grilled meat,1.0g,6,85-104,0.150.3 g kg-1,<9.0,(Kamankesh
+13,GC-MS,"BaA,BbF",,,,,,,,"et al.,2015"
+14,,DahA,,,,,,,,
+15,EIDLM/,"Py,BaP",Magnetic effervescent,"Raw, boiled,",1.0g,<5,82.3-104.7,0.010.07 g kg-1,1.4-6.9,Zhang et al.
+16,HPLC-FLD,,tablets composed of,charcoal,,,,,,2020)
+17,,,dicationic ionic,grilled meat,,,,,,
+18,,,liquids and NiFeO4,,,,,,,
+19,LLE/SPE/,"BaA,BbF,","Strata C-18 E, Strata","Smoked,",10.0g,,72.091.0,0.15-0.17 g kg-1,<12.0,(Kafouris
+20,HPLC-FLD,BaP,Florisil,charcoal,,,,,,"et al.,2020"
+21,,,,grilled meat,,,,,,
+22,DLSE/GC-,"Py,BaP",HP-PEDOT,Grilled meat,5.0 g or,15,81.5-99.4,0.20.4 g kg1,2.06.9,This work
+23,MS/MS,"BaA,BbF,",@FeO4@AL,,10.0 mL,,,,,
+24,,DahA,,,,,,,,

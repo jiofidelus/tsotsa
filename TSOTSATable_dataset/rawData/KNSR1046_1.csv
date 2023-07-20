@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Benzimidazole,HPLC,,,,,VASEME-SFO,,,,,
+1,,Linear range,LOD(g mL-1),LOQgmL-1,%RSD(n=5,%RSD(n=5,Linear range,LOD(gmL-1),LOQg mL-1),%RSDn=5,%RSDn=5,EF
+2,,(gmL-1),,,,,gmL-1,,,,,
+3,,,,,tR,Peak area,,,,tR,Peak area,
+4,Thiabendazole,0.01-5,0.01,0.03,0.3,1.76,0.005-1,0.0003,0.001,0.3,1.5,33
+5,Mebendazole,0.01-5,0.01,0.03,0.1,2.84,0.005-1,0.0003,0.001,0.4,1.4,33
+6,Albendazole,0.035,0.03,0.01,0.2,2.63,0.005-1,0.0005,0.002,0.3,2.5,60
+7,Fenbendazole,0.015,0.01,0.03,0.1,3.45,0.005-1,0.0003,0.002,0.2,1.5,33

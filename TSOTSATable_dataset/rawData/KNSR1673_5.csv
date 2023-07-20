@@ -1,0 +1,6 @@
+,0,1,2,3
+0,,Accuracy,Specificity,Sensitivity
+1,SVM,98%,100%,94%
+2,(all variables),,,
+3,SVM,96%,100%,88%
+4,(Ca and Cd),,,

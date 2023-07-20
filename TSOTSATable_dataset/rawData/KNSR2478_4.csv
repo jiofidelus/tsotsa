@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Variation sources,Freedom,Sum of,Mean,Quantity estimateda,Fobs,P-value
+1,,degrees,squares,squares,,,
+2,Between floral sources,1,0.73027,0.73027,+2o+22,510.06b,0.000
+3,Between honey samples,20,0.02863,0.00143,,10.28b,0.000
+4,(within floral sources),,,,,,
+5,Analytical error,22,0.00306,0.00014,02,,
+6,Total,43,0.76197,,,,

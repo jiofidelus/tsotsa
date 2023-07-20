@@ -1,0 +1,11 @@
+,0,1,2
+0,"(v1,",Y(vi,Meaning
+1,V2),V2),
+2,+,,The intensity of the signals at v and v2 changes in the same
+3,,,"direction,i.e.increasing or decreasing together"
+4,-,,The intensity of the signals at v and v2 changes in the
+5,,,opposite direction
+6,+,-,The change at v mainly follows the change in the band at v
+7,-,+,The change at v mainly follows the change in the band at v
+8,+,+,The change at vi mainly precedes the change in the band at v2
+9,,,The change at v mainly precedes the change in the band at v2

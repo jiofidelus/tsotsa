@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6
+0,As,Cd,Hg,Pb,Class,Country (region),Reference
+1,0.005 (182),0.853(182),0.0055 (182),0.056 (182),Sheep,Australia,This study
+2,,0.46(10,,0.24 (10),Sheep 1-3yr,China (Gansu),Liu 2003
+3,0.01425,0.235a (25),0.007a(25),0.034a25),Sheep 1-3 yr,Croatia,"Bilandzic et al.,2010"
+4,,0.880 (12),,0.181 (12,Sheep,Egypt (rural),Abou-Arab 2001
+5,,0.820 (12),,0.541(12),Sheep,Egypt (industrial),Abou-Arab 2001
+6,,0.547 (71),,,Sheep,Germany,Schulz-Schroder 1991
+7,,0.83 (70),,0.85 (70),Sheep,Greece,"Zantopoulos et al.,1999"
+8,,0.058 (96),0.012 (96),,Lambs<6m,Iceland,Reykdal and Thorlacius 2001
+9,,0.023 (60),,,Sheep 1-6 yr,Iran,Kazemeini et al.2010
+10,,1.035 (30),,0.696 (30),Lambs,Italy,"Amodio-Cocchieri and Fiore,1987"
+11,,<0.0035,,0.172,Lambs,Italy,Forte and Bocca 2007
+12,,1.68b (4),0.0021b (4),0.5b4,Sheep,Italy(SW,"Caggiano et al.,2005"
+13,,,,3.87 (40),Sheep,Jordan,"Massadeh et al.,2006"
+14,,0.301 (16),,0.145 (16),Sheep,Kuwait,"Husain et al.,1996"
+15,,,,0.310 (26),Sheep,Kuwait,"Al-Sabbagh,2012"
+16,,0.057(20),,,Sheep<1yr,NZ(Otago),"Birch et al.,1998"
+17,,0.054 (20),,,Sheep 2yr,NZ(Otago),"Birch et al.,1998"
+18,,0.229(20),,,Sheep 4 yr,NZ(Otago),"Birch et al.,1998"
+19,,0.586 (20),,,Sheep 6 yr,NZ(Otago),"Birch et al.,1998"
+20,,0.25,,,Sheep,NZ,"Solly et al., 1981"
+21,,0.250 5,,,Sheep,Poland,Falandysz 1991
+22,,0.27 (9,,,Sheep,Slovakia,"Kramarova et al.,2005"
+23,,0.751 (250),,,Sheep,Spain(Leon),"Sierra Carro et al.,2006"
+24,,0.120 (98),,0.053(98),Sheep,Sweden,Jorhem 1999
+25,,1.73,0.136,1.38,Sheep,Turkey,"Senavci et al.,1997"
+26,0.01352,,,,Sheep,UK,Meharg 2009
+27,,0.18 (162),,0.64,Lambs,USA,"Coleman et al.,1992"
+28,,0.83 (34),,,Sheep mature,USA,"Coleman et al.,1992"

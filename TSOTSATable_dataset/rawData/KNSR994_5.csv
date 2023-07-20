@@ -1,0 +1,21 @@
+,0,1,2,3,4
+0,Metal,RDI (mg day-1),Gadus morhua,Pollachius,Gadus morhua
+1,,adult standard,callarias L.%,virens L.% RDI,morhua L.%
+2,,,RDI,,RDI
+3,Ca,1000,2.1,1.4,1.4
+4,Fe,10,1.2,3.4,1.0
+5,K,4700,6.6,8.0,6.7
+6,Mg,400,5.5,7.0,5.8
+7,Na,1500,2.4,6.3,5.6
+8,P,700,28.6,32.9,24.5
+9,Zn,8.0,4.4,5.8,4.5
+10,Cu,0.9,2.5,2.6,2.6
+11,Mn,2.3,0.5,"1,1",0.3
+12,Cr,0.03,10.0,13.3,10.7
+13,Se,0.055,28.3,,23.3
+14,Toxic,Maximum limit,PTWI*[g,PTWI**[g,% PTWI in cod
+15,metal,[g kg~],kg-1bw],70 kg-1 bw],Baltic-Atlantic
+16,Hg,500,4.0,280,2.18-2.68
+17,Cd,50,2.5,175,0.17-0.29
+18,Pb,300,1.5,105,1.52-1.81
+19,ASinorg,-,15,1050,0.30-1.53

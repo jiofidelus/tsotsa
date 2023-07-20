@@ -1,0 +1,4 @@
+,0,1,2,3,4
+0,Data set,Nos. of sample,"Weight, gm","Major diameter,mm","Moisture content, %"
+1,Set-1 (Classify the internal defects),165,7.7  0.6,26.5  2.3,5.78  0.7
+2,Set-2 (Oil content prediction),180,9.4  0.8,26.3  0.9,5.81  0.2

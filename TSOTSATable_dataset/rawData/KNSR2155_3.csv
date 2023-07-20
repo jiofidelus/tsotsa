@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Number,Sample,Analysis,Linear,Correlation,LOD (g,LOQ(g,Recovery,Precision,Chromatographic,Refs.
+1,of,preparation,method,range (g,coefficients,kg-1,kg~1,(%),(%),analysis time (min),
+2,analytes,method,,mL-1),(R2),,,,,,
+3,34,SULLE,UHPLC-,0.001-1.0,>0.962,-,1.0-10,62.8-124,2.233,9.5,This study
+4,,,HESI-,,,,,,,,
+5,,,HRMS/,,,,,,,,
+6,,,MS,,,,0.74.3,,,,
+7,17,SULLE,HPLC-,0.05-20,>0.9986,0.21.3,0.74.3,78.6-105,1.8-5.1,37,"(Zhu et al.,"
+8,,,ECD,,,,,,,,2019)
+9,14,LLE,UHPLC-,0.1-1.0,>0.9936,10-50,40-180,83.0113,-,9,"(Keckes et al.,"
+10,,,HESI-,,,,,,,,2013)
+11,,,HRMS/,,,,,,,,
+12,,,MS,,,,,,,,
+13,32,LLE,UHPLC-,0.05-10,>0.910,920,,80.0-109,-,13,(Kivrak and
+14,,,ESI-MS/,,,,,,,,"Kivrak,2017)"
+15,,,MS,,,,,,,,
+16,15,DLLME,HPLC-UV,0.1-20,>0.999,1.4-12,4.7-40,23.7105,<9.6,38,(Campone
+17,,,,,,,,,,,"et al.,2014)"
+18,16,SPE,HPLC-ESI-,0.0520,>0.996,0.5250,-,58.3100,<5.0,32,"(Sergiel et al.,"
+19,,,MS/MS,,,,,,,,2014)
+20,13,SPE,HPLC-,0.018-9.6,>0.999,0.004-0.1,0.013-0.33,82.7-109,<2.5,70,"(Zhao et al.,"
+21,,,ECD,,,,,,,,"2016a,b)"
+22,25,SPE+LLE,HPLC-,0.05-200,>0.996,16-400,51-1350,90.0-101,<2.5,90,(Badjah Hadj
+23,,,PAD,,,,,,,90,"Ahmed et al.,"
+24,,,,,,,,,,,2016)
+25,19,Dilute-and-,HPLC-ESI-,0.05-50,>0.996,0.001-0.015,,,<6.8,16,(Biesaga and
+26,,shoot,MS/MS,,,,,,,,"Pyrzynska,"
+27,,,,,,,,,,,2009)
+28,18,Dilute-and-,UHPLC-,0.01-50,>0.990,10,20,71.0-119,-,18,(Lo Dico
+29,,shoot,HESI-,,,,,,,,"et al., 2019)"
+30,,,HRMS,,,,,,,,
+31,32,Dilute-and-,UHPLC-,0.02-25,>0.987,0.033.2,0.2-13,70.7-110,-,9,(Seraglio
+32,,shoot,ESI-MS/,,,,,,,,"et al., 2016a,"
+33,,,MS,,,,,,,,b)

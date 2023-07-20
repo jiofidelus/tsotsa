@@ -1,0 +1,21 @@
+,0,1,2,3,4
+0,Sample ID,Arsenic by INAA,,Selenium by ID-ICP/MS,Selenium by ID-ICP/MS
+1,,Mass fraction,Measurement standard,Mass fraction,Measurement standard
+2,,(mg/kg),uncertainty(mg/kg),(mg/kg),uncertainty (mg/kg)
+3,108-04-021-002,9.513,0.065,2.760,0.007
+4,108-04-021-031,9.557,0.059,2.658,0.007
+5,108-04-021-061,9.064,0.063,2.696,0.007
+6,108-04-021-092,9.193,0.061,2.696,0.007
+7,108-04-021-121,9.276,0.059,2.691,0.007
+8,108-04-021-151,9.040,0.061,2.664,0.007
+9,108-04-021-181,9.067,0.062,2.659,0.007
+10,108-04-021-211,9.134,0.061,2.667,0.007
+11,108-04-021-241,8.862,0.060,2.687,0.007
+12,108-04-021-280,9.268,0.063,2.680,0.007
+13,Pooled measurement standard deviation due,,0.061,,0.007
+14,to the systematic effects,,,,
+15,"Mean of mass fractions (C),mg/kg",9.197,,2.686,
+16,"Standard deviation of mass fractions (ur),mg/kg",0.215,,0.030,
+17,"Combined uncertainty (uc,mg/kg",0.224,,0.031,
+18,"Coverage factor,k",2,,2.262,
+19,"Expanded uncertainty (U,mg/kg(at 95% level of confidence","0.4474.86%,rel.",,0.070,

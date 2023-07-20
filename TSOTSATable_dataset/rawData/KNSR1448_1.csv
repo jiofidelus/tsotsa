@@ -1,0 +1,61 @@
+,0,1,2,3
+0,Sample,Honey type,Region,County
+1,S1,Sage (Salvia officinalis),Pag,Zadar
+2,s2,Sage (Salvia officinalis),,Zadar
+3,S3,Sage (Salvia officinalis),,Primorje-Gorski Kotar
+4,S4,Sage (Salvia officinalis),Punat,Primorje-Gorski Kotar
+5,S5,Sage (Salvia officinalis),Rab,Primorje-Gorski Kotar
+6,S6,Sage (Salvia officinalis),,Primorje-Gorski Kotar
+7,BL1,Black locust (Robinia pseudoacacia L.),Mali Bukovac,Koprivnica-Krizevci
+8,BL2,Black locust (Robinia pseudoacacia L.),Krizevci,Koprivnica-Krizevci
+9,BL 3,Black locust (Robinia pseudoacacia L.),Krizevci,Koprivnica-KriZevci
+10,BL4,Black locust (Robinia pseudoacacia L.),Virje,Koprivnica-Krizevci
+11,BL5,Black locust (Robinia pseudoacacia L.),Durdevac,Koprivnica-Krizevci
+12,BL6,Black locust (Robinia pseudoacacia L.),Gola,Koprivnica-Krizevci
+13,BL7,Black locust (Robinia pseudoacacia L.),Zabno,Koprivnica-Krizevci
+14,BL 8,Black locust (Robinia pseudoacacia L.),Durdevac,Koprivnica-KriZevci
+15,BL 9,Black locust (Robinia pseudoacacia L.),Durdevac,Koprivnica-Krizevci
+16,BL 10,Black locust (Robinia pseudoacacia L.),Podgajec,Koprivnica-Krizevci
+17,BL 11,Black locust (Robinia pseudoacacia L.),Molve,Koprivnica-Krizevci
+18,BL 12,Black locust (Robinia pseudoacacia L.,Koprivnica,Koprivnica-Krizevci
+19,BL 13,Black locust (Robinia pseudoacacia L.),Koprivnica,Koprivnica-KriZevci
+20,BL 14,Black locust (Robinia pseudoacacia L.),Zagreb,Zagreb
+21,BL15,Black locust (Robinia pseudoacacia L.),Zagreb,Zagreb
+22,BL 16,Black locust (Robinia pseudoacacia L.),Belec,Krapina-Zagorje
+23,BL 17,Black locust (Robinia pseudoacacia L.),Konjscina,Krapina-Zagorje
+24,BL 18,Black locust (Robinia pseudoacacia L.),Konjscina,Krapina-Zagorje
+25,BL 19,Black locust (Robinia pseudoacacia L.),Sisak,Sisak
+26,C1,Chestnut (Castanea sativa Mill.,Garesnica,Bjelovar-Bilogora
+27,C2,Chestnut (Castanea sativa Mill.),Daruvar,Bjelovar-Bilogora
+28,C3,Chestnut (Castanea sativa Mill.),Durdevac,Koprivnica-Krizevci
+29,C4,Chestnut (Castanea sativa Mill.),Varazdin,Varazdin
+30,C5,Chestnut (Castanea sativa Mill.),Varazdin,Varazdin
+31,C6,Chestnut (Castanea sativa Mill.),Dugo Selo,Zagreb
+32,C7,Chestnut (Castanea sativa Mill.),Glina,Sisak-Moslavina
+33,C8,Chestnut (Castanea sativa Mill.),Petrinja,Sisak-Moslavina
+34,C9,Chestnut (Castanea sativa Mill.),Petrinja,Sisak-Moslavina
+35,L1,Lime (Tilia spp.),Karlovac,Karlovac
+36,L2,Lime (Tilia spp.),Varazdin,Varazdin
+37,L3,Lime (Tilia spp.),Virje,Koprivnica-Krizevci
+38,L4,Lime (Tilia spp.),Koprivnica,Koprivnica-Krizevci
+39,L5,Lime (Tilia spp.),Koprivnica,Koprivnica-Krizevci
+40,L6,Lime (Tilia spp.),Krizevci,Koprivnica-KriZevci
+41,L7,Lime (Tilia spp.),Durdevac,Koprivnica-Krizevci
+42,L8,Lime (Tilia spp.),Durdevac,Koprivnica-Krizevci
+43,,Lime (Tilia spp.),Durdevac,Koprivnica-Krizevci
+44,L10,Lime (Tilia spp.),Durdevac,Koprivnica-KriZevci
+45,L11,Lime (Tilia spp.),Durdevac,Koprivnica-Krizevci
+46,MF-0 1,Multifloral - orchard flower,Novigrad Podravski,Bjelovar-Bilogora
+47,MF-0 2,Multifloral-orchard flower,Batinjani,Bjelovar-Bilogora
+48,MF-0 3,Multifloral - orchard flower,Durdevac,Koprivnica-KriZevci
+49,MF-04,Multifloral-orchard flower,Krizevci,Koprivnica-Krizevci
+50,MF-0 5,Multifloral-orchard flower,Koprivnica,Koprivnica-Krizevci
+51,MF-0 6,Multifloral-orchard flower,Orle,Zagreb
+52,MF-0 7,Multifloral - orchard flower,Varazdin,Varazdin
+53,MF-M 1,Multifloral-medow flower,Ivanie Grad,Zagreb
+54,MF-M 2,Multifloral-medow flower,Jastrebarsko,Zagreb
+55,MF-M 3,Multifloral-medow flower,Zagreb,Zagreb
+56,MF-M 4,Multifloral-medow flower,Zagreb,Zagreb
+57,MF-M 5,Multifloral-medow flower,Zagreb,Zagreb
+58,MF-M 6,Multifloral-medow flower,Knin,Split
+59,MF-M 7,Multifloral-medow flower,Josipdol,Osijek-Baranja

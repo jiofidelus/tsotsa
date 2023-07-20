@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6
+0,Analyte,Mean relative recovery (% standard deviation (n=3),Mean relative recovery (% standard deviation (n=3),Mean relative recovery (% standard deviation (n=3),,,
+1,,Orange juice,Grape juice,Pomegranate juice,Peach juice,Cucumber juice,Onion juice
+2,,All samples were spiked with each analyte at a concentration of 25 ug L-1,All samples were spiked with each analyte at a concentration of 25 ug L-1,All samples were spiked with each analyte at a concentration of 25 ug L-1,,,
+3,Chlorpyrifos,954,92  3,934,933,953,974
+4,Oxadiazon,90  4,94  4,94 4,94  3,964,96  3
+5,Diniconazole,92  4,95  4,94 3,96  4,94  3,1005
+6,Clodinafob-Propargyl,92  3,94  3,963,924,96  3,1014
+7,Fenpropathrin,93  4,93  3,95  3,95  4,92  4,97  4
+8,Fenoxaprop-p-ethyl,92  4,94  5,96  4,94  4,95  5,98  5
+9,,All samples were spiked with each analyte at a concentration of 50 g L-1,All samples were spiked with each analyte at a concentration of 50 g L-1,All samples were spiked with each analyte at a concentration of 50 g L-1,,,
+10,Chlorpyrifos,96  3,97  3,94  4,94  4,95  4,98  3
+11,Oxadiazon,92  4,96  5,97 4,955,97  4,96  4
+12,Diniconazole,95  4,95  3,954,96  3,96  4,1015
+13,Clodinafob-Propargyl,94  3,97  4,96 4,96  3,95  3,101  3
+14,Fenpropathrin,95  4,95  4,974,95 5,90  3,98  4
+15,Fenoxaprop-p-ethyl,96  5,96  4,975,95  5,102  6,98  5

@@ -1,0 +1,73 @@
+,0,1,2
+0,Issue,US DSLD,Italian DSLD
+1,Legal Definition,Dietary supplement,Food /dietary
+2,,,supplement
+3,Size,"105,000 labels",558
+4,Data Sources:How are,Contractor has program,All supplements in
+5,labels collected?,with manufacturers to,national Italian dietary
+6,,provide labels for entry All,surveys (both past and
+7,,supplements in National,ongoing) Labels
+8,,Health and Nutrition,searched on the internet
+9,,Examination Survey,using specific keywords
+10,,"(NHANES), the national",The nutritional values of
+11,,population based survey,the components derive
+12,,Labels or categories,mainly from the labels
+13,,specifically requested by,and/or from direct
+14,,other federal agencies,contact with the
+15,,,manufacturer.Label
+16,,,surveys obtained by
+17,,,visiting retail points to
+18,,,directly observe
+19,,,products on shelves
+20,Data Coding,,
+21,Coding System:,Coding structure,"FoodEx2,revision 2"
+22,,developed which is a,based on the European
+23,,combination of,Food Safety Agency
+24,,contractor's system and a,(EFSA) system used by
+25,,partial modification of,European Union
+26,,LanguaLTM for dietary,European Union
+27,,supplements,
+28,Coding: Ingredients,Each ingredient belongs to,A similar structure to
+29,,only one category and one,DSLD is used for
+30,,parent ingredient group;,ingredients
+31,,the parent-child structure,
+32,,combines forms/sources,
+33,,of ingredients with their,
+34,,parents.,
+35,:Does coding include both,Yes. Some are,"Yes, clearly defined"
+36,implicit and added,"automatically attached,",implicit and added
+37,facets to describe,"such as physical state,",facets
+38,products?,while others are added,
+39,,based on various parts of,
+40,,label content (such as,
+41,,target group),
+42,Are coded elements are,"No, since many of the","Yes,numeric codes can"
+43,assigned numeric,identification numbers are,be associated easily
+44,values that could be,in a sequence based on,"between like items, in a"
+45,used for establishing an,when the coded value was,fashion similar to that
+46, ontology,added to the data set. To,with the LanguaL code
+47,,convert the numbers into a,with the LanguaL code
+48,,meaningful ontology it,values.
+49,,would be necessary to,
+50,,recode and group items,
+51,,together so that the,
+52,,numerical code could be,
+53,,more easily associated,
+54,,between like items,
+55,Is an aggregation and core,No.DSLD does have an,"Yes, aggregation and"
+56,terms chart available,ingredient categories and,core terms charts and
+57,with layers like,"groups list, without",additional layers are
+58,phytochemicals/,"additional layers, but it is",available.
+59,carotenoids/beta,possible to build I,
+60,"carotene, lutein,",additional layers,
+61,astaxanthin,,
+62,Who enters the data?,Coders at the contractor,Qualified Coders
+63,How is data entered and,Manually,Manually
+64,coded?,,
+65,How often is data entered,Requested Monthly,Monthly
+66,How accurate is label,Depends on manufacturer,Depends on
+67,data?,,manufacturer
+68,Are existing controlled,Partial coding using,"FoodEx2,Revision 2"
+69,vocabularies and,modification of,
+70,"LanguaL, TM FoodEx 2",LanguaLTM,
+71,etc.?,,

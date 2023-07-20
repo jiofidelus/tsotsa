@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Sunflower oil,Sunflower oil,Sunflower oil,Groundnut oil,Rapeseed oil,Rye seed,Rye seed,Hazel oil,Hazel oil
+1,,SITS,CAS,STIS,STIS,BRS,SIST,STIS,SITS,SITS
+2,,,,,,,,,(Without outlier,(With outlier)
+3,Mean (mgkg-1),2129,336.3,331.5,224.4,762.9,92.8,26.7,1235.4,1256.3
+4,Std D,626.1,140.7,133,65.7,164.5,25.3,6.7,247.4,282.7
+5,95% Conf limits of mean,245.4,56.3,52.1,38.8,68.7,10.1,2.7,72.3,81.7
+6,Skewness,0.082,0.105,0.394,0.384,0.327,0.062,-0.318,0.298,0.536
+7,Kurtosis,-0.958,-1.182,-0.385,-1.310,0.538,0.832,-0.164,-0.131,1.744
+8,Number of records,25,24,25,11,22,24,24,45,46
+9,JB statistic,16.35,17.54,12.58,8.78,11.87,14.70,10.42,19.04,5.23
+10,p-value,0.0003,0.0002,0.0019,0.0124,0.0027,0.0006,0.0055,7.3E-05,0.0733

@@ -1,0 +1,15 @@
+,0,1,2
+0,Species,Tolerance limit of interferent/ analyte ratio,Tolerance limit of interferent/ analyte ratio
+1,,Cu (II),Pb (I1)
+2,Cr3+,800,1000
+3,Fe3+,1000,800
+4,Ca2+,1000,1500
+5,Mg2+,1700,1500
+6,Zn2+,1000,1000
+7,Ca2+,600,500
+8,so?,1000,1000
+9,Na+,2500,2000
+10,K+,1000,1000
+11,Co2+,600,500
+12,Ni2+,800,600
+13,NO3,1200,1000

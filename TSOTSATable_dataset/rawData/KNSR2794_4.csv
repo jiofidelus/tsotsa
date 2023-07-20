@@ -1,0 +1,27 @@
+,0,1,2,3,4,5
+0,Peak,Compound,TR,Amax,[M-H],MS/MS(m/z
+1,,,(min)a,(nm)b,m/z,
+2,,Isorhamnetin,,,,
+3,,hexoside,,,,
+4,36,Quercetin 3,27.2,357,463.0846,301
+5,,glucoside,,,,
+6,37,Ellagic acid,27.4,365,301.0011,245;257;229
+7,,,,,,201;185
+8,38,Not identified,27.6,367,793.0883,301;283
+9,39,Methyl Cirsimaritin,27.6,368,491.0827,476;328;313
+10,,coumaric acid,,,,
+11,40,Quercetin pentoside,28.2,360,433.0781,301;271
+12,41,Quercetin pentoside,28.7,360,433.0771,301;261;191
+13,42,Quercetin,28.8,360,415.1982,301;179
+14,,derivative,,,,
+15,43,Not identified,29.1,280,417.2122,301;191
+16,,,,,407.1862,
+17,44,Quercetin pentoside,29.6,360,433.0804,301;271;191;
+18,,,,,,178
+19,45,Cirsilineol,30.0,360,423.0054,"343;328;300,"
+20,,derivative,,,,279;191
+21,46,Caffeoyl acid,31.7,320,555.3113,519;179
+22,,derivative,,,,
+23,47,Cirsilineol Methyl,33.5,367,551.1036,343;328;313
+24,,Caffeoyl,,,,
+25,48,Cirsilineol,34.1,360,521.0937,491;343

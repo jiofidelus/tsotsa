@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Sample,Aluminium content(mgL-,Limit of detection(mg L-,Analytical technique,References
+1,Bottled mineral water,,0.0019,GFAAS,Plessi and Monzani (1995)
+2,Still (glass),0.0068 0.0046,,,
+3,Still (plastic),0.00500.0031,,,
+4,Artificially carbonated (glass),0.0132  0.0059,,,
+5,Artificially carbonated (plastic),0.0074 0.0049,,,
+6,Wine,0.0948-1.68,4.0b,GFAAS,Lopez et al.1998
+7,Beer,0.0365-0.795,,,
+8,Other alcoholic beverages,0.0157-0.740,,,
+9,Drinking water,0.0042-0.165,,GFAAS,Lopez et al.2002)
+10,Fruit juice,0.0493-1.15,,,
+11,Soft drink,0.0446-1.05,,,
+12,Biscuit,,0.510-3,GFAAS,Jalbani et al.2007
+13,Branded,7.4-84.3a,,,
+14,Non-branded,34.5-70.2a,,,
+15,Bread,,,,
+16,Branded,8.0-29.6a,,,
+17,Non-branded,39.1-82.9a,,,
+18,Tap water,0.0253,0.7910-3,Spectrofluorometry,Tabrizi (2007)
+19,Mineral water,0.0135-0.0152,,,
+20,Apple,1.9a,,,
+21,Tomato,1.8a,,,
+22,Carrot,2.9a,,,
+23,Potato,4.8a,,,
+24,Yoghurt,1.3a,,,
+25,Bread,5.9a,,,
+26,Wheat flour,6.2a,,,
+27,Sausage,3.5a,,,
+28,Tap water,0.0052,0.14  10-3,Spectrophotometry,Shokrollahi et al.2008)
+29,Soda,,0.81  103,Spectrophotometry,Francisco et al.2010
+30,Al can,0.75-1.5,,,
+31,PET bottle,0.340.64,,,
+32,Rice,0.0922a,0.034,Kinetic-spectrophotometry,Abbasi et al.2009
+33,Tea,0.175a,,,
+34,Potato,0.134a,,,
+35,Tea infusion,2.63-5.84,0.05,Fl-spectrophotometry,Tontrong et al.2012
+36,Tap water,0.062-0.192,0.020 (direct),SI-spectrophotometry,Mesquita and Rangel(2008
+37,Mineral water,0.042-0.061,0.012 (kinetic),(direct and kinetic),

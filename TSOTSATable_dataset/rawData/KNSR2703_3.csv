@@ -1,0 +1,76 @@
+,0,1,2,3,4,5
+0,No.,Pesticide,% matrix effect,LOD,LOQ,LDR
+1,1,Molinate,22,3,10,10-1000
+2,2,Propamocarb,9,3,10,10-1000
+3,3,Carbendazim,-11,2,5,5-1000
+4,4,Carbaryl,-11,1,5,5-1000
+5,5,Isoproturon,25,30,50,50-1000
+6,6,Acetamiprid-N-desmethyl,21,35,50,50-1000
+7,7,Metribuzin,15,2,5,5-1000
+8,8,Pymetrozine,-10,25,50,50-1000
+9,9,Dichlorovos,14,15,25,25-1000
+10,11,Carbofuran,20,5,10,10-1000
+11,11,Acetamiprid,20,5,10,10-1000
+12,12,Ethiophencarb,23,5,10,10-1000
+13,13,Methiocarb,23,20,50,10-1000
+14,14,Carboxin,19,5,10,10-1000
+15,15,Primicarb,12,5,10,10-1000
+16,16,Primicarb,-11,5,10,10-1000
+17,17,Bentazone,-11,20,50,10-1000
+18,18,Terbutryn,15,5,25,10-1000
+19,19,Oxydemethon-(methyl),15,15,25,25-1000
+20,20,Prosulfocarb,18,5,10,10-1000
+21,21,Thiacloprid,27,5,10,10-1000
+22,22,Imidacloprid,27,5,10,10-1000
+23,23,Trichlorfon,20,5,10,10-1000
+24,24,Bromacil,20,5,10,10-1000
+25,25,Spiromesifen,22,10,25,25-1000
+26,26,Fenitrothion,26,5,10,10-1000
+27,27,Metalaxyl,26,5,10,10-1000
+28,28,Metalaxyl,26,5,10,10-1000
+29,30, Penconazole,11,7,10,50-1000
+30,30,Ethofumesate,15,15,50,50-1000
+31,31,Imazethapyr,17,15,50,50-1000
+32,32,Isoprothiolane,26,0.1,5,5-1000
+33,33,Thiametaxam,26,15,50,50-1000
+34,34,Amitraz,29,10,25,25-1000
+35,35,Amitraz,29,5,10,10-1000
+36,36,Tridemorph,22,5,10,10-1000
+37,37,Desmedifam,22,3,10,50-1000
+38,38,Phenmedipham,19,4,50,50-1000
+39,39, Spirotetramate-enol,19,4,10,10-1000
+40,40,Fenoxycarb,14,5,10,10-1000
+41,41,Fenamiphos,19,6,10,10-1000
+42,42,Diazinon,7,4,10,10-1000
+43,43,Buprofezin,-11,3,10,10-1000
+44,44,Edifenphos,13,3,10,10-1000
+45,45,Edifenphos,13,3,10,10-1000
+46,46,Butachlor,13,12,50,50-1000
+47,47,Fenamidone,14,12,50,50-1000
+48,48,kresoxim-(methyl),11,0.1,5,5-1000
+49,49,Hexaconazole,28,15,50,50-1000
+50,50,Sulfotep,28,10,25,10-1000
+51,51,Iprodione,27,6,10,10-1000
+52,53,Iprodione,-15,4,10,10-1000
+53,53, Malathion,-15,4,10,50-1000
+54,54,Carpropamid,17,15,50,50-1000
+55,55,Bitertanol,14,4,10,10-1000
+56,56,Bitertanol,14,4,10,10-1000
+57,57, Propiconazole,20,4,10,10-1000
+58,58,Thiophanate methyl,20,15,50,50-1000
+59,59,Boscalid,25,4,10,10-1000
+60,60,Clodinafop-propargil,24,10,25,10-1000
+61,61,Fenpropathrin,12,4,10,10-1000
+62,62,Chloropyrifos,15,4,10,10-1000
+63,63,Piperonyl butoxide,18,5,10,10-1000
+64,64,Fenoxaprop-ethyl,-18,5,10,10-1000
+65,65,Pyridaben,-18,5,10,10-1000
+66,66,Pyridaben,26,10,25,10-1000
+67,68,Propargite,27,5,10,10-1000
+68,68,Propargite,24,4,10,10-1000
+69,69,Anilofos,24,4,10,10-1000
+70,70,Spirotetramate,12,4,10,10-1000
+71,71,Haloxyfop-R-methyl,13,15,50,50-1000
+72,72,Prochloraz,25,15,50,50-1000
+73,73,Pyridate,25,0.1,5,5-1000
+74,74,Fluazafop-p-butyl,29,15,50,50-1000

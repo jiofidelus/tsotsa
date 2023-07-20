@@ -1,0 +1,73 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,,,,,"ESI(+)-QToF/MSexperimental ions,m/z)","ESI(+)-QToF/MSexperimental ions,m/z)","ESI(+)-QToF/MSexperimental ions,m/z)",
+1,Peak,Compounds,Abbreviation,RT,DAD Amax,Formula,[M+H]+,"Error,",[M+,Fragmentation of [M+H]+
+2,No.,Compounds,Abbreviation,(min),(nm),[M+H]+,[M+H]+,mDa,Na]+,Fragmentation of [M+H]+
+3,,,,,,,,,[M+K]+,
+4,,,,,,,,,,"CHgOH]+/ [Caf+H-2HO]+,135"
+5,,,,,,,,,,[Caf+H-HO-CO]134[Fr+H-HO-CO-
+6,,,,,,,,,,CH3]+
+7,20,3-O-caffeoyl-4-O-,"3C,4 FQA",63.32,"242,297sh,324",C26H27O12,531.1615,11.2,553.1519,"513 [M+H-HO]+,351 [M+H-Caf-"
+8,,feruloylquinic acid,,,,,,,569.1226,HO]+337 [M+H-Fr-HO]+195
+9,,,,,,,,,,"[Fr+H]+,181 [Caf+H]+"
+10,,,,,,,,,,"177 [Fr+H-HO]*,163 [Caf+H-HO]*,"
+11,,,,,,,,,,"149 [Fr+H-HO-CO]+,145 [Fr+H-HO-"
+12,,,,,,,,,,CHOH]+/[Caf+H-2HO]+135
+13,,,,,,,,,,"[Caf+H-HO-CO],134 [Fr+H-HO-CO"
+14,,,,,,,,,,CH]+
+15,21,3-0-feruloyl-5-0-,"3 F,5CQA",64.22,"241,298sh,327",C26H27O12,531.1615,11.2,553.1470,"513 [M+H-HO]+,351 [M+H-Caf-"
+16,,caffeoylquinic acid,,,,,,,569.1226,"HO]+,337 [M+H-Fr-HO]*,195"
+17,,,,,,,,,,"[Fr+H]+177 [Fr+H-HO]*,163"
+18,,,,,,,,,,[Caf+H-HO]+149 [Fr+H-HO-CO]
+19,,,,,,,,,,145 [Fr+H-HO-CHgOH]+/[Caf+H-
+20,,,,,,,,,,"2HO],135 [Caf+H-HO-CO],134"
+21,,,,,,,,,,[Fr+H-HO-CO-CH]
+22,22,3-O-caffeoyl-5-O-,"3C,5FQA",64.95,"240,298sh,327",C26H27O12,531.1615,11.2,553.1423,"513 [M+H-HO]*,351 [M+H-Caf-"
+23,,feruloylquinic acid,,,,,,,569.1226,HO]+337[M+H-Fr-HO]195
+24,,,,,,,,,,"[Fr+H]+,181 [Caf+H]+,"
+25,,,,,,,,,,"177 [Fr+H-HO]*,163 [Caf+H-HO]*,"
+26,,,,,,,,,,149[Fr+H-HO-CO]145[Fr+H-HO-
+27,,,,,,,,,,CHgOH]+/[Caf+H-2HO]135
+28,,,,,,,,,,[Caf+H-HO-CO]+134 [Fr+H-HO-CO
+29,,,,,,,,,,CH3]+
+30,,,,,,,,,,(continued on next page)
+31,,di-Hydroxycinnamoylquinic acids,,,,,,,,
+32,25,4-0-feruloyl-5-0-,"4 F,5CQA",67.57,"242,299sh,326",C26H27O12,531.1615,11.2,553.1470,513[M+H-HO]+355[M+H-Fr]+351
+33,,caffeoylquinic acid,,,,,,,569.1226,"[M+H-Caf-HO]+,337 [M+H-Fr-HO],"
+34,,,,,,,,,,195[Fr+H]177[Fr+H-HO]163
+35,,,,,,,,,,[Caf+H-HO]149 [Fr+H-HO-CO]
+36,,,,,,,,,,145 [Fr+H-HO-CHOH]+/[Caf+H-
+37,,,,,,,,,,"2H2O]+,135 [Caf+H-H2O-CO]+,134"
+38,,,,,,,,,,[Fr+H-HO-CO-CHg]
+39,26,4-O-caffeoyl-5-O-,"4C,5FQA",68.32,"244,299sh,326",C26H27O12,531.1615,11.2,553.1423,"513 [M+H-HO]+,351 [M+H-Caf-"
+40,,feruloylquinic acid,,,,,,,569.1129,"HO]+,337 [M+H-Fr-HO],195"
+41,,,,,,,,,,"[Fr+H],181 [Caf+H]"
+42,,,,,,,,,,"177 [Fr+H-HO]*, 163 [Caf+H-HO]*,"
+43,,,,,,,,,,"149 [Fr+H-HO-CO]+, 145 [Fr+H-HO-"
+44,,,,,,,,,,CHOH]+/[Caf+H-2HO]+135
+45,,,,,,,,,,"[Caf+H-HO-CO],134 [Fr+H-HO-CO"
+46,,,,,,,,,,CH]+
+47,30b,"3,5-di-0-feruloylquinic","3,5-diFQA",74.26,"241,298sh,326",C2H2gO12,545.1802,14.3,567.1638,"527 [M+H-HO]+,351 [M+H-Fr-HO]+,"
+48,,acid,,,,,,,583.1366,"195 [Fr+H]+177 [Fr+H-HO],149"
+49,,,,,,,,,,"[Fr+H-HO-CO]*,145 [Fr+H-HO-"
+50,,,,,,,,,,CH3OH]134[Fr+H-HO-CO-CH]
+51,33b,"4,5-di-0-feruloylquinic","4,5-diFQA",76.71,"242,299sh,326",C27H29O12,545.1802,14.3,567.1638,527[M+H-HO]351 [M+H-Fr-HO]
+52,,acid,,,,,,,583.1366,"195 [Fr+H]+177 [Fr+H-HO]+,149"
+53,,,,,,,,,,[Fr+H-HO-CO]145[Fr+H-HO
+54,,,,,,,,,,CHgOH]+
+55,,tri-Hydroxycinnamoylquinic acids,,,,,,,,
+56,23b,"1,3,5-tri-O-caffeoylquinic","1,3,5-triCQA",65.34,"244,300sh,325",C34H31O15,679.1813,15.0,701.1575,661[M+H-HO]+517[M+H-Caf]
+57,,acid,,,,,,,717.1301,499[M+H-Caf-HO]+337[M+H-2Caf
+58,,,,,,,,,,HO]181[Caf+H]+163[Caf+H
+59,,,,,,,,,,"HO]+,145 [Caf+H-2HO]*, 135"
+60,,,,,,,,,,[Caf+H-H2O-CO]+
+61,24b,"3-0-feruloyl-4,5-di-0-","3 F,4,5-",66.73,"237,300sh,321",C3H33O15,693.2010,19.1,715.1879,"675 [M+H-HO]*,513 [M+H-Caf-"
+62,,caffeoylquinic acid,diCQA,,,,,,731.1694,HO]499[M+H-Fr-HO]195
+63,,,,,,,,,,[Fr+H]177[Fr+H-HO]163
+64,,,,,,,,,,[Caf+H-HO]149[Fr+H-HO-CO]
+65,,,,,,,,,,145 [Fr+H-HO-CHgOH]*/ [Caf+H-
+66,,,,,,,,,,"2HO]+,135 [Caf+H-HO-CO]+,134"
+67,,,,,,,,,,[Fr+H-HO-CO-CHg]+
+68,27b,"3,5-di-O-caffeoyl-4-0-","3,5-diC,4",70.99,"243,299sh,325",C35H33O15,693.2010,19.1,715.1825,"675[M+H-HO]*,531[M+H-Caf]"
+69,,feruloylquinic acid,FQA,,,,,,731.1583,"517 [M+H-Fr]+,513 [M+H-Caf-HO]"
+70,,,,,,,,,,"499 [M+H-Fr-HO]*,351 [M+H-2Caf-"
+71,,,,,,,,,,"HO],337 [M+H-Caf-Fr-HO]+,195"

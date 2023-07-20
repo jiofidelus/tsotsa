@@ -1,0 +1,12 @@
+,0,1,2
+0,Parameter,Value,Value
+1,RF power,1200W,1200W
+2,Gas,Argon,Argon
+3,Plasma gas,15Lmin-1,15Lmin-1
+4,Auxiliary gas,0.5Lmin-1,0.5Lmin-1
+5,Nebuliser gas,0.7Lmin-1,0.7Lmin-1
+6,Sample aspiration rate,1.10mLmin-1,1.10mLmin-1
+7,View,,"Axial and radial for Ca,K,Mg and Na"
+8,Background correction,2 points,2 points
+9,Number of replicates,3,
+10,Nebuliser,Cross-flow,Cross-flow

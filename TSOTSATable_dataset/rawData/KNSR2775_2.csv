@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6
+0,,Compound,tR(min),Molecular,Exact mass,Calculated,Amass
+1,,,,formula,[M+H]*,mass(m/z),(ppm)
+2,1.,"3a-Hydroxy-1,2,3,3a,8,8a-hexahydropyrrolo",1.39,CH2NO3,221.0920,221.0918,1.0918
+3,,"[2,3-b]-indole-2-carboxylic acid",,,,,
+4,2.,3-(Phenylamino)alanine,2.71,CgH12NO2,181.0972,181.0968,1.9461
+5,3.,Tryptophan,2.72,CH2NO2,205.0972,205.0970,0.8256
+6,4.,"1,2,3,4-Tetrahydro--carboline-3-carboxylic acid",3.26,C2H2NO2,217.0972,217.0967,2.1399
+7,5.,Formaldehyde-melatonin,3.50,C?4H2oNO3,265.1547,265.1544,0.9405
+8,6.,Hydroxymelatonin isomer 1,4.08,C3HNO3,249.1234,249.1230,1.3210
+9,7.,"1-Methyl-1,2,3,4-tetrahydro--carboline-3-carboxylic acid",4.10,C13H14NO2,231.1128,231.1129,0.6184
+10,8.,Hydroxymelatonin isomer 2,4.56,C13HNO,249.1234,249.1230,1.3210
+11,9.,"1,1'-Ethylidenebis(tryptophan)",4.72,C24H26N4O4,435.2027,435.2026,0.1067
+12,10.,"2-[2,3-Dihydroxy-1-(3-indolyl)-propyl]-l-tryptophan",5.29,C22H23NzO4,394.1761,394.1748,0.7368
+13,11.,2-(3-Indolylmethyl)-l-tryptophan,5.61,C2oH1gNzO2,334.1550,334.1550,1.7491
+14,12.,"1-3-Indolylmethyl)-1,2,3,4-tetrahydro-B-carboline-3-carboxylic acid",6.09,C2H1gNO2,346.1550,346.1556,1.6617
+15,13.,Melatonin-formaldehyde condensation product 1,7.03,C2?H32N4O4,477.2496,477.2494,0.5717
+16,14.,Melatonin-formaldehyde condensation product 2,7.18,C2?H32N4O4,477.2496,477.2495,0.1881
+17,15.,Melatonin-formaldehyde condensation product 3,7.44,C27H32N4O4,477.2496,477.2499,0.6348
+18,16.,Melatonin-formaldehyde condensation product 4,7.77,C27H32N4O4,477.2496,477.2496,0.1241

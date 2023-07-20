@@ -1,0 +1,5 @@
+,0,1,2,3
+0,,,Predicted,
+1,,,Negative,Positive
+2,Actual,Negative,15,0
+3,,Positive,1,14

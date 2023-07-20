@@ -1,0 +1,44 @@
+,0,1,2,3
+0,Vitamin group,Vitamins,Synonyms,Vitamers
+1,Fat-soluble,,,
+2,Vitamin A,Retinol,Vitamin A.all-trans-retinol.vitamin A alcohol,
+3,,,axerophtol.or axerol,
+4,,Retinal,"Vitamin A aldehyde, retinene,retinaldehyde",
+5,,Retinoic acid,"Tretinoin,vitamin A1 acid",
+6,,Vitamin A2,"3-Dehydroretinol,3,4-didehydroretinol",
+7,,Provitamin A,Carotenoides,-Carotene
+8,,,,-Carotene
+9,,,,-Carotene
+10,,,,-Cryptoxanthin
+11,,,,Echinenon
+12,Vitamin D,Ergocalciferol,Vitamin D,
+13,,Cholecarciferol,Vitamin D,
+14,,Provitamin D,"7-Dehydrocholesterol,7-procholesterol",
+15,,Provitamin D,Ergosterol,
+16,Vitamin E,Tocopherols,,-Tocopherols
+17,,,,-Tocopherols
+18,,,,y-Tocopherols
+19,,,,-Tocopherols
+20,,Tocotrienols,,-Tocotrienol
+21,,,,-Tocotrienol
+22,,,,-Tocotrienol
+23,,,,-Tocotrienol
+24,Vitamin K,Phylloquinone,"Vitamin K, vitamin K(20), phytomenadione",
+25,,Menaquinone,"vitamin K2, vitamin K2(n), farnoquinone",
+26,,Menadione,Vitamin K3,
+27,Water-soluble,,,
+28,B-complex,Thiamin,"Vitamin B, aneurin",
+29,,Riboflavin,Vitamin B2,
+30,,Folates,"Vitamin Bc,folacin",Folic acid
+31,,,,Folate
+32,,Pantothenic acid,VITAMIN Bs,
+33,,Niacin,Vitamin PPvitamin B,Nicotinic acid
+34,,,,Nicotinamide
+35,,Pyridoxine,Vitamin B6,Pyridoxal
+36,,,,Pyridoxol
+37,,,,Pyridoxamine
+38,,Cobalamin,Vitamin B2,Cyanocobalamin
+39,,,,Hydroxocobalamin
+40,,Biotin,Vitamin H,
+41,Vitamin C,,,Ascorbic acid
+42,,,,Dehydroascorbic acid

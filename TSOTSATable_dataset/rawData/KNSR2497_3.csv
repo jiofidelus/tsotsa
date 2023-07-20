@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,,Whole wheat flour,,,
+1,Character,1995-1996,1996-1997,Mean,Chapati
+2,Essential amino acids,,,,
+3,Lysine,0.323,0.318,0.320,0.260
+4,Leucine,0.632,0.669,0.651,0.542
+5,Isoleucine,0.346,0.336,0.341,0.277
+6,Threonine,0.373,0.361,0.367,0.353
+7,Valine,0.367,0.421,0.394,0.359
+8,Methionine,0.103,0.113,0.108,0.101
+9,Histidine,0.175,0.198,0.186,0.159
+10,Arginine,0.320,0.388,0.354,0.285
+11,Non-essential amino acids,,,,
+12,Alanine,0.077,0.054,0.066,0.063
+13,Aspartic acid,0.659,0.632,0.645,0.618
+14,Glutamic acid,1.035,0.948,0.991,0.844
+15,Glycine,0.560,0.537,0.549,0.526
+16,Proline,1.124,1.123,1.124,1.088
+17,Serine,0.566,0.535,0.550,0.538
+18,Tyrosine,0.297,0.354,0.326,0.283
+19,Amino acid score,44,47,45,40
+20,Crude protein %,13.43,12.40,12.92,11.85
+21,Protein loss %,,,,4.41
+22,Lysine loss %,,,,14.09

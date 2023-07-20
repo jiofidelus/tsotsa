@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7,8
+0,Ref.,Matrix,Extraction,Derivatization reagent,Measurement,LOQg L-or g,LOQg L-or g,Analytical results (g L-1 or g kg,Analytical results (g L-1 or g kg
+1,,,method,,,kg1,,,
+2,,,,,,GO,MGO,GO,MGO
+3,Rodriguez-Caceres,Wine,,"3,4-Diaminopyridine",HPLC-FLDa,4.3,1.5,100-3000,280-1800
+4,et al.2015,,,,,,,,
+5,"Neng et al.,2007",Environmental and,Stir bar sorptive,"2,3-Diaminonaphthalene",HPLC-DADb,1.5,4.5,81-715,12-151
+6,,"biological matrices,beer",extraction,,,,,,
+7,"Mahar et al.,2010","Foods, beverages, wines",,"4-Nitro-1,2-phenylenediamine",HPLC-DAD,135.0,213.0,1023-5590,830-8070
+8,Rodriguez-Caceres,Alcoholic beverages,DLLMEC,"3,4-Diaminopyridine",HPLC-FLD,28.0,-,2800-9500,-
+9,"et al.,2017",,,,,,,,
+10,"Jeong et al., 2017",Alcoholic beverages,LLEd,o-Phenylenediamine,GC-NPDe,120.0,330.0,330-29100,420-27000
+11,"Saison et al., 2009.",Beer,HS-SPME,"o-(2,3,4,5,6-Pentafluorobenzyl)",GC-MS,15.0,10.6,29,123
+12,,,,hydroxylamine,,,,,
+13,"Mirza et al.,2013",Beverages,,Meso-stilbenediamine,MEKCf,15.7,19.3,43-1850,63-3520
+14,This study,Alcoholic beverages,HS-SPME,"2,2,2-TFEH",GC-MS,3.6,2.1,62-238,11-376
+15,,Soybean paste,,,,,,802,1219
+16,,Red pepper paste,,,,,,4116,2342
+17,,Soy sause,,,,,,545,211

@@ -1,0 +1,15 @@
+,0,1
+0,Instrumental parameter,
+1,Generator frequency(MHz),40
+2,RF power(kW),1.3
+3,Plasma gas flow(L min-1,15.0
+4,Auxiliary gas flow(L min-1,1.5
+5,Nebuliser gas flow-rate (mL min-1,0.7
+6,Sample flow-rate (mL min-),0.8
+7,Analytical wavelengths (nm),
+8,As II,188.980
+9,Cd II,214.439
+10,PbI,220.353
+11,SeI,196.026
+12,Zn II,213.857
+13,YII,371.029

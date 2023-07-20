@@ -1,0 +1,17 @@
+,0,1,2,3,4,5
+0,#,NCNPR,Amount/,Serving size,Zn in,% of
+1,,#,serving size of,according to,analyzed,actual
+2,,,Zn according to,labeled,samples,Zn
+3,,,label,directions,(mg/,compared
+4,,,,,serving),to label
+5,,,,,,amount
+6,1,1016PR,10 mg,2,8.3,83
+7,2,1017PR,7 mg,1,5.1,73
+8,3,1484PR,5mg,1,4.1,82
+9,4,1486PR,5mg,1,5.2,104
+10,5,1488PR,11 mg,1,12.1,110
+11,6,1494PR,12 mg,2,5.5,46
+12,7,1497PR,7mg,1,7.3,104
+13,8,1499PR,10 mg,1,7.7,77
+14,9,1500PR,7mg,2,0.5,8
+15,10,1501PR,,2,4.2,-

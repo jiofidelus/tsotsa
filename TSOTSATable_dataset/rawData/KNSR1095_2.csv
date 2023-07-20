@@ -1,0 +1,43 @@
+,0,1,2,3,4,5,6
+0,Compounds1,control,SW1,SW2,TL1,TL2,ANOVA
+1,Caffeic acid,0.42,0.42,0.49,0.40,0.47,n.s.
+2,p-Coumaric acid,0.39a,0.50b,0.55b,0.55b,0.50b,***
+3,Ferulic acid,3.80a,6.03c,4.77ab,5.31bc,5.27bc,**
+4,Sinapic acid,12.89,11.55,12.03,10.13,12.57,n.s.
+5,Neochlorogenic acid,11.62,12.40,15.78,12.02,11.10,n.s.
+6,Chlorogenic acid,12.09a,15.16b,15.17b,10.07a,11.34a,***
+7,3-p-Coumaroylquinic acid,9.89ab,11.69b,11.17b,9.83ab,8.66a,*
+8,4-p-Coumaroylquinic acid,1.45a,2.02b,1.94b,1.89b,1.57ab,*
+9,5-p-Coumaroylquinic acid,1.52a,2.16b,2.12b,1.57a,1.62a,***
+10,4-O-Feruloylquinic acid,1.68b,1.70b,1.91b,1.32a,1.26a,***
+11,3-O-Feruloylquinic acid,2.46a,3.35b,3.14b,2.86ab,2.38a,***
+12,"1,2-Diferuloylgentiob",25.97ab,41.91c,32.48b,31.39b,24.38a,***
+13,Synapoylmethoxycaffeoylgentiob,2.23,2.22,2.72,1.96,1.65,n.s.
+14,1-Sinapoyl-2-feruloylgentiob,86.84bc,105.44c,98.65bc,78.38ab,63.87a,**
+15,"1,2-Disinapoylgentiob",61.98bc,61.96bc,66.84c,47.53ab,41.99a,**
+16,Sinapoylcaffeoylferuloylgentiob,5.26a,6.56b,6.84b,5.17a,4.68a,**
+17,"1-Sinapoyl-2,2'-diferuloylgentiob",8.33a,11.79bc,12.12c,9.45ab,7.83a,**
+18,"1,2'-Disinapoyl-2-feruloylgentiob",19.17bc,20.65bc,23.38c,16.15ab,13.85a,**
+19,"1,2,2'-Trisinapoylgentiob",31.91b,31.87b,35.06b,23.63a,23.01a,***
+20,"K-3,7-O-digluc",60.32bc,65.36c,47.69ab,55.37b,35.42a,***
+21,K-3-O-sophor,1.39ab,1.15a,2.05c,1.17a,1.66b,***
+22,K-3-O-gluc-7-O-sophor,12.4gbc,14.64c,10.13ab,13.84bc,8.44a,**
+23,K-3-O-sophor-7-O-gluc,5.82a,7.14ab,5.60a,8.75b,4.94a,*
+24,K-3-O-sophorotri,92.78bc,81.17abc,73.93ab,96.27c,66.65a,**
+25,K-3-O-caffeoylsophor-7-O-gluc,2.80,4.05,2.80,4.62,2.36,n.s.
+26,K-3-O-sophor-7-O-sophor,111.26,118.16,106.06,113.79,82.83,n.s.
+27,K-3-O-feruloyldigluc-7-O-gluc,29.13ab,38.22c,31.94ab,34.85bc,25.90a,**
+28,K-3-O-sinapoylsophor-7-O-gluc,2.78,3.80,3.15,4.13,2.34,n.s.
+29,K-3-O-feruloylsophorotri-7-O-gluc,1.99a,3.37b,2.33ab,3.03ab,1.92a,*
+30,K-3-O-sinapoylsophorotri-7-O-gluc,2.64,3.82,3.30,3.70,2.41,n.s.
+31,K-3-O-caffeoylsophorotri-7-O-sophor,2.04,2.99,2.56,2.02,1.21,n.s.
+32,K-3-O-feruloylsophorotri-7-O-sophor,2.27,3.42,2.83,3.54,2.34,n.s.
+33,K-3-O-disinapoylsophorotri-7-O-gluc,5.01,5.48,5.75,5.14,3.59,n.s.
+34,Q-3-O-sophor,0.25,0.13,0.14,0.21,0.14,n.s.
+35,"Q-3,7-O-digluc",0.11,0.08,0.15,0.09,0.10,n.s.
+36,Q-3-O-sophor-7-O-gluc,2.14b,1.72ab,1.69ab,2.04b,1.51a,*
+37,Q-3-O-gluc-7-O-sophor,0.69,0.59,0.61,0.71,0.48,n.s.
+38,Q-3-O-feruloylsophor-7-O-gluc,0.68,0.84,0.61,0.99,0.65,n.s.
+39,I-3.7-O-digluc,0.27,0.20,0.19,0.22,0.16,n.s.
+40,I-O-digluc,0.18a,0.15a,0.14a,0.24b,0.18a,**
+41,"I-3,7,4'-O-trigluc",0.27ab,0.19a,0.19a,0.34b,0.24a,*

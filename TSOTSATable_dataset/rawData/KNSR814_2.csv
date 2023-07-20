@@ -1,0 +1,31 @@
+,0,1,2,3,4,5
+0,Analytical,"LOD,","LOQ,","LDR,ng",Enhancement,Reference
+1,Method,ng,ng,mL-1,in detection,
+2,,mL-1,mL-1,,power,
+3,FAAS,286,953,1000-10000,,This study
+4,SQT-FAAS,137,457,500-10000,2.1,This study
+5,FDF-,7.9,26.2,25-250,36.4,This study
+6,DLLME-,,,,,
+7,FAAS,,,,,
+8,FDF-,3.9,11.8,15-200,81.7,This study
+9,DLLME-,,,,,
+10,SQT-,,,,,
+11,FAAS,,,,,
+12,AA-,3.6,,10-450,340,(Khorshidi
+13,HLLME,,,,,"and Niazi,"
+14,FAAS,,,,,2016)
+15,PV-IS-,2.0,,,17,(Barreto
+16,DLLME-,,,,,"et al.,"
+17,FAAS,,,,,2019)
+18,LL-SHS-,5.2,17.2,,10,(Reclo
+19,LPME-,,,,,"et al.,"
+20,FAAS,,,,,2017)
+21,DLLME-,4.9,16.4,25-200,66.4,(Saylan
+22,SQT-,,,,,"et al.,"
+23,FAAS,,,,,2020)
+24,ICP-OES,20*,,,,(Poirier
+25,,,,,,"et al.,"
+26,,,,,,2016)
+27,FI-ICP-OES,0.082,,-100*,80,(Yunes
+28,,*,,,,"et al.,"
+29,,,,,,2003)

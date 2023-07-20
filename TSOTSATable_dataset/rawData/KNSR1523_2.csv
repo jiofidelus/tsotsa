@@ -1,0 +1,37 @@
+,0,1,2,3,4,5,6,7,8
+0,,FexSD,,,Ca (x  SD),,MgxSD,,
+1,Vegetables,Rainy,Dry,Rainy,Dry,Rainy,Dry,Rainy,Dry
+2,"Achojcha (smooth), raw (Cyclanthera pedata)",0.480.03,0.20  0.09,14.10.3,26.0 1.58,4.52  0.33,3.770.01,0.020.01,0.02 0.01
+3,"Garlic, raw (Allium sativum L.)",0.29  0.09,0.750.03,0.960.08,20.70.70,2.050.16,16.90.2,0.010,0.12  0.0
+4,"Celery,leaves and stalk,raw Apium graveolens var. dulce",1.570.10,1.440.35,87.42.0,78.03.13,21.50.4,24.10.2,0.08 0.0,0.12  0.03
+5,"Broccoli,raw (Brassica oleracea var. italica)",1.36 0.04,1.330.04,52.0  1.0,1452.1,26.5  0.6,25.60.01,0.080.05,0.07  0.01
+6,"Cabbage,raw (Brassica oleracea var.viridis)",0.380.01,0.380.01,30.6  0.9,23.10.4,14.4  0.4,21.32.0,0.030.01,0.020.01
+7,"Cauliflower, raw (Brassica oleracea var. botrytis",0.30  0.02,0.300.02,13.50.6,8.84  0.42,14.2  0.2,13.1  0.9,0.010.01,0.010.01
+8,"Pepper,green,raw (Capsicum annuum var. annuum)",0.19  0.00,0.95 0.19,10.15.4,25.1  0.4,5.92  0.20,6.01 1.00,0.03 0.01,0.04  0.02
+9,"Spinach, raw (Tetragonia tetragonoides)",4.79  0.28,6.350.24,48.3 40.6,275  6.8,53.4  0.9,60.6  2.9,0.100.01,0.22  0.02
+10,"Turnip leaves,raw (Brassica rapa L.)",2.030.03,3.140.27,1724.1,2055.0,33.10.6,29.11.0,0.120.01,0.180.05
+11,"Plantain ripe,raw (Musa paradisiaca L)",0.16 0.0,0.230.0,1.250.01,0.61 0.02,15.11.2,21.11.2,n.d.,n.d.
+12,"Zucchini, raw (Cucurbita pepo L.",0.220.01,0.160.02,18.17.5,57.11.7,21.3  2.4,8.980.16,0.060.0,0.040.0
+13,"Tomato, red, mature, raw (Lycopersicum esculentum)",0.140.01,0.120.03,10.0  7.0,2.980.14,7.940.18,6.040.56,0.010.0,0.010.01
+14,Fruits,,,,,,,,
+15,"Babaco, peeled, raw (Carica pentagona Heilb)",0.110.00,0.120.08,9.76  0.44,1.10  0.05,15.9  0.7,18.40.3,0.020.0,0.030.02
+16,"Passion fruit, yellow, raw (Passiflora edulis var. flavicarpa)",0.400.05,0.310.02,1.54  0.23,1.10  0.05,15.9  0.7,9.981.31,0.03,n.d.
+17,"Blackberry, raw (Rubus glaucus)",0.340.12,0.480.03,27.3  13.8,41.01.0,20.2  0.7,18.10.7,0.050.0,0.070.01
+18,"Naranjilla/lulo, peeled, raw (Solanum quitoense Lam.)",0.170.02,0.100.04,1.470.04,5.020.18,8.810.64,9.981.27,0.010.01,0.010.0
+19,"Naranjilla/lulo (hybrid), peeled, raw (Solanum quitoense Lam.)",0.160.01,0.180.09,2.06 0.02,9.62  0.96,8.500.42,15.01.8,0.02 0.0,0.010.0
+20,"Lady finger banana, peeled, raw (Musa x paradisiaca var. baby)",0.160.03,0.090.03,1.590.07,0.87 0.03,7.60  0.72,4.76  2.07,0.080.03,n.d.
+21,"Plantain, ripe, raw (Musa paradisiaca L)",0.16  0.0,0.23 0.0,1.25  0.01,0.61 0.02,15.11.2,21.1  1.2,n.d.,n.d.
+22,"Tamarillo, peeled,raw (Solanum betaceum Cav)",0.330.12,0.180.20,2.590.06,8.563.07,11.60.3,19.41.6,0.020.0,0.050.02
+23,Starchy roots & tubers,,,,,,,,
+24,"Potato, Chaucha, with skin, raw (Solanum phureja)",0.450.04,0.580.30,1.610.06,2.49  0.53,16.40.8,21.01.0,0.050.03,0.02  0.0
+25,"Potato, Superchola, peeled, raw (Solanum tuberosum L.)",0.34  0.02,0.480.20,1.240.04,2.43  0.09,16.0  0.6,19.7  4.3,0.020.0,0.020.0
+26,"Beet, red,peeled,raw (Beta vulgaris var. conditiva)",0.20  0.02,0.770.14,9.59  2.18,52.61.1,11.90.5,23.80.8,0.020.001,0.03 0.02
+27,"Carrot (North), peeled, raw (Daucus carota L)",0.11 0.01,0.43 0.33,15.7  0.6,99.7  1.4,5.911.01,21.40.8,0.01 0.0,0.08  0.0
+28,"Carrot (South,peeled,raw Daucus carota L",0.310.14,0.250.05,16.9  2.2,99.0 8.4,8.34  1.10,7.64  0.79,0.030.01,0.020.0
+29,Legumes,,,,,,,,
+30,"Green bean, raw (Phaseolus vulgaris L.)",0.46  0.01,0.57  0.02,26.2  0.7,27.7  0.5,21.0  0.5,24.5  0.1,0.07 0.0,0.05  0.01
+31,"Part 2. Content of Zn, Na, K and P.",,,,,,,,
+32,,ZnxSD,,NaxSD,,K (xSD),,P (x SD),
+33,Vegetables,Rainy,Dry,Rainy,Dry,Rainy,Dry,Rainy,Dry
+34,"Achojcha (smooth), raw (Cyclanthera pedata)",0.07  0.01,0.060.01,1.82  1.26,6.61  1.05,26510.1,170  1.6,14.1  1.0,10.3  0.3
+35,"Garlic, raw (Allium sativum L.)",0.080.0,0.530.01,2.71  0.29,12.2 11.7,59.3  2.0,2917.5,7.66  0.32,98.1  2.3

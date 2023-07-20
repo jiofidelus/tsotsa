@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,,Sex,Age(years),Mean weight,Fish mean consumption
+1,,,,(kg),g day-1
+2,Children,Males,3.0-9.9,26.2,37.2
+3,,Female,,26.1,
+4,Teenagers,Males,10.0-17.9,57.1,43.9
+5,,Female,,49.1,44.4
+6,Adults,Males,18.0-64.9,78.4,41.2
+7,,Female,,62.2,38.7
+8,Elders,Males,65.0,78.1,42.2
+9,,Female,,65.0,28.6

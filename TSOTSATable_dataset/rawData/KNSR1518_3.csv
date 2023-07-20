@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Region,Water type,,,,,
+1,,Public fluoridated,,Public non-fluoridated,,Well,
+2,,Estimate (g/100 g),SE,Estimate (g/100 g),SE,Estimate (g/100 g),SI
+3,Midwest,109.6,6.2,55.2,8.6,37.0,8.
+4,Northeast,91.8,6.8,37.5,7.8,19.2,9.
+5,South,98.4,5.1,44.1,7.6,25.8,8.
+6,West,83.2,7.1,28.8,6.8,10.6,9.

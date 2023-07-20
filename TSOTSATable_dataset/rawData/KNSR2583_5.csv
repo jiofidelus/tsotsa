@@ -1,0 +1,7 @@
+,0,1,2
+0,r,Correlation Level,Direction of Correlation
+1,0.00,No Correlation,
+2,0.01-0.29,Low,
+3,0.30-0.69,Medium,r=if-negative correlation
+4,0.70-0.99,High,r=if+positive correlation
+5,1.00,Full Correlation,

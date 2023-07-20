@@ -1,0 +1,18 @@
+,0,1,2,3
+0,Peak,Phenolic acid,Retention,Characteristic ions(m/z
+1,,,time(min),
+2,1,Benzoic acid,9.6,"194,179,135,105,77"
+3,IS,m-Toluic acid,11.7,"208.193.149,119.91"
+4,2,Salicylic acid,14.2,267.209.135.73
+5,3,t-Cinnamic acid,14.7,"220,205,161,145,131,103,77"
+6,4,p-Hydroxybenzoic,15.8,"282,267.223,193.73"
+7,,acid,,
+8,5,Vanillic acid,17.3,312.297.267.223.193.126.73
+9,6,Protocatechuic acid,17.9,370.355.311.281.223.193.73
+10,7,Syringic acid,18.8,"342,327.312,297.283,253"
+11,,,,"223,149.73"
+12,8,p-Coumaric acid,19.2,"308.293.249.219.179,73"
+13,9,Gallic acid,19.3,"458.443.355.281.179,73"
+14,10,Ferulic acid,20.7,"338,323,308,249,219,73"
+15,11,Caffeic acid,21.1,"396,381,219,73"
+16,12,Sinapic acid,21.9,"368,353,338,249"

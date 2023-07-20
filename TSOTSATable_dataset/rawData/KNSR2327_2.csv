@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,Item,No,Feline meat spiked dummy commercial products,Existence of target,No of Total sample,Positive detection,Detection Probability (%)
+1,Frankfurter,1,Raw beef frankfurters,+,9,9/9,100%
+2,,2,Autoclaved beef frankfurters,+,9,9/9,100%
+3,,3,Raw chicken frankfurters,+,9,9/9,100%
+4,,4,Autoclaved chicken frankfurters,+,9,9/9,100%
+5,Nuggets,1,Raw beef nuggets,+,9,9/9,100%
+6,,2,Autoclaved beef nuggets.,+,9,9/9,100%
+7,,3,Raw chicken nuggets,+,9,9/9,100%
+8,,4,Autoclaved chicken nuggets,+,9,9/9,100%
+9,Meatballs,1,Raw beef meatballs,+,9,9/9,100%
+10,,2,Boiled beef meatballs,+,9,9/9,100%
+11,,3,Raw chicken meatballs,+,9,9/9,100%
+12,,4,Boiled chicken meatballs,+,9,9/9,100%
+13,,,Total feline meat spiked sample,+,108,108/108,100%

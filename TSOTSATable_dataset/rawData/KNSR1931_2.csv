@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6
+0,Sample,Analysis method,C-4 (%),Protein g13C (%o),Honey 13C (%),13C%,Adulteration Assessment (Pass/Fail)a
+1,Pine Honey-7 (Low C-4% reported),AOAC 998.12,1.3,-24.9,24.7,-0.2,Pass
+2,,LVCU Modified method,ndb,-23.6,24.4,0.8,Pass
+3,Adulterated pine Honey-7c,AOAC 998.12,15.5,-23.9,21.7,-2.2,Fail
+4,,LVCU Modified method,11.2,-23.1,21.6,-1.5,Fail

@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,,Concentration (mg/g dry fruit),Concentration (mg/g dry fruit),,,
+1,,Fresh,Freezing (30 days),Freezing (90 days),Freeze-drying,Drying by hot air (70C)
+2,Dp-3-glu,4249.3c,5770.8b,6080.9b,7761.0a,194.0d
+3,Cy-3-glu,134.6b,156.gab,5430.2b,164.gab,70.4c
+4,Mv-3-glu,7223.5a,7024.2ab,5430.2b,7208.0ab,391.3c
+5,Cy,232.7ab,291.3a,150.gbc,125.0bc,22.2c
+6,Mv,111.2ab,130.9a,68.5b,67.6b,13.4c
+7,Pn,195.2ab,232.1a,118.9b,119.1b,26.0c
+8,Mv,"11,951.3","13,374.0","11,925.0","15,326.4",691.3
+9,Pn,"12,035.3","13,475.2","11,975.4","15,377.9",703.9

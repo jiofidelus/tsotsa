@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7,8,9
+0,No,,Province,Canton,TBR (g/100 g),TBR (g/100 g),,,CAF (g/100 g),
+1,1,Guayas,,Milagro,1.59  0.20,1.59  0.20,Cf,0.24  0.07,,B def
+2,2,(Pac. Coast),,Yaguachi,1.65  0.33,1.65  0.33,Cf,0.26  0.06,,B cdef
+3,3,,,Duran,1.63  0.08,1.63  0.08,Cf,0.20  0.05,,B ef
+4,4,Los Rios,,Montalvo,1.52  0.21,1.52  0.21,Cf,0.20  0.05,,Bf
+5,5,(Pac.Coast),,Vinces,1.85,0.35,C def,0.33  0.09,,B abcd
+6,6,Manabi,,Santa Ana,1.61  0.07,1.61  0.07,Cf,0.05,,B cdef
+7,7,(Pac. Coast),,Portoviejo,1.68,0.08,C ef,0.06,,B bcde
+8,8,,,Chone.,1.65  0.17,1.65  0.17,Cf,0.05,,B bcde
+9,9,Francisco de,,El Coca,2.07  ,0.14,B bcd,0.11,,Aa
+10,10,Orellana,,Loreto,2.04,0.15,B cde,0.07,,Aabcd
+11,11,(Amazon),,Sachas,2.19,0.19,B abcd,0.03,,A bcd
+12,12,Sucumbios,, Lago Agrio,2.15  0.11,2.15  0.11,AB bcd,0.06,,Aabcd
+13,13,(Amazon),,Shushufindi,2.56  0.64,2.56  0.64,AB a,0.39  0.10,,Aab
+14,14,,,Gonzalo Pizarro,2.08  0.23,2.08  0.23,AB bcd,0.32  0.06,,A bede
+15,15,Napo,,Tena,2.18  0.09,2.18  0.09,A bcd,0.38  0.03,,Aab
+16,16,(Amazon),,Arosemena Tola,2.33  ,0.15,A abc.,0.04,,Aabc
+17,17,,,Archidona,2.43  ,0.18,A ab,0.05,,Aab

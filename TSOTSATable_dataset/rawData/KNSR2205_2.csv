@@ -1,0 +1,76 @@
+,0,1,2,3,4,5,6
+0,Accessiona,Descriptionb,Coverage,Mpd,MWe [kDa],pIf,Fold change
+1,F1SP32,Uncharacterized protein,4.7,2,43.1,4.84,0.130
+2,P12026,Acyl-CoA-binding protein,32.2,2,9.9,8.28,0.144
+3,A6N8P5,Endothelial differentiation factor 1,10.1,1,58.3,9.99,0.144
+4,A0A286ZVG0,Saposin-B-Val,2.1,1,58.3,4.97,0.161
+5,A0A287AZA7,Uncharacterized protein,10.3,1,18.0,9.64,0.168
+6,F1RMN7,Hemopexin,2.4,1,51.2,6.96,0.172
+7,P81405,Saposin-B-Val,23.8,1,8.9,4.56,0.174
+8,A0A287AFK2,"Troponin T, fast skeletal muscle",12.8,4,32.5,6.13,0.188
+9,A0A287ABZ9,Alpha kinase 3,1.6,2,66.5,6.52,0.193
+10,F1S7H3,Myosin light chain kinase 2,6.5,3,66.5,7.64,0.200
+11,A0A287B084,Echinoderm microtubule associated protein like 1,2.8,3,101.9,7.64,0.207
+12,P50390,Transthyretin,1.5,1,16.1,6.77,0.225
+13,I3L781,Uncharacterized protein,1.5,2,68.3,9.07,0.233
+14,062680,Thyroid hormone receptor interactor 10,1.7,1,68.3,5.73,0.237
+15,062680,CD59 glycoprotein,8.9,1,13.8,7.94,0.238
+16,A0A287B5W2,Uncharacterized protein,17.9,6,377.4,6.19,0.254
+17,A0A287B5W2,Uncharacterized protein,8.1,1,25.9,7.18,0.269
+18,E7D6R2,LIM domain 7,0.6,1,183.9,6.39,0.282
+19,E7D6R2,Uncharacterized protein,5.2,1,44.9,7.46,0.288
+20,F1SFI5,Uncharacterized protein,29.1,3,61.5,7.61,0.289
+21,F1RR20,Uncharacterized protein,2.5,1,61.5,7.61,0.303
+22,F1RR20,Hexamethylene bisacetamide inducible,4.6,1,27.4,6.57,0.303
+23,I3LVD5,Actin gamma 1,13.3,1,41.8,5.48,0.305
+24,A0A287A1S6,Collagen type I alpha 1 chain,8.7,9,19.6,5.78,0.317
+25,I3LAY6,"Cytochrome c oxidase subunit 4 isoform 1, mitochondrial",7.1,1,19.6,9.19,0.321
+26,I3LAY6,Uncharacterized protein,2.4,2,80.8,5.24,0.322
+27,F1SEN2,"Glutamate dehydrogenase 1,",2.5,1,61.3,7.96,0.327
+28,P42639,Tropomyosin alpha-1 chain,45.8,1,32.7,4.77,0.330
+29,A0A286ZV33,Ubiquitin family domain containing 1,4.7,2,74.4,7.74,0.338
+30,F1SEV8,Eukaryotic translation elongation factor,1.8,1,74.4,7.71,0.345
+31,I3LVP1,Uncharacterized protein,21.0,2,11.7,9.57,0.358
+32,A0A287BKA5,Stathmin,5.0,1,41.4,8.32,0.367
+33,A0A287BKA5,Uncharacterized protein,4.1,1,41.4,11.15,0.367
+34,A0A287B0P4,Tumor protein D52 like 2,4.0,1,24.4,7.43,0.373
+35,F1RS74,TBC1 domain family member 5,1.5,1,29.8,6.73,0.374
+36,F1S3P8,Syntaxin 7,5.7,1,29.8,5.58,0.388
+37,F1S415,BCL2 associated athanogene 3,10.0,5,65.2,8.54,0.389
+38,A0A287AR42,Family with sequence similarity 192 member A,5.9,1,28.7,5.26,0.391
+39,F1S4Y8,Uncharacterized protein,13.0,1,11.9,8.15,0.401
+40,F1S4Y8,Eukaryotic translation initiation factor 2 subunit beta,4.5,1,38.2,5.8,0.412
+41,F1S9T0,Heterogeneous nuclear ribonucleoprotein K,4.5,1,37.8,8.51,0.416
+42,F1S9T0,DnaJ heat shock protein family (Hsp40) member B4,3.6,1,37.8,8.51,0.416
+43,A8D9 X 0,Tumor suppressor candidate 5,5.6,1,18.9,8.66,0.420
+44,F1S5B0,Catalase,6.8,3,62.1,6.9,0.421
+45,F1S5B0, Protein phosphatase 1 regulatory subunit 12B,2.3,2,108.9,6.1,0.423
+46,F1REW5,CAP-Gly domain containing linker protein 1,1.0,1,161.5,5.25,0.428
+47,A0A287BMY4,Dimethylglycine dehydrogenase,1.6,1,96.6,7.97,0.430
+48,A0A286ZLL9,Synaptopodin,6.4,5,117.3,10.1,0.432
+49,F1RGP4,PBX homeobox interacting protein 1,4.8,2,607.4,5.06,0.435
+50,A0A287B9H1,Plectin,2.2,10,72.2,5.16,0.438
+51,F1RGN8,78 kDa glucose-regulated protein,4.7,3,49.0,5.16,0.440
+52,F1RGN8,Smoothelin like 2,2.2,1,49.0,9.03,0.449
+53,F1RPD7,Uncharacterized protein,1.6,1,98.7,9.03,0.456
+54,F1S5J3,Nebulin related anchoring protein,2.0,3,196.1,9.31,0.461
+55,Q5S1U1,Heat shock protein beta-1,20.3,1,22.9,6.7,0.463
+56,A0A286ZWS0,SH3 domain binding glutamate rich protein like 3,20.4,1,58.7,8.07,0.464
+57,A0A287ATD0,Keratin 75,1.7,1,58.7,8.07,0.465
+58,F1RV28,KH-type splicing regulatory protein,1.7,1,76.8,7.06,0.466
+59,F1RV28,Uncharacterized protein,3.6,1,37.5,7.06,0.469
+60,A0A286ZTE0,Uncharacterized protein,19.8,1,10.6,5.43,0.469
+61,A0A287AEL2,Keratin 14,4.1,2,56.0,5.34,0.474
+62,A0A287A291,Uncharacterized protein,3.9,2,83.7,6.16,0.476
+63,F1RII7,Hemoglobin subunit beta,8.8,1,16.2,7.25,0.478
+64,Q6QAT1, 40S ribosomal protein S28,30.4,2,7.8,10.7,0.482
+65,A0A287A9W3,Uncharacterized protein,15.0,2,15.6,8.1,0.482
+66,A0A287BPK4,Uncharacterized protein,15.9,2,26.4,6.55,0.488
+67,A0A287AY73,Myozenin-1,10.6,2,33.1,7.87,0.490
+68,K7GM40,Apolipoprotein A-I,4.9,1,30.3,5.5,0.515
+69,A0A287A608,Uncharacterized protein,22.3,2,398.4,5.02,0.522
+70,F1SJC2,Protein phosphatase 1 regulatory subunit 3A,3.6,2,122.8,5.02,0.522
+71,P02189,Clusterin,5.5,2,54.5,8.09,0.525
+72,P02189,Myoglobin,9.7,1,17.1,7.31,0.528
+73,F1SRB9,Uncharacterized protein,5.7,2,41.4,5.38,0.529
+74,A0A287B654,Neudesin neurotrophic factor,5.3,1,18.4,5.27,0.529

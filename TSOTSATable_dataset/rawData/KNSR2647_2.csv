@@ -1,0 +1,8 @@
+,0,1,2,3
+0,Name,Type,Upper bound,Lower bound
+1,3-CQA,More,72.17,0.94
+2,4-CQA,More,8.82,0.00
+3,5-CQA,More,189.61,30.54
+4,"3,4-diCQA",More,116.84,1.43
+5,"3,5-diCQA",More,450.27,24.16
+6,"4,5-diCQA",More,69.28,4.68

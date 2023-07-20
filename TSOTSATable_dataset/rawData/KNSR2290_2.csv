@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Method, Sample,Analyte,Real,LODg L1,RSD (%),Relative,Extrachent/sorbent,Extraction,R2,Ref.
+1,,,,/Standard1,,,Recovery (%),,time (min),,
+2,CSDF-ME-GC-MS,River water and Grape,"Diazinon, Parathion",Real,0.02-0.30,3.95.8,90-110,Hexane,14,>0.99,"(Moinfar et al.,"
+3,,juice,,,,,,,,,(Kharbouche
+4,SPE-UPLC-QqQ-MS/MS3,Ground and river water,Diazinon,Real,0.1,7.110.3,86.7-106.3,MSU-1,n.a.,0.9928,(Kharbouche
+5,,,,,,,,,,,"et al., 2019)"
+6,IL-DLLME-GC-MS4,Environmental water,"Parathion, Parathion-",Real,0.01-0.019,4.16.7,85-118,Ionic liquids,n.a.,>0.99,"(Cacho et al.,"
+7,,,methyl,,,,,,,,2018)
+8,MSPEDLLMEGCFID5,"Fruit, vegetable, nectar",Diazinon,Real,0.26,5,100-106,FeO4@SiO@ph,2 and 56,0.9988,(Farajzadeh
+9,,samples,,,,,,,,,"et al., 2019)"
+10,SPE-DLLME-GC-MS?,"Water, orange, honey","Diazinin, Fenitrothion,",Standard,0.0005-0.001,0.44.71,7898,C18,1,0.9941-0.9996,"(Shamsipur et al.,"
+11,,and milk,Diazinon,,,,85102,,4,,2016)
+12,CHLLEDLLME-GCFID8,Fruit juices and,Diazinon,Standard,0.32,6,85102,Di-iso-butyl amine,4,0.998,(Farajzadeh
+13,,vegetables,,,,,,,,,"et al., 2016a, b)"
+14,DLLME-REPSM-MEKC9,Tap and surface water,"Diazinon, Parathion,",Standard,3-10,4.16.9,69.892.8,Acetonitrile,5,0.9931-0.9992,(Soisungnoen
+15,,,Fenitrothion,,,,,,,,"et al., 2012)"
+16,ET-DLLME-GC-FID10,River water and juice,Diazinon,Standard,0.85,4.4,7599,"1,2-Dibromoethane",411,0.998,(Farajzadeh
+17,,samples,,,0.070.14,6.58.1,89.397.3,KHA/FegO4,5,,"(Chahkandi et al.,"
+18,MSPE-GC-FID12,Water and fruit juices,Diazinon Fenitrothion,Real,0.070.14,6.58.1,89.397.3,KHA/FegO4,5,0.9910-0.9981,"(Chahkandi et al.,"
+19,DLLME-HPLC-UV13,,,,,0.84.8,,,.14,,"(Wang et al.,"
+20,DLLME-HPLC-UV13,Environmental water,"Parathion, Fenitrothion",Standard,0.04,0.84.8,94.5-118.3,[BeMIM][Tf N]18,.14,0.9994-0.9996,"(Wang et al.,"
+21,,,,,0.44,,,,9.16,,2016)
+22,UA-HIL-DLLME-HPLC-,"Pear juice, orange juice,",-Cyhalothrin,Standard,0.44,1.43.0,104.17-105.89,[ODMIM] [NTF]/,9.16,0.9999,"(Zeng et al.,"
+23,DAD15,"fruits blend, peach juice",,,,,,[HMIM][NTF2],,,"(Ibrahim et al.,"
+24,SPME-GC-ECD17,Fruit,Diazinon,Standard,4.8,4.2,118,PDMS-2OHMe18C6,10,0.9999,"(Ibrahim et al.,"
+25,,,,,,,77-114,,,,2010)
+26,HS-SPME-GC-FID,Water and juice samples,"Diazinon, Parathion-",Standard,0.02-0.95,2.16.5,77-114,[Setg/C4C;Pip],60,0.91080.9992,This work
+27,,,"Parathion,",,,,,ionogel,,,
+28,,,"-Cyhalothrin,",Realls,0.159.6,4.811.3,,,,,
+29,,,Permethrin,,,,,,,,

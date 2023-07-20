@@ -1,0 +1,51 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+0,Gender,,,,,,,,,,,,,,,,,,,
+1,,Mean intake (cup equivalent),Mean intake (cup equivalent),Mean intake (cup equivalent),Mean intake (cup equivalent),,,,,,,Cup equivalent per 1000 kcal,Cup equivalent per 1000 kcal,Cup equivalent per 1000 kcal,Cup equivalent per 1000 kcal,Cup equivalent per 1000 kcal,,,,
+2,,Men(N=5183,Men(N=5183,Men(N=5183,,,,Women (N =5380),Women (N =5380),Women (N =5380),,Men,,,,,Women,Women,,
+3,,Mean,,SE,,,,Mean,,,SE,Mean,,SE,,,Mean,Mean,SE,SE
+4,Epidemiological,,,,,,,,,,,,,,,,,,,
+5,Total fruit,1.1,,,0.02,,,,1.0,,0.02,0.5 a,0.5 a,,0.01,,,0.6 b,,0.01
+6,Total fruit excluding 100% juice,0.7,,,0.03,,,,0.8,,0.02,0.3 a,0.3 a,,0.01,,,0.5 b,,0.01
+7,All fruit juice,0.4,,,0.03,,,,0.3,,0.01,0.2,,,0.01,,,0.2,,0.01
+8,100% juice,0.3,,,0.03,,,,0.2,,0.01,0.1,,,0.01,,,0.1,,0.01
+9,Behavioral,,,,,,,,,,,,,,,,,,,
+10,Total fruit,1.0,,,0.03,,,,0.9,,0.02,0.4 a,0.4 a,,0.01,,,0.6 b,,0.02
+11,Total fruit excluding 100% juice,0.6,,,0.02,,,,0.7,,0.02,0.3 a,0.3 a,,0.01,,,0.4 b,,0.01
+12,100% juice,0.3,,,0.03,,,,0.2,,0.01,0.1,,,0.01,,,0.1,,0.01
+13,Age,,,,,,,,,,,,,,,,,,,
+14,,,20-39 (N =3642),20-39 (N =3642),20-39 (N =3642),,,,,,40-59 (N = 3521),,,,,,60+N=3400,60+N=3400,,
+15,,,Mean,,,,SE,,,Mean,,,SE,,,,Mean,,SE,SE
+16,Epidemiological,,,,,,,,,,,,,,,,,,,
+17,Total fruit,,0.9a,0.9a,,,0.03,0.03,,,"1.0a,b",,0.03,0.03,,,1.2b,,,0.04
+18,Total fruit excluding 100% juice,,0.6a,0.6a,,,0.02,0.02,,,0.8b,,0.03,0.03,,,0.9b,,,0.02
+19,All fruit juice,,0.4a,0.4a,,,0.02,0.02,,"0.3a,b","0.3a,b",,0.02,0.02,,,0.3b,,,0.03
+20,100% juice,,0.3,0.3,,,0.02,0.02,,,0.2,,0.02,0.02,,,0.3,,,0.03
+21,Behavioral,,,,,,,,,,,,,,,,,,,
+22,Total fruit,,0.8a,0.8a,,,0.03,0.03,,,"0.9a,b",,0.03,0.03,,,1.1b,,,0.02
+23,100% juice,,0.3,0.3,,,0.02,0.02,,,0.2,,0.02,0.02,,,0.3,,,0.03
+24,Ethnicity,,,,,,,,,,,,,,,,,,,
+25,,,Non-Hispanic white (N = 4628),Non-Hispanic white (N = 4628),Non-Hispanic white (N = 4628),Non-Hispanic white (N = 4628),,,,Non-Hispanic black (N= 2299),Non-Hispanic black (N= 2299),Non-Hispanic black (N= 2299),Non-Hispanic black (N= 2299),,,,Hispanic (N = 2579),Hispanic (N = 2579),,
+26,,Mean,Mean,,,SE,,,,Mean,,,SE,,,,Mean,,SE,
+27,Epidemiological,,,,,,,,,,,,,,,,,,,
+28,Total fruit,,1.0a,,,,0.03,0.03,,,"1.1a,b",,,0.04,,,1.2b,,0.05,0.05
+29,Total fruit excluding 100% juice,,0.7a,,,,0.02,0.02,,,0.7a,,,0.02,,,0.9b,,0.04,0.04
+30,All fruit juice,,0.3a,,,,0.02,0.02,,,0.5b,,,0.03,,,"0.4a,b","0.4a,b",0.04,0.04
+31,100% juice,,0.2a,,,,0.02,0.02,,,0.4b,,,0.03,,,"0.3a,b","0.3a,b",0.04,0.04
+32,Total fruit,,"0.6a,b",,,,0.03,0.03,,,"1.0a,b",,,0.03,,,1.1b,,0.05,0.05
+33,Total fruit excluding 100% juice,,"0.6a,b",,,,0.02,0.02,,,0.6a,,,0.02,,,0.8b,,0.04,0.04
+34,100% juice,,0.2a,,,,0.02,0.02,,,0.4b,,,0.03,,,"0.4a,b","0.4a,b",0.04,0.04
+35,Income,,,,,,,,,,,,,,,,,,,
+36,,,Low(N=3340,Low(N=3340,Low(N=3340,,,,,Middle (N = 3482),Middle (N = 3482),,,,,,High (N=2840,High (N=2840,,
+37,,,Mean,,,SE,SE,,,Mean,,,SE,,,,Mean,,SE,SE
+38,Epidemiological,,,,,,,,,,,,,,,,,,,
+39,Total fruit,,1.1,,,,0.05,0.05,,,1.0,,0.03,0.03,,,1.0,,,0.04
+40,Total fruit excluding 100% juice,,0.7,,,,0.03,0.03,,,0.7,,0.02,0.02,,,0.8,,,0.03
+41,All fruit juice,,0.4a,0.4a,,,0.04,0.04,,0.3b,0.3b,,0.02,0.02,,,"0.3a,b",,,0.02
+42,100% juice,,0.4a,0.4a,,,0.04,0.04,,0.3b,0.3b,,0.02,0.02,,,"0.2a,b",,,0.01
+43,Behavioral,,,,,,,,,,,,,,,,,,,
+44,Total fruit,,1.0,1.0,,,0.04,0.04,,,0.9,,0.03,0.03,,,0.9,,,0.04
+45,Total fruit excluding 100% juice,,0.6,,,,0.03,0.03,,,0.6,,0.02,0.02,,,0.7,,,0.03
+46,100% juice,,0.4a,0.4a,,,0.04,0.04,,0.3b,0.3b,,0.02,0.02,,,"0.2a,b",,,0.01
+47,Education,,,,,,,,,,,,,,,,,,,
+48,,,<high school(N=2736,<high school(N=2736,<high school(N=2736,,,,,high school(N=2324,high school(N=2324,,,,,> high school (N = 5503),> high school (N = 5503),> high school (N = 5503),,
+49,,Mean,Mean,,,SE,,,,Mean,,SE,,,,Mean,,,SE,

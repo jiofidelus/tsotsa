@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7,8
+0,Crop,Cultivar,Species,Seed coat colour,Cotyledon colour,Grain yield (kg/ha),Grain yield (kg/ha),Seed weight (g/100,Seed weight (g/100
+1,,,,,,,,seeds),
+2,,,,,White,3083,Rosthern,Saskatoon,Rosthern
+3,Common bean,CDC Blackcomb,Phaseolus vulgaris,Black,White,3083,1337,184,138
+4,,CDC Pintium,Phaseolus vulgaris,Cream with brown flecks,White,2635,1031,370,288
+5,,CDC Sol,Phaseolus vulgaris,Yellow,White,2751,1242,400,351
+6,,CDC WM-2,Phaseolus vulgaris,Cream with brown flecks,White,3086,1260,377,308
+7,,,,,,Limerick,Saskatoon,41,Saskatoon
+8,Lentil,CDC Maxim,Lens culinaris,Gray,Red,1847,1771,41,39
+9,,CDC QG-1,Lens culinaris,Green,Green,1784,1743,47,46
+10,,CDC SB-2,Lens culinaris,Gray dotted,Yellow,1964,1738,38,35
+11,,CDC Greenstar,Lens culinaris,Green,Yellow,2484,1482,71,61
+12,,,,,Yellow,Elrose,Limerick,Elrose,Limerick
+13,Chickpea,CDC Leader,Cicer arietinum,Non-pigmented,Yellow,3723,3310,383,362
+14,,CDC Consul,Cicer arietinum,Light tan,Yellow,3668,2849,324,311
+15,,CDC Cory,Cicer arietinum,Tan,Yellow,3899,2559,279,285
+16,,CDC Frontier,Cicer arietinum,Non-pigmented,Yellow,3771,2789,350,347
+17,,,,,,Meath Park,Saskatoon,Meath Park,Saskatoon
+18,Pea,CDC Amarillo,Pisum sativum,Non-pigmented,Yellow,2584,2715,NA,209
+19,,CDC Dakota,Pisum sativum,Tan,Yellow,2679,2855,NA,193
+20,,CDC Striker,Pisum sativum,Non-pigmented,Yellow,2138,2099,NA,186
+21,,CDC Striker,Pisum sativum,Non-pigmented,Green,2101,2377,NA,236

@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8
+0,Modified electrode,Technique,Linear range,Detection limit,Analysis time,Fabrication reproducibility,Stability keep,Recovery (%),Reference
+1,,,(uM),(M,(s),(RSD%),(%),,
+2,aCu@CS/GCE,SDPV,0.3-30,0.1,240,2.8,,96.43-105.6,[15]
+3,b MWCNTs-COOH/,DPV,0.0052.0;,0.001,420,-,-,95.0-101.6,[16]
+4,IL/PGE,,2.060.0,,,,,,
+5,SPZP/NAF/GCE,hswSv,0.01-5.0,0.0043,480,2.5,94.7 (2 weeks),98.7-104.0,[17]
+6,d -CD-AuNPs/,DPV,0.01-2,0.002,150,5.26,91.7 (30 days),92.9-103.4,[18]
+7,HCNS/GCE,,,,,,,,
+8,e MnO2NRs-ERGO/,SDLSV,0.02-1.0;1.0-20,0.006,120,3.87,94.1 (2 weeks),96.8-103.7,[19]
+9,GCE,,,,,,,,
+10,fCu2O NPs-ERGO/,SDLSV,0.01-20,0.006,120,2.8,94.3 (2 weeks),96.3-103.0,[20]
+11,GCE,,,,,,,,
+12,MWCNT-PEI/GCE,SDLSV,0.01-10,0.006,90,3.47,90.2 (2 weeks),96-105,this work

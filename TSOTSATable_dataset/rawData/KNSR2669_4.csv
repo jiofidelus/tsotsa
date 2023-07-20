@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7,8
+0,Product,Units,F probability,SEM,Locality,,,,
+1,,,,,Pta,Bft,Dbn,Cpt,PE
+2,Whole milk,kJ,<0.001,3,290a,292a,307b,289a,283a
+3,2% fat milk,kJ,<0.001,2,234b,245c,221a,233b,241bc
+4,Milk powder (fat-free),kJ,<0.001,3,1737b,1744ab,1701c,1752a,1701c

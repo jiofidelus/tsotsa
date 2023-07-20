@@ -1,0 +1,45 @@
+,0,1,2,3
+0,Foods,ng biotin/g food,Serving size (g),g biotin/serving
+1,"Meat, fish, poultry, egg",,,
+2,"Beef liver, cooked",416,74,30.8
+3,"Chicken nuggets, breaded, fried",13.4,75,1.00
+4,"Chicken strips, breaded, fried",4.30,85,0.37
+5,"Chicken liver,cooked",1872,74,138
+6,"Egg, whole, cooked",214,47,10.0
+7,"Egg, white, cooked",58,35,2.02
+8,"Egg,yolk, cooked",272,15,4.08
+9,"Catfish. breaded,fried",7.44,93,0.69
+10,"Fish sticks, minced, breaded, fried",10.0,87,0.87
+11,"Hamburger patty, cooked",45,37,1.65
+12,"Hot dog, chicken and pork, cooked",37,56,2.06
+13,"Pork chop, cooked",45,80,3.57
+14,"Salmon,pink,canned in water",59,63,3.69
+15,"Sliced turkey, processed deli",7.30,21,0.15
+16,"Tuna,canned in water",6.82,63,0.43
+17,Dairy,,,
+18,2% milk,1.13,236,0.27
+19,American cheese,31,19,0.59
+20,"Cheddar cheese,mild",14,28,0.40
+21,"Chocolate milk,low-fat",3.81,236,0.90
+22,Plain yogurt,0.84,170,0.14
+23,Provolone cheese,1.17,24,0.03
+24,Skim milk,1.31,236,0.31
+25,Whole milk,0.91,236,0.22
+26,Cereals,,,
+27,Cheerios,1.08,30,0.03
+28,Frosted Flakes,1.38,31,0.04
+29,Golden Grahams,1.46,31,0.05
+30,Kix,0.95,30,0.03
+31,Vegetables,,,
+32,"Broccoli, fresh",9.43,113,1.07
+33,"Carrots, canned",6.22,29,0.18
+34,"Cauliflower,fresh",1.61,32,0.05
+35,"Green beans, canned",0.07,120,0.01
+36,"Mushrooms, canned",21.6,120,2.59
+37,"Spinach, frozen",7.05,83,0.58
+38,"Sweet potato, cooked",14.5,80,1.16
+39,"Whole kernel corn, canned",0.47,125,0.06
+40,Fruits and berries,,,
+41,"Apple,fresh",0.20,185,0.04
+42,"Apple juice, canned, from concentrate",0.52,250,0.13
+43,"Avocado, fresh",9.61,37,0.36

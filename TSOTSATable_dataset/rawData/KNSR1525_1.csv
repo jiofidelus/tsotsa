@@ -1,0 +1,75 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Sp.,Name,Acc.,Isle,F.C.,Sp.,Name,Acc.,Isle,F.C.
+1,Ce,tarapotan,1191,San,,Db,,620,,2
+2,,,,,,,,,,
+3,Ce,muleroron,1196,San,5,Db,buewu reureu,1009,Mal,2
+4,Ce,biak nawe,1274,Tan,5,Db,reureu susu,1011,Mal,7
+5,Ce,biak nawe,1558,Epi,5,Db,buewu koru,1032,Mal,2
+6,Ce,aboi,1656,Ary,5,Db,pevu takar,1146,San,7
+7,Ce,tsinon,1697,Pen,4 Db,4 Db,sera matou,1289,Tan,7
+8,,tememe,,,,,,,,
+9,Ce,clement,1706,Pen,1,Db,sera ouless,1290,Tan,2
+10,Ce,bwet,1713,Pen,3 Db,3 Db,navoup,1368,Ero,2
+11,,metakas,,,,,,,,
+12,Ce,lokonaoundi,1813,Abe,3,Db,navoup nou,1369,Ero,7
+13,Ce,boulei,1888,Abe,4 Db,4 Db,navoup,1399,Ero,1
+14,Ce,warogai,1895,Abe,12 Db,12 Db,napow wes,1451,Mka 2,Mka 2
+15,,worogai,,,,,,,,
+16,Ce,worogai,1914,Abe,17 Db,17 Db,napow miel,1487,Mka 7,Mka 7
+17,,kete,,,,,nabongbong,1529,,
+18,Ce,,ID 280,,2,Db,nabongbong,1529,Epi,7
+19,Ce,-,ID 83,,2 Db,2 Db,oinokon,1603,Ary,2
+20,Ce,,TH 1,,7 Dbb navoup,7 Dbb navoup,7 Dbb navoup,And19 Ero,And19 Ero,7
+21,,,,,,,melana,,,
+22,Ce,pora lo,202,San,7 Dbb,7 Dbb,,620,,2g
+23,,mapuro,,,,,,,,
+24,Ce,pora loma,203,Mka,7 Dbb buewu,7 Dbb buewu,7 Dbb buewu,1009,Mal,2g7
+25,,puro,,,,,reureu,,,
+26,Ce,pet rara,210,Mka,6,Dbb,reureu susu,1011,Mal,7
+27,Ce,majina,268,San,6,Dbb,buewu koru,1146,Mal,2g
+28,Ce,majina,280,San,,Dbb,pevu takar,1146,San,7
+29,,,,,,,,,,
+30,Ce,samsin ret,37,Pen,7,Dbb,sera matou,1289,Tan,2g
+31,Ce,,59,Pen,1,Dbb,navoup,1368,Ero,7
+32,Ce,arume,124,San,37,Dbb,navoup nou,1369,Ero,2g
+33,Ce,tumas,124,San,3,Dbb,napow wes,1451,Mka,2g
+34,Da,tumas,1005,Mal,71,Dbb,napow miel,1487,Mka,7
+35,,ambrym,,,,,,,,
+36,Da,viabulu,1022,Mal,7,Dbb nabongbong,Dbb nabongbong,1529,Epi,5
+37,Da,baloi boi,1042,Mal,5 Dbb oinokon,5 Dbb oinokon,5 Dbb oinokon,1603,Ary,2g
+38,Da,bebei,1045,Mal,4,De,suru wae-rave 1028,suru wae-rave 1028,Mal,4
+39,Da,tarpotono,1181,San,17,De,tawakara,1179,San,4
+40,Da,ross,1286,Tan,5,De,tawa mulmuli,1180,San,7
+41,Da,nawanorik,1316,Tan,7,De,ouvlei telouo,1401,Ero,41
+42,Da, sinoua miel,1447,Mka,6,De,ndravrouk,1450,Mka,4
+43,Da,nil parei,1484,Mka,1,De,parav uwiret,1509,Mka,1
+44,Da,ravar rarh,1498,Mka,2,De,parav mend,1514,Mka,41
+45,,,,,,,pin,,,
+46,Da,nakrai perh,1505,Mka,5,De,toro batcha,1544,Epi,4
+47,Da,viten tapili,1623,Ary,5,De,raman ately,1642,Ary,4
+48,Da,nihna tchig,1986,Van,4,De,boulmet niai,1691,Ary,41
+49,Da,maravovo,1989,Van,4Dc,4Dc,,749,Tan,2
+50,Da,salemanu,11,,,Dc,waelu lulu,1012,Mal,1
+51,,waet,,,,17 Dc,,,,2
+52,Da,vitibergbak,2,,17 Dc,17 Dc,wailou,1385,Ero,2
+53,Da,bughi toa,373,,17 Dc,17 Dc,wailou yellow,1689,San,2
+54,Da,awe,407,,71,Dp,telouo noup,1150,San,1
+55,Da,viripoa,485,,,Dp,telouo noup,1384,Ero,1
+56,Da,salemanu,Sal R,Efa,4 Dp,4 Dp,rapor lilil,1436,Mka,1
+57,,ret,,,,,,,,
+58,Ib,Hybrid line,16,,3 Me,3 Me,,7,,22
+59,Ib,Hybrid line,Ply20,,1 Me,1 Me,,:,,22
+60,Ib,Hybrid line,Chp28,,14 Me,14 Me,,17,,2
+61,Ib,Hybrid line,Rv30,,1,Me,Hybrid line,20,,222
+62,Ib,Hybrid line,59,,24,Me,Hybrid line,Hyb31,,222
+63,Ib,Hybrid line,71,,3,Me,Hybrid line,Hyb32,,222
+64,Ib,Hybrid line,171,,1,Me,kari,1055,Mal,2
+65,Ib,Hybrid line,78,,Me,Me,tamatsina,1145,San,2
+66,Ib,Hybrid line,104,,14 Me,14 Me,rairi,1151,San,2
+67,Ib,Hybrid line,110,,16 Me,16 Me,,1155,,2
+68,Ib,Hybrid line,120,,3,Me,kari,1310,Tan,2
+69,Ib,Hybrid line,Gv129,,24 Me,24 Me,noulngon,1357,Ero,2
+70,Ib,,,,,2 Me,mori,1390,Ero,
+71,Ib,Hybrid line,133,,2 Me,2 Me,kari,1390,Ero,2
+72,1b,Hybrid line,147,,1,Me,nai tom poun,1391,Ero,1
+73,Ib,Hybrid line,156,,237 Me,237 Me,napound wes,1424,Mka 2,Mka 2

@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6
+0,No,Compounds,LRI,Identification method,Concentration (mg/kg),Aroma characteristics,
+1,1,Phenylmethanol,1865,MS/RI,1.726  0.271,"almond, boiled cherries, floral, moss, roasted bread",
+2,2,"2,3-Butanediol",1556,MS/RI/Std,0.051  0.001,fruit,fruit
+3,3,Benzaldehyde,1520,MS/RI/Std,0.112  0.018,"bitter almond, burnt sugar, cherry, malt",
+4,4,3-Hydroxy-2-butanone,1284,MS/RI/Std,0.050  0.013,"butter, cream, green pepper, rancid, sweat",
+5,5,Acetic acid,1449,MS/RI/Std,0.406  0.020,"acid, fruit, pungent, sour, vinegar",
+6,6,3-Methylbutanoic acid,1666,MS/RI/Std,0.007  0.140,"cheese, fecal, putrid fruit, rancid, sweat",
+7,7,(E)-2-Butenoic acid,1745,MS/RI/Std,0.005  0.001,"sweet, cream, butter, fat",
+8,8,Hexanoic acid,1846,MS/RI/Std,0.011  0.000,"acid, cheese, goat, pungent, rancid",
+9,9,Decanoic acid,2276,MS/RI,0.034  0.159,"dust, fat, grass, rancid, sweat",
+10,10,Dodecanoic acid,2498,MS/RI,0.103  0.033,"fat, fruit, metal, wax",
+11,11,2-Oxolanone,1632,MS/RI/Std,0.006  0.013,"caramel, cheese, fruit, roasted nut, sweat",
+12,12,5-Ethyl-2-oxolanone,1694,MS/RI/Std,0.022  0.002,"coconut, coumarin, onion, sweet, warm",
+13,13,6-Methyl-2-oxanone,1791,MS/RI/Std,0.005  0.010,"coconut, cream, fruit",
+14,14,Styrene,1261,MS/RI/Std,0.047  0.007,"balsamic, gasoline, plastic, rubber, solvent",
+15,15,3-Hydroxy-2-methyl-4-pyranone,1975,MS/RI,0.006 0.017,"caramel, cotton candy, malt, roasted bread, roasted nut",
+16,16,Phenol,2002,MS/RI,0.012  0.004,"medicine, phenol, sharp, smoke, spice",
+17,17,"2,4-Di-tert-butylphenol",2381,MS/RI,0.135  0.004,,-

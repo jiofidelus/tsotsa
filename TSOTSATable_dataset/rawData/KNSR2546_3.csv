@@ -1,0 +1,41 @@
+,0,1,2,3,4,5
+0,,,Sample,Moisture,Lead,Tin
+1,Samplea,Descriptionb,Set,(%),ug/g),(ug/g)c
+2,Apple Pie,"bakery,fresh",2,59,<1.0,28 4.3
+3,Applesauce,"canned,UHP",2,89,<1.4,19 2.4
+4,Applesauce,"canned,C,U",2,87,1.80.45,265 6.2
+5,Applesauce,"canned,",2,88,1.8 0.26,393 8.3
+6,Apricots,"canned,C,L",2,90,<1.4,6534.5
+7,Asparagus,frozenHP,2,90,3.3 0.16,7.0 0.67
+8,Beans,BBOC,3,50,<1.4,29 3.0
+9,Beets,pickled,2,91,8.00.48,31 3.3
+10,Beets,"canned,HP",1,89,<3.7,78 2.0
+11,Beets,"canned,HP",1,91,<3.6,10.60.94
+12,Beets,"canned,HP",1,91,<3.6,7.5 2.4
+13,Beets,"canned,HP",1,92,<3.6,6.4 1.0
+14,Broccoli,frozenHP,1,93,6.2 3.8,7.77.3
+15,Broccoli,frozenHP,1,92,6.8 3.0,9.7 3.8
+16,Chard,"frozen,HP",2,92,3.0 0.84,4.7 3.7
+17,Cherries,"canned,HPL",2,78,2.6 0.89,1101.3
+18,Coffee,Black,3,99,5.00.89,8.8 0.86
+19,Coffee,Black,3,99,<1.9,12 2.4
+20,Corn,"frozen,",2,72,3.3 0.30,<3.8
+21,Green Beans,frozenHP,2,91,<1.5,8.3 7.5
+22,Onions,"rawP,C",1,93,8.0 3.4,9.1 7.7
+23,Peaches,"canned,CL",2,84,1.3 0.57,44014
+24,Peaches,canned.C.W,2,95,4.4 0.32,81023
+25,Pears,"canned,C,H",2,81,<1.0,45011
+26,Pears,"canned,C,L",2,96,3.0 0.19,52011
+27,Pickles,"dill,C",2,95,5.4 1.4,<4.9
+28,Popcorn,"popped,unsalted",2,4.6,14 2.3,183.0
+29,Spinach,frozen,1,91,<3.9,164 1.0
+30,Strawberries,"frozenC,U",2,91,2.3 0.43,6.1 1.3
+31,Tomatoes,"canned,HP",1,96,6.8 2.2,8.21.6
+32,Tomatoes,"canned,HP",1,94,<3.7,16013
+33,Tomatoes,"canned,HP",1,93,<3.8,94 7.6
+34,Tomatoes,cannedHP,1,93,8.11.9,32018
+35,Tomatoes,cannedHP,1,93,12.3 0.98,58 4.2
+36,Zucchini,frozenHP,1,94,12 9.3,1715
+37,7ucchini,"frozen,HP",1,97,5.4 1.3,6.3 0.27
+38,Zucchini,frozenHP,1,94,151.9,182.0
+39,Zucchini,"frozen,HP",1,94,10.40.87,11 3.0

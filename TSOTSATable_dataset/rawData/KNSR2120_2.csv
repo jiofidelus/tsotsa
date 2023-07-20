@@ -1,0 +1,8 @@
+,0,1,2
+0,Nutrient components,Description,Analytical method
+1,Moisture,Vacuum oven at 100 C;~2 g samples for dried;~5 g samples for frozen liquid,"AOAC926.08 (33.7.03)(AOAC,2017)"
+2,Vitamins D25OHD3and D2,HPLC-MS/MS;(D [2Hg] internal standard);~2-3 g samples for dried;~4-8 g samples for frozen,"Huang, LaLuzerne, Winters,"
+3,,liquid,"Sullivan.(2009.JAOAC Int., 92"
+4,,,1327-35
+5,Iodine,Inductively coupled plasma mass spectrometry (ICP-MS); ~ 1 g samples,"Sullivan,Zywicki.(2012).JAOAC"
+6,,,"Int., 95,195-202"

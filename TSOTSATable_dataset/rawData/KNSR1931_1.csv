@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6
+0,Sample,Analysis method,C-4 result (%),Protein g13C (%),Honey g13C (%),13C%),Adulteration Assessment (Pass/Fail)b
+1,Pine honey-1 (Low C-4% reported),AOAC 998.12,1.4,-24.5,24.3,-0.2,Pass
+2,Pine honey-1 + pine bark,AOAC 998.12,11.0,-26.0,-24.2,-1.8,Fail
+3,Pine honey-2 (High C-4% reported),AOAC 998.12,9.7,-25.2,-23.7,-1.5,Fail
+4,Pine honey-2 + wax wool,AOAC 998.12,14.0,-26.1,-23.8,-2.3,Fail
+5,Pine honey-3 (Low C-4% reported),AOAC 998.12,nda,-24.4,-24.4,nd,Pass
+6,Pine honey-3+ wax wool,AOAC 998.12,4.5,-25.2,-24.5,-0.7,Pass
+7,,,g13C result (%),,,,
+8,Pine bark,Direct injection,27.8,N/Ac,N/A,N/A,N/A
+9,Wax wool,Direct injection,-30.4,N/A,N/A,N/A,N/A
+10,Basra secretion,Direct injection,-28.2,N/A,N/A,N/A,N/A
+11,Sample,Analysis method,C-4 result (%),Protein g13c (%),Honey g13C (%), g13C (%),Adulteration Assessment (Pass/Fail)
+12,Blossom Honey-1 (Low C-4% reported),AOAC 998.12,nd,-25.4,-25.5,0.1,Pass
+13,,PSCU methodd,nd,-24.8,-25.6,0.8,Pass
+14,Adulterated Blossom Honey-1e,AOAC 998.12,11.1,-25.0,-23.3,-1.7,Fail
+15,,PSCU method,8.0,-24.7,-23.5,-1.2,Fail
+16,Pine Honey-4 (High C-4% reported),AOAC 998.12,11.2,-24.9,-23.2,-1.7,Fail
+17,,PSCU method,1.4,-23.4,-23.2,-0.2,Pass
+18,Pine Honey-5 (Mid range C-4% reported),AOAC 998.12,5.0,-23.7,-23.0,-0.7,Pass
+19,,PSCU method,nd,-21.7,-22.9,1.2,Pass
+20,Pine Honey-6 (Low C-4% reported),AOAC 998.12,3.4,-24.3,-23.8,0.5,Pass
+21,,PSCU method,nd,-21.8,-23.8,2.0,Pass
+22,Adulterated Pine Honey-6,AOAC 998.12,20.3,-25.0,-21.9,-3.1,Fail
+23,,PSCU method,13.4,-23.9,-22.0,-1.9,Fail
+24,Wax wool added Pine Honey-6,AOAC 998.12,9.0,-25.2,-23.9,-1.4,Fail
+25,,PSCU method,nd,-21.8,-23.9,2.1,Pass
+26,Manuka honey,AOAC 998.12,6.9,-27.0,-25.8,-1.2,Pass
+27,,PSCU method,1.8,-26.1,-25.8,-0.3,Pass

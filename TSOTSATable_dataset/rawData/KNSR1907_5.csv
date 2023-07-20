@@ -1,0 +1,19 @@
+,0,1,2,3,4,5
+0,Botanical origin,Compounda,Detects,Samples analyzed,Detections (g kg),
+1,,,,,Low,High
+2,Rosemary,GIB,2,7,<LOQ,22
+3,,GRA,0,7,ND,ND
+4,,ALY,2,7,<LOQ,15
+5,,GNA,2,7,<LOQ,19
+6,Multifloral,GIB,3,8,<LOQ,18
+7,,GRA,1,8,ND,5
+8,,ALY,1,8,ND,<LOQ
+9,,GNA,2,8,<LOQ,12
+10,Orange blossom,GIB,2,6,<LOQ,10
+11,,GRA,1,6,ND,7
+12,,ALY,0,6,ND,ND
+13,,GNA,1,6,<LOQ,<LOQ
+14,Heather,GIB,2,6,<LOQ,15
+15,,GRA,1,6,ND,<LOQ
+16,,ALY,0,6,ND,ND
+17,,GNA,0,6,ND,ND

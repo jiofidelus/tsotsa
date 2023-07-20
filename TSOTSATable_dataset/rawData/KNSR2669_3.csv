@@ -1,0 +1,24 @@
+,0,1,2
+0,Methods,Conformity to,Conclusion
+1,compared,regression conditionsb,
+2,A and B,r: Yes,B is acceptable
+3,,a:Yes,
+4,,b:Yes,
+5,A and C,r: Yes,C is a borderline case
+6,,a: Yes,
+7,,b:No,
+8,A and D,r:Yes,D is a borderline case
+9,,a:Yes,
+10,,b:No,
+11,A and E,r: No,E is not acceptable because the regression uncertainties are too higl
+12,,a: Yes,
+13,,b:Yes,
+14,A and Ea,r:Yes,Ea is acceptable
+15,,a:Yes,
+16,,b:Yes,
+17,A and F,r: No,F is not acceptable because the regression uncertainties are too higl
+18,,a:Yes,
+19,,b:Yes,
+20,A and Fa,r: Yes,Fa is a borderline case
+21,,a:Yes,
+22,,b:No,

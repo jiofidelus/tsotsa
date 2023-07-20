@@ -1,0 +1,49 @@
+,0,1,2,3,4,5
+0,Element,Concentration (mg kg-l),Concentration (mg kg-l),Region/,Year,Reference
+1,Element,Ayoyo,Bra,country,Year,Reference
+2,Mg,1210-1380,1560-,"Golinga,",2020,Current study
+3,,,1740,Ghana,,
+4,Ca,1140-2580,1130,Ghana,2020,Current study
+5,,,2570,Ghana,2020,
+6,K,"19,900-",6360-,"Golinga,",2020,Current study
+7,,"20,500",9030,"Golinga,",2020,
+8,P,2080-2210,1240 -,"Golinga,",2020,Current study
+9,,,1260,Ghana,,
+10,B,10.9-11.6,10.7 -,Ghana,2020,Current study
+11,,,11.5,Ghana,,
+12,Na,77.4-163,108 -,"Golinga,",2020,Current study
+13,,,155,Ghana,,
+14,Cr,<0.006,,"Accra,",2014,(Lente et al.
+15,,,,Ghana,,2014)
+16,,0.68 -2.32,1.16,Ghana,2014,2014)
+17,,4.29-15.3,,"Ibadan,",2011,(Tyokumbur and
+18,,4.29-15.3,4.25 -,"Golinga,",2011,"Okorie,2011)"
+19,,4.74 - 31.9,4.45,Ghana,2020,Current study
+20,Mn,4.4716.8,,Ghana,2014,2014)
+21,,148-383,,Nigeria,2011,"Okorie,2011"
+22,,63.8-91.7,308,Ghana,2020,Current study
+23,Fe,48.2 -302,43.3,Ghana,2014,2014)
+24,,23.4-70.4,,"Accra,",2014,"(Lente et al.,"
+25,,23.4-70.4,,Ghana,2014,2014)
+26,,518,,Nigeria,2020,2020
+27,,368-115,159,Ghana,2020,Current study
+28,Co,1.51,,Ghana,2014,2014)
+29,,1.12,<0.005,Ghana,2014,2014)
+30,,1.05-2.49,,Nigeria,2011,"Okorie,2011)"
+31,,3.67 -8.03,3.10 -,Ghana,2020,Current study
+32,,3.67 -8.03,9.59,Ghana,2020,Current study
+33,Ni,1.30-1.43,,Ghana,2014,2014)
+34,,2.96-.4.48,1.16,Ghana,2014,2014)
+35,,,0.17,Nigeria,2015,"Ogoko,2015)"
+36,,0.871.96,,Nigeria,2011,"Okorie, 2011)"
+37,,2.03 - 10.3,8.51,"Accra,",2020,"(Lente et al.,"
+38,Cu,5.89-8.14,,Ghana,2014,2014)
+39,,-,5.78,Nigeria,2015,"Ogoko,2015)"
+40,,8.79  27.0,,Nigeria,2011,"Okorie,2011)"
+41,,7.72 - 20.2,10.4,Ghana,2020,Current study
+42,Zn,5.41-7.96,,Ghana,2014,2014)
+43,,3.60 -4.80,4.0,Ghana,2014,2014)
+44,,,6.40,Nigeria,2015,"Ogoko,2015)"
+45,,17.2,,Nigeria,2015,2015)
+46,,55.3-137,-,Nigeria,2011,"Okorie, 2011)"
+47,,22.2 - 35.0,35.0,Ghana,2020,Current study

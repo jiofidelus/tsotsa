@@ -1,0 +1,50 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Vegetable/,Pesticide,n,Number ,Mean,Minimum,Maximum,MRL Chile,MRL,MRL European
+1,Country,,,LOQ,concentration (mg,concentration (>,concentration (mg,(mg kg-1),Mexico,Union (mg kg-
+2,,,,,kg-1)  SD,"LOQ,mg kg-1)",kg-1),,(mg kg-1),1)
+3,Chile (conventional),Chile (conventional),,,,,,,,
+4,,Carbofuran,10,3,0.001  0.001,0.003,0.003,Forbidden,No Data,0.005
+5,chard,Chlorpyrifos,10,1,0.003  0.002,,0.006,0.050,No Data,0.010
+6,,cyhalothrin,10,3,0.002  0.002,0.003,0.006,0.500,No Data,0.200
+7,,Dimethoate,10,1,0.003 0.005,,0.019,2.000,2.000,0.010
+8,green chili,cyhalothrin,10,4,0.007  0.009,0.009,0.025,0.300,0.200,0.100
+9,lettuce,cyhalothrin,10,5,0.046  0.062,0.026,0.166,2.000,No Data,0.150
+10,tomato,Lambda-,10,4,0.012  0.020,0.010,0.064,0.300,0.100,0.070
+11,tomato,cyhalothrin,10,4,0.012  0.020,0.010,0.064,0.300,0.100,0.070
+12,Mexico (conventional),Mexico (conventional),,,,,,,,
+13,,Carbaryl,9,5,0.076 0.120,0.022,0.399,0.050,No Data,0.010
+14,,Chlorothalonil,9,1,0.039  0.098,,0.319,No Data,No Data,0.010
+15,,Chlorpyrifos,9,2,0.026  0.058,0.024,0.190,0.050,No Data,0.010
+16,,Cypermethrin,9,3,0.062  0.140,0.016,0.454,0.700,No Data,0.700
+17,spinach,Dimethoate,9,3,0.043  0.094,0.026,0.307,No Data,2.000,0.010
+18,,cyhalothrin,9,1,0.006  0.013,,0.043,0.050,No Data,0.600
+19,,Methamidophos,9,1,0.330  0.926,,2.948,Forbidden,No Data,0.010
+20,,Monocrotophos,9,1,0.011 0.019,,0.066,Forbidden,No Data,0.010
+21,,Chlorpyrifos,8,1,0.006  0.007,,0.024,1.000,1.000,0.010
+22,,Cypermethrin,8,3,0.068  0.164,0.011,0.502,2.000,0.200,0.500
+23,green chili,cyhalothrin,8,2,0.004  0.006,0.012,0.017,0.300,0.200,0.100
+24,,Methamidophos,8,,0.006  0.009,,0.029,Forbidden,1.000,0.010
+25,,,,1,,,,,,
+26,,Carbaryl,9,3,0.010  0.010,0.022,0.026,5.000,10.000,0.010
+27,tomato,Chlorpyrifos,9,1,0.018  0.043,,0.140,No Data,0.500,0.010
+28,,Cypermethrin,9,2,0.011  0.019,0.021,0.061,0.200,No Data,0.500
+29,,Carbaryl,9,2,0.011  0.015,0.022,0.050,10.000,No Data,0.010
+30,lettuce,cyhalothrin,9,1,0.002  0.002,,0.006,0.050,No Data,0.150
+31,Mexico,,,,,,,,,
+32,(organic),,,,,,0.022,,,
+33,,Carbaryl,7,2,0.009  0.008,0.007,0.022,0.050,No Data,0.010
+34,,Chlorpyrifos,7,1,0.249  0.602,,1.724,0.050,No Data,0.010
+35,spinach,Cypermethrin,7,1,0.017  0.037,,0.108,0.700,No Data,700.000
+36,spinach,Dimethoate,7,1,0.635  1.546,,4.423,No Data,2.000,0.010
+37,,cyhalothrin,7,1,0.003  0.004,,0.013,0.050, No Data,0.600
+38,,Carbaryl,5,2,0.017  0.012,0.022,0.054,No Data,10.000,0.010
+39,,Chlorpyrifos,5,1,0.015  0.024,,0.063,1.000,1.000,0.010
+40,green chili,Cypermethrin,5,1,0.004  0.004,,0.011,2.000,0.200,0.500
+41,green chili,Endosulfan alpha,5,1,0.007  0.007,,0.020,Forbidden,2.000,50.000
+42,,Lambda-,5,1,0.002  0.003,,0.008,0.300,0.200,0.100
+43,,cyhalothrin,5,1,0.002  0.003,,0.008,0.300,0.200,0.100
+44,tomato,Carbaryl,7,1,0.007  0.009,,0.029,5.000,10.000,0.010
+45,,Carbaryl,7,1,0.006  0.007,,0.022,10.000,No Data,0.010
+46,,Cypermethrin,7,1,0.008 0.014,,0.041,0.700,No Data,2.000
+47,lettuce,cyhalothrin,7,1,0.005  0.009,,0.028,2.000,No Data,0.150
+48,,Methamidophos,7,1,0.028  0.062,,0.179,Forbidden,1.000,0.010

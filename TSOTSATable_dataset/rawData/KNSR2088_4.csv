@@ -1,0 +1,51 @@
+,0,1,2,3
+0,cultivar/Locations,WHC,OHC,SWC
+1,,g HO/g DW,g oil/g DW,mL HO/g DW
+2,Sweet Lady (SL),,,
+3,Beitem (BE1),11.52  1.16,3.24  0.21,17.89  0.55
+4,,aefghi,abcde,hjkm
+5,Herent BE2,10.35  0.41 ae,2.84  0.06,15.59  0.22 bfg
+6,,,abc,
+7,Arras (FR1),12.65  0.11,2.87  0.16,17.34  0.83 hkm
+8,,bdgh,abc,
+9,Graincourt (FR2),14.78  0.24 cd,3.98  0.32 d,20.59  0.46 e
+10,Flexine (FLX),,,
+11,Beitem(BE1),9.99  0.14 a,2.76  0.16,14.470.57 abcd
+12,,,abc,
+13,Herent (BE2),10.18  0.36 ae,2.79  0.06,15.40 0.13 abfg
+14,,,abc,
+15,Arras (FR1),14.26 0.76 bcd,3.46  0.41,21.31  0.38 fgi
+16,,,abede,
+17,Graincourt (FR2),14.30 0.59 bcd,3.96  0.15 d,21.14  0.13 el
+18,Vintor (VTR),,,
+19,Beitem(BE1,11.37 0.12,3.03 0.57,14.86 0.12 abcg
+20,,aefhi,abce,
+21,Herent (BE2),10.52  0.59 aei,2.73  0.35 ac,13.93 0.21 cd
+22,ArrasFR1,12.13 0.32 fghi,2.92  0.19,17.22  0.46 fgi
+23,,,abc,
+24,Graincourt (FR2,11.61  0.31,3.61  0.64,15.90 0.33 el
+25,,aefghi,bede,
+26,Laurine (LAU),,,
+27,Beitem(BE1),10.77  0.65 aefi,2.85  0.22,14.09  0.64 acd
+28,,,abe,
+29,Herent (BE2),11.800.14,2.580.05 a,13.20  0.33 d
+30,,efghi,,
+31,Arras (FR1),12.24  1.34 fghi,2.85  0.33,16.53 0.33 him
+32,,,abc,
+33,Graincourt (FR2),9.95 0.32 a,3.030.09,14.67 0.66 abcg
+34,,,abce,
+35,Mixes,,,
+36,Mix 1,12.92  0.21 bgh,3.55  0.16,18.74  0.13 jk
+37,Sweet Lady/All,,bede,
+38,locations,,,
+39,Mix 2,12.870.40 bgh,3.12  0.10,18.91  0.38 j
+40,All cultivars/,,abcde,
+41,Beitem,,,
+42,Mix 3,15.150.30 c,3.85  0.24 de,22.65  0.51 1
+43,"All cultivars/Arras,",,,
+44,Graincourt,,,
+45,Mix 4,13.20  0.22 bdg,3.38  0.19,18.34  0.64 jkm
+46,All cultivars/,,abcde,
+47,BeitemHerent,,,
+48,Mix 5,12.89  0.71,3.61  0.11,17.88  0.26
+49,All cultivars/All,bdgh,bde,hjkm

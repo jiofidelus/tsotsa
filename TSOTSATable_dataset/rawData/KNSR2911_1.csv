@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,System,LOD,LOQ, Linear Range,%RSD.ca,R2
+1,HPLC-UVb,708 ng/g,2361 ng/g,3.0-100 mg/kg,9.1,0.9993
+2,DSPME-HPLC-UVc,14.2 ng/g,47.2 ng/g,0.05-0.45mg/kg,12.0,0.9994
+3,GC-FIDd,34.2 ng/g,113.9 ng/g,0.1-0.9 mg/kg,10.2,0.9997
+4,DSPME-GC-FIDe,34.2 ng/g,113.9 ng/g,0.1-0.9 mg/kg,9.7,0.9997
+5,"HF-LPME-GC-ECD(Sanagi et al.,2010",99 ng/mL,331 ng/mL,,-,0.998
+6,CCSHLLE-DLLME-GC-FID(Farajzadeh et al.2016b),9.0 ng/mL,29 ng/mL,0.03-5.0 mg/L,-,0.997
+7,"DLLME-GC-FPDh (Yang et al., 2012)",0.5 ng/g,,0.0025-1.5 mg/kg,-,0.9992

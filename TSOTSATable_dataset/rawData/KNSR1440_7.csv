@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6
+0,Matrix,"Vitamin C,mg/100g (mean","Vitamin C,mg/100g (mean",Vitamin C difference,Vitamin C difference,Optimizationb,Certified range
+1,,"standard deviation,n=3",,,,,
+2,, Non-optimizeda,Optimized,mg/100g,as percent of optimized,,
+3,Dry samples,,,,,,
+4,"Brussels sprouts,freeze-dried",404  1.4,463  10.8,59*,12.7,"A,B",459507
+5,"Oregano leaf,dried(sample 1",1.99 0.12,2.31  0.05,0.32*,13.9,"A,B,C",
+6,"Oregano leaf,dried(sample 2",0.92  0.02,1.810.08,0.88*,48.8,"AB,C",
+7,"Paprika,ground",0.34  0.06,0.95  0.03,0.61*,14.3,"A,B",
+8,"Parsley,dried",109  2.6,1272.2,18*,14.3,"A,B,C",
+9,Breakfast cereal,62.50.4,70.5  2.5,8.0*,11.4,"A,B,E",
+10,Fruits and vegetables,,,,,,
+11,"Broccoli, raw",1041.9,1101.9,-6*,5.5,B,
+12,Pineappleraw,70.3  0.8,70.7  1.0,,,B,
+13,"Potatoes,raw(sample 1)",18.0  0.7,17.8  0.8,,,"B,E,F",
+14,"Potatoes,raw(sample 1)",27.5  0.2,27.5  0.4,,,"B,E,F",
+15,"Green onions,raw",17.1  1.9,13.1  0.8,4.1*,31.2,"B,G",
+16,Cantaloupe,24.3  0.7,21.3  0.7,3.0*,14.3,"B,G",
+17,High fat samples,,,,,,
+18,French fries,3.390.07,3.76  0.07,0.3*7,9.8,"B,D",
+19,Milk powderd,67.0  1.4,74.2  0.6,7.2*,9.7,"A,B,D",73.080.8

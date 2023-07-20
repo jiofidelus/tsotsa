@@ -1,0 +1,21 @@
+,0,1,2,3,4
+0,Comparisons,,Probability level,,
+1,,,Group F,Group T,Group M
+2,45 days,AA-CC,n.s.,n.s.,n.s.
+3,,AA-SS,5%,n.s.,5%
+4,,AA-RR,1%,n.s.,5%
+5,,CC-SS,1%,5%,n.s.
+6,,CC-RR,5%,5%,n.s.
+7,,SS-RR,5%,0.1%,n.s.
+8,180 days,AA-CC,n.s.,5%,n.s.
+9,,AA-SS,5%,5%,n.s.
+10,,AA-RR,0.1%,0.1%,5%
+11,,CC-SS,0.1%,0.1%,0.1%
+12,,CC-RR,5%,0.1%,0.1%
+13,,SS-RR,0.1%,0.1%,n.s.
+14,365 days,AA-CC,n.s.,1%,1%
+15,,AA-SS,1%,1%,n.s.
+16,,AA-RR,0.1%,1%,5%
+17,,CC-SS,1%,n.s.,0.1%
+18,,CC-RR,1%,0.1%,n.s.
+19,,SS-RR,0.1%,0.1%,n.s.

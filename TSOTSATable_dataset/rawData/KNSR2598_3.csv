@@ -1,0 +1,42 @@
+,0,1,2,3,4,5,6
+0,,,Sampling dates,,,,
+1,,,1-Aug-09,8-Aug-09,16-Aug-09,23-Aug-09,25-Aug-09
+2,Podraga vineyard,Podraga vineyard,,,,,
+3,Myricetin-3-glucoside,,,,,,
+4,Untreated (UN),Untreated (UN),13.1 c,11.1 b,11.1 b,8.25 b,10.1 b
+5,Berryset leaf removal(BS,,25.6 a,21.0 a,25.5 a,21.2 a,19.8 a
+6,Veraison leaf removal (VE),,37.6 b,22.8 a,21.9 a,22.0 a,17.2a
+7,,F,271,31.5,15.9,138,27.1
+8,sign F,sign F,0.000***,0.000***,0.004**,0.000***,0.000***
+9,Quercetin-3-glucoside,,,,,,
+10,Untreated (UN),Untreated (UN),90.5 c,73.6 c,82.2 c,52.3 c,77.2c
+11,Berryset leaf removal(BS),,262 a,169 a,198 a,157a,166a
+12,Veraison leaf removal (VE,,175 b,120b,130 b,107 b,101 b
+13,,F,204,43.6,33.0,107,43.2
+14,sign F,sign F,0.000***,0.000***,0.000***,0.000***,0.000***
+15,Kaempferol-3-glucoside,,,,,,
+16,Untreated (UN),Untreated (UN),4.57 b,7.01 b,8.03 b,6.09 b,9.94 b
+17,Berryset leaf removal(BS),,11.8 ab,7.12 b,13.3 a,12.4 a,14.0 a
+18,Veraison leaf removal(VE),,16.8 a,9.55 a,14.4 a,12.7 a,13.2 a
+19,,F,7.23,6.81,31.1,69.2,18.3
+20,sign F,sign F,0.025*,0.029*,0.000***,0.000***,0.003**
+21,,,8-Aug-09,16-Aug-09,24-Aug-09,5-Sep-09,7-Sep-09
+22,Potoce vineyard,Potoce vineyard,,,,,
+23,Myricetin-3-glucoside,,,,,,
+24,Untreated (UN),Untreated (UN),3.11 b,5.20 b,4.95c,4.09 c,2.52 c
+25,Berryset leaf removal (BS),,8.48 a,26.71 a,14.2 b,11.4 b,11.2 b
+26,Veraison leaf removal (VE),,8.45 a,5.17 b,20.4 a,16.8 a,20.5 a
+27,,F,68.6,216,36.6,168,41.1
+28,sign F,sign F,0.000***,0.000***,0.000***,0.000***,0.000***
+29,Quercetin-3-glucoside,,,,,,
+30,Untreated (UN),Untreated (UN),35.2c,61.2 c,34.5 c,19.8 c,15.4 b
+31,Berryset leaf removal(BS,,124 a,128a,164 a,92.2 a,87.8 a
+32,Veraison leaf removal(VE),,47.2 b,79.4 b,117 b,74.4 b,90.9 a
+33,,F,288,49.2,82.6,67.6,86.9
+34,sign F,sign F,0.000***,0.000***,0.000***,0.000***,0.000***
+35,Kaempferol-3-glucoside,,,,,,
+36,Untreated (UN),Untreated (UN),0.84 c,3.48 b,4.06 b,3.14c,2.58 b
+37,Berryset leaf removal (BS),,7.32 a,13.4 a,16.8a,12.2 b,13.8 a
+38,Veraison leaf removal(VE),,4.64 b,3.77 b,17.4 a,15.4 a,14.0 a
+39,,F,24.6,101,60.2,97.6,57.3
+40,sign F,sign F,0.001**,0.000***,0.000***,0.000***,0.000***

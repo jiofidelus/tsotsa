@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7,8
+0,Adulterant,Spectral pre-treatment,,Calibration set (n= 171),Calibration set (n= 171),,Prediction set (n =144,Prediction set (n =144,
+1,,,LV,R2cal,RMSECb,R2cv,RMSECVb,R2p,RMSEpb
+2,Potato Starch,1Da,5,0.978,1.76,0.971,2.09,0.948,2.12
+3,Acacia Gum,SNV,4,0.982,1.58,0.979,1.77,0.968,1.68
+4,Annatto,1Da,3,0.952,1.21,0.944,1.33,0.874,1.74

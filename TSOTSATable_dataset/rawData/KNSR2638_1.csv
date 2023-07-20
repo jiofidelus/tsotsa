@@ -1,0 +1,21 @@
+,0,1,2,3
+0,Technique,Sensor preparation,LOD,Reference
+1,,,(ng,
+2,,,L-1,
+3,DPV,Hairpin-shaped aptamer,0.90,"(Jalalian et al.,"
+4,,immobilized on AuNPs and,,2018)
+5,,methylene blue used as a redox,,
+6,,probe,,
+7,EIS,Aptamers immobilized at PAMAM,8.47,(Karapetis
+8,,dendrimers,,"et al.,2018"
+9,ECL,Aptamer immobilized on AuNPs,10,(Khoshfetrat
+10,,coated FeO and luminol,,"et al.,2018"
+11,,functionalized AgNPs decorated on,,
+12,,graphene oxide,,
+13,Fluorescence,Fluorescein-labeled anti-AFM1,5.0,"(Sharma et al.,"
+14,,aptamer with TAMRA labeled,,2016)
+15,,complementary sequences,,
+16,Colorimetry,Aptamer adsorbed on AuNPs using,"3,280","Kasoju et al.,"
+17,,PAD device,,2020)
+18,Colorimetry,Label-free detection based on LSPR,2.0,This work
+19,,and aggregation of AuNPs,,

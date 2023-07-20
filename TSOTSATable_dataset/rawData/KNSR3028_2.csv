@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,,,SFE,,,,PEE,
+1,No.,Compound,RT/min,Reliability to,Reliability to,Relative,RT/min,Reliability to,Reliability to,Relative
+2,,,,standard MS (%),standard MS (%),content (%),,standard MS (%),standard MS (%),content(%
+3,1,Benzoic acid,5.15,91,,1.14,,,,
+4,2,Methylsalicylate,5.70,97,,1.41,5.70,97,,0.77
+5,3,Dodecamethyleyclohexasiloxane,7.18,91,,1.23,,,,
+6,4,Decamethylcycloheptasiloxane,7.90,93,,1.35,,,,
+7,5,Diethylphthalate,10.61,98,,1.46,,,,
+8,6,Cedrol,,10.86,,96,1.21,,,
+9,7,"Eudesma-4,11-diene",,11.42,,99,0.88,,,
+10,8,Tributylphosphine oxide,12.14,93,,4.61,,,,
+11,9,Dibutylphthalate,13.90,96,,0.61,13.89,98,,1.19
+12,10,n-Hexadecanoic acid,15.36,99,,20.35,15.30,97,,1.41
+13,11,E-11-hexadecenoic acid ethyl,,15.72,,99,9.77,,,
+14,,ester,,,,,,,,
+15,12,Hexadecanoic acid ethyl ester,,15.89,,99,36.97,,,
+16,13,Phytol,,17.66,,96,7.74,,,
+17,14,Linoleic acid ethyl ester,,18.29,,99,4.63,,,
+18,15,Ethyloleate,,18.37,,99,10.47,,,
+19,16,Octadecanoic acid,19.48,93,,5.75,,,,
+20,17,Stigmasterol,28.47,98,,4.55,,,,
+21,18,"22,23-dihydro-stigmasterol",30.74,87,,31.26,,,,
+22,Total,73.62,74.04,,,,,,,
+23,content (%),,,,,,,,,

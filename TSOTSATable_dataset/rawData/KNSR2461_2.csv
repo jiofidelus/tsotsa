@@ -1,0 +1,62 @@
+,0,1,2,3,4
+0,Substance,Technique,n,Results,Ref.
+1,,GC-FID,38,10.0% of samples,"Vilela et al.,"
+2,,GC-FID,38,>BL.,2021
+3,Alcohol,GC-FID,268,4.9% of samples >,"Alcarde, 2015"
+4,content,GC-FID,268,BL.,"Alcarde, 2015"
+5,,GC-FID,21,lower than BL.,2007
+6,,GC-FID,268,16.4 % of samples,"Bortoletto,and"
+7,,GC-FID,268,>BL.,"Alcarde,2015"
+8,Volatile,GC-FID,38,65.0% of samples,"Vilela et al.,"
+9,acidity,GC-FID,38,>BL.,2021
+10,,GC-FID,13,>BL.,"et al.,2016"
+11,,GC-FID,268,1.5% of samples >,"Alcarde, 2015"
+12,,GC-FID,21,15.0% of samples,Mendes Filho
+13,Esters (Ethyl,,,5.0% of samples >,"Vilela et al.,"
+14,Acetate),GC-FID,38,5.0% of samples >,2021
+15,,,,All samples in,"Vilela et al.,"
+16,,GC-FID,21,accordance with,2007
+17,,,,BL.,2007
+18,,GC-FID,268,6.3 % of samples >,"Bortoletto, and"
+19,,GC-FID,268,BL.,"Alcarde,2015"
+20,,GC-FID,21,19 % of samples >,"et al., 2016"
+21,Aldehyde,,,,"Vilela et al.,"
+22,,GC-FID,38,All samples in,2021
+23,,GC-FID,21,accordance with,"Vilela et al.,"
+24,,GC-FID,21,BL.,2007
+25,,GC-FID,268,BL.,"Alcarde,2015"
+26,Furfural,,,All samples in,"Vilela et al.,"
+27,(HMF),GC-FID,38,accordance with,2021
+28,,,,BL.,2021
+29,,GC-FID,268,>BL.,"Alcarde, 2015"
+30,Ethyl,GC-MS,38,15.0% of samples,"Vilela et al.,"
+31,Carbamate,GC-MS,38,> BL.,2021
+32,,GC-MS,18,5.6 % of samples >,"Guerreiro et al.,"
+33,,GC-MS,18,BL.,2018
+34,,GC-FID,268,12.5 % of samples,"Bortoletto, and"
+35,,GC-FID,268,>BL.,"Alcarde,2015"
+36,,GC-FID,21,38.0% of samples,Mendes Filho
+37,2-butanol,,,>BL.,Vilela et al.
+38,,GC-FID,38,All samples in,2021
+39,,,,accordance with,"Vilela et al.,"
+40,,GC-FID,21,BL.,2007
+41,,GC-FID,268,7.7% of samples >,"Bortoletto, and"
+42,,GC-FID,268,BL.,"Alcarde, 2015"
+43,,GC-FID,21,>BL.,"et al.,2016"
+44,1-butanol,,,>BL.,"Vilela et al.,"
+45,,GC-FID,38, All samples in,2021
+46,,GC-FID,,accordance with,"Vilela et al.,"
+47,,GC-FID,21,BL.,2007
+48,,GC-FID,268,2.6 % of samples >,"Alcarde,2015"
+49,Methyl,,,All samples in,"Vilela et al.,"
+50,Alcohol,GC-FID,38,accordance with,"Vilela et al.,"
+51,,GC-FID,38,BL.,2021
+52,,FAAS,268,>BL.,"Alcarde, 2015"
+53,,FAAS,38,15.0% of samples,"Vilela et al., "
+54,,SWASV,90,25.0% of samples,"Ferreira et al.,"
+55,Copper,SWASV,90,>BL.,2020
+56,Copper,FAAS,21,67.0% of samples,"Vilela et al.,"
+57,,FAAS,21,>BL.,2007
+58,,FAAS,5,All samples in,Tavares et al.
+59,,SPCPE-SiAt,4,BL.,"Costa et al.,2011"
+60,,FAAS,21,BL.,

@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Typea,Measurement,Quantity,Uncertainty,Divisor,u(xi)c,Input,Distribution,Cid,u(yi)e,Output,Verr',Contribution
+1,,variableb,value,value,,,unity,,,,unity,,
+2,B,u(ma),5.1000,0.0028,2.02,0.0014,g,t-Student,0.0151,0.0000,g/100 g,8,0.00%
+3,B,u(mi),115.7545,0.0028,2.02,0.0014,g,t-Student,23.2263,0.1098,g/100 g,8,32.7%
+4,B,u(mf),116.1317,0.0028,2.02,0.0014,bo1,t-Student,23.1509,0.1098,g/100 g,8,32.7%
+5,A,Variability,5.3008,0.1158,1.00,0.1158,bo1,t-Student,1.00,0.1158,-,12.00,34.5%
+6,,u(R&R),,,,,,,,,,,
+7,,,,,,Combined uncertainty (uc)=0.1937,Combined uncertainty (uc)=0.1937,Combined uncertainty (uc)=0.1937,,Veff=,8,,
+8,,,,,,Expanded uncertainty(U)=0.3874,Expanded uncertainty(U)=0.3874,Expanded uncertainty(U)=0.3874,,,,,
+9,,,,,,Coverage factor (k)=2.00,Coverage factor (k)=2.00,,,,,,

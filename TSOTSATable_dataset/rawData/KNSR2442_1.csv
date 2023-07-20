@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,,,,Concentration (mM)*,Concentration (mM)*,,,
+1,Amino Acid,Retention,Product Ion,Reference Ion(s),Range (M),Fresh,Acidified,Acidified,Fermented,Fermented
+2,(precursor m/z),Time (min),Product Ion,Reference Ion(s),,,,Processed**,,Processed**
+3,GABA,8.13,87.10(-13.0 CE),69.15 (-17.0 CE),0.40-350,0.83  0.16ab,0.56  0.30bc,0.17  0.06c,1.21  0.35a,0.50  0.17bc
+4,[M+H]*104.00,,,,,,,,,
+5,Glutamate,8.50,83.95(-15.0 CE),102.00 (-15.0 CE,60,0.54  0.09a,0.23  0.15b,0.24  0.08b,0.23  0.17b,0.17  0.14b
+6,[M+H]*148.25,,,130.10 (-13.0 CE),,,,,,
+7,Glutaminet,8.50,84.05 (16.0 CE),56.10 (-29.0 CE),1.5-1450,7.40  1.04a,0.20  0.03b,0.11  0.14b,0.55  0.30b,0.56  0.84b
+8,[M+H]*147.20,,,42.05 (-55.0 CE),,,,,,

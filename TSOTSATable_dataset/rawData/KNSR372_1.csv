@@ -1,0 +1,8 @@
+,0,1,2
+0,Parameters,Vitamin B12,Vitamin D3
+1,Method,HPTLC,HPLC
+2,Linearity range,0-700 ng/spot,0-100g/injection
+3,Correlation coefficient (R2),0.98,0.99
+4,Regression equation,y=8911x+1004,y=2.394x
+5,Limit of detection,0.085g,6.820 g
+6,Limit of quantification,0.284 g,22.750 g

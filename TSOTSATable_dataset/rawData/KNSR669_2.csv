@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6
+0,sample name,,number of peaks detected by program,,number of proanthocyanidin candidate peaks identified by program,,number of false positive peaks
+1,cranberry,78,,9,,2,
+2,dark chocolate,52,,28,,3,
+3,Fuji apple,64,,11,,2,
+4,grape seed extract,71,,67,,0,
+5,jujube fruit,51,,30,,5,
+6,litchi fruit pericarp,72,,48,,2,
+7,mangosteen fruit,72,,49,,3,
+8,pericarp,,,,,,

@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,Product information,Product information,,,,,Species identification,Species identification,,
+1,Product,Brand,Price (RMB,Claimed species,Place of,,Specimen,,BLAST (similarity% =100 %),BLAST (similarity% =100 %),
+2,code,code,#),identity #,origin,Production method,code,LAMP,570,327 bp,242 bp
+3,,code,,identity #,origin,,,,bp,,
+4,XJ13,PM26,g),Tuna,Thailand,,XJ13-2,,,,
+5,XJ14,PM27,g),Tuna,Thailand,,XJ14-2,,,,
+6,XJ15,PM28,g),Tuna,mainland,,XJ15-2,,,,
+7,XJ16,PM29,g),Nayu/Tuna,Thailand,,XJ16-2,,,,
+8,XJ17,PM30,11/can (130,Jin Qiangyu/,Taiwan,Wide capture,XJ17-1,K. pelamis,,,
+9,XJ17,PM30,g),K. pelamis,Taiwan,Wide capture,XJ17-2,,,,
+10,XJ18,PM31,g),Tuna,mainland,,XJ18-2,ND,,,
+11,XJ19,PM32,g),Tuna,Philippines,NM,XJ19-2,K. pelamis,,,
+12,XJ20,PM34,(250 g),Tuna,Russia,,XJ20-1,ND,,,spp.

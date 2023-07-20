@@ -1,0 +1,54 @@
+,0,1,2,3,4,5,6
+0,Vitamin,Treatment,Conditions,Food,Retention (%),Losses (%),References
+1,Thiamin,Cooking,"75min,soaking 15 h",Beans,73,,Maskova et al.
+2,,,,,,,(1996)
+3,,,"45 min, soaking 16 h",Peas,81,,
+4,,,"165 min,soaking 16 h",Soybean,53,,
+5,,,"90C,60min",Soymilk,,12,Kwok et al.(1998)
+6,,,"120C,15 min",,,32,
+7,,,"140C, 30 s",,,3,
+8,,,Various,Meat,,9-70,Bognar(1984)
+9,,,93 C (internal,Pork meat,,26 cja,Lassen et al.(2002)
+10,,,temperature 72C,,,,
+11,,,72-80 min,,,,
+12,,Boiling,"96-99C,150 min",Beef meat,20,47 ewb,Maskova et al.
+13,,,,,,,(1994)
+14,,,,Pork,,70,Kimura et al.1990
+15,,Braising,,"Chicken meat,light",48.9/64.0,,Al-Khalifa and
+16,,,,muscle/dark muscle,,,Dawood (1993)
+17,,Heat treatment,"90,110,and 120C",Whole and skimmed,100,,Sierra and Vidal
+18,,,,milk,,,Valverde (2001)
+19,,Sterilizing and,"140C,3-4s;6weeks",Milk,,10,Gorner and
+20,,storage,,,,,Uherova (1980)
+21,,Pressure-cooking,50 min,Beans,42,,Maskova et al.
+22,,,,,,,(1996)
+23,,,40 min,Peas,44,,
+24,,,60 min,Soybean,32,,
+25,,,5min,Fresh cabbage,,48.65,Vargas et al.1995
+26,,,10 min,Cauliflower,,55.03,
+27,,Parching,,Pork,,35,Kimura et al.1990
+28,,Steaming,,Pork,,40,
+29,,Microwaving,,"Chicken meat,light",41.8/63.5,,Al-Khalifa and
+30,,,,muscle/dark muscle,,,Dawood (1993)
+31,,,"60min,soaking 17 h",Beans,49,,Maskova et al.
+32,,,,,,,(1996)
+33,,Microwaving in,8 min,Fresh cabbage,,29.36,Vargas et al.1995
+34,,small amount of,,,,,
+35,,water,,,,,
+36,,,14 min,Cauliflower,,43.01,
+37,,Microwaving in oil,3min,Fresh cabbage,,37.88,
+38,,,,Cauliflower,,53.39,
+39,,Baking,Using baking powder in,Chocolate and baked,,>50,Eitenmiller and
+40,,,cake mixtures,products,,,Laden (1999)
+41,,Roasting,,"Chicken meat, light",30.4/28.8,,Al-Khalifa and
+42,,,,muscle/dark muscle,,,Dawood (1993)
+43,,Gently cooking in,4 min,Fresh cabbage,,53.78,Vargas et al. (1995)
+44,,oil,,,,,
+45,,,,Cauliflower,,57.98,
+46,,Frying,,"Chicken meat,light",28.2/45.8,,Al-Khalifa and
+47,,,,muscle/dark muscle,,,Dawood (1993)
+48,,,,Light chicken muscles,,70,Fillion and Henry
+49,,,,,,,(1998)
+50,,,,Pork,,30,Kimura et al. (1990)
+51,,Stir-frying without,"150C,6.5min","Minced beef, lamb,",66,,Rhee et al.1993
+52,,added oil,,and pork,,,

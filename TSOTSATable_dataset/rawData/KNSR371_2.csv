@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7,8
+0,Country,Crop,Year(s),Sample source,N,+ves (%),Range,Mean,References
+1,,,,,,(gkg-1),(gkg-1),,
+2,Nigeria,Maize,2005,Stores and markets,69,5.8,4-13,,This Study
+3,South Africa,Maize,1989,Export at preshipment,36,0,-,-,Rheeder et al.1994
+4,South Africa,Maize,1989,Export at destination,32,3.1,25,25,Rheeder et al.(1994)
+5,Ghana,Maize dough,1994,Processing sites,20,0,-,-,Kpodo et al.1996
+6,Ethiopia,Sorghum,1999,Stores,29,6,19-32,25.5,Ayalew et al.2006
+7,Ethiopia,Wheat,1999,Stores,16,0,-,-,Ayalew et al.2006
+8,Cote d'Ivoire,Maize,,,10,100,50,50,Sangare-Tigori et al.(2006)
+9,South Africa wheat and,,,,,,,,
+10,,Wheat prods,,,210,2,0.01,4,Mashinini and Dutton (2006)

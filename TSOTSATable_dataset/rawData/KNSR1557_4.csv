@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7,8,9
+0,No,Province,Canton,PC1,,,PC2,,,
+1,1,Guayas,Milagro,-0.15,0.49,BC cdef,1.01,,0.68,B def
+2,2,Pac.Coast),Duran,0.27,0.43,BC def,0.82,,0.47,B def
+3,3,,Duran,0.40,0.31,BC cdef,-1.10,,0.25,B ef
+4,4,Los Rios,Montalvo,0.16,1.05,BC cdef,0.15,,0.90,B bcdef
+5,5,(Pac. Coast), Santa Ana,0.49,0.39,AB bcde,1.35,,0.49,Bf
+6,6,Manabi, Santa Ana,0.23,0.70,AB bcde,1.06,,0.47,B ef
+7,7,(Pac. Coast),Portoviejo,0.75,0.65,AB bcde,0.25,,1.01,B bcdef
+8,8,,Chone,0.15,0.65,AB bcde,0.53,,0.69,B cdef
+9,9,Francisco de Orellana,El Coca,0.17,0.25,C ef,0.97,,0.79,Aab
+10,10,(Amazon),Loreto,0.99,0.32,C ef,0.33,,0.56,A abcd
+11,11,,Sachas,0.43,0.62,C ef,0.58,,0.50,A abc
+12,12,Sucumbios, Lago Agrio,0.43,0.62,BC def,0.58,,0.50,Aabc
+13,13,(Amazon),Shushufindi,1.32,0.40,BC f,1.47,,0.86,Aa
+14,14,Napo,Gonzalo Pizarro,1.32,0.51,BC ab,0.06,+1,0.66,A bcde
+15,15,Napo,Tena,0.56,0.46,A def,0.87,+1,0.24,A abc
+16,16,(Amazon),Arosemena Tola,1.08,0.52,Aabc,0.83,,0.14,A abc
+17,17,,Archidona,2.08,1.15,Aa,0.56,,0.36,Aabc

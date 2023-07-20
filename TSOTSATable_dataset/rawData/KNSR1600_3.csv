@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,Method,Samples,LOD,Linear range,RSD (%),Ref
+1,,,(g mL-1),(g mL-1),,
+2,AAS,Food,0.025,0.55.0,3.4,"Zounr et al., 2018"
+3,Biosensor,Multivitamin,0.012,0.0251.52,8.0,"Muya et al., 2020)"
+4,ICP-OES,V-containing raw materials,0.194,,0.59,"Wang et al.,2020"
+5,Fluorescence,Water,0.011,0.010.80,4.0,"He et al.,2018a)"
+6,AAS,Water,0.020,0.063.3,,"(Lopez-Garcia et al., 2018)"
+7,HPLC,Water,0.006,0.0010.1,1.42,"Li et al., 2021)"
+8,UV-Vis,Vegetable oil& vinegar,.0.005,0.0020.18,,"Temel et al.,2019"
+9,UV-Vis,Beverages,0.006,0.025,2.6,"(Kartal Temel and Guirkan, 2018)"
+10,UV-Vis,Water,0.014,<0.76,1.5,"(Stefanova-Bahchevanska et al., 2017)"
+11,UV-Vis,Dietary supplement,0.017,<0.51,,"(Genc et al., 2020)"
+12,DIBA,Water,0.008,<0.51,-,"Milcheva et al.,2021b"
+13,DIBA,Food,0.027,0.13.0,0.05,This work

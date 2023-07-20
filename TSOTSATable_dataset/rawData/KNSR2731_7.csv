@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7
+0,,LRIa,Normal condition,,,Saline condition (6 dsm-1),Saline condition (6 dsm-1),
+1,Composition,Kovats index,Control,Putrescine,20 % biochar,Control,Putrescine,20 % biochar
+2,,DB-5,Control,Putrescine,20 % biochar,Control,Putrescine,20 % biochar
+3,Diallyl sulfide,842,8.21,8.52,8.80,8.01,8.21,8.54
+4,Methyl allyl disulfide,886,1.74,1.88,1.88,-,-,-
+5,1-Propenyl methyl disulfide,892,-,-,-,0.11,0.11,0.13
+6,Methyl 2-propenyl disulfide,898,8.51,8.61,8.56,8.55,8.70,8.70
+7,Dimethyl trisulfide,958,0.51,0.52,0.52,0.53,0.55,0.54
+8,Butyl propenyl sulfide,1070,-,-,-,,-,0.68
+9,Diallyl disulfide,1075,19.87,20.03,21.02,20.12,22.01,21.92
+10,"3-Ethenyl-1,2-dithiane",1078,-,1.04,-,-,-,-
+11,"2-Ethenyl-1,3-dithiane",1086,-,2.42,-,-,,-
+12,Methyl allyl trisulfide,1089,-,-,-,2.01,2.51,3.16
+13,"3-Vinyl-1,2-dithiane",1091,1.12,1.25,1.32,1.21,1.3,1.32
+14,"2-Vinyl-1,2-dithiane",1098,1.35,1.39,1.52,1.1,1.23,1.25
+15,Methyl-2-propenyl trisulfide,1136,6.32,6.25,6.32,6.35,6.75,6.75
+16,"3-Vinyl-1,2-dithiacyclohex-5-ene",1208,0.52,0.64,0.67,0.58,0.75,0.78
+17,Diallyl trisulfide,1215,26.21,28.23,28.01,24.23,25.02,24.65
+18,"3,5-Diethyl-1,2,4,trithiolane",1258,,-,-,,0.41,-
+19,di-2-Propenyl trisulfide,1299,10.01,11.02,11,10.23,11.45,11.40
+20,Diallyl tetrasulfide,1539,3.85,3.68,3.65,3.89,4.01,4.01

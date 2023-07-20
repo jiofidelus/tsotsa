@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Pretreatment,PCs,Sensitivity (%),Specificity (%),Efficiency (%
+1,Mean Centering,3,92.9,100.0,96.4
+2,1Derivative+MC,1,93.9,100.0,96.9
+3,2nd Derivative(+MC,4,98.0,98.1,98.0
+4,SNV(+MC,1,98.0,100.0,99.0
+5,SNV+1t Derivative,1,96.0,100.0,98.0
+6,+MC,,,,
+7,SNV+2nd Derivative,4,98.0,96.1,97.1
+8,+MC,,,,

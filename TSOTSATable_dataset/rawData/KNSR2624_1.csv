@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Range,Average,Variety with highest value,Taxonomic,Variety with lowest value,Taxonomic,Notes,Refb,Refb (lowest)
+1,,,,,groupa,,groupa,,(highest),
+2,Energyn=9,240-423 kJ/100 g,340.00,Imilla Negra (Argentina),Adg,Spunta (Argentina),Tbr,,1,1
+3,Moisture(n-51,62.68-87.0g/100g,78.50,Puca Quitish (Peru),Adg,Chandramukhi (India,Tbr,,3,4
+4,Lipidn=15,0.05-0.51 g/100g,0.20,Imilla Colorada(Argentina),Adg,Spunta (Argentina),Tbr,,1,
+5,Proteinn=41,0.85-4.2g/100 g,2.12,Roja Rinon (Spain),Tbr/T,Revolucion (Argentina),Adg,,3,1
+6,Total fibern=31,0.3-3.67g/100 g,2.04,Red Pontiac*-skin,Tbr,"Katahdin*-fleshMaine,USA)",Thr,In fleshRuna Argentina),5,7
+7,,,,(Eastern Canada),,,,Adg has highest value of,,
+8,,,,,,,,3.3 g/100g (ref 1),,
+9,Soluble fibern=13,0.87-1.22g/100g,1.04,Yukon Gold*,Tbr,Red Pontiac* (Eastern Canada),Tbr,,5,5
+10,,,,(Eastern Canada),,,,,,
+11,Insoluble fibern=1,0.41-2.53g/100g,1.31,Red Pontiac*-skin,Tbr,Kennebec*-flesh Eastern Canada,Tbr,"In flesh,Russet Burbank",5,5
+12,,,,Eastern Canada,,,,(CanadaTbr has highest,,
+13,,,,,,,,value of 0.7g/100gref 5,,
+14,Starch(n=53,9.1-22.6g/100g,16.13,Imilla Negra (Argentina),Adg,Kufri Bahar (India),Tbr,,1,9
+15,Glucosen=14,0.015-0.34 g/100 g,0.12,Arinda BolognaItaly,Tbr,FL1815OregonUSA,Tbr,"Jelli Bologna,Italyhas",10,11
+16,,,,,,,,next lowest value,,
+17,,,,,,,,0.02g/100g(ref 10,,
+18,Fructosen=15,0.00-0.18 g/100 g,0.07,"Frinka Bologna, Italy",Tbr,Sponta BolognaItaly),Tbr,,10,10
+19,Sucrose(n=19),0.08-1.39g/100g,0.40,"MarabelBologna,Italy",Tbr,"PtarmiganOregon,USA",Tbr,,10,11
+20,Amylose(n=5,3.5-4.3 g/100 g,3.86,"Bonita Canary Islands,Spain)",Adg,"Cara (Canary Islands, Spain)",Tbr/T,,13,13

@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Foods,,Pre-processing,Volatile compounds,Volatile compounds,Detector,Modulators (M),Column arrangements,Column arrangements,Ref.
+1,,,methods,(species),,,,,,
+2,,,,2D,1D,,,1D,2D,
+3,Chinese dey-,Mianning,SAFE,114,83,TOFMS,Cold-jet M,DB-Wax,DB-5,Li et al.(2021)
+4,hams,Nuodeng,SAFE,138,95,TOFMS,,,,
+5,,Saba,SAFE,138,109,TOFMS,,,,
+6,,Sanchuan,SAFE,160,119,TOFMS,,,,
+7,,Wanhua,SAFE,105,-,TOFMS,,,,
+8,,Xuanen,SAFE,176,,TOFMS,,,,
+9,Hams,,,,,,,,,
+10,Chinese dey-,Jinhua,MAE-SAFE,132,38,TOFMS,Cold-jet M,DB-Wax,DB-5,Li et al.2021)
+11,hams,,,,,,,,,
+12,,Xuanwei,MAE-SAFE,109,35,TOFMS,,,,
+13,,Rugao,MAE-SAFE,129,42,TOFMS,,,,
+14,Others,Rugao,,129,,,,,,
+15,Truffle,HS-SPME,80,40-70,QMS/FID,Dual-stage,SLB-5 ms,Supelcowax-10,Costa et al.,
+16,,,,,,loop-type M,,,(2015),
+17,,DSE/SAFE,71,,TOFMS,Cold-jet M,DB-Wax,DB-5,Zhang et al.,
+18,,,,,TOFMS,,,,(2016),
+19,Vinegar,HS-SPME,360,<100,TOFMS,Cold-jet M,TG-5 ms/HP-,Rtx-17/Rtx-,Zhou et al.,
+20,,,,,,,Innowax,5 ms,2017,
+21,Oils,HS-SPME,179,25,TOFMS,Quad-jet dual,VF-Wax,RTX-200 ms,Da Ros et al.,
+22,,,,,,stage Thermal,,,(2019),
+23,,,,,,M,,,,

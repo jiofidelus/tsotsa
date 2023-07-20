@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7,8,9
+0,No.,Aroma compound,CAS,MW,log,Descriptor,Odor,Concentration of the,Concentration of,Concentration of sample
+1,,,Registry,a,pb,c,threshold,SPME solution1 (g.L-l), storage solution *,solution  (mg.L1)
+2,,,No.,,pb,,d (g.L-1),,(mg.L-1),
+3,1,ethyl acetate,141-78-6,88,0.7,pineapple,32600 e,1133615.4,1250,6.250
+4,2,ethyl butyrate,105-54-4,116,1.3,pineapple,81.5 e,195750.4,1250,6.250
+5,3,ethyl valerate,539-82-2,130,1.9,apple,26.8 e,42940.6,1250,6.250
+6,4,ethyl hexanoate,123-66-0,144,2.4,fruity,55.3 e,2360279.6,625,3.125
+7,5,ethyl heptanoate,106-30-9,158,2.9,fruity,13200 e,58584.6,625,3.125
+8,6,ethyl lactate,97-64-3,118,0.2,green,128000 e,859746.6,,-
+9,7,hexyl butyrate,2639-63-6,172,3.3,green,5250.31f,7152.2,625,3.125
+10,8,ethyl octanoate,106-32-1,172,3.5,fruity,12.9 e,89454.4,625,3.125
+11,9, isopentyl hexanoate,2198-61-0,186,3.7,green,14008,5624.9,625,3.125
+12,10, hexyl hexanoate,6378-65-0,200,4.4,fruity,1890h,18285.0,625,3.125
+13,11,ethyl phenylacetate,101-97-3,164,2.3,rosy,407 e,2453.0,1250,6.250
+14,12,ethyl laurate,106-33-2,228,5.6,fruity,500,1528.2,1250,6.250
+15,13,ethyl 3-,2021-28-5,178,2.7,honey,125 e,8018.8,1250,6.250
+16,,phenylpropionate,,,,,,,,

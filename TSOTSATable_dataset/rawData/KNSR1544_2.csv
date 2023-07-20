@@ -1,0 +1,11 @@
+,0,1,2,3
+0,Ingredient,Amount need to,Total sugars from,Added sugars
+1,,prepare100g of,ingredient (g),(tsp.eq.)
+2,,muffin (g),,
+3,Wheat flour,25,0.0,0
+4,Vegetable oil,11,0.0,0
+5,Carrots,22,1.0b,0
+6,Milk,25,1.2b,0
+7,Brown sugar,15,14.3,3.4
+8,Granulated,6.7,6.7,1.6
+9,sugars,,,

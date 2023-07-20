@@ -1,0 +1,75 @@
+,0,1,2,3,4
+0,No.,Aroma compounds,Descriptor,LRI(DB-,Basis of
+1,,,,WAX),IDd
+2,1,Ethyl butanoate,pineapple,1041,"MS,"
+3,,,,,"aroma, RI,"
+4,,,,,S
+5,2,Butyl acetate,pear,1080,"MS,"
+6,,,,,"aroma, RI,"
+7,,,,,S
+8,3,2-Methylpropanol,ethereal winey,1094,"MS,"
+9,,,cortex,,"aroma, RI,"
+10,,,,,S
+11,4,Ethyl pentanoate,apple,1143,"MS,"
+12,,,,,"aroma, RI,"
+13,,,,,s
+14,5,1-Butanol,alcoholic,1150,"MS,"
+15,,,,,"aroma, RI,"
+16,,,,,S
+17,6,Ethyl 4-methylpentanoate,fruity,1243,"MS,"
+18,,,,,"aroma, RI,"
+19,,,,,S
+20,7,3-Methyl-1-butanol,fusel oil,1249,"MS,"
+21,,,,,"aroma, RI,"
+22,,,,,S
+23,8,Ethyl hexanoate,fruity,1267,"MS,"
+24,,,,,"aroma, RI,"
+25,,,,,s
+26,9,Hexyl acetate,fruity,1289,"MS,"
+27,,,,,"aroma, RI,"
+28,,,,,S
+29,10,Furfuryl ethyl ether,sweet spicy,1299,"MS,"
+30,,,,,"aroma, RI,"
+31,,,,,S
+32,11,Cyclopentanol,fusel oil,1312,"MS,"
+33,,,,,"aroma, RI,"
+34,,,,1344,S
+35,12,Propyl hexanoate,sweet fruity,1344,"MS,"
+36,,,,,"aroma, RI,"
+37,,,,,S
+38,13,Ethyl lactate,fruity,1362,"MS,"
+39,,,,,"aroma, RI,"
+40,,,,,S
+41,14,1-Hexanol,green,1367,"MS,"
+42,,,,,"aroma, RI,"
+43,,,,,S
+44,15,Ethyl 2-hydroxybutanoate,rotten,1416,"MS,"
+45,,,,,"aroma, RI,"
+46,,,,,S
+47,16,Hexyl butanoate,green waxy,1423,"aroma, RI,"
+48,,,soapy,,"aroma, RI,"
+49,,,,,S
+50,17,Propyl lactate,fruity,1433,"MS,"
+51,,,,,"aroma, RI,"
+52,,,,,S
+53,18,Ethyl octanoate,fruity,1439,"MS,"
+54,,,,,"aroma, RI,"
+55,,,,,S
+56,19,Acetic acid,vinegar,1453,"MS,"
+57,,,,,"aroma, RI,"
+58,,,,,S
+59,20,Isopentyl hexanoate,fruity,1459,"MS,"
+60,,,,,"aroma, RI,"
+61,,,,,S
+62,21,Furfural,almond woody,1470,"MS,"
+63,,,,,"aroma, RI,"
+64,,,,,S
+65,22,2-Acetylfuran,cocoa bitter,1501,"MS,"
+66,,,,,"aroma, RI,"
+67,,,,,S
+68,23,Furfuryl acetate,fruity bitter,1529,"MS,"
+69,,,,,"aroma, RI,"
+70,,,,,S
+71,24,Ethyl nonanoate,sweet fruity,1523,"MS,"
+72,,,,,"aroma, RI,"
+73,,,,,S

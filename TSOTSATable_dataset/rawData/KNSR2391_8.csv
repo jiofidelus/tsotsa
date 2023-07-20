@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Ingredient,SR-Legacy,SR-Legacy name,Amount,Calories*,Total fat,Saturated fat,Carbohydrate,Total,Protein,Sodium*
+1,,code,,(g),,(g),(g),(g),sugars (g),(g),(g)
+2,Enriched White Rice,20048,"Rice, white,",80,304,0.8,0.1,65.9,0,6.2,8
+3,,,enriched,,,,,,,,
+4,Hydrolyzed Soy,16122,Soy protein,4,13,0.1,0,0,0,3.5,40
+5,Protein,,isolate,,,,,,,,
+6,Carrots (dried),11683,"Carrots,",4,14,0,0,3.2,1.6,0.3,11
+7,,,dehydrated**,,,,,,,,
+8,Peas (dried),11304,"Peas, green,",6,5,0,0,0.9,0.3,0.3,0
+9,,,raw***,,,,,,,,
+10,Sugar (including,19335,"Sugars,",1.5,6,0,0,1.5,1.5,0,0
+11,corn syrup),, granulated,,,,,,,,
+12,Salt,02047,Salt,2.75,0,0,0,0,0,0,1066
+13,Food additives,,,1.75,0,0,0,0,0,0,0
+14,Total,,,100,342,0.9,0.1,71.5,3.4,10.3,1125

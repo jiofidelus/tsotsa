@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,No.,Compounds*,Odor,RI (DB-WAX)b,,RI (HP-5MS)b,,Pre-,Identification,Fractiond,FDe,
+1,,,descriptora,Calculated,Literature,Calculated,Literature,processing,,,Y,R
+2,,,,value,value,value,value,,,,,
+3,,2-Ethyl-6-,roasted,,,,,,,,,
+4,,methylpyrazine,potato,,,,,,,,,
+5,43,"5-Ethyl-2,3.","roasted,",1467,1475,,,LLE,"MS, O, RI, S",NBF,81,9
+6,,dimethylpyrazine*,grain,,,,,,,,,
+7,,Furan,,1497,,,,,,,,
+8,44,2-Acetylfuran,coffee,1497,1506,-,,LLE,"MS, O, RI, S",NBF,6561,27
+9,,Ketones,,,,,,,,,,
+10,45,Acetoin,sweet,1271,1257,705,708,LLE,"MS, O, RI, S","NBF,AF",243,3
+11,,,buttery,,,,1122,,,,,
+12,46,Isophorone*,tobacco,1608,1595,1130,1122,LLE,"MS, O, RI, S",NBF,27,1
+13,,Sulfurs,tobacco,,1383,,1122,LLE,,,,
+14,47,Dimethyl trisulfide,savory,1380,1383,-,,"LLE, HS-","MS, O, RI, S",NBF,27,3
+15,,,"meaty, wine",,,,,SPME,,,,
+16,48,Benzenemethanethiol*,sharp,1623,1637,-,,LLE,"MS, O, RI, S",NBF,6561,6561
+17,,,alliaceous,,,,,,,,,
+18,,Aldehydes,,,,,,,,,,
+19,49,2-Methylbutyraldehyde*,"roasted,",907,912,-,,"LLE, HS-","MS, O, RI, S",-,243,3
+20,,,coffee,,,,,SPME,,,,
+21,50,Furfural*,"woody,bake",1452,1460,833,831,"LLE, HS-","MS, O, RI, S","NBF,AF",27,27
+22,,,,,,,,SPME,,,,
+23,51,Benzaldehyde,"sweet, bitter",1510,1521,-,,LLE,"MS, O, RI, S",NBF,729,9

@@ -1,0 +1,36 @@
+,0,1,2
+0,Issue,US DSLD,Italian DSLD
+1,Legal Definition,Dietary supplement,Food/dietary
+2,,,supplement
+3,Is an ontology/synonym,No,No
+4,list for ingredients,,
+5,provided?,,
+6,Data Retrieval,,
+7,Are search features,Yes,No
+8,available?,,
+9,Download features,Yes,No
+10,available?,,
+11,API (application program,Yes,No
+12,interface)available?,,
+13,Data Maintenance,,
+14,How are labels are kept,Updatesmultiple times in a,Updates monthly
+15,current?,year; moving forward plan,
+16,,"is monthly, brands",
+17,,reviewed at least once per,
+18,,year,
+19,Evaluation and Future,,
+20,Plans,,
+21,What evaluation efforts,Asking known users to,
+22,are in place?,"provide evaluations,",
+23,,observing individuals,
+24,,"using the database,",
+25,,comparative analysis of,
+26,,"related websites,",
+27,,questions from the,
+28,,"database's inbox,Google",
+29,,"Analytics, and use of",
+30,,personasto further test,
+31,,the database,
+32,Are future enhancements,Redesign to better suit,Codifying items also by
+33,planned or scheduled,user needs is scheduled to,LanguaLTM
+34,,launch mid 2021,

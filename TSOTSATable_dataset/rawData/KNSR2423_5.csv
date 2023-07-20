@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,Intra-day precision,,,,
+1,Sample,Average Cc[mg,RSD,Average Cpc[mg,RSD
+2,,g11,[%],8~11,[%]
+3,Red Habanero,17.7,1.9,4.59,1.5
+4,1,,,,
+5,Red Habanero,13.9,1.6,4.06,1.3
+6,2,,,,
+7,Potato chips 5,0.0047,1.8,0.0022,1.9
+8,Inter-day precision,,,,
+9,Red,17.7,1.7,4.59,1.6
+10,Habanerol,,,,
+11,Red,13.9,1.8,4.06,1.2
+12,Habanero2,,,,
+13,Potato chips 5,0.0047,2.7,0.0022,2.3

@@ -1,0 +1,9 @@
+,0,1,2,3,4
+0,Source,DF,Sum of squares,Mean square,Feale.
+1,Regression,,,,
+2,Linear,2,0.002940,0.00147,14.7
+3,Quadratic,2,0.003351,0.00168,16.8*
+4,Interaction,1,0.002209,0.002209,22.1a
+5,Complete,5,0.008500,0.00170,17.0*
+6,Residual,3,0.00030,0.00010,
+7,Total,8,0.00880,,

@@ -1,0 +1,41 @@
+,0,1,2,3,4,5
+0,Monosaccharides,Treatments,Cereals,,,
+1,,,Wheat,Barley,Millet,Sorghum
+2,,Xylanase,39.67 ,52.67 ,53.67 ,63.00 
+3,,Xylanase,0.33h,0.678,0.33g,0.5gef
+4,,Cellulase,54.00,59.67 ,60.33,72.33 
+5,,Cellulase,1.158,0.33efg,0.33efg,0.88bcd
+6,Glucose(%,1mm,0.98ef,1.09cde,2.45b,1.52a
+7,,2 mm,57.18 ,59.41,64.46,74.11 
+8,,2 mm,0.78fg,1.89fg,2.03def,0.49bc
+9,,Native,36.30 ,65.05,74.24 ,79.40 
+10,,Native,0.35h,3.83def,2.69bc,2.42ab
+11,,Xylanase,2.00 ,1.84,1.67 ,1.07
+12,,Xylanase,0.5gbed,0.16cd,0.33cd,0.07d
+13,,Cellulase,1.67 ,2.00 ,1.33 ,1.33 
+14,,Cellulase,0.33cd,0.00bcd,0.33d,0.33d
+15,Galactose (%),1mm,2.39 ,1.80,3.18 ,1.22 
+16,Galactose (%),1mm,0.19b cd,0.26cd,0.16bc,0.11d
+17,,2mm,2.47 ,2.02 ,5.13,2.16 
+18,,2mm,0.16bcd,0.22bcd,0.18a,0.03bcd
+19,,Native,2.38 ,2.06,3.42 ,1.52
+20,,Native,0.70bcd,0.28bcd,0.34b,0.16d
+21,,Xylanase,28.02 ,21.70,17.67 ,17.00
+22,,Xylanase,0.56a,1.06b,1.20cd,0.58cde
+23,,Cellulase,21.67 ,19.00,18.67 ,14.33 
+24,,Cellulase,0.33b,0.58bc,0.33bc,0.33def
+25,Xylose (%),1mm,13.61,14.48,5.97,13.21 
+26,Xylose (%),1mm,0.68efg,0.30def,0.54jk,0.12k
+27,,2mm,18.45,15.33 ,11.30,10.06 
+28,,2mm,0.39bc,0.33cde,0.37fgh,0.47ghi
+29,,Native,27.27 ,16.09 ,7.60,7.40
+30,,Native,0.25a,1.77cde,0.17hij,1.06ij
+31,,Xylanase,28.00,25.67,25.67,17.67 
+32,,Xylanase,0.58a,0.88a,1.45a,0.33bc
+33,,Cellulase,21.33,18.33,18.33,10.67 
+34,,Cellulase,0.88b,0.33bc,0.33bc,0.67e-h
+35,Arabinose (%),1mm,14.43,11.02 ,7.14 ,4.80 
+36,Arabinose (%),1mm,1.11cde,0.71e-h,0.65hi,0.35
+37,,2mm,16.56,11.42,12.61,9.60 
+38,,2mm,0.98cd,0.89efg,0.74def,0.14fgh
+39,,Native,0.90a,0.95e-h,0.56ghi,0.30hi

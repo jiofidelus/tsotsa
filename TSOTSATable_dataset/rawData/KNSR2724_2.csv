@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Azaarene,Detection,Linearity,RSD %,Linearity r
+1,,limit,range,for peak,
+2,,(ng/g of oil)a,(ng/g of oil),areab,
+3,B[h]Q,0.01,0.08-5,3,0.995
+4,B[c]Ac,0.0003,0.002-5,2,0.992
+5,B[a]Ac,0.003,0.02-5,6,0.989
+6,"DB[a,c]Ac",0.003,0.02-5,6,0.998
+7,"DB[a,j]Ac",0.0003,0.002-5,2,0.995
+8,"DB[a,h]Ac",0.0003,0.002-5,4,0.994

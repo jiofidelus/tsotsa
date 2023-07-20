@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,,Vitamin A,,,Vitamin E,,,Vitamin C,,
+1,Sample,Supplement forms,Declared,Assayed,%**,Declared,Assayed,%**,Declared,Assayed,%**
+2,34,Soft gel capsule,400a,3825.9b,-4.0,6.7c,9.34  0.09d,39,45e,61.41.8f,36
+3,35,Soft gel capsule,600a,568  38b,-5.0,10c,14.1  0.48d,41,45e,47.1  1.5f,4.8
+4,36,Soft gel capsule,600a,677  26b,13,10c,12.7  0.36d,27,45e,28.1  0.99f,-37
+5,37,Soft gel capsule,600a,450  20b,25,10c,7.54  0.5od,25,45e,17.9  0.16f,-38
+6,38,Soft gel capsule,600a,689  78a,15,10c,12.6  0.54d,26,45e,35.7  0.28f,20
+7,39,Soft gel capsule,600a,1020  29b,61,10c,10.6 0.27,0,45e,44.2  0.91e,2.0
+8,40,Soft gel capsule,600a,89.8  4.4b,85,10c,4.53  0.24d,-54,45e,35.7  1.5f,20
+9,41,Soft gel capsule,600a,1586.0b,-74,10c,13.6  0.20d,36,45e,43.7  0.2f,3.0
+10,42,Soft gel capsule,800a,1120 34b,40,10c,14.8  0.30d,48,55e,49.5  1.1f,-10
+11,43,Soft gel capsule,600a,12.7  1.0b,-98,5c,3.50  0.15d,-30,11e,6.20  0.1f,-44
+12,44,Soft gel capsule,600a,16.0  0.7b,97,nd,ND,,45e,49.0  1.4f,9.0
+13,45,Soft gel capsule,600a,20.9  0.5b,96,5c,1.40  0.10d,72,11e,5.40  0.20f,-52
+14,46,Soft gel capsule,400a,128  3.7b,-67,6.7c,5.10  0.08d,23,Nd,ND,
+15,47,Soft gel capsule,nd,ND,-,10c,8.50  0.30d,-15,Nd,ND,-
+16,48,Soft gel capsule,600a,176 2.5b,-71,10c,5.60  0.07d,-44,45e,54.1  2.0f,20
+17,49,Suspension,200a,212 20,6.0,nd,ND,-,25e,32.0  0.70f,28
+18,50,Suspension,200a,212 17a,6.0,nd,ND,-,30e,34.5  0.4f,15
+19,51,Suspension,nd,ND,-,nd,ND,-,30e,34.7  0.10f,16
+20,53,Suspension,105a,201 9.1b,-10,nd,ND,-,15e,11.4 0.10f,-24
+21,53,Suspension,105a,22.5  0.7b,-79,0.84c,0.70  0.03d,-18,4.5e,4.20 0.20e,7.0
+22,54,Suspension,350a,ND,-100,nd,ND,=,25e,12.7  0.20f,27
+23,55,Suspension,140a,22.8  0.1b,-83,nd,ND,,10e,7.80  0.07f,22
+24,56,Solution,225a,129  7.1b,-43,2.5c,1.30  0.24d,-46,15e,12.1  of,-19
+25,57,Solution,nd,ND,,nd,ND,-,36e,ND,-100

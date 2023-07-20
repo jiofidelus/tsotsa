@@ -1,0 +1,33 @@
+,0,1,2,3
+0,Operating conditions,Agilent 7700 Series ICP-MS,Agilent 7700 Series ICP-MS,
+1,Nebulizer,,,Quartz concentric (Micromist) 400 L min-1
+2,Spray chamber,Scott-type double-pass water cooled,Scott-type double-pass water cooled,Scott-type double-pass water cooled
+3,Cell geometry,Octopole,Octopole,
+4,Sampling cone,"Nickel,1.0 mm orifice","Nickel,1.0 mm orifice",
+5,Skimmer cone,Nickel.0.75mm orifice,Nickel.0.75mm orifice,
+6,RF power,1400-1500W,1400-1500W,
+7,Reflected power,<10W,<10W,
+8,Standard mode,,,
+9,Plasma gas flow,15L min-1,15L min-1,
+10,Nebulizer gas flow,0.95-1.00 L min-1,0.95-1.00 L min-1,
+11,Auxiliary gas flow,0.99L min-1,0.99L min-1,
+12,Expansion stage,2.0 mbar,2.0 mbar,
+13,Intermediate stage,2.010-4-3.010-4mbar,2.010-4-3.010-4mbar,
+14,Analyser stage,1.010-6-2.010-mbar,1.010-6-2.010-mbar,
+15,Octopole bias,-8V,,
+16,Quadrupole bias,-3V,,
+17,He mode (collision cell mode,,,
+18,He gas flow,4.3mL min-1,4.3mL min-1,
+19,Octopole bias,-18V,,
+20,Quadrupole bias,-15V,,
+21,Acquisition parameters,,,
+22,Mass range,2-260 a.m.u,2-260 a.m.u,
+23,Number of channels,500,,
+24,Dwell time,100S,,
+25,Number of sweeps,500,,
+26,Total acquisition time,219s,,
+27,Isotopes measured,,Analysis Mode,Internal standard
+28,"27Al,51V,52Cr,59Co,71Ga,74Ge60Ni,75As",,He,45Sc
+29,s8Sr,,He,89Y
+30,,,Standard,185Re
+31,121Sb,,Standard,185Re

@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Analyte,Structure,,,,Elemental,Declustering potential,Transitions m/,Collision energy,Cell exit potential
+1,,,,,,composition,[V],Z,[eV],[V]
+2,,,,,,,,15192,-30,20
+3,Methylparaben,,,,,CgHgO3,60,,,
+4,(MP),,,,,CgHgO3,60,151136,20,6
+5,,HO,,,,,,16592,-30,8
+6,Ethylparaben (EP),,,,,CgH1oO3,60,165137,20,6
+7,,HO,,,,,,179  92,35,-10
+8,Propylparaben (PP),,,,,C1oH12O3,60,179137,22,-7
+9,,HO,,,,,,19392,36,9
+10,Butylparaben (BP),,,,CH,C11H14O3,-60,193-137,23,6
+11,,HO,,,,,,22792,37,10
+12,Benzylparaben,,,,,C14H12O3,50,,,
+13,(BzP),,,,,C14H12O3,50,227136,22,6
+14,,HO,,,,,,227133,37,-10
+15,,,H.C,,,,,,,
+16,Bisphenol A (BPA),,,,,C15H16O2,85,227211,42,-3
+17,,HO,,OH,,,,249108,38,-4
+18,Bisphenol S(BPS,,,,,C12H1oO4S,70,24992,50,6
+19,,HO,,OH,,,,335265,-30,3
+20,Bisphenol AF,,,,,C1sH1oF6O2,75,,,
+21,(BPAF),,,,,C1sH1oF6O2,75,335315,29,6
+22,,HO,,OH,,,,19993,~31,6
+23,Bisphenol F (BPF),,,,,C13H12O2,-85,199-123,29,-9
+24,,HO,,OH,,,,,,

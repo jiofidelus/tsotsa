@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,,Overall mean,Repeatability,Repeatability,Recovery,Measurement
+1,,g/100g,,,(%),uncertainty
+2,,,% CV,Horwitz,,g/100g)
+3,,,,(% CV),,
+4,Validated,5.39a,0.08,3.10,89.14,0.39
+5,method,,,,,
+6,Reference,5.11a,5.19,3.13,85.24,0.34
+7,method,,,,,

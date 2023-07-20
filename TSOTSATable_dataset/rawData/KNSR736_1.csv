@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Model Dataset,Model Dataset,,MAE (%),
+1,,,,Soybean oil,Almond oil
+2,,,,volume,volume
+3,PLS,Absorption peaks,Ternary,4.29,4.16
+4,,,Binary,2.67,3.12
+5,,AUCs,Ternary,4.05,3.77
+6,,,Binary,2.63,2.42
+7,MLP,AUCs,Binary and,2.80,2.78
+8,,,Ternary,,

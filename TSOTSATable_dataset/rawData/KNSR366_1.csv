@@ -1,0 +1,25 @@
+,0,1,2
+0,Cut name [number],Cooking procedures,Cooking loss%SD;(N)
+1,Beef offal items,,
+2,Heart (cap-off,Soakb then heat at,43.7 2.6; (10)
+3,[0121],90-100C for 2.0hc,
+4,Kidney [0140],"Soakb,then heat at",53.42.0; (10)
+5,,90-100C for 1.5h,
+6,Liver [0130],"Soakb,then fry to an",15.03.9;(9)
+7,,internal temperature,
+8,,of 72C,
+9,Sweetbread,Soakbthen heat at,15.54.3;10
+10,thymus[0117],90-100C for 30min,
+11,Tongued,"Soakb,then heat at",31.2  4.7; (10)
+12,Swiss-cut[0112],90-100C for 2.0h,
+13,Lamb offal items,,
+14,Heart [0220],"Soakb,then heat at",39.32.5; (10)
+15,,90-100C for 1.5h,
+16,Kidney [0240],Slices of~15mm,28.8  2.4; (10)
+17,,fried for 4 min/side.,
+18,Liver [0230],Soakthen~15mm,25.94.0; (10)
+19,,slices fried for 4 min/side,
+20,Sweetbread,Soakthen heat at,29.21.8; (10)
+21,thymus[0217],90-100C for 20min,
+22,TongueSwiss,Soakthen heat at,25.90.9;(10)
+23,cut[0212],90-100C for20min,

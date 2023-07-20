@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7
+0,Analytical method,Linear range (g L-1),Extraction solvent,LOD,RSD,Extraction time (min),EF,References
+1,,,,(gL1,(%),,,
+2,UALLME-CE-UV,30-100,Trichloromethane,30,3.74,8,,"Wu et al.,2018"
+3,CPE-spectrophotometer,2200,Triton X-114,0.75,4.2,22,37.5,"Bas and Giirkan,2021"
+4,DSPE-LC-MS/MS,2.5-12.5,Acetonitrile,1.1,7.4,15,-,"Huang et al., 2019)"
+5,UACPE-FAAS,4-240,Triton X-45,1.27,6.5,18,70,"Giirkan,2021)"
+6,SALLE-HPLC-DAD,,Acetonitrile:HO,27,2.92,6,-,"Chen et al.,2019"
+7,UPLC-PDA,16.1-21.8,,5.2,<10,4,-,"Pernica et al.,2021"
+8,Magnetic-IL UA-DLLME,3-600,[C8mim][FeCl4],1,1.8,13,175,Presented analytical method

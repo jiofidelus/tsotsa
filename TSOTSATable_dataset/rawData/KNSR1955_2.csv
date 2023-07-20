@@ -1,0 +1,18 @@
+,0,1,2,3,4
+0,Cultivar,Fruit weight (g),Pulp (%),Equatorial,Length
+1,,,,diameter (cm),(cm)
+2,Gocha 1,174  15fg,70.4  1.2ab,6.51  0.4de,9.20  0.2e
+3,Gocha 2,387  12a,78.6  0.3ab,7.50  0.1ab,15.1  0.7a
+4,Gocha 3,1037h,75.5  1.7ab,5.05  0.3f,7.21  0.3f
+5,Gocha 4,249  18cd,74.3  6.7ab,7.00  0.2bede,11.1  0.2bc
+6,Gocha 5,220  11def,77.2  1.7ab,6.82  0.1bede,11.4  0.3bc
+7,Cruceley 1,30113bc,74.0  2.3ab,7.39  0.1ab,11.9  0.6b
+8,Cruceley 3,324  16b,72.7  2.0ab,7.79  0.1a,12.1  0.6b
+9,Cruceley 4,238  23de,70.0  2.6ab,7.16  0.2abecd,9.93  0.7ede
+10,Cruceley 5,22716def,76.9  1.gab,6.94  0.2bede,11.0  0.2bed
+11,Alvarez,237  13de,68.3  1.7ab,6.95  0.1bed,10.0  0.2cde
+12,Camila,227  6de,68.8  1.9ab,6.72  0.05cde,10.0  0.2cde
+13,Monica,195  4efg,66.9  0.9b,6.51  0.1de,9.26  0.1e
+14,San Juan,236  9de,79.7  5.9a,7.24  0.1abe,11.0  0.2bc
+15,Rosario,161  38,71.3  0.gab,6.35  0.2e,6.43  0.4f
+16,Hass,208  10def,76.4  2.0ab,6.89  0.2bed,9.59  0.1de

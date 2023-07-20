@@ -1,0 +1,49 @@
+,0,1,2,3
+0,WWEIA Category Description,No.food,No.food,No. food codes
+1,,codes in,codes,with fortified
+2,,category,fortified,ingred
+3,Wine,12,,1
+4,Liquor and cocktails,78,,12
+5,Beer,9,,
+6,Water,,,
+7,Flavored or carbonated water,5,1,
+8,Enhanced or fortified water,5,5,
+9,Tap water,1,,
+10,Bottled water,1,,
+11,Fats and Oils,,,
+12,Butter and animal fats,16,,1
+13,Margarine,26,20,3
+14,"Cream cheese, sour cream, whipped",14,,
+15,cream,,,
+16,Cream and cream substitutes,19,,
+17,Mayonnaise,11,,
+18,Salad dressings and vegetable oils,54,,
+19,Condiments and Sauces,,,
+20,Mustard and other condiments,38,1,8
+21,"Olives, pickles,pickled",42,,2
+22,vegetables,,,
+23,"Dips, gravies, other sauces",80,3,19
+24,Tomato-based condiments,12,,
+25,Soy-based condiments,8,,
+26,"Pasta sauces, tomato-based",11,,
+27,Sugars,,,
+28,"Jams, syrups, toppings",52,,4
+29,Sugar and honey,10,,
+30,Sugar substitutes,10,,
+31,Infant Formula and Baby Foods,,,
+32,Baby food:cereals,20,19,
+33,Baby food: fruit,52,47,
+34,Baby food:meat and dinners,61,19,
+35,Baby food: yogurt,12,11,1
+36,Baby food: snacks and sweets,35,27,
+37,Baby juice,17,17,
+38,"Formula, ready-to-feed",57,57,
+39,"Formula, prepared from powder",82,82,
+40,"Formula, prepared from",34,34,
+41,concentrate,,,
+42,Baby food: vegetable,31,,
+43,Baby water,1,,
+44,Human milk,1,,
+45,Other,,,
+46,Protein and nutritional powders,18,18,
+47,Not included in a food category,46,11,4

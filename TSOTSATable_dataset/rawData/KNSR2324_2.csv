@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6
+0,Temperature,g/g fat,,Ratio,% mole/mole,% mole/mole,Ratio
+1,,,,,ACB/precursor,ACB/precursor,
+2,,2-DCB,2-TCB,,2-DCB,2-TCB,
+3,Room,2.0,1.20,1.62,1.5,1.8,0.89
+4,Chilled,0.7,0.80,0.88,0.6,1.2,0.48
+5,Frozen,0.5,0.75,0.68,0.4,1.0,0.38

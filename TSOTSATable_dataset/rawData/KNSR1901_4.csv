@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+0,No.b,Se.c,Componentd,aroma attributese,RIf,FD factors,,,,,,,,,,,,,
+1,,,,,,GS1,GS2,GS3,GS4,GS5,GS6,MS1,MS2,MS3,,MS4,MS5,MS6,"Identification"""
+2,53,87,1-phenyl-1-propanone,hawthorn,1784,8,2,1,8,8,8,8,2,0,,2,0,2,MS/RI/O
+3,54,22,benzyl alcohol,floral,1797,0,16,0,8,8,16,1,0,1,,2,2,0,MS/RI/O/STD
+4,55,58,pentanoic acid,sweaty,1814,2,2,4,4,4,8,2,0,0,,2,0,1,MS/RI/O
+5,56,46,"E,E2,4-decadienal",fried,1849,32,64,8,4,4,16,4,4,,0,16,16,8,MS/RI/O/STD
+6,,,,,,,,,,,,,,,,,,,
+7,57,42,"(E,E)- 2,4-undecadienal",buttery,1855,2,2,2,1,1,4,1,,,0,4,0,1,MS/RI/O/STD
+8,58,23,maltol,caramel,1991,8,4,1,22,2,1,2,2,4,0,2,0,4,MS/RI/O
+9,59,23,furaneol,caramel,2014,2,2,1,22,2,2,4,2,0,,0,1,2,MS/RI/O
+10,60,103,dodecanoic acid,metal,2429,2,4,2,2,0,4,4,2,2,,0,0,2,MS/RI/O
+11,61,50,5-hydroxymethylfurfural,cardboard,2456,8,2,2,8,4,32,2,16,2,,2,4,8,MS/RI/O/STD
+12,62,98,hydrocinnamic acid,balsamic,2630,4,4,4,1,2,4,64,2,64,,4,2,128,MS/RI/O
+13,63,63,benzyl benzoate,balsamic,2650,8,4,2,1,2,4,8,2,2,,4,2,16,MS/RI/O
+14,.64,,unknown,fishy,960,8,4,8,16,16,16,22,2,16,,4,4,8,0
+15,65,,unknown,fruity,1465,2,4,2,0,0,4,22,2,0,,2,4,2,0
+16,66,,unknown,floral,1625,2,2,4,2,0,2,0,2,2,,2,2,4,0

@@ -1,0 +1,41 @@
+,0,1,2,3,4
+0,Peak Number,Compound,Peel,Flesh,Standard and wavelength used for quantification
+1,,,mg/100 g dry weight a,,
+2,9,3-O-Caffeoylquinic acid,10.61.5,nqc,5-O-Caffeoylquinic acid / 324 nm
+3,14,5-p-Cumaroyl-quinic acid,4.30.5,nqc,5-O-Caffeoylquinic acid / 324 nm
+4,18,3-p-Cumaroyl-quinic acid,14.12.1,nqc,5-O-Caffeoylquinic acid / 324 nm
+5,21,Catechin,46.2  3.8,11.90.4,Catechin /280nm
+6,23,PAC B-Type (EC-(EC,71.010.4,16.90.8,Catechin /280nm
+7,26,5-O-Caffeoylquinic acid,5.30.8,2.680.04,5-O-caffeoylquinic acid/324 nm
+8,36,Geraniin isomer 1,120.613.2,120.6 3.8,Ellagic acid/280nm
+9,37,Epicatechin,114.517.4,35.3  2.1,Catechin /280nm
+10,41,PAC B-Type (EC-(EC,144.711.5,20.80.5,Catechin/280nm
+11,45,Geraniin isomer 2,9.3  2.1,103.91.7,Ellagic acid/280nm
+12,48,Gallocatechin-gallate,51.64.4,94.3  2.4,Epigallocatechin-gallate /280 nm
+13,49,Cinnamoyl-O-hexoside,13.71.8,18.20.4,Cinnamic acid /280 nm
+14,50,PAC B-Type (E)C-(E)C-(E)C,158.321.3,209.3  2.3,Catechin/280nm
+15,51,PAC B-Type (E)C-(E)C,102.914.0,4.70.4,Catechin /280nm
+16,53,Castalagin isomer 1,28.3 1.0,39.6  1.7,Ellagic acid/280nm
+17,58,PAC B-Type (EC-EC-EC,63.01.0,29.50.9,Catechin/280nm
+18,60,Dimethoxycinnamoyl-O-hexoside,6.1  0.6,nqc,Cinnamic acid /280 nm
+19,64,Castalagin isomer 2,84.6  0.6,41.7  0.3,Ellagic acid/280nm
+20,65,PAC B-Type (EC-EC,117.117.3,36.31.4,Catechin/280nm
+21,67,Nothofagin,16.0  1.9,nq,Phlorizin/280nm
+22,70,Quercetin-hexoside,8.9  1.0,nqc,Quercetin-3-O-D-glucoside/350 nm
+23,71,Quercetin-3--D-glucoside,11.31.5,nqc,Quercetin-3-O-D-glucoside /280 nm
+24,72,Quercetin-glucuronide,25.4  3.2,nqc,Quercetin-3-O-D-glucoside /280 nm
+25,74,Phlorizin,5.2  0.3,nq,Phlorizin/280 nm
+26,78,Dihydroferuloyl-O-hexoside-gallate,27.0  2.9,12.01.3,Gallic acid/280nm
+27,107,Agathisflavone,ndb,81.3 2.3,Amentoflavone / 330 nm
+28,110,Amentoflavone,ndb,8.400.06,Amentoflavone/330nm
+29,,,1260.03.8,887.4  5.7,
+30,,Percentage of the quantified phytochemicals per group,,,
+31,Proanthocyanidins,,52.2 %,35.8 %,
+32,Ellagitannins,,19.3 %,34.5 %,
+33,Flavanols,,16.8 %,15.9%,
+34,Cinnamic acid derivatives,,3.7%,3.4 %,
+35,Quercetin derivatives,,3.6 %,0.0%,
+36,Quinic acid derivatives,,2.7 %,0.3%,
+37,Dihydrochalcones,,1.7%,0.0%,
+38,Biflavonoids,,0.0%,10.1%,
+39,Moisture content (g/100 g),,74.8  0.3,79.0  0.2,

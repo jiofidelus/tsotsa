@@ -1,0 +1,28 @@
+,0,1,2,3,4,5
+0,Compound,Elemental,[M-H]Da,,Error,
+1,shortcut/,composition,Calculated,Experimental,(ppm),(mDa)
+2,name,[M-H],Calculated,Experimental,(ppm),(mDa)
+3,3-CQA,C16H17O9,353.08726,353.08713,0.37,-0.13
+4,4-CQA,C16H17O9,353.08726,353.08729,0.08,0.03
+5,5-CQA,C16H17O9,353.08726,353.08712,0.40,-0.14
+6,First 3-CQA-,C16H9O10,371.09782,371.09789,0.19,0.07
+7,water,,,,,
+8,derivative,,,,,
+9,Second 3-,C16H19O10,371.09782,371.09768,0.38,-0.14
+10,CQA-,,,,,
+11,water,,,,,
+12,derivative,,,,,
+13,First 4-CQA-,C1HgO10,371.09782,371.09798,0.43,0.16
+14,water,,,,,
+15,derivative,,,,,
+16,Second 4-,C16H1gO10,371.09782,371.09781,0.03,-0.01
+17,CQA-,,,,,
+18,water,,,,,
+19,derivative,,,,,
+20,First 5-CQA-,C6HgO10,371.09782,371.09795,0.35,0.13
+21,water,,,,,
+22,derivative,,,,,
+23,Second 5-,C16H19O10,371.09782,371.09784,0.05,0.02
+24,CQA-,,,,,
+25,water,,,,,
+26,derivative,,,,,

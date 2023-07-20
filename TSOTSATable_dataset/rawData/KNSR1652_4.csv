@@ -1,0 +1,17 @@
+,0,1,2,3
+0,Process,Doses,The number,
+1,,(mg/plate),of revertant colonies(plate,of revertant colonies(plate
+2,,,Direct,Indirect
+3,,,mutagenic effect,mutagenic effect
+4,,,(-S9,(+S9)
+5,Raw,6.25,24  7a,203d
+6,,12.50,2110a,154d
+7,,25,22  5a,136d
+8,Steaming,6.25,207b,20 4e
+9,,12.50,247b,22  5e
+10,,25,185b,22  6e
+11,Boiling,6.25,226c,165f
+12,,12.50,176c,265f
+13,,25,124c,194f
+14,Negative control,,973,1029
+15,(Spontaneous),,,

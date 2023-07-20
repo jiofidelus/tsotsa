@@ -1,0 +1,22 @@
+,0,1,2,3
+0,Compounds name,Group,Multiplicity a,(ppm
+1,Valine,-CH3,d,0.997
+2,,-CH3,d,1.050
+3,"2,3-Butandiol",CH3,m,1.139
+4,Ethanol,CH3,t,1.188
+5,Ethyl acetate,CH3,d,1.239
+6,3-Hydroxybutanone,CH3,d,1.308
+7,Lactic acid,CH3,d,1.338
+8,Alanine,CH3,d,1.483
+9,Acetic acid,CH3,s,1.925
+10,Proline,-CH2,m,"1.985,2.037"
+11,,-CH2,m,"2.075,2.348"
+12,Succinic acid,CH2,s,2.408
+13,Citric acid,CH2,m,2.649-2.759
+14,Turanose,C(1H,d,5.308
+15,Nigerose,C(1H,m,5.367-5.389
+16,Kojibiose,C(1H,d,5.455
+17,Tyrosine,Ar-C(3H C(5H,d,6.907
+18,,Ar-C(2H C(6H,d,7.198
+19,Phenylalanine,Ar-C(2H C(6H,d,7.334
+20,,Ar-C(3H C(5H,d,7.428

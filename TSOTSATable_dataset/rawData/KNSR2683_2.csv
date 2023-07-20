@@ -1,0 +1,8 @@
+,0,1,2
+0,Time (min:s),Temperature (C,Step
+1,00:00,25,Start
+2,01:00,310,Ramp
+3,00:30,310,Drying
+4,01:30,650,Ramp
+5,00:30,650,Decomposition
+6,01:30,25,Cooling

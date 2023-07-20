@@ -1,0 +1,6 @@
+,0,1,2,3
+0,Tocopherols,Calibration curve,R2,LODa
+1,,(CgmL-1),,gmL-1
+2,-T,CPA=1.34 C-T+0.16,0.991,0.56
+3,(B+y)-T,CPA=7.96 C(+)-T+0.08,0.994,0.18
+4,8-T,CPA=8.15 Ca-T-1.21,0.990,0.32

@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Model training,G.glabra,G. uralensis,G.inflata,Accuracy (%)
+1,G.glabra,20,0,0,100
+2,G.uralensis,0,16,0,100
+3,G.inflata,0,0,10,100
+4,Overall accuracy,-,,,100
+5,Model Validation,G.glabra,G.,G.inflata,Accuracy
+6,,,uralensis,,(%)
+7,G.glabra,10,0,0,100
+8,G.uralensis,0,6,0,100
+9,G.inflata,0,0,6,100
+10,Overall validation,-,-,-,100
+11,accuracy,,,,

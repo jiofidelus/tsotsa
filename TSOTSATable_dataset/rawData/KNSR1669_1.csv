@@ -1,0 +1,34 @@
+,0,1,2,3,4
+0,Reagents,Penalty,Penalty point,Hazard,Reagent
+1,,point,(Hazard-,pictograms,penalty points
+2,,(Amount),"physical,",,(Amount x
+3,,,"environmental,",,Hazard)
+4,,,health),,
+5,STB,<10ml,More severe,1,2
+6,,(1,hazard(2,,
+7,SDS,<10ml,More severe,3,6
+8,,(1),hazard(2),,
+9,Caffeine,<10ml,Less severe,1,1
+10,,(1,hazard(1),,
+11,5-HMF,<10ml,Less severe,1,1
+12,,(1,hazard (1,,
+13,Sodium,<10ml,Less severe,1,1
+14,hydroxide,(1,hazard (1),,
+15,Energy,Penalty point,,,Energy
+16,,,,,penalty points
+17,Analytical,<0.1 KW/h0,,,0
+18,balance,,,,
+19,Vortex,<0.1KW/h0,,,0
+20,Centrifuge,<0.1KW/h0),,,0
+21,CE,<0.1 KW/h (0,,,0
+22,,,,,Occupational
+23,Occupational,Penalty point (Occupational hazard),Penalty point (Occupational hazard),,hazard
+24,hazard,,,,penalty points
+25,,,,,1
+26,,Amount,Hazard,Treatment,Waste penalty
+27,Waste,Amount,Hazard,Treatment,points
+28,,(5,Low1,(2,5
+29,points,,,17,
+30,Analytical,,,,
+31,Eco-Scale,83,,,
+32,total score,,,,

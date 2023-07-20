@@ -1,0 +1,6 @@
+,0,1,2
+0,Stage,Time (min),TemperatureC
+1,1 (ramp),8,160
+2,2 (hold),3,160
+3,3 (ramp),5,200
+4,4 (hold),10,200

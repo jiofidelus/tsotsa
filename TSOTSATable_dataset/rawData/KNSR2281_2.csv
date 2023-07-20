@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8
+0,Meat products,Number of,Number of,Number of samples with,,Number of samples with,Nitrate,Mean nitrate,Nitrate
+1,,meat,analyzed,quantifiable nitrate,,quantifiable nitrite,positivity,concentration,concentration range
+2,,products,samples,concentrations,concentrations,concentrations,(%),mgkg*,(mg kg~1)
+3,Boneless pork,2,6,0,0,0,0,NQ,NQ
+4,frozen seasoned,,,,,,,,
+5,meat,,,,,,,,
+6,Bone-in pork,1,3,0,0,0,0,NQ,NQ
+7,frozen seasoned,,,,,,,,
+8,meat,,,,,,,,
+9,Beef frozen,2,6,,6,0,100,20.8*,8.932.3
+10,hamburger,,,,,,,,
+11,Beef frozen,1,3,,3,0,100,11.0*,8.713.0
+12,seasoned meat,,,,,,,,
+13,Chicken frozen,1,3,3,3,0,100,16.7*,13.123.7
+14,hamburger,,,,,,,,
+15,Boneless chicken,2,6,0,0,0,0,NQ,NQ
+16,frozen seasoned,,,,,,,,
+17,meat,,,,,,,,
+18,Bone-in chicken,1,3,0,0,0,0,NQ,NQ
+19,frozen seasoned,,,,,,,,
+20,meat,,,,,,,,

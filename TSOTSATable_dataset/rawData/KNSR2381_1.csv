@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8,9
+0,order,suborder,infraorder,superfamily,family,species,scientific name,qualitative PCRa,,real-time PCR
+1,,,,,,,,eukaryotic,crustacean,Ct  SDb
+2,,,,,,,,(18S rRNA,16SrRNA,
+3,Decapoda,Dendrobranchiata,,Penaeoidea,Penaeidae,whiteleg shrimp,Litopenaeus vannamei,+,+,20.20  0.30
+4,,,,,,speckled prawn,Metapenaeus monoceros,+,+,23.53  0.36
+5,,,,,,Indian white prawn,Fenneropenaeus indicus,+,+,23.40  0.21
+6,,,,,,giant tiger prawn,Penaeus monodon,+,,22.17 0.09
+7,,,,,,Jinga shrimp,Metapenaeus affinis,+,+,20.22  0.09
+8,,,,,,green tiger prawn,Penaeus semisulcatus,+,+,23.88  0.16
+9,,,,,Solenoceridae,Argentine red shrimp,Pleoticus muelleri,+,+,21.79  0.21
+10,,,,,,razor mud shrimp,Solenocera melantho,+,+,22.01  0.07
+11,,,,,,coastal mud shrimp,Solenocera crassicornis,+,+,20.60  0.38
+12,,,,,,knife shrimp,Haliporoides triarthrus,+,+,20.53  0.28
+13,,,,,Aristeidae,scarlet shrimp,Aristaeopsis edwardsiana,+,+,20.470.11
+14,,Pleocyemata,Caridea,Palaemonoidea,Palaemonidae,common prawn,Palaemon serratus,+,+,
+15,,,Astacidea,Nephropoidea,Nephropidae,Norway lobster,Nephrops norvegicus,+,+,20.28  0.06
+16,,,,,,European lobster,Homarus gammarus,+,+,21.140.12
+17,,,Achelata,,Palinuridae,Caribbean spiny lobster,Panulirus argus,+,,
+18,,,Brachyura,Portunoidea,Portunidae,smooth swimming crab,Portunus validus,+,+,-
+19,,,,,,velvet swimming crab,Necora puber,+,+,-
+20,,,,Cancroidea,Cancridae,edible crab,Cancer pagurus,+,+,-

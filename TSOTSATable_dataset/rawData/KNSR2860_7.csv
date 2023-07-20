@@ -1,0 +1,23 @@
+,0,1,2,3
+0,File,Field,Description of field,Current
+1,name,,,number of
+2,,,,records
+3,Food details,,,5656
+4,,Product Identifier,"GTIN,UPC or EAN codes",
+5,,,identifying the food,
+6,,Ingredients,The list of ingredients (as it,
+7,,,appears on the product label);,
+8,,,mainly from BFPD,
+9,,Food category,"Type of food, based on IRI2",
+10,,Description,Description of the food,
+11,,Source,BFPD or Other,
+12,Parsed ingredients,Parsed ingredients,,8348
+13,,Ingredients_parsed,Text string output,
+14,,Counts,Count of occurrence,
+15,,Product Identifier,"GTIN,UPC or EAN codes that",
+16,,,contain the ingredient_parsed,
+17,Thesaurus,,,6533
+18,,Ingredients parsed,Text string output,
+19,,Preferred,Preferable term for the parsed,
+20,,descriptor,ingredients,
+21,,Date added,Date added to Thesaurus,

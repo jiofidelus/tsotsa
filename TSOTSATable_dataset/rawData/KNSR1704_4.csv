@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Vitamin,Treatment,Conditions,Food,Losses (%),References
+1,D,Cooking,,Beef,35-40,Bennink and Ono
+2,,,,,,(1982)
+3,Ds,Broiling,,Lean beef,11,
+4,,Roasting,,,12,
+5,,Braising,,,20,
+6,,Baking,"172 or 200C,20 min",Fish,<10,Mattila et al.(1999)
+7,,,"172C,20 min",Baltic herring,23,
+8,,Boiling,10 min,Yolks,<10,
+9,25-OHD3*,,,,611,

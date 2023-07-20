@@ -1,0 +1,24 @@
+,0,1,2
+0,Number of articles,,Explanation of the number and disposition of articles
+1,475,,"Total number of articles retrieved by the literature search (approximately 275 on fruits,"
+2,,,"vegetables, and beverages other than citrus fruits and tea and 200 on citrus fruits and tea"
+3,378,,Total number of articles excluded for various reasons
+4,,No.,Reason for exclusion
+5,,80,"Development of analytical methods for identification only, no"
+6,,,analytical data
+7,,37,Data on compounds not used in this database or data given as totals
+8,,,of a subclass instead of as individual compounds of the subclass
+9,,40,"Insufficient documentation for evaluation,data reported on dry"
+10,,,weight basis without information on moisture content or unable to
+11,,,evaluate because of the non-English language
+12,,16,"General review articles,no analytical data"
+13,,14,"Articles on antioxidant activity of the flavonoids, no analytical data"
+14,,5,"Articles on bioavailability of the flavonoids,no analytical data"
+15,,158,Articles on citrus fruits and tea weeded out for various reasons
+16,,,mentioned above
+17,,28,Rejected after critical review for unacceptable analytical procedures
+18,,,"or methods,old data,or unusual food"
+19,97,Total number of,
+20,,articles that,
+21,,contributed data to,
+22,,this database,

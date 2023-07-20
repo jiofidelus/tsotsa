@@ -1,0 +1,59 @@
+,0,1,2,3,4,5,6,7
+0,No,Polyphenols group,Rt,Amax,MW,MSm|z,MS2(m|z),Compound
+1,,,(min),(nm),,,,
+2,1,Flavan-3-ols,2.98,279,866,865.197,"577.135, 289.075",Proanthocyanidin trimer 1
+3,,,,,,[M-H],,
+4,2,Anthocyanins,3.11,517,595,595.001 [M,271.060,"Pelargonidin-3,5-diglucoside da Silva et al.,2007"
+5,,,,,,+H]*,,
+6,3,Ellagitannins,3.21,243,784,783.194,"481.102,301.076",Bis-HHDP-glucoseKajdZanoska et al.2010
+7,,,,,,[M-H],,
+8,4,Ellagic,3.78,252,448,447.313,"300.001, 257.406","Ellagic acid deoxyhexoside (KajdZanoska et al.,2010"
+9,,acid+conjugates,,,,[M-H],,
+10,5,Flavan-3-ols,3.90,280,866,865.197,"577.135,289.075",Proanthocyanidin trimer 2
+11,,,,,,[M-H],,
+12,6,Flavan-3-ols,4.32,278,578,577.139,289.076,Proanthocyanidin dimer 1
+13,,,,,,[M-H],,
+14,,Anthocyanins,4.53,520,705,705.268 [M,543.112,Epiafzelechin-4-8-pelargonidin-3-glucosideda Silva et al.
+15,,,,,,+H]*,"407.166,271.060",2007)
+16,,Flavan-3-ols,4.60,280,578,577.139[M-H],289.076,Proanthocyanidin dimer 2
+17,9,Flavan-3-ols,4.67,280,866,865.197,"577.135,289.075",Proanthocyanidin trimer 3
+18,,,,,,[M-H],,
+19,10,Anthocyanins,4.69,516,449,449.106 [M+H]*287.057,449.106 [M+H]*287.057,Cyanidin-3-glucoside
+20,11,Flavan-3-ols,4.82,279,290,289.069,,(+)-Catechin
+21,,,,,,[M-H],,
+22,12,Hydroxycinnamic,4.96,320,326,325.280,163.311,p-Coumaroyl-hexose
+23,,acids,,,,[M-H],,
+24,13,Anthocyanins,5.18,518,433,433.113[M+H]271.119,433.113[M+H]271.119,Pelargonidin-3-glucoside
+25,14,Flavones,5.24,340,432,431.099,269.044,Apigenin-hexoside
+26,,,,,,[M-H],,
+27,15,Hydroxycinnamic,5.31,312,450,449.507,"287.220,193.037",Ferulic acid hexose derivative
+28,,acids,,,,[M-H],,
+29,16,Anthocyanins,5.47,512,433,+H]*,271.060,Pelargonidin-3-galactoside
+30,17,Anthocyanins,5.60,506,579,579.227[M+H]*,433.052,"Pelargonidin-3-rutinoside (Oszmianski and Wojdyto,2009)"
+31,18,Anthocyanins,5.91,518,535,535.109 [M+H]*,287.057,"Cyanidin-3-malonylglucosideda Silva et al.,2007)"
+32,19,Hydroxycinnamic,6.18,312,450,449.377,"287.220, 193.037",Ferulic acid hexose derivative
+33,,acids,,,,[M-H],,
+34,20,Hydroxycinnamic,6.34,320,342,341.222,179.440,Caffeicacid-hexoside
+35,,acids,,,,[M-H],,
+36,21,Ellagitannins,6.36,236,936,935.482,"633.100, 301.205","Galloyl-bis-HHDP-glucose isomer 1Kajdzanoska et al.,2010"
+37,,,,,,[M-H],,
+38,22,Anthocyanins,6.43,520,519,519.114 [M+H]*,271.060,"Pelargonidin-3-malonylglucoside(Oszmianski and Wojdyto,2009"
+39,23,Flavones,6.53,360,474,473.101,269.044,"Apigenin-acetyl-glucoside (Kontogianni et al., 2013)"
+40,,,,,,[M-H],,
+41,24,Ellagitannins,6.58,256,936,935.482,"633.100,301.205","Galloyl-bis-HHDP-glucose isomer 2KajdZanoska et al.,2010"
+42,,,,,,[M-H],,
+43,25,Ellagic,7.01,253,302,301.205,-,Ellagic acid
+44,,acid+conjugates,,,,[M-H],,
+45,26,Ellagitannins,7.22,263,936,935.482,"633.100,301.205","Galloyl-bis-HHDP-glucose isomer 3 (KajdZanoska et al.,2010)"
+46,,,,,,[M-H],,
+47,27,Ellagitannins,7.43,270,936,935[M-H],"633.100, 301.205","Galloyl-bis-HHDP-glucose isomer 4(KajdZanoska et al.,2010"
+48,28,Flavonols,7.48,356,478,477.402,"301.352, 179.440","Quercetin-3-glucuronide(Aaby et al.,2007a,b"
+49,,,,,,[M-H],,
+50,29,Flavones,7.91,340,432,431.099,269.044,Apigenin-hexoside
+51,,,,,,[M-H],,
+52,30,Flavonols,8.22,347,448,447.257,285.039,Kaempferol-3-glucoside
+53,,,,,,[M-H],,
+54,31,Flavonols,8.80,348,534,533.150,285.025,"Kaempferol-malonylglucoside(Aaby et al.,2007a,b"
+55,,,,,,[M-H],,
+56,32,Flavonols,10.58,354,594,593.256,285.025,"Kaempferol-coumaroylglucoside(Aaby et al.,2007a,b"
+57,,,,,,[M-H],,

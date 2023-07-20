@@ -1,0 +1,48 @@
+,0,1,2,3,4,5
+0,Peak no.,Compounds,,Relative amount (SD)*,,Odour description
+1,,,D101,D2,D24,
+2,,,n=5,n=4,n=3,
+3,3.,Ethyl acetate,0.28b,0.61ab,0.93a,"Pleasant ethereal fruity,brandy-like odour"
+4,,,(0.20),(0.21),(0.29),
+5,4.,Methyl propanoate,0.97a,0.88a,0.71a,Fruity odour reminiscent of rum
+6,,,(0.18),(0.27),(0.15),
+7,7.,Ethyl propanoate,3.11a,1.85a,2.53a,Odour reminiscent of rum and pineapple
+8,,,(1.24),(0.15),(0.29),
+9,8.,Ethyl 2-methyl propanoate,0.46a,0.51a,0.52a,Fruity aromatic odourl
+10,,,(0.10),(0.07),(0.06),
+11,9.,Propyl acetate,0.19b,0.09b,0.56a,"Fruity, pear and raspberry-like odour"
+12,,,(0.03),(0.11),(0.08),
+13,10.,Methyl butanoate,0.30a,0.45a,Nd,Apple-like odour
+14,,,(0.08),(0.15),,
+15,11.,Methyl 2-methyl butanoate,4.07a,2.33b,2.29b,"Sweet fruity, apple-like odourl"
+16,,,(0.37),(0.89),(0.89),
+17,12.,Ethyl butanoate,0.85b,2.22a,0.04b,Fruity odour with pineapple undertone
+18,,,(0.38),(0.14),(0.06),
+19,13.,Propyl propanoate,4.63a,1.74a,3.81a,Complex fruity odour reminiscent of apple banana
+20,,,(2.82),(0.40),(1.52),
+21,14.,Ethyl 2-methylbutanoate,21.89a,29.68a,4.97b,"Powerful green, fruity apple-like odour"
+22,,,(6.58),(8.66),(1.76),
+23,15.,Ethyl 3-methylbutanoate,0.32a,0.22a,0.22a,Fruity odour reminiscent of apple
+24,,,(0.04),(0.04),(0.19),
+25,17.,Propyl butanoate,0.95a,0.63a,0.95a,Pineapple and apricot-like odour
+26,,,(0.48),(0.07),(0.27),
+27,18.,Propyl 2-methylbutanoate,12.67a,4.77a,11.30a,
+28,,,(6.02),(1.94),(8.74),
+29,19.,Propyl 3-methylbutanoate,0.19a,Nd,0.38a,Fruity odourl
+30,,,(0.06),,(0.16),
+31,20.,Ethyl 2-butenoate,Nd,0.14,Nd,
+32,,,,(0.03),,
+33,22.,Methyl hexanoate,0.32b,1.70a,Nd,Ether-like odour reminiscent of pineapple
+34,,,(0.46),(0.11),,
+35,23.,3-methylbutyl propanoate,0.73a,Nd,0.60a,Pineapple-apricot like odour
+36,,,(0.77),,(0.04),
+37,26.,Ethyl hexanoate,1.17b,5.52a,Nd,Powerful fruity odour with pineapple-banana note'
+38,,,(0.70),(0.34),,
+39,28.,Propyl hexanoate,0.58a,0.45ab,0.31b,"Ether-like odour with pineapple, blackberry undertone"
+40,,,(0.17),(0.06),(0.03),
+41,29.,Ethyl heptanoate,0.15a,0.25a,0.15a,Fruity odour reminiscent of cognac; winey-brandy odour
+42,,,(0.14),(0.03),(0.14),
+43,32.,Methyl octanoate,0.22a,0.10a,Nd,"Powerful winey, fruity, orange-like odour"
+44,,,(0.15),(0.12),,
+45,33.,Ethyl octanoate,0.55a,0.55a,0.26a,Pleasant fruity floral odour with wine and apricot note
+46,,,(0.29),(0.11),(0.08,

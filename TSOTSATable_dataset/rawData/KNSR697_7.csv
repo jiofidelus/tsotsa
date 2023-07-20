@@ -1,0 +1,40 @@
+,0,1,2,3,4,5
+0,Food,No.of,No.of,Sodium,Potassium,NaKrat
+1,,brands,purchases,(mg/100g),mg/100g),(mmol b
+2,,,per brand,,,
+3,Chicken,,,,,
+4,Continental(packet mix),,,,,
+5,regular,1,4,360+7a,54+3a,11.4
+6,salt-reduced,1,4,170+gc,98+5c,3.0
+7,Heinz(canned concentrate),Heinz(canned concentrate),,,,
+8,regular,1,4,39011a,90+4a,7.4
+9,no added salt,1,4,10014c,53+2b,3.2
+10,Rosella (canned concentrate),Rosella (canned concentrate),,,,
+11,regular,1,4,400+13a,76+6a,8.9
+12,salt-reduced,1,4,180+9c,74+3a,4.2
+13,All brands,,,,,
+14,regular,11,1+,38074a,53+19a,12.0
+15,salt-reduced,4,1+,200+54b,72+21a,4.8
+16,no added salt,1,4,100+14*,53+2*,3.2
+17,Chicken noodle,,,,,
+18,Continental (packet mix),,,,,
+19,regular,1,4,400+ga,11+2a,60.7
+20,salt-reduced,1,4,170+6c,14+2a,21.1
+21,All brands,,,,,
+22,regular,10,1+,450+47a,2710a,28.3
+23,salt-reduced,2,4,240+86b,20+ga,19.9
+24,Tomato,,,,,
+25,Heinz (canned concentrate),Heinz (canned concentrate),,,,
+26,regular,1,4,30012a,170+6a,3.0
+27,no added salt,1,4,36+1c,170+ga,0.4
+28,Rosellia(canned concentrate),Rosellia(canned concentrate),,,,
+29,regular,1,4,410+6a,240+7a,3.0
+30,salt-reduced,1,4,180+8c,230+3a,1.3
+31,All brands,,,,,
+32,regular,9,1+,350+51*,170+36*,3.5
+33,salt-reduced,1,4,180+8*,230+3*,1.3
+34,no added salt,1,4,36+1*,170+8*,0.4
+35,Mushroom,,,,,
+36,Continental (packet mix),Continental (packet mix),,,,
+37,regular,1,4,310l1a,15011a,3.5
+38,salt-reduced,1,4,1509c,140+8a,1.8

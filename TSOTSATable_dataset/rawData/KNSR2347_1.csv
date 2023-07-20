@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,From regression analysis,From regression analysis,,,,,Precision,,Accuracy
+1,,Linear,SlopeSD,InterceptSD,Determination,"aLOD,","LOQ,",Repeatability (as,Intermediate,Recovery
+2,Calibration type,rangeg,,,"coefficient,r","aLOD,","LOQ,",RSD% for same,precision (as RSD%,%
+3,,L-1,,,,gL1,gL-1,"day, 5, 25 and",for three consecutive,
+4,,,,,,,,"100g L-1,n:5","days,5,25 and",
+5,,,,,,,,,"100g L-1,n:5",
+6,By calibration curve,2.5-125,7.760.5,(3.860.2,0.993,0.85,2.57,3.5-5.1,4.1-6.3,92.1-98.5
+7,in solvent,,10-4,10-3,,,,,,
+8,By matrix-matched,4.0-160,(8.250.6,4.350.3,0.992,1.21,3.67,3.8-5.7,4.5-7.1,91.5-96.7
+9,calibration curve,,10-4,10-3,,,,,,
+10,prepared from,,,,,,,,,
+11,beer/wine extracts,,,,,,,,,
+12,"bMatrix effect,%",+6.31%,,,,,,,,
+13,'Sensitivity,23.2,,,,,,,,
+14,enhancement,,,,,,,,,
+15,factor(EF,,,,,,,,,
+16,Pre-concentration,62.5,,,,,,,,
+17,factor(CF,,,,,,,,,

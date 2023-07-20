@@ -1,0 +1,68 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Sample,Brand,Country of,PDO/Organic,Crop,Production,Oil category,Median for positive,Median for positive,,Median of negative,Principal
+1,,,production,,year,date,assigned by,attribute,,,attribute (adding 3,defect
+2,,,,,,,panel,Fruity,Bitter,Pungent,blank tasters),
+3,s1,Ole SPANA,Spain,1,2017,"October,",EVOO,2.0,3.5,3.0,,
+4,,,,,,2017,,,,,,
+5,S2,Ole SPANA,Spain,-/-,2017,"October,",EVOO,3.0,4.0,3.0,0,
+6,,,,,2017,2017,,2.0,3.0,,,
+7,S3,Ole SPANA,Spain,-1-,2017,2017,EVOO,2.0,3.0,2.0,0,
+8,S4, La Espanola,Spain,1,2017,"March, 2017",EVOO,2.0,4.0,3.0,0,
+9,S5,La Espanola,Spain,,2017,"March,2017",EVOO,3.0,4.0,3.0,0,
+10,S6, La Espanola,Spain,-/-,2017,"March, 2017",EVOO,2.0,3.0,2.0,0,
+11,S7,San.,Spain,-1-,2017,"November,",EVOO,2.5,3.0,3.5,0,
+12,S8,San.,Spain,-/-,2017,"November,",EVOO,2.0,3.5,2.0,0,
+13,,Francisco,,,,2017,,,,,,
+14,$9,San.,Spain,-/-,2017,"November,",EVOO,2.5,2.0,2.0,0,
+15,,Francisco,,,,2017,,,,,,
+16,S10,BAENA,Spain,PDO/-,2017,"September,",EVOO,2.5,3.5,3.0,0,
+17,,,,,2017,2017,,,3.5,,,
+18,S11,BAENA,Spain,PDO/-,2017,"September,",EVOO,3.0,3.5,3.0,,
+19,,,,,,2017,,,,,,
+20,S12,BAENA,Spain,PDO/-,2017,"September,",EVOO,2.5,3.5,4.0,0,
+21,S12,LOVINA,,,,2017,,,3.5,,,
+22,S13,LOVINA,Spain,-/-,2017,"July 10,",voo,2.0,2.0,2.0,3.0 (2.0),Rancid
+23,S14,LOVINA,Spain,-/-,2017,"July 10,",voo,3.0,2.0,3.0,1.0 (0.0),Rancid
+24,,,,,,2017,,,,,,
+25,S15,Ole SPANA,Spain,-1-,2018,"February,",EVOO,2.0,5.0,4.0,0,
+26,,,,,,2018,,,,,,
+27,S16,Ole SPANA,Spain,-1-,2018,"February,",EVOO,2.0,5.0,4.0,0,
+28,,Ole SPANA,,,2018,2018,,,3.0,,,
+29,S17,Ole SPANA,Spain,-1-,2018,"February,",EVOO,3.0,3.0,3.0,0,
+30,,,,,2018,2018,,,5.0,,,
+31,S18,Ole SPANA,Spain,-/-,2018,2018,EVOO,2.0,5.0,4.0,0,
+32,G1,KALLISTO,Greece,"PDO,",2017,"March, 2017",EVOO,2.0,0,3.0,,
+33,,,,Koroneiki,,,,,,,,
+34,,,,"PDO,",2017,,,,,,,
+35,G2,KALLISTO,Greece,"PDO,",2017,"March, 2017",EVOO,2.0,0,3.0,0,
+36,,,,Koroneiki.,,,,,,,,
+37,,,,variety/-,,,,,,3.0,,
+38,G3,KALLISTO,Greece,"PDO,",2017,"March, 2017",EVOO,2.0,0,3.0,0,
+39,,,,Koroneiki,2017,,,,0,3.0,,
+40,,,,variety/ -,,,,,1.0,,,
+41,G4,KALLISTO,Greece,"PDO,",2016,"July, 2016",voo,0,1.0,3.0,2.0 (0.5),Fusty
+42,,,, Koroneiki,,,,,,,,
+43,G5,KALLISTO,Greece,"PDO,",2016,"July, 2016",voo,1.0,2.0,2.0,2.0 (0.0),Fusty
+44,,,,Koroneiki,,,,,2.0,,,Fusty
+45,,,,variety/ -,,,,2.0,,,,
+46,G6,KALLISTO,Greece,"PDO,",2016,"July, 2016",voo,2.0,0,2.0,3.0 (1.5),Musty/
+47,,,,Koroneiki,,,,,,,,Rancid
+48,G7,ILIAAA, Kalamata/,PDO/-,2017," July, 2017",EVOO,2.0,0,3.5,0,
+49,,,Greece,,,,,1.0,2.0,,,
+50,G8,ILIAAA,Greece,PDO/-,2017,"July, 2017",EVOO,1.0,2.0,3.0,0,
+51,G9,ILIAAA, Kalamata/,PDO/-,2017,"July, 2017",EVOO,1.0,3.0,2.0,0,
+52,G10,IMINOS,Crete/Greece,-/-,2018,"March, 2018",EVOO,3.0,1.0,2.0,,Musty/
+53,G11,KALLISTO,Greece,"PDO,",2017,"March, 2017",voo,2.0,1.0,1.0,2.0 (1.0),Rancid
+54,,,, Koroneiki,,,,,1.0,,,Rancid
+55,G12,KALLISTO,Greece,"PDO,",2017,"October,",voo,1.0,1.0,1.0,2.0 (1.3),Musty/
+56,,,,Koroneiki,,2017,,,,,,Rancid
+57,,,,"PDO,",,,,,,,,
+58,G13,KALLISTO,Greece,"PDO,",2017,"March, 2017",vOo,1.5,1.0,2.0,1.0 (0.5),Musty/
+59,,,,Koroneiki,,,,,1.0,,,Rancid
+60,,,,variety/-,,,,,,,,
+61,G14,ILIAAA,Kalamata/,PDO/-,2018,"March, 2018",EVOO,2.0,1.5,1.8,0,
+62,,ILIAAA,Greece,,,,EVOO,,,,,
+63,G15,ILIAAA,Kalamata/,PDO/-,2018,"March, 2018",EVOO,2.0,1.0,1.5,,
+64,,,Greece,,,,,,1.0,,,
+65,G16,ILIAAA, Kalamata/,PDO/-,2018,"March, 2018",EVOO,2.0,2.0,2.0,0,
+66,,,Greece,,,,,,,,,

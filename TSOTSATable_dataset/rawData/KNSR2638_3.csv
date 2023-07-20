@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7
+0,,,AFM1 found by the aptasensor (ng mL-1),AFM1 found by the aptasensor (ng mL-1),Accuracy (%Recovery),Accuracy (%Recovery),RSD (<30%),
+1,Sample,AFM1 concentration measured by HPLC (ng mL-1),,,,,,
+2,Sample,,Intra day,Inter day,Intra day,Inter day,Intra day,Inter day
+3,Raw milk-1,0.089,0.100,0.097,112.4,108.6,1.3,6.3
+4,Raw milk-2,0.066,0.055,0.053,84.8,81.6,12.5,16.0

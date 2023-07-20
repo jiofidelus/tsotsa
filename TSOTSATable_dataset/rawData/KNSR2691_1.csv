@@ -1,0 +1,40 @@
+,0,1,2,3,4,5,6,7,8
+0,Food,Serving,Weight,Calories,Protein,Fat,Available,a Defaulted or,(bGI value of
+1,,size,(g),,(g),(g),carbohydrate (g),calculated GI,zero for low
+2,,,,,,,,values for low,carbohydrate
+3,,,,,,,,carbohydrate,foods
+4,,,,,,,,foods,
+5,Breakfast,,,,,,,,
+6,Tomato juice,8 FO,243,41,1.85,0.12,9.33,38,38
+7,Whole wheat bread,2 slices,57,140,5.50,1.90,19.61,72,72
+8,/Peanut butter,2 tbsp,32,190,8.09,16.25,4.37,36,36
+9,Cornflakes,1 cp,28,101,1.85,0.16,23.69,80,80
+10,Skim milk,1/2 cp,237,42,4.13,0.10,6.07,32,32
+11,Coffee,1 cp,237,2,0.28,0.05,0.00,0,0
+12,Lunch,,,,,,,,
+13,Tuna melt sandwich,,,,,,,,
+14,Tuna,2 oz,57,66,14.46,0.46,0.00,0,0
+15,American cheese,1oz,28,106,6.28,8.86,0.45,34,0
+16,Tomato,2 slices,40,7,0.35,0.08,1.09,50,0
+17,Mayonnaise,2 tbsp,28,197,0.30,21.50,1.07,57,0
+18,White bread,2 slices,50,133,3.82,1.64,24.10,73,73
+19,Carrot sticks,4 strips,16,7,0.15,0.04,1.08,54,54
+20,Celery sticks,4 strips,16,3,0.11,0.03,0.22,50,0
+21,Fruit salad,,,,,,,,
+22,Canned peaches,1/4 cp,56,43,0.30,0.08,9.76,58,58
+23,Sliced banana,1/4 cp,38,33,0.41,0.12,7.59,62,62
+24,Grapes,1/4 cp,38,26,0.27,0.06,6.49,43,43
+25,Skim milk,1 cp,245,83,8.26,0.20,12.15,32,32
+26,Dinner,,,,,,,,
+27,Chicken breast,1 medium,86,149,26.58,3.88,0.00,0,0
+28,Baked potato,1 medium,173,161,4.32,0.22,32.78,75,75
+29,/Sour cream,1 tbsp,14,28,0.39,2.78,0.53,34,0
+30,Green beans,1/2 cp,63,22,1.18,0.18,2.92,50,0
+31,Mixed greens salad,1 cp,55,9,0.84,0.13,0.67,50,0
+32,/French dressing,2 tbsp,31,91,0.04,6.01,9.95,74,74
+33,Whole wheat roll,1 medium,36,96,3.93,1.31,15.81,73,73
+34,/Margarine,1 tsp,5,34,0.04,3.81,0.04,0,0
+35,Strawberries,1 cp,83,27,0.56,0.25,4.71,40,40
+36,Skim milk,1 cp,245,83,8.26,0.20,12.15,32,32
+37,Total,,,1920,102.55,70.42,206.63,,
+38,Menu GI*,,,,,,,61.95,60.31

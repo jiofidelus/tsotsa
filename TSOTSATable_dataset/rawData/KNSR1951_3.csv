@@ -1,0 +1,23 @@
+,0,1,2,3
+0,Food group,Sub-group,PB-,PB-
+1,,,A,H
+2,,Intense sweeteners,x,x
+3,,Fruit curds,x,x
+4,,"Jams & marmalades, syrups & honey",V,x
+5,Chocolate,Chocolate confectionery,V,x
+6,confectionery,,V,
+7,Non-chocolate,Non-chocolate confectionery,V,x
+8,confectionery,,,
+9,Savoury snacks,Prawn crackers,x,x
+10,,"Crisps, popcorn (salted/flavoured)& other",V,x
+11,,savoury snacks,,
+12,,Unsalted popcorn,V,V
+13,"Nuts,seeds,herbs &",,,
+14,spices,,,
+15,Nuts&seeds,Unsalted nuts & seeds,,V
+16,,Salted nuts & seeds,V,x
+17,Nut/seed spreads,Nut/seed spreads(100% wholegrain),V,V
+18,,Nut/seed spreads (other),V,x
+19,Herbs& spices,Fresh/dried herbs& spices,V,V
+20,PB-A:Plant-Based (allPB-HPlant-Based (healthful),PB-A:Plant-Based (allPB-HPlant-Based (healthful),,
+21,V:Includesx:Excludes,,,

@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6
+0,Analyte,RSD (%),LOD (mgL-1),LOQ(mgL-1),Calibration range (mg L-1),Calibration equations,r2
+1,Rutin,1.416,0.049,0.163,LOQ-500,y=4.5087x+5.1831,0.9997
+2,Chlorogenic acid,0.184,0.017,0.056,LOQ-500,y=47.726x-122.78,0.9998
+3,Caffeic acid,0.323,0.034,0.114,LOQ-500,y=23.464x+7.2565,0.9997
+4,Ferulic acid,0.172,0.034,0.115,LOQ-500,y=23.275x+26.3922,0.9995

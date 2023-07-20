@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7
+0,Sample,Carotenoid,Carotenoid content mg/,Solubility% (w/,Lipid content g/,Lipid content needed to,,Sufficient lipid content to hypothetically
+1,,,100 g FW,w),100 g FW, solubilize carotenoids g,dissolve all carotenoids,dissolve all carotenoids
+2,Tomato,(all-E)-Lycopene,4.5  0.8,0.075c,0.2a,6.0,No,
+3,,(all-E)--Carotene,0.5  0.0,0.141c,,0.4,,
+4,Carrot,(all-E)--Carotene,8.3  0.9,0.141c,0.2a,5.9,No,
+5,,(all-E)-a-Carotene,4.1  0.3,0.141c,,2.9d,,
+6,Gac,(all-E)--Carotene,16.2  0.1,0.141c,11.2b,11.5,No,
+7,,(all-E)-Lycopene,41.7  0.7,0.075c,,55.6,,

@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,Fatty acid (mg/g of milk fat,Breed,Stage of lactation,Stage of lactation,,SEM1
+1,,,Early,Mid,Late,
+2,C8:0,Nguni,0.10a,0.10a,0.10a,0.070
+3,,Crossbred,0.10a,0.20a,0.10a,0.070
+4,C10:0,Nguni,0.60a,0.30a,0.20a,0.190
+5,,Crossbred,0.70a,0.70a,0.50a,0.200
+6,C12:0,Nguni,8.80c,4.00b,3.00b,0.270
+7,,Crossbred,1.10a,8.50c,7.80c,0.270
+8,C14:0,Nguni,3.10b,1.60a,1.10a,1.210
+9,,Crossbred,3.90b,3.90b,3.40b,1.290
+10,C15:0,Nguni,0.40a,0.30a,0.20a,0.210
+11,,Crossbred,0.60a,0.70a,0.60a,0.230
+12,C16:0,Nguni,8.90c,5.50b,1.80a,3.580
+13,,Crossbred,9.00c,10.60c,7.80b,3.710
+14,C17:0,Nguni,0.40a,0.30a,0.20a,0.160
+15,,Crossbred,0.40a,0.60a,0.40a,0.170
+16,C18:0,Nguni,3.50b,2.90b,1.50a,1.690
+17,,Crossbred,3.00b,5.30c,3.60b,1.800
+18,C20:0,Nguni,0.10a,0.10a,0.10a,0.050
+19,,Crossbred,0.10a,0.20a,0.10a,0.050

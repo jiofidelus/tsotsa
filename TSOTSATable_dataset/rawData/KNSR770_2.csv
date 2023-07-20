@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7
+0,Fatty acids,,Mangrove mussel,Mangrove mussel,Scorched mussel,Yellow cockle,Yellow cockle,Mangrove crab
+1,,,(Mytella guyanensis),(Mytella guyanensis),(Brachidontes exustus),,(Trachycardium muricatum),(Goniopsis cruentata)
+2,,,%,,%,%,,%
+3,C14:0,Myristic,,4.43c,2.88B,2.93BC,,0.63A
+4,C15:0,Pentadecylic,,1.08B,0.92 B,1.10B,,0.5gA
+5,C16:0,Palmitic,,25.62c,30.30D,22.50B,,17.88A
+6,C17:0,Margaric,,1.47B,"1.80A,B,C",2.33c,,1.00A
+7,C18:0,Stearic,,"7.15A,B",8.06A,14.10c,,10.82B
+8,,SFA,,40.55B,43.92 B 43.29 B,,,30.97A
+9,C14:1n-5,Myristoleic,,1.65,1.56,,0.35,n.d
+10,C15:1n-5,Pentadecenoic,,0.22A,1.49B,,1.15AB,0.72A
+11,C161n-7,Palmitoleic,,7.79B,6.79B,,5.54B,2.19A
+12,C17:1n-5,Margaroleic,,14.59B,12.228,,10.87B,1.62A
+13,C18:1n-9,Oleic,,"2.75A,B",2.40A,,6.80B,16.35c
+14,C20:1n-9,Gondoic,,2.48,4.06,,2.13,n.d
+15,,MUFA,,32.51c,28.07B,,27.32B,21.15A
+16,C18:2n-6,Linoleic,,2.84B,2.67B,,1.74A,5.60c
+17,C18:3n-3,-Linolenic,,2.04B,2.76c,,1.40A,"1.60A,B"
+18,C20:2n-6,Eicosadienoic,,n.d,n.d,,1.90,n.d
+19,C20:4n-6,Arachidonic(ARA),,3.61A,4.54A,,4.40A,7.28B
+20,C20:5n-3,Eicosapentaenoic(EPA,,9.85A,7.69A,,7.69A,19.55B
+21,C22:6n-3,Docosahexaenoic (DHA),,6.21A,8.61B,,8.60B,10.80c
+22,n-3,Omega-3,,18.75A,19.27A,,17.81A,31.94B
+23,n-6,Omega-6,,6.54A,7.20A,,5.76A,12.858
+24,,PUFA,,24.34A,26.41A,,23.95A,44.92B
+25,,Other fatty acids,,1.26A,"1.55A,B",,4.22c,3.06B
+26,,n-6/n-3,,0.35,0.37,,0.32,0.41

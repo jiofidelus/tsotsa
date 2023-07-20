@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Food Group,Computerized process,Computerized process,,,,,Panel process,,SHR(%)a,
+1,,All food items,,Unprocessed food items,Unprocessed food items,Sum of,HR/,Panel found missing,,Without,With
+2,,,,,,hits,PER (%)b,or was satisfied,,MH,MH
+3,,Itemsc,Subgroupsd,Itemse,Subgroupsf,,,MHg,SHh,,
+4,CEREALS,119,23,16,6,49,1.72,0,1,2.04,2.04
+5,POTATOES& STARCHES,17,5,11,10,,,,-,,
+6,NUTS&SEEDS,39,11,25,10,57,6.09,0,11,19.3,19.3
+7,FRUITS,101,22,70,21,72,2.97,0,23,31.9,31.9
+8,VEGETABLES,138,29,67,28,82,2.48,6,27,32.9,30.7
+9,ALGAE,5,1,5,0,-,,-,-,,-
+10,MUSHROOMS,17,7,11,6,-,,-,5,,
+11,PULSES,69,13,45,12,68,4.11,0,5,7.35,7.35
+12,MEATS,101,25,88,24,89,3.67,4,35,39.3,37.6
+13,FISH&SEAFOODS,103,18,66,17,,,,,,
+14,EGGS,31,7,20,6,47,6.32,5,4,8.51,7.69
+15,MILKS,66,13,41,12,66,4.17,1,6,9.09,8.96
+16,FATS&OILS,42,13,40,12,,,-,,,
+17,SUGARS &SWEETENERS,10,2,2,1,,,=,,,-
+18,BEVERAGES,86,7,15,2,,,,-,,
+19,SEASONINGS&SPICES,82,12,38,11,70,3.56,1,1,1.43,1.41
+20,CONFECTIONERIES,64,9,0,0,69,4.49,1,1,1.45,1.43
+21,PROCESSED FOODS,136,22,0,0,90,2.76,0,2,2.22,2.22
+22,Total,1226,239,560,172,759,2.58,18,116,15.3,14.9

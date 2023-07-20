@@ -1,0 +1,15 @@
+,0,1,2,3
+0,Modification,Amino,Chemical,Unimod
+1,,acid,modification,accession number
+2,Oxidation,CMFHWY,01,35
+3,Dioxidation,CFWY,0(2),425
+4,Trioxidation,C,0(3,345
+5,Nitration,FHWY,H-1N1O2),354
+6,Kynurenine,W,C-1O1,351
+7,Quinone,Y,H(-2O(2,392
+8,Carbamylation,N-term,H1C1N1O1,5
+9,Deamidation,NQ,H-1N-1O1,7
+10,Dehydroalanine,C,H2S(-1,368
+11,Dehydration,S,H-2O-1,23
+12,Dehydro,T,H(-2,401
+13,Carboxymethylated,K,H(2C2O2,6

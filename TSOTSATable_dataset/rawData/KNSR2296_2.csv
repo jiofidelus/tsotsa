@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Item,,,Elements,
+1,,,As,Pb,Cd
+2,Wavelength spectrum (ug),Wavelength spectrum (ug),293.759,220.353,214.438
+3,Limit of detection (mg/kg,Limit of detection (mg/kg,0.010,0.010,0.005
+4,Line gas pressure (psi),Line gas pressure (psi),,70,
+5,Flow gas,Flow gas,,Argon (99.999%),
+6,Gas flow rate (l/min,Gas flow rate (l/min,,0.25,
+7,Nebulizer,Nebulizer,,,
+8,Pressure(bar),Pressure(bar),,3.2,
+9,,Carrier gas flow rate (l/min,,0.4,
+10,Pump rate (ml/min),Pump rate (ml/min),,1.5,
+11,Integration period (s,Integration period (s,,10,

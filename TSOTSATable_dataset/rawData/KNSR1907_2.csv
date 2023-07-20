@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,Compound name (abbreviation),Molecular,Precursor,Quantification,Confirmation,Fragmentation,Fragmentation
+1,,weight,ions (m/z),transition (m/z),transition (m/z),cut-offe,amplitudec
+2,Glucoiberin (GIB)AI,423,422,422>358,422>97,114,1.25
+3, Sinigrin (SIN)Al,359,358,436>372,358>97,95,1.30
+4,Glucoraphanin (GRA)^l,437,436,436>372,436>97,116,1.20
+5,Glucoalyssin (ALY)Al,451,450A,450>386A,450>97A,122,1.25
+6,Gluconapin (GNA)AI,373,372,372>259,372>97,100,1.20
+7,4-Hydroxyglucobrassicin (4OH)In,464,463A,463>285A,463>97A,125,1.25
+8,Glucotropaeolin (GTL)Ar,409,408,408>259,408>97,110,1.30
+9,Glucoerucin (GERAl,421,420,420>259,420>97,112,1.25
+10,Glucobrassicin (GBC)n,448,447,447>259,447>97,121,1.20
+11,Gluconasturtiin (NAS)Ar,423,477B,477>25gB,477>97B,114,1.25
+12,Neoglucobrassicin (NEO)A.in,478,477B,477>466A,477>97B,129,1.30
+13,Neoglucobrassicin (NEO)A.in,478,477A,477>466A,477>97A,129,1.20

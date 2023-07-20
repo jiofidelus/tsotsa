@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Heavy,"PTDI a, b/BMDLa, c mg/kg-d/",Estimated daily intakes of heavy metal in boiled crabs and,Estimated daily intakes of heavy metal in boiled crabs and,Estimated daily intakes of heavy metal in boiled crabs and,Estimated daily intakes of heavy metal in boiled crabs and,Estimated daily intakes of heavy metal in grilled crabs and,Estimated daily intakes of heavy metal in grilled crabs and,Estimated daily intakes of heavy metal in grilled crabs and,Estimated daily intakes of heavy metal in grilled crabs and
+1,metals,day,shrimps,,,,shrimps,,,
+2,,,Boiled crabs,,Boiled shrimps,,Grilled crabs,,Grilled shrimps,
+3,,,EDI mg/kg-,% PTDI/,EDI mg/kg-,%PTDI/,EDI mg/kg-,% PTDI/,EDI mg/kg-,% PTDI/
+4,,,d,BMDL,d,BMDL,d,BMDL,d,BMDL
+5,As,3 E-03a,1.9 E-04,6.44 %,2.2 E-04,7.41 %,1.9 E-04,6.44 %,1.7 E-04,5.66 %
+6,Hg,2.3 E-04 a,3.3 E-04,147.7 %,2.9 E-04,127.32 %,2.7 E-04,119.68 %,2.3 E-04,100%
+7,Cd,8.3 E-04b,4.6 E-05,5.64 %,8.2 E-05,9.87 %,3.4 E-05,4.13 %,2.9 E-05,3.52 %
+8,Pb,6.3 E-04 c,2.9 E-04,47.41%,2.6 E-04,40.9%,3.4 E-04,53.92 %,5.4 E-04,86.46 %

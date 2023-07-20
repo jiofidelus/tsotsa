@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,Lignan,Dataset,Parameter,Province,,
+1,,,,Henan,Shandong,Heilongjiang
+2,Sesamin,All,Range (mg/kg),1.21-4.46,1.07-6.17,1.86-7.43
+3,,,Mean (mg/kg),3.17,3.02,3.92
+4,,,SDa (mg/kg),0.80,0.98,1.24
+5,,Calibration,Range (mg/kg),1.21-4.46,1.07-6.17,1.89-7.43
+6,,,Mean (mg/kg),3.16,3.17,3.87
+7,,,SD (mg/kg),0.80,1.02,1.27
+8,,Prediction,Range (mg/kg),1.24-4.38,1.15-4.33,2.00-6.69
+9,,,Mean (mg/kg),3.19,2.70,4.02
+10,,,SD (mg/kg),0.80,0.80,1.17
+11,Sesamolin,Total,Range (mg/kg),1.04-3.08,0.96-3.30,0.89-6.13
+12,,,Mean (mg/kg),1.95,1.80,2.40
+13,,,SD (mg/kg),0.38,0.49,0.87
+14,,Calibration,Range (mg/kg),1.04-2.93,1.03-3.30,0.89-6.13
+15,,,Mean (mg/kg,1.93,1.84,2.40
+16,,,SD (mg/kg),0.38,0.50,0.94
+17,,Prediction,Range (mg/kg),1.19-3.08,0.96-2.86,1.15-4.57
+18,,,Mean (mg/kg,1.98,1.70,2.40
+19,,,SD (mg/kg),0.40,0.47,0.69

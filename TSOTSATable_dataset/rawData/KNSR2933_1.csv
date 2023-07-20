@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Food samplea,Ganglioside content (g NANA/g sample)b,,,
+1,,Mean (g/g or g/mL),Minimum,Maximum,Standard deviation
+2,1% Milk,0.51,0.37,0.63,0.08
+3,Regular fat yogurt,0.72,0.51,1.06,0.09
+4,Regular fat cheddar cheese,0.72,0.51,0.88,0.05
+5,Regular fat raw ground beefc,1.57,1.08,2.04,0.50
+6,Regular fat cooked ground beef,1.70,1.52,1.88,0.17
+7,Regular canned tuna,0.83,0.57,1.84,0.32
+8,Large egg yolkd,1.73,0.94,2.44,0.59

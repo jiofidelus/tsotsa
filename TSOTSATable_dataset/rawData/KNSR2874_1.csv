@@ -1,0 +1,29 @@
+,0,1,2,3,4,5
+0,Bread type,Toxin,No (%) of,Toxin in positive samples (ug/kg,,
+1,,,positive samples,,,
+2,,,,Range,Mean,Median
+3,Total samples,DON,93 (92),15-690,155,134
+4,n=101),NIV,5 (5),25-64,33,25
+5,,3-ADON,8 (8),11-73,42,40
+6,,HT-2,2 (2),12,12,12
+7,,T-2,1(1),4,4,4
+8,Group A rye bread,DON,11 (79),15-142,48,29a
+9,(14 samples),NIV,2 (14),2564,45,45
+10,,3-ADON,2 (14),4366,55,55
+11,,HT-2,0,,,
+12,,T-2,0,,,
+13,Group B mixed rye bread,DON,28 (97),15-378,137,129b
+14,(29 samples),NIV,0,,,
+15,,3-ADON,5 (17),11-73,43,37
+16,,HT-2,0,,,
+17,,T-2,0,,,
+18,Group C mixed wheat bread,DON,30 (88),15-690,210,150b
+19,(34 samples),NIV,2(6),25,25,25
+20,,3-ADON,0,,,
+21,,HT-2,2 (6),12,12,12
+22,,T-2,1 (4),4,4,4
+23,Group D wheat bread,DON,24 (100),15-382,158,169b
+24,24 samples),NIV,1(5),25,25,25
+25,,3-ADON,1(5,11,11,11
+26,,HT-2,0,,,
+27,,T-2,0,,,

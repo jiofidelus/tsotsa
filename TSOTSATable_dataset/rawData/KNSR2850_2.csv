@@ -1,0 +1,66 @@
+,0,1,2,3,4,5
+0,,14:1,16:1,18:1,20:1,22:1
+1,MAMMALS,,,,,
+2,Beaver (Castor canadensis,,,,,
+3,"meat, baked",,tr,0.20.16,tr,nd
+4,"meat, baked",,tr,0.20.12,nd,nd
+5,"feet,baked",nd,0.2,2.4,tr,nd
+6,"tail,baked",0.1,1.1,2.9,0.2,nd
+7,"liver,raw",nd,1.0,,nd,nd
+8,"meat,raw",nd,tr,0.40.08,nd,nd
+9,"meat,baked",tr,tr,0.30.08,nd,tr
+10,liverbaked,tr,,0.20.01,nd,nd
+11,liverbaked,tr,,0.20.01,nd,nd
+12,"stomach,raw",nd,,0.5,nd,nd
+13,"meat,raw",nd,tr,0.30.25,tr,nd
+14,"meat,baked",nd,tr,0.40.32,nd,nd
+15,"meat,dried",tr,0.10.04,0.70.55,nd,nd
+16,Moose (Alces alces),,,,,
+17,"meat,raw",nd,tr,0.30.16,tr,nd
+18,"meat,baked",nd,tr,0.30.11,tr,nd
+19,"meat,smoke/dried",nd,0.1,1.3,nd,nd
+20,"liver,raw",nd,nd,tr,nd,nd
+21,"lier,baked",tr,tr,0.30.08,tr,nd
+22,"lier,baked",tr,0.10.01,0.50.11,tr,nd
+23,lungbaked,tr,tr,0.3,tr,nd
+24,lungbaked,nd,tr,0.3,tr,nd
+25,meat.raw,nd,0.10.09,1.00.72,tr,nd
+26,"meat,boiled",nd,tr,0.10.02,nd,nd
+27,"meat,boiled",nd,tr,0.10.01,nd,nd
+28,Bear(Ursus americanus),,,,,
+29,"meat,smoked",tr,0.1,1.4,tr,nd
+30,"meat,smoked",tr,0.3,3.1,nd,nd
+31,BIRDS,,,,,
+32,Black scoter (Melanitta nigra,Black scoter (Melanitta nigra,,,,
+33,"meat,baked",,0.70.09,1.50.16,tr,nd
+34,"meat,baked",nd,tr,0.10.01,nd,nd
+35,"meat,dried",nd,1.40.52,18.15.66,nd,nd
+36,FISH,,,,,
+37,Cisco (Coregonus autumnalis),Cisco (Coregonus autumnalis),,,,
+38,meatbaked,tr,0.90.91,0.20.01,0.30.26,0.10.06
+39,"meat,smoke/dried",nd,3.41.22,0.20.01,0.20.08,0.10.06
+40,Inconnu(Stenodus leucichthys),tr,3.41.22,1.70.61,0.40.13,0.10.08
+41,"meat,raw",nd,0.40.33,0.50.25,0.10.16,0.10.06
+42,"meat,baked",tr,0.20.01,0.30.04,tr,nd
+43,meatsmoke/baked,nd,0.6,0.5,0.2,0.1
+44,"meat,smoke/dried",tr,1.90.37,2.31.12,0.30.21,0.20.11
+45,Loche {Lota lota},,,,,
+46,"meat,raw",nd,tr,0.10.02,tr,nd
+47,"meat,baked",nd,tr,0.10.10,tr,nd
+48,"head,baked",nd,9.1,0.2,tr,nd
+49,liverraw,0.10.02,2.20.48,3.80.54,0.10.09,Q1005
+50,skinbaked,nd,0.1,0.2,tr,nd
+51,PikeEsax lucius,,,,,
+52,"meat,raw",nd,tr,0.10.02,nd,nd
+53,"meat,baked",nd,tr,0.10.03,nd,nd
+54,"meat,raw",tr,0.30.08,0.80.23,tr,nd
+55,"meat,baked",tr,0.20.08,0.50.16,tr,nd
+56,Whitefish (Coregonus clupeaformis),Whitefish (Coregonus clupeaformis),,,,
+57,meatraw,tr,0.10.13,0.20.21,tr,tr
+58,"meat,baked",tr,0.30.08,0.40.19,tr,tr
+59,"meat,dried",nd,0.4,0.8,nd,nd
+60,"meat, smoke/baked",tr,0.7,1.1,0.1,nd
+61,"meat, smoke/dried",0.10.04,1.10.58,1.70.62,0.10.09,nd
+62,"eggs,raw",tr,1.10.45,1.61.69,tr,nd
+63,"eggs,baked",tr,1.10.45,1.61.69,tr,nd
+64,"tail,raw",nd,0.6,0.7,nd,nd

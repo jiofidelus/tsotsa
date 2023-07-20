@@ -1,0 +1,75 @@
+,0,1,2,3,4,5,6,7
+0,Code,Metabolites,Rra,RIb,IDe,Frequency in control samples,Frequency in drought-stressed samples,
+1,Mt 1,Tricyclene,1010,1009,RI/MS,33,,33
+2,Mt 2,-Pinene,1021,1019,RI/MS/S,100,100,100
+3,Mt 3,-Thujene,1052,1071,RI/MS/S,89,,89
+4,Mt5,-Fenchene,1052,1071,RI/MS/S,33,,33
+5,Mt5,Camphene,1106,1118,RI/MS/S,100,,89
+6,Mt 6,Sabinene,1106,1118,RI/MS/S,100,100,100
+7,Mt 7,Sabinene,1127,1130,RI/MS/S,89,100,100
+8,Mt 8,3-Carene,1150,1156,RI/MS/S,56,,44
+9,Mt 9,-Phellandrene,1165,1156,RI/MS,22,,100
+10,Mt 10,-Myrcene,1180,1156,RI/MS/S,100,100,100
+11,Mt 12,-Terpinene,1180,1188,RI/MS/S,100,100,100
+12,Mt 13,D-limonene,1215,1228,RI/MS/S,100,100,100
+13,Mt 14,"1,8-Cineole",1238,1228,RI/MS/S,100,100,100
+14,Mt 14,cis-Ocimene,1238,1245,RI/MS/S,33,,33
+15,Mt 15,-Terpinene,1252,1250,RI/MS/S,100,100,100
+16,Mt 16,-Ocimene,1260,1250,RI/MS/S,22,,33
+17,Mt 17,p-Cymene,1275,1273,RI/MS/S,100,100,100
+18,Mt 19,o-Cymene,1288,1287,RI/MS/S,100,,89
+19,Mt 19,-Terpinolene,1288,1287,RI/MS/S,100,,78
+20,Mt 20,cis-Allocimene,1371,1418,RI/MS/S,11,,22
+21,Mt 21,-Thujone,1426,1418,RI/MS/S,100,100,100
+22,Mt 22,"Benzene-1,3-bis-(1,1-dimethylethyl)",1433,1436,RI/MS,56,100,100
+23,Mt 23,trans-Sabinene-hydrate,1443,1438,RI/MS,56,,56
+24,Mt 24,-Thujone,1443,1438,RI/MS/S,89,,89
+25,Mt 25,cis-Sabinene-hydrate,1551,1556,RI/MS,11,,22
+26,OMt 2,p-Methylanisole,1444,1432,RI/MS/S,22,,56
+27,OMt 2,Camphor,1554,1518,RI/MS/S,78,,56
+28,OMt 3,Linalool,1554,1556,RI/MS/S,56,,78
+29,OMt 4,-Cedrene,1574,1578,RI/MS,22,,33
+30,OMt 5,Bornyl acetate,1580,1584,RI/MS/S,67,,44
+31,OMt 7,4-Terpineol,1607,1616,RI/MS,44,,22
+32,OMt 7,Borneol L,1707,1706,RI/MS,0,,22
+33,OMt 9,Borneol L,1771,1708,RI/MS/S,11,,22
+34,OMt 9,-Citronellol,1771,1768,RI/MS/S,11,,22
+35,OMt 10,Myrtenol,1796,1804,RI/MS/S,0,,11
+36,OMt 12, Geranyl acetone,1856,1936,RI/MS/S,22,,22
+37,OMt 12,-Ionone,1934,1936,RI/MS/S,22,,44
+38,OMt 13,Thymol,,,MS/S,33,100,100
+39,Est 1,Isobutyl acetate,1017,1021,RI/MS/S,33,,33
+40,Est 2,2-Methyl-ethyl butanoate,1138,1138,RI/MS/S,11,,11
+41,Est 3,Ethyl pentanoate,1138,1138,RI/MS/S,11,,0
+42,Est 4,3-Methyl-propyl butanoate,1157,1175,RI/MS,11,,11
+43,Est 6,Isobutyl isovalerate,1200,1175,RI/MS/S,67,,0
+44,Est 6,Amyl isovalerate,1300,1303,RI/MS/S,67,,56
+45,Est 7,Ethyl octanoate,1440,1436,RI/MS/S,44,,44
+46,Ald 1,Hexanal,1153,1088,RI/MS/S,100,100,100
+47,Ald 2,cis-3-Hexenal,1153,1151,RI/MS/S,11,,100
+48,Ald 3,2-Hexenal,1227,1220,RI/MS/S,100,100,100
+49,Ald 4,"2,4-Hexadienal",1413,1417,RI/MS/S,67,,33
+50,Ald 5, Nonanal,1400,1397,RI/MS/S,67,,67
+51,Ald 6,"2,4-Heptadienal",1508,1480,RI/MS/S,44,,0
+52,Ald 7,2-Octanone,1290,1285,RI/MS/S,78,,89
+53,K1,2-Octanone,1345,1285,RI/MS,78,,78
+54,K2,6-Methyl-5-hepten-2-one,1345,1342,RI/MS,44,,11
+55,Alc 1,3-Hexen-1-ol,1388,1390,RI/MS/S,56,,33
+56,Alc 2,3-Octanol,1410,1411,RI/MS/S,89,,78
+57,Alc 3,2-Hexen-1-ol,1410,1411,RI/MS/S,11,,11
+58,Alc 4,1-Octen-3-ol,1456,1465,RI/MS/S,89,,67
+59,Alc 5,4-Nonanol,1485,1479,RI/MS/S,22,,44
+60,Alc 6,Dodecanol,1495,1487,RI/MS/S,44,,22
+61,Alc 7,Dodecanol,1970,1966,RI/MS/S,11,,22
+62,Sesqui 1,-Cubebene,1463,1463,RI/MS,33,,89
+63,Sesqui 2,-Ylangene,1472,1491,RI/MS,33,,33
+64,Sesqui 3,-Ylangene,1488,1491,RI/MS,22,,22
+65,Sesqui 4,Bicycloelemene,1488,1485,RI/MS,44,,33
+66,Sesqui 6,-Copanene,1525,1493,RI/MS,67,,78
+67,Sesqui 6,-Bourbonene,1525,1526,RI/MS,67,,78
+68,Sesqui 9,-Cubebene,1551,1541,RI/MS,11,,33
+69,Sesqui 9,-Longipinene,1551,1541,RI/MS,11,,33
+70,Sesqui 10,-Bergamotene,1597,1593,RI/MS,11,,11
+71,Sesqui 11,Calarene,1597,1593,RI/MS,67,,67
+72,Sesqui 12,Caryophyllene,1603,1604,RI/MS/S,100,,78
+73,Sesqui 13,Aromadendrene,1650,1650,RI/MS,78,,67

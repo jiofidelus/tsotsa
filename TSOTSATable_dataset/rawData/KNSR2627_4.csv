@@ -1,0 +1,77 @@
+,0,1,2,3,4,5,6
+0,Sample no.,Smoked product,Smoke-house/producer no,,Smoking process,Fuel,BaP(g/kg)
+1,,Smoked meat,,,,,
+2,1,"Hama,b",,1,"Direct ""sauna""",Sallow logs,14.6
+3,2,Ham,,1,"Direct ""sauna""",Alder/sallow logs,17.3
+4,3,Ham,,1,"Direct ""sauna""",Alder/sallow logs,19.3
+5,4,Ham,,2,"Direct ""sauna""",Birch logs,36.9
+6,5,Ham,,3,Direct,Alder logs,1.6
+7,6,Ham,,3,Direct,Alder logs,2.3
+8,7,Ham,,4,Indirect,Alder chips,n.d.e
+9,8,Ham,,4,Indirect,Alder chips,<0.3f
+10,9,Ham,,5,,,<0.3
+11,10,Ham,,6,,,<0.3
+12,11,Ham,,7,,,n.d.
+13,12,Ham,,8,Indirect,,n.d.
+14,13,Ham,,9,Indirect,,<0.3
+15,14,Ham,10,10,Indirect,,n.d.
+16,15,Ham,11,11,,,1.1
+17,16,Ham,12,12,,,n.d.
+18,17,Baconb,,1,"Direct ""sauna""",Alder and sallow logs,4.1
+19,18,Bacon,,1,"Direct ""sauna""",Alder and sallow logs,15.9
+20,19,Bacon,13,13,"Direct ""sauna""",Sallow logs,11.4
+21,20,Bacon,,2,"Direct ""sauna",Birch logs,15.0
+22,21,Bacon,,9,Indirect,,0.4
+23,22,Pork tenderloin,14,14,Indirect,Alder chips,<0.3
+24,23,Pork shoulder,15,15,,,<0.3
+25,24,Pork shoulder,15,15,,,n.d.
+26,25,"Elk,heart",,1,"Direct ""sauna""",Alder/sallow logs,13.4
+27,26,"Elk and reindeer meat, combinedc",13,13,"Direct ""sauna'",Sallow logs,6.6
+28,27,"Lamb, legb",,16,Direct,Alder logs,0.8
+29,28,"Lamb, legb",16,16,Direct,Alder logs,0.9
+30,29,"Reindeer meat, lean",17,17,Indirect,Sallow logs,<0.3
+31,30,"Reindeer meat, lean",18,18,,,n.d.
+32,31,Chicken,19,19,,,n.d.
+33,32,Turkey,19,19,,,n.d.
+34,33,Turkey,20,20,,,n.d.
+35,34,Turkey,21,21,,,<0.3
+36,35,Sausage,22,22,,,n.d.
+37,36,Sausage,23,23,,,<0.3
+38,37,Sausage,24,24,Indirect,,n.d.
+39,38,Sausage of elk,17,17,Indirect,Sallow chips,<0.3
+40,,Herring,,,,,0.4
+41,39,Herring,24,24,Direct,Alder logs/chips,0.4
+42,40,Herring,25,25,Direct,Propane gas,14.4
+43,41,Herring,26,26,Direct,Charcoal,0.6
+44,42,Herring,25,25,Directa,Alder chips,3.4
+45,43,Herring,27,27,,,1.8
+46,44,Herring fillet,24,24,Direct,Alder logs/chips,10.9
+47,45,Herring filleta,28,28,Direct,Alder logs/chips,0.7
+48,46,Herring fillet,25,25,Directa,Alder chips,9.4
+49,47,Herring fillet,25,25,Directd,Alder chips,1.2
+50,48,Herring fillet,29,29,,,8.9
+51,49,Herring fillet,30,30,,,<0.3
+52,50,Salmon,13,13,"Direct ""sauna",Sallow logs,8.4
+53,52,Salmon,24,24,Direct,Alder logs/chips,1.4
+54,52,Salmon,31,31,Indirect,Alder chips,n.d.
+55,53,Salmon,31,31,Indirect,Alder chips,n.d.
+56,54,Salmon,32,32,Indirect,Alder chips,n.d.
+57,55,Salmon,,32,Indirect,Alder chips,n.d.
+58,56,Salmon,14,14,Indirect,Alder chips,<0.3
+59,57,Salmon,33,33,,,n.d.
+60,58,Salmon,34,34,,,1.0
+61,59,Salmon,34,34,,,0.8
+62,60,Rainbow trout,35,35,Direct,Alder logs,0.9
+63,61,Rainbow trout,35,35,Direct,Alder logs,0.6
+64,62,Rainbow trout,31,31,Indirect,Alder chips,<0.3
+65,63,Rainbow trout,36,36,,,<0.3
+66,64,Rainbow trout,36,36,,,0.4
+67,65,Mackerel,37,37,Direct,Alder logs,2.9
+68,66,Mackerel,37,37,Direct,Alder logs,3.7
+69,67,Mackerel,25,25,Directd,Alder chips,<0.3
+70,69,Mackerel filleta,24,24,Direct,Alder logs/chips,3.4
+71,69,Mackerel fillet,28,28,Direct,Alder logs/chips,14.3
+72,70,Mackerel fillet,25,25,Directa,Alder chips,2.0
+73,71,Mackerel fillet,38,38,,,0.6
+74,72,Mackerel fillet,29,29,,,<0.3
+75,73,Mackerel fillet,36,36,,,0.6

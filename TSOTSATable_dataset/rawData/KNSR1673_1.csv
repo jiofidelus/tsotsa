@@ -1,0 +1,28 @@
+,0,1
+0,Torch injector,Quartz (2.0 mm)
+1,Spray chamber,Cyclonic(Quartz)
+2,Sample Uptake/Peristaltic pump speed,1mLmin-/20rpm(tygon tubes
+3,,0.76mm black-black)
+4,Auto lens,On
+5,RF power(W),1100
+6,Gas flow ratesLmin-,Nebulizer 0.56-0.98plasma
+7,,15;auxiliary 1.2
+8,Interface,Platinum cones
+9,Sampler,1.1mm
+10,Skimmer,0.9 mm
+11,q-ICP-MS (standard mode),"75As,11B,138Ba44Ca,114Cd,140Ce"
+12,,"53Cr,59Co65Cu,57Fe,139La,24Mg"
+13,,"55Mn,98Mo,31p,208pb,85Rb,82Se"
+14,,and 64Zn
+15,Internal standard,103Rh
+16,Scanning mode,Peak hopping
+17,Integration time (ms),2000
+18,Replicates,3
+19,Sweeps,40
+20,Readings,1
+21,Dwell time (ms),50
+22,Lens voltage(V),6.0
+23,Sample uptake rate(mLmin-,1.0
+24,Correction equations,
+25,Zinc=64Zn-(0.035247 60Ni),
+26,Selenium=82Se (1.007833 83Kr),

@@ -1,0 +1,15 @@
+,0,1,2,3
+0,Identification,Retention time,Standard curve,R2
+1,,(min),,
+2,Chlorogenic acid (ChA,5.590,y=10.228x-,0.9999
+3,,,1.699,
+4,Caffeic acid (CA),7.640,y=29.077x-,0.9996
+5,,,23.715,
+6,"3,4-di-O-caffeoylquinic acid",18.230,y=18.770x-,0.9998
+7,"3,4-diCQA)",,0.195,
+8,"3,5-di-O-caffeoylquinic acid",19.270,y=18.254x-,0.9998
+9,"3,5-diCQA)",,0.621,
+10,"4,5-di-O-caffeoylquinic acid",20.063,y=19.175x-,0.9999
+11,"4,5-diCQA)",,6.703,
+12,"3,4,5-tri-O-caffeoylquinic acid",6.940,y=16.094x,0.9999
+13,"(3,4,5-tri-CQA)",,2.906,

@@ -1,0 +1,16 @@
+,0,1,2
+0,Masses,,"23Na24Mg,31P39Kb"
+1,,,43Caa56Fe63Cu66Zn
+2,,,"78Se,202Hg"
+3,Integration time,0.1s,0.1s
+4,Radio frequency(RF power,1500W,1500W
+5,Skimmer cone,Ni,
+6,Spray chamber temperature,2,2
+7,Plasma gas (Ar),15Lmin-1,15Lmin-1
+8,Nebulizer gas (Ar,0.9Lmin-1,0.9Lmin-1
+9,Make-up gas(Ar),0.16Lmin-1,0.16Lmin-1
+10,Collision gas (He),3.9Lmin-1,3.9Lmin-1
+11,Reaction gas (H,3.5Lmin-1,3.5Lmin-1
+12,Nebulizer,Micromist,Micromist
+13,Sample delivery,,About 0.5 mL min-1
+14,Replicates,3,

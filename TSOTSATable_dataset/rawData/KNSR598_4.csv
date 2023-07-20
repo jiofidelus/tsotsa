@@ -1,0 +1,19 @@
+,0,1
+0,Fatty acids,Elements
+1,Positive correlation,
+2,C14:0,"Cu,FeNi,Zn,LiTi,Mn,Co,Sr and Ca"
+3,C15:0,"CuFe,Ni,ZnLiTiMnCo,Sr,Ca,CrAl,V and Ba"
+4,C17:0,"CuFeNi,Zn.LiTi,Mn,Co,Sr,Ca,Cr,Al,V and Ba"
+5,C161 n-7,"Fe,Cr.Li,Al,Mn,Co and I"
+6,C18:1 n-9c,As
+7,C18:1 n-9t,"FePb,Ni,Cr,Li,Al,Mn and Co"
+8,C18:2 n-6 c,"CuNi,Zn,Ti,Sr and Ca"
+9,C18:3 n-3,I
+10,C20:1n-9,As and Ag
+11,C22:0,PbCr and Al
+12,C22:6n-3DHA,Cs
+13,-6,"Zn,Sr and Ca"
+14,Negative correlation,
+15,C15:0,As and Ag
+16,C17:0,"As, Ag and Cs"
+17,C20:1n-9,"Mn, Co and Ba"

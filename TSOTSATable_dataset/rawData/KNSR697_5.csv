@@ -1,0 +1,37 @@
+,0,1,2,3,4,5
+0,Food,No.of,No.of,Sodium,Potassium,Na:Kratio
+1,,brands,purchases,(mg/100g),mg/100g),(mmol basis
+2,,,per brand,,,
+3,Butter,,,,,
+4,Allowrie,,,,,
+5,regular,1,4,700+100d,20+2d,60.9
+6,low salt,1,4,34020e,15+2e,38.3
+7,unsalted,1,4,18+2f,5+1f,6.1
+8,Norco,,,,,
+9,regular,1,4,700+120d,20+1d,57.7
+10,unsalted,1,4,19+2e,51e,6.4
+11,All brands,,,,,
+12,regular,8,1+,700+15od,213d,55.1
+13,low salt,1,4,34020*,15+2*,38.3
+14,unsalted,2,4,19+2e,51e,6.4
+15,Margarine,,,,,
+16,Flora,,,,,
+17,regular,1,4,72018d,25+1a,48.6
+18,low salt,1,4,4007e,26+3a,26.3
+19,Meadowlea,,,,,
+20,regular,1,4,720+56d,20+3a,61.3
+21,low salt,1,4,3902e,185a,37.1
+22,All brands,,,,,
+23,regular,14,1+,700140a,227a,57.6
+24,low salt,2,4,400+7b,226a,30.8
+25,salt-free,2,4,6+1,<1,>3.8
+26,Peanut butter,,,,,
+27,Farmland,,,,,
+28,regular,1,4,410+39d,630+48a,1.1
+29,no added salt,1,4,21+8e,63013a,0.06
+30,Sanitarium,,,,,
+31,regular,1,4,350+22d,60030a,1.0
+32,no added salt,1,4,15+3e,63010a,0.04
+33,All brands,,,,,
+34,regular,8,1+,500110d,60046a,1.3
+35,no added salt,2,4,18+6e,630+11a,0.05

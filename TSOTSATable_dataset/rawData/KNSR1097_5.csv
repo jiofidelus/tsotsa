@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,Time of year,Soluble solids,Titratable acidity,Phenolic content,Lycopene,Ascorbic acid,Antioxidant
+1,,(Brix),% citric acid),(mg GAE/100 g,content (mg),(mg/100 g DM),activity (M
+2,,(Brix),,DM),100 g DM),,TEAC/100 g
+3,September,4.57a,0.55ac,191a,35ad,180a,1753a
+4,October,4.40b,0.54a,181a,27b,205bc,1832a
+5,November,4.93c,0.57bc,234b,46ce,236f,2310b
+6,December,5.20d,0.54a,318c,25b,215de,2864c
+7,January,5.10d,0.56c,338c,26b,207bcd,2718d
+8,February,5.10d,0.51d,326c,32d,198b,2603d
+9,March,5.60e,0.57cb,395d,44c,222e,2895e
+10,April,5.90f,0.54a,516e,49e,213cde,3051f
+11,LSDo.05,0.14,0.016,32,3.6,9.4,120

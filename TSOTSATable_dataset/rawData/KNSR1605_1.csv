@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Compound,Retention time (min),Retention time of rutin in sample (min),Retention time relative to rutin in sample,"Amax,nm",AmountSD);mg.g
+1,5-CQA*,14.0,24.0,0.58,328,0.15 (0.01)
+2,Luteolin-O-glycosides*,24.8,,1.03,348,0.40 (0.04)
+3,,25.2,,1.05,,
+4,"1,5-diCQA*",26.3,,1.09,329,1.49 ( 0.21)
+5,"3,5-diCQA*",26.8,,1.12,329,
+6,"4,5-diCQA*",28.3,,1.18,329,0.35 ( 0.04)
+7,Luteolin*,35.8,,1.49,348,0.14 (  0.01)
+8,5-CQA (St),13.3,23.1,0.57,328,
+9,Luteolin (St),34.3,,1.48,348,
+10,5-CQA**,15.4,25.1,0.61,328,8.08 ( 0.32)
+11,"3,5-diCQA**",27.8,,1.11,329,0.40 0.04)
+12,"4,5-diCQA**",30.0,,1.19,329,0.68 ( 0.05)

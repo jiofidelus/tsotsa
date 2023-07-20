@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7
+0,Element,WHOa(g/L),Tap water samples,,,Bottled water samples,Bottled water samples,
+1,,,Itb (g/L),Sample no.,Sample no.,It(g/L),Sample no.,Sample no.
+2,,,,above Itb limit,above WHO limit,,above It limit,above WHO limit
+3,F,1.5,1.5,None,None,5,34,6;34
+4,F-d,ne,ne,,,1.5,6;34,
+5,NO,50,50,None,None,45,None,None
+6,NO3,nee,ne,,,10,9;17;27;36,
+7,As,10,50,None,None,10,5,5
+8,B,500,1000,None,None,5000,None,5;12;22;34
+9,Ba,700,100,None,None,1000,None,None
+10,Cd,3,5,None,None,3,None,None
+11,Cr,50,50,None,None,50,None,None
+12,Cu,2000,50,43;44;55,None,1000,None,None
+13,Hg,6,1,None,None,1,None,None
+14,Mn,400,50,None,None,500,None,None
+15,Ni,70,ne,,None,20,None,None
+16,Pb,10,50,None,None,10,None,None
+17,Sb,20,ne,,None,5,None,None
+18,Se,10,10,None,None,10,None,None
+19,U,15,ne,,None,ne,None,6
+20,Zn,ne,2000,None,,ne,None,

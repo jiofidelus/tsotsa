@@ -1,0 +1,33 @@
+,0,1,2
+0,Inductively coupled plasma with mass spectrometer (ICP-MS),,
+1,Torch injector,Quartz,
+2,Spray chamber,Peltier Cooled Cyclonic,
+3,Sample uptake,0.3 rps(rounds per second),
+4,Nebulizer Type,MicroMist,
+5,Interface,Pt-cones,
+6,RF power,1550W,
+7,Ar gas flow rate (L/min),plasma 15;auxilary 0.9,
+8,Nebulizer pump,0.1 rps,
+9,He gas flow rate,5mL/min,
+10,Ion lenses model,x-lens,
+11,Extract 2,-250V,
+12,Omega bias,-100V,
+13,Omega lens,10.6V,
+14,Acquisition mode,Spectrum,
+15,Peak Pattern,1 point,
+16,Replicate,3,
+17,Sweeps/replicate,100,
+18,Tune mode,No gas:0s;0.1s,
+19,(Stabilization timeInteg.Time/mass,He:5s;0.5s,
+20,ICP-MS (standard mode),"No gas: Al29,As 75,Pb208",
+21,,"He mode:Cr52,Mn55Ni60,Cu63Zn66","He mode:Cr52,Mn55Ni60,Cu63Zn66"
+22,,Cd 111,
+23,,Fe56,
+24,Internal standards,"209Bi,115In,45Sc",
+25,Mercury analyzer,,
+26,Wavelength,,253.65nm
+27,Drying time,,60s
+28,Decomposition time,,150s
+29,Wait time,,45s
+30,Weight/volume of sample,,100 mg/100 mL
+31,Working range,,0.05-600 ng

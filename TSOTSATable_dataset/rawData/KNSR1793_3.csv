@@ -1,0 +1,10 @@
+,0,1,2,3
+0,Category,Samples,Correct samples,Accuracy
+1,Sunflower seed oil,6,6,100.00%
+2,Rapeseed oil,5,4a,80.00%
+3,Sesame oil,15,14b,93.33%
+4,Soybean oil,6,6,100.00%
+5,Peanut oil,6,6,100.00%
+6,Corn oil,6,6,100.00%
+7,Olive oil,4,4,100.00%
+8,Total,48,46,95.83%

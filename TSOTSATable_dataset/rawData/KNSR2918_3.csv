@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,No,Power,,Temprature,Interval,Hold
+1,,,,(C,time (min),time (min)
+2,,Max,Utilization,,,
+3,,power (W),rate (%),,,
+4,1,1200,100,120,3,5
+5,2,1200,100,180,4,15

@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,,Origins model,,,
+1,Pre-treatment: 1st D(5,,,,
+2,,Yunnan,Sichuan,Gansu,Chongqing
+3,PCs,5,,,
+4,SensitivitvCalibration set,0.929,0.795,0.947,0.939
+5,Sensitivity(Predication set),0.857,0.615,1.00,0.875
+6,Specificity(Calibration set),0.945,0.982,0.977,0.981
+7,Specificity(Predication set),0.963,0.964,1.00,0.942
+8,Error (Calibration set),0.0582,0.0534,0.0340,0.0291
+9,Error(Predication set),0.0588,0.103,0.00,0.0735
+10,Accuracy (Calibration set),91.3%,,,
+11,Accuracy(Predication set),86.8 %,,,

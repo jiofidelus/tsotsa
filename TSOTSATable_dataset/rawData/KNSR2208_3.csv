@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7
+0,Part,Sample name,3-CQA-water,3-CQA-water,5-CQA-water,5-CQA-water,4-CQA-water,4-CQA-water
+1,,,derivative 1,derivative 2,derivative 1,derivative 2,derivative 1,derivative 2
+2,,,Concentration [ng/mL],,,,,
+3,A,Lipton lemon flavor ice tea,181,211,21512,272  17,46  2,573
+4,,Skinny late,34817,389 19,2267  109,2874 141,45926,485 27
+5,,Artichoke 100% juice,1238,132  8,5179247,5789249,895,985
+6,,Black lilac juice,624,775,34817,35717,191,202
+7,,Blueberry jam,32115,334  16,115855,121358,543,624
+8,,Jogobella Blueberry,1527,1639,24512,30215,754,814
+9,,Gerber cream of apples and blueberries,1638,178 8,34518,389  21,693,734
+10,B,Gerber cream of apples and blueberries,142 6,1637,30217,362  23,62 3,634
+11,,incubated with buffer pH 6.2a,,,,,,
+12,,Gerber cream of apples and blueberries,1498,1568,31919,35719,623,675
+13,,incubated with buffer pH 7.8a,,,,,,
+14,,Gerber cream of apples and blueberries,149 7,1648,29922,349 18,604,654
+15,,appropriately diluted with water,,,,,,

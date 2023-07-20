@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6
+0,Food,Extraction,Solvent,Clean up,LoD,Minimum dose detected kGy,Reference
+1,Meat and fish,ASE,Ethyl acetate,Silica,3 ng/g0.1 g/g fat,0.5(fat-2.0(fish,Obana et al.2005
+2,Chicken,Direct extraction,Hexane:heptane,Florisil,,,Tewfik(2008a)
+3,Perilla seed,Homogeniser,Pentane:propanol,Florisil,0.022 g/g fata,0.5,Lee et al.2000
+4,Sesame seed,Homogeniser,Pentane:propanol,Florisil,0.2 g/g fata,0.5,Lee et al.(2008)
+5,Chicken,Reflux,Diethyl ether,Florisil,,1.0,Boyd et al.1991
+6,Chicken,Reflux,Diethyl ether,Florisil,0.25 g/g fat,0.5,Crone et al.1992
+7,Beef,SFE,CO2,None,0.1 g (0.05g/g fat)b,,Tewfik et al.1998
+8,Chicken,SFE,CO2,None,0.1 g (0.05 g/g fat)b,,Tewfik et al.1998)
+9,Fish,SFE,CO2,None,,0.1,Tewfik et al.(1999)
+10,Various,SFE,Hexane,Silica,0.07 pmol (ca. 13 pg) on-column c,,Horvatovich et al.2006
+11,Variousd,SFEe,Hexane,Silica,0.21 pmol (ca.40 pg) on-column,,Horvatovich et al.(2000
+12,Beef,SFEe,Hexane,None,0.1g,,Gadgil et al.2002
+13,Chicken,Soxhlet,Hexane,Florisil,0.064g/g fat,,Elliott et al.1995f
+14,Beef,Soxhlet,Hexane,Florisil,0.5 gg,,Tewfik et al.1998)
+15,Chicken,Soxhlet,Hexane,Florisil,0.5g,,Tewfik et al.1998
+16,Fish,Soxhlet,Hexane,Florisil,0.1g,0.5,Tewfik et al.1999
+17,Varioush,Soxhlet,Hexane,Florisil,0.025 g/Lij,,Virgolici et al.2009
+18,Dried squid,Soxtec,Hexane,Florisil,0.07 g/g fata,0.5,Kim et al.(2004b)
+19,Dried shrimp,Soxtec,Hexane,Florisil,0.014 g/g fata,0.5,Kim et al.(2004a)
+20,Cheese,Soxtec,Hexane,Florisil,0.5 g/g fat,,Rahman et al.(1996a)
+21,Beef,SPME,None,None,0.35 g/L std soln,2-4,Caja et al.(2008)
+22,Ham,SPME,None,None,0.3 g/L std soln,,Blanch et al.2009

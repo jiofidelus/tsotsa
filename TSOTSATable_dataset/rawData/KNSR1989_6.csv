@@ -1,0 +1,29 @@
+,0,1,2,3
+0,Food commodities,Average,Standard,97.5th
+1,,(kg/day),error,percentile
+2,General population,,,
+3,Well polished rice,0.2231682,0.0036563,1.092104
+4,(domestic rice)-Japonica type,,,
+5,Wheat(whole grain),0.0499888,0.0013059,0.417587
+6,Glutinous rice,0.0029852,0.0002319,0.035714
+7,well polished rice),,,
+8,Corn-raw,0.0053111,0.0008521,0.058729
+9,Glutinous millet,0.0003990,0.0000824,0.004836
+10,Barley(unhulled),0.0038790,0.0001814,0.035933
+11,Buckwheat(polished grain,0.0028196,0.0002078,0.042928
+12,Children aged 6 and under,,,
+13,Well polished rice,0.0657585,0.0030428,0.264123
+14,(domestic rice)-Japonica type,,,
+15,Wheat (whole grain),0.0193115,0.0017425,0.154002
+16,Glutinous rice,0.0047858,0.0012549,0.061361
+17,well polished rice),,,
+18,Corn-raw,0.0003546,0.0000944,0.003002
+19,Brown rice-Japonica type,0.0018773,0.0005780,0.029762
+20,Barley(unhulled),0.0021833,0.0001942,0.014620
+21,Elderly aged 65 and over,,,
+22,Well polished rice,0.1005097,0.0065293,0.569893
+23,(domestic rice)-Japonica type,,,
+24,Wheat (whole grain),0.0282818,0.0034603,0.326445
+25,Glutinous rice,0.0042694,0.0011723,0.034562
+26,(well polished rice,,,
+27,Barley(unhulled),0.0042162,0.0004510,0.042837

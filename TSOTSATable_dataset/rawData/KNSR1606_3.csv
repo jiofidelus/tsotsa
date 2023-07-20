@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,peak,peak,phenolic compound,CBID,RCDID,CBRM,RCDRM
+1,,,,(%),(%),(%),(%)
+2,anthocyanins,anthocyanins,,,,,
+3,1,,cyanidin-3-O-glucoside,2.00.5,0.60.1,0.030.01,0.020.01
+4,2,,cyanidin-3-O-xyloside,-,,,
+5,3,,cyanidin-3-O-(6-O-malonylglucoside),,,,
+6,4,,"cyanidin-3-O--(6""-(3-hydroxy-3-methylglutaryl)-glucoside",0.40.1,0.040.01,0.06  0.02,0.020.01
+7,total anthocyaninsa,total anthocyaninsa,,2.30.5,0.64  0.08,0.030.01,0.020.01
+8,ellagitannins,ellagitannins,,,,,
+9,5,,lambertianin C,0.2  0.1,,0.20.02,
+10,6,,lambertianin A,0.0400.001,,0.0100.001,
+11,free ellagic acid,free ellagic acid,,,,,
+12,7,,ellagic acid,10.0  1.0,0.0800.004,13.0  1.0,0.12  0.01
+13,,total phenolic compoundsb,,13.23  0.01,0.170.01,1.080.02,0.0100.001

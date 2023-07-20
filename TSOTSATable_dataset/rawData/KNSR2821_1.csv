@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7,8
+0,(A),,,,,,,,
+1,Material,,Certified or target,Certified or target,Lab A,,Lab B,,Mean (RSD)
+2,,,concentration,,,,,,
+3,Vitamin D3,,,,,,,,
+4,Cheese control compositeb,,7.55  1.35,,7.89(n/a;1 [0.4],7.89(n/a;1 [0.4],7.10n/a;1[-0.5],7.10n/a;1[-0.5],0.66 (5.3%)
+5,Egg control compositeb,,,,0.69 (5.8%; 5) [0.2],0.69 (5.8%; 5) [0.2],0.64 (3.3%; 2) [0.5],0.64 (3.3%; 2) [0.5],0.66 (5.3%)
+6,Pork/egg control compositeb,,4.72  0.51,,,,4.25n/a;1,4.25n/a;1,n/a
+7, Health Canada pork reference materiald,,0.36,,0.37 (6.9%; 4) [0.2],0.37 (6.9%; 4) [0.2],0.37 (4.2%; 2) [0.3],0.37 (4.2%; 2) [0.3],0.37 (0.0%)
+8,25-OH-vitamin D3,,,,,,,,
+9,Health Canada pork reference material,,0.16,,,,0.14 (5.0%;2) [0.16],0.14 (5.0%;2) [0.16],n/a
+10,(B),,,,,,,,
+11,Material,Certified or target,Certified or target,Lab B,,Lab C,,Lab D,Mean (RSD)
+12,,concentration,concentration,,,,,,
+13,Cholesterol,,,,,,,,
+14,NIST 1546 meat homogenated,75.0  7.2,,,,74.0 (1.3%; 2)[0.6],,64.1 (0.4%; 2) [7.0],71.0 (8.5%)
+15,NIST 1845 whole egg powderd,186439,,1800 (n/a; 1) [-1.9],1800 (n/a; 1) [-1.9],,,1840 (n/a; 1) [0.7],1835 (1.8%)
+16,NIST 1563-2 fortified coconut oild,63.8  0.8,,,,,,64.2 (n/a; 1) [0.2],n/a

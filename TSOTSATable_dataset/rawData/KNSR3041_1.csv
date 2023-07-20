@@ -1,0 +1,9 @@
+,0,1,2
+0,Parameter,Ni,Co
+1,Wavelength[nm],232,240.7
+2,Lamp current[mA],5,5
+3,Spectral bandpass[nm],0.2,0.2
+4,Injection volume[l],20,20
+5,Pyrolysis temperature[C],900,900
+6,Atomization temperature[C],2400,2400
+7,Cleaning temperature[C],2600,2600

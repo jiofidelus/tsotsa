@@ -1,0 +1,47 @@
+,0,1,2,3,4,5,6,7
+0,a),,,,,,,
+1,Peak,MW,lambda,,Parent and,,Identified phenolic,Identified phenolic
+2,no,,max,,Fragment ions,,compounds,
+3,,,(nm),[M-H],[M-H],,,
+4,1,564,327,,563;473;353,,isoschaftoside,
+5,2,564,270;349,,563473;353,,schaftoside,
+6,3,194,287sh;,193,193,,ferulic acid,
+7,,,323,,,,,
+8,4,376,,375,375,,5-nonadecylresorcinol,5-nonadecylresorcinol
+9,5,376,287sh;,,,,cinnamic derivative,cinnamic derivative
+10,,,323,,,,,
+11,6,194,310,193,193,,cis ferulic acid,
+12,7,178,290sh;,,177;162;145,,methyl idroxycinnamate,
+13,,,310,,,,,
+14,8,208,300sh;,,207;192,,methyl ferulate,
+15,,,324,,,,,
+16,9,578,294sh;,577,577,,dehydrotriferulic acid,dehydrotriferulic acid
+17,,,323,,,,isomerl,
+18,10,578,294sh;,577,577,,dehydrotriferulic acid,dehydrotriferulic acid
+19,,,326,,,,isomer2,
+20,b),,,,,,,
+21,Steryl,MW,[M-,Fragment,Fragment,Identified compounds,Identified compounds,Matrices
+22,Ferulates,,H],ions (m/z),ions (m/z),,,
+23,1s,590,589,574;193175,574;193175,7- Stigmastenyl,7- Stigmastenyl,R
+24,,,,,,ferulate,,
+25,1*s,562,561,179,,Caffeoyl phytosterol,Caffeoyl phytosterol,S
+26,2s,588,587,572;193;175,572;193;175,Stigmasteryl ferulate,Stigmasteryl ferulate,R
+27,3s,602,601,586;175,586;175,Cycloartenyl ferulate,Cycloartenyl ferulate,R
+28,3*s,576,575,179,,Caffeoyl phytosterol,Caffeoyl phytosterol,"FM,PM,S"
+29,4s,616,615,600;175,600;175,24-,,"R,FM,PM,"
+30,,,,,,Methylencycloartanyl,Methylencycloartanyl,"MW,AW"
+31,,,,,,ferulate,,
+32,5s,576,575,560;193;175,560;193;175,7-Campestenyl,7-Campestenyl,"R,MW,"
+33,,,,,,ferulate,,"AW,SP"
+34,5s,578,577,,,,,"FM,PM"
+35,6s,576,575,560;193;175,560;193;175,Campesteryl ferulate,Campesteryl ferulate,"R,MW,"
+36,,,,,,,,"AW,S"
+37,7s,590,589,574;193;175,574;193;175,Sitostenyl ferulate,Sitostenyl ferulate,R(trace)
+38,8s,590,589,574;193;175,574;193;175,Sitosteryl ferulate,Sitosteryl ferulate,"R,FM,PM,"
+39,,,,,,,,"MW,AW,"
+40,,,,,,,,"S,SP"
+41,9s,578,577,562;193;175,562;193;175,Campestanyl ferulate,Campestanyl ferulate,"R,FM,PM,"
+42,,,,,,,,"MW,AW,"
+43,,,,,,,,SP
+44,10s,592,591,576;193;175,576;193;175,Sitostanyl ferulate,Sitostanyl ferulate,"R,FM,PM,"
+45,,,,,,,,"MW,AW,"

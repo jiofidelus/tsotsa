@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Label,SR-Legacy,SR-Legacy name,Amount,Calories,Total fat,Saturated fat,Carbohydrate,Total sugars,Protein,Sodium*
+1,Ingredient,code,,(g),,(g),(g),(g),(g),(g),(mg)
+2,Corn,11178,"Yellow corn,",28,24.6,0.2,0.03,5.8,0.7,0.8,1
+3,,,frozen,,,,,,,,
+4,Carrots,11130,"Carrots, frozen",27,9.7,0.1,0.01,2.1,1.3,0.2,18
+5,Green beans,11061,"Snap beans,",25,7.0,0.,0.01,1.6,0.5,0.4,0
+6,,,frozen,,7.0,,,1.6,,,
+7,Peas,11312,"Peas, green,",20,15.4,0.1,0.01,2.7,1.0,1.0,21
+8,,,frozen,,,,,12.2,,,
+9,Total,-,-,100,56.7,0.4,0.05,12.2,3.5,2.4,40

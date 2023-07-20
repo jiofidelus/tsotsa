@@ -1,0 +1,8 @@
+,0,1,2,3,4,5
+0,Reference,Certified,Measured,Recovery,RSD,t value
+1,material,value,value a,(%,(%),"b,c"
+2,SRM 1643f,36.07,35.84 0.39,99.4,1.1,0.29
+3,(water),0.28 g L-1,gL-1,,,
+4,SRM 1570a,0.570.02,0.590.03,98.5,1.2,0.26
+5,(Spinach,H8 g~1,gg~1,,,
+6,leaves),,,,,

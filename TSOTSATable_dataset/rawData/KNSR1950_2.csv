@@ -1,0 +1,54 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,flavonoid class,,,,,,,,
+1,Flavonoid class,Food group (number of,Example(s) of codes in food group and valuee,Example(s) of codes in food group and valuee,,"WWEIA,",,,"WWEIA,",
+2,,codes with non-zero,Code,,Value,NHANES,HANDLS,HANDLS,NHANES,HANDLS
+3,,values),Code,Description,Value,NHANES,NHANES,,NHANES,
+4,,,,,mg/,,-% contribution to flavonoid class intake,,,
+5,,,,,100g,,,,,
+6,Total,,92305090,with low calorie sweetener,59,,,,,
+7,flavonoids,Tea 23,,"Tea,leaf,presweetened with low calorie",,81,82,79,82,84
+8,flavonoids,,92302300,"Tea,leaf,presweetened with low calorie",122,,,,,
+9,,,,"Blueberries, cooked or canned, not specified as to",,,,,,
+10,Anthocyanidins,Blueberries (3),63203110,specified as to type of sweetener,76,25,26,3,26,20
+11,,,63203010,"Blueberries, raw",163,,,,,
+12,,Other vegetablesf (36),75105000,cooking,210,14,,6,11,6
+13,,Wine (6),93402000,"Wine, dessert (includes marsala, port, madeira)",109,11,,21,10,23
+14,,Grapes(1,63123000,"Grapes, raw, not specified as to type",24,10,,17,11,10
+15,,Strawberries (7),63223120,water pack,18,7,,12,7,4
+16,,,63223020,"Strawberries, raw",27,,,,,
+17,,than apple (10),64105400,"Cranberry juice, 100 %, not a blend",54,4,,10,5,10
+18,Flavan-3-ols,Tea (23,92302600,"Tea, leaf, decaffeinated, presweetened with sugar",63,95,,95,95,96
+19,Flavan-3-ols,Tea (23,92302000,"Tea, leaf, unsweetened",118,95,,95,95,96
+20,Flavanones,Orange juice (6),61210010,"Orange juice, freshly squeezed",14,60,,70,60,62
+21,Flavanones,Orange juice (6),61210620,"Orange juice, frozen (reconstituted with water)",29,60,,70,60,62
+22,,Oranges (1),61119010,"Orange, raw",43,20,,13,17,15
+23,Flavones,Sweet peppers (13),75226010,"Peppers, green, cooked, fat not added",5.3,12,,21,9,8
+24,,,92301160,"Tea, not specified as to type, decaffeinated",0.04,,,,,
+25,,Tea (23),92301160,presweetened with sugar,0.04,9,,12,13,15
+26,,,92302600,"Tea, leaf, decaffeinated, presweetened with sugar",0.05,,,,,
+27,,Parsley (2),75119000,"Parsley,raw",217,15,<1,<1,0,0
+28,,Meat mixed dishes (167),27214110,"Meat loaf made with beef, with tomato-based",0.01,,,9,6,10
+29,,,27420470,"Sausage and peppers, no sauce (mixture)",1.10,,,,,
+30,,,63149010,"Watermelon,raw",0.46,,,,,
+31,,Melons (2),63109010," Cantaloupe (muskmelon), raw (includes melon,",0.64,3,,4,7,10
+32,,,63109010,not further specified),0.64,,,,,
+33,,,92305180,"Tea, made from powdered instant, decaffeinated,",1.4,,,,,
+34,Flavonols,Tea (23),92305180,unsweetened,1.4,37,44,34,44,45
+35,,,92302500,"Tea, leaf, decaffeinated, unsweetened",4.6,,,,,
+36,,,75415022,"Onion rings, from frozen, batter-dipped, baked or",8,,,,,
+37,,Onions (20,75221100,fried,8,7,,13,4,8
+38,,,75221100,"Onions, dehydrated",195,,,,,
+39,,,11832000,"Meal replacement, protein type, milk- and soy-",83,,,,30,
+40,Isoflavones,Protein powders (4,11832000,"based, powdered, not reconstituted",83,39,,23,30,23
+41,,,41430310,Protein diet powder with soy and casein,167,,,,,
+42,,Processed soy products,41810250,"Bacon bits, meatless",118,6,,38,15,19
+43,,Milk substitutes (5),11321000,"Milk, soy, ready-to-drink, not baby's, chocolate",7.6,17,,10,16,31
+44,,Milk substitutes (5),11320000,"Milk, soy, ready-to-drink, not baby's",7.8,17,,10,16,31
+45,,Soups (8),41601040,Lima bean soup,0.01,5,,11,1,9
+46,,Soups (8),41601070,"Soybean soup, miso broth",5,5,,11,1,9
+47,,"Doughnuts, sweet rolls,",53610170,"Coffee cake, crumb or quick-bread type, with fruit",0.01,8,,10,5,8
+48,,pastries (16),53520120,"Doughnut, chocolate, cake type",6,8,,10,5,8
+49,,,,"Beef and vegetables (including carrots, broccoli,",,,,,,
+50,,,27415100,"and/or dark-green leafy(no potatoes),soy-based",0.03,,,,,
+51,,Asian mixed dishes (55),,"Tofu and vegetables (including carrots, broccoli,",,1,,1,10,2
+52,,,41812500,"and/or dark-green leafy vegetables (no potatoes)),",9,,,,,

@@ -1,0 +1,29 @@
+,0,1,2,3
+0,Amino Acid,Spanish (mg/g),Valencia (mg/g),Virginia (mg/g)
+1,Essential Amino Acids,,,
+2,Histidine (His,0.64 0.06a,0.23  0.04c,0.35  0.02b
+3,Isoleucine (Ile,0.55 0.04a,0.30  0.02c,0.46  0.01b
+4,Leucine (Leu,0.21 0.01a,0.12  0.01b,0.14 0.01b
+5,Lysine (Lys),6.07  0.10a,2.67  0.24c,3.42  0.26b
+6,Methionine (Met),<0.01,<0.01,<0.01
+7,Phenylalanine(Phe),3.44 0.02a,2.33  0.02b,3.35  0.07a
+8,Threonine (Thr),<0.01,<0.01,<0.01
+9,Tryptophan (Trp),<0.01,<0.01,<0.01
+10,Valine (Val),0.220.01a,0.12  0.01b,0.130.01b
+11,Non-essential Amino Acids,,,
+12,Alanine (Ala),0.11 0.01a,0.040.01b,0.050.01b
+13,Arginine (Arg),1.780.01,0.59  0.01c,0.76  0.03b
+14,Aspartic acid (Asp),0.99  0.03a,0.30  0.01c,0.73  0.02b
+15,Asparagine (Asn),0.720.01a,0.25 0.03c,0.41  0.01b
+16,Cysteine (Cys),0.160.01a,0.07  0.02b,0.09  0.01b
+17,Glycine (Gly),11.20.7a,5.50  0.37c,8.31  0.40b
+18,Glutamic acid (Glu),0.82  0.02a,0.37  0.08b,0.41  0.02b
+19,Glutamine (Gln),3.12  0.13a,1.570.01,1.88 0.01b
+20,Proline (Pro),0.63 0.01a,0.40  0.09c,0.50  0.01b
+21,Serine (Ser),1.24  0.02a,0.60  0.02c,0.86  0.02b
+22,Tyrosine (Tyr),0.86  0.01a,0.33  0.02c,0.51  0.01b
+23,AA,32.8  0.8,15.80.4,22.4  0.5
+24,EAA,11.10.2,5.780.15,7.850.13
+25,E NEAA,21.7 0.1,10.00.1,14.50.1
+26,EAA/AA ratio,0.34,0.37,0.35
+27,EAA/NEAA ratio,0.51,0.58,0.54

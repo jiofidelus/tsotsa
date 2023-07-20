@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7
+0,Extraction,Independent,,Coded Values,Coded Values,,,
+1,Method,Variables,,,,,,
+2,,,,-1.682,1,0,1,1.682
+3,Classical,Biomass/,(A),0.32,1,2,3,3.68
+4,Extraction,Solvent Ratio,,,,,,
+5,(CE),(%),,,,,,
+6,,Hom. Rate,(B),3636,5000,7000,9000,"10,363"
+7,,(rpm),,,,,,
+8,,Time (min),(C),1.59,5,10,15,18.41
+9,Ultrasound,Biomass/,(A),0.32,1,2,3,3.68
+10,Extraction,Solvent Ratio,,,,,,
+11,(UE,(%),,,,,,
+12,,Amplitude (%),(D),19.77,30,45,60,70.23
+13,,Time (min),(C),4.89,10,17.5,25,30.11
+14,Microwave,Biomass/,(A),0.32,1,2,3,3.68
+15,Extraction,Solvent Ratio,,,,,,
+16,(ME),(%),,,,,,
+17,,Power (W,(E,65.91,100,150,200,234.09
+18,,Time (s),(C),19.09,60,120,180,220.91

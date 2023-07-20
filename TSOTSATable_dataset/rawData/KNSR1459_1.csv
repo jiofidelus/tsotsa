@@ -1,0 +1,35 @@
+,0,1,2,3
+0,,Men(N=1096,Women,p-value b
+1,,,N=1112,
+2,%(SE),,,
+3,Reporting all three meal,64 (2.5),71 (1.8),0.020
+4,types,,,
+5,Race/Ethnicity:,,,
+6,Non-Hispanic white,68(4.0,75 (2.2),0.050
+7,Non-Hispanic black,46 (4.2),53(3.0),0.081
+8,Hispanic,50 (3.6),52 (6.5),0.791
+9,Non-Hispanic Asian,77 (4.1),87 (4.2),0.052
+10,Weight status:,,,
+11,Normal,64 (4.0),72 (4.0),0.113
+12,Overweight,59 (4.7),72 (4.0),0.001
+13,Obese,69 (2.0),70 (3.1),0.852
+14,Family income (PIR,,,
+15,130% Poverty,47 (5.8),63 (5.3),0.101
+16,131-350%,61 (3.3),67 (3.4),0.215
+17,>350%,744.3),78 (2.9),0.285
+18,Smoking status:,,,
+19,Never smoker,67 (3.8),73 (2.0),0.118
+20,Former smoker,70(3.1,74 (3.1),0.397
+21,Current smoker,47 (3.9),56 (5.9),0.246
+22,Education status:,,,
+23,Less than HS grad,49 (2.8),59 (4.5),0.113
+24,HS grad,58 (3.7),73 (2.9),<0.001
+25,More than HS grad,71 (3.4),74 (2.4),0.356
+26,Exercise(minutes/wk),,,
+27,<150,59 (3.1),67 (2.3),0.039
+28,150-299,81(4.0,79 (4.8),0.812
+29,300,70 (3.7),82(3.5),0.057
+30,General Health:,,,
+31,"Excellent, very good",66 (3.4),76 (2.3),0.001
+32,Good,67(4.9),70(3.7),0.530
+33,"Fair,poor",55(4.4),62 (5.6),0.333

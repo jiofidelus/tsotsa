@@ -1,0 +1,62 @@
+,0,1,2,3,4,5,6
+0,in,Treatment,Conditions,Food,Retention,Losses (%),References
+1,,,,,(%),,
+2,,Blanching,"9496C, 90 s",Chive leaves,,29,Kmiecik and Lisiewska
+3,,,,,,,(1999)
+4,,,,Parsley leaves,,47-51,Lisiewska and Kmiecik
+5,,,,,,,(1997)
+6,,,"96-98C,3 min",Broccoli,,41-42,Lisiewska and Kmiecik
+7,,,,,,,(1996)
+8,,,"96-98C, 4min",Cauliflower,,28-32,
+9,,"Blanching,","100C,30 min",Jalapeno peppers,,75,Howard et al. (1994)
+10,,"packaging, heat-",,,,,
+11,,treating,,,,,
+12,,Thawing,"22.32C,5h",Spinach,,15.7,Nursal and Yuicecan (200
+13,,,"22.32C,4h",Green beans,,19.6,
+14,,,"22.32C,3 h",Okra,,9.6,
+15,,(Unthawed/thawed),Double-based,Spinach,,46.5/50.0,
+16,,boiling," stainless-steel pan,",,,,
+17,,,5+25min,,,,
+18,,,,Peas,,25.2/39.6,
+19,,,,Green beans,,18.2/34.7,
+20,,,,Okra,,21.6/33.1,
+21,,,"Teflon pan,",Spinach,,51.1/55.8,
+22,,,5+25 min,,,,
+23,,,,Peas,,32.5/39.4,
+24,,,,Green beans,,30.5/36.2,
+25,,,,Okra,,25.4/36.7,
+26,,,"Pyrex pan,",Spinach,,58.5/60.3,
+27,,,5+25 min,,,,
+28,,,,Peas,,36.0/40.8,
+29,,,,Green beans,,42.1/48.4,
+30,,,,Okra,,28.2/41.6,
+31,,Boiling,3.0-5.5min,Various vegetables,34-56,,Masrizal et al.(1997)
+32,,,,Spinach,33.9,,Warthessen et al. (1984)
+33,,,,Green beans,63.7,,
+34,,Boiling in water to,,Spinach,49.1,,Krehl and Winters (1950)
+35,,cover,,,,,
+36,,Conventional,Starting with boiled,"Cauliflower, white cabbage.",,37.8,Ilow et al.(1995)
+37,,cooking,water,"Brussels sprout,",,,
+38,,,,"French bean, Potatoes",,,
+39,,,Starting with cold,,,53.3,
+40,,,water,,,,
+41,,,5 min,Broccoli,72.8,18.9+8.3 cwaVallejo et al.2002,18.9+8.3 cwaVallejo et al.2002
+42,,Cooking,5 min,Potatoes,,20-40,Golaszewska and Zalewsk
+43,,,,,,,(2001)
+44,,Cooking +keeping,"55-60C,1h",Potatoes,,30+10,Hagg et al.(1998)
+45,,hot,,,,,
+46,,Pressure-cooking,,"Cauliflower, white cabbage,",,32.8,1low et al. (1995)
+47,,,,"Brussels sprout,",,,
+48,,,,"French bean,Potatoes",,,
+49,,High pressure,3min,Broccoli,74.5,9.1+16.4 cwVallejo et al.2002,9.1+16.4 cwVallejo et al.2002
+50,,boiling,,,,,
+51,,"Microwaving,",,Potatoes,,8-17,Golaszewska and Zalewsl
+52,,pressure-cooking,,,99.7,,(2001)
+53,,Steaming,3.5min,Broccoli,99.7,0.3,Vallejo et al.(2002)
+54,,Microwave steaming,3.25-5.0min,Various vegetables,5279,,Masrizal et al. (1997)
+55,,Microwaving,,"Cauliflower, white cabbage,",,13.9,Ilow et al.(1995)
+56,,,,"Brussels sprout,",,,
+57,,,,"French bean, potatoes",,,
+58,,,5 min,Broccoli,54.0,37.7+8.3cw),Vallejo et al.2002
+59,,,,Spinach,67.8,,Warthessen et al. (1984)
+60,,,,,78.6,,

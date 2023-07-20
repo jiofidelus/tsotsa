@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7
+0,Food,Fata (%),Season (months),Composite samples,,,MeanbSD,
+1,,,,Unitse,Vitamin D2,250HD2,Vitamin D,25OHD2
+2,Milk (whole),1.5,Feb-April,11,2.0*,2.9*,3.4  1.2,3.1  0.7
+3,Milk(whole),1.5,May-July,14,4.2*,4.0*,,
+4,Milk (whole),1.5,Aug-Oct,12,4.2*,3.3*,,
+5,Milk (whole),1.5,Nov-Jan,12,2.9*,3.3*,,
+6,Butter,80.0,Feb-April,11,56*,53,61  5.0,58  23
+7,Butter,80.0,May-July,14,58,35*,,
+8,Butter,80.0,Nov-Jan,12,63,54,,
+9,Butter,80.0,Nov-Jan,12,67,90,,

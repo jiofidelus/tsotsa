@@ -1,0 +1,10 @@
+,0,1,2,3,4,5
+0,Compound,,,ACN extraction,ACN extraction,
+1,,Method 1,Method 2,,Method 3,Method 4
+2,,Hydrolysis+extractiona,Hydrolysis+derivatizationb/,Hydrolysis+derivatizationb/,Hydrolysis/extraction/,Hydrolysis/extraction/concentration/
+3,,derivatization,Extraction,,derivatization,derivatization
+4,,,,% Recovery (% RSD),,
+5,NP-AOZ,10629,363,,70(3,6212)
+6,NP-AMOZ,102(16,291),,1042,1034
+7,NP-SEM,N.E.e,1321,,47(43,24 (267)
+8,NP-AHD,118 (69,1651),,99(8,13614

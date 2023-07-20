@@ -1,0 +1,40 @@
+,0,1,2,3,4
+0,Number,Compound (s) omitted,Na,Significanceb,
+1,1,all alcohol(1-Octen-3-ol),2,,
+2,2,all aldehyde,7,,*
+3,2-1,Hexanal,7,*,*
+4,22,Decanal,2,,-
+5,23,E-2-Octenal,2,,-
+6,24,Benzaldehyde,6,,
+7,3,all ketone,10,***,***
+8,3-1,"2,3-Butanedione",10,***,***
+9,3-2,3-Octanone,5,,
+10,3-3,3-Hydroxy-2-butanone,10,***,***
+11,3-4,1-Octen-3-one,6,,-
+12,3-5,6-Methyl-5-hepten-2-one,8,**,**
+13,3-6,3-Hydroxy-2-butanone acetate,8,**,**
+14,4,all acids,10,***,***
+15,4-1,3-Methylbutanoic acid,8,**,**
+16,42,E-2-Butenoic acid,9,***,***
+17,4-3,Hexanoic acid,9,***,***
+18,4-4,Heptanoic acid,4,,-
+19,4-5,E-2-Hexenoic acid,6,,
+20,5,all esters,10,***,***
+21,5-1,Methyl hexanoate,6,,
+22,5-3,Methyl heptanoate,6,,-
+23,5-4,Methyl decanoate,9,***,***
+24,5-5,Ethyl decanoate,9,***,***
+25,5-6,Methyl benzoate,4,,
+26,5-7,Methyl dodecanoate,10,***,***
+27,6,all lactones,10,***,***
+28,6-1,5-Ethyl-2-oxolanone,8,**,**
+29,62,5-Propyl-2-oxolanone,9,***,***
+30,63,5-Butyl-2-oxolanone,10,***,***
+31,7,all pyrazines,10,***,***
+32,7-1,2-Ethyl-6-methylpyrazine,6,,
+33,72,"3,5-Dimethyl-2-ethylpyrazine",10,***,***
+34,8,all olefins,3,,
+35,8-1,Limonene,3,,
+36,82,Styrene,2,,
+37,9,1-Methyl-4-(2-propyl)benzene,5,,
+38,10,Naphthalene,2,,

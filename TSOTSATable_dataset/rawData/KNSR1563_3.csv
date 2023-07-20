@@ -1,0 +1,8 @@
+,0,1,2,3
+0,Parameter,Set to,Parameter,Set to
+1,Carrier (kPa),110,Sample delay (sec),14
+2,Purge (mL/min),80,Run time (sec),120
+3,Oxygen (mL),7,Front furnace (C),1020
+4,PO2 (kPa),25,Rear furnace (C),0
+5,Oxidation time (sec),4.4,GC Oven (C),90
+6,Gain,x1,,

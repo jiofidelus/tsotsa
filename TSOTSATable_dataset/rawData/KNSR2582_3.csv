@@ -1,0 +1,10 @@
+,0,1,2,3,4,5
+0,,Oil,Palmitic,Stearic,Oleic,Linoleic
+1,,,acid,acid,acid,acid
+2,Palmitic acid,0.73,,,,
+3,,**,,,,
+4,Stearic acid,0.59*,-0.66**,,,
+5,Oleic acid,0.15 ns,-0.43*,0.58*,,
+6,Linoleic acid,0.39 ns,0.33 ns,0.31 ns,0.54*,
+7,Linolenic,0.43*,0.66**,0.63**,0.62 **,0.42
+8,acid,,,,,

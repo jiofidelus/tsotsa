@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6
+0,,Step 1-Extraction,,Step 2- Analysis,,Total,
+1,,Time requirement (min),Chemical cost (),Time requirement (min),Chemical cost (),Time requirement (min),Chemical cost (
+2,H-L Method,45,0.08,65,0.78,110,0.86
+3,Chen Method,720,0.02,15,0.63,735,0.65
+4,Wade Method,60,0.15,34,26.31,94,26.46
+5,AOAC Method,180,0.05,86,28.55,266,28.60

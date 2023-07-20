@@ -1,0 +1,54 @@
+,0,1,2,3,4
+0,Honey type,Honey,Year of,No.of,Hive location
+1,,samples,collection,samples,
+2,,Multifloral,2018,,
+3,,herbs KZ 1,2018,,"Kazakhstan, Almaty"
+4,Multifloral,Multifloral,2019,3,"Region, mountain,"
+5,herbs KZ,herbs KZ 2,2019,3,"Alatau, 4321'N,"
+6,,herbs KZ 3,2019,,"778'E,wild nature."
+7,,Multifloral,2019,,"Kazakhstan, the south,"
+8,Multifloral,KZ 4,2019,,"Shymkent, Region,"
+9,KZ,Multifloral,,2,"agriculture 4219'N,"
+10,KZ,KZ 5,2019,,"6935'E, agricultural"
+11,,KZ 5,,,land.
+12,,PL6,2018,,
+13,,PL7,2018,,
+14,,PL8,2019,,
+15,,PL9,2019,,"Poland, the north -"
+16,Multifloral,Multifloral,2019,9,"east, Podlaskie Region,"
+17,PL,PL10,2019,9,"Tykocin, agricultural"
+18,,PL11,2020,,land.
+19,,PL12,2020,,
+20,,PL 13,2020,,
+21,,Multifloral,2020,,
+22,,PL14,2020,,
+23,,city PL 15,2019,,"east, Podlaskie Region,"
+24,,city PL 16,2019,,2309'E
+25,,Multifloral,2019,,"Poland, the central,"
+26,Multifloral,city PL 17,2019,6,"Mazowieckie Region,"
+27,city PL,city PL 18,2020,,2100'E
+28,,city PL 19,2020,,"east, Podlaskie Region,"
+29,,city PL 20,2020,,2204'E
+30,,BY 21,2018,,
+31,,Multifloral,2018,,
+32,,BY 22,2018,,
+33,,BY 23,2019,,"Belarus, the north "
+34,BY,BY 24,2019,7,"5341'N,254'E,"
+35,,BY 25,2020,,agricultural land.
+36,,BY 26,2020,,
+37,,Multifloral,2020,,
+38,,BY 27,2020,,
+39,,PL 28,2018,,
+40,,Honeydew p,2018,,
+41,,Honeydew p,,,"Poland, the north "
+42,Honeydew p,PL30,2018,,"east, Podlaskie Region,"
+43,PL,Honeydew p,,6,"Bialowieza Forest, 52"
+44,PL,PL31,2019,,"45' N, 24 53'E forest"
+45,,Honeydew p,,,areas.
+46,,PL32,2019,,
+47,,PL33,2019,,
+48,,PL34,2018,,"Poland, the north"
+49,Honeydew s,Honeydew s,,,"east, Podlaskie Region,"
+50,PL,PL35,2018,10,"Suwalska Forest,53"
+51,PL,Honeydew s,,,"13,N 2450'E, forest"
+52,,PL36,2018,,areas.

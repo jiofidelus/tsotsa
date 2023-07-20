@@ -1,0 +1,19 @@
+,0,1,2,3,4,5
+0,Congeners,TTS,SNV,NVY,MLO,SAR
+1,Naphthalene,BDL,BDL,BDL,BDL,0.451  0.637
+2,Acenaphthylene,0.017 0.024,BDL,BDL,BDL,0.0040.0001
+3,Acenaphthene,BDL,0.802  0.161,0.694  0.041,0.633  0.040,1.455  0.002
+4,Fluorene,0.0020.0001,0.0010.0001,0.0010.0001,0.001  0.0001,0.003  0.004
+5, Phenanthrene,0.852  0.283,0.394  0.055,0.542  0.019,0.595  0.003,15.271  0.689
+6,Anthracene,BDL,1.217  0.721,BDL,BDL,5.012  0.089
+7,Fluoranthene,BDL,0.011  0.016,BDL,BDL,0.073  0.003
+8,Pyrene,0.415  0.065,3.72  0.206,1.291  0.017,0.851  0.031,11.845  0.191
+9,Benzo[a]anthracene,BDL,BDL,BDL,BDL,BDL
+10,Chrysene,0.015  0.021,0.049  0.002,BDL,0.060  0.084,0.271  0.031
+11,Benzo[b]fluoranthene,0.192  0.272,0.865  0.049,BDL,BDL,BDL
+12,Benzo[k]fluoranthene,0.048  0.068,BDL,BDL,0.062  0.088,0.236  0.033
+13,Benzo[a]pyrene,0.202  0.012,0.428  0.282,0.062  0.088,0.288  0.005,0.925  0.062
+14,"Dibenzo[a,h]anthracene",0.172  0.172,0.136  0.010,BDL,0.0363  0.051,BDL
+15,"Benzo[g,h,i]perylene",BDL,BDL,BDL,BDL,BDL
+16,"Indeno[1,2,3-cd]pyrene",3.72  0.267,8.033,BDL,BDL,BDL
+17,PAH content,5.639,8.033,2.590,2.526,35.546

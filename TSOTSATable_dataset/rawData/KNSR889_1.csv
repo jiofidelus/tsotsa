@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Frankfurter,Energy,Moisture,Lipid,Protein,Ash,Cholesterol
+1,,kJ/100 g),(g/100 g),(g/100 g),g/100 g),g/100 g),(mg/100 g)
+2,Pork back fat(control),634.4a,69.80.6c,8.20.1a,14.1+0.9c,"2.10.4b,c",48.40.0a
+3,Carrageen,452.2b,73.5+0.2a,2.50.1b,"15.20.4a,b","2.40.1a,bc",32.90.0b
+4,Cassava starch,476.9b,71.8+0.5b,2.5+0.1b,"14.80.4b,c",2.60.1a,37.30.0b
+5,Whey protein,478.3b,71.60.2b,2.30.2b,15.80.5a,"2.50.1a,b","41.30.0a,b"
+6,Oat bran,460.9b,73.10.3a,2.40.1b,"14.20.6b,c",2.20.1c,"41.00.0a,b"

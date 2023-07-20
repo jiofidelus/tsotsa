@@ -1,0 +1,49 @@
+,0,1,2,3,4,5,6,7
+0,Food group,Food item,Number of samples,3-MCPD(g/kg),,,"1,3-DCPg/kg",
+1,,,,No.of detects,Range,Range,No.of detects,Range
+2,Cereal and its products,Flatten noodle,3,2,<LOD-9,<LOD-9,0,
+3,,Instant noodle,3,3,14-23,14-23,0,-
+4,,"Bread,white",3,3,8-13,8-13,0,-
+5,,"Bread,wheat",3,3,11-23,11-23,0,-
+6,,Plain roll,3,3,10-20,10-20,0,-
+7,,Sausage roll,3,3,,9-10,0,
+8,,Sweet roll,3,2,<LOD-8,<LOD-8,0,
+9,,Soda cracker,3,3,17-22,17-22,0,-
+10,,Paper wrapper cake,3,3,4-8,4-8,0,-
+11,,Egg tart,3,3,8-14,8-14,0,-
+12,,Hamburger,3,3,11-20,11-20,0,-
+13,,Other items,24,0,,,0,-
+14,Vegetable and its products,Itemsb,39,0,,,0,-
+15,Fruits,Itemse,21,0,,,0,-
+16,Dairy products,Itemsd,12,0,,,0,-
+17,"Fish, shellfish and their products","Japanese eel, grilled",3,3,,7-33,0,
+18,,"Salmon fillet,shallow-fried",3,3,5-7,5-7,0,
+19,,"Crab,steamed",3,3,3-9,3-9,3,3.5-5.0
+20,,"Crab, stir-fried",3,3,,3-10,3,2.5-6.0
+21,,"Salted fish, steamed",3,3,9-21,9-21,3,3.0-3.5
+22,,Other itemse,51,0,,,0,
+23,"Meat, poultry and their products","Pork, shredded,stir-fried",3,3,,6-9,0,
+24,,"Pork,minced, stir-fried",3,3,,9-15,0,-
+25,,"Beef, shredded, steamed",3,3,5-9,5-9,0,
+26,,"Beef,shredded, stir-fried",3,3,9-32,9-32,0,-
+27,,"Beef,minced,steamed",3,1,<LOD-4,<LOD-4,0,
+28,,"Beef,minced,stir-fried",3,3,9-14,9-14,0,-
+29,,Chickenstir-fried,3,3,4,,0,-
+30,,Barbequed pork,3,3,6-28,6-28,0,
+31,,Roasted pork,3,3,,6-19,3,9.0-9.5
+32,,Roasted duck/goose,3,2,<LOD-7,<LOD-7,0,-
+33,,Marinated duck/goose,3,3,11-14,11-14,0,-
+34,,"Pork liver,cooked",3,2,<LOD-14,<LOD-14,0,-
+35,,Beef ball,3,3,4-6,4-6,0,
+36,,Luncheon meat,3,2,<LOD-9,<LOD-9,0,-
+37,,Ham,3,2,<LOD-22,<LOD-22,0,
+38,,Sausage,3,0,,,3,4.5-5.0
+39,,Big red sausage,3,1,<LOD-27,<LOD-27,0,
+40,,Liver sausage,3,0,5-10,5-10,0,
+41,,Preserved pork,3,3,9-15,9-15,0,-
+42,,Other items,30,0,,,0,-
+43,Snack,Potato chips,:,3,6-11,6-11,0,-
+44,,Prawn crackers,3,3,25-33,25-33,0,
+45,,"Seaweed,ready-to-eat",3,3,50-66,50-66,0,
+46,,Other items,15,0,,,0,-
+47,Egg and its products,Itemsh,18,0,,,0,

@@ -1,0 +1,24 @@
+,0,1,2,3,4,5
+0,Sample,Analyte,Extraction method,Adsorbent/ extraction solvent,LOD (g/kg),References
+1,Agricultural products (corn),"Aflatoxins (B1,B2,G1 and",D-SPE,Acetonitrile in water followed by clean-up with,0.05-50,Wang et al.
+2,,G2,,C18+PSA+GCB,,(2016b)
+3,,"Fumonisins (B1,B2 and B3)",,,,
+4,,Zearalenone,,,,
+5,,Deoxynivalenol,,,,
+6,Agricultural products (chili pepper),"AFB1,AFB2,AFG1 and AFG2",LE,Methanol in water followed by column clean-up,0.04-0.10,Barani et al.
+7,,,,,,(2016
+8,Agricultural products (peanuts),"Aflatoxins (B1,B2,G1 and",DLLME,Methanol in water followed by DLLME with,0.03-1.0,Chen et al.2017
+9,,G2),,chloroform,,
+10,,Ochratoxin A Zearalenone,,,,
+11,Animal,"AFB1,AFB2,AFG1 and AFG2",IL-DLLME-MSPE,Acetonitrile in water followed by,0.09-0.63,Zhao et al.2016)
+12,feeds,,,IL+ pelargonic acid@FeO4,,
+13,Medicinal herbs (Radix Paeoniae,About 21 mycotoxins,QuEChERS,Acetonitrile in water with QuEChERS salt,0.03-5.4,Xing et al.2016
+14,Alba),including AFs,,package,,
+15,Medicinal and edible Areca catechu,"Aflatoxin (B1,B2,G1,G2",LE,Methanol in water followed by DLLME with,0.01-20,Liu et al.(2016
+16,,HT-2 and T-2 toxin,,chloroform,,
+17,,"Fumonisin B1,B2",,,,
+18,,Citrinin,,,,
+19,,Ochratoxin,,,,
+20,,Zearalenone,,,,
+21,Agricultural products (ground nut,"AFB1,AFB2AFG1 and AFG2",SPME,Acetonitrile in water followed by SPME with,0.01-0.07,This study
+22,and chili pepper,,,[HMIM][PFg]@ZnO-NR,,

@@ -1,0 +1,18 @@
+,0,1,2,3,4,5
+0,Food,No.of,No.of,Sodium,Potassium,Na:Kratio
+1,,brands,purchases,(mg/100g),mg/100g,mmol basis
+2,,,per brand,,,
+3,Pink salmon,,,,,
+4,Farmiand,,,,,
+5,regular,1,4,40018a,300+9a,2.2
+6,no added salt,1,4,1107b,29019a,0.6
+7,All brands,,,,,
+8,regular,6,1+,410+47*,32026*,2.2
+9,no added salt,1,4,110+7*,29019*,0.6
+10,Tuna,,,,,
+11,Farmland,,,,,
+12,regular,1,4,410+32a,170+6a,4.9
+13,no added salt,1,4,82+7b,280+1ob,0.5
+14,All brands,,,,,
+15,regular,8,1+,400100*,21030*,3.2
+16,no added salt,1,4,827*,28010*,0.5

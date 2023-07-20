@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7
+0,Structure,Structure,,,,Peak nr,Compound,Substituents
+1,,,,OH,,,Flavanones,
+2,,,,OH,OH,1/2,(S)/(R)-eriodictyol-6-C-glucopyranoside,"R=H,R=-D-glucopyranosyl"
+3,,,,,OH,3/4,(S)/(R)-eriodictyol-6-C-glucopyranoside,"R=-D-glucopyranosyl,R=H"
+4,,OF,,,,,,
+5,,,,,,,Phenylpropenoid(phenolic precursor),
+6,,,,,,5,Phenylpyruvic acid-2-O-glucopyranoside(PPAG),R=-D-glucopyranosyl
+7,,,OH,,,,,
+8,,,,,OH,,Flavones,
+9,,,,,,6,Iso-orientin,"R=H,R=R4=OH,R=-D-glucopyranosyl"
+10,,,,,,7,Orientin,"R=-D-glucopyranosyl,R=R4=OH,R=H"
+11,,,,,,10,Vitexin,"R=-D-glucopyranosyl,R=OH,R=R4=H"
+12,R3,,,,,13,Isovitexin,"R=R4=H,R=OH,R=-D-glucopyranosyl"
+13,R3,OH,,,,15,Luteolin-7-O-glucopyranoside,"R=R=H,R=-D-glucopyranosyloxy,R4=OH"
+14,,,,R,,,Dihydrochalcones,
+15,,,,,OH,8,Aspalathin,"R=-D-glucopyranosyl,R=OH"
+16,,,,,OH,16,Nothofagin,"R=-D-glucopyranosyl,R=H"
+17,HO,,,,,,,
+18,,OH,,,,,,
+19,,,,,OH,,Flavonols,
+20,,,,,,9,Quercetin-3-O-robinobioside,R=-l-rhamnopyranosyl-(1-6)--D-galactopyranosyloxy
+21,HO,,,,OH,11,Hyperoside,R=-D-galactopyranosyloxy
+22,,,,,OH,12,Rutin,R=-L-rhamnopyranosyl-(1-6)--D-glucopyranosyloxy
+23,,,R,,,14,Isoquercitrin,R=-D-glucopyranosyloxy
+24,,OH,,,,,,

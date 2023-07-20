@@ -1,0 +1,20 @@
+,0,1,2
+0,Parameter,Setting,
+1,SF-ICP-MS,,
+2,Radio frequency power (W),1250,
+3,Plasma gas flow rate (L min-1,15.03,
+4,Auxiliary gas flow rate (L min-1,0.8,
+5,Nebulizer gas flow rate (L min-1,1.045,
+6,Spray chamber,Cinnabar,
+7,Nebulizer,Conikal,
+8,Resolution mode,Low,
+9,Isotopes monitored,"114Cd,208pb",
+10,CVG-AAS,As,Hg
+11,"NaBH4 concentration%,m/v",0.75,0.75
+12,HCl concentrationmol L-,6,1
+13,Sample volume (L),250,500
+14,Wavelength (nm),193.7,253.7
+15,Furnace Heating C),900,100
+16,Signal processing mode,Peak area,Peak area
+17,Radiation Source,EDL,EDL
+18,EDL current(mA,400,200

@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Food sample,Mean,Median,Range,Number of
+1,,ug/kg),ug/kg,,samples
+2,Wheat flakes,,,,
+3,Brand1,104a,97,65-140,6
+4,Brand 2,324b,340,176-468,6
+5,Baby biscuits,,,,
+6,Brand1,232c,211,98-382,5
+7,Brand 2,96d,92,80-119,4
+8,Brand 3,287c,155,102-613,5

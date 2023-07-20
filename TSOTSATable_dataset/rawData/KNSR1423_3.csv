@@ -1,0 +1,42 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,,,Conger eel,,,Hairtail #1,,,Hairtail #2,,,Hairtail #3,,
+1,,New,GC-HRMS,Ratio,New,GC-HRMS,Ratio,New,GC-HRMS,Ratio,New,GC-HRMS,,Ratio
+2,,method,method,(A/B,method,method,(A/B),method,method,(A/B),method,method,,(A/B
+3,,Ang,(B) (ng g~1),,Ang,(B) (ng g~1),,Ang,(B)(ng g~1),,Ang,Bngg1,,(A/B
+4,Total,90,95,0.9,195,198,1.0,216,213,1.0,109,111,1.0,1.0
+5,PCB 28,5.6,5.2,1.0,4.1,4.3,1.0,3.7,3.6,1.0,1.0,1.1,1.0,1.0
+6,PCB 52/,5.6,5.2,1.1,9.9,11,0.9,11,10,1.1,2.0,2.1,0.9,0.9
+7,69b,5.6,5.2,,,,,,,,,,,
+8,PCB 101,5.3,5.2,1.0,14,12,1.1,14,14,1.0,5.0,4.6,1.1,1.1
+9,PCB 118,4.7,4.8,1.0,12,11,1.1,12,12,1.1,5.4,5.2,1.0,1.0
+10,PCB 138,4.2,4.0,1.0,8.9,8.6,1.0,11,9.3,1.1,6.1,6.0,1.0,1.0
+11,PCB 153,10,9.1,1.1,17,16,1.0,21,18,1.2,19,18,1.0,1.0
+12,PCB 180,2.1,2.1,1.0,3.3,3.1,1.1,3.8,3.6,1.1,4.1,3.9,1.1,1.1
+13,aSum of all 209 PCB congeners,aSum of all 209 PCB congeners,aSum of all 209 PCB congeners,,,,,,,,,,,
+14,,,,,bPCB 52 has been found to co-elute with PCB 69 using the gas chromatography column we used.,bPCB 52 has been found to co-elute with PCB 69 using the gas chromatography column we used.,,,,,,,,
+15,,,Hairtail #4,,,Sea bass #1,,,Sea bass #2,,,Tuna #1,,
+16,,New,GC-HRMS,Ratio,New,GC-HRMS,Ratio,New,GC-HRMS,Ratio,New,GC-HRMS,,Ratio
+17,,method,method,(A/B),method,method,(A/B),method,method,(A/B),method,method,,(A/B)
+18,,(A)(ng,(B) (ng g~1),,A(ng,(Bngg1,,A)(ng,(B)(ng g1,,(A(ng,Bng g1,,
+19,,81,,,,,,A)(ng,,,,,,
+20,Total,271,255,1.1,134,137,1.0,117,120,1.0,188,173,1.1,1.1
+21,PCBsa,,,,,,,,,,,,,
+22,PCB 28,4.7,4.9,1.0,1.5,1.6,1.0,3.0,3.1,0.9,0.92,0.85,1.1,1.1
+23,PCB 52/,14,12,1.1,6.2,6.0,1.0,5.6,5.7,1.0,3.8,3.3,1.2,1.2
+24,PCB 118,16,15,1.1,8.5,8.5,1.0,7.1,6.5,1.1,10,10,1.1,1.1
+25,PCB 118,15,14,1.0,8.2,7.8,1.1,5.2,5.1,1.0,11,11,1.0,1.0
+26,PCB 138,14,11,1.2,7.6,7.0,1.1,4.5,4.5,1.0,16,14,1.2,1.2
+27,PCB 153,26,21,1.2,16,13,1.2,9.6,9.7,1.0,28,23,1.2,1.2
+28,PCB 180,4.8,4.5,1.1,3.5,3.2,1.1,2.8,2.5,1.1,5.8,5.1,1.1,1.1
+29,,,,,bpCB 52 has been found to co-elute with PCB 69 using the gas chromatography column we used.,bpCB 52 has been found to co-elute with PCB 69 using the gas chromatography column we used.,,,,,,,,
+30,,,,,Tuna #2,,,,,,Yellowtail,,,
+31,,,New method,,GC-HRMS method,,Ratio (A/B),,New method,,GC-HRMS method,,Ratio (A/B),Ratio (A/B)
+32,,,(A)(ng g1),,(B) (ng g~1),,,,(A)(ng g1),,B)(ng g1,,,
+33,Total PCBsa,,160,,161,,1.0,,93,,103,,0.9,0.9
+34,PCB 28,,1.0,,1.1,,1.0,,0.82,,0.88,,0.9,0.9
+35,PCB 52/69b,,3.3,,3.5,,0.9,,2.1,,2.1,,1.0,1.0
+36,PCB 101,,11,,9.9,,1.1,,4.9,,4.9,,1.0,
+37,PCB 118,,10,,9.5,,1.0,,5.2,,5.3,,1.0,
+38,PCB 138,,12,,12,,1.0,,5.7,,5.6,,1.1,1.0
+39,PCB 153,,21,,20,,1.0,,16,,14,,1.1,
+40,PCB 180,,5.7,,5.1,,1.1,,3.0,,3.1,,1.0,1.0

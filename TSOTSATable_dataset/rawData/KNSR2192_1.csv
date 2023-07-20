@@ -1,0 +1,70 @@
+,0,1,2,3,4,5
+0,ID,Specie,Location/,Latitude,Longitude,Location
+1,,Specie,sampling,,,description
+2,,,year,,,description
+3,#1,L.deliciosus (n=,Dchar,3504,513,Close to the
+4,,26),"(Chaouen,",36.9N,49.5' W,urban
+5,,,Morocco),,,Pines
+6,,,2017,,,
+7,#2,L. deliciosus (n=,"(Tetouan,","8.2""N",526, the urban
+8,,20),"(Tetouan,","8.2""N","7.4""W", the urban
+9,,,Morocco),,,nucleus /
+10,,,2017,,,Pine forest
+11,#3,L.deliciosus (n=,Pinar de la,3633,67,Close to the
+12,,16),Dehesa de,"7.0""N","50.9"" W",urban
+13,,,las Yeguas,,,nucleus/
+14,,,"(Cadiz,",,,Pines
+15,,,Spain2017,,,
+16,#4,L.deliciosus (n=,Pinar del,3614',523,Close to the
+17,,18),"Rey (Cadiz,","6.3"" N","55.9""W",urban
+18,,,Spain2017,,,nucleus/
+19,,,,,,Pines
+20,#5,L.deliciosus(n=,Sendero El,3614,533',Far from
+21,,19),Palancar,"50.5""N","39.9"" W",nucleus /
+22,,,"(Cadiz,",,,nucleus /
+23,,,Spain)/,,,Pine forest
+24,,,2017,,,
+25,#6,L.deliciosus (n=,Jimena de,3626,5 27,Far from
+26,,14),la Frontera,"23.2"" N",31.0W,nucleus /
+27,,,"(Cadiz,",,,nucleus /
+28,,,Spain2017,,,Pine forest
+29,#7,L.deliciosus (n=,Cortes de la,36 34',524,Far from
+30,,20),Frontera,13.3N,3.7W,the urban
+31,,,Spain2018,,,Pine forest
+32,#8,L.deliciosus n=,Fuente del,374,35,Far from
+33,,22),Espino,9.4N,26.6W,the urban
+34,,,"(Granada,",,,nucleus/
+35,,,Spain2018,,,Pine forest
+36,#9,L.deliciosus (n=,Puerto Real,3631,67,Close to the
+37,,12),"(Cadiz,",21.7N,40.7W,urban
+38,,,Spain2018,,,nucleus/
+39,,,,,,Pines
+40,#10,L.vinosus (n=13,Pinar El,3620,65,Close to the
+41,,,Colorado,13.9N,45.9W,urban
+42,,,"(Cadiz,",,45.9W,nucleus /
+43,,,Spain) 2017,,,Pines
+44,#11,L.vinosus(n=19,Sendero El,3614,533',Far from
+45,,,Palancar,51.5N,"37.9""W",nucleus /
+46,,,"(Cadiz,",,,nucleus /
+47,,,Spain2017,,,Pine forest
+48,#12,L.vinosusn=12,Puerto Real,3631',67,Close to the
+49,,,"(Cadiz,",21.7N,40.7W,urban
+50,,,Spain2018,,,nucleus /
+51,,,,,,Close to the
+52,#13,L.vinosus n=11,Pinar de la,3633,67,Close to the
+53,,,Dehesa de,"22.4""N","59.5""W",urban
+54,,,las Yeguas,,,nucleus/
+55,,,"(Cadiz,",,,Pines
+56,,,Spain2017,,,
+57,#14,L. semisanguifluus,Puerto de la,3716,327,Far from
+58,,n=16,Mora,"58.9""N","36.6"" W",the urban
+59,,,Spain2018,,,Pine forest
+60,#15,L. semisanguifluus,Sierra de,3716,326,Far from
+61,,n=19,Huetor,"45.6"" N",21.9W,the urban
+62,,,"(Granada,",,,nucleus/
+63,,,Spain 2018,3633',,Pine forest
+64,#16,L.rugatusn=12,Cortes de la,"58""N",524,Far from
+65,,,Frontera,"58""N",28.5W, the urban
+66,,,Spain) 2018,3717',,Pine forest
+67,#17,L. sanguifluus (n =,Sierra de,3717',327,Far from
+68,,21),Huetor,"19.2""N","24.9""W", the urban

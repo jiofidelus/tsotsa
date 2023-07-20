@@ -1,0 +1,26 @@
+,0,1,2,3,4,5
+0,,,,,g amounts/,
+1,Family,,Vegetable/Fruit,ug/ga,,NC
+2,Pea,green bean,(Phaseolus vulgaris,0.100.02,6.7,3
+3,,snow pea,Pisum sativum vur.macrocarpon,0.250.04,NA,3
+4,,lima bean,Phaseolus limensis),0.11+0.01,9.1,3
+5,,butter bean ,Phaseolus lunatus),0.090.02,NA,3
+6,,black-eyed pea (Vigna unguiculata),black-eyed pea (Vigna unguiculata),0.090.03,7.9,3
+7,,snap pea,(Phaseolus sativum),0.140.02,NA,3
+8,,english pea,(Pisum sativum),0.450.04,NA,3
+9,Goosefoot,spinach (Spinacia oleracea),spinach (Spinacia oleracea),0.470.08,45.8,4
+10,,beet Beta vulgaris),beet Beta vulgaris),0.180.04,NA,3
+11,Citrus,grapefruit (Citrus paradisi),grapefruit (Citrus paradisi),0.060.001,6.7,4
+12,,orange(Citrus sinensic),orange(Citrus sinensic),0.140.05,3.7,3
+13,,lemon,Citrus limia),0.020.004,NA,3
+14,Nightshade,tomato,(Lycopersicum esculentum),0.050.01,1.5,3
+15,,bell pepper,"(Capsicum annuum,Grossum Grp)",0.13+0.01,NA,4
+16,,eggplant (Solanum melongena),eggplant (Solanum melongena),0.080.004,NA,3
+17,,potato,Solanum tuberosum),0.10+0.024,10.0,3
+18,,"hot pepper (Capsicum annuum,Longum Grp)","hot pepper (Capsicum annuum,Longum Grp)",0.810.04,NA,4
+19,Morning,sweet potato,Ipomaea batatas),0.12+0.01,NA,3
+20,glory,,,,,
+21,Crass,corn,"(Zea mavs,var.rugosa)",0.080.06,6.8,4
+22,Others,mushroom Mussironis,mushroom Mussironis,0.180.05,NA,4
+23,,banana,(Musa sapientum),0.100.03,7.4,3
+24,,grape,(Vitis labrusca),0.240.06,29.6,4

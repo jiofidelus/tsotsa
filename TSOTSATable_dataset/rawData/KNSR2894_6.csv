@@ -1,0 +1,43 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,Meat Products,Adulteration,,,Number of,Type of,Detected speciesa,Detected speciesa,,,,,,Detection
+1,Meat Products,Species,Species,%,samples,treatment,Cow,Buffalo,Chicken,Duck,Goat,Sheep,Pig,accuracy
+2,Model Frankfurters,,,,,,,,,,,,,
+3,Beef Frankfurter,"Buffalo, chicken, duck",,5.0,3,Raw,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+4,,"goat, sheep and pig",,,,,,,,,,,,
+5,Beef Frankfurter,"Buffalo, chicken, duck,",,1.0,3,Raw,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+6,,"goat, sheep and pig",,,,,,,,,,,,
+7,Beef Frankfurter,"Buffalo, chicken, duck,",,0.5,3,Raw,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+8,,"goat, sheep and pig",,,,,,,,,,,,
+9,Beef Frankfurter,Buffalo chickenduck,,0.5,3,Boil,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+10,,"goat, sheep and pig",,,,,,,,,,,,
+11,Beef Frankfurter,"Buffalo, chicken duck",,0.5,3,Autoclave,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+12,,"goat, sheep and pig",,,,,,,,,,,,
+13,Chicken,"Beef, buffalo duck, goat",,5.0,3,Raw,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+14,Frankfurter,sheep and pig,sheep and pig,,,,,,,,,,,
+15,Chicken,"Beef, buffalo, duck, goat,",,1.0,3,Raw,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+16,Frankfurter,sheep and pig,sheep and pig,,,,,,,,,,,
+17,Chicken,"Beef, buffalo, duck, goat,",,0.5,3,Raw,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+18,Frankfurter,sheep and pig,,,,,,,,,,,,
+19,Chicken,"Beef, buffalo, duck,goat,",,0.5,3,Boil,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+20,Frankfurter,sheep and pig,,,,,,,,,,,,
+21,Chicken,"Beef, buffalo, duck, goat,",,0.5,3,Autoclave,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+22,Frankfurter,sheep and pig,,,,,,,,,,,,
+23,Pork Frankfurter,"Beef, buffalo, chicken",,5.0,3,Raw,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+24,,"duck, goat and sheep",,,,,,,,,,,,
+25,Pork Frankfurter,"Beef, buffalo, chicken,",,1.0,3,Raw,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+26,,"duck, goat and sheep",,,,,,,,,,,,
+27,Pork Frankfurter,"Beef, buffalo, chicken,",,0.5,3,Raw,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+28,,"duck, goat and sheep",,,,,,,,,,,,
+29,Pork Frankfurter,"Beef, buffalo chicken",,0.5,3,Boil,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+30,,"duck, goat and sheep",,,,,,,,,,,,
+31,Pork Frankfurter,"Beef, buffalo, chicken,",,0.5,3,Autoclave,3/3,3/3,3/3,3/3,3/3,3/3,3/3,100
+32,,"duck, goat and sheep",,,,,,,,,,,,
+33,Commercial products,,,,,,,,,,,,,
+34,Beef burger,,,-,10,Raw,9/,7/10,1/10,0/10,0/,0/10,0/10,100
+35,,,,,,,10,,,,10,,,
+36,Beef frankfurter,,-,-,9,Raw,9/9,9/9,2/9,0/9,0/9,0/9,0/9,100
+37,Chicken burger,,-,-,9,Raw,0/9,0/9,9/9,0/9,0/9,0/9,0/9,100
+38,Chicken,,-,-,10,Raw,0/,0/10,10/10,0/10,0/,0/10,0/10,100
+39,frankfurter,,,,,,10,,,,10,,,
+40,Pork burger &,,,-,12,Raw,0/,0/12,0/12,0/12,0/,0/12,12/,100
+41,frankfurter,,,,,,12,,,,12,,12,

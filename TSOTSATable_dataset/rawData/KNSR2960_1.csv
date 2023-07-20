@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Component,Sample Treatment,Rank,N,R2cal,R2val,RPDcal,RPDval,RMSEC,RMSEP,SI,ICC
+1,Anthocyanins - DG,Degassed,17,322,95.83,92.24,4.9,3.6,47.7,65.5,Ho Accepted,0.961
+2,Anthocyanins - FI,Filtered,16,320,93.9,91.92,4.05,3.53,57.6,65.5,Ho Accepted,0.959
+3,Anthocyanins - FR,Frozen,12,317,88.85,90.03,2.99,3.17,77.3,71.6,Ho Accepted,0.95
+4,Anthocyanins - T,Turbid,12,315,91.38,89.13,3.41,3.03,68,73.4,Ho Accepted,0.946
+5,TPI - DG,Degassed,5,321,88.46,91.43,2.94,3.42,5.4,4.99,Ho Rejected,0.967
+6,TPI -FI,Filtered,12,320,92.06,93.58,3.55,3.99,4.54,4.39,Ho Accepted,0.967
+7,TPI - FR,Turbid,12,320,93.33,92.14,3.87,3.58,4.17,4.92,Ho Rejected,0.959
+8,TPI - T,Turbid,9,315,89.33,93.32,3.06,3.88,5.23,4.45,Ho Rejected,0.946
+9,Tannins - DG,Degassed,4,321,80.52,80.15,2.27,2.25,90.5,87.4,Ho Accepted,0.894
+10,Tannins - FI,Filtered,2,321,73.71,77.89,1.95,2.14,105,91.5,Ho Rejected,0.88
+11,Tannins - FR,Frozen,3,321,79.29,76.91,2.2,2.1,92.5,97,Ho Accepted,0.877
+12,Tannins - T,Turbid,2,315,73.07,76.83,1.93,2.09,104,93.5,Ho Rejected,0.871
+13,Polymeric Pigments - DG,Degassed,9,320,91.11,92.33,3.35,3.64,14.3,12.2,Ho Accepted,0.961
+14,Polymeric Pigments - FI,Filtered,9,319,91.82,92.36,3.5,3.63,13.7,12.2,Ho Accepted,0.962
+15,Polymeric Pigments - FR,Frozen,10,319,91.99,92.3,3.53,3.61,13.7,12.3,Ho Rejected,0.959
+16,Polymeric Pigments - T,Turbid,14,313,93.48,90.61,3.92,3.29,12.3,13.9,Ho Accepted,0.952
+17,CD - DG,Degassed,10,323,93.94,87.38,4.06,2.82,2.6,3.19,Ho Accepted,0.936
+18,CD - FI,Filtered,12,322,93.52,88.72,3.93,2.98,2.71,3.03,Ho Accepted,0.942
+19,CD - FR,Turbid,12,322,93.57,85.97,3.94,2.67,2.69,3.37,Ho Accepted,0.927
+20,CD-T,Turbid,12,316,94.48,89.27,4.26,3.05,2.5,2.9,Ho Accepted,0.947

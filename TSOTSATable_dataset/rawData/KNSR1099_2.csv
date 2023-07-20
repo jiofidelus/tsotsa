@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,,Detection limit,Detection limit,Quantification limit,Quantification limit,Concentration range with,Concentration range with,Slope of calibration curve,Slope of calibration curve,Repeatability CV (%),Repeatability CV (%),Reproducibility CV (%),Reproducibility CV (%)
+1,,DL[ng on,,QL[ng on column],QL[ng on column],checked signal linearity,checked signal linearity,,,,,,
+2,,column],,,,,,,,,,,
+3,Analyte,HPAEC,UHPLC,HPAEC,UHPLC,HPAEC,UHPLC,HPAEC,UHPLC,HPAEC,UHPLC,HPAEC,UHPLC
+4,,,,,,[mgL-],[gL-1],[nCLmg-1],[LSULmg-],,,,
+5,D-fructose,0.40,15.78,1.20,47.82,0.54-10.80,0.052.02,1.56,1.57,1.4,n.d.,1.7,n.d.
+6,D-glucose,0.19,10.19,0.59,30.88,0.53-10.55,0.05-2.00,1.80,1.42,1.1,n.d.,0.9,n.d.
+7,sucrose,3.80,9.13,11.51,27.66,0.70-13.90,0.05-2.02,0.74,1.45,1.4,n.d.,1.6,n.d.
+8,1-kestose,0.80,7.87,2.43,23.84,0.509.90,0.052.00,0.73,1.40,1.9,n.d.,0.8,n.d.
+9,"1,1-kestotetraose",1.03,8.53,3.12,25.86,0.55-10.90,0.05-2.02,0.58,1.38,1.3,n.d.,0.2,n.d.
+10,(1)3-kestopentaose,1.18,9.07,3.57,27.47,0.48-9.60,0.05-2.02,0.47,1.38,1.6,n.d.,1.8,n.d.
+11,(1)4-kestohexaose,1.21,n.d.,3.68,n.d.,0.428.37,n.d.,0.24,n.d.,3.9,n.d.,2.8,n.d.
+12,(1)s-kestoheptaose,0.50,n.d.,1.51,n.d.,0.367.16,n.d.,0.33,n.d.,2.2,n.d.,1.1,n.d.
+13,(1)6-kestooctaose,0.54,n.d.,1.64,n.d.,0.27-5.36,n.d.,0.44,n.d.,7.4,n.d.,6.3,n.d.
+14,(1)7-kestononaose,2.29,n.d.,6.94,n.d.,0.33-6.54,n.d.,0.36,n.d.,1.8,n.d.,0.3,n.d.

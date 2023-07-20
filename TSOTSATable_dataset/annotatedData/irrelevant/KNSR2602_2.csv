@@ -1,0 +1,6 @@
+Standard,Standard,Matrix matched,Matrix matched,MDL,MQL,Fortification level,Mean,Intra-day,Inter-day
+linearity(r),linearity (slope),linearity (r,linearity (slope),g kg-1,gkg1,gkg-1,recovery (%),precision RSD,precision RSD
+,,,,,,,,(%),(%)
+0.9983,0.0034,0.9995,0.0025,12.5,38,100,90.1,2.2,9.5
+,,,,,,200,80.7,10.3,4
+,,,,,,300,78,5.6,4.1

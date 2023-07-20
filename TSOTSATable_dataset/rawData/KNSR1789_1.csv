@@ -1,0 +1,9 @@
+,0,1,2,3,4
+0,Phase,Total phosphorus,,Digestible phosphorus,
+1,,Temperature(C),Time (h),Temperature(C,Time (h)
+2,1,70,3,70,6
+3,2,90,0.5,90,1.5
+4,3,110,0.5,110,1.5
+5,4,130,3.5,130,6
+6,5,145,0.5,,-
+7,6,160,0.5,,

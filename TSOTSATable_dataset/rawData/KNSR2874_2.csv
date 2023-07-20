@@ -1,0 +1,18 @@
+,0,1,2,3,4,5
+0,Type,na,Positive samples (%),DON in positive samples (g/kg),DON in positive samples (g/kg),
+1,,,,Range,Mean,Median
+2,Total samples,,,,,
+3,Conventional,74,96,15-690,184,161a
+4,Organic,27,82,15-224,62,46a
+5,"Group A,rye bread",,,,,
+6,Conventional,10,80,15-142,59,51a
+7,Organic,4,75,15-25,18,15a
+8,"Group B, mixed rye bread",,,,,
+9,Conventional,22,100,32-378,155,148a
+10,Organic,7,86,15-211,71,48a
+11,Group C.mixed wheat bread,,,,,
+12,Conventional,22,96,70-690,280,232a
+13,Organic,12,75,1592,47,52b
+14,"Group D, wheat bread",,,,,
+15,Conventional,20,100,15-382,167,178a
+16,Organic,4,100,15224,116,113a

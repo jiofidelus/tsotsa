@@ -1,0 +1,30 @@
+,0,1,2,3
+0,Interfering species,"Tolerance limit,",Recovery %,RSD %
+1,,[Interfering]/[5-HMF],,
+2,Inorganic cationic species,,,
+3,"Na+,K+,NHCa2+,Mg2+",1000,96.5-101.5,3.2-4.8
+4,Sr2+,,,
+5,"Zn2+A13+Co2+,Ni2+",500,93.5-102.2,2.8-5.7
+6,Mn2+Fe2+,,,
+7,"Mo6+Pb2+Cd2+,v5+",350,94.5-98.2,3.2-5.5
+8,V4+,,,
+9,"Se4+, Cr3+, Sb3+,As3+",250,95.5-98.5,3.1-5.3
+10,As5+,,,
+11,"Sn2+,Cu2+, Fe3+",100,93.5-97.2,2.5-6.5
+12,Inorganic anionic species,,,
+13,ClSONO3HPO4,1000,94.0-98.0,3.0-5.0
+14,HCO3BrF,,,
+15,SCNNO,500,95.5-98.5,3.2-5.5
+16,IOxalate,250,93.5-97.5,2.5-5.0
+17,HSO3,25-100,92.5-96.5,3.5-5.5
+18,HSO3,>100,97.5-101.5,2.5-4.0
+19,Organic species,,,
+20,"ValineThrosine, Glycine",750,96.5-102.0,3.0-4.5
+21,"Alanine,",,,
+22,"Phenylalanine,Glutamine",500,95.5-102.0,2.5-5.0
+23,Methionine,,,
+24,"Ethionine,Tryptophane",250,94.5-98.0,2.5-4.0
+25,"Phenol, Histidine",150,95.5-99.5,3.0-5.2
+26,Ascorbic acid,100,93.5-98.5,2.0-4.5
+27,"Formaldehyde,",>100,95.5-103.5,2.5-5.8
+28,Acetaldehyde,,,

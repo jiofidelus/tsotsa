@@ -1,0 +1,8 @@
+,0,1,2,3
+0,Element,Calibration method,Regression equation,R
+1,Pb,External,Abs=0.0121[Pb]+0.0176,0.9933
+2,,Matrix,Abs=0.0108[Pb]+0.0056,0.9959
+3,,Inorganic aqueous,Abs=0.0199[Pb]+0.0219,0.9992
+4,Cd,External,Abs=0.0247[Cd]+0.0133,0.9912
+5,,Matrix,Abs=0.0263[Cd]+0.0281,0.9873
+6,,Inorganic aqueous,Abs=0.0477[Cd]+0.0201,0.9986

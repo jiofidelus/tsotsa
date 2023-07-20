@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Sources of variation,Sources of variation,,,,,,,
+1,Seed nutritional characteristics,Cultivar,,,,,,MG,,
+2,,Cultivar,Year,Cultivar*Year,Country of origin,Year,Country of origin*Year,MG,Year,MG*Year
+3,Protein,***,***,**,***,***,***,***,***,**
+4,Oil,***,***,***,***,***,NS,**,***,**
+5,Palmitic acid,***,NS,NS,***,NS,NS,***,NS,NS
+6,Stearic acid,***,***,NS,***,***,NS,***,***,NS
+7,Oleic acid,***,NS,NS,***,NS,NS,**,NS,**
+8,Linoleic acid,***,***,NS,***,***,NS,***,**,**
+9,Linolenic acid,***,***,NS,NS,***,***,***,***,NS
+10,Fructose,NS,***,NS,NS,***,NS,NS,***,NS
+11,Glucose,NS,***,NS,NS,***,NS,NS,***,NS
+12,Sucrose,***,***,NS,***,***,NS,***,**,*
+13,Raffinose,***,***,NS,**,***,NS,***,***,**
+14,Stachyose,***,***,NS,NS,***,NS,***,***,NS
+15,TSS,***,***,NS,***,***,NS,***,*,**
+16,Daidzin,***,***,NS,***,***,**,***,***,NS
+17,Glycitin,***,***,NS,***,***,NS,***,***,NS
+18,Genistin,***,NS,NS,***,*,**,***,NS,NS
+19,Malonyldaidzin,***,***,NS,***,***,**,***,**,NS
+20,Malonylglycitin,***,***,NS,***,***,NS,***,***,NS
+21,Acetyldaidzin,**,***,NS,***,***,***,NS,***,NS
+22,Malonylgenistin,***,***,NS,***,***,***,***,***,*
+23,Daidzein,**,NS,NS,*,NS,NS,**,NS,NS
+24,Genistein,***,NS,NS,NS,NS,NS,NS,NS,NS
+25,Total Isoflavone,***,***,NS,***,***,***,***,***,NS

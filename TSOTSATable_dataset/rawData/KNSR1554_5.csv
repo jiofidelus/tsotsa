@@ -1,0 +1,35 @@
+,0,1,2,3
+0,,Protein kcal/g (kJ/g),Fat kcal/g (kJ/g),Carbohydrate kcal/g (kJ/g)
+1,"Eggs,meat products, milk products",,,
+2,Eggs,4.36 (18.2),9.02 (37.7),3.68 (15.4)
+3,Meat/fish,4.27 (17.9),9.02 (37.7),
+4,Milk/milk products,4.27 (17.9),8.79 (36.8),3.87 (16.2)
+5,Fats-separated,,,
+6,Butter,4.27 (17.9),8.79 (36.8),3.87 (16.2)
+7,"Margarine,vegetable",4.27 (17.9),8.84 (37.0),3.87 (16.2)
+8,Other vegetable fats and oils,,8.84 (37.0),
+9,Fruits,,,
+10,"All, except lemons, limes",3.36 (14.1),8.37 (35.0),3.60 (15.1)
+11,"Fruit juice, except lemon, limeb",3.36 (14.1),8.37(35.0),3.92 (15.1)
+12,"Lemons, limes",3.36 (14.1),8.37 (35.0),2.48 (10.4)
+13,"Lemon juice, lime juiceb",3.36 (14.1),8.37 (35.0),2.70 (11.3)
+14,Grain products,,,
+15,"Barley, pearled",3.55(14.9),8.37(35.0),3.95 (16.5)
+16,"Cornmeal, whole ground",2.73 (11.4),8.37 (35.0),4.03 (16.9)
+17,"Macaroni, spaghetti",3.91 (16.4),8.37 (35.0),4.12 (17.2)
+18,Oatmeal-rolled oats,3.46 (14.5),8.37 (35.0),4.12 (17.2)
+19,"Rice, brown",3.41 (14.3),8.37 (35.0),4.12 (17.2)
+20,"Rice, white or polished",3.82 (16.0),8.37 (35.0),4.16 (17.4)
+21,Rye flour-whole grain,3.05 (12.8),8.37 (35.0),3.86 (16.2)
+22,Rye flourlight,3.41 (14.3),8.37 (35.0),4.07 (17.0)
+23,Sorghum--whole meal,0.91 (3.8),8.37 (35.0),4.03 (16.9)
+24,Wheat--97-100% extraction,3.59 (14.0),8.37 (35.0),3.78 (15.8)
+25,Wheat-70-74% extraction,4.05 (17.0),8.37(35.0),4.12 (17.2)
+26,Other cereals-refined,3.87 (16.2),8.37 (35.0),4.12 (17.2)
+27,"Legumes, nuts",,,
+28,"Mature dry beans, peas, nuts",3.47 (14.5),8.37 (35.0),4.07 (17.0)
+29,Soybeans,3.47 (14.5),8.37 (35.0),4.07 (17.0)
+30,Vegetables,,,
+31,"Potatoes, starchy roots",2.78 (11.6),8.37 (35.0),4.03 (16.9)
+32,Other underground crops,2.78 (11.6),8.37 (35.0),3.84 (16.1)
+33,Other vegetables,2.44 (10.2),8.37 (35.0),3.57 (14.9)

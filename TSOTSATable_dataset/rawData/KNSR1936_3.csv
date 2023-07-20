@@ -1,0 +1,29 @@
+,0,1,2,3,4
+0,Dietary component,Dietary component,1983-84,1983-84,1990-91
+1,,,'old'data,'new'data,'new' data
+2,Fat,,,,
+3,"Target, % energy","Target, % energy",33.0,33.0,33.0
+4,"Actual,% energy","Actual,% energy",37.3,33.9,33.6
+5,"Actual,g/capita/day","Actual,g/capita/day",145.0,119.0,119.0
+6,,"Target,expressed as g/capita/day reduction",-17,-17,-17
+7,"Actual,g/capita/day reduction","Actual,g/capita/day reduction",NA,[-26.3],-26.5
+8,Refined sugars,Refined sugars,,,
+9,"Target,% energy","Target,% energy",12.0,12.0,12.0
+10,"Actual,% energy","Actual,% energy",14.1,15.6,15.0
+11,"Actual,g/capita/day","Actual,g/capita/day",126.0,127.0,123.0
+12,,"Target,expressed as g/capita/day reduction",-18.5,-18.5,-18.5
+13,"Actual, g/capita/day reduction","Actual, g/capita/day reduction",NA,[+0.4],-4.3
+14,Alcohol,Alcohol,,,
+15,,"Target,alcoholic beverages,% energy",5.0,5.0,5.0
+16,,"Actual,alcoholic beverages,% energy",6.0,6.0,5.0
+17,,"Actual,ml alcoholic beverages/capita/day",386,386,355
+18,"Actual, g ethanol/capita/day","Actual, g ethanol/capita/day",21.8,20.2,17.5
+19,"Actual, ethanol, % energy","Actual, ethanol, % energy",4.3,4.5,3.8
+20,,"Target,expressed as g ethanol/capita/day",-2.3,-2.3,-2.3
+21,reduction,reduction,,,
+22,"Actual,g ethanolcapita/day reduction","Actual,g ethanolcapita/day reduction",NA,[-1.6],-4.3
+23,Dietary fibre,Dietary fibre,,,
+24,"Target,g/capita/day","Target,g/capita/day",30.0,30.0,30.0
+25,"Actual,g/capita/day","Actual,g/capita/day",ND,19.8,23.0
+26,"Target, g/capita/day increase","Target, g/capita/day increase",NA,NA,+10.2
+27,"Actual,g/capita/day increase","Actual,g/capita/day increase",NA,NA,+3.2

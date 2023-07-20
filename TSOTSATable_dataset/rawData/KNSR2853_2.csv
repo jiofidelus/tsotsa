@@ -1,0 +1,7 @@
+,0,1,2
+0,Variable,Range investigated,Optimum condition
+1,Triton X-114 concentration,0.25-10.00w/v,2.00 % w/v
+2,HNO3 concentration,0.50-3.00v/v,3.00 % v/v
+3,Type of emulsion break,Heating/Centrifugation,Heating
+4,Temperature and time of heating,80-90C;15-60 min,90 C for 60 min
+5,Sample mass,1.00;5.00;10.00 g,1.00g

@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6
+0,Sample,E/oven,M/wave,O/roast,Boil,Steam,USDA
+1,Chicken: whole,72,79,76,,,82a
+2,Lean only,68,79,77,,,82a
+3,Skin only,95,88,81,,,0
+4,Lamb chops: whole,73,84,77,,,
+5,Lean only,71,80,76,,,80b
+6,Fat only,64,87,75,,,
+7,Fish,94,82,,,,80c
+8,Cassava,89,,-,86,,95d
+9,Taro,83,,,85,,95d
+10,Palusami,63,,-,,64,80c

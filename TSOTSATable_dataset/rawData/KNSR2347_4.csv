@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,By the standard addition method,By the standard addition method,,,,,,
+1,,,*After extraction with 3.0 mL of 0.02%,,,*After extraction with 5.0 mL of,*After extraction with 5.0 mL of,,,
+2,,,w/v thiourea in 5.0 mL of 2.0% (v/v),,,mixture of 3.0 mol L-1 HNO3 and,mixture of 3.0 mol L-1 HNO3 and,,,
+3,,Addedg,HNO for 12 min at 50C in ultrasonic,,,"0.3 mol L-1HO3:2,v/v,and then",,,,
+4,Sample,L-1,bath,,,adding 5.0 mL1.0 mol L-CHCOOH,,,texp,Fexp
+5,,L-1,,,,and 2.5 mL of 1.0 mg L-Bi(III) for,and 2.5 mL of 1.0 mg L-Bi(III) for,,texp,Fexp
+6,,,,,,7.0 min at 40 C in ultrasonic bath,7.0 min at 40 C in ultrasonic bath,,,
+7,,,"a Found,g",Recovery,RSD,Foundg,Recovery,RSD,,
+8,,,L-1,%,%,L-1,%,%,,
+9,Red winei,,5.5  0.3,,5.4,5.3  0.3,-,5.7,1.05,1.00
+10,Red winei,10,15.2  0.7,97,4.6,15.5  0.7,102,4.5,,
+11,Red wine2,,2.8  0.2,97,4.8,2.6  0.2,-,7.7,1.58,1.00
+12,Red wine2,10,12.5  0.6,97,4.8,12.7  0.6,101,4.7,-,
+13,Red wines,,4.2  0.3,1,7.1,4.3  0.3,,7.0,0.53,1.00
+14,Red wines,10,13.80.6,96,4.3,14.2  0.6,97,4.2,-,-
+15,White,-,3.8  0.2,-,5.3,3.7  0.2,,5.4,0.79,1.00
+16,wine,10,13.40.6,96,4.5,13.5  0.6,96,4.4,,-
+17,White,,2.7  0.2,,7.4,2.8  0.2,,7.1,0.79,1.00
+18,wine2,10,12.3  0.6,96,4.9,12.5  0.6,97,4.8,,
+19,Beer,-,3.5  0.2,,5.7,3.4  0.2,-,5.9,0.79,1.00
+20,,10,13.20.5,97,3.8,13.10.5,97,3.8,,
+21,Beer2,-,3.5  0.2,,5.7,3.4  0.2,-,5.9,0.79,1.00
+22,,10,13.2  0.5,97,3.8,13.3  0.5,99,3.7,-,
+23,Beer3,-,4.2  0.2,,4.8,4.3  0.2,-,4.7,0.79,1.00
+24,,10,13.8  0.5,96,3.6,14.00.5,97,3.6,-,-

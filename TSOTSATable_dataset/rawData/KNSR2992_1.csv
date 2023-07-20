@@ -1,0 +1,53 @@
+,0,1,2,3,4,5
+0,Group,Pesticide,LODa (g/kg),LOQb(g/kg),Recovery (%),RSD%)
+1,Organophosphorous pesticides,Methamidophos,0.120,0.372,91.2,6.70
+2,,Omethoatec,0.003,0.011,96.2,5.50
+3,,PhorateG,0.007,0.021,94.2,4.60
+4,,ParathionG,0.053,0.159,90.2,5.90
+5,,Parathion-methyle,0.004,0.013,95.5,5.10
+6,,Isofenphos-methyl,0.027,0.089,99.3,7.70
+7,,IsocarbophosG,0.250,0.825,94.3,7.70
+8,,Dimethoate,0.160,0.086,94.3,5.10
+9,,Dichlorvosc,0.027,0.086,97.1,5.10
+10,,Chlorpyrifost,0.380,1.180,92.8,7.60
+11,,Acephatec,0.620,1.980,95.1,6.00
+12,,TriazophosG,0.039,0.113,97.4,7.40
+13,,ProfenofosG,0.017,0.052,98.8,7.40
+14,,Fenitrothion,0.001,0.003,96.5,6.60
+15,,DiazinonG,0.006,0.018,93.7,6.80
+16,,Malathiong,0.075,0.225,92.2,8.40
+17,,Phosemet,0.110,0.352,97.7,4.40
+18,,Phosalonec,0.082,0.254,98.7,6.50
+19,,Trichlorfong,0.027,8.740,98.5,3.00
+20,,PhoximL,2.820,8.740,98.5,3.00
+21,Organochlorine pesticides,HCBG,0.003,0.010,77.6,7.00
+22,,DDTG,0.013,0.038,75.2,5.90
+23,,Dicofole,0.690,2.140,92.4,13.8
+24,Pyrethroid pesticides,Cypermethrin&,0.110,0.330,91.4,11.3
+25,,Fenvalerate,0.022,0.066,83.3,10.1
+26,,FenpropathrinG,0.620,1.090,83.3,7.40
+27,,Cyhalothring,0.350,1.090,89.7,10.1
+28,,Cyfluthrin&,0.080,0.256,86.3,6.30
+29,,Deltamethrin,1.400,4.200,89.8,8.70
+30,,Bifenthrin&,0.130,0.416,84.8,8.10
+31,,Flucythrinate,0.043,0.142,80.5,11.1
+32,,Flucythrinate,0.980,3.130,95.0,10.3
+33,Carbamate pesticides,AldicarbL,1.730,5.020,98.2,2.20
+34,,Aldicarb-sulfoxide,0.861,2.840,96.9,3.80
+35,,Aldicarb-sulphone,0.399,1.280,98.1,2.20
+36,,Methomyll,0.747,2.390,98.7,3.30
+37,,Carbofuran 1,0.145,0.449,98.7,3.30
+38,,3-Hydroxycarbofuran,0.084,0.269,98.1,7.30
+39,,CarbarylL,0.207,0.621,98.2,3.20
+40,Other pesticides,Fipronill,1.980,5.740,96.0,12.2
+41,,Imidaclopridt,0.699,2.170,100.4,2.20
+42,,Pyridabent,3.220,9.330,96.8,8.40
+43,,Imidaclopridt,1.650,5.280,101.2,6.50
+44,Fungicides,Difenoconazolel,0.737,2.280,100.4,4.30
+45,,Pyrimethanill,0.575,1.890,97.8,9.60
+46,,Triadimefon,0.330,0.957,91.3,4.80
+47,,Chlorothalonila,0.210,0.630,83.0,7.70
+48,,Iprodione,0.076,3.000,90.3,12.5
+49,,Procymidone,0.076,0.236,96.0,2.40
+50,,QuintozeneG,0.012,0.038,82.1,7.50
+51,,VinclozolinG,0.031,0.093,83.6,7.90

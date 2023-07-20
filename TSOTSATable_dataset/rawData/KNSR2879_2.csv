@@ -1,0 +1,37 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Location x rootstocks,,,,,,,,,,
+1,Parameter,p value,Location,,Kryder,,Volkameriana,Cleopatra,Swingle Citrumelo,Carrizo,Sunki
+2,,,Lebrija,,7.78 a,,6.57 abc,5.01 cde,4.84 cde,4.40 de,4.11 e
+3,Firmness (Kgf),0.0012,Espinal,,5.0cde,,5.53 bede,4.35 e,4.42 de,4.83 cde,5.46 bede
+4,,,Villavicencio,Villavicencio,7.2 ab,,6.58 abec,5.99 abede,5.69 bede,6.22abecd,6.21 abcd
+5,,,Lebrija,,2.616 a,,2.696 a,2.317 b,2.647 a,2.311 b,2.74 a
+6,pH,<0.0001,Espinal,,2.288 bc,,2.242 bcd,2.326 b,2.312 b,2.320 b,2.302 b
+7,,,Villavicencio,Villavicencio,2.171 cde,,2.115 e,2.109 e,2.143 de,2.162 de,2.161 de
+8,,,Lebrija,,5.68 ab,,-5.68 ab,5.01 a,-6.97bc,7.29 c,5.39 a
+9,Color_Index,0.0006,Espinal,,4.75 a,,5.33 a,5.11 a,5.31 a,5.07 a,5.04 a
+10,,,Villavicencio,Villavicencio,4.96 a,,4.53 a,4.99 a,5.03 a,4.73 a.,4.81 a
+11,,,Lebrija,,166.51 ab,166.51 ab,166.1 ab,168.29 a,164.43 b,164.13 b,166.9 ab
+12,Tonality,0.0017,Espinal,,167.65 a,,166.79 ab,167.10 a,166.63 ab,167.55 a,167.45 a
+13,,,Villavicencio,Villavicencio,167.44 a,,168.4 a,167.79 a,167.60 a,168.34 a,168.14 a
+14,,,Lebrija,,28.45 ab,,34.6 a,27.56 ab,25.84 ab,22.6 b,31.19 ab
+15,Saturation,0.046,Espinal,,34.52 a,,29.11 ab,30.81 ab,29.69 ab,29.04 ab,30.52 ab
+16,,,Villavicencio,Villavicencio,27.81 ab,,29.13 ab,25.59 b,26.53 ab,24.69 b,26.06 ab
+17,,,Lebrija,,6.78 bede,6.78 bede,8.30 c,5.51 abc,6.89 bede,6.16 abed,7.08 cde
+18,a*,0.0118,Espinal,,7.29 de,,6.63 bcd,6.84 bede,6.82bede,6.20 abed,6.6 bed
+19,,,Villavicencio,Villavicencio,5.93 abed,5.93 abed,5.72 abc.,5.32 ab,5.60 abc,4.92 a,5.28 ab
+20,,,Lebrija,,27.62 abc,,33.58 ab,27.0 abc,24.9bc,21.743 c,30.37 abc
+21,b*,0.0459,Espinal,,33.73 a,,28.33 abc,30.0 abc,28.9 abc,28.33 abc,29.79 abc
+22,,,Villavicencio,Villavicencio,27.15abc,,28.55 abc,25.01 bc,25.91abc,24.17 c,25.51 bc
+23,Rootstock,,,,,,,,,,
+24,Parameter,p value,,Kyder,,Volkameriana,Volkameriana,Cleopatra,Swingle Citrumelo,Carrizo,Sunki
+25,TSS (Brix),0.0013,,10.25 a,9.29 b,9.29 b,,9.56 ab,10.19 a,10.09 a,9.71 ab
+26,TA (%),0.0051,,8.588 ab,8.297 ab.,8.297 ab.,,7.694 b,8.903 a,7.692 b,8.333 ab
+27,L*,0.0019,,45.18 a,44.61 ab,44.61 ab,,43.42 abc,42.94 bc,42.27 c,43.8 abc
+28,Location,,,,,,,,,,
+29,Parameter,,p value,,,Lebrija,,Espinal,,Villavicencio,
+30,L_Diameter (mm),,<0.0001,,,58.75 a,,57.62 a,,53.33 b,
+31,E_Diameter (mm),,<0.0001,,,54.16 a,,53.29 a,,49.73 b,
+32,Juice content (%),,0.0176,,,43.71 b,,46.31 ab,,51.34 a,
+33,TSS (Brix),,<0.0001,,,9.66 b,,9.02 c,,10.86 a,
+34,TA %,,<0.0001,,,9.48 a,,7.90 b,,7.37 b,
+35,L*,,<0.0001,,,41.87 b,,44.85 a,,44.4 a,

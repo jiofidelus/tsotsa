@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Source of,Sum of,Degree of,Mean,Feal,P
+1,variation,squares,freedom,squares,,
+2,Fe,,,,,
+3,Between groups,912.0,4,228.0,60.28,<0.0001
+4,Within groups,37.82,10,3.782,,
+5,Total,949.8,14,,,
+6,Ni,,,,,
+7,Between groups,49879,4,12470,1.092,0.4117
+8,Within groups,114234,10,11423,,
+9,Total,164113,14,,,

@@ -1,0 +1,26 @@
+,0,1,2,3
+0,Dosage form,,Illustration,Matrix for analyses
+1,(definition),,,
+2,Tablet,,,Powder
+3,,"A solid pharmaceutical form containing a single dose of one or more active principles,with",,
+4,,"or without excipients, obtained by the compression of uniform volumes of particles. It can",,
+5,,"have different sizes and shapes, present markings on the surface, and be coated or uncoated.",,
+6,Coated tablet,Coated tablet,,
+7,,"Coated tablets consist of mixtures of various substances such as natural or synthetic resins,",,
+8,,"gums, gelatin, inactive and insoluble materials, sugars (sugar coated tablet or dragees),",,
+9,,"plasticizers, polyols, waxes, authorized colorants, and sometimes flavorings and active",,
+10,ingredients.,ingredients.,,
+11,Hard gelatin capsule,Hard gelatin capsule,,
+12,,This form has two prefabricated cylindrical sections (body and cover) that fit together and,,
+13,,whose ends are rounded. It is typically filled with active principle(s) and excipients in solid,,
+14,,"form. It is usually made of gelatin, but can also be made from other substances.",,
+15,Soft gelatin capsule,Soft gelatin capsule,,Oily
+16,,"Soft gelatin capsule consists of a gelatin casing of various shapes,and it is more malleable",,
+17,,"than hard capsules. They are usually filled with liquid or semi-solid content, but may also",,
+18,,be filled with powders and other dry solids.,,
+19,Oral solution,Oral solution,,Liquid
+20,,A clear and homogeneous liquid pharmaceutical form containing one or more active,,
+21,,principles dissolved in a suitable solvent or mixture of miscible solvents.,,
+22,Oral suspension,Oral suspension,,
+23,,A liquid pharmaceutical form containing solid particles dispersed in a liquid carrier in,,
+24,,which the particles are not soluble.,,

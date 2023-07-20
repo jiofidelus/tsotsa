@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,Sample,Chromatographic,,Method repeatability,Method repeatability
+1,,repeatability(n=4,repeatability(n=4,n=4,
+2,,Content(g/,RSDa,Content(g),RSD
+3,,100g,(%),100g,(%)
+4,,product),,product),
+5,Yogurts,0.26,2.83,0.25,5.08
+6,Yogurts containig,0.54,3.92,0.56,6.19
+7,bifidobacteria,,,,
+8,Ready-to-drink yogurts,0.42,2.88,0.44,3.93
+9,containing L. casei,,,,

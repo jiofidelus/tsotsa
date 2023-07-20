@@ -1,0 +1,7 @@
+,0,1,2,3,4
+0,,Type of wine,Predicted group,,Total
+1,,,Red wine,White wine,
+2,Count,Red wine,174,21,195
+3,,White wine,1,149,150
+4,%,Red wine,89.2,10.8,100.0
+5,,White wine,0.7,99.3,100.0

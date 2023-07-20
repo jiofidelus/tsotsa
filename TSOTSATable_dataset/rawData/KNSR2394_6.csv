@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Race,Cut (cooking method),Retention (%),,,,
+1,,,Protein,Lipid,Phosphorus,Iron,Calcium
+2,Cribu,Buttock (boiling),89.9+2.0a,55.1+1.8b,49.62.8a,77.8+4.1bc,29.7+1.9a
+3,Creole,,86.73.0a,64.72.1b,56.61.2a,90.23.1c,40.5+4.2b
+4,Cribu,Flank (baking),94.1+1.2b,71.51.1c,55.10.7a,59.32.1b,41.33.7b
+5,Creole,,91.8+4.2b,50.9+0.9b,67.23.9b,38.81.2a,45.12.4bc
+6,Cribu,Loin blade steak (baking),100.0+0.9b,50.81.2b,71.8+4.7b,95.52.6c,61.61.5cd
+7,Creole,,99.9+0.2b,44.1+1.4a,81.8+2.1bc,44.93.9a,85.64.7d
+8,Cribu,Shoulder blade steak (baking),100.01.4b,30.72.3a,79.23.5bc,49.22.2a,58.62.2c
+9,Creole,,100.00.1b,25.61.5a,94.93.2c,44.93.7a,28.52.5a

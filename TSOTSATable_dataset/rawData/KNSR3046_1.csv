@@ -1,0 +1,17 @@
+,0,1,2,3,4
+0,,Sampling point,Time,,
+1,,,2009 Vintage,2010 Vintage,
+2,0,Density 1000g/L,0d,0d,0d
+3,1,Devatting,4d,4d,4d
+4,2,MLF,-,1m 7d,
+5,3,End of MLF,2m,2m 7d,
+6,4,7 days after end of MLF,2m 7d,,
+7,5,Before 1st racking,3m,2m 15d,
+8,6,7 days after 1st racking,3m 7d,2m 21d,
+9,7,3 months after end of MLF,6m,,1
+10,8,Before 2nd racking,7m,5m 15d,
+11,9,7 days after 2nd racking,7m 7d,5m 21d,
+12,10,Before 3rd racking,11m,,
+13,11,7 days after 3rd racking,11m 7d,8m 21d,
+14,12,3 months after bottling,17m,15m 15d,
+15,13,6 months after bottling,20m,18m 18d,

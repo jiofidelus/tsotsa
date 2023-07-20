@@ -1,0 +1,21 @@
+,0,1,2,3
+0,Parameter,,Value,Value
+1,,Instrument,,
+2,Spray chamber,,,Sturmann-Masters
+3,Sample cone,,,"Nickel,1 mm orifice diameter"
+4,Skimmer cone,,,"Nickel,0.75 mm orifice diameter"
+5,Sample update rate,,1.0mL/min,1.0mL/min
+6,Sample read delay,,35s,35s
+7,,Plasma conditions,,
+8,Radiofrequency generator,,40 MHz,40 MHz
+9,Incident power,,1100W,1100W
+10,Plasma Ar flow rate,,16.5 L/min,16.5 L/min
+11,Nebulizer Ar flow rate,,0.87 L/min,0.87 L/min
+12,Auxiliary Ar flow rate,,1.05 L/min,1.05 L/min
+13,,Mass Spectrometer setting,,Mass Spectrometer setting
+14,Scanning mode,,Peak Hopping,Peak Hopping
+15,Resolution,,High,High
+16,Integration time,,900ms,900ms
+17,Dwell time,,300 ms,300 ms
+18,Number of readings per replicate,,1,
+19,Number of replicate,,6,

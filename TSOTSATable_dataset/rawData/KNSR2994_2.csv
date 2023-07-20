@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Sample,Technique,Reagent,"Limit of detection,","Analytical range,",Ref.
+1,,,,mg L-1,mg L-1,
+2,"sausages, luncheon, beef",Spot test -DIB / DS,Chrysoline resorcinol spots,0.5/0.04,2.0-60 / 1.5-80,This work
+3,Sausages,Spectrophotometry,Anthocyanins,0.57,0.57-4.0,"Galan-Vidal et al.,2014"
+4,,,Degradation,,,
+5,"Sausages ham, salami, bacon",spot test-diffuse reflectance,Dapsone/(naphthyl),0.09,0.29-5.0,"Luiz et al.,2012"
+6,,spectroscopy,ethylenediamine hydrochloride,,,
+7,Cured meat,Spectrophotometry,2-aminobenzoimidazole/Orcinol,0.03,0.05-3.0,"Qader,2013"
+8,"water, soil and pharmacy-",Spectrophotometry,sulfanilic acid /methyl anthranilate,0.93,0.2-8.0,"Narayanaand Sunil,2009"
+9,euticals,,,,,
+10,"Tap,lake water",Spectrophotometry,Azo dye,0.012,0.05-2.0,"Ozmen et al.,2006"
+11,"Tap, natural and wastewater",Spectrophotometry,Nuclear fast red-potassium bromate,0.7,2.0-45,"Mousavi and Shirkhanloo,"
+12,,,,,,2009

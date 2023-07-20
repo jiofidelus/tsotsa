@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7
+0,Compounds,THR (g/L),Odor descriptor,Sc,Wa-Sc,Zr-Sc,Zb-Sc,Sp-Sc
+1,2-Methyl-1-butanol,320a,Solventb,1.88,3.8,1.96,2.46,2.14
+2,cis-3-Hexen-1-ol,1.0c,"Floral, grassy, apple, leaves-like, herbsd",8.20,10.7,5.91,3.97,<0.01
+3,1-Heptanol,200c,"Floral, fruitywine-like",0.19,0.18,0.29,0.06,0.11
+4,2-Phenyl-1-ethanol,390c,"Floral, orange skin, sweet, citrus, waxy, rose, honey, grassyae",0.78,0.49,0.65,0.86,1.19
+5,Hexanal,4.5c,"Sweet, orange",0.46,0.43,0.21,0.69,0.28
+6,trans-2-Hexenal,17c,Leaves-liked,0.55,0.61,<0.01,0.5,<0.01
+7,Decanal,1.0a,"Floral, sweet",<0.01,1.74,2.41,<0.01,2.55
+8,2-Nonanone,41c,"Fruity, floral, fattyh",<0.01,0.03,0.41,<0.01,0.34
+9,2-Undecanone,7.0d,"Fruity, peach, rosted, earthydi",<0.01,<0.01,0.09,<0.01,0.13
+10,Isovaleric acid,33.4c,NF,<0.01,<0.01,0.21,0.09,0.28
+11,2-Methylbutyric acid,33bc,NF,<0.01,<0.01,0.23,0.37,0.39
+12,Hexanoic acid,420c,"Cheese, fattye",0.07,0.08,0.1,0.04,0.15
+13,Octanoic acid,500c,"Fatty, almond, sweaty, waxy, cheesy, candy, animal, spicy",0.12,0.08,0.08,0.06,0.13
+14,Isoamyl acetate,30c,Bananad,15.6,11.2,19.9,18.7,14.6
+15,2-Methylbutyl acetate,5.0c,NF,15.7,17.1,22.6,28.30,19.2
+16,Hexyl acetate,2.0c,"Grass, fruity, fresh, sweet",144,137,190,195,107
+17,Ethyl propanoate,10c,Pineappled,<0.01,<0.01,<0.01,<0.01,0.21
+18,Ethyl isobutyrate,15c,NF,<0.01,<0.01,<0.01,0.35,0.35
+19,Ethyl butyrate,20c,"Fruity, sweet, pineapple, banana, apple, clear spiritd",2.71,2.09,2.36,3.46,2.54
+20,Ethyl hexanoate,8.0a,Pleasantd,64.8,64.7,74.4,71.1,76.5
+21,Ethyl heptanoate,2.2c,Pineappled,2.0,2.41,7.36,4.93,3.61
+22,Ethyl octanoate,2.0c,"Fruity, pineapple, brandy, apple, wine-liked",695,594,654,567,612
+23,Phenethyl acetate,250c,"Sweet, rose, honey, fruity, apple, cocoa, whisky",0.44,0.28,0.4,0.36,0.37
+24,Ethyl decanoate,200c,"Fruity, pear, wine-like, brandyd",3.52,3.10,3.97,3.95,3.65
+25,Methyl butyrate,7.1c,Fruityapple,3.24,3.01,2.33,3.87,2.56
+26,Methyl hexanoate,70d,"Fruity, pineappled",0.05,0.05,0.06,0.05,0.06
+27,Methyl octanoate,200d,"Fruity, sweet orange, wine-like",0.28,0.2,0.29,0.27,0.27
+28,Ethyl 9-decenoate,100c,NF,3.7,3.17,3.56,1.82,3.04
+29,Cineole,12c,Camphord,3.33,3.55,4.05,5.79,5.32

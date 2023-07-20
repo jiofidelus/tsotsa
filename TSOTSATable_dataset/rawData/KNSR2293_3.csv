@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8
+0,Neonicotinoid,MMC-DLLME,,MMC-QuEChERS,,Sc,,"SSE (i.e.slope ratio,","SSE (i.e.slope ratio,"
+1,,,,,,,,%),
+2,,Linear equation,Correlation,Linear equation,Correlation,Linear equation,Correlation,DLLME,QuEChERS
+3,,for range,coefficients,for range,coefficients (r2), for range,coefficients (r2),,
+4,,LOQ-100.0 g kg1,(r2),LOQ-100.0 g kg-1,,1.5100.0 g L1,,,
+5,Dinotefuran,y=0.072x+0.3558,0.9978,y=0.0645+0.5262,0.9967,y=0.1025x-0.1079,0.9989,70.2,62.9
+6,Nitenpyram,y=0.1413x+0.2528,0.9978,y=0.1217x+0.5614,0.9981,y=0.1044x+0.3504,0.9987,135.3,116.5
+7,Thiamethoxam,y=0.0843x-0.1814,0.9958,y=0.0686x-0.0345,0.9956,y=0.0898x-0.1527,0.9981,93.8,76.4
+8,Clothianidin,y=0.1238x -0.4552,0.9946,y=0.097+0.3541,0.9985,y=0.1168x-0.2302,0.9995,105.9,83.0
+9,Imidacloprid,y=0.1157x+0.0314,0.9954,y=0.1253x+0.1978,0.9994,y=0.1736x-0.0653,0.9973,66.6,72.2
+10,Acetamiprid,y=0.1785x+0.4996,0.9966,y=0.1544x+1.3129,0.9988,y=0.1811x+0.2967,0.9982,98.5,85.2
+11,Thiacloprid,y=0.097x+0.3541,0.9985,y=0.1112x+0.0327,0.9983,y=0.1409x+0.2324,0.9986,68.8,78.9

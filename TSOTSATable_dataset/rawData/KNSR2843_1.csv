@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6
+0,Sample,Chemical form,Supplier,,Elementary Ca/Mg content in 1,Pills amount in 1,Elementary Ca/Mg content in 1 sample
+1,,,,pill,pill,sample,[g]
+2,,,,[mg],[mg],,
+3,Cal,Calcium gluconate,Farmapol,45,,20,0.9
+4,Ca2*,Calcium lactate,Uniphar,350,350,8,2.8
+5,Ca3,Calcium carbonate,Polfa Lodz,500,500,20,4
+6,Ca4,Calcium pantothenate,PharmaSwiss,15,,25,0.375
+7,Ca5*,Calcium carbonate,Polski Lek,300,300,10,6
+8,Ca6,Calcium diglycynate,Olimp Labs,280,280,8,0.54
+9,Ca7,Calcium carbonate (dolomite),VIS,108,108,5,0.54
+10,Ca8,Calcium carbonate (mussels shells),Oleofarm,600,600,5,3
+11,Ca9,Calcium carbonate,Uniphar,300,300,8,2.4
+12,Ca10,Calcium carbonate,Uniphar,250,250,5,1.25
+13,Cal1*,"Calcium carbonate, Ca lactate",Sandoz,260,260,5,1.3
+14,Ca12,Calcium carbonate,Valeant,500,500,10,5
+15,Ca13,Mineral extract from fish,Gal,120,120,10,1.2
+16,Ca14*,Calcium lactate,Polfa Lodz,180,180,8,1.44
+17,Ca15,Calcium carbonate (chalk),Orle,400,400,6,2.4
+18,Ca16,Calcium carbonate (oyster shells),NutroPharma,500,500,6,3
+19,Mg1,Magnesium carbonate,Polfa Lodz,300,300,8,2.4
+20,Mg2,Magnesium dioxide,Biogened,375,375,10,3.75
+21,Mg4,Magnesium chloride,Ethifarm,64,,10,0.64
+22,Mg4,Magnesium carbonate,Aflofarm,120,120,10,1.2
+23,Mg5,Magnesium dioxide,Hasco-Lek,375,375,10,3.75
+24,Mg6,Magnesium heavy oxide,Hasco-Lek,150,150,5,0.75
+25,Mg7,Magnesium lactate,Lekam,51,,10,0.51
+26,Mg8,Magnesium lactate,Polfa Lodz,51,,10,0.51
+27,Mg9,Magnesium citrate,Biofarm,60,60,10,0.6
+28,Mg10,Magnesium chelate,Olimp Labs,100,100,10,1
+29,Mg11,Magnesium chelate,Oleofarm,94,,10,0.94
+30,Mg12,Magnesium aspartate,Farmapol,17,,15,0.255
+31,Mg13,"Magnesium aspartate, Mg carbonate",Uniphar,18,,15,0.27
+32,Mg14,Magnesium aspartate,Filofarm,17,,15,0.255
+33,Mg15,Magnesium aspartate,Filofarm,40,,10,0.6
+34,Mg16,Magnesium dioxide (from the Dead,Laboratoria,375,375,10,3.75
+35,,Sea),Natury,,,,
+36,Mg17,Magnesium carbonate (dolomite),VIS,64,,5,257
+37,Mg18,Magnesium dioxide,Valeant,56,,10,560

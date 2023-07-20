@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7,8
+0,,,Powder,,,Oily,Liquid,,
+1,,,Tablets,Sugar coated tablets,Hard capsules,Soft gel capsules,Solution,Suspension,Total
+2,Vitamin A,vit A (n),19,4,4,14,1,6,48
+3,,within 20%,10%,0,0,29%,0,50%,21%
+4,,above 20%,10%,0,0,14%,0,0,8%
+5,,below 20%,74%,100%,100%,57%,100%,50%,71%
+6,Vitamin E,Vit E (n),18,1,5,14,1,1,40
+7,,within 20%,28%,0,20%,14%,0,100%,22%
+8,,above 20%,22%,0,20%,43%,0,0,28%
+9,,below 20%,50%,100%,60%,43%,100%,0,50%
+10,Vitamin C,Vit C (n),23,4,6,13,2,7,55
+11,,within 20%,78%,100,50%,61%,50%,42%,67%
+12,,above 20%,13%,0,33%,8%,0,29%,15%
+13,,below 20%,9%,,17%,31%,50%,29%,18%

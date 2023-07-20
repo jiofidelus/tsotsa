@@ -1,0 +1,38 @@
+,0,1,2,3,4,5
+0,Sorbents,Analyte,Detection limit,Enrichment factor,Samples,Reference
+1,,,LODgL-,,,
+2,4-(5'-bromo-2'-thiazolylazo)orcinol,Mn,0.7,17,Food samples,Lemos et al.2009
+3,(Br-TAOloaded polyurethane foam,,,,,
+4,Chromosorb 105,Co,2.5,50,"Tap water,table",Karatepe et al.2002
+5,,,,,salt samples,
+6,Chitosan biopolymer modified with,"Cd,Cu","0.1(Cd,0.4Cu)","24 (Cd),25 (Cu)",Natural water,Martins et al. (2004a)
+7,8-hydroxyquinoline(oxine),,,,,
+8,Chitosan biopolymer modified with,Cu,0.3(Cu),19.1(Cu),Water samples,Martins et al.2004b
+9,5-sulphonic acid 8-hydroxyquinoline,,,,,
+10,,Cd,0.2(Cd),13.9(Cd),,
+11,Multiwall carbon nanotubes (MWCNTs),Pb,2.6,44.2,"Water,food",Barbosa et al.2007
+12,,,,,samples,
+13,Amberlite XAD-2 resin functionalized,"Cd, Co, Cu, Ni","0.31Cd),0.32(Co),","39Cd,69Co",Food samples,Lemos et al.(2006a
+14,with pyrocatechol,,"0.39(Cu), 1.64(Ni)","36(Cu),41 (Ni)",,
+15,Amberlite XAD-2 loaded with,Ni,1.1,30,Food samples,Ferreira et al.2001
+16,2-(2-benzothiazolylazo)-2-p-cresol,,,,,
+17,(BTAC),,,,,
+18,Amberlite XAD-2 modified with,Cd,0.4,21,Certified reference,Lemos et al.2004
+19,chromotropic acid,,,,materials,
+20,AlO3/MWCNT,Ni,4.1,20.9,Mineral and river,Amais et al.(2007)
+21,,,,,water,
+22,Amberlite XAD-2 functionalized with,"Co Cu, Ni","0.34(Co), 0.87(Cu),","30Co,30 Cu),",Food samples,Lemos et al.(2006b)
+23,2-[2'-(6-methyl-benzothiazolylazo)]-,,0.81(Ni),24 (Ni),,
+24,4-aminophenol (Me-BTAP),,,,,
+25,6-(2-thienyl)-2-pyridine carboxaldehyde,"Cu, Cd, Co, Ni, Pb",0.39 (Cu)0.14(Cd,31.5 (Cu) 28.1,Water samples,Karadas and Kara
+26,functionalized Amberlite XAD-4,,0.88 (Co) 0.82 (Ni),(Cd23.7(Co20,,(2013)
+27,,,2.54 (Pb),(Ni)30.3(Pb),,
+28,Amberlite XAD-4 functionalized with,"Cu, Cd,Co,Pb,Mn","0.29(Cu),0.13(Cd","27.3 (Cu),27.6 (Cd),","Water samples,",Karadas et al.2013
+29,"2,6-pyridinedicarboxaldehyde",,"0.58(Co),0.23(Mn),","23.6 (Co),28.9 (Mn).",reference cereal,
+30,,,2.19(Pb),27.9 (Pb),materials,
+31,Al2O/NbOs mixed oxide dispersed,Cd,0.19,18.4,Water and cigarette,Costa et al.2011
+32,on silica matrix,,,,samples,
+33,Amberlite XAD-4 modified with,"Cu, Cd, Mn, Co","0.35(Cu,0.14(Cd","22.3 (Cu),27.6(Cd),","Water samples,",This work
+34,8-hydroxy-2-quinoline carboxaldehyde,"Ni,Pb","0.26(Mn), 0.70 (Co),","24.7 (Mn), 23.2 (Co).",reference cereal,
+35,,,"0.72(Ni),2.92(Pb)","20.2 (Ni),",materials,
+36,,,,24.1Pb,,

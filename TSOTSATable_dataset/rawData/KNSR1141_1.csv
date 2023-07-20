@@ -1,0 +1,38 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,A. Climate conditions,A. Climate conditions,,,,,,,,,,,,
+1,Month,,,Temperature(C),Temperature(C),,,,,Relative,,,Solar global,Solar global
+2,,,,Maximum,Maximum,,Minimum,Minimum,,humidity (%),,,radiation (W/m2),radiation (W/m2)
+3,July,,,29.69,,,15.53,,,64.35,,,524.77,
+4,August,,,29.53,,,15.76,,,63.35,,,480.58,
+5,September,,,29.5,,,14.98,,,61.94,,,546.73,
+6,October,,,30.63,,,13.35,,,50.8,,,563.12,
+7,B. Soil characteristics,B. Soil characteristics,,,,,,,,,,,,
+8,Traits,,,,,,,Unit,,,,,,
+9,pH,,,,,,,,,,,,7.18,7.18
+10,Textural class,,,,,,,,,,,,,Sandy loam
+11,Moisture saturation,Moisture saturation,,,,,,%,,,,,28,
+12,Field capacity,,,,,,,%,,,,,21,
+13,Wilting point,,,,,,,%,,,,,11,
+14,Bulk density,,,,,,,g/cm3,,,,,1.32,1.32
+15,Fertility,,,,,,,,,,,,,
+16,Organic matter,,,,,,,%,,,,,0.01,0.01
+17,Inorganic matter,,,,,,,ppm,,,,,9.14,9.14
+18,Bray P1,,,,,,,ppm,,,,,28.30,28.30
+19,K,,,,,,,ppm,,,,,504,504
+20,Ca,,,,,,,ppm,,,,,1474,1474
+21,Mg,,,,,,,ppm,,,,,169,169
+22,Na,,,,,,,ppm,,,,,87.40,87.40
+23,Fe,,,,,,,ppm,,,,,5.09,5.09
+24,Zn,,,,,,,ppm,,,,,0.66,0.66
+25,Mn,,,,,,,ppm,,,,,18.30,18.30
+26,Cu,,,,,,,ppm,,,,,0.34,0.34
+27,Salinity-sodicity,,,,,,,,,,,,,
+28,Electric conductivity,Electric conductivity,,,,,,ds/m,,,,,ND,ND
+29,Sodium absorption ratio,Sodium absorption ratio,,,,,,%,,,,,3.05,3.05
+30,Cation exchange capacity,Cation exchange capacity,,,,,,meq/100 g,,,,,10.40,10.40
+31,Exchangeable sodium,Exchangeable sodium,,,,,,%,,,,,3.65,3.65
+32,C. Irrigation water characteristics,C. Irrigation water characteristics,,,,,,,,,,,,
+33,pH,EC (ds/m),Cations and anions (meq/L,Cations and anions (meq/L,Cations and anions (meq/L,,,,,,,,,SAR (%)
+34,,,Cations,,,,,,Anions,,,,,
+35,,,Ca,,Mg,Na,K,,CO3,HCO3,Cl,S04,,
+36,9.22,0.85,1.30,,1.02,4.06,2.09,2.09,0.06,0.49,1.09,6.84,,3.76

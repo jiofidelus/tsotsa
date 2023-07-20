@@ -1,0 +1,37 @@
+,0,1,2,3,4,5
+0,,,Height,TSWb,Yield,Protein
+1,,,(cm),(g),kgha-1),(%)
+2,Sowing time  irrigation,,,,,
+3,I sowing t,Full irr.,32.7,26.0 a,326.8 b,13.9 b
+4,,Water stress,32.9,23.1 b,320.1 b,13.9 b
+5,II sowing t,Full irr.,39.8,20.6 c,702.6 a,14.7 a
+6,,Water stress,39.8,16.0 d,331.8 b,13.6 c
+7,Sowing time  variety,,,,,
+8,I sowing t,Hitaci,35.4 b,23.3 b,407.2,13.2 e
+9,,Aizu,34.2 bc,24.6 ab,301.9,14.9 a
+10,,Botan,29.1 cd,24.7 a,332.9,13.7 d
+11,,KitaWase,32.4 bc,25.6 a,251.8,13.8d
+12,II sowing t,Hitaci,47.0 a,20.5 c,589.0,14.1 c
+13,,Aizu,24.5d,17.8 de,519.2,14.4 b
+14,,Botan,43.0 a,18.5 d,309.4,13.8 d
+15,,Kitawase,44.5 a,16.5 e,528.3,14.3 bc
+16,Irrigation  variety,,,,,
+17,Full,Hitaci,44.7 a,23.9 a,617.5,14.3bc
+18,,Aizu,26.8 d,23.3 ab,520.2,15.2 a
+19,,Botan,32.0 cd,22.5 b,449.5,13.8 d
+20,,KitaWase,41.3 ab,23.5 ab,471.6,14.0 c
+21,Stressed,Hitaci,37.8 bc,19.9 cd,378.7,13.1 e
+22,,Aizu,31.9 cd,19.0 de,301.0,14.1 bc
+23,,Botan,40.1ab,20.8 c,315.7,13.7 d
+24,,Kitawase,35.6 bc,18.6 e,308.5,14.1 c
+25,Sowing time,,,,,
+26,I sowing time,,32.8 b,24.6 a,323.5 b,13.9 b
+27,II sowing time,,39.8 a,18.3 b,517.2 a,14.1 a
+28,Irrigation,,,,,
+29,Full irrigated,,36.2,23.3 a,514.7 a,14.3 a
+30,Water stress,,36.3,19.6 b,325.9 b,13.7 b
+31,Variety,,,,,
+32,Hitachi,,41.2 a,21.9 a,498.1,13.7 c
+33,Aizu,,29.4 b,21.2 b,410.6,14.6 a
+34,Botan,,36.1a,21.6 ab,382.6,13.8 c
+35,Kitawase,,38.4 a,21.1 b,390.0,14.0 b

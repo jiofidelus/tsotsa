@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9
+0,FAs and FA classes,,,"Cross-validation (all samples, n = 95)","Cross-validation (all samples, n = 95)",,Validation set (n = 32),Validation set (n = 32),,
+1,,Spectral,Spectral,PLS,R2,RMSECV,R2,RMSEP,RPD,Predictive
+2,,preprocessing,range,factors,,,,,,Qualityb
+3,,,cm-1,,,,,,,
+4,EPA,First derivatives,650-1500,6,0.98,1.40,0.99,1.08,8.84,Excellent
+5,DHA,Second derivatives,650-1500,5,0.98,1.46,0.99,1.37,8.18,Excellent
+6,E n-3 PUFA,First derivatives,650-1500,5,0.98,2.23,0.99,1.97,8.03,Very good
+7,SFA+BCFA,First derivatives,2800-3100,5,0.96,1.96,0.96,1.70,5.19,Good
+8,E MUFA,Second derivatives,650-1500+2800-3100,9,0.96,2.64,0.97,2.45,5.40,Good
+9,E n-6 PUFA,Second derivatives,650-1500+2800-3100,9,0.80,2.26,0.89,1.93,2.86,Poor

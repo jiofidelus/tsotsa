@@ -1,0 +1,8 @@
+,0,1,2,3
+0,Compounds,RT(min),Monoisotopic mass,"m/z (relative abundance 10%, excluding isotopes)"
+1,,,,"421.1843[M+Na]*,"
+2,Ptaquiloside,21.17,398.2,"219.1380[M-glucose+H]+,"
+3,,,,201.1278[M-glucose-HO+H]
+4,,,,421.1835[M+Na]*
+5,RT 21.06,21.06,398.2,"219.1375 [M-glucose+H]*,"
+6,,,,201.1276[M-glucose-HO+H]+

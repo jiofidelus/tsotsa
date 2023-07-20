@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Typea,Measurement variable,Quantity value,Uncertainty value,Divisor,u(x;)b,Input,Distribution,Cic,u(vi)a,Output unity,Verre
+1,,,,,,,unity,,,,,
+2,B,Weight u(m),2.1000,0.0062,2.02,0.0031,g,t-Student,0.0210,6.56.105,pg/kg,8
+3,A,Curve u(L),10.00,0.41,2.23,0.21,g/kg,t-Student,0.4762,0.098,pg/kg,12.09
+4,A,Variability u(R&R),9.24,1.12,1.00,0.50,-,t-Student,1.00,0.500,-,17.00
+5,,,,,,Combined uncertainty (uc)=,Combined uncertainty (uc)=,0.51,,Vefr=,8,
+6,,,,,,Expanded uncertainty (U) =,Expanded uncertainty (U) =,1.02,,,,
+7,,,,,,Coverage factor (k)=,Coverage factor (k)=,2.00,,,,

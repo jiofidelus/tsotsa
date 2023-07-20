@@ -1,0 +1,39 @@
+,0,1,2
+0,,Standard mode,He mode
+1,Oxide,156/140 0.863 %,156/140 0.399 %
+2,Doubly Charged,70/1401.401 %,70/1401.017%
+3,Plasma Parameters,,
+4,Plasma Mode,Low matrix,Low matrix
+5,Rf Matching,1.80 V,1.80V
+6,Sample Depth,8.0 mm,8.0 mm
+7,Nebulizer Gas,1.09 L/min,1.09 L/min
+8,Nebulizer Pump,0.10 rps,0.10 rps
+9,S/C Temp,2,2
+10,Auxiliary Gas,1.0 L/min,1.0 L/min
+11,Plasma Gas,15.0 L/min,15.0 L/min
+12,Lens Parameters,,
+13,Extract 1,0.0V,0.0V
+14,Extract 2,-200.0V,-200.0V
+15,Omega Bias,90 V,-90.0V
+16,Omega Lens,9.6V,9.6V
+17,Cell Entrance,-30V,-40.0V
+18,Cell Exit,-50V,-60.0V
+19,Deflect,12.8 V,0.6V
+20,Plate Bias,-35V,-55.0V
+21,Cell Parameters,,
+22,He Flow,0.0 mL/min,4.3 mL/min
+23,OctP Bias,-8.0V,-18.0V
+24,OctP Rf,200V,200V
+25,QP Parameters,,
+26,Mass Gain,136,136
+27,Mass Offset,125,125
+28,Axis Gain,1.0009,1.0009
+29,Axis Offset,0.04,0.04
+30,QP Bias,-3.0V,-15.0V
+31,Hardware Settings,,
+32,Torch H,0.2 mm,0.2 mm
+33,Torch V,0.4 mm,0.4 mm
+34,Dicriminator,3.9 Mv,3.9 Mv
+35,Analog HV,2164 V,2164 V
+36,Pulse HV,1040 V,1040 V
+37,Integration Time,0.1,0.1

@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Electrode,Technique,Linear range,Detection limit,Reference
+1,,,(M),(M),
+2,aMWCNTs /,dDPV,0.05-8.0,6.0103,"Yi et al.,2008"
+3,GCE,,,,
+4,bBDD,ecv,1.0-100,5.0102,Ngamukot
+5,,,,,"et al.,2006"
+6,cCeO2/,fSWASV,1.0-10,1.025,"Sacara et al.,"
+7,Nafion/GCE,,,,2017
+8,HDPB/ABPE,SDLSV,0.02-40,4.0  10-3,this work

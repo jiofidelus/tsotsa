@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7
+0,Chemical,LOD (mg/,LOQ (mg/,Source,Percentage of accessions with detectable,Maximum (mg/,Average*SD (mg/,Overall average**
+1,component,g),g),,levels (%),g),g),(mg/g)
+2,cinnamaldehyde,0.083,0.274,bark,99.8,24.703 (148),8.912  5.220,8.855
+3,cinnamaldehyde,0.083,0.274,leaf,73.0,2.951 (558),0.568  1.116,0.420
+4,cinnamyl alcohol,0.011,0.036,bark,84.6,2.951 (558),0.432  0.554,0.366
+5,cinnamyl alcohol,0.011,0.036,leaf,61.7,3.838 (130),0.206  0.424,0.130
+6,cinnamyl acetate,0.009,0.030,bark,21.7,3.279 (555),0.430  0.627,0.093
+7,cinnamyl acetate,0.009,0.030,leaf,58.6,7.541 (579),0.532  1.027,0.312
+8,eugenol,0.011,0.036,bark,32.8,5.712 (506),0.510 0.580,0.196
+9,eugenol,0.011,0.036,leaf,99.0,75.096 (257),21.706  12.014,21.484
+10,coumarin,0.001,0.003,bark,30.1,0.137 (291),0.034  0.021,0.010
+11,coumarin,0.001,0.003,leaf,8.93,0.164 (247),0.049  0.033,0.004
+12,coumaric acid,0.040,0.132,bark,0.20,0.041(315),0.041  0.000,0.001
+13,coumaric acid,0.040,0.132,leaf,2.80,0.152 (574),0.074  0.038,0.006

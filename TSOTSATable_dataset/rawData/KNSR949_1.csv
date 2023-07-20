@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7
+0,Food types,Brands,N,Sample codes,Tag codes,Consumer age range,Packing weight,Notea
+1,Infant formulas,Brand 1,2, Sample 1,Number 1,0-6 months,350 g,4.50 g
+2,,,2,Sample 7,Number 2,7-12 months,350 g,4.50 g
+3,,,2, Sample 13,Number 3,> 12 months,350 g,4.00 g
+4,,Brand 2,2, Sample 2,Number 1,06 months,400g,4.50 g
+5,,,2,Sample 8,Number 2,7-12 months,400 g,4.80 g
+6,,,2,Sample 14,Number 3,> 12 months,350 g,4.50 g
+7,,Brand 3,2,Sample 3,Number 1,0-6 months,350 g,4.50 g
+8,,,2,Sample 9, Number 3,> 12 months,800 g,4.90 g
+9,,,2,Sample 15, Number 3,> 12 months,800 g,4.30 g
+10,,Brand 4,2, Sample 4,Number 1,06 months,400 g,4.30 g
+11,,,2, Sample 10,Number 2,7-12 months,400 g,4.60 g
+12,,,2, Sample 16,Number 3,0-6 months,350 g,4.60 g
+13,,Brand 5,2,Sample 5, Number 1,0-6 months,350 g,4.60 g
+14,,,2,Sample 11,Number 2,7-12 months,350 g,4.95 g
+15,,Brand 6,2,Sample 17,Number 3,> 12 months,350 g,4.60 g
+16,,Brand 6,2, Sample 6,Number 1,06 months,350 g,4.60 g
+17,,,2, Sample 12, Number 2,7-12 months,350 g,4.90 g
+18,,,2,Sample 19, Number 3,> 12 months,350 g,4.80 g
+19,Baby biscuits,Brand 7,2,Sample 19,b,From 6 months,200 g,20 g
+20,,,2,Sample 23,,From 6 months,200 g,20 g
+21,,,2, Sample 24,b,From 6 months,200 g,20 g
+22,,,2,Sample 25,b,From 6 months,200 g,20 g
+23,,,2,Sample 28,b,From 6 months,200 g,20 g
+24,,Brand 8,2,Sample 20,,From 6 months,200 g,20 g
+25,,,2, Sample 21,"""b",From 6 months,200 g,20 g
+26,,,2,Sample 26,b,From 6 months,200 g,20 g
+27,,,2,Sample 27,b,From 6 months,200 g,20 g
+28,,,2,Sample 29,b,From 6 months,200 g,20 g
+29,,Brand 9,2, Sample 22,b,From 6 months,200 g,20 g
+30,,Brand 10,2,Sample 30,b,From 6 months,200 g,20 g
+31,,Brand 11,2, Sample 31,b,From 6 months,200 g,20 g
+32,,Brand 12,2, Sample 32,b,From 6 months,200 g,20 g
+33,,Brand 13,2,Sample 33,b,From 6 months,200 g,20 g

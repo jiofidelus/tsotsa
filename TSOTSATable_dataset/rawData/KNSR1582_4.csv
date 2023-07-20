@@ -1,0 +1,39 @@
+,0,1,2,3,4,5
+0,,,Frying time (minutes),Frying time (minutes),Frying time (minutes),
+1,Coating,0,2.5,5*,10,15
+2,Water (g/100 g),,,,,
+3,Uncoated control,83.6d,50.2a,28.5a,8.ga,1.ga
+4,Commercial batter,76.gbc,62.6C,"52,3de",32.gh,16.3bc
+5,Recipe-prepared batter,75.3bc,66.1c,97.2e,44.gc,32.6d
+6,Comercial fishsticks,,,,,
+7,(batter & crumbs),61.2a,56.0b,47.gcd,36.1bc,27.gcd
+8,Commercial hreading (l,74.6b,53.gab,33.4ab,12.7a,4.1ab
+9,Commercial breading (2),77.1c,52.5ab,34.2b,11.0a,3.1a
+10,Recipe-prepared breading,75.obc,56.ob,43.5c,27.gb,17.5c
+11,Wet weight fat (g/100 g,,,,,
+12,Uncoated control,2.0a,15.c,29.gb,44.d,"46,2C"
+13,Commercial batter,2.2ab,9.4a,17.4a,33.1bc,46.7c
+14,Recipe-prepared batter,5.0c,12.7ab,16.0a,26.5ab,37.ob
+15,Commercial fishsticks,,,,,
+16,(batter & crumbs),8.6d,11.gab,13.8,21.7a,27.3a
+17,Commercial breading (1),1.ga,18.5c,30.2b,43.0d,48.2c
+18,Camnercial breading (2,2.0a,18.7,28.8b,42.gd,46.gc
+19,Recipe-prepared breading,3.1b,18.4c,26.4b,39.6cd,47.6c
+20,Dry weight fat (g/100 g),,,,,
+21,Uncoated control,12.ob,31.5ab,41.gbcd,49.ob,47.ob
+22,Commercial batter,9.5ab,25.,36. 5b,49.2b,55.gc
+23,Recipe-prepared batter,20.2c,37.4bc,37.4bc,48.ob,54.gc
+24,(batter & crumbs),22.2c,26.0a,26.4a,34.1a,37.8a
+25,Commercial breading {1,7.6a,39.5bc,"45,4d","49,3b",50.3b
+26,Coemercial breading 2),8.gab,39.3bc,43.gcd,48.2b,48.2b
+27,Recipe-prepared breading,12.6b,41.7c,46.6d,54.5b,57.7c
+28,Fat per serving of 4 fishsticks,,,,,
+29,g/62.8g,,,,,
+30,Uncoated control,1.3a,5.0a,7.1a,8.7a,8.3a
+31,Cornercial batter,2.0a,7.0ab,11.6cd,19.gd,23.6de
+32,Recipe-prepared batter,4.6b,11.1c,12.10,19.1d,25.4e
+33,Coumercial fishsticks,8.8c,,,15.5c,
+34,batter & crumbs),8.8c,10.8c,"10,gbcd",15.5c,18.6c
+35,Coumercial breading l),1.4a,7.7ab,9.gbc,11.6b,12.2b
+36,Cownercial breading (2),1.3a,7.gb,9.4b,11.8b,11.b
+37,Recipe-prepared breading,2.4a,11.6c,14.2e,19.5d,21.gd

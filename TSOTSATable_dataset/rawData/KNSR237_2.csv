@@ -1,0 +1,22 @@
+,0,1,2,3,4
+0,Peak No.,Rt (min),m/za,MS/MS fragments (m/z)a,Tentative indentification
+1,Phenolic compounds,,,,
+2,1.,1.44,191.0185,,Quinic acid b.
+3,2.,2.40,325.1023,"191.0531,163.0397",p-Coumaroylhexose b
+4,3.,3.30,299.0784,137.0254,Hydroxybenzoic acid hexoside b
+5,9.,5.54,153.0204,109.0300,Protocatechuic acid
+6,10.,6.61,163.0406,119.0488,p-Coumaric acidb
+7,11.,7.02,769.2181,"623.1654,315.0515",Isorhamnetin 3-rutinoside --7-rhamnoside b
+8,12.,7.12,385.1701,223.0998,Sinapic acid hexoside
+9,13.,8.61,489.2101,285.0359,"Kaempferol O-(6""-O-acetyl-glucoside) b"
+10,14.,8.70,431.1754,285.0360,Kaempferol O-a-L-rhamnoside b
+11,15.,9.73,299.1846,137.0254,Hydroxybenzoic acid hexoside
+12,16.,10.36,301.2023,,Quercetinb
+13,Amino acids,,,,
+14,4.,3.79,365.1381,203.081,Tryptophan hexoside
+15,5.,4.44,365.1381,203.081,Tryptophan hexoside
+16,Organic acids,,,,
+17,6.,4.62,175.0585,115.0389,Isopropylmalic acid
+18,Other metabolites,,,,
+19,7.,4.79,293.1230,131.0709,Ethyl 3-hydrobutanoate hexoside
+20,8.,4.97,293.1230,131.0710,Ethyl 3-hydrobutanoate hexoside

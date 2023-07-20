@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,Experiment 1: Corelli Radicchio hybrid,Experiment 1: Corelli Radicchio hybrid,Experiment 1: Corelli Radicchio hybrid,,,,,,,
+1,Parameter,Packaging condition,Packaging condition,,,,,Storage duration (days),,,
+2,,AIR,,,pMA,,5,,,8,12
+3,Visual Quality score (5-1,1.75 b,,,3.04 a,,3.15 a,,,2.29 b,1.75 c
+4,,,Experiment 2: Botticelli Radicchio hybrid,Experiment 2: Botticelli Radicchio hybrid,Experiment 2: Botticelli Radicchio hybrid,,,,,,
+5,Parameters,,Packaging condition,,,Storage duration (days),,Storage duration (days),,,
+6,,,AIR,pMA,,,,8,12,19,25
+7,Visual Quality score (5-1),,2.75 b,3.55 a,3.55 a,4.25 a,,0.25 a,3.00 b,2.50 c,2.00 d
+8,Ammonium (mole NH4/g fw),,0.27 ns,0.25 ns,0.25 ns,0.26 a,,0.25 a,184 a,0.25 a,195 a
+9,Antioxidant activity (mg Trolox/100 g fw),,164ns,173 ns,173 ns,133 b,,126 b,184 a,204 a,195 a
+10,Total Phenols (mg cae/100 g fw),,166 ns,160 ns,160 ns,143 c,,141 c,161 b,186 a,183 a

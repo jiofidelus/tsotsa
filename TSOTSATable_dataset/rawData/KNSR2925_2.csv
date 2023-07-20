@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,Calibration,,,External validation,,
+1,Spectral pre-treatment,Latent Variables,Species,Sensitivity,Specificity,Accuracy,Sensitivity,Specificity,Accuracy
+2,NIRS,,,,,,,,
+3,Full wavelength,,,,,,,,
+4,,,B. juncea,0.763,0.722,,0.750,0.917,
+5,Smoothing,4,B.rapa,0.919,0.891,0.894,1.000,0.957,0.936
+6,,,B. napus,1.000,0.920,,1.000,0.879,
+7,Selected wavelength (iPLS),,,,,,,,
+8,,,B. juncea,0.868,0.870,,0.813,0.917,
+9,Smoothing,8,B. rapa,0.865,0.964,0.960,1.000,0.913,0.949
+10,,,B. napus,1.000,0.947,,1.000,0.970,
+11,NIR-HSI,,,,,,,,
+12,Full wavelength,,,,,,,,
+13,,,B. juncea,0.895,0.889,,1.000,0.875,
+14,SNV +1 st derivative,10,B.rapa,0.946,0.964,0.972,1.000,1.000,1.000
+15,,,B. napus,1.000,0.987,,1.000,1.000,
+16,Selected wavelength (iPLS),,,,,,,,
+17,,,B. rapa,0.947,0.963,,1.000,0.917,
+18,SNV+1 st derivative,11,B. rapa,1.000,0.945,0.963,0.941,0.957,0.966
+19,,,B. napus,1.000,0.987,,1.000,1.000,

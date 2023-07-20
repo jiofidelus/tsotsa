@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Reference,Element,Certified Value,TLPE Result,teal.a
+1,Material,,,,
+2,NIST SRM,Cu,85.750.51 ug/L,86.351.07ug/L,1.25
+3,1640a,Mg,1.0580.004 mg/L,1.0230.037 mg/L,2.1
+4,,Zn,55.640.35g/L,55.460.40 g/L,1.0
+5,GBW 07605,Cu,17.31.0 g g,17.03  0.46 g g,1.31
+6,,Mg,0.170,0.168,1.71
+7,,, 0.001 mg kg-1, 0.003 mg kg-1,
+8,,Zn,26.3  0.9 g g1,25.62  0.94 g g1,1.62

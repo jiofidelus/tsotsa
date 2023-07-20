@@ -1,0 +1,68 @@
+,0,1,2,3,4,5,6
+0,Compounas,Stage 1,Stage 2,Stage 3,,Stage 4,Stage 5
+1,Anthocyanins,,,,,,
+2,delphinidin,<LOD,<LOQ,<LOQ,,122  3,248  6
+3,dihexosise 1,,,,,,
+4,delphinidin,<LOD,<LOD,<LOD,,304,101
+5,dihexoside 2,,,,,,
+6,delphinidin,0.8  0.1,1.0  0.2,31,,513 ,646  8
+7,galactoside,,,,,16,
+8,delphinidin,0.7  0.1,0.7  0.1,0.8 ,,319 4,711
+9,glucoside,,,0.1,,,
+10,cyanidin galactoside,0.7  0.2,0.8  0.3,51,,201 9,1033
+11,delphinidin,<LOD,<LOD,<LOD,,37  2,123  3
+12,pentoside 1,,,,,,
+13,cyanidin glucoside,0.8  0.1,0.8  0.1,1.1 ,,93  5,20  1
+14,,,,0.2,,,
+15,cyanidin pentoside,0.7  0.1,0.8 0.1,31,,422,355
+16,delphinidin,0.7  0.1,0.7  0.1,0.7 ,,171,191
+17,pentoside 2,,,0.1,,,
+18,Total anthocyanins,4.40.7,4.80.9,13.6 ,,1373 ,1273 
+19,,,,3.4,,45,27
+20,Phenolic acids,,,,,,
+21,protocatechuic acid,49  4,39  2,22  2,,71,21
+22,4-hydroxybenzoic,<LOD,0.20 ,<LOD,,<LOD,<LOD
+23,acid,,0.05,,,,
+24,Total phenolic,49  4,39  2,22  2,,71,2  1
+25,acids,,,,,,
+26,Stilbenes,,,,,,
+27,trans-piceid,0.21 ,0.10,0.22 ,,0.11 ,0.10
+28,,0.01,0.05,0.04,,0.04,0.04
+29,Flavonols,,,,,,
+30,quercetin rutinoside,23  3,5.1  0.2,201,,4.0 ,5.0 
+31,,,,,,0.4,0.3
+32,quercetin,93  5,29  3,36  2,,24  2,101
+33,galactoside,,,,,,
+34,quercetin,34  7,111,211,,131,71
+35,glucuronide,,,,,,
+36,quercetin glucoside,648,20  1,29  1,,23  2,111
+37,quercetin,1.10.1,0.40.1,0.4  0.,1,0.60.,0.3 
+38,rhamnoside,,,,1,1,0.1
+39,myricetin,0.5  0.1,0.20.1,10.1,,0.4 ,0.4 
+40,,,,,,0.1,0.1
+41,quercetin,0.4  0.1,0.2 0.1,10.1,,0.2 ,0.2 
+42,,,,,,0.1,0.1
+43,Total flavonols,216  23,66  4,1085,,65  6,34  2
+44,Flavanols,,,,,,
+45,catechin,371,16 3,17,,211,181
+46,,,,0.1,,,
+47,gallocatechin,1049,19  0.7,342,,482,1048
+48,epigallocatechin,1.50.1,0.40.1,3.0 ,,2.0 ,3.0 
+49,gallate,,,0.1,,0.2,0.2
+50,procyanidin B1,0.60.1,0.2  0.1,0.1 ,,<LOQ,<LOQ
+51,,,,0.1,,,
+52,procyanidin B3,2.0  0.1,1.10.1,1.10.,,0.4 ,0.4 
+53,,,,1,,0.1,0.1
+54,procyanidin C1,2.0 0.1,0.90.1,0.7 ,,0.5 ,0.2 
+55,,,,0.1,,0.1,0.1
+56,(epicatechin gallate,10.1,0.4 0.1,0.6 ,,10.1,10.1
+57,,,,0.1,,,
+58,Total flavanols,148  10,38  4,56  2,,72  3,127  9
+59,Flavanones,,,,,,
+60,naringenin glucoside,15.1 ,5.2  0.1,3.3 ,,5.0 ,7.0 
+61,,0.1,,0.1,,0.2,0.2
+62,naringenin,0.13 ,0.11 ,<LOQ,,0.14 ,<LOD
+63,,0.02,0.02,,,0.02,
+64,Flavanonols,,,,,,
+65,taxifolin,0.70.1,1.0  0.1,0.3 ,,0.7 ,0.6 
+66,,,,0.1,,0.1,0.1

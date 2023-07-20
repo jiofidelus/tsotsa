@@ -1,0 +1,5 @@
+,0,1,2,3
+0,,,Predicted class,
+1,,,Organic,Conventional
+2,Actual class,Organic,16,1
+3,,Conventional,0,33

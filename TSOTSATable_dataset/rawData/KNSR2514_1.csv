@@ -1,0 +1,14 @@
+,0,1
+0,Sample flow rate(mLmin-),1.0
+1,Radio frequency power(W),1300
+2,Plasma argon flow rate(Lmin-1,15
+3,Auxiliary argon flow rate(Lmin-,0.6
+4,Nebulization flow rate(Lmin-1,0.6
+5,Plasma view,Axial
+6,Read delay(s,60
+7,Integration time (s),1min-5(max
+8,Replicates,2
+9,Element wavelengths (nm),Fe:238.204;Mg285.231;
+10,,P213.617;Mn:260.568Zn206.200
+11,Background correction,2 points
+12,System washing (60 s),Washing between samples with water

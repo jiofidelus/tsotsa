@@ -1,0 +1,24 @@
+,0,1,2,3,4,5
+0,Cluster,Total,Original,,Number of foods and,Example
+1,,N,category,percentage in the,percentage in the,
+2,,,,,original SR category,
+3,,,Vegetables,139 (100 %),139 (100 %),
+4,,,Fruits,,49 (98 %),"Apples,raw,with"
+5,1,191,Fruits,,49 (98 %),skin
+6,,,Cereal grain,1,,"Wheat, sprouted"
+7,,,Nuts&,2,,"Nuts, coconut meat"
+8,,,Seeds,2,,raw
+9,,,Legumes,4,,raw
+10,2,20,Nuts&,,,raw
+11,,,Seeds,,16(73%,
+12,,,Cereal,,19 (90%,
+13,,,grains,,,
+14,3,21,Fruits,1,,
+15,,,Nuts&,1,,"Nuts, chestnuts."
+16,,,Seeds,1,,unpeeled
+17,,,,,,"Lima beans, thin"
+18,,,Legumes,32 (89 %),32 (89 %),seeded(baby)
+19,,,,,,"mature seeds,raw"
+20,4,36,Cereal,1,,
+21,,,grains,1,,
+22,,,Seeds,3,,"Seeds,flaxseed"

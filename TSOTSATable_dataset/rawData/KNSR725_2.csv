@@ -1,0 +1,48 @@
+,0,1,2,3,4,5,6,7
+0,No.,Substances,Rmin),(nm,,Rmin),nm,Refs.
+1,,,C18,,,C30,,
+2,,Ketocarotenoids,,,,,,
+3,59,Echinenone,34.10,,464,27.00,"464bDeli et al.,2014","464bDeli et al.,2014"
+4,60,(rac)-3-Hydroxy-echinenone,31.70,,465,23.30,468 b,468 b
+5,61,(rac)-4'-Hydroxy-echinenone,25.92,,460,16.60,460 c,460 c
+6,62,3'-Oxolutein,21.90,"444,472","444,472",12.80,"444,472Molnar et al.2006","444,472Molnar et al.2006"
+7,63,Canthaxanthin,25.90,,475,18.30,,
+8,64,"&,&-Carotene-3,3'-dione",20.20,"416,440,469","416,440,469",9.20,"416,440,469b","416,440,469b"
+9,65,Astaxanthin,15.20,,477,12.40,,"478bChimsung et al.2014;Jeong and Kim,2014"
+10,,Keto-K-carotenoids,,,,,,
+11,66,Sapotexanthin,35.21,,472,30.68,473,Murillo et al.2011
+12,67,Cryptocapsin,30.22,,474,23.53,473,Deli et al.2001b;Turcsi et al.2015
+13,68,3'-Deoxycapsanthin,26.42,,469,20.56,469,Turcsi et al.2015
+14,69,"Cryptocapsin 5,6-epoxide",23.50,,466,14.20,466,Gulyas-Fekete etal.2013
+15,70,"Cryptocapsin 5,8-epoxide",23.15,,450,16.09,450,Gulyas-Fekete et al.2013
+16,71,Capsanthin,15.80,,474,15.50,"474aDeli et al.,2001b","474aDeli et al.,2001b"
+17,72,Capsanthone,16.70,,481,15.90,,479Deli et al.1995:Deli et al.2001b
+18,73,"Capsanthin 5,6-epoxide (anti",11.30,,467,10.30,,466Deli et al.2001b;Deli et al.1998c
+19,74,"Capsanthin 5,6-epoxide (syn)",10.41,,466,9.79,"466Deli et al.,1998c","466Deli et al.,1998c"
+20,75,Capsorubin,9.70,,484,14.14,481aDeli et al.2001b,481aDeli et al.2001b
+21,76,"5,6-Diepicapsokarpoxanthin",5.70,,471,7.10,,"468Deli et al.,2001b;Deli et al.,1998b"
+22,77,3'-Deoxicapsorubin,21.87,,482,18.96,"480Murillo et al.,2012","480Murillo et al.,2012"
+23,,Reduced K carotenoids,,,,,,
+24,78,(6'R)-Capsanthol,10.70,"420, 444, 470","420, 444, 470",8.20,"443,471",Deli et al.2001d
+25,79,(6'S)-Capsanthol,13.80,"443,471","443,471",9.00,"443,471",Deli et al.2001d
+26,80,(6'R/S)-Sapotexanthol,33.46,"444,471","444,471",20.96,"444,471",c.f
+27,81,(6'S/R)-Sapotexanthol,34.12,"444,471","444,471",24.85,"444,471","c,f"
+28,82,(6'R)-Cryptocapsol,26.26,"442,470","442,470",13.24,"444,471",Deli etal.2001c
+29,83,(6'S)-Cryptocapsol,28.48,"442,470","442,470",13.99,"444,471",Deli et al.2001c
+30,84,(6'R/S)-3'-Deoxycapsanthol,24.05,"442,470","442,470",12.54,"443,471",cf
+31,85,(6'S/R)-3'-Deoxycapsanthol,25.25,"442,470","442,470",15.69,"443,471","c,f"
+32,86,"6'R/S)-Capsanthol 5,6-epoxide(anti",9.78,"415,437,467","415,437,467",6.27,"414,437,467",c.f
+33,87,"(6'S/R)-Capsanthol 5,6-epoxide(anti",7.03,"414,437,467","414,437,467",5.53,"414,437,467","c,f"
+34,88,"(6'R/S)-Capsanthol 5,6-epoxide (syn)",8.61,"414,437,467","414,437,467",5.76,414.437.467,"c,f"
+35,89,"(6'S/R)-Capsanthol 5,6-epoxide(syn",6.52,"414,437,467","414,437,467",5.52,"414,437,467","c,f"
+36,90,"(6R/S,6'R/S)-3'-Deoxycapsorubol",13.08,"413,437,466","413,437,466",6.15,"413,437,466","c,f"
+37,91,"(6R/S,6'S/R)-3'-Deoxycapsorubol",15.25,"412,436,465","412,436,465",8.27,"413,437,466","c,f"
+38,92,"(6S/R,6'R/S)-3'-Deoxycapsorubol",17.61,"416,437,466","416,437,466",7.33,"414,437,466","c,f"
+39,93,"(6S/R,6'S/R)-3'-Deoxycapsorubol",18.14,"416,436,466","416,436,466",8.27,413.437.466,"c,f"
+40,94,(6R/S)-3'-Deoxycapsorubol-6'-one,18.92,,467,14.61,465,"c,f"
+41,95,(6S/R)-3'-Deoxycapsorubol-6'-one,16.58,,466,10.65,465,"c,f"
+42,96,(6'R/S)-3'-Deoxycapsorubol-6-one,20.15,,467,11.09,465,"c,f"
+43,97,(6'S/R)-3'-Deoxycapsorubol-6-one,20.55,,467,11.09,465,"c,f"
+44,98,"(6R,6'R)-Capsorubol",3.66,"413,436,466","413,436,466",4.48,"413,436,466",Deli et al.2001c
+45,99,"(6R,6'S)-Capsorubol",4.99,"414,436,466","414,436,466",4.51,"413,437,466",Deli et al.2001c
+46,100,"(6S,6'S-Capsorubol",4.94,"414,437,466","414,437,466",4.49,"414,437,466",Deli et al.2001c

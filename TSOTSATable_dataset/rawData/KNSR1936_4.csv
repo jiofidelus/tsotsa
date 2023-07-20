@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6
+0,Component,,1990-91 level,,,2000 target,
+1,,,%energy,%energy,proposed,change needed,change needed
+2,,,,,,(g/capita/day),(g/capita/day)
+3,Protein,103.0,,13.0,12-14% energy,12-14% energy,0
+4,Fat,118.0,,34.0,decrease to,,-12.7
+5,,,,,<30% energy,<30% energy,
+6,Ethanol,17.5,,4.0,decrease to<3%,decrease to<3%,-4.0
+7,,,,,energy,,
+8,Refined sugars,123.0,,15.0,decrease to,,-16.4
+9,,,,,<13% energy,,
+10,Other,262.0,,34.0,increase to>40%,increase to>40%,+60.0
+11,carbohydrates,,,,energy,,
+12,Refined sugars:,NA,ratio 0.5:1,ratio 0.5:1,decrease to ratio,decrease to ratio,as above
+13,other carbo-,,,,0.3:1,,
+14,hydrates ratio,,,,,,+7 g
+15,Dietary fibre,23.0,,NA,30 gb,,+7 g
+16,,13100kJ,,100,no change,,0kJ

@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Product,Polyphenolic content (mg/100 g),Antioxidant capacity (mol Trolox/100 g),Antioxidant capacity (mol Trolox/100 g),
+1,,,DPPH,ABTS,FRAP
+2,Flours,,,,
+3,amaranth,498.8  5. e,134.8  18.2 c,179.8  20.5 b,147.4  16.e
+4,pumpkin tissue,803.4  11.2 d,143.0  14.4 b,189.0  19.8 ab,228.7  19.8 cd
+5,Jerusalem artichoke,1370.0  16.2 a,136.6  17.8 bc,178.6  16.1 b,260.0  22.7 b
+6,corn grits,158.4  16.2 h,112.4  11.3 d,153.7  14.2 c,211.0  16.2 d
+7,Extruded corn snacks,,,,
+8,with amaranth flour,335.1  4.7 f,149.3  20.1 b,173.8  15.3 b,204.8  19.7 d
+9,with pumpkin flour,975.4  10.6 ,183.3  16.7 a,208.2  21.3 a,364.0  23.8 a
+10,with Jerusalem artichoke flour,1034.2  12.3 b,146.7  15.2 b,177.7  18.6 b,255.4  18.9 b
+11,without additives,146.8  8.,150.0  14.9 b,178.9  16.9 b,233.3  19.3 c

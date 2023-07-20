@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7
+0,,Food,ARA,XYL,MAN,GAL,GLU,URON
+1,Cereal Products,Cereal Products,,,,,,
+2,1.,Bran flake cereal,2.49,3.34,0.16,0.33,3.46,0.27
+3,2.,Bran muffin,0.95,1.22,0.08,0.15,1.31,0.16
+4,3.,Corn cereal,0.27,0.22,0.00,0.06,0.44,0.11
+5,4.,"Corn kernels, canned",0.33,0.36,0.01,0.12,0.66,0.10
+6,5.,"Oatmeal cereal, raw",0.91,0.93,0.12,0.21,4.89,0.24
+7,6.,"Rice, raw",0.09,0.07,0.00,0.00,0.32,0.04
+8,7.,Shredded wheat cereal,2.17,2.70,0.17,0.32,2.92,0.19
+9,8.,"Wheat cereal, raw",1.08,1.33,0.15,0.23,0.95,0.05
+10,9.,White bread,0.46,0.51,0.10,0.15,0.53,0.02
+11,"l0, White wheat flour","l0, White wheat flour",0.74,0.78,0.10,0.18,0.43,0.01
+12,ll.Whole wheat bread,ll.Whole wheat bread,1.01,1.28,0.11,0.17,1.20,0.10
+13,Vegetables,,,,,,,
+14,"l2.Beets,canned raw","l2.Beets,canned raw",0.67,0.03,0.06,0.17,1.03,0.48
+15,13.Broccoli.raw,13.Broccoli.raw,0.23,0.12,0.07,0.18,0.96,0.60
+16,"14.Cabbage,raw","14.Cabbage,raw",0.14,0.07,0.05,0.11,0.71,0.47
+17,"15.Carrots,raw","15.Carrots,raw",0.29,0.04,0.07,0.45,1.01,0.77
+18,"16.Celery, raw","16.Celery, raw",0.10,0.07,0.05,0.11,0.70,0.46
+19,"17.Cucumbers,raw","17.Cucumbers,raw",0.20,0.04,0.02,0.06,0.31,0.15
+20,,"18. Green beans, raw froz.",0.12,0.07,0.07,0.34,0.77,0.50
+21,19.Green peppers,19.Green peppers,0.06,0.05,0.06,0.20,0.67,0.47
+22,20. Potatoes. baked,20. Potatoes. baked,0.11,0.03,0.01,0.41,0.74,0.25
+23,"21. Onions, cooked","21. Onions, cooked",0.03,0.04,0.02,0.41,0.52,0.34
+24,"22. Rutabaga, raw","22. Rutabaga, raw",0.20,0.09,0.06,0.17,0.96,0.73

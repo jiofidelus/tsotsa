@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7
+0,Sampling localities,Population ID,Latitude (N),Longitude (E),Altitude (m asl),Sample sizea,,
+1,,,,,,Group-I,Group-II,Group-III
+2,Takmachik,TAK,34 23.522,7645.981,3006,6,66,66
+3,Domkhar,DOM,34 23.522,"76 45.984""",3008,6,66,66
+4,Khalsi,KLS,34 19.166,76 52.564,3011,6,6,6
+5,Nurla,NUR,34 17.941',"76' 59.490""",3046,6,6,6
+6,Nimmu,NMU,34 11.357,77 20.437,3190,6,6,6
+7,Leh,LEH,"34 08.267""",77 34.378,3346,6,6,6

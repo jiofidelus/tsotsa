@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Crop,Apparatus,Origin  Variety,,,Variety  Harvest season,,Environment  Variety,,
+1,Crop,,,NS,S,,,S,,Reference
+2,Crop,,S,NS,S,,NS,S,NS,
+3,Spring,ICP-AES,-,-,,"Ca, Cu, K, Mg, Mn, Na,","B,",-,-,"(Feil and Banziger, 1993)"
+4,wheat,,,,"P,Zn","P,Zn",Fe,,,
+5,Durum,ICP-OES,-,-,-,-,-,"Ca, Cu, Fe, K, Mg, Mn,",-,"Ficco et al.,2009"
+6,wheat,,,,,,,"Na,Zn",,
+7,Wheat,ICP-AES,-,-,-,-,-,-,"Zn,","Joshi et al.,2010)"
+8,,,,,,,,,Fe,
+9,Wheat,AAS,,,-,-,,"Zn, Fe",-,"(Velu et al., 2012)"
+10,Wheat,ICP-MS,"Ba, Cu,Fe, Mn, Mo, Zn","Ca, Mg, Na,",-,-,-,,-,"Zhao et al., 2012)"
+11,,,,v,,,,,,
+12,Rice,-,-,-,-,-,-,Fe,-,"(Suwarto and Nasrullah,"
+13,,,,,,,,,,2011)
+14,Rice,ICP-MS,"As, Co, Cu, Fe, Mn, Mo, Ni,",-,,,,-,-,"Norton et al.,2010"
+15,,,"P,Se",,,,,,,

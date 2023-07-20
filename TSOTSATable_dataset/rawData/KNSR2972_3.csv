@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Vegetabias,n.of,General,moist.,max.,min.,SDb,cVe,SD,CV
+1,,samples a,mean,(%),value,value,between,between,withind,within
+2,,,,,,,samples,samples,samples,sample
+3,Carrat,10,17,87,45,3,12.3,70,0.3,6.7
+4,Wild endive,10,121,96,188,59,40.1,33,1.5,5.5
+5,Celery,5,498,95,715,369,136,27,1.7,2.2
+6,Chicory,5,50,89,123,13,40.1,79,0.4,3.5
+7,Spinach,5,405,94,671,235,162,40,3.9,3.5
+8,Parstey,4,224,90,301,114,76,34,1.8,4.6

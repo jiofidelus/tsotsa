@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Raw,,,Microwaved,,,Baked,
+1,,Insoluble,,Soluble,Insoluble,Insoluble,Soluble,Insoluble,,Soluble
+2,Flesh only,0.5,,1.0,0.7,,1.2,0.6,,1.4
+3,Skin onty,0.3,,0.2,0.7,,0.4,0.3,,0.2
+4,Flesh + skin (calculated,0.8,,1.2,1.4,,1.6,0.9,,1.6
+5,Flesh +skin(observed),0.7,,1.2,1.0,,1.5,1.0,,1.6

@@ -1,0 +1,23 @@
+,0,1,2,3,4,5
+0,Specie/subspecie,Cultivar,Seed origin,Number of,Mean weight,Number of
+1,,,,accessions,per grain(g),samples
+2,T. aestivum L. spp. aestivum,Colorado,San Cristobal de La Laguna,1,0.043  0.002,5
+3,T. aestivum L. spp. aestivum,Isla de Fuerteventura,Las Palmas,1,0.044  0.002,5
+4,T. aestivum L. spp. aestivum,Del Pais,Tacoronte/La Laguna/Buenavista,4,0.035 0.006,20
+5,T. aestivum L. spp. aestivum,Morisco,Vilaflor,3,0.038  0.001,15
+6,T. aestivum L. spp. aestivum,Alto,Barlovento/El Tanque,2,0.0400.002,10
+7,T. aestivum L. spp. aestivum,Marsello,Tegueste,1,0.046  0.002,5
+8,T. aestivum L. spp. aestivum,Barbilla,Los Realejos/Buenavista,9,0.036  0.004,45
+9,T. aestivum L. spp. aestivum,Marrueco,Buenavista,3,0.038  0.005,15
+10,T.aestivum L.spp.aestivum,Jallado,Los Realejos,1,0.034  0.002,5
+11,T. aestivum L. spp. aestivum,De alto,San Cristobal de La Laguna,1,0.044  0.002,5
+12,T. aestivum L. spp. compactum,Raposo,Buenavista,1,0.033  0.002,
+13,T. turgidum L. spp. durum,Espaniol,San Cristobal de La Laguna,1,0.040  0.000,5
+14,T. turgidum L. spp. durum,Raspinegro canario,Las Palmas,1,0.049  0.000,5
+15,T.turgidum L.spp. durum,Plaganudo,San Cristobal de La Laguna,1,0.0380.001,5
+16,T. turgidum L. spp. durum,Arisnegro de Tenerife,Santa Cruz de Tenerife,1,0.0520.001,5
+17,I. turgidum L. spp. durum,Arisnegro velloso de grano blanco,,1,0.059  0.002,5
+18,T.turgidum L.spp.durum,Vitron,Commercial cultivar (Control),1,0.046  0.001,5
+19,I. turgidum L. spp. turgidum,De la tierra,Teguise,1,0.034 0.001,5
+20,T. turgidum L. spp. turgidum,Pelon,Teguise,1,0.037  0.000,5
+21,Overall,,,35,0.039  0.006,175

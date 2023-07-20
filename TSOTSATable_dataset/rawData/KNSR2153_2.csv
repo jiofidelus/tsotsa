@@ -1,0 +1,15 @@
+,0,1,2
+0,parameter,theobromine,caffeine
+1,content (mg/g),4.41-11.90,0.55-1.20
+2,X(nm),80,100
+3,No.of LVa,7,8
+4,R2b,0.902,0.929
+5,RMSECC,0.60,0.06
+6,R2vd,0.833,0.860
+7,RMSECVe,0.78,0.08
+8,Rpf,0.801,0.825
+9,RMSEPs,0.78,0.09
+10,REP (%)h,10.0,10.1
+11,prediction bias,0.14,0.04
+12,SEPi,0.80,0.08
+13,RPDi,2.5,2.5

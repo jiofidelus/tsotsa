@@ -1,0 +1,61 @@
+,0,1,2,3,4,5,6,7,8
+0,#,RT,Compound Name,Mol.,[M]+/,Fragment ions,[M-2H]/[M,Fragment ions,Source
+1,,(min),,formula,[M+H]*/,(+ve mode,2H+HO]/,-ve mode,
+2,,,,,[M+Na],,[M-H],,
+3,,,,,,,,,"Sc,SCe"
+4,,,,,,,,,SE
+5,49,17.4,Kaempferol,C15H1oO6,287.0551,,285.0403,,"SN-Fl, SE"
+6,,,,,(287.055),,(285.0405),,
+7,,Non-Targeted Analysis-Quercetin derivatives,Non-Targeted Analysis-Quercetin derivatives,,,,,,
+8,50,8.1,Quercetin 3-laminaribioside,C27H30O17,627.1559,465.1029,625.1407,463.0868,"SN-FI, SE"
+9,,,,,(627.1556,303.0501,(625.1410,"300.0268,301.0319",
+10,51,8.15,Quercetin 3-rhamninoside,C33H40O20,757.2181,303.0497,755.2040,"300.0272,301.0322","SN-Fl,"
+11,,,,,(757.2186),,(755.2040,,SN-Fr
+12,52,8.2,Quercetin di-glucoside,C27H3oO17,627.1555,303.0498,625.1410,463.0857,"SN-Fl,"
+13,,,,,(627.1556),,(625.1410),,"SN-Fr,"
+14,,,,,,,,,SCeSE
+15,53,8.8,Quercetin 3-arabinoglucoside,C26H2gO16,597.1451,303.0503,595.1303,"300.0274, 301.0345, 271.0243,","SN-Fl,"
+16,,,,,(597.1450),,(595.1305),255.0294,"SN-Fr,"
+17,,,,,,,,,"SC, SE,"
+18,,,,,,,,,SCe
+19,54,9.67,Quercetin-rhamnosyl-glucoside,C27H3oO16,611.1605,"465.1031,",609.1465,"300.0281,301.0342 273.039,",SE
+20,,,,,(611.1607),303.0501,(609.1461),"257.0431,151.0039",
+21,55,11.41,Quercetin 3-O-malonylglucoside,C24H22O15,551.1036,303.0502,549.0883,"300.0281,301.0340","SN-Fl,"
+22,,,,,(551.1036),,(549.0886),,"SN-Fr,SE"
+23,56,11.5,Quercetin 3-O-(6-acetyl-glucoside),C23H22O13,507.1133,303.0497,505.0989,"463.0858,300.0274,301.0351","SN-Fl,"
+24,57,12.5,,,(507.1133),,(505.0988),,SN-Fr
+25,58,12.1,Quercitrin,C2H20O11,449.1075,303.0495,447.0930,"300.0272, 301.0322","SN-Fl,"
+26,,,,,(449.1078),,(447.0933),,"SN-Fr, SE,"
+27,Non-Targeted Analysis-Others,Non-Targeted Analysis-Others,Non-Targeted Analysis-Others,,,,,,
+28,59,5.01,Ebuloside (iridoid glycoside,C21H32O10,,,443.1922,"153.0194,109.0294","SN-Fl,"
+29,,,,,,,(443.1923),,"SN-Fr, SE,"
+30,,,,,,,,,SCeSC
+31,60,7.68,Resveratrol,C14H12O3,229.0842,107.0496,-,,SE
+32,,,,,(229.0859),,,,
+33,61,13.7,Phloretin 2'--D-glucoside,C21H24O10,437.1439,,435.1296,"273.0770,167.0353",SCe
+34,,,,,(437.1442),,(435.1297),151.0410,
+35,62,17.1,Naringenin/isonaringenin,C15H12O5,273.0756,,271.0611,151.0031,SN-Fl
+36,63,17.4,,,(273.0758),,(271.0612),,
+37,64,17.2,trihydroxy-octadecadienoic acid,C1gH32Os,329.2327,,327.2175,"279.2321,255.2326.171.1026","SN-Fl,"
+38,,,,,(329.2323),,(327.2177),,"SN-Fr,"
+39,,,,,,,,,"SC, SE,"
+40,,,,,,,,,SCe
+41,65,17.6,trihydroxy-octadecenoic acid,C18H34O5,331.2481,,329.2333,"279.2331,255.2331,171.1028","SN-Fl,"
+42,66,18.3,,,(331.2479),,(329.2333),,"SN-Fr,"
+43,67,18.9,,,,,,,"SC, SE,"
+44,,,,,,,,,SCe
+45,68,20.1,Maslinic acid/2-Hydroxyursolic,C3oH48O4,,,471.3482,"453.3363[M-H-H2O],423.3252[M-","SN-Fl,"
+46,69,20.5,acid,,,,(471.3480),"H-HO-HCHO],411.3270 [M-H-CO2","SN-Fr,"
+47,,,,,,,,"CH4],407.2976 [M-H-HO-HCHO","SC, SE,"
+48,,,,,,,,"CH4],393.3160 [M-H-CO-CH4-HO]",SCe
+49,,,,,,,,365.2880[M-H-CO2-CH4-HO-CH4],
+50,70,22.9,Ursolic acid/Oleanolic acid,C3oH4gO3,,,455.3529,"409.3472[M-H-HCOOH],407.3309","SN-FI,"
+51,71,23.2,,,,,(455.3531,"[M-H-HCHO-HO],391.2879 [M-H","SN-Fr,"
+52,,,,,,,,HCHO-HO-CH4],"SC,SE"
+53,,,,,,,,,SCe
+54,,Non-Targeted Analysis-Unknown compounds,Non-Targeted Analysis-Unknown compounds,,,,,,
+55,72,2.3,Unknown,C1gH1oOs,,,353.0301,191.0132,"SN-Fr,"
+56,,,,,,,(353.0303),,"SN-FI, SC,"
+57,,,,,,,,,SESCe
+58,73,12.7,Unknown,C2gH44O17,,,651.2508,159.0300,SE
+59,,,,,,,(651.2506),,

@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Element,SLRS-5 river water,,,,SLEW-3 estuarine water,SLEW-3 estuarine water,,,QCS-19 high purity standard,QCS-19 high purity standard,,
+1,,Certified value,Observed,th,R%,Certified,Observed,th,R%,Certified,Observed,th,R%
+2,,gL-1,valuea,,,value,valuea,,,value,valuea,,
+3,,,(gL-1),,,gL1,(gL-1),,,gL-1,gL-1,,
+4,Cu,17.4 1.3,18.8  0.6,4.10,108,1.550.12,1.680.12,1.88,108,25,25.2  1.2,0.23,100
+5,Mn,4.330.18,4.27 0.21,0.49,98.6,1.61  0.22,1.78  0.10,2.94,110,20,19.6  2.1,0.36,97.9
+6,Co,0.05,<LODe,-,-,0.042 0.010,<LODe,-,-,50,50.3  2.6,0.20,100
+7,Pb,0.0810.006,<LODe,-,-,0.00900.0014,<LODe,-,-,150,14811,0.29,98.8
+8,Cd,0.00600.0014,<LODe,-,-,0.048  0.004,<LODe,-,-,10,9.48  0.65,1.38,94.8
+9,Ni,0.476  0.064,<LODe,-,-,1.23  0.07,1.39  0.19d,1.68,113,50,48.8  3.0,0.70,97.6

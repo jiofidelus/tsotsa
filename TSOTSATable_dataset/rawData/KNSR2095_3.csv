@@ -1,0 +1,68 @@
+,0,1,2,3,4,5
+0,Metal name,Mean concentrations  Std. Dev. in (g g-1),Mean concentrations  Std. Dev. in (g g-1),,References,Study Origin
+1,,Liver,Gizzard,Heart,,
+2,Al,1.2 0.5,1.50  1.03,1.02  0.57,This work,Malaysia
+3,,31.65  13.66,21.426  7.493,,"Abduljaleel et al., 2012",Malaysia
+4,,0.140.01,0.23  0.02,0.100.01,Uluozlu et al.2009,Turkey
+5,Cr,0.03  0.02,0.034  0.03,0.09  0.01,This work,Malaysia
+6,,5.13  0.69,2.726  0.842,,"Abduljaleel et al.,2012",Malaysia
+7,,0.040.003,0.05  0.004,0.030.002,"Uluozlu et al.,2009",Turkey
+8,,0.08693,,,"Aljaff et al.,2014",Iraq
+9,,0.38  0.08,0.220.06,,Mousa et al.2010,Egypt
+10,,4516,104  12,,Okoye et al.2015,Nigeria
+11,,13132,91  18,,"Onyeka and David,2015)",Nigeria
+12,As,0.01,0.01,ND,This work,Malaysia
+13,,0.515 0.19,0.238  0.160,,"Abduljaleel et al., 2012",Turkey
+14,,0.06  0.004,0.10 0.008,0.060.005,Uluozlu et al.2009,Turkey
+15,,132  80,11818,,"Okoye et al.,2015",Nigeria
+16,,189  58,99  14,,"Onyeka and David,2015)",Nigeria
+17,Se,0.030.01,0.060.03,0.02 0.01,This work,Malaysia
+18,,2.014  0.60,1.179  0.087,,"Abduljaleel et al., 2012",Malaysia
+19,,0.91 0.08,0.170.01,0.39  0.02,Uluozlu et al.2009,Turkey
+20,,0.01742,,,"Aljaff et al.,2014",Iraq
+21,Zn,2.5  0.4,2.5  0.4,3.3 0.6,This work,Malaysia
+22,,78.86  21.45,85.934  7.89,,"Abduljaleel et al.,2012",Malaysia
+23,,22.5  2.1,21.0  1.9,14.2 1.1,"Uluozlu et al.,2009",Turkey
+24,,5.27 0.59,3.150.39,2.23  0.26,"Mousa et al.,2010",Egypt
+25,,1.342,,,"Aljaff et al.,2014",Iraq
+26,,1.20  0.79,1.000.51,,Okoye et al.2015,Nigeria
+27,,23.22,19.54,18.61,"Jokanovic et al.,2014",Serbia
+28,Cd,0.01,ND,0.09  0.08,This work,Malaysia
+29,,0.159  0.114,0.157  0.067,,"Abduljaleel et al.,2012",Malaysia
+30,,0.00224  0.00020,0.00090  0.00006,0.00025  0.00002,"Uluozlu et al.,2009",Turkey
+31,,0.040714  0.0290,0.0041  0.0028,0.00360.008,"Ismail and Abolghait,2013)",Egypt
+32,,0.00509,,,"Aljaff et al.,2014",Iraq
+33,,424  59,82  8,,"Onyeka and David,2015",Nigeria
+34,,8.80  7.43,5.53  3.04,,"Okoye et al.,2015",Nigeria
+35,Hg,0.18 0.11,0.220.13,0.08 0.05,This work,Malaysia
+36,,394  47,136  12,,"Okoye et al.,2015",Nigeria
+37,,394  47,112  38,,"Onyeka and David,2015",Nigeria
+38,Pb,0.010,ND,0.254,This work,Malaysia
+39,,0.3540.18,0.300 0.188,,"Abduljaleel et al., 2012",Malaysia
+40,,0.12 0.010,0.010.001,0.040.003,"Uluozlu et al.,2009",Turkey
+41,,0.8762  0.2089,0.3186  0.1462,0.1733  0.06777,"Ismail and Abolghait, 2013)",Egypt
+42,,0.47  0.08,0.24  0.06,0.09  0.024,"Mousa et al.,2010",Egypt
+43,,59.03  52.28,61.2935.39,,"Okoye et al.,2015",Nigeria
+44,,421  46,148  33,,"Onyeka and David,2015)",Nigeria
+45,Cu,0.253  0.16,0.471  0.029,0.348  0.16,This work,Malaysia
+46,,9.67  1.60,4.399  1.327,,"Abduljaleel et al.,2012",Malaysia
+47,,12.1  1.1,10.7  1.0,14.51.2,"Uluozlu et al.,2009",Turkey
+48,,5.130.59,3.570.45,1.77  0.26,"Mousa et al.,2010",Egypt
+49,,0.1583,,,"Aljaff et al.,2014",Iraq
+50,,193  28,125  11,,"Onyeka and David,2015",Nigeria
+51,,5.82  3.05,23.74  4.89,,"Okoye et al.,2015",Nigeria
+52,,5.56,2.18,4.06,"Jokanovic et al.,2014",Serbia
+53,Sb,0.279  0.067,0.1890.0247,0.3710.150,This work,Malaysia
+54,Ni,0.026,0.022,0.016  0.014,This work,Malaysia
+55,,1.909  0.96,1.839  0.43,,"Abduljaleel et al.,2012",Malaysia
+56,,0.010.001,0.020.001,0.020.001,"Uluozlu et al.,2009",Turkey
+57,,0.0904,,,Aljaff et al.2014,Iraq
+58,,11724,92 22,,"Onyeka and David,2015",Nigeria
+59,Sr,0.035  0.02,0.0171,0.1120.012,This work,Malaysia
+60,Fe,6.5  3.4,9.2  2.7,7.6  2.7,This work,Malaysia
+61,,401.7447.4,143.170  19.19,,"Abduljaleel et al.,2012",Malaysia
+62,,15515,17.81.4,25.6  2.2,"Uluozlu et al.,2009",Turkey
+63,,6.482,,,Aljaff et al.2014,Iraq
+64,,82.42,19.61,31.54,"Jokanovic et al.,2014",Serbia
+65,Mg,43.6  1.7,59.432.45,51.88  1.73,This work,Malaysia
+66,,263,254,258,"Jokanovic et al.,2014",Serbia

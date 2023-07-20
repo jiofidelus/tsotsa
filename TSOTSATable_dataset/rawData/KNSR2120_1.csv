@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,,,,Assayed with b,Assayed with b,Assayed with b,,,,Assayed,Assayed,,,Expected,
+1,Component,Units,Materiala,DE,DY,DW,LE,LY,LW,n,Mean,%RSD,HorRat,Range,Source of expectedd
+2,Vitamin D3,g/100g,NIST SRM1845a Whole Egg Powdera,X,X,,X,X,,3,4.28,2.5,0.2,4.41-5.35,COAcertifiede
+3,,,Vitamin D Fortified Cheese Control Compositef,,,,X,X,,1,7.94,,,6.20-8.90,Phillips et al.2008g
+4,,,Whole Egg Control Compositef,,,,X,X,,1,1.67,,,,no data
+5,,,Egg White Control Compositef,,,X,,,x,1,<0.1,,,,no data
+6,25(OHD3,g/100g,NIST SRM1845a Whole Egg Powdera,X,X,,X,X,,3,0.91,5.4,0.3,1.07-1.37,COAcertified
+7,,,Vitamin D Fortified Cheese Control Compositef,,,,X,X,,1,0.06,,,,no data
+8,,,Whole Egg Control Compositef,,,,X,X,,1,0.54,,,,no data
+9,,,Egg White Control Compositef,,,X,,,X,1,0.03,,,,no data
+10,Iodine,g/100g,NIST SRM1849a Adult/Infant Nutritional Formulaa,X,X,X,X,X,X,1,128,,,118-140,COA(certified
+11,,,Whole Egg Control Compositef,X,x,X,X,X,X,5,79.4,2.2,0.3,,no data
+12,,,Mixed Dish V Control Compositef,X,x,X,X,X,X,1,<0.1,,,,no data
+13,Moisture,g/100g,Flour Control Compositef,X,X,X,,,,3,12.9,1.6,1.2,11.3-13.1,In-house limits
+14,,,Whole Egg Control Compositef,,,,X,X,X,4,76.3,0.3,0.3,,no data
+15,,,Egg White Control Composite,,,,X,X,,,88.1,0.1,0.1,,no data
+16,,,Beef Baby Food Control Compositef,,,,X,X,X,1,82.9,,,82.783.3,in-house limits
+17,,,Mixed Dish V Control Compositef,,,,X,X,X,1,71.7,,,71.4-71.9,in-house limits

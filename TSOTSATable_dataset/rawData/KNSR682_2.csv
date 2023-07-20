@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6
+0,,Gum ratio (%),Gum ratio (%),,Gum yield (kg/ha),Gum yield (kg/ha),
+1,cultivars,Irrigated,Dryland,Dryland,Irrigated,,Dryland
+2,,conditions,,conditions,conditions,,conditions
+3,Berkem,55.39abc,,59.15abc,569.80a-h,,599.40a-g
+4,Ciftci,71.91abc,,57.20abc,583.30a-h,,457.70a-h
+5,Giirarslan,59.97abc,,65.84abc,370.30d-h,,527.40a-h
+6,PI 173820,47.71c,,61.63abc,214.30h,,232.40gh
+7,PI 194020,63.99abc,,64.30abc,350.80d-h,,283.10e-h
+8,PI 215615,75.96ab,,62.33abc,678.80a-d,,458.80a-h
+9,PI 251640,69.79abc,,72.27abc,443.00b-h,,551.20a-h
+10,PI 286532,68.73abc,,56.47abc,403.40c-h,,343.80d-h
+11,PI 296394,65.32abc,,53.53 bc,409.70b-h,,470.90a-h
+12,PI 302448,49.47c,,65.20abc,320.30d-h,,280.20e-h
+13,PI 302449,60.95abc,,64.77abc,295.20e-h,,323.80d-h
+14,PI 381062,54.49abc,,70.25abc,504.70a-h,,354.80d-h
+15,PI 426971,68.37abc,,65.53abc,312.30e-h,,474.20a-h
+16,PI 426973,64.74abc,,63.46abc,571.50a-h,,558.00a-h
+17,PI 469264,79.84a,49.31c,49.31c,531.40a-h,,269.10e-h
+18,PI 568215,59.28abc,,75.52ab,617.70a-f,,817.10a
+19,PI 572538,58.33abc,,58.76abc,256.80fgh,,240.70gh
+20,PI 613633,58.89abc,,57.34abc,311.10d-h,,240.30gh
+21,PI 617076,53.97abc,,55.87abc,492.10a-h,,439.70b-h
+22,PI 639185,78.92ab,,55.79abc,786.60ab,,586.50a-g
+23,PI 660995,57.8abc,,75.84ab,645.50a-e,,744.20abc
+24,Mean,63.04,62.40,62.40,460.40,,440.60
+25,dryland),,62.72,,,450.50,450.50
+26,Firrigated/dryland,,0.06,,,2.40,
+27,Fgenotype/cultivar,,4.49,,,23.80,
+28,Fgenotype/,,,,,,
+29,cultivarxirrigated/,,0.52*,,,9.70*,
+30,dryland,,,,,,
+31,LSD (5%),,24.28,,,376.70,376.70

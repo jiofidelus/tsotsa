@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,Cross-validated classification,,,,,Overall Accuracy (%)
+1,,,,,,,,Partial Accuracy (%),
+2,,Capture area,North,Centre-North,Centre-North,Centre-South,South,,
+3,,North,7,,0,1,2,70,
+4,CAP,Centre-North,0,,8,2,0,80,76.5
+5,CAP,Centre-South,0,,0,6,1,85.7,76.5
+6,,South,2,,0,0,5,71.7,
+7,,North,10,10,0,0,0,100,
+8,VIP-PLS-DA,Centre-North,1,,9,0,0,90,91.2
+9,VIP-PLS-DA,Centre-South,0,,0,7,0,100,91.2
+10,,South,2,,0,0,5,71.7,
+11,,North,4,,1,2,3,40,
+12,RF,Centre-North,0,,8,2,9,80,58.8
+13,RF,Centre-South,2,,2,3,0,43,58.8
+14,,South,2,,0,0,5,71.4,
+15,,North,8,,1,1,0,80,
+16,LDA,Centre-South,1,,0,6,0,80,84.1
+17,,South,1,,,0,6,85.7,
+18,,North,5,,3,1,0,50,
+19,S-LDA,Centre-North,2,,8,0,0,80,76.5
+20,S-LDA,Centre-South,0,,0,7,0,100,76.5
+21,,South,1,,,0,6,85.7,
+22,,North,5,,5,0,0,50,
+23,SVM,Centre-North,0,10,10,0,0,100,67.6
+24,SVM,Centre-South,1,,0,4,2,57,67.6
+25,,South,3,,0,0,4,57.1,

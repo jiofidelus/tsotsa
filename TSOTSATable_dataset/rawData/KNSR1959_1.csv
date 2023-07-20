@@ -1,0 +1,60 @@
+,0,1,2,3,4,5,6
+0,Peak no.,Accepted description,Rt (min),m/z+,Formula,Score,Mass error (ppm
+1,1,Caffeic acid,0.608,181.1566,CgHgO4,38.30,0.533
+2,2,Ferulic acid,0.639,195.1194,C1oHoO4,38.20,0.308
+3,3,3-p-coumaroyl quinic acid,0.681,339.2258,C6HgOs,38.10,2.301
+4,4,Protocatechuic acid hexoside,0.794,317.0592,C13H17O9,41.00,4.545
+5,5,Ellagic acid,2.104,303.1932,C4HgOs,44.60,1.096
+6,6,Isorhamnetin-3-o-glucoside,2.104,479.2581,C22H22O12,39.40,0.397
+7,7,Phlorizin,2.202,437.072,C21H24O10,33.80,4.634
+8,8,Hydrated chlorogenic acid,2.436,373.0623,C16H2oO10,47.90,2.412
+9,9,Procyanidin B1,2.588,579.1506,C3oH27O12,33.90,0.505
+10,10,Proanthocyanidins,2.588,469.4503,C3oH12O6,36.50,-1.577
+11,11,Acetylvanillin,3.031,195.0887,C1oHoO4,38.70,4.447
+12,12,Atractylodin,3.138,183.0624,C1HoO,37.70,-1.074
+13,13,Protocatechuic acid,3.451,155.1352,CH6O4,38.00,0.268
+14,14,Quercitrin,3.709,449.1591,C2H20O11,49.50,0.670
+15,15,3-caffeoylquinic acid (Chlorogenic acid),8.846,355.1671,C16H1gO9,58.70,-1.453
+16,16,Isoquercetin,4.106,465.1319,C2H20O12,39.00,3.776
+17,17,Coumarin,4.162,147.0351,CgHO2,41.00,3.482
+18,18,Ginkgolic acid,4.540,321.0892,C20H32O3,44.60,0.130
+19,19,Cyanidin-3-o-sambubioside,4.727,618.0903,C26H2gClO15,47.60,0.866
+20,20,Cyanidin-3-o-rutinoside,4.967,632.1998,CH31ClO15,33.20,3.104
+21,21,P-hydroxyphenylacetic acid,5.082,153.0442,CgHgO3,36.70,-1.801
+22,22,Quercetin-3-o-galactoside (Hyperoside),5.187,465.0999,C1H2oO12,42.80,-0.451
+23,23,Catechin,5.330,291.2666,C15H14O6,52.70,2.175
+24,24,P-Coumaric acid,5.672,165.5557,CgHgO3,42.10,2.836
+25,25,Anthocyanins,5.800,305.0638,C1H6O6,37.80,2.295
+26,26,Methyl hexadecanoate,5.841,271.0901,C1H34O2,38.30,3.846
+27,27,Kaempferol-3-o-rutinoside,5.960,595.1461,C27H30O15,31.60,4.545
+28,28,Methyl chlorogenic acid,6.170,369.3308,C17H20O9,27.80,-0.811
+29,29,Kaempferol-3-o-galactoside,6.418,449.1749,C2H20O11,38.80,4.106
+30,30,P-hydroxybenzoic acid glucoside,6.713,301.0278,C13H6Os,41.00,4.412
+31,31,P-Coumaric acid,6.890,165.5557,CgHgO3,38.10,2.864
+32,32,4-caffeoylquinic acid (Cryptochlorogenic acid),9.913,355.2628,C6HgO9,35.30,4.683
+33,33,1-caffeoylquinic acid,7.102,355.0828,C6H1gO9,38.60,2.901
+34,34,Malvin,7.383,692.1359,C2gH35ClO17,36.80,3.839
+35,35,Ethyl ferulate,7.746,223.1613,C2H4O4,28.80,0.901
+36,36,kaempferol,8.391,287.0487,C5H1oO6,40.50,4.447
+37,37,5-caffeoylquinic acid (Neochlorogenic acid),10.973,355.1668,C16H1gO9,27.60,3.893
+38,38,Isoferulic acid,9.182,195.0478,CoH1oO4,33.90,1.166
+39,39,4-methylumbelliferone,9.309,177.1551,C1oHgO3,38.20,2.536
+40,40,7-methoxycoumarin,9.432,177.1551,C1oHgO3,37.70,1.926
+41,41,Perillene,9.739,151.1551,C1oH4O,36.40,3.129
+42,42,Rosmarinic acid,7.063,361.1001,CgH6O8,36.40,3.350
+43,43,Myricetin,10.315,319.2434,C5HoOs,31.60,2.521
+44,44,Kaempferol-3-o-rutinoside,10.435,595.1461,C27H3oO15,26.00,4.082
+45,45,Kaempferol-3-o-glucoside,10.482,449.3769,C21H20O11,45.30,1.449
+46,46,Catechin hexoside,10.911,453.3407,C21H24O11,26.90,1.566
+47,47,7-hydroxycoumarin,4.093,163.0296,CgH6O3,52.70,4.545
+48,48,Vanillic acid,11.284,169.1134,CgHgO4,42.10,4.354
+49,49,Chlorogenic acid dimer,11.755,707.4616,C32H34O18,38.20,1.101
+50,50,3-p-coumaroyl quinic acid,11.940,339.2258,CHgOg,36.70,0.794
+51,51,Syringic acid,11.982,199.161,CgH1oO5,37.50,3.881
+52,52,Quercetin,12.091,303.2434,C1sHoO7,48.00,3.911
+53,53,Isorhamnetin-3-o-rutinoside,12.120,625.1571,C2gH32O16,39.00,4.389
+54,54,Dicaffeoylquinic acid,12.462,517.3244,C25H24O12,28.80,1.180
+55,55,Methyl chlorogenic acid,12.648,369.3308,C17H2oO9,40.50,1.690
+56,56,Isorhamnetin-3-o-glucoside,12.709,479.2581,C22H22O12,38.60,3.370
+57,57,Quercetin-3-o-rutinoside (Rutin),12.760,611.4679,C27H30O16,33.70,3.473
+58,58,Epicatechin,12.948,291.2581,C5H4O6,38.20,1.746

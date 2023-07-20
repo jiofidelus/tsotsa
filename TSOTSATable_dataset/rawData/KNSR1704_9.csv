@@ -1,0 +1,34 @@
+,0,1,2,3,4,5,6
+0,Vitamin,Treatment,Conditions,Food,Retention,Losses,References
+1,,,,,(%),(%),
+2,Riboflavin,Cooking,93 C (internal temperature,Pork meat,,13 cja,Lassen et al. (2002)
+3,,,"72C),72-80 min",,,,
+4,,,"75min, soaking 15 h",Beans,99,,Maskova et al.1996
+5,,,"45 min, soaking 16 h",Peas,106,,
+6,,,"165 min, soaking 16 h",Soybean,87,,
+7,,Boiling,"90C,10 min",Macaroni,,18.3,Ayranci and Kaya(1993)
+8,,,"90C,20 min",,,53.3,
+9,,,"96-99C,150min",Beef meat,72,18 cj,Maskova et al.(1994
+10,,Braising,,Chicken meat: light,63.9/93.1,,Al-Khalifa and Dawood (1993)
+11,,,,muscle/dark muscle,,,
+12,,Pressure-cooking,50 min,Beans,98,,Maskova et al.(1996
+13,,, 40 min,Peas,96,,
+14,,,70 min,Soybean,72,,
+15,,,5min,Cabbage,,65.88,Vargas et al.(1995
+16,,,10 min,Cauliflower,,42.80,
+17,,Microwaving,,Chicken meat: light,87.7/94.0,,Al-Khalifa and Dawood (1993
+18,,,,muscle/dark muscle,,,
+19,,,"60 min, soaking 17 h",Beans,81,,Maskova et al.(1996
+20,,Microwaving with,8 min,Cabbage,,50.65,Vargas et al. (1995)
+21,,small amount of,,,,,
+22,,water,,,,,
+23,,,14 min,Cauliflower,,28.70,
+24,,Microwaving with,3min,Cabbage,,57.24,
+25,,oil,,,,,
+26,,,,Cauliflower,,38.65,
+27,,Gently cooking in,4 min,Cabbage,,66.24,
+28,,oil,,,,,
+29,,,,Cauliffower,,46.13,
+30,,Roasting,,Chicken meat: light,68.5/59.6,,Al-Khalifa and Dawood (1993
+31,,,,muscle/dark muscle,,,
+32,,Frying,,,45.8/78.6,,

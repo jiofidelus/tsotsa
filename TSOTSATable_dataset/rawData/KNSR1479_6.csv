@@ -1,0 +1,35 @@
+,0,1,2,3
+0,Material code,Value (%),Analyte,Name
+1,BCR-CRM 381,1.1,Fat,Rye flour
+2,BCR-CRM 382,1.3,Fat,Wheat flour
+3,NIST-SRM 1570a,2,Fat,Spinach leaves
+4,NIST-SRM 1570a,2,Fat,Spinach leaves
+5,NIST-SRM 1544,3.68,Fat,Frozen diet composite
+6,LGC-7176,4.46,Fat,Canned pet food
+7,NIST-SRM 1974a,4.9,Fat,Organics in mussel tissue
+8,NIST-SRM 1566b,5.8,Fat,Oyster tissue
+9,LGC-7001,7.8,Fat,Pork meat
+10,LGC-7105,8.4,Fat,Rice pudding
+11,BCR-CRM 384,10.8,Fat,Lyophilized pork muscle
+12,LGC-7002,12.1,Fat,Pork/chicken meat
+13,LGC-7000,12.4,Fat,Beef/pork meat
+14,NIES-CRM,12.4,Fat,Typical Japanese diet
+15,LGC-7107,13.4,Fat,Madeira cake
+16,SLV-SMRD 2000,14.3,Fat,Fresh meat
+17,LGC-7175,14.4,Fat,Biscuit pet food
+18,LGC-7151,14.6,Fat,Processed pork meat
+19,LGC-7150,15,Fat,Processed meat
+20,LGC-7152,15,Fat,Processed pork containing soya and caseir
+21,LGC-7101,20.4,Fat,Mackerel paste
+22,LGC-7103,22,Fat,Sweet digestive biscuit
+23,LGC-7104,22.7,Fat,Sterilized cream
+24,LGC-7007,25.8,Fat,Milk drink powder
+25,LGC-7006,26.2,Fat,Milk powder
+26,LGC-7106,27,Fat,Processed cheese
+27,NIST-SRM 1846,27.1,Fat,Infant formula
+28,LGC-7016,29.5,Fat,Chocolate confectionery
+29,NIST-SRM 1563-2,97,Fat,Coconut oil (fortified)
+30,NIST-SRM 1563-1,99,Fat,Coconut oil (natural)
+31,NIST-SRM 2383,1.8,"Fat, saturated",Baby food composite
+32,NIST-SRM 2383,1.5,"Fat,monounsaturated",Baby food composite
+33,NIST-SRM 2383,0.74,"Fat, polyunsaturated",Baby food composite

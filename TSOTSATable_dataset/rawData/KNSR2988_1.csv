@@ -1,0 +1,9 @@
+,0,1,2,3,4
+0,"FAs and FA classesa,b",Concentration range in training set,Mean  SD in training set,"Concentration range in validation set (%,weight/",Mean  SD in validation set
+1,,"%,weight/weight)","(%, weight/weight)",weight),"%,weight/weight)"
+2,EPA,2.63 -43.9,17.39.77,5.48 -42.2,14.9 9.21
+3,DHA,3.64 -61.5,17.7 11.7,5.58-43.7,17.911.4
+4, n-3 PUFA,14.1-74.3,42.6 16.8,22.5 -72.0,40.416.0
+5,MUFA,0.42-50.1,21.7  13.0,2.30 -46.7,22.6  13.3
+6, SFA+BCFA,0.37-31.0,15.2 9.57,1.15-29.0,16.7  8.88
+7,n-6 PUFA,0.79-27.0,5.464.87,2.67 -26.1,5.735.50

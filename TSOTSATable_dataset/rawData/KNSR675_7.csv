@@ -1,0 +1,18 @@
+,0,1,2
+0,SAMPLE,COOKING METHOD,
+1,"Beans, snap","Boiling, l0 minutes",
+2,"Broccoli, fresh","Boiling, lo minutes",+7
+3,,"Microwave, 6 minutes",-28
+4,"Broccoli, frozen",Boiling 7 minute,0
+5,"Cabbage, fresh","Boiling, l5 minutes",+12
+6,Collards,"Boiling, 1 hour",+18
+7,Mustard greens,"Boiling, l hour",+2
+8,,"Boiling, 4 hours",9
+9,Potatoes w/skin,"Boiling, 25 minutes",
+10,,"Baked, 1 hour, 205c",-24
+11,w/o-skin,"Boiling, 25 minutes",-4
+12,"French fries,frozen","Baked 22 minutes, 232C",-26
+13,"Spinach, fresh","Boiling, 1 minute",+1
+14,,"Microwave, 3 minutes",-26
+15,,"Microwave, 4 minutes",-29
+16,"Spinach, frozen","Boiling, l4 minutes",1

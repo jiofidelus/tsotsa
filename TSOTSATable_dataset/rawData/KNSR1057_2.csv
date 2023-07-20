@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7
+0,Ratios,Multiclass,AUC,AUC,AUC,Trend,Trend,Trend
+1,,AUC,Green' versus Green,Green with ripened,Green' versus,Green'versus Green,Green with ripened,Green' versus
+2,,,with ripened notes',notes versus 'Ripen,'Ripen',with ripened notes',notes versus 'Ripen','Ripen'
+3,V1,0.68,0.77,0.59,0.68,<,>,<
+4,V2,0.72,0.67,0.70,0.80,,<,<
+5,V3,0.61,0.61,0.56,0.67,,<,<
+6,V4,0.67,0.57,0.75,0.70,<,>,>
+7,V5,0.76,0.65,0.78,0.86,>,>,>
+8,V6,0.70,0.79,0.65,0.67,,,<
+9,V7,0.88,0.77,0.55,0.73,<,7,<

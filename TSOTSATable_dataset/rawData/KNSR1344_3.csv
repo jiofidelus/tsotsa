@@ -1,0 +1,18 @@
+,0,1,2
+0,Construction of model,,
+1,,,Classification
+2,,Natural yeasts,Industrial yeasts
+3,Total number of samples,10,25
+4,Samples with correct classification,8,23
+5,Individual correct proportion,80.0%,92.0%
+6,Number of samples=35,,
+7,Number of samples correct=31,,
+8,Correct proportion=88.6%,,
+9,Validation,,
+10,,Natural yeasts,Industrial yeasts
+11,Total number of samples,3,6
+12,Samples with correct classification,3,4
+13,Individual correct proportion,100%,67%
+14,Number of samples=9,,
+15,Number of samplescorrect=7,,
+16,Correct proportion=77.7%,,

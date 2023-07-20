@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Compound,Matrix,Ambient ionization,Spray solvent,LODs (g/L or g/kg),LOQs (g/L or g/kg)
+1,Sildenafil,Medicinal liquor,Capillary nanoESI,-,40,150
+2,Vardenafil,Medicinal liquor,Capillary nanoESI,-,40,150
+3,Pseudovardenafil,Medicinal liquor,Capillary nanoESI,,30,100
+4,Sudan Red I,Chili powder,Paper spray ionization,"DCM:IPA:FA (9010:0.2,v/v)",20,80
+5,Sudan Red II,Chili powder,Paper spray ionization,"DCM:IPA:FA (90:10:0.2,v/v)",20,80
+6,Sudan Red III,Chili powder,Paper spray ionization,"DCM:IPA:FA (90:10:0.2,v/v)",50,180
+7,Sudan Red IV,Chili powder,Paper spray ionization,"DCMIPA:FA (90:10:0.2,v/v)",50,180
+8,Rhodamine B,Hotpot seasoning,Syringe spray ionization,"MeOH:Water (50:50,v/v)",20,80
+9,Forchlorfenuron,Watermelon,Syringe spray ionization,"MeOH:Water (50:50,v/v",15,50

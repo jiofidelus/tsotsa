@@ -1,0 +1,4 @@
+,0,1,2,3,4,5
+0,Subsets,Unit,S.N.a,Range,Mean,S.D.b
+1,Calibration set,%,69,0.0924-2.1318,1.2018,0.4631
+2,Prediction set,%,46,0.1277-1.9164,1.2030,0.4599

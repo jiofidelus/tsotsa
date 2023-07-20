@@ -1,0 +1,60 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,Vegetable oils,,Campe-,Campe-,Stigma-,Sito-,Sito-,Sum 1,,Brassica- 5-avena- Sum 2,Brassica- 5-avena- Sum 2
+1,Origin,Food product,,sterol,stanol,sterol,sterol,stanol,,sterol,sterol,
+2,S,Peanut oil,,37,0.0,21,377,5.8,668,0.0,22.2,773
+3,S,Rape seed oil,,279,3.1,6,168,2.2,668,81,24.7,274
+4,S,Saffloro oil,,36,0.0,23,335,21,472,0.0,24.5,472
+5,S,Sesame seed oil,,100,0.0,37,335,0.0,472,nd,nd,472
+6,D,Soy oil,,67,2.2,59,172,5.0,335,0.0,7.7,313
+7,S,Soy oil,,68,5.0,56,189,18,335,0.0,24.5,349
+8,D,Sunflower oil,,52,0.0,47,309,3.0,411,0.0,24.5,436
+9,S,Wheat germ oil,,12,11,0,613,20,919,0.0,46.9,967
+10,,Wheat germ oil,Mean,101,4.7,30,276,9.3,419,11,28,453
+11,,,S.D.,98,4.7,20,174,9.3,277,24,19,298
+12,,,Median,67,2,29,214,6,335,1,25,349
+13,,,Min,9,0,0,24,0,39,81,0,978
+14,,,Max,320,14,66,66,28,919,81,71,242
+15,,,%av 5,24,1,7,66,22,100,6,15,242
+16,,,%av 7,22,,7,61,22,92,2,6,100
+17,,Nuts and seeds,,Campe-,Campe-,Stigma-,Sito-,Sito-,,Brassica-, 5-avena-,
+18,Origin,Food product,,sterol,stanol,sterol,sterol,stanol,Sum 1,sterol,sterol,Sum 2
+19,s,Almonds,,7,0.0,7,165,3.9,111,3.7,21.3,208
+20,S,Brazil nuts,,3,0.0,8,94,5.4,111,0.0,20.5,131
+21,S,Cashew nuts,,8,0.0,0,125,1.5,135,4.8,11.7,151
+22,S,Coconut rasps,,5,0.0,15,33,0.0,53,0.0,15.1,68
+23,S,Hazelnuts,,8,0.0,2,122,6.5,138,nd,21.3,138
+24,S,Peanuts,,15,0.0,13,76,0.7,104,0.0,12.0,116
+25,S,Pistachio nuts,,15,0.0,7,254,0.0,276,0.0,21.0,297
+26,S,Pumpkin seeds,,0,,,48,39.4,91,0.0,2.6,94
+27,S,Sesame seed,,70,0.0,28,263,0.0,360,0.0,43.4,404
+28,S,Sunflower seeds,,37,4.4,29,228,2.1,300,0.0,21.7,322
+29,,Walnuts,Mean,19,1.3,11,136,5,172,2.1,17,189
+30,,,S.D.,22,1.3,10,121,11,94,2.1,11,103
+31,,,Median,8,0,8,121,2,136,0,21,144
+32,,,Min,0,0,0,33,0,53,0,1,404
+33,,,Max,70,4,29,263,39,360,5,43,404
+34,,,%av 5,11,0,6,79,3,91,1,10,110
+35,,,%av7,10,0,6,72,3,91,1,9,100
+36,,Miscellaneous,,,,,,,,,,
+37,,Food product,,Campe-,Campe-,Stigma-,Sito-,Sito-,,Brassica-,5-avena-,
+38,Origin,Food product,Type/Brandname,sterol,stanol,sterol,sterol,stanol,Sum 1,sterol,sterol,Sum 2
+39,S,Chocolate biscuit,KitKat,8.3,0.6,14.5,43.5,1.0,68,0.9,1.8,70
+40,D,"Chocolate, dark",,12.3,0.0,31.4,77.6,0.9,122,0.9,3.1,94
+41,D,"Chocolate, milk",,10,0.5,23,56,0.9,76,0.9,2.5,94
+42,D,Crisps,,15,0.7,14,45,1.1,76,2.4,8.9,88
+43,S,Flapjacks,,5.2,0.0,3.2,32.8,0.6,42,0.0,5.6,47
+44,D,French fries,,4,0.0,4,19,0.6,28,0.0,5.5,34
+45,D,Ice cream,non-dairy,1,0.0,22,7,0.0,11,0.0,0.0,11
+46,S,Ice -cream,"Soy based, non-dairy",3,0.0,22,9,0.0,458,0.2,0.9,15
+47,D,Mayonaise,Rapeseed oil based,181,0.0,24,121,2.1,458,5.1,20.9,484
+48,D,Peanut butter,,33,0.0,26,100,2.2,140,3.6,20.2,160
+49,D,Sallad dressing,Becel dressing,16,2.7,15,108,0.0,141,2.3,8.8,152
+50,D,Sallad dressing,Fritessaus,139,0.0,2,176,0.0,317,31,13.9,106
+51,D,Sallad dressing,Slasaus,29,0.0,13,53,0.0,95,7.3,3.2,106
+52,,,Mean,34,0,14,79,1,127,4,8,139
+53,,,S.D.,55,0.7,10,69,0.8,124,8.2,6.8,134
+54,,,Median,14,0,14,55,1,93,1,6,100
+55,,,Min,1,0,2,,0,11,0,0,11
+56,,,Max,181,3,31,251,2,100,31,21,109
+57,,,%av 5,27,0,11,62,1,100,3,6,109
+58,,,%av 7,25,0,10,57,0,92,3,6,100

@@ -1,0 +1,28 @@
+,0,1,2,3,4,5
+0,sample,N,Thiamine,,Riboflavin,
+1,,,{mg/100 g fresh weight (fw)},{mg/100 g fresh weight (fw)},(mg/100 g fw),
+2,,,averageSD,range,average  SD,range
+3,muslies,,,,,
+4,Finnish,3,0.240.02,0.21-0.25,0.070.01,0.06-0.08
+5,German,3,0.38 0.08,0.29-0.45,0.070,
+6,Swedish,2,0.33  0.01,0.32-0.34,0.06  0.02,0.04-0.07
+7,English,11,0.28  0.06,0.21-0.39,0.28  0.27,0.04-0.71
+8,average all,19,0.29 0.07,,0.190.23,
+9,breakfast cereals,breakfast cereals,,,,
+10,Imported,,,,,
+11,Corn Flakes,,4.21,,2.38,
+12,(fortified),,,,,
+13,Corn Flakes,2,0.04  0.01,,0.06,
+14,Rice crispies,1,0.03,,0.05,
+15,Weetabix,,1.27,,1.67,
+16,Finnish,,,,,
+17,rolled oats,12,0.33  0.04,0.26-0.38,0.09  0.02,0.06-0.10
+18,rolled mixed,,,,,
+19,grain,4,0.24  0.03,0.20-0.27,0.100.02,0.08-0.12
+20,rye flakes,3,0.24  0.02,0.23-0.26,0.100.01,0.09-0.11
+21,rolled wheat,2,0.19  0.04,0.16-0.22,0.08  0.02,0.07-0.10
+22,rolled barley,1,0.12,,0.03,
+23,rolled rice,1,0.04,,0.01,
+24,Rice crispies,1,0.03,,0.02,
+25,oat cereal,1,0.16,,0.07,
+26,average all,30,0.400.75,,0.21  0.50,

@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7
+0,Compound,Precursor ion,Product ion,MRM transitions (m/z),,Fragmentor,Collision energy,Polarity
+1,,,,Molecular ion,Product ion,,,
+2,Daidzein,252.6,"238.6, 210.6",252.6,223.1,130,26,Negatif
+3,Coumestrol,266.6,"238.6, 210.6",266.6,210.6,130,"18, 22",Negatif
+4,Formononetin,266.6,"251.6, 222.7",266.6,251.6,112,"10, 26",Negatif
+5,Genistein,268.6,"158.6, 132.8",268.6,116.9,130,26,Negatif
+6,Genistein,268.6,"158.6, 132.8",268.6,132.8,130,26,Negatif
+7,Biochanin A,282.6,"267.5, 238.6",282.6,267.5,112,"14,26",Negatif
+8,Glycitein,282.6,"267.6, 239.6",282.6,267.6,112,"10, 18",Negatif
+9,Quercetin,300.5,"178.7, 150.8",300.5,150.8,130,"6,10",Negatif
+10,Matairesinol,360.4,164.2,360.4,164.2,90,20,Negatif
+11,Secoisolariciresinol,360.4,164.2,360.4,164.2,90,20,Negatif
+12,Daidzin,417.3,"255.1, 199.0",417.3,255.1,90,10,Pozitif
+13,Ononin,431.3,"270.3, 269.1",431.3,269.1,90,10,Pozitif
+14,Genistin,447.3,271.1,433.3,271.1,90,10,Pozitif
+15,Glycitin,447.3,"284.9, 269.8",447.3,284.9,90,"18,30",Pozitif
+16,Sissotrin,447.3,285.1,447.3,285.1,90,10,Pozitif
+17,Rutin,608.2,299.7,608.2,299.7,130,34,Negatif

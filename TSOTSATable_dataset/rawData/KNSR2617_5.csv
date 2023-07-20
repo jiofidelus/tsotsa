@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,NDB NO.,Description,Subclass,Flavonoid,Mean,SE,N,Min,Max,CC,Sources
+1,,,,,,,,,,,of data
+2,09050,"Blueberries,",Anthocyanidins,Cyanidin,15.02,0.84,12,4.79,28.72,B,29
+3,,raw,,,,,,,,,
+4,,,,Delphinidin,29.54,0.14,12,20.82,47.37,B,29
+5,,,,Malvidin,49.21,1.42,12,32.95,69.44,B,29
+6,,,,Peonidin,7.05,0.53,12,1.01,19.37,B,29
+7,,,,Petunidin,11.73,0.09,12,7.19,18.25,B,29
+8,,,Flavan-3-ols,(-)-Epicatechin,1.11,0.00,4,1.11,1.11,B,5
+9,,,,-)-Epicatechin 3-,0.00,0.00,4,0.00,0.00,B,5
+10,,,,gallate,,,,,,,
+11,,,,-)-Epigallocatechin,0.00,0.00,4,0.00,0.00,B,5
+12,,,,(-)-Epigallocatechin,0.00,0.00,4,0.00,0.00,B,5
+13,,,,3-gallate,,,,,,,
+14,,,,(+)-Catechin,0.00,0.00,4,0.00,0.00,B,5
+15,,,,(+)-Gallocatechin,0.00,0.00,4,0.00,0.00,B,5
+16,,,Flavonols,Kaempferol,0.00,0.00,6,0.00,0.00,B,"12,33"
+17,,,,Myricetin,0.82,0.15,6,0.00,2.60,B,"12,33"
+18,,,,Quercetin,3.11,0.04,7,1.70,7.30,B,"12,33,"
+19,,,,,,,,,,,44

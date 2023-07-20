@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6,7,8
+0,Variable,Dietary intake,,,,Total folate intakes,,,
+1,,Correctly classified,Closely classifieda,Mis-classifiedb,p-Valuec,Correctly classified,Closely classifieda,Mis-classifiedb,p-Valuec
+2,g DFE/d,26.3,43.2,30.5,>0.1,33.7,43.2,23.1,<0.005
+3,g folate/d,29.5,41.0,29.5,>0.1,33.7,39.0,27.3,<0.05

@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8
+0,Quality parametera,Quality parametera,Wine code,,,,,,
+1,,,Wine A,Wine B,Wine C,Wine D,Wine E,Wine F,Wine G
+2,Alcoholic degree (% vol),Alcoholic degree (% vol),11.86,12.7,11.76,13.86,12.38,11.6,12.82
+3,Total acidity (g L-(expressed as tartaric acid),,5.55,5.61,6.05,5.81,6.16,6.61,4.56
+4,Volatile acidity (g L-1) (expressed as acetic acid),,3.35,0.49,0.37,0.29,0.37,0.30,0.37
+5,,pH,3.35,3.32,2.94,3.30,3.00,2.88,3.40
+6,Density (g mL-1),Density (g mL-1),1.86,0.992,0.991,0.990,0.990,0.997,0.999
+7,Reduced sugars (gL-1),Reduced sugars (gL-1),1.79,3.77,3.24,1.87,2.28,13.75,1.72
+8,Tartaric acid(gL-1),Tartaric acid(gL-1),1.79,1.54,2.48,1.87,2.09,3.28,0.76
+9,Malic acid (gL-1),Malic acid (gL-1),0.07,0.02,1.23,1.89,1.73,1.94,0.13
+10,Lactic acid (g L),Lactic acid (g L),0.07,0.02,0,0,0,0,0.13
+11,Citric acid(gL,Citric acid(gL,0.57,0.45,0.19,0.41,0.32,0.55,0.15
+12,Fructose (g L1),Fructose (g L1),0.74,1.73,1.37,0.75,0.72,11.07,0.74
+13,Glucose (gL-1),Glucose (gL-1),0.76,1.74,0.68,1.04,0.51,1.22,0.76
+14,Glycerol (g L-1),Glycerol (g L-1),4.68,4.9,4.58,5.93,4.09,2.87,4.64

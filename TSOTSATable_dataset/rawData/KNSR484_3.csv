@@ -1,0 +1,23 @@
+,0,1,2,3,4
+0,No.,saliva type,esters,solvent,Incubation (37C)
+1,Wo,water 1 mL,120L,water 1 mL,0 min
+2,W120,water 1 mL,120L,water 1 mL,120 min
+3,EO,water 1 mL,120 L,ethanol 1 mL,0 min
+4,E120,water 1 mL,120L,ethanol 1 mL,120 min
+5,ES-WO-0,saliva 1 mL,no,water 1 mL,0 min
+6,ES-W120-0,saliva 1 mL,no,water 1 mL,120 min
+7,ES-EO-0,saliva 1 mL,no,ethanol 1 mL,0 min
+8,ES-E120-0,saliva 1 mL,no,ethanol 1 mL,120 min
+9,ES-WO,saliva 1 mL,120L,water 1 mL,0 min
+10,ES-W120,saliva 1 mL,120L,water 1 mL,120 min
+11,ES-EO,saliva 1 mL,120L,ethanol 1 mL,0 min
+12,ES-E120,saliva 1 mL,120L,ethanol 1 mL,120 min
+13,BES-WO-0,boiled saliva 1 mL,no,water 1 mL,0 min
+14,BES-W120-,boiled saliva 1 mL,no,water 1 mL,120 min
+15,0,,,,
+16,BES-EO-O,boiled saliva 1 mL,no,ethanol 1 mL,0 min
+17,BES-E120-0,boiled saliva 1 mL,no,ethanol 1 mL,120 min
+18,BES-WO,boiled saliva 1 mL,120L,water 1 mL,0 min
+19,BES-W120,boiled saliva 1 mL,120L,water 1 mL,120 min
+20,BES-EO,boiled saliva 1 mL,120 L,ethanol 1 mL,0 min
+21,BES-E120,boiled saliva 1 mL,120L,ethanol 1 mL,120 min

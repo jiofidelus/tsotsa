@@ -1,0 +1,70 @@
+,0,1,2,3,4
+0,Nutrients [Tagname],Korean Terms (unit)/Definition/Analytical,International Terms (unit)/Definition/Analytical method,Comparability or/,Comparability or/
+1,,method,,convertibility,convertibility
+2,Protein [PROCNT],Protein g/100 g EP,Protein (g/100 g EP),Comparable or convertible,Comparable or convertible
+3,,Component consisting of amino acids,Component consisting of amino acids,using original NCF of FAO,using original NCF of FAO
+4,,Nitrogen (by Kjeldahl method)  NCF,"Total nitrogen [by Kjeldahl method (AOAC, 2002)]  NCF (FAO/",WHO,
+5,,"(modified FAO/WHO,1973)","WHO,1973)",,
+6,Total carbohydrates,Carbohydrates (g/100 g EP),Total carbohydrates (g/100 g EP),,
+7,[CHOCDF],,Including non-carbohydrate material,,
+8,,by difference'method:100 g -(Fat,by difference'method: 100 -(Fat+ Protein + Ash + Water,,
+9,,+Protein+Ash+Water),,,
+10,Available carbohydrates,,Available carbohydrates (g/100 g EP),Convertible using the by,Convertible using the by
+11,[CHOAVL],,"Sum of free sugar, starch, dextrins and glycogen",difference' method,difference' method
+12,[CHOAVLDF],,- Analyzing carbohydrate components separately and summating,,
+13,,,the values,,
+14,,,--by difference' using by subtracting total dietary fiber from total,,
+15,,,carbohydrates,,
+16,Total dietary fiber [FIBTG],Total dietary fiber (g/100 g EP),Total dietary fiber(g/100g EP),Comparable,Comparable
+17,,"Non-starch polysaccharides, lignin and",Sum of the plant polysaccharides and lignin that are not digested by,,
+18,,resistant starch,the enzymes of the gastrointestinal tract,,
+19,,AOAC-type enzymatic gravimetric method,AOAC gravimetric procedure,,
+20,Fat [FAT],Fat g/100g EP,Total fat (g/100 g EP,Comparable or non-,Comparable or non-
+21,,"Triglycerides, phospholipids, sterols and","Total lipid including triacylglycerols, phospholipids, sterols and",comparable by the food,comparable by the food
+22,,related compounds,related compounds,groups,
+23,,Soxhlet extraction method,"-- Acid hydrolysis for all foods except dairy and high sugar products,",,
+24,,,"alkaline hydrolysis only for dairy foods, Soxhlet extraction for meat",,
+25,,,"(excluding liver and meat products,but incomplete method,",,
+26,,,particularly in baked(cereal) products,,
+27,Fatty acids [FASAT],"Saturated fatty acids, Monounsaturated","Saturated fatty acids -- total of saturated fatty acids,",Comparable,Comparable
+28,[FAMS] [FAPU],"fatty acids, Polyunsaturated fatty acids (g/"," Monounsaturated fatty acids -- total of monounsaturated fatty acids,",,
+29,,100 g EP,Polyunsaturated fatty acids -total of polyunsaturated fatty acids (g/,,
+30,,,100 g EP),,
+31,,GLC,GLC after transmethylation of the lipid extract for all foods,,
+32,Cholesterol [CHOLE],Cholesterol (mg/100 g EP),Cholesterol (mg/100 g EP),Comparable,Comparable
+33,,HPLC,Chromatographic with widespread use of GLC,,
+34,Alcohol [ALC],,Alcohol (g/100 g EP),Not-comparable,Not-comparable
+35,,,"Ethanol, all methods comparable.",,
+36,Energy [ENERC],Energy (kcal/100 g EP),"Energy kcal or kJ/100 g EP,1 kcal=4.184 kJ",Convertible using Atwater,Convertible using Atwater
+37,,,Metabolizable energy,factors after standardizing,factors after standardizing
+38,,"Sum of energy from protein, CHO, and fat",Calculation from energy-yielding constituents using Atwater factors,energy-yielding nutrients,energy-yielding nutrients
+39,,using several energy conversion factors,"Protein,available CHO,fat,alcohol=4,4,9,7 kcal or 17,17,37,",,
+40,,"(FAO/WHO, Japan, Atwater)",29 kJ/g,,
+41,Vitamin A [VITA],Vitamin A (RE/100 g EP),Vitamin A (RE/100 g EP),,
+42,,Retinol equivalent,Retinol equivalent (all-trans-retinol),,
+43,,1RE=1 ug Retinol=6ug -carotene =12,,,
+44,,ug other carotenoids=3.3 IU Retinol=10,,,
+45,,IU -carotene = 20 IU other carotenoids,,,
+46,Retinol [RETOL],Retinol (g/100 g EP),Retinol (g/100 g EP),Comparable or not-,Comparable or not-
+47,,,Sum of all-trans-retinol,comparable by the source of,comparable by the source of
+48,,"Some values from R12 FSV by HPLC,other",HPLC,values,
+49,,values from other DBs by Antimony,,,
+50,,trichloride colorimetric assay (Carr & Price.,,,
+51,,1926),,,
+52,-carotene [CARTB],-carotene (g/100 g EP),-carotene (g/100 g EP),Comparable,Comparable
+53,,HPLC,HPLC,,
+54,Vitamin D [VITD],Vitamin D (g/100 g EP),Vitamin D (g/100 g EP),Not-comparable,Not-comparable
+55,,,Sum of cholecalciferol (D and ergocalciferol (D),,
+56,,,HPLC,,
+57,Vitamin E [VITE],Vitamin E (mg/100 g EP),Vitamin E (mg/100 g EP),Comparable,Comparable
+58,,,a-tocopherol equivalent,,
+59,,HPLC,Preferred order on analytical methods:,,
+60,,,HPLC > GLC > colorimetric method (interfering compounds),,
+61,Thiamin (Vitamin B),Vitamin B (mg/100 g EP),Thiamin (mg/100 g EP),Comparable,Comparable
+62,[THIA],Thiochrome method (fluorimetry),-Fluorimetry (Thiochrome method mostly used,,
+63,,,-Microbiological assay with Lactobacillus viridescens or L,,
+64,,,fermentum&HPLC,,
+65,Riboflavin (Vitamin B),Vitamin B (mg/100 g EP),Riboflavin (mg/100 g EP),Comparable,Comparable
+66,[RIBF],Sum of flavin mononucleotide (FMN) and,Sum of free riboflavin or riboflavin-5'-phosphate (FMN) and flavin,,
+67,,flavin adenine dinucleotide (FAD),adenine dinucleotide (FAD,,
+68,,,,,continued on next n

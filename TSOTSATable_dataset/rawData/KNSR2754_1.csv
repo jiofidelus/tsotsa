@@ -1,0 +1,27 @@
+,0,1,2,3,4,5
+0,Instrumental conditions,Instrumental conditions,,,,
+1,Wavelength,,,283.3nm,,283.3nm
+2,Spectral band width,Spectral band width,,0.7 nm,,0.7 nm
+3,EDL lamp current,,,360 mA,,360 mA
+4,Matrix modifier,,,3 g Mg[MgNO3)2],,3 g Mg[MgNO3)2]
+5,,,,50 g NH4HPO4,,50 g NH4HPO4
+6,Graphite furnace temperature program,Graphite furnace temperature program,,,,
+7,Step,Temperature,Ramp Time,Argon flow rate (mL,Hold,Argon flow rate (mL
+8,,(C,(s),min-1),Time,min-1)
+9,,,,,(s),
+10,Drying 1,110,15,,30,250
+11,Drying 2,130,15,,15,250
+12,Pyrolysis 1,500,15,,20,250
+13,Pyrolysis 2,850,10,250,20,250
+14,Atomization,1500,0,,3,0
+15,Cleaning,2400,1,,2,250
+16,MIL-DLLME conditions,MIL-DLLME conditions,,,,
+17,Sample solution,,,8 mL(2%(w/v honey and 2% (v/v) mead.,,8 mL(2%(w/v honey and 2% (v/v) mead.
+18,,,,honey vinegar and honey beer),honey vinegar and honey beer),honey vinegar and honey beer)
+19,HCl concentration,HCl concentration,2 molL1,2 molL1,,
+20,Salt addition and concentration,Salt addition and concentration,0.5% (w/v NaCl,0.5% (w/v NaCl,,
+21,Dispersant and volume,Dispersant and volume,"Acetonitrile,35L","Acetonitrile,35L","Acetonitrile,35L",
+22,Extraction phase and volume,Extraction phase and volume,,"50% (w/v) [P6,6,6,14]MnCl4 in CHCl3,150 L",,
+23,Stirring type and time,Stirring type and time,"Vortex,8 min","Vortex,8 min",,
+24,Injection of final extraction,Injection of final extraction,20L,20L,,
+25,phase,,,,,

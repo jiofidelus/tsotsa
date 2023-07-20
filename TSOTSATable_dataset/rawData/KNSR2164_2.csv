@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6
+0,Analyte,Linearity Correlation coefficients,"Limits of detection (LOD, g/","Limits of quantification (LOQ, g/","Precision (correlation variance CV,",Recovery (%),Recovery (%)
+1,Analyte,(R2),kg),kg),%),Spiked,SRM
+2,Pb,0.9995,1.343,4.432,1.227,97.8,95.7
+3,Cd,0.9999,1.024,3.379,1.097,94.2,92.1
+4,As,0.9997,1.227,4.049,1.512,98.4,93.2

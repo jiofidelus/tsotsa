@@ -1,0 +1,25 @@
+,0,1
+0,Direct mercury analyzer conditions,Direct mercury analyzer conditions
+1,Element and,Hg(253.65 nm)
+2,Wavelength,
+3,Principle,Atomic absorption spectrometry
+4,Sample type,Solid and liquid
+5,Sample treatment,Fully programmable drying and combustion steps
+6,,via ouch screen terminal
+7,Hg detection system,Single beam spectrophotometer with sequential
+8,,flow through two measurement cells(Cell 1:low
+9,,mercury level and Cell 2:higher mercury level)
+10,Light source,Low pressure mercury vapor lamp.
+11,Detector type,Silicon UV photodetector
+12,Interference filter,"253.65 nm,9 nm bandwidth"
+13,Drying temperature,300
+14,Drying time,60s
+15,Decomposition,850
+16,temperature,
+17,Decomposition time,180s
+18,Purge time,60s
+19,Amalgamation time,12s
+20,Recording time,30s
+21,Carrier gas,"Ultrapure oxygen(99.99%,inlet gas 60 psi"
+22,,flow rate:200mL/min
+23,Autosampler,40 positions

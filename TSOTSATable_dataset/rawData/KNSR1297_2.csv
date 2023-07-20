@@ -1,0 +1,43 @@
+,0,1,2,3,4,5
+0,Peak,,,Peak,ldent ified,ldent ified
+1,No.,,Components,Area(%),,Methods
+2,1,Ethanal,,2.61,"MS,IR","MS,IR"
+3,2,1-Methoxy propane,,5.41,"MS,IR","MS,IR"
+4,2',Chloroform,,tr.,MS,
+5,3,Ethyl acetate,,1.47,"MS,IR","MS,IR"
+6,4,Ethanol,,0.04,MS,
+7,10,"1-Methyl-I,3-cyclohexadiene","1-Methyl-I,3-cyclohexadiene",0.23,MS,
+8,12,Pyridine,,0.16,MS,
+9,14,2-Hexenal,,0.34,MS,
+10,15,2.3-Butanedione,,0.17,MS,
+11,16,Cyclohexyi isocyanate,Cyclohexyi isocyanate,0.09,MS,
+12,20,Cyclopentanol,,0.32,MS,
+13,22,2-Methyl-1-pentene,,0.09,MS,
+14,23,1-Hexanol,,0.36,MS,
+15,26,Z)-3-Hexen-1-ol,,6.62,"MS,IR","MS,IR"
+16,27,3.5.5-Trimethyl-1-hexene,3.5.5-Trimethyl-1-hexene,0.42,MS,
+17,28,Ethyl sec-hutyl ether,Ethyl sec-hutyl ether,0.32,MS,
+18,32,4.6-Dimethyl dodecane,4.6-Dimethyl dodecane,0.14,MS,
+19,33,Acetic acid,,0.97,MS,
+20,34,2-Furancarboxaldehyde,2-Furancarboxaldehyde,0.24,MS,
+21,39,"3.5,6,8a-tctrahydro-2,5,5,8a-","3.5,6,8a-tctrahydro-2,5,5,8a-",0.10,MS,
+22,,,tetramethyl-2H-1-benzopyran,,,
+23,44,3-Methoxy phenyl acetate,3-Methoxy phenyl acetate,3.75,"MS,IR","MS,IR"
+24,47,Dimethyl sulfoxide,Dimethyl sulfoxide,0.48,MS,
+25,48,2-Menthene,,0.09,MS,
+26,51,2-0cten-2-yl acetate,2-0cten-2-yl acetate,0.04,MS,
+27,52,2-n-Propyl-1-pentene,2-n-Propyl-1-pentene,0.04,MS,
+28,56,"2.f,6-Trimethyl-1-cyclohexen","2.f,6-Trimethyl-1-cyclohexen",0.22,MS,
+29,,,l-carboxyaldehyde,,,
+30,58,Thujopsene,,0.21,MS,
+31,59,3-Caranone,,0.03,MS,
+32,60,Pulegone,,0.24,MS,
+33,61,Acetophenone,,3.98,MS.IR,MS.IR
+34,66,Myrcenol,,0.04,MS,
+35,72,-Santalene,,0.63,MS,
+36,73,S-Guaiene,,0.25,MS,
+37,74,Piperitone,,0.16,MS,
+38,78,Longibornan-9-one,,0.58,MS,
+39,84,-Damascenone,,0.15,MS,
+40,86,Geosmin,,1.75,"MS,IR","MS,IR"
+41,87,"Isobutyl a,a-dimethylbenzyl ether","Isobutyl a,a-dimethylbenzyl ether",0.05,MS,

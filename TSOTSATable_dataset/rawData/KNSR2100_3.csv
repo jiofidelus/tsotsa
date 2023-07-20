@@ -1,0 +1,19 @@
+,0,1,2,3
+0,"Calculated (M, Da)","Calculated (M, Da)","Observed (M,Da)",Attribution
+1,,,Linear positive mode,
+2,542,,544,Fisetinidin dimer
+3,572,,572,Catechin-gallocatechin with loss of water
+4,578,,581,A-/B- type procyanidins
+5,591,,592,Catechin-gallocatechin dimer
+6,604,,600,"B-type procyanidin,+Na)"
+7,633,,634,Gallocatechin-gallocatechin dimer (+Na*)
+8,715,,713,"Catechin gallate + catechin dimer, with loss in -OH"
+9,823,,828,"Gallocatechin + catechin +flavanol fragment, trimer"
+10,847,,847,"Gallocatechin +catechin + flavanol fragment,trimer (+Na*)"
+11,1111,,1114,"Gallocatechin+2*catechin+flavanol fragment, tetramer"
+12,1129,1129,1131,"2*gallocatechin + catechin + flavanol fragment, tetramer"
+13,,Oligomers with increase in catechin unit (+288 Da),,
+14,1419,,1415,Pentamer
+15,1707,,1990,Hexamer
+16,1995,1995,1990,Heptamer
+17,2300,,2298,Octamer (+gallocatechin*)

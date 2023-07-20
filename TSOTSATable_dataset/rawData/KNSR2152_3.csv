@@ -1,0 +1,14 @@
+,0,1,2,3,4
+0,m/z,m/z,molecular,compound,fragmentation
+1,measured,calculated,formula,,way
+2,101,101.0239,C4H5O3,fragment of,[179-78]
+3,,,,glucose,
+4,119,119.0344,C4HO4,fragment of,[179-60]
+5,,,,glucose,
+6,161,161.0450,CHgO5,hexose,[503-342]
+7,179,179.0556,CgH11O6,fructose,[503-
+8,,,,,342+H2O]
+9,323,323.0978,C12H19O10,hexose,[341-HO]
+10,,,,derivative,
+11,341,341.1084,C12H21O11,sucrose,[503-
+12,,,,,179+HO]

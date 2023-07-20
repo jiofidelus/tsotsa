@@ -1,0 +1,49 @@
+,0,1,2,3,4
+0,Country,Year of,NO,NO,Reference
+1,,publication,(mg/kg),(mg/kg),
+2,Sausages,,,,
+3,Brunei,,14.0,20.4,Present study
+4,Korea,2017,,31.8,"Chae et al.,2017"
+5,Iran,2016,139.0,188.0,"(Bahadoran et al.,"
+6,,,,,2016)
+7,Turkey,2016,140.6,-,"Somer et al.,2016"
+8,Romania,2015,0.6,-,(Turdean and Szabo
+9,,,,,2015)
+10,Belgium,2014,,9.4,De Mey et al.2014
+11,Turkey,2014,124.0,-,Yildiz et al.2014
+12,Brazil,2012,44.8,,"Luiz et al.,2012"
+13,Belgium,2011,20.3,32.7,"(Temme et al.,2011"
+14,Sweden,2011,14.2,11.4,"Larsson et al.,2011"
+15,Australia,2009,65.6,47.9,Hsu et al2009
+16,Portugal,2008,0.5,0.6,(Ferreira and Silva
+17,,,,,2008)
+18,New Zealand,2007,12.3,11.4,(Thomson et al.
+19,,,,,2007)
+20,Turkey,2006,31.5,123.6,"Cemek et al.,2006"
+21,Estonia,2005,16.3,72.3,"Reinik et al.,2005"
+22,Turkey,2002,31.6,45.8,Oztekin et al.2002
+23,Salamis,,,,
+24,Brunei,,8.0,15.6,Present study
+25,Romania,2015,1.2,,(Turdean and Szabo
+26,,,,,2015)
+27,Belgium,2014,7.0,27.4,De Mey et al.2014
+28,Turkey,2014,151,...,"Yildiz et al.,2014"
+29,Brazil,2012,74.7,,Luiz et al.2012
+30,Australia,2009,,142.5,"Hsu et al.,2009"
+31,New Zealand,2007,4.9,18.1,"(Thomson et al.,"
+32,,,,,2007)
+33,Turkey,2006,45.3,124.1,Cemek et al.2006
+34,Turkey,2002,24.3,43.6,"Oztekin et al.,2002"
+35,Meatloaf,,,,
+36,Brunei,,14.0,25.9,Present study
+37,Korea,2017,,38.0,"Chae et al.,2017"
+38,Iran,2016,37.2,124.0,"(Bahadoran et al.,"
+39,,,,,2016)
+40,Belgium,2011,<6.7,50.9,"Temme et al.,2011"
+41,Poland,2010,51.4,14.7,"(Jastrzebska,2010)"
+42,Sweden,2009,58.1,47.5,"(Sungur and Atan,"
+43,,,,,2012)
+44,Australia,2009,,18.7,"Hsu et al.,2009"
+45,New Zealand,2007,7.5,12.8,"(Thomson et al.,"
+46,,,,,2007)
+47,Turkey,2006,44.6,126.7,"Cemek et al.,2006"

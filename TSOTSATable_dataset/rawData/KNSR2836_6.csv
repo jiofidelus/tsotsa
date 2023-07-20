@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,Cut,,n,Vitamin D3,n,25(OH)D3
+1,,,,average(range,,average (range)
+2,Lean ground pork (raw),Lean ground pork (raw),3,0.21(0.16-0.25),3,0.09 (0.08-0.09)
+3,Medium ground pork(raw),Medium ground pork(raw),2,0.24,3,0.09
+4,Center chops boneless (raw whole),Center chops boneless (raw whole),3,0.17(0.16-0.18),3,0.08 (0.07-0.10)
+5,Center chops boneless (raw lean only),Center chops boneless (raw lean only),3,0.12 (0.06-0.15),3,0.08 (0.07-0.08)
+6,Tenderloin (raw whole),Tenderloin (raw whole),3,0.18 (0.06-0.10),3,0.14 (0.11-0.18)
+7,Tenderloin (raw lean only),Tenderloin (raw lean only),3,0.08 (0.06-0.10),3,0.09 (0.09-0.09)
+8,Pork back ribs (raw whole),Pork back ribs (raw whole),3,0.39 (0.23-0.55),3,0.13 (0.10-0.14)
+9,Pork side ribs (raw whole),Pork side ribs (raw whole),3,0.42 (0.22-0.67),3,0.11 (0.08-0.14)
+10,,Pork shoulder blade roast boneless (raw whole),3,0.37 (0.18-0.48),3,0.12(0.11-0.13)
+11,,Pork shoulder blade roast boneless (raw lean only),3,0.16 (0.10-0.21),3,0.11 (0.09-0.13)
+12,Pork loin rib roast (raw whole),Pork loin rib roast (raw whole),2,0.31,2,0.1
+13,Pork loin rib roast (raw lean only),Pork loin rib roast (raw lean only),2,0.08,2,0.08

@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Nutritional,Manual dehulling,,,Thermal dehulling,,,Dehulling by drying,Dehulling by drying,,Commercial
+1,parameter,QP,QR,QI,QP,QR,QI,QP,QR,QI,Commercial
+2,Moisture,42.0  0.1f,32.4  0.3d,45.3  0.3h,43.4  0.18,34.0  0.2e,47.3  0.1i,13.7  0.3bD,11.6  0.2cB,10.1  0.4aA,13.0  0.1c
+3,Solids,58.0  0.1d,67.6  0.3f,54.7  0.27b,56.6  0.1c,66.0  0.2e,53.0  0.1a,86.3  0.38A,88.4  0.1ghc,90.0  0.4iD,87.0  0.1B
+4,Ash,2.2  0.1ab,2.2  0.2ab,2.1  0.2ab,2.1  0.2ab,2.3  0.0b,2.1  0.1ab,2.1  0.0abA,2.1  0.2abA,2.0  0.1aA,1.9  0.0A
+5,OM,97.8  0.1ab,97.8  0.2ab,97.9  0.2ab,97.9  0.2ab,97.7  0.0a,97.9  0.1ab,97.9  0.oabA,97.9  0.2abA,98.0  0.1bA,98.0  0.0^
+6,Protein,6.5  0.5ab,7.9  1.3abc,9.6  0.8c,6.4  1.0a,8.3  1.6abc,9.1  0.3bc,6.4  0.5aA,7.4  1.0abcB,8.8  0.3abcB,5.7  0.7A
+7,Fat,5.2  0.0d,4.1  0.0b,4.7  0.1cd,4.6  0.2bc,4.2  0.0b,6.4  0.1e,2.8  0.0aA,3.2  0.1aB,6.7  0.1ec,13.3  0.1D
+8,CH,85.8  0.1bc,86.2  1.5bc,83.0  0.3a,86.7  1.2bcd,84.2  0.2ab,82.4  0.4a,89.0  0.4dc,88.0  0.4cdC,82.4  0.4aB,78.9  1.0A
+9,Energy,378  3fg,381  18,374  2ef,341 1a,369  0de,357obc,353  2bA,3672deB,3632cdB,427  oc

@@ -1,0 +1,25 @@
+,0,1,2,3,4,5
+0,Peak no.a,tr (min),[M+H]/[M-H](m/z),[A+H]/[A-H]m/z),UV 2max (nm),Identification
+1,1,11.90,467/465,305/303,"288,360",Pentahydroxyflavanone-A hexoside II-6-A
+2,2,13.13,465/463,303/301,"282,344",6-Hydroxyluteolin 7-O-hexoside (I-8-A)
+3,3,15.00,467/465,305/303,"288,364",Pentaflavanone-B hexoside-1(II-7-A
+4,4,15.27,467/465,305/303,"288,364",Pentaflavanone-B hexoside-2II-7-B
+5,5,18.83,449/447,287/285,"284,334",Scutallarein 7-O-hexoside (I-3-A)
+6,6b,19.46,449/447,287/285,"256,266sh,346",Luteolin 7-O-glucoside (I-6-A
+7,7b,20.34,305/303,,"290,336sh",Taxifolin II-5
+8,88,24.42,449/447,303/301,"282,346",6-Hydroxyluteolin 7-O-rhamnoside (I-8-B
+9,9,24.52,303/301,,"282,346",6-Hydroxyluteolin(I-8
+10,10,25.07,453/451,291/289,"226,286",3-Hydroxyphloretin 6'-O-hexoside (III-2-A)
+11,11b,26.46,433/431,271/269,"268,338",Apigenin 7-O-glucoside (I-2-A)
+12,12b,32.61,437/435,275/273,"226,286",Phloridzin (III-1-A)
+13,13b,33.80,287/285,,"284,338",Scutellarein (I-3)
+14,14b,41.88,289/287,,"288,336sh",Eriodictyol (II-4)
+15,15b,43.51,287/285,,256.266sh.348,Luteolin (I-6)
+16,16b,44.08,303/301,,"256,266sh,370",Quercetin I-7
+17,17b,50.63,273/271,,"292,332sh",Naringenin (II-2)
+18,18c,50.98,301/299,,"276,336",6-Methylscutellarein (I-4
+19,19,57.00,315/313,,"278,334","6,7-Dimethylscutellarein(I-5"
+20,20b,61.23,287/285,,"290,336sh",Sakuranetin (II-3)
+21,21b,61.83,257/255,,"290,334sh",Pinocembrin(II-1)
+22,22b,62.12,271/269,,"266,314sh,360",Galangin (I-1)
+23,23,63.63,285/283,,"266,340",Methylgalangin (I-9)

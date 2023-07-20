@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,Type,Species,Total As in sample,Total As in extract,Extraction efficiency,Sum of species determined by HPLC-,Column recovery
+1,,,(ng/g As),(ng/g As),(%),ICP-MS (ng/g As),(%)
+2,fish,Scomber scombrus,7160 (170),3750 (320),52,3755,100
+3,,Dicentrarchus labrax,1230 (40,390 (20),32,8586,85
+4,,Sparus aurata,"17,600 (200)",9360 (670),53,8586,92
+5,, Salmo salar,3640 (220),1560 (80),43,1432,92
+6,,Thunnus albacares,1070 (150),950 (50),29,916,97
+7,mushroom,Boletus edulis,1070 (150),430 (40),56,392,86
+8,shrimp,Parapenaeopsis stylifera,3390 (360),1900 (120),56,1630,86
+9,,Parapenaeopsis hardwickii,4050 (90),3240 (70),80,3072,95
+10,cephalopod,Octopus vulgaris,3200 (350),3380 (240),106,2974,88
+11,,Sepia pharaonis,6480 (570),6760 (50),104,6406,95
+12,,Loligo edulis,2170 (190),1770 (130),82,1500,85
+13,mussel,Mytilus chilensis,"12,800 (2400)",5650 (210),44,2890,51

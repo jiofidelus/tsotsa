@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Methodology,,,Green Metric,,Reagent,OTA Sensitivity (ppb*),OTA Sensitivity (ppb*),
+1,Sample,Analysis,Food sample,AGREE,,,volume (mL),LOD,LOQ,Reference
+2,Procedure1,technique?,,AGREE,,,volume (mL),LOD,LOQ,
+3,DLLME,LC-MS/MS,Rice bran,0.41,,c,"85,2","1,25","3,75","(Salim et al., 2021)"
+4,DLLME,LC-MS/MS,Alcoholic and Non-Alcoholic,(.51),,B,"3,8","0,06-0,2","0,2-0,5","Carballo et al., 2021)"
+5,DLLME,LC-MS/MS,Beverages,(.51),,(Score 85),"3,8","0,06-0,2","0,2-0,5","Carballo et al., 2021)"
+6,DLLME,LC-MS/MS,Fruit Juices,0.53,,A,"1,6","0,3",1,"Pallares et al.,2019)"
+7,HF-DLLME,LC-MS/MS,Fruit Juices,0.53,,B,"4,2","0,09","0,8","(Alsharif et al., 2019)"
+8,SLE,LC-MS/MS,Dried Beef,0.44,,c,40,"0,13","0,4","Dada et al.,2020"
+9,SPE,LC-QTOF,Tea,(0.49),,B,10,"0,27","0,83","(Reinholds et al., 2019)"
+10,SPME,LC-MS/MS,Wine,,,B,7,"0,02","0,05","(Andrade&Lancas,2017)"
+11,DLLME,LC-MS/MS-IT,Botanical Dietary Supplement,0.53(,,A,"1,5",5,17,"Pallares et al.,2019)"
+12,DLLME,LC-MS/MS-IT,Infusion Beverages,0.53(,,(Score 91),"1,5",5,17,"Pallares et al.,2019)"
+13,WAHSPE,LC-QTOF,Corn,0.42,,c,30,,LODs and LOQs are adequate to,"Eyring et al., 2021)"
+14,PHWE,LC-MS/MS,Maize,0.51,,B,50,"0,4","1,3","(Gbashi et al.,2020"
+15,Dilute and,LC-MS/MS,Rice,0.48,,B,10,"0,6","1,2","da Silva et al., 2019)"
+16,Shoot,LC-MS/MS,Rice,0.48,,(Score 86),10,"0,6","1,2","da Silva et al., 2019)"
+17,,,,,,,,"0,014","0,045",
+18,On-line SPE,LC-MS/MS,Wine,.68,,B,"6,4","0,012","0,041","(Campone et al.,2018)"
+19,,,,,,,,(white wine),(white wine),
+20,,,PaprikaHazelnuts Dried raisins,,,c,,,,
+21,QuEChERS,LC-MS/MS,"Black pepper,Almond powder",0.49,,c,"30,5",,Not informed,"(Bessaire et al., 2019)"
+22,,,"Figs, Maize, and Wheat.",,,,,,,
+23,DLLME-SFO,LC-MS/MS,Coffee Beverages,,,A,"0,75","0,31","0,95",This work
+24,DLLME-SFO,LC-MS/MS,Coffee Beverages,,,(Score 90),"0,75","0,31","0,95",This work

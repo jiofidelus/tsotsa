@@ -1,0 +1,27 @@
+,0,1,2,3,4
+0,Characteristic,Facet letter,Food product descriptor,Dietary supplement descriptor,Information
+1,,,,,available
+2,,,,,from DSa labels
+3,,,,,yes/no/partial
+4,Food group,A,Product type,Product type (as defined by DSHEA,Yes
+5,Food origin,B,Food source,Product source (major or primary ingredient that,Yes
+6,,,,characterizes product).,
+7,,C,Part of plant or animal,Part of source (major or primary ingredient,Yes
+8,Physical attributes,E,"Physical state, shape or form","Physical state,shape or form",Yes
+9,Processing,F,Extent of heat treatment,Not relevant to dietary supplements,NA
+10,,G,Cooking method,Not relevant to dietary supplements,NA
+11,,H,Treatment applied,"Suggest using ""Ingredients"" as alternate facet",Yes
+12,,,,name for dietary supplement databases,
+13,,J,Preservation method,Preservation method,Partial
+14,Packaging,K,Packing medium,Packing medium,Partial
+15,,M,Container or wrapping,Outside package container or wrapping (physical,No
+16,,,,container or package wrapping of dietary,
+17,,,,supplements),
+18,,N,Food contact surface,Dietary supplement contact surface: (material(s),No
+19,,,,in direct contact with product,
+20,Dietary uses,P,Consumer group/dietary use/label,Label claims/consumer group/dietary use,Yes
+21,,,claims,,
+22,Geographic origin,R,Geographic places and regions,Geographic places & regions (place of,Partial
+23,,,,manufacture/origin),
+24,Miscellaneous characteristics,Z,Adjunct characteristics of food,Adjunct characteristics of dietary supplements,Partial
+25,,,,(distribution channels),

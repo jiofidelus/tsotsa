@@ -1,0 +1,24 @@
+,0,1,2,3
+0,Peak,[M-H]m/z),MS ions(m/z,Identification
+1,1,311,"179,149,135",Caftaric acid
+2,2,353,"191,179",5-caffeoylquinic acid
+3,3,725,"681,505,463,300","Quercetin-7-O-glucuronide-3-O-(6""-malonyl)-glucoside"
+4,4,799,"755,711,507,303,285,241",Dihydroquercetin-di-malonylhexosidea
+5,5,711,"667,505,463,300","Quercetin-7-O-glucoside-3-O-(6""-malonyl)-glucosideb"
+6,6,551,"507,303,285,241",Dihydroquercetin-malonylhexosidea
+7,7,367,"191,173",5-0-feruloylquinic acid
+8,8,295,"179,135,133",Caffeoylmalic acid
+9,9,473,"311,293,275,219,179,149",Chicoric acid
+10,10,461,285,Luteolin-7-O-glucuronide
+11,11,515,"353,191","3,5-Di-caffeoylquinic acid"
+12,,477,"301, 179, 151",Quercetin-3-O-glucuronide
+13,12,463,"301, 179, 151",Quercetin-3-O-glucoside (Isoquercitrin)
+14,13,549,"505,463,301","Quercetin-3-O-(6""-O-malonyl)-glucoside"
+15,14,445,"269,225,201,149,117",Apigenin glucuronide
+16,15,491,"315,300",Isorahmnetin--7-0-glucuronideb
+17,16,533,"489,447,285","Kaempferol-3-O-(6""-O-malonyl)-glucoside"
+18,17,563,"519,315","Isorhamnetin-7-O-(6""-O-malonyl)-glucoside"
+19,,[M]*(m/z),MS/MS ions (m/z),
+20,18,449,287,Cyanidin-3-O-glucoside
+21,19,783,"535,287","Cyanidin-3,5-di-0-(6""-0-malonyl)-glucoside"
+22,20,535,"491, 449, 287","Cyanidin-3-O-(6""-O-malonyl)-glucoside"

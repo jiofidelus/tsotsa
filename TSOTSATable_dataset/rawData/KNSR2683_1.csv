@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,,Optimization of mercury determination in honey by CVAASa,,,,,
+1,Factors,,-1.68,-1,0,+1,+1.68
+2,HO2%v/v,HO2%v/v,0.64,2.00,4.00,6.00,7.36
+3,HNO%v/v),HNO%v/v),0.64,2.00,4.00,6.00,7.36
+4,Mass sample(to 100ml,Mass sample(to 100ml,2.64,4.00,6.00,8.00,9.36
+5,,Optimization of mercury determination in honey by DMAb,,,,,
+6,Factors,-1.68,-1.68,-1,0,+1,+1.68
+7,Drying time (s),Drying time (s),10,30,60,90,110
+8,Decomposition time(s),Decomposition time(s),10,30,60,90,110
+9,Drying temperature(C,Drying temperature(C,150,190,250,310,350

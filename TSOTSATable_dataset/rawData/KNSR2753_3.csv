@@ -1,0 +1,37 @@
+,0,1,2,3,4,5
+0,Cooked food/Carotenoid,Carotenoid concentration (ug/g) by,Carotenoid concentration (ug/g) by,%TR,%CC,Yield factor
+1,,direct analysis,,,,(Gc/Gr)
+2,,Raw,Cooked,,,
+3,"Endive, stir-fried",,,,,
+4,Trial 1,,,,,
+5,Neoxanthin,7.5,8.2,91,110,0.82
+6,Violaxanthin,8.6,6.4,61,74,0.82
+7,Lutein,23.9,28.6,99,120,0.82
+8,-Carotene,15.1,16.9,93,112,0.82
+9,Trial 2,,,,,
+10,Neoxanthin,6.1,7.0,92,114,0.81
+11,Violaxanthin,9.2,6.9,60,75,0.81
+12,Lutein,20.1,24.2,97,121,0.81
+13,-Carotene,12.1,13.6,90,112,0.81
+14,"Green bean,boiled",,,,,
+15,Lutein,2.3,2.6,108,113,0.95
+16,-Carotene,1.1,1.8,153,160,0.95
+17,"Green bean, stir-fried",,,,,
+18,Lutein,2.3,2.9,101,126,0.80
+19,-Carotene,1.1,1.9,137,170,0.80
+20,"Kale, stir-fried",,,,,
+21,Trial 1,,,,,
+22,Neoxanthin,14.6,19.2,89,131,0.68
+23,Violaxanthin,23.6,11.4,33,48,0.68
+24,Lutein,48.0,69.2,98,144,0.68
+25,-Carotene,43.8,59.8,93,137,0.68
+26,Trial 2,,,,,
+27,Neoxanthin,14.8,18.5,93,125,0.74
+28,Violaxanthin,23.4,15.4,49,66,0.74
+29,Lutein,52.6,68.9,97,131,0.74
+30,-Carotene,39.6,50.7,95,128,0.74
+31,Trial 3,,,,,
+32,Neoxanthin,10.4,13.9,91,135,0.68
+33,Violaxanthin,20.2,14.2,48,70,0.68
+34,Lutein,30.4,43.9,98,144,0.68
+35,-Carotene,28.4,40.1,96,141,0.68

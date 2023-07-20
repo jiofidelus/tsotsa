@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,,kind of sample,manufacturer,,soluble oxalate,soluble oxalate
+1,,,,n,Mean,SD
+2,beer,Kolsch; 4.8% alc.,Dom; Frih; Gaffel,3,1.50,0.52
+3,beer,Pils; 4.8% alc.,Bitburger; Krombacher,2,1.34,0.81
+4,beer,wheat beer; 5.3% alc.,Erdinger,1,1.30,-
+5,beer,wheat beer with yeast;5.3% alc./5.5% alc.,Erdinger; Paulaner,2,1.63,0.14
+6,beer,non-alcoholic beer,Bitburger; Lowenbrau,2,1.63,0.78
+7,beer,malt beer,Vitamalz;Feldschlofchen,2,1.78,0.28
+8,wine,,,,,
+9,white wine,Pinot gris; 12% alc.,"Nagyrede, Hungary",1,0.30,-
+10,white wine,Riesling; 11% alc.,"Wine Cooperative Moselland, Germany",1,0.33,-
+11,red wine,Pinot noir; 12.5% alc.,"Brogsitter, Germany",1,0.69,-
+12,red wine,"60% Mantonegro, 30% Cabernet Sauvignon, 7% Tempranillo, 2% Callet, 1% Syrah; 12% alc.","Jose L. Ferrer, Spain",1,1.27,-
+13,cider,apples from organic farming; 2.8% alc.,Voelkel,1,0.36,-

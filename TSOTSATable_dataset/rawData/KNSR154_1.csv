@@ -1,0 +1,32 @@
+,0,1,2,3,4,5
+0,Group Classification,Code,Country of,Dosage Form,Ingredients on labels,Expiry
+1,,,Manufacture,,,
+2,"Vitamins, minerals, trace",1SG,Thailand,Soft gel capsule one daily.,"Ginseng extract, multivitamins & minerals (Ca pantothenate-6 mg, dibasic Ca phosphate, Fe 15 mg, Cu 2 mg,",Mar.2016
+3,"elements, & enzymes",,,,"Zn 5 mg,Mg 4 mg, Mn 1 mg, K 3.5 mg; Se 35 g).",
+4,,2SG,France,Soft gel capsule one daily.,"12 vitamins, 8 mineral & trace metals (Ca 50 mg, Mg 40 mg, P 50 mg, Cu 0.4 mg, Fe 3.6 mg, Zn 3 mg, Cr",Jan.2017
+5,,,,,"10 g, & flavor (ethylvanillin).",
+6,,4SG,India,Soft gel capsule one daily for adult and,"Multivitamins, essential minerals and trace elements (Ca 75 mg, P 58 mg, Fe S04 30 mg, I as KI 0.075 mg,",Mar.2017
+7,,,,children over 12 years.,"MgSO4 3 mg,MnSO4 0.5 mg,Mo as sodium molydate 0.1 mg,KSO42 mg,ZnO 0.5 mg)",
+8,,5SG,USA,"One soft gel and one tablet/sachet,","Multivitamins, enzymes, lipids, setrols & minerals (Ca 25 mg, P 20 mg, Mg 30 mg, Zn 15 mg, I 100 g, Cu",Apr.2016
+9,,&5T,,one sachet daily.,"2 mg, Mn 10 mg, Se 40 g, Cr 20 g, Mo 30 g), & Fe free.",
+10,,8SG,USA,"Tablets, 2 tablets daily.",Whole spectrum of vitamin E's (d-alpha tocopherol the most abundant).,Oct.2015
+11,,9T,USA,"Tablets, 2 tablets daily.",Methionate 30 mg & Amino acid chelation-for improved absorption.,Jun.2016
+12,"Vitamins, minerals & herbs products",3SG,Korea,Soft gel capsule one daily.,"Ginseng, AloeVera extract, multivitamins & minerals (Ca pantothenate 15.3 mg, ferrous fumarate 54.76 mg,",Jan.2017
+13,,,,,"CuSO47.86 mg,MgO 66.43 mg,ZnO 5 mg,dibasic Ca phosphate 307.5 mg,MnSO4-3 mg,KSO418 mg).",
+14,Herbs,6T,USA,"Tablet, 2 tablets daily.","Garlic, onions, leeks, & chives.",Aug.2017
+15,,12T,USA,1-2 capsules daily.,"Turmeric root-tuber, Radix polygala, & Gold theragran P. E.",Sept.2015
+16,,14C,Hong Kong,"Capsule,1 capsule 2 times daily","Radix Rehmanniae Preparata, Cortex Moutan, Dioscoreae rhizoma, Fructus Corni, Rhizoma Alismatis & Poria.",Dec. 2016
+17,Antioxidants,7SG,USA,"Soft gel, one or more capsules daily.",Pure oil from cold water Salmon oil with EPA and DHA.,Aug.2017
+18,,15C,Hong Kong,"Capsule,4 capsules 2 times daily","Cordyceps sinensis, Zinc-accumulated yeast, powder of vitamin E, and -carotin, Semen Cucubitae",Jan. 2017
+19,Plant-based products,10SG,USA,"Soft gel, 1-3 tablets daily with meals.","Grain concentrate (rice oil, soya bean oil and wheat germ oil), wheat germ powder, stabilized rice bran",Jan.2016
+20,,,,,"powder, vitamin E oil with mixed Tocopherols. Shell ingredients: Gelatin, yellow beeswax, purified water,",
+21,,,,,"titanium dioxide 2.87 mg, copper chlorophyllin 1.20 mg.",
+22,,11T,USA,4 tablets daily with glassful of water half an,"Rice bran, oat fiber, barley bran, acacia, soya fiber, apple pectin, carrageenan, & orange fiber (blend of",Jul.2017
+23,,,,hour before meal.,soluble and insoluble fiber).,
+24,,16T,Hong Kong,1 tablet daily.,"Orange powder,lactose,citric acid,sodium bicarbonate 11388 mg Na/100 g,Vitamin C 1500 mg 100 g-1",Apr.2016
+25,,,,,"Ca 2500 mg, aspartame, potassium acetyl sulfomide & food flavor.",
+26,,17C,Nigeria,2 capsules 2 times daily-Adult; 1 capsules 2,"Desmodium adscendens 40%, Khaya ivorensis 35%, Elaeis guineensis 5%, Lophira alata 20%.",Mar.2017
+27,,,,times daily-Children above 10 years.,,
+28,,18C,Nigeria,2 capsules 2 times daily. 1 capsules 2 times, Not available.,Mar. 2017
+29,,,,daily-Children above 10 years.,,
+30,Animal-based products,13C,China,"Capsule,1 capsule 2 times daily","Snake bone powder, milk powder & sucrose.",Jun. 2016

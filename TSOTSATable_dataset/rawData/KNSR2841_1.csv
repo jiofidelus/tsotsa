@@ -1,0 +1,9 @@
+,0,1,2,3,4
+0,Storage,Temperature,Preservative,Dry matter,Case
+1,type,,,g/100 g,
+2,N,Ambient,,38.2,Wet
+3,A,Ambient,Sodium,38.4,Wet
+4,,,benzoatea,,
+5,F,+4,,38.3,Wet
+6,S,Ambient,Saltb,40.9,Wet
+7,c,Ambient,,81.6,Dried

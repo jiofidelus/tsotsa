@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7,8
+0,Extraction,Sample,Analvtical,Linearity,LOD,,Recovery(%),Enrichment,References
+1,method,,technique,,,,,factor,
+2,PMME,"Egg,milk and",LC-MS,1-1000ngg-1,0.08-2.76 ngg-1,0.08-2.76 ngg-1,75.2-116.8,-,Hu et al.2010
+3,,muscle,,,,,,,
+4,SPE and SLM,"Water,urine",LC-ESI-MS,0.1ngL-1-1mgL-1and,,,60-100,,Msagati and Nindi (2006
+5,,and milk,,0.01 gL-1_1 mgL-1,0.1-10ngL-and,0.1-10ngL-and,,,
+6,,,,,0.1-10ngL-1,0.1-10ngL-1,,,
+7,SPE-MCX,Bovine milk,HPLC-UV,10-200g kg-1,,10-200gkg-1,78-112,,Chen et al.2011
+8,UA-CPE,Water,HPLC-PDA,0.1-1000gL-1,0.005-0.1 g L-1,0.005-0.1 g L-1,81.6-111.4,18-64,Santaladchaiyakit and
+9,,,,,,,,,Srijaranai (2012)
+10,,Milks,,10-200gL-1,,1-5gL-1,75.3-111.4,,
+11,UASEME,Milks,HPLC-PDA,10-150gL-1,1.8-3.6 g L-1,1.8-3.6 g L-1,72.5-113.5,45-60,Santaladchaiyakit and
+12,,,,,,,,,Srijaranai (2013
+13,SSEME,Milks,HPLC-PDA,10-200gL-1,2.6-9.9 gL-1,2.6-9.9 gL-1,80.1-114.1,21-38,Santaladchaiyakit and
+14,,,,,,,,,Srijaranai.2014
+15,VASEME-SFO,Tissue,HPLC-PDA,5-1000gkg-1,0.1-0.5gkg-1,0.1-0.5gkg-1,87.0-105.0,33-60,This study
+16,,sample,,,,,,,

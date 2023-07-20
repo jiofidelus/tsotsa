@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,Common name,Scientific name,Family,Seed density (g m -2),Growth cycle period (Days),Yield (kg m2)
+1,Carrot,Daucus carota L.var. New Kuroda,Apiaceae,183.8,10-12,2.20  0.04
+2,Fennel,Foeniculum vulgare Mill.,Apiaceae,428.9,12-14,1.12  0.09
+3,Fenugreek,Trigonella foenum-graecum L.,Fabaceae,367.6,7-9,3.46  0.26
+4,French basil,Ocimum basilicum L.,Lamiaceae,245.1,12-14,1.20  0.10
+5,Mustard,Brassica juncea L.,Brassicaceae,306.4,9-11,4.33  0.17
+6,Onion,Allium cepa L. var. Light Red Gavran,Amaryllidaceae,245.1,10-12,1.16  0.22
+7,Radish,Raphanus sativus L. var. Imp. Chetki,Brassicaceae,306.4,7-8,4.93  0.19
+8,Roselle,Hibiscus sabdariffa L. (white var.),Malvaceae,367.6,7-8,2.93  0.22
+9,Spinach,Spinacia oleraceae L.var. All Green,Amaranthaceae,245.1,8-9,1.23  0.08
+10,Sunflower,Helianthus annuus L.,Asteraceae,367.6,6-8,2.46  0.42

@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Methods,Variables,PLS factors,Calibration set,Calibration set,Prediction set,Prediction set
+1,,,,Re,RMSEC,Rp,RMSEP
+2,PLS,5600,8,0.8422,0.248,0.8058,0.285
+3,iPLS,430,7,0.7729,0.292,0.7291,0.312
+4,Si-PLS,2036,10,0.8334,0.254,0.8242,0.268
+5,CARS-PLS,23,6,0.8397,0.250,0.8293,0.265
+6,Si-CARS-PLS,13,7,0.8323,0.255,0.8302,0.257

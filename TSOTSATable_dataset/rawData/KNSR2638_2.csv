@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,,Raw milk sample,,,Processed milk sample,,
+1,Fortified concentration(ng mL-,,,,,,
+2,,Found AFM1(ng mL-,Recovery,RSD (%),Found AFM1(ng mL-,Recovery (%),RSD (%)
+3,Unfortified,Not detected,-,-,Not detected,-,-
+4,0.200,0.161,80.5,4.1,0.175,87.5,9.8
+5,0.300,0.269,89.7,4.8,0.412,85.3,4.8
+6,0.500,0.434,86.8,1.5,0.412,82.4,4.3

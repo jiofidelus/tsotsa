@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Calibration,,Cross-Validation,Cross-Validation,Test,,,
+1,Rice blends,Models,R2,RMSE,R2,RMSE,R2,RMSE,VIFa,Optimum parameters
+2,Hashemi type-a+Khazar,Lasso,0.998,0.104,0.997,0.171,0.944,0.751,1.631,1=0.001
+3,,Ridge,0.992,0.267,0.988,0.333,0.936,0.804,2.126,2=0.050
+4,,Elastic net,0.950,0.697,0.947,0.721,0.902,0.998,1.419,"1=0.017,22=0.958"
+5,,VIP-PLsd,0.996,0.175,0.958,0.642,0.964,0.623,2.496,LV=15
+6,,,Calibration,,Cross-Validation,Cross-Validation,Test,,,
+7,,Models,R2,RMSE,R2,RMSE,R2,RMSE,VIFb,Optimum value of Hyperparameters
+8,Hashemi type-a+Shiroudi,Lasso,0.994,0.073,0.991,0.035,0.879,1.523,1.566,
+9,,Ridge,0.996,0.180,0.994,0.241,0.867,1.082,1.646,2=0.089
+10,,Elastic net,0.997,0.047,0.962,0.594,0.869,1.120,1.607,"1=0.003,X2=0.166"
+11,,VIP-PLsd,0.983,0.421,0.924,0.903,0.819,1.268,2.520,LV=9
+12,,,Calibration,,Cross-Validation,Cross-Validation,Test,,,
+13,,Models,R2,RMSE,R2,RMSE,R2,RMSE,VIFc,Optimum value of Hyperparameters
+14,Tarom+Khazar,Lasso,0.999,0.092,0.985,0.120,0.948,0.674,1.195,1=0.001
+15,,Ridge,0.984,0.125,0.952,0.218,0.943,0.707,1.936,2=0.141
+16,,Elastic net,0.995,0.518,0.983,0.414,0.951,0.687,1.508,"1=0.007,22=0.834"
+17,,VIP-PLSd,0.989,0.335,0.975,0.312,0.968,0.499,2.799,LV=11
+18,,,Calibration,,Cross-Validation,Cross-Validation,Test,,,
+19,,Models,R2,RMSE,R2,RMSE,R2,RMSE,VIFd,Optimum value of Hyperparameters
+20,Tarom+ Shiroudi,Lasso,0.997,0.153,0.996,0.176,0.924,0.690,1.483,1=0.003
+21,,Ridge,0.996,0.183,0.995,0.215,0.913,0.549,1.677,2=0.125
+22,,Elastic net,0.994,0.225,0.981,0.414,0.877,1.477,1.674,"1=0.006,2=0.883"
+23,,VIP-PLsd,0.892,0.998,0.811,1.328,0.579,2.325,2.213,LV=10

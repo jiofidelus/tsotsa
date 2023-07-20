@@ -1,0 +1,11 @@
+,0,1,2
+0,isotherm,equation,parameter implication
+1,model,,
+2,,,"Qe (mg/g),the equilibrium adsorption"
+3,,,capacity
+4,,,"Qmax (mg/g),the theoretical maximum"
+5,Langmuir,+1/Q max,adsorption capacity
+6,,,equilibrium solution
+7,,,"K (mL/mg), the Langmuir adsorption"
+8,,,equilibrium constant
+9,Freundlich,lnQe=lnKp+1/nlnCg,

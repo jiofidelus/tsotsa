@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Metabolite,,AUC,Sensitivities,Specificities
+1,,Saccharose,1,1,1
+2,,Sanjoinine G1,1,1,1
+3,,Nornuciferine,0.98,1,0.9
+4,,Nuciferine (sanjoinine E),1,1,1
+5,,Sanjoinine F,1,1,1
+6,,Amphibine D,1,1,1
+7,,Lotusine B,1,1,1
+8,,Vicenin II,1,1,1
+9,6-(4-O--D-gluco-pyranosyl)-,6-(4-O--D-gluco-pyranosyl)-,1,1,1
+10,,benzoylspinosin,,,
+11,,Spinosin,1,1,1
+12,,Kaempferol-3-O-rutinoside,1,1,1
+13,,6-Sinapoylspinosin,1,1,1
+14,,"6""-p-Coumaloylspinosin",1,1,1
+15,,"6""-Feruloylspinosin",1,1,1
+16,6-O-(3-glc-indole-acetyl)spinosin (R),6-O-(3-glc-indole-acetyl)spinosin (R),1,1,1
+17,6-O-(3-glc-indole-acetyl) spinosin(S,6-O-(3-glc-indole-acetyl) spinosin(S,1,1,1
+18,,6-(-)-phaseoylspinosin,1,1,1
+19,,345-trimethoxyl),1,1,1
+20,,cinnamoylspinosin,,,
+21,,Jujuboside A,1,1,1
+22,,Jujuboside B,1,1,1

@@ -1,0 +1,18 @@
+,0,1,2,3,4
+0,retention time,m/z,elemental,mass,tentative identification
+1,,,formula,error,
+2,,,,Appm,
+3,5.03,178.0551,CgHNOS,1.7,alliin
+4,4.29,758.5690,C42HsoNOgP,0.7,PC16:0/18:2
+5,5.99,175.1208,CgH4N4O2,0.6,arginine
+6,5.80,138.0570,CHNO2,3.6,
+7,5.04,88.0411,CHNO2,3.5,dehydroalanine/
+8,,,,,oxazolidinone
+9,2.84,764.5425,C43H?4OgNP,2.9,PE(16:0/22:6
+10,5.24,291.1026,CHNOS,1.0,L--Glutamyl-S-allyl-L-
+11,,,,,cysteine
+12,6.65,258.1118,CgH2oNOgP,2.3,choline glycerolphosphate
+13,3.45,575.5031,C37H66O4,0.0,fragment of PI (16:0/
+14,,,,,"18:2, lost of"
+15,,,,,phosphatydylinositol part
+16,4.36,332.1354,CgH22NOP,0.9,

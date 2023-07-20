@@ -1,0 +1,57 @@
+,0,1,2
+0,Name,Ingredients,Fortificants
+1,Indonesia,,
+2,11,"Rice,soyamixed fruit, lecithinFOS","Vitamins and minerals,omega 3 and 6"
+3,12,"Rice,soya,chickenvegetables, lecithinFOS","Vitamins and minerals, omega 3 and 6"
+4,13,"Mung bean, rice, soya, corn, lecithin, FOS","Vitamins and minerals, omega 3 and 6"
+5,14,"Rice,brown rice,red kidney beans, soya corn, lecithin,FOs","Vitamins and minerals,omega 3 and 6"
+6,15,"Rice,beef, broccoli,lecithinFOS","Vitamins and minerals,omega 3 and 6"
+7,16,"Mung bean, spinach, rice, soya, lecithin,FOS","Vitamins and minerals,omega 3 and 6"
+8,17,Mung beanricesoyaFOS,Vitamins and minerals
+9,18,"Rice,corn,chicken,vegetablestomato,carrot,onion,beans",Vitamins and minerals
+10,19,"Rice, mung bean, lysin, FOS",Vitamins and minerals
+11,110,"Brown rice,ricelysin,FOS",Vitamins and minerals
+12,111,"Brown rice, rice, chicken, vegetables",Vitamins and minerals
+13,112,"Mung beanrice,lysin,FOS",Vitamins and minerals
+14,113,"Brown rice, rice, lysin, FOS",Vitamins and minerals
+15,114,"Rice, corn, banana, lysin, FOS",Vitamins and minerals
+16,Philippines,,
+17,P1,"Rice flour,soya flour,sugar,skimmed milk powder,palm olein,","Calcium carbonate,ferric pyrophosphate,biotin,vitamins"
+18,,"soya lecithin NaCl, fish oil,taurine,vanillin",
+19,P2,"Milk solids, wheat flour, sugar, palm olein, FOS, inulin, NaCl, fish","Calcium carbonate, ferrous fumarate, biotin, potassium"
+20,,"oil, taurine,vanillin","iodidefolic acid,vitamins"
+21,P3,"Rice flour, soya flour, sugar, milk solids, palm olein, apple,","Calcium carbonate, ferric pyrophosphate, zinc sulfate,"
+22,,"banana, sodium phosphate,NaCl,soya lecithin,orange,fish oil,",vitamins and minerals
+23,,"gelatin, cornstarch,vanillin",
+24,P4,"Rice flour, soya flour, sugar,maltodextrin,palm olein,spinach","Calcium carbonate, ferrous fumarate,zinc sulfate,vitamins"
+25,,"milk solids,pumpkin,carrot,NaCl,sodium phosphate,soya",
+26,,"lecithin, fish oil, gelatin, cornstarch",
+27,P5,"Milk solids,rice flour,brown rice flour, sucrose,palm olein,FOS,","Calcium carbonate,ferrous fumarate,potassium iodide,folic"
+28,,"inulin, sodium phosphate, fish oil, taurine,vanillin, biotin,","acid, vitamins"
+29,P6,"Rice flour, soya flour, sugar, chicken meat, maltodextrin, palm","Calcium carbonate,ferrous fumarate,vitamins"
+30,,"olein,skimmed milk powder,onion powder, NaCl,carrot,",
+31,,"spinach, sodium phosphate, soya lecithin,fish oil,vanillin,",
+32,P7,"Wheat flourmilk solids,banana,palm olein,sugar,FOS,inulin,","Ferric pyrophosphate, calcium carbonate,vitamins,"
+33,,"NaCl,fish oil,vanillin, taurine","potassium, biotin"
+34,Thailand,,
+35,T1,"Jasmine rice80%,brown rice18%,iodised salt 2%",Not specified as fortified
+36,T2,"Jasmine rice (93%), soybean flour (4%), pumpkin (2%), iodised",Not specified as fortified
+37,,salt1%,
+38,T3,"Rice (94%), soybean flour (4%), iodised salt (2%)",Not specified as fortified
+39,T4,"Jasmine rice (93%), soybean flour (4%), carrot (2%), iodised salt",Not specified as fortified
+40,,1%,
+41,T5,"Rice flakes,milk powder,corn oil,palm fat flakes,inulin,soy",Vitamins and minerals
+42,,"protein, cod/fish powder,yeast extract powder, anchovy",
+43,,"powder,ginger powder, citric acid, carrot, spinach",
+44,T6,"Rice flakes, textured soy protein, palm fat flakes, corn oil, leek,",Vitamins and minerals
+45,,"inulin,yeast extract powder,carrot, garden pea,onion dry",
+46,T7,"Rice flour71%,soybean flour16%,sugar(12%",Vitamins and minerals
+47,China,,
+48,C1,"Rice,sugar,soy protein isolate,milk powder,maltodextrin,","Calcium phosphate,biological calcium,ferrous lactate,zinc"
+49,,"whey powder,FOS, inulin,DHA,taurine","lactate,nicotinic acid,biotin,vitamins A,D,E,B1,B2,B6,B12,"
+50,,,"C, folic acid, pantothenic acid, potassium"
+51,Mongolia,,
+52,MO1,"Rice groats,dry milk,mashed dried apricots, sucrose",Vitamins and minerals
+53,M02,"Wheat flour, whole milk powder, sugar, pumpkin, salt","Calcium carbonate,ascorbic acid,vitamin B1,B2,B3,B5,B6"
+54,,,"B7,B12,E,folic acid,retinyl acetate,ferric pyrophosphate"
+55,M03,Rice flour,

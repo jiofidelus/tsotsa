@@ -1,0 +1,13 @@
+,0,1,2,3
+0,Plant growth regulators,Plant growth regulators,Cells proliferation,Suspended cells morphology
+1,(PGRs),,,
+2,(mg/L,,,
+3,Without PGRs,Without PGRs,,
+4,TDZ,Picloram,,
+5,0.5,2.5,+,Browning after 7th day
+6,TDZ,IBA,,
+7,0.1,0.1,+,Browning after 15th day
+8,0.2,0.2,++,"Cells survived,and cream in color"
+9,0.3,0.3,++++,"Cells survived,and cream in color"
+10,0.4,0.4,+++,Cells survived
+11,0.5,0.5,+,Browning after 15th day

@@ -1,0 +1,38 @@
+,0,1,2
+0,Treatment,Treatment description,Crop
+1,Control plotT1,Traditional farmers practice using the,Maize T1
+2,,"hand hoe,maize sole crop,no residues",
+3,,are returned to the soil,
+4,CA Sole crop basin,Basin (0.15 m-length x0.15 m-width,Maize T2
+5,plantingT2,"x0.15 m -depth),maize as a sole crop.",
+6,,crop residues retained,
+7,CA Sole crop dibble,"Direct seeding with dibble stick, maize",Maize T3
+8,stick plantingT3,"as a sole crop,crops residues retained",
+9,CA Crop rotationT4c,Direct seeding with a dibble stick,Maize T4
+10,,rotation sequence is cowpea-maize-,
+11,,"cowpea,crop residues are retained,split",
+12,,plot with T4G,
+13,CA Crop rotationT4G,"Direct seeding with a dibble stick, the",Maize T5
+14,,rotation sequence is groundnut-maize-,
+15,,"groundnut, crop residues are retained,",
+16,,split plot with T4C,
+17,CA IntercroppingT6,"Direct seeding with a dibble stick,maize",Maize T6
+18,,"intercropped with pigeon pea,crop",
+19,,residues are retained,
+20,,"Direct seeding with a dibble stick,maize",Maize T7
+21,,"intercropped with cowpea,crop residues",
+22,,are retained,
+23,CA IntercroppingT8,"Direct seeding with a dibble stick,maize",Maize T8
+24,,"intercropped with velvet bean,crop",
+25,,residues are retained,
+26,CA Crop rotationT5c,Direct seeding with a dibble stick,Cowpea T9
+27,,rotation sequence is maize-cowpea-,
+28,,"maize(in contrast to T4C),crop residues",
+29,,"are retained, split plot with T5G",
+30,CA IntercroppingT7,"Direct seeding with a dibble stick, maize",Cowpea T10
+31,,"intercropped with cowpea, crop residues",
+32,,are retained.,
+33,CA Crop rotationTSG,Direct seeding with a dibble stick,Groundnut
+34,,rotationsequence ismaize-groundnut-,T11
+35,,"maize(in contrast to T4G,crop residues",
+36,,"are retained,split plot with T5C",

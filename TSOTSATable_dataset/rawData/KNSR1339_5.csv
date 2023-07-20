@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,Sample,Determination by PVG-HR CS-AAS (the author),Determination by PVG-HR CS-AAS (the author),Determination by PVG-HR CS-AAS (the author),Determination by PVG-HR CS-AAS (the author),Determination by PVG-HR CS-AAS (the author),,,,,"Determination by spectrophotometric (Pasquali et al., 2010)","Determination by spectrophotometric (Pasquali et al., 2010)","Determination by spectrophotometric (Pasquali et al., 2010)","Determination by spectrophotometric (Pasquali et al., 2010)",,
+1,,[Analyte] (mg L-1),[Analyte] (mg L-1),,,,,Recovery (%),Recovery (%),,[Analyte] (mg L-1),[Analyte] (mg L-1),,,Recovery (%),
+2,,NO,,NO,,PNP,,NO2,NO3,PNP,NO2,,NO3,,NO,NO3
+3,Sausage,0.412,0.090,0.674,0.030,0.447,0.034,82.4,134.8,89.4,0.426,0.007,0.606,0.008,85.3,121.3
+4,Corn 1,0.442,0.086,0.494,0.034,0.518,0.022,88.4,98.8,103.6,0.469,0.017,0.502,0.004,93.7,100.5
+5,Corn 2,0.435,0.077,0.436,0.031,0.527,0.041,87.0,87.2,105.4,0.463,0.007,0.462,0.011,92.7,92.5
+6,Pea1,0.451,0.073,0.498,0.039,0.402,0.048,90.2,99.6,80.4,0.469,0.009,0.505,0.013,93.9,101.1
+7,Pea 2,0.466,0.077,0.512,0.047,0.475,0.054,93.2,102.4,95.0,0.484,0.011,0.525,0.018,96.7,105.0
+8,Water 1,0.420,0.076,0.446,0.037,0.443,0.053,84.0,89.2,88.6,0.451,0.004,0.473,0.008,90.2,94.5
+9,Water 2,0.488,0.075,0.573, 0.027,0.487,0.054,97.6,114.6,97.4,0.509,0.010,0.594, 0.009,101.7,118.9

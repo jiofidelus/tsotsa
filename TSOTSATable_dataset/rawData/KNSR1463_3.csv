@@ -1,0 +1,14 @@
+,0,1,2
+0,Sequence no.,Sequence order aspiration,Peak heightAbs.at 584nm
+1,,,(meanS.D.)
+2,1,Off-line mixed,0.6610.010
+3,2,Buffer/DTAB/ECR/Al,0.5900.022
+4,3,Buffer/ECR/DTAB/Al,0.5650.010
+5,4,Buffer/Al/DTAB/ECR,0.4460.048
+6,5,ECR/DTAB/Al/buffer,0.5730.004
+7,6,Al/DTAB/ECR/buffer,0.5620.001
+8,7,Al/ECR/DTAB/buffer,0.5130.019
+9,8,Al/DTAB/buffer/DTAB,0.5110.034
+10,9,DTAB/Al/ECR/buffer,0.6070.008
+11,10,DTAB/ECR/Al/buffer,0.6110.005
+12,11,DTAB/buffer/Al/ECR,0.5120.039

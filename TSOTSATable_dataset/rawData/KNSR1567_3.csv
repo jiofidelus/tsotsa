@@ -1,0 +1,13 @@
+,0,1,2,3
+0,Interfering species,Interfering species,Tolerance ratio,Recovery %
+1,LiNaKand NH,LiNaKand NH,?3500,99.0-101.0
+2,Ca2+Mg2+and Sr2+,Ca2+Mg2+and Sr2+,2000-2500,98.5-101.5
+3,"Acetate,HPO4NOSiO2CO2","Acetate,HPO4NOSiO2CO2",1000-1500,97.5-102.0
+4,,PO3-CIBr.SO2-NOand F,,
+5,OxalateCN-citrate and tartrate,OxalateCN-citrate and tartrate,750-100,97.5-101.5
+6,s2-SO-HSOandI,s2-SO-HSOandI,350-600,98.0-100.5
+7,"Al3+Cd2+,Cu2+Sn2+Zn2+Fe2+and A13+","Al3+Cd2+,Cu2+Sn2+Zn2+Fe2+and A13+",400-750,97.5-101.5
+8,Sn4+Pb2+CrO42-and VO2+VO43,Sn4+Pb2+CrO42-and VO2+VO43,150-350,98.5-102.0
+9,W042,W042,75150,99.0
+10,Cr3+and Fe3+,Cr3+and Fe3+,50350,98.5-101.0
+11,Hg2+,,20250,98.0

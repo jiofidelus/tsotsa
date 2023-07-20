@@ -1,0 +1,18 @@
+,0,1,2
+0,,Parameter,Value
+1,,,THg
+2,"10 measurement points,","10 measurement points,",0.999
+3,"3 repetitions,",,
+4,concentration range:,concentration range:,
+5,10.25 [ng]103[ng],10.25 [ng]103[ng],
+6,,y=1.0006x-0.15,
+7,,LOD[ng],0.096
+8,,LOQ [ng],0.29
+9,,MDL[ng/g],0.96
+10,,MQL [ng/g],2.9
+11,Measuring range [ng/g],Measuring range [ng/g],2.9 102.5
+12,Repeatability CV [%],Repeatability CV [%],2.8
+13,Intermediate precision CV [%],Intermediate precision CV [%],4.7
+14,Recovery [%],Recovery [%],
+15,,BCR-463,101.9  1.2
+16,,DOLT 4,92.73  0.42

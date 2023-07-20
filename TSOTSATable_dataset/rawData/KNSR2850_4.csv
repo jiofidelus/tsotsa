@@ -1,0 +1,65 @@
+,0,1,2,3,4,5,6,7
+0,,,Omega-3 Polyunsaturated Fatty Acids,Omega-3 Polyunsaturated Fatty Acids,Omega-3 Polyunsaturated Fatty Acids,,,P:S:M
+1,,18:33,18:43,20:53,22:53,,22:63,
+2,MAMMALS,,,,,,,
+3,"meat,raw",6.10.06,nab,nd,tra,tr,nd,2.7:1.0:3.1
+4,"meat,baked",0.10.04,nd,nd,,tr,tr,1.3:1.0:0.5
+5,"meat, dried",0.8,tr,nd,tr,tr,nd,1.0:1.0:1.1
+6,"feet,baked",1.4,nd,tr,,,nd,3.2:1.0:4.2
+7,"tail,baked",0.7,nd,nd,,,rid,1.7:1.0:3.3
+8,"liver,raw",0.3,nd,0.4,0.1,0.1,0.6,1.4:1.0:1.8
+9,meat.baked,,nd,0.10.06,0.10.00,tr,,0.6:1.0:0.3
+10,"liver,baked",tr,nd,tr,0.20.02,,nd,0.7:1.0:0.3
+11,"stomach,raw",tr,nd,tr,tr,tr,nd,0.5:1.0:0.6
+12,Woodland Caribou (Rangifer tarandus),Woodland Caribou (Rangifer tarandus),,,,,,
+13,meat.raw,,nd,,,,,0.7:1.0:0.7
+14,"meat,baked",,nd,,,,,0.7:1.0:0.7
+15,meat.dried,,,,,,nd,0.6:1.0:0.6
+16,,,,,,,,
+17,"meat,raw",,nd,tr,tr,tr,tr,0.5:1.0:0.7
+18,"meat, baked",,nd,tr,tr,tr,tr,1.0:1.0:0.9
+19,meatsmoke/dried,,nd,tr,0.1,0.1,nd,0.5:1.0:0.7
+20,"blood,raw",nd,nd,nd,nd,nd,nd,0.7:1.0:0.8
+21,"liver,raw",0.10.01,nd,0.10.02,0.10.02,,0.10.04,0.9:1.0:0.5
+22,"liver,baked",0.10.01,nd,0.10.00,0.10.01,,0.10.01,0.4:1.0:0.6
+23,"lung,baked",0.1,nd,,0.1,0.1,nd,0.3:1.0:0.6
+24,"meat,raw",0.70.38,nd,nd,0.1,0.1,nd,1.0:1.0:1.0
+25,"meat,raw",tr,nd,,,,nd,1.7:1.0:0.3
+26,meatboiled,tr,nd,,,,nd,1.7:1.0:0.3
+27,Bear (Ursus americanus),,,,,,,
+28,"meat,raw",,nd,nd,,,nd,0.1:1.0:0.8
+29,meatsmoked,0.1,nd,tr,,,tr,0.2:1.0:1.6
+30,BIRDS,,,,,,,
+31,"meat,baked",0.10.04,tr,0.10.00,tr,tr,0.10.01,0.5:1.0:1.3
+32,"meat,baked",tr,nd,tr,tr,tr,tr,1.5:1.0:0.2
+33,meat.dried,0.50.17,nd,nd,tr,tr,nd,0.3:1.0:1.4
+34,FISH,,,,,,,
+35,meat.raw,tr,0.10.11,0.30.26,0.10.07,,0.30.17,1.2:1.0:2.5
+36,"meat,baked",tr,tr,0.20.03,0.10.00,,0.20.04,1.1:1.0:1.8
+37,"meat,smoke/dried",0.50.79,0.30.55,1.10.47,0.30.07,,0.80.22,0.9:1.0:1.6
+38,Inconnu(Stenodus leucichthys),Inconnu(Stenodus leucichthys),,,,,,1.4:1.0:2.2
+39,"meat,raw",0.10.01,,0.20.08,0.10.03,,0.20.10,1.4:1.0:2.2
+40,meatbaked,0.10.01,tr,0.10.01,0.10.01,,0.20.03,1.5:1.0:1.4
+41,"meat,smoke/baked",0.10.10,tr,0.3,0.1,0.1,0.3,1.3:1.0:2.1
+42,"meat,smoke/dried",0.10.10,0.10.01,0.60.31,0.30.21,,0.90.28,1.0:1.0:1.9
+43,Loche (Lota lota),,,,,,0.10.01,
+44,"meat,raw",tr,nd,tr,tr,tr,0.10.01,1.3:1.0:0.7
+45,meat.baked,tr,tr,0.10.04,tr,tr,0.10.05,1.5:1.0:1.0
+46,"head,baked",tr,nd,0.1,tr,tr,0.1,1.4:1.0:0.9
+47,"liver,raw",0.40.10,0.20.11,0.80.37,0.40.16,,0.8+0.23,1.1:1.0:1.8
+48,"skin,raw",tr,nd,0.1,tr,tr,0.1,1.4:1.0:1.2
+49,"skin, baked",tr,nd,tr,,,0.1,0.8:1.0:0.9
+50,PikeEsax lucius,,,,,,0.10.01,
+51,"meat,raw",tr,nd,,,,0.10.01,1.8:1.0:0.8
+52,meatbaked,tr,nd,,,,0.10.04,1.6:1.0:0.6
+53,"meat,raw",0.10.06,tr,0.10.01,0.10.01,,0.20.11,1.4:1.0:1.4
+54,meatbaked,0.10.01,tr,0.10.01,0.10.01,,0.20.11,1.2:1.0:1.4
+55,"meat,raw",tr,tr,0.10.02,,,0.20.06,0.9:1.0:1.2
+56,meatbaked,0.10.02,tr,0.10.02,,,0.20.06,1.1:1.0:1.2
+57,"meat,dried",0.1,nd,0.2,0.1,0.1,0.3,1.1:1.0:1.2
+58,meatsmoke/baked,0.1,0.1,0.2,0.2,0.2,0.3,1.0:1.0:1.5
+59,"meat,smoke/dried",0.20.04,0.10.02,0.40.12,0.10.06,tr,0.10.01,1.1:1.0:1.6
+60,"eggs,raw",0.40.36,0.20.15,0.40.20,0.10.06,,0.70.21,1.8:1.0:1.6
+61,"eggs,baked",0.30.11,0.20.04,0.60.05,0.20.06,,1.10.53,1.4:1.0:1.6
+62,"tail,raw",0.2,nd,0.2,,,0.2,1.2:1.0:1.7
+63,not detected,,,,,,,

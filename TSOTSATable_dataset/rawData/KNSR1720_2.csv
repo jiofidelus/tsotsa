@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Compounds,Formula,MWa (Da),RTb (min),Ion mode,Ionization model,Q1c(Da),Q3d(Da),Dpe,CEf,Reported main fragment ion
+1,,,,,,,,,,,(m/z
+2,-Carotene,C4oH56,536.4382,5.95,positive,[M+H]+,537.5,123.2,27,32,"413.3, 123.2"
+3,,,,,,,,,,,"Petry and Mercadante,2016)"
+4,-apo-8'-carotenal,C3oH4oO,416.638,4.41,positive,[M+H]+,417.3,325.3,40,13,"325.3, 119.1"
+5,,,,,,,,,,,"Cano et al.,2017)"
+6,-Carotene,C4oH56,536.4382,6.24,positive,[M+H]+,537.6,177.1,32,23,"445.4, 177.1, 105.1"
+7,,,,,,,,,,,"(Petry and Mercadante, 2016)"
+8,-Cryptoxanthin,C4oH56O,552.4331,5.48,positive,[M+H]+,553.5,177.4,29,25,"460.5, 177.4, 119.1"
+9,,,,,,,,,,,"Petry and Mercadante,2016)"
+10,-Carotene,C4oH56,536.4382,7.3,positive,[M+H]+,537.4,177.3,64,23,"177.3,118.9,104.9"
+11,,,,,,,,,,,"(van Breemen, 2012)"
+12,(E/Z)-Phytoene,C4oH64,544.5008,4.77,positive,[M+H]+,545.3,81,35,75,"339.3, 81, 69"
+13,,,,,,,,,,,"(Petry and Mercadante, 2016)"
+14,Lycopene,C4oH56,536.4382,8.19,positive,[M+H]+,537.4,81,48,66,"105,69"
+15,,,,,,,,,,,"Bergantin et al., 2018)"
+16,Capsanthin,C4oH56O3,584.871,4.44,positive,[M+H]+,585.5,109.1,25,26,"492.3, 109.1"
+17,,,,,,,,,,,Giuffrida et al.2013
+18,Neoxanthin,C4oHs6O4,600.4179,1.91,positive,[M+H]+,601.4,565.5,34,15,"565.5,221"
+19,,,,,,,,,,,"(Petry and Mercadante, 2016)"
+20,Lutein,C4oH56O2,568.428,3.95,positive,[M+H-18]+,551.5,175.4,51,25,"495.4, 175.4"
+21,,,,,,,,,,,"(Petry and Mercadante,2016)"
+22,Zeaxanthin,C4oH56O2,568.428,4.63,positive,[M+H]+,569.4,477.5,40,19,"477.5, 393.3"
+23,,,,,,,,,,,"Petry and Mercadante,2016)"
+24,Violaxanthin,C4oHs6O4,600.4179,1.61,positive,[M+H]+,601.4,221,21,28,"565.5, 221"
+25,,,,,,,,,,,"(Petry and Mercadante, 2016)"

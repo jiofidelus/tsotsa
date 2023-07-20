@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Analyte,TAP [M +CI],FFC [M+CI],TAP [M-H],FFC[M-H]
+1,within laboratory reproducibility (g/kg,1.4,2.3,4.5,4.3
+2,Mean recovery (%),117,92.5,121.5,94
+3,Minimum recovery (%),94,73,100,74
+4,Maximum recovery (%),140,112,143,114
+5,LOD (g /kg),4.0,3.7,2.1,4.3
+6,LOQ (g/kg),10.8,10,6.3,12.9
+7,Linearity,0.9890,0.9936,0.9919,0.9996
+8,Regression Equation,y=21.697x+0.4414,y=0.0016x+0.0006,y=0.309x+5.111,y=0.366x -4.68
+9,CCa(g/kg),52,104,50,111
+10,CCp (g/kg),55,107,69.2,118
+11,CRM Values (g/kg),0.26 (0.3),47.2 (50),,

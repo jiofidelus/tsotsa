@@ -1,0 +1,8 @@
+,0,1,2,3,4,5
+0,,Average Daily Dose [g kgday],Average Daily Dose [g kgday],Average Daily Dose [g kgday],Average Daily Dose [g kgday],
+1,Sample Sets,,,,,
+2,,BPA,MP,EP,PP,BP
+3,"Sampling point No.1,free analytes",0.632,0.629,0.040,0.062,0.010
+4,"Sampling point No.1, total analytes",0.633,0.741,0.219,0.057,0.011
+5,"Sampling point No. 2, free analytes",0.361,1.719,0.192,0.581,0.010
+6,"Sampling point No.2,total analytes",0.435,1.820,0.200,0.553,0.011

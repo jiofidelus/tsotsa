@@ -1,0 +1,30 @@
+,0,1,2,3,4
+0,PAH compound or internal standard,Abbreviation,GC-retention time (min,Ouantifying ion (m/z,Internal standard used
+1,Pyrene Dio,PyrDio,22.83,212,PyrD10
+2,Phenanthrene,Phe,13.76,178,PyrD10
+3,Anthracene,Ant,21.11,202,PyrD10
+4,Fluoranthene,Flu,21.11,202,PyrD10
+5,Pyrene,Pyr,22.96,202,PyrD10
+6,Benzo[c]fluorene,BcL,30.53,216,PyrD10
+7,Chrysene D12,CHRD12,30.53,240,
+8,Benz[a]anthracene,BaA,30.26,228,CHRD12
+9,"Cyclopenta[c,d]pyrene",CPP,30.51,226,CHRD12
+10,Chrysene,CHR,30.68,228,CHRD12
+11,5-Methylchrysene,BaPD12,37.43,264,CHRD12
+12,Benzo[b]fluoranthene,BbF,35.74,252,BaPD12
+13,Benzo[k]fluoranthene,BkF,35.86,252,BaPD12
+14,Benzo[j]fluoranthene,BjF,36.00,252,BaPD12
+15,Benzo[e]pyrene,BeP,37.33,252,BaPD12
+16,Benzo[a]pyrene,BaP,37.54,252,BaPD12
+17,Perylene,BgPD12,38.09,252,BaPD12
+18,Benzoghi]perylene D2,BgPD12,42.97,288,
+19,Indeno[123-cd]pyrene,IcP,41.88,276,BgPD12
+20,Dibenzo[ah]anthracene,DhA,41.98,278,BgPD12
+21,Benzo[ghi]perylene,BgP,43.07,276,BgPD12
+22,Anthantrene,ATR,43.58,276,BgPD12
+23,Dibenzo[ai]pyrene D14,DiPD14,49.67,316,
+24,Dibenzo[al]pyrene,DIP,47.43,302,BaPD12
+25,Dibenzo[ae]pyrene,DeP,48.94,302,BgPD12
+26,Coronene,Cor,49.13,300,DiPD14
+27,Dibenzo[ai]pyrene,DiP,49.90,302,DiPD14
+28,Dibenzo[ah]pyrene,DhP,50.45,302,DiPD14

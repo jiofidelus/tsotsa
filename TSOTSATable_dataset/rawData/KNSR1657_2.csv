@@ -1,0 +1,61 @@
+,0,1,2,3,4,5,6,7,8
+0,Accession,Protein Name,Correlation coefficients,Correlation coefficients,,,,,Regulated
+1,,,Ca2+,Carbonyl,MFI,Disulfide,Hydrophobic,,Type
+2,,,ATPase,content,,bonds,interactions,,
+3,B6RHH5,tropomvosin,,-0.831* *,,,,,down
+4,A0A2H4V3E4,Myosin heavy chain type 2,0.798*,-0.904**,-0.796**,-0.744**,,,down
+5,A0A3R7PUW0,Actin 2,0.780**,0.813**,-0.851**,,,-,down
+6,A0A411FUZ0,Troponin C,0.810**,-0.868 * *,-0.856**,-0.733**,,-,down
+7,A0A3R7PEZ1,Myosin heavy chain type 2,0.806**,-0.917**,-0.769**,-0.762 * *,,-,down
+8,X2KWE4,Hemocyanin subunit L2,0.726**,-0.842**,-0.731**,,,,down
+9,A0A3R7PW84,Sarcoplasmic calcium-binding protein,0.842**,-0.895**,-0.876**,-0.770**,-0.720 * *,-0.720 * *,down
+10,A0A3R7NSY1,Myosin heavy chain type a,0.715**,0.834**,-0.729*,,,,down
+11,K77H6,Ryanodine receptor,0.810**,-0.843 * *,-0.874 * *,-0.731 * *,,-,down
+12,A0A423TF99,Ubiquitin-activating enzyme El,,-0.732 * *,,,,-,down
+13,A0A3R7Q123,"Phosphate carrier protein, mitochondrial",0.791 **,-0.800 * *,-0.856 * *,,,-,down
+14,A0A076NBT3,heparan sulfate proteoglycan core protein,0.723 * *,-0.781 * *,-0.783 * *,,,-,down
+15,A0A3R7MYQ8,Pyruvate kinase,,-0.741*,,,,,down
+16,A0A3R7ST37,Actin T2,,-0.714 * *,0.741 **,,,,down
+17,A0A423U8M4,L-lactate dehydrogenase,,-0.801**,,,,,down
+18,A0A423U3M3,Slow-type skeletal muscle actin 7,0.868**,-0.883**,-0.916 * *,-0.792 * *,-0.757 * *,-0.757 * *,down
+19,A0A423T9T8,Actin 1,0.871 * *,-0.899 * *,-0.916* *,-0.804 * *,-0.761**,-0.761**,down
+20,A0A3R7MS58,Cytoplasmic-type actin 3,,-0.772**,,,,,down
+21,A0A423TFS5,Glyceraldehyde-3-phosphate dehydrogenase,0.738**,-0.812**,-0.773**,,,,down
+22,A0A423SLW8,I-connectin,0.790**,-0.852**,-0.831 **,,,1,down
+23,A0A423TIS3,Troponin I,,-0.803 **,-0.720**,,,,down
+24,A0A423SG07,Hemocyanin,0.858**,-0.897 * *,-0.884**,-0.779**,-0.734 * *,-0.734 * *,down
+25,A0A3S5HJG4,60 S ribosomal protein L40,,-0.725**,,,,,down
+26,A0A423U095,Farnesoic acid O-methyltransferase isoform 1,,-0.752*,-,,,,down
+27,A0A423SMS3,Putative Ca2+ sensor,,-0.726*,,,,,down
+28,A0A423SYM7,Putative histidine triad nucleotide-binding,0.774**,-0.814 **,-0.837 * *,,,,down
+29,,protein,,,,,,,
+30,A0A423TH89,Phosphofructokinase,0.749 **,-0.855 **,-0.751**,,,,down
+31,A0A3R7M5U5,Uncharacterized protein,0.770*,-0.819**,-0.821 **,,,-,down
+32,A0A075DVX7,Tubulin alpha chain,,-0.749 * *,-0.763**,,,-,down
+33,A0A3R7LWS7,Uncharacterized protein,0.808,-0.858 **,-0.827 * *,,,-,down
+34,A0A3R7MSS7,Glycogen debranching enzyme,0.790 *,-0.845 **,-0.850**,-0.717 **,,-,down
+35,A0A3R7M776,Tubulin beta chain,0.776,0.873 * *,0.752**,,,,down
+36,A0A423SNX9,Trehalose-6-phosphate synthase,0.758**,0.861 * *,-0.775**,,,,down
+37,A0A3R7PMB6,Malate dehydrogenase,0.729,-0.777 * *,-0.801**,,,1,down
+38,A0A3R7LZ71,Uncharacterized protein,,0.671 *,-,-,,,down
+39,A0A3R7M961,Heat shock protein,,-0.786**,,,,,down
+40,A0A3R7Q0U0,Uncharacterized protein,0.852**,-0.827 * *,-0.932 * *,-0.775 * *,-0.746 * *,-0.746 * *,down
+41,A0A423TEC0,ATP synthase subunit d,,-0.724 * *,,,,,down
+42,A0A3R7SMK3,Muscle M-line assembly protein,,-0.712 * *,0.774 * *,,,,down
+43,A0A3R7MDX3,Citrate synthase,,-0.733 * *,,,,,down
+44,A0A423TDP7,Calphotin (Fragment),0.764**,-0.848 * *,0.791* *,,,1,down
+45,A0A423T016,Muscle LIM protein Mlp84B,,-0.732 * *,,,,-,down
+46,A0A423TE44,Sodium potassium-transporting ATPase subunit,0.709*,-0.808 **,0.733 * *,,,,down
+47,,beta,,,,,,,
+48,A0A423TNZ4,AMP-activated protein kinase,0.842**,-0.859**,-0.898 *,-0.756**,-0.715*,-0.715*,down
+49,A0A3R7LYS2,Superoxide dismutase,-0.824 * *,0.811**,0.900*,0.736**,0.714**,,up
+50,A0A3R7SS49,Fructose-bisphosphatase,-,0.715 * *,,,,,up
+51,A0A423SGU8,Methenyltetrahydrofolate synthase protein,,,0.727 **,,,,up
+52,A0A3R7NZC3,ATP-dependent(S)-NAD(P)H-hydrate,-0.879 * *,0.910 **,0.907**,0.804**,0.761**,,up
+53,,dehydratase,,,,,,,
+54,A0A3R7MGC9,Glutathione S-transferase,,,0.728*,,,,up
+55,A0A423U9Z8,Crustacyanin-A,-0.929**,0.961**,0.862**,0.921 **,0.898**,,up
+56,A0A3R7MZV2,Uncharacterizedprotein,-0.765**,0.765**,0.868**,-,,,up
+57,A0A3R7MHL2,Putative laminin A chain,-,0.760**,0.740 **,-,,,up
+58,A0A423SNM2,Fibril-forming collagen alpha chain-like,-,0.767**,,-,,,up
+59,A0A3R7PYS0,Uncharacterized protein,,0.815**,0.730**,,,,up

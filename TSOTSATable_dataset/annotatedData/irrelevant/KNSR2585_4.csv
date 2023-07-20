@@ -1,0 +1,15 @@
+,0,1,2,3
+0,,Rearing systems,,
+1,Traits,Indoor,Outdoor,p-value
+2,Femur Weight (g,16.9 0.33,180.28,0.01
+3,Femur Length (cm),10.50.06,10.60.05,0.1
+4,Femur Seedor Index (g/cm,1.60.03,1.7 0.02,0.02
+5,Femur Robusticity Index (cm/g),4.1 0.02,4.1  0.02,0.1
+6,Femur Diameter (cm),1.10.01,1.10.01,0.5
+7,Tibia Weight (g),22.6  0.42,24.4  0.39,0.03
+8,Tibia Length (cm),15.10.07,15.30.07,0.03
+9,Tibia Seedor Index (g/cm),1.50.02,1.6 0.02,0.01
+10,Tibia Robusticity Index (cm/g,5.4 0.03,5.30.03,0.1
+11,Tibia Diameter (cm),10.01,10.02,0.7
+12,Leg Bones12 Dry Matter (%,65.70.76,65.21.10,0.6
+13,Leg Bones Ash content (%,32.51.88,33.96  1.46,0.01

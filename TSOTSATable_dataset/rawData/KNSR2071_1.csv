@@ -1,0 +1,50 @@
+,0,1
+0,,N=95
+1,Participant Characteristics,
+2,Age(years),72.0  5.0
+3,Sex,
+4,Female,76 (80 %)
+5,Male,19 (20 %)
+6,Ethnicity,
+7,Hispanic/Latino,2 (2.1 %)
+8,Not Hipanic/Latino,89 (93.7 %)
+9,Unknown,4 (4.2 %)
+10,Race,
+11,White,85 (89.4 %)
+12,Black or African American,7 (7.4%)
+13,Other,1 (1.1%)
+14,Unknown,2 (2.1 %)
+15,BMI (kg/m2),28.6  4.7
+16,Skin Carotenoid Content,272  78.6
+17,Dietary Intake,
+18,Energy (kcal),1700  510
+19,Total Fat (g),75  27
+20,Total Carbohydrate (g),183  63
+21,Total Protein (g),69  23
+22,Food-Derived Carotenoids,
+23,Total Vitamin A (IU),85006070
+24,Beta-Carotene (mcg),3950  3260
+25,Alpha-Carotene (mcg),710950
+26,Beta-Cryptoxanthin (mcg),120 280
+27,Lutein + Zeaxanthin (mcg),21702480
+28,Lycopene (mcg),4750  5500
+29,F + S-Derived Carotenoids,
+30,Total Vitamin A (IU),9690  6320
+31,Beta-Carotene (mcg),3950  3260
+32,Alpha-Carotene (mcg),710  950
+33,Beta-Cryptoxanthin (mcg),120  280
+34,Lutein + Zeaxanthin (mcg),35806010
+35,Lycopene (mcg),48005500
+36,Fruit (servings*),
+37,Citrus Fruit,0.1  0.3
+38,Other Fruit,1.6  1.2
+39,Total Fruit,2.0  1.4
+40,Vegetables (servings*),
+41,Dark Green Vegetables,0.6  0.9
+42,Deep Yellow Vegetables,0.3  0.4
+43,Tomato,0.5 0.5
+44,Other Starchy Vegetables,0.1  0.2
+45,Other Vegetables,1.2  0.9
+46,Vegetable Juice,0.1  0.4
+47,Total Vegetables,2.8  1.8
+48,Fruit + Vegetables,4.8  2.5

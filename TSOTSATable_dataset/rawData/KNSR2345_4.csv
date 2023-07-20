@@ -1,0 +1,45 @@
+,0,1,2,3,4
+0,USDA Food,Purchased Product,Grocery,Refuse,Amount to
+1,Code,,form,,Purchase (g)
+2,Description,,,,
+3,"RICE,COOKED","Rice,brown, long",RFG-,NR,<0.01g
+4,NFS,"grain, raw",NRTS,,
+5,,"Rice, brown, long-",SS-NRTS,NR,2.35
+6,,"grain,raw",,,
+7,,"Rice,white,long-grain",RFG-,NR,0.01
+8,,"regular,raw,enriched",NRTS,,
+9,,"Rice, white, long-grain",SS-NRTS,NR,28.29
+10,,"regular,raw,enriched",,,
+11,,"Rice, white, long-grain",SS-RTS,NR,1.76
+12,,"regular,enriched,",,,
+13,,cooked,,,
+14,,"Rice,white,glutinous,",RFG-RTS,NR,0.05
+15,,unenrichedcooked,,,
+16,,"Rice,cooked,NFS",RFG-RTS,NR,0.00
+17,,"Rice,white,cooked,NS",FZ-NRTS,NR,0.27
+18,,as to fat added in,,,
+19,,cooking,,,
+20,,"Rice,white,cooked,fat",FZ-NRTS,NR,0.38
+21,,"added in cooking,made",,,
+22,,with oil,,,
+23,,"Rice, brown,cooked,",FZ-NRTS,NR,0.56
+24,,fat added in cooking.,,,
+25,,made with oil,,,
+26,,"Rice,brown,cooked",SS-NRTS,NR,0.02
+27,,fat not added in,,,
+28,,cooking,,,
+29,,"Rice, brown, cooked,",SS-RTS,NR,1.42
+30,,fat not added in,,,
+31,,cooking,,,
+32,,"Yellow rice,cooked, fat",SS-RTS,NR,0.03
+33,,not added in cooking,,,
+34,,"Rice, white, cooked,",SS-NRTS,NR,0.38
+35,,glutinous,,,
+36,,Tap Water (assumed,,,64.47
+37,,free),,,
+38,"APPLE,RAW","Apples, raw, with skin",RFG-,NR,1.91
+39,,,RAW,,
+40,,"Apples, raw, with skin",RFG-,WR,108.98
+41,,,RAW,,
+42,,"Apples,raw,without",FZ-RTS,NR,<0.01 g
+43,,skin,,,

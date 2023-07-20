@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Source of variation,d.f.,Total Iron,Boiled,Total Iron,-,Bioaccessible,,Total Iron,-,Percentage of bioaccessibility,Percentage of bioaccessibility
+1,,,F-value,p-value,F-value,,p-value,,F-value,,,p-value
+2,Clone,,19.323,<0.001,14.224,,<0.001,16.255,,,<0.001,<0.001
+3,Environment,,212.06,<0.001,492.678,,<0.001,41.784,,,<0.001,<0.001
+4,Clone - Environment,,19.29,<0.001,25.939,,<0.001,2.874,,,0.036,
+5,Residual,24,,,,,,,,,,

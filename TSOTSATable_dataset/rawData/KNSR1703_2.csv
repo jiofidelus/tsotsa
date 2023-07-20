@@ -1,0 +1,7 @@
+,0,1,2,3,4
+0,Standard (all non-,Number of,Expected/certified,Mean (range),Percentage
+1,at milk powders),analyses,iodine content,(mg/kg),of certified
+2,,,(mg/kg),,value
+3,In-house,49,0.80,0.77 (0.710.84),96.3
+4,NIST 1549,9,3.38,3.27 (3.003.51),96.7
+5,BCR 150,10,1.29,1.21 (1.08-1.31),95.3

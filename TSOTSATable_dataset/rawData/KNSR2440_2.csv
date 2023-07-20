@@ -1,0 +1,15 @@
+,0,1,2,3
+0,TYPE,WINE,PROCEDENCE,OENOLOGICAL REGION
+1,Young wine,Y1,Puebla Sancho Perez (Badajoz),Matanegra (Zafra-Rio Bodion)
+2,,Y3,Los Santos de Maimona (Badajoz),Matanegra (Zafra - Rio Bodion)
+3,,Y3,Canamero (Caceres),Canamero
+4,,Y4,Valdefuentes (Caceres),Montanchez
+5,,Y6,Merida (Badajoz),Tierra de Barros (Tierra de Merida -- Vegas Bajas
+6,,Y6,Puebla Sancho Perez (Badajoz),Matanegra (Zafra - Rio Bodion)
+7,Oak wine,01,Fuente del Maestre (Badajoz),Matanegra (Zafra - Rio Bodion)
+8,,02,Bienvenida (Badajoz),Matanegra (Tentudia)
+9,,03,Canamero (Caceres,Canamero
+10,,04,Valdefuentes (Caceres),Montanchez
+11,,05,Almendralejo (Badajoz),Tierra de Barros
+12,,06,Fuente del Maestre (Badajoz),Matanegra (Zafra - Rio Bodion)
+13,Aged wine,A1,Fuente del Maestre (Badajoz),Matanegra (Zafra - Rio Bodion)

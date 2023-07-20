@@ -1,0 +1,14 @@
+,0,1,2
+0,Parameters,With,
+1,,Calibration data obtained by using direct,Calibration data obtained by using
+2,,aqueous standards,matrix-matched standards
+3,Regression equation (n: 6),A=5.000.34104[MoVIgL-1],
+4,,(0.03080.00036,-0.03150.00040
+5,"Regression coefficient, r2",0.9949,0.9954
+6,Linearity range,7.5-1800gL-1,10-1600gL-1
+7,Average preconcentration factor for sample volume of 50 mL',100,100
+8,Enhancement factor,32.05,29.81
+9,"The limits of detection and quantification,LODs and LOQs",2.18 (2.24b) and 7.30 gL-1,2.58(2.68b and 8.60gL-1
+10,Accuracy and precision(REs and RSDs% for,3.25 and 2.36,3.5 and 2.45
+11,"250gL-and 25gmL-1,n:5)",,
+12,"Recovery%(25a,150,250 and 500 gL-1,n:5",98.5-102.5,97.5-103.5

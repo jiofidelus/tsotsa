@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6
+0,Parameters,Antioxidant capacity,Antioxidant capacity,,,,
+1,,Within maximum region,Within maximum region,,Outside maximum region,Outside maximum region,
+2,,Observed Predicted,Observed Predicted,PROBa,Observed,Predicted,PROB
+3,Runner-PRTCb,,,,,,
+4,"100C,10 min",18.56,16.98,0.4453,,,
+5,"135C,10 min",,,,12.67,13.23,0.7711
+6,Runner-TEACc,,,,,,
+7,"100C,10min",1.95,1.69,0.1357,,,
+8,"135C,10 min",,,,1.68,1.66,0.9097
+9,Virginia-TEACc,,,,,,
+10,100C20 min,1.57,1.36,0.0831,,,
+11,135C.20 min,,,,1.25,1.28,0.9200
+12,Spanish-TEACc,,,,,,
+13,100C15 min,1.81,1.54,0.5424,,,
+14,"135C,20 min",,,,1.34,1.33,0.9441

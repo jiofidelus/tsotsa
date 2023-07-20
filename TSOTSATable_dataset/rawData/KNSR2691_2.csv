@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Ingredient,ACHO (g),Proportion of,Ingredient GI,Ingredient GI,Proportional GI
+1,,,total ACHO,,(glucose reference),(proportion of total ACHC
+2,,,,,, ingredient GI)
+3,"Figs, dried",14.12,0.2119,61a,61a,12.9
+4,"Flour,white, all-purpose",17.79,0.2670,70b,70b,18.7
+5,Corn syrup,12.92,0.1939,105c,105c,20.4
+6,"Sugar, white, granulated",16.81,0.2523,61.4d,61.4d,15.5
+7,High fructose corn syrup,4.95,0.0743,73c,73c,5.4
+8,"Shortening, soybean",0,0,0,0,0
+9,"Eggs, whole",0.03,0.0005,0,,0
+10,Salt,0,0,0,,0
+11,Total for food,66.62,1.0000,,,72.9

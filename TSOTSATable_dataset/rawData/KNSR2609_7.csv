@@ -1,0 +1,14 @@
+,0,1
+0,HPLCseparation,
+1,Caffeine retention time (min),19.225
+2,Capacity factor(k),8.33
+3,HPLCcalibration curve,
+4,Range (mg/L),1-25
+5,Slope,48177
+6,Y-intercept,-1937.1
+7,Rn=3,0.9998
+8,LOD (mg/L),0.20
+9,LOQ (mg/L),0.67
+10,SPE calibration,
+11,Recovery% standards(n=3,98.1
+12,Recovery(% spiked sample(n=3,96

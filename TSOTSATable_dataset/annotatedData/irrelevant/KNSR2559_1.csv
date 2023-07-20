@@ -1,0 +1,14 @@
+Instrumental parameters,
+RF Power,1400W
+Argon gas flow rate,
+Plasma,17 L min-1
+Auxiliary,1.1 L min-1
+Nebulizer,1 L min-1
+Scanning mode,Peak hoping
+Point per spectral peak,1
+Sweeps,20
+Dwell time,50 ms
+Readings per replicate,1
+Settle time,3
+Integration time,1s
+Internal standard,Rh (10g L-1

@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6
+0,References,Mycotoxins,Samples,Method preparation,,Analytical,Recovery
+1,,,,,,method,range(%)a
+2,Set and Erkmen (2010,"AflatoxinsB1,B2,G1,G2",Pistachio nut,Immunoaffinity column,Immunoaffinity column,HPLC-FLD,61-89.3%
+3,Huang et al.2010,"AflatoxinsB1,B2,G1,G2","Peanut,musty peanut,peanut",Home-made mixed,,UHPLC-MS/MS,80.1-86.8%
+4,,,butter,cartridge,,,
+5,Luttfullah and Hussain,"AflatoxinsB1,B2,G1,G2","Dried fruits and nuts (almond,",Immunoaffinity column,Immunoaffinity column,HPLC-FLD,83.5-92.5%
+6,2011),,"walnut, peanut, pistachio",,,,
+7,Rubert et al.2011,"AflatoxinsB1,B2,G1,G2",Tiger-nuts and their beverages,Matrix solid phase,,LC-MS/MS,71-83%
+8,,and OTA,,dispersion,,,
+9,Baquiao et al.2012,"AflatoxinsB1,B2,G1,G2",Brazil nuts,SPE (C18),,HPLC-FLD,80.44-84.26%
+10,Garcia-Cela et al.2013,"AflatoxinsB1,B2,G1,G2",Pistachio,Immunoaffinity column,Immunoaffinity column,HPLC-FLD,71-122%
+11,,and OTA,,,ELISA,,72.8-107.9%
+12,Abia et al.2013,"AflatoxinsB1,B2,G1,G2",Peanut and its by-products,Crude extract,,LC-MS/MS,73-86%
+13,,"OTA,ZEA,fumonisins",,,,,
+14,,B1 and B2,,,,,
+15,Varga et al.2013,"AflatoxinsB1,B2,G1,G2","Almond, hazelnut, peanut",Crude extract,,UHPLC-MS/MS,31-127%
+16,,"OTA, ZEA, T-2, HT-2,",pistachios,,,,
+17,,fumonisions (B1 and B2),,,,,
+18,This study,"AflatoxinsB1,B2,G1,G2","Walnut, hazelnut, peanut,",Crude extract,,UHPLC-MS/MS,71.25-140.11%
+19,,"OTA,ZEA,T-2,HT-2,",almond,,,,
+20,,fumonisins (B1 and B2),,,,,

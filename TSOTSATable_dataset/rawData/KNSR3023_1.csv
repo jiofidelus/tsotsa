@@ -1,0 +1,47 @@
+,0,1,2,3,4,5,6
+0,Crop,Variety,Variety,Apparatus,Significantly different,Element with no,Reference
+1,,,,,element,significant,
+2,,,,,,difference,
+3,Bean,,"Bayo, Bayo Bola, Biche, Blanco Alubia, Blanco Michigan, Flor de",AAS,"Cu, Fe, Mn, N, Ni, P,Zn","Ca,K,Mg",(Armendariz-Fernandez
+4,,,"Mayo, Negro Bola, Negro Michigan, Peruano Pinto Americano, and",,,,et al.2019
+5,,Sangre de Toro,Sangre de Toro,,,,
+6,Bean seed,,"Rio Tibagi,Guateian 6662,MacanudoMinuano,Macotaco,Guapo",ICP-OES,"Ca,Fe,K,CuZn",,Ribeiro et al.2012
+7,,,"BrilhanteIAPAR 44,TPS NobreDiamante Negro,BRS Valente,IPR",,,,
+8,,,"Uirapuru, BRS Campeiro, FEPAGRO 26, BRS Supremo, Perola and",,,,
+9,,Irai,,,,,
+10,Black gram,,"60 genotypes (AZAD-3,JU-3,LBG-20,MASH-479,OBG-17,Pant U",,"CaK,P",,"Suvan et al.,2020)"
+11,,,"31,PDU-1,TAU-2,TU-98-14,VUG039,etc.)",,,,
+12,Chickpea,,"22 kabuli chickpea entries (Dylan, Dwelley, Nash, Royal, Sawyer,",ICP-OES,"B,Ca,Cu,Fe,K,Mg",Se,"Vandemark et al.,2018"
+13,,,"Sierra,CA0390B007C,CA0469C025C,CA0690B0250C,",,"MnNi,PS,Zn",,
+14,,"CA0790B0053C,etc.)","CA0790B0053C,etc.)",,,,
+15,Cluster,,30 genotypes selected from Indian and Pakistan cluster bean,ICP-OES,"Co, Cu, Fe,Mn, Ni, Zn",,"Akcura et al.,2019"
+16,bean,,"population (COMUZF 011 V T IND 112/3,COMUZF 011 G T IND 63/",,,,
+17,seed,,"6,COMUZF 011 V T PAK 90/4,COMUZF 011 VT PAK 92/2,Pusa",,,,
+18,,"Nevbahar, Samen, etc.)","Nevbahar, Samen, etc.)",,,,
+19,Cowpea,,"15 genotypes (Apagbaala, Bengsogla,Brown Eye, Fahari, Glenda,",ICP-MS,"B,Cu,Fe,K,Mg,MnP,",,"Belane and Dakora,2011"
+20,grain,,"IT82D-899, IT84S-2246, IT90K-59, IT93K-204529, IT97K-49939,",,"S,Zn",,
+21,,,"ITH98-46,TVX3236,Soronko,TVU 11424,and Vuli-1)",,,,
+22,Cowpea,,"15 genotypes (Apagbaala,Bengsogla,Brown Eye,Fahari,Glenda,",ICP-MS,"B,Ca,Cu,Fe, K,Mg,",,"Belane and Dakora,2011"
+23,leaf,,"IT82D-899, IT84S-2246,IT90K-59,IT93K-204529,IT97K-49939,",,"Mn,P,Zn",,
+24,,,"ITH98-46,TVX3236,SoronkoTVU 11424,and Vuli-1)",,,,
+25,Lentil seed,,"16 Lentil entries (Avondale, Merrit, CDC Richlea, LC06600517 L,",ICP-OES,"B,Ca,Cu,Fe,K,Mg",Se,"Vandemark et al.,2018)"
+26,,"LC06601616R,LC07600591R,etc.)","LC06601616R,LC07600591R,etc.)",,"MnNi,PS,Zn",,
+27,Lupin seeds,"BablonBablone cv,and Desdigin","BablonBablone cv,and Desdigin",ICP-AES,"B,CaCu,Fe,K,Mg",,"Al Juhaimi et al.,2019"
+28,,,,,"Mn, Mo, Na,P,S,Se",,
+29,,,,,Zn,,
+30,Peanut,,"D147-p3-115,D175-3-p17-3,D192-p397-1,D193-p3-6,D193-",ICP-MS; ICP-,"B,Ca,Co,Cu,Fe",Cr,"Phan-Thien et al.,2010)"
+31,,,"p3-8,Middleton,Page,PCA213,and Sutherland",OES,"K,Mg,Mn,Mo",,
+32,,,,,"NaNi,P,SeZn",,
+33,Peanut,,"Early Bunch, Florigiant, Florunner, and Tifrun",AAS,"B,Ca,Fe,K,Mn,P,",CuMg,"(Gaines and Hammons,"
+34,,,,,"S,Zn",,1981)
+35,Peanut,,"Virginia-70, North Carolina-2 and Florigant",AAS,"CaCu,Fe,K,Mg",Zn,"Derise et al.,1974"
+36,,,,,"Na,P",,
+37,Peanut,,"A.hypogaea subsp.hypogaea var.hypogaea (Virginia type),A",AAS,"Fe,Zn",,"Janila et al.,2015)"
+38,,,hypogaea subsp. fastigiata var. vulgaris (Spanish type) and A.,,,,
+39,,,hypogaea subsp. fastigiata var. fastigiata (Valencia type),,,,
+40,Peanut,,"Boro Light,Boro Red,Mokwa, Campala,and Ela",AAS,"Al, Ca, Cu,Fe,K,",,Shokunbi et al.2012
+41,,,,,"Mg,Mn,Na,P, Se",,
+42,,,,,Zn,,
+43,Peanut,,"51 genotypes (Anorden, AT3081R,Attaboy, etc.)",ICP,Ca,,Thornton et al.2015
+44,Soybean,,Low-protein cultivar (BRS 133) and high-protein cultivar (BRS 258),AAS,"CaCuFe,P,Zn",,"(Paucar-Menacho et al.,"
+45,,,,,,,2010

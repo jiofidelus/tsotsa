@@ -1,0 +1,15 @@
+,0,1,2,3
+0,Comparison,Probability level,,
+1,,Group F,Group T,Group M
+2,AA45-AA180,n.s.,1%,n.s.
+3,AA180-AA365,n.s.,0.1%,n.s.
+4,AA45-AA365,n.s.,0.1%,1%
+5,CC45-CC180,5%,n.s.,0.1%
+6,CC180-CC365,n.s.,5%,n.s.
+7,CC45-CC365,5%,0.1%,0.1%
+8,SS45-SS180,n.s.,n.s.,n.s.
+9,SS180-SS365,n.s.,n.s.,n.s.
+10,SS45-SS365,n.s.,n.s.,5%
+11,RR45-RR180,5%,n.s.,5%
+12,RR180-RR365,n.s.,0.1%,n.s.
+13,RR45-RR365,1%,0.1%,n.s.

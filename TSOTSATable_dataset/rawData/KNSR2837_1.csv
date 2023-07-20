@@ -1,0 +1,31 @@
+,0,1,2,3,4,5
+0,Peak,rt(min.),max(nm),[M-H],Fragment ions (m/z),Compound identification
+1,1,10.27,"232,278",,,Not identified
+2,2,28.70,"232,264,310",755,"593,473,413,383,353","Apigenin 7-O-hexosyl 6,8-C-diglucoside isomer"
+3,3,29.29,"232, 270, 334",917,"755,593,503,473,383,353","Apigenin 7-0-(glucosyl(1-2) glucosyl)6,8-di-C-glucoside isomer"
+4,4,31.01,"232,270,333",917,"755,593,503,473,383,353","Apigenin 7-0-(glucosyl (1-6) glucosyl 6,8-di-C-glucoside"
+5,5,31.66,"230,270,335",917,"755,593,473,413,383,353","Apigenin 7-0-(glucosyl (1-2) glucosyl) 6,8-di-C-glucoside isomer"
+6,6,32.50,"236,270,334",593,"503,473,383,353","Apigenin 6,8-di C-hexoside (vicenin 2 isomer)"
+7,7,33.19,"232,270,336",755,"593,503,473,383,353","Apigenin 7-0-hexosyl 6,8-C-diglucoside isomer"
+8,8,33.86,"234,270,336",593,"503.473,383.353","Apigenin 6,8-di C-glucoside (vicenin 2"
+9,9,36.82,"231,270,334",887,"725,563,503,443,383,353",Apigenin 7-O-(glucosyl (1-6) glucosyl) 8-C-pentosyl 6-C-glucoside
+10,10,37.74,"232, 271,334",887,"563,473,443,383,353",Apigenin 7-O-(glucosyl (1-2)glucosyl) 6-C-pentosyl 8-C-glucoside
+11,11,38.4,"236,270,334",563,"503,443,383,353",Apigenin 8-C-xyloside-6-C-glucoside (vicenin 3)
+12,12,39.06,"232, 268, 346",895,"563,725,447,357,327",Luteolin 7-O-dihydrogalloylglucosyl)8-C-pentosyl-glucoside
+13,13,40.09,"232,270,338",593,"503,473,383,353","Apigenin 6,8-di C-hexoside (vicenin 2 isomer)"
+14,14,41.70,"234, 270,346",895,"725,563,447,357",Luteolin 7-O-(dihydrogalloylglucosyl) 8-C-pentosyl-glucoside
+15,15,42.50,"236,270,334",563,"503,443,383,353",Apigenin 6-C-xyloside-8-C-glucoside(vicenin 1
+16,16,44.34,"234,268,336",863,"711,593,473,353,311","Apigenin 7-O-(galloyltetrosyl) 6,8-di-C-glucoside"
+17,17,45.72,"232,270,336",737,"563,473,443,383,353","Apigenin 6-C-pentosyl 8-C-(2""-O-quinoyl)-glucoside"
+18,18,47.01,"232,270,336",877,"563,503,443,383,353","Apigenin 7-O-(6""-galloylglucosyl) 6-C-pentosyl 8-C-glucoside"
+19,19,47.62,"234,270,336",737,"563.473,443,383,353","Apigenin 8-C-(6""-O-quinoyl)-6-C-glucoside"
+20,20,49.32,"232, 270, 326",877,"563,473,443,383,353","Apigenin 7-O-(2""-galloylpentosyl) 6,8-di-C-glucoside"
+21,21,51.30,"232,270,340",877,"603,533,443,383,353","Apigenin 7-O-(2""-galloylglucosyl) 8-C-pentosyl 6-C-glucoside"
+22,22,52.30,"232,270,340",877,"577,473,443,383,353","Apigenin 7-O-(6""-galloylglucoside)8-C-pentosyl 6-C-glucoside"
+23,23,53.03,"232,270,342",1039,"707,647,577,487,457,383,353",Apigenin 7-O-glucosyl 6-C-galloylpentosyl 8-C-glucosyl-glucoside
+24,24,55.43,"232,270,334",877,"577,533,473,443,383,353","Apigenin 7-O-(6""-galloylglucoside)8-C-pentosyl 6-C-glucoside"
+25,25,62.64,"232,270,332",1039,"877,707,691,383,309",Apigenin 7-O-(di-glucosyl) 6-C-galloylpentosyl 5-O-glucoside
+26,26,66.11,"232, 270,336",1023,"735,589,547,487,457,383,353",Apigenin 7-O-(rhamnosylglucosyl) 6-C-pentosyl 8-C-galloylglucoside
+27,27,67.28,"232,270,334",1081,"1023,547,413,353,343,311",Apigenin 7-O-(galloyldiglucosyl)6-C-acetyl-glucosyl-pentoside
+28,28,70.13,"230,270,316",593,"447,429,309",Kaempferol 7-0-rhamnosyl-(1-2)-glucoside
+29,29,83.37,"232,270,316",577,"431,413,293",Kaempferol 7-0-rhamnosyl-(1-2)-rhamnoside

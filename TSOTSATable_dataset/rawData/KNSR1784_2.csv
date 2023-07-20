@@ -1,0 +1,23 @@
+,0,1,2,3
+0,Landrace,Group A compounds(undesirable,Group A compounds(undesirable,
+1,,RFO,PHA,-Amylase
+2,,,,inhibitor
+3,,g/100 g,Flour extract,Inhibition
+4,,,dilution preventing,extent (%)b
+5,,,agglutinationa,
+6,Badda bianco FRM,1.36,1/256,79.4
+7,Badda bianco SG,1.39,1/256,89.9d
+8,Badda nero SG,1.40,1/512,54.2
+9,Monaco Mussu Niuru,1.08,>2048,n.a.
+10,Poverello di Rotonda S,1.59,1/256,47.5
+11,Poverello di Rotonda AF,1.65,1/256,49.5
+12,Poverello di Rotonda BT,1.51,1/512,39.4e
+13,Tabacchino,1.75d,1/512,86.9
+14,Fagiolo a Formellac,0.991e,u.d.t.,u.d.t.
+15,Bianco di Rotonda TL,1.41,n.a.,n.a.
+16,Mean,1.41,,63.8
+17,Standard deviation,0.24,,20.9
+18,Max.value,1.75,-,89.9
+19,Min.value,0.991,,39.4
+20,Max/min,1.77,,2.28
+21,Coefficient of variation,16.6,,32.8

@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,,n,Minimum,Maximum,Average,SD
+1,A end point pH=7g/l tartaric,65,3.44,7.23,4.92,0.82
+2,[A end point pH=8.2g/l tartaric),65,4.05,7.80,5.49,0.83
+3,pH,65,3.23,4.01,3.60,0.18
+4,Conductivity (uS/cm),65,482.00,1043.00,635.09,95.18
+5,Malic acid (g/l),65,0.01,1.97,0.32,0.50
+6,Tartaric acid (g/l),65,0.99,3.08,1.83,0.46
+7,Potassium (ppm),65,675.00,2300.00,1183.82,353.80

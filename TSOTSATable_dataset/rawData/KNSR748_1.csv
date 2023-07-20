@@ -1,0 +1,23 @@
+,0,1,2,3,4
+0,ICP-MS,,,,
+1,RF power,,,,"1,300 W"
+2,Nebulizer gas flow,,,,0.91 L/min
+3,Auxiliary gas flow,,,,1.45 L/min
+4,Plasma gas flow,,,,15.0 L/min
+5,Lens voltage,,,,6.50 V
+6,ICP-OES,,,,
+7,RF power,,,1.200 W,
+8,Plasma gas flow,,,12.0 L/min,
+9,Auxiliary gas flow,,,1.00 L/min,
+10,Nebulizer gas flow,,,0.70 L/min,
+11,Viewing geometry,,,"Dual mode Axial,Radial)","Dual mode Axial,Radial)"
+12,Viewing height,,,8 mm,
+13,Mercury analyzer,,,,
+14,Gas Control,,Catalyst,Catalyst,
+15,Nitrogen flow,200 mL/min,Temp.,,615
+16,Combust,,Time,,60 s
+17,Drying Temp.,200,Amalgamator,Amalgamator,
+18,Drying Time,10s,Temp.,,900
+19,Decomposition Temp,650,Time,,12s
+20,Decomposition Time,210 s,Detector,Detector,
+21,,,Integration,Integration,300 s

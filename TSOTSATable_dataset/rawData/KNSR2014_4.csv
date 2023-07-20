@@ -1,0 +1,51 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,,,Purple-fleshed,,,Yellow-fleshed,,,White-fleshed,,
+1,Peak No.,Compounds,Abbreviation,whole,,,whole,,,whole,,
+2,,,,whole,peel,inner,whole,peel,inner,whole,peel,inner
+3,Hydroxybenzoyl derivatives,Hydroxybenzoyl derivatives,,,,,,,,,,
+4,,mono-Hydroxybenzoylquinic acids,,,,,,,,,,
+5,22,3-O-p-hydroxybenzoylquinic acid (neonasipomic acid),3-pHbQA,0.550.02,3.210.13,0.210.01,0.030.00,0.030.00,ND,0.100.01,0.270.01,ND
+6,22,3-O-vanilloylquinic acid (neodaripomic acid) ds,3-VQA,0.090.00,0.290.02,0.060.00,ND,ND,ND,ND,ND,ND
+7,,5-O-p-hydroxybenzoylquinic acid (nasipomic acid),5-pHbQA,0.270.00,1.840.05,0.090.00,0.010.00,0.020.00,ND,0.030.00,0.120.00,ND
+8,5a,4-O-p-hydroxybenzoylquinic acid (cryptonasipomic,4-pHbQA,1.670.04,12.630.39,0.540.01,0.060.00,0.200.01,00,0.250.00,0.930.02,0.060.00
+9,,acid),,,,,,,,,,
+10,6a,5-O-vanilloylquinic acid (daripomic acids,5-VQA,0.030.00,0.100.00,0.020.00,ND,ND,ND,ND,ND,ND
+11,ga,4-O-vanilloylquinic acid (cryptodaripomic acid),4-VQA,0.110.00,0.490.02,0.080.00,0.010.00,0.030.00,ND,ND,0.010.00,ND
+12,,,Sub total,2.720.06,18.560.61,1.000.02,0.110.00,0.280.01,ND,0.380.01,1.330.03,0.060.00
+13,Hydroxycinnamoyl derivatives,Hydroxycinnamoyl derivatives,,,,,,,,,,
+14,Caffeoyl derivatives,Caffeoyl derivatives,,,,,,,,,,
+15,7,caffeic acid,CAs,2.720.02,13.560.13,1.050.00,12.940.03,75.300.18,0.830.01,5.060.01,21.930.05,0.800.00
+16,10,6-O-caffeoyl-fructosyl(1-2glucoside,6-CFG,0.410.00,0.190.00,0.350.02,0.030.00,0.050.00,ND,1.480.03,1.940.04,0.210.02
+17,,,Sub total,3.130.02,13.750.13,1.400.02,12.97,75.350.18,0.830.01,6.540.04,23.87,1.010.02
+18,,,,,,,0.03,,,,0.09,
+19,,mono-Hydroxycinnamoylquinic acids,,,,,,,,,,
+20,3c,3-O-caffeoylquinic acid (neochlorogenic acid),3-CQA,0.790.04,0.520.03,0.650.03,0.300.02,0.650.02,0.080.00,0.140.00,0.220.00,0.050.00
+21,9c,5-O-caffeoylquinic acid (chlorogenic acid),5-CQA,33.230.30,38.530.76,21.150.13,8.910.12,12.220.09,3.480.03,11.680.08,7.720.13,7.780.28
+22,11c,4-O-caffeoylquinic acid (cryptochlorogenic acid),4-CQA,0.160.01,0.190.01,0.120.00,0.200.00,0.440.00,0.050.00,0.060.00,0.130.01,0.030.00
+23,12c,5-O-feruloylquinic acid,5-FQA,5.360.10,2.150.04,4.390.10,1.140.01,1.060.00,0.810.01,0.370.00,0.230.00,0.320.01
+24,13b.c,5-O-caffeoylquinic acid methyl ester,5-CQM,0.320.01,0.490.03,0.250.03,0.120.00,0.240.01,0.040.00,12.42,0.160.02,0.110.01
+25,,,Sub total,39.860.46,41.880.87,26.56,10.67,14.610.12,4.460.04,12.42,8.460.16,8.290.30
+26,,,,,,0.29,0.15,,,0.09,,
+27,,di-Hydroxycinnamoylquinic acids,,,,,,,,,,
+28,15c,"3,4-di-O-caffeoylquinic acid (isochlorogenic acid B)","3,4-diCQA",7.140.05,7.410.29,4.690.09,4.670.01,12.180.55,0.350.00,2.070.02,4.860.14,0.260.00
+29,16c,"3,5-di-O-caffeoylquinic acid (isochlorogenic acid A)","3,5-diCQA",39.920.34,28.560.24,32.280.64,35.310.17,82.440.22,5.800.03,45.300.78,50.050.41,15.930.11
+30,18c,"4,5-di-O-caffeoylquinic acid (isochlorogenic acid C)","4,5-diCQA",2.180.09,6.070.03,0.870.03,3.640.04,13.160.06,0.120.00,1.090.00,2.920.08,0.130.00
+31,19,3-O-feruloyl-4-O-caffeoylquinic acid,"3F,4CQA",0.800.05,0.320.03,0.750.02,0.150.01,0.270.02,0.060.00,0.020.00,0.080.00,ND
+32,20,3-O-caffeoyl-4-O-feruloylquinic acid,"3C,4FQA",1.150.01,0.330.01,0.930.05,0.180.01,0.340.02,0.050.00,0.030.00,0.060.00,ND
+33,21,3-O-feruloyl-5-O-caffeoylquinic acid,"3F,5CQA",2.470.05,1.080.03,2.280.07,0.830.02,1.410.04,0.240.00,0.320.01,0.430.05,0.090.00
+34,22,3-O-caffeoyl-5-O-feruloylquinic acid,"3C,5FQA",4.640.02,0.660.01,4.490.07,1.300.01,2.430.00,0.320.00,0.500.00,0.700.01,0.180.01
+35,,di-Hydroxycinnamoylquinic acids,"4F,5CQA",,,,,,,,,
+36,25,4-O-feruloyl-5-O-caffeoylquinic acid,"4F,5CQA",2.450.03,9.800.39,0.750.07,0.440.00,1.360.01,0.040,0.330.00,0.730.01,0.070.00
+37,26,4-O-caffeoyl-5-O-feruloylquinic acid,"4C,5FQA",0.370.03,0.280.01,0.230.01,0.220.00,0.700.01,0.010,0.030.00,0.080.01,ND
+38,30b,"3,5-di-O-feruloylquinic acid","3,5-diFQA",0.210.01,0.470.01,0.110.00,0.030.00,0.070.00,ND,ND,0.030.00,ND
+39,33b,"4,5-di-O-feruloylquinic acid","4,5-diFQA",0.030.00,0.120.01,0.020.00,0.010.00,0.050.01,ND,ND,0.020.00,ND
+40,,,Sub total,61.360.68,55.101.06,47.40,46.78,114.41,6.990.03,49.69,59.96,16.660.12
+41,,,,,,1.05,0.27,0.94,,0.81,0.71,
+42,,tri-Hydroxycinnamoylquinic acids,,,,,,,,,,
+43,"23b,c","1,3,5-tri-0-caffeoylquinic acid","1,3,5-triCQA",0.330.02,0.420.02,0.260.02,0.370.01,1.020.03,0.040.00,0.170.00,0.340.01,0.030.00
+44,24b,"3-O-feruloyl-4,5-di-O-caffeoylquinic acid","3F,4,5",0.370.01,1.170.01,0.200.01,0.120.00,0.320.01,0.020.00,0.060.00,0.150.00,ND
+45,27b,,diCQA,,,,,,,,,
+46,27b,"3,5-di-O-caffeoyl-4-O-feruloylquinic acid","3,5-",4.600.11,7.530.22,3.960.04,1.610.01,3.610.08,0.260.00,1.070.08,2.350.02,0.190.01
+47,,,"diC,4FQA",,,,,,,,,
+48,29b,"3,4-di-O-caffeoyl-5-O-feruloylquinic acid","3,4-",0.830.03,1.210.02,0.710.02,0.170.00,0.420.00,0.050.00,0.110.00,0.320.01,0.020.00
+49,,,"diC,5FQA",,,,,,,,,

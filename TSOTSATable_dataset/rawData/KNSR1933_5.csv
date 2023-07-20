@@ -1,0 +1,18 @@
+,0,1,2,3
+0,Nutrient,Intralaboratory,Interlaboratory,Interlaboratory
+1,,"variability,RSD (%)",,"Variability,RSD(%"
+2,Linoleic acid,4.2,n/a,n/a
+3,Vitamin A,7.0,16.0,16.0
+4,Thiamine,8.2,4,
+5,Riboflavin,4.7,2,
+6,Niacin,4.5,12.3,12.3
+7,Vitamin B2,15,20,20
+8,Folic acid,10,18,18
+9,Biotin,11,16,16
+10,Vitamin C,10,6.8,6.8
+11,Iron,2.5,2.7,2.7
+12,Copper,13.2,4.8,4.8
+13,Manganese,3.2,4.5,4.5
+14,Potassium,2.7,2,
+15,Vitamin K,n/a,7.3,7.3
+16,lodine,n/a,3.0,3.0

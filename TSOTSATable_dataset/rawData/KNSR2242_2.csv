@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6
+0,Source,Sum of squares,DF,Mean square,F-value,P-value,Remarks
+1,Sequential model sum of squares,Sequential model sum of squares,,,,,
+2,Mean,392.82,1,392.82,,,
+3,Linear,45.27,3,15.09,2.65,0.0927,
+4,2FI,0.5326,3,0.1775,0.0242,0.9946,
+5,Quadratic,73.39,3,24.46,1531.64,<0.0001,Suggested
+6,Cubic,0.0825,3,0.0275,3.75,0.1172,Aliased
+7,Residual,0.0293,4,0.0073,,,
+8,Total,512.12,17,30.12,,,
+9,Lack of fit tests,,,,,,
+10,Linear,74.01,9,8.22,1120.98,<0.0001,
+11,2FI,73.47,6,12.25,1669.37,<0.0001,
+12,Quadratic,0.0825,3,0.0275,3.75,0.1172,Suggested
+13,Cubic,0.0000,0,,,,Aliased
+14,Pure error,0.0293,4,0.0073,,,
+15,source,Std. Dev.,R2,Adjusted R2,Predicted R2,Press,Remarks
+16,Model summary statistics,,,,,,
+17,Linear,2.39,0.3794,0.2362,0.0502,125.29,
+18,2FI,2.71,0.3839,0.0142,1.1311,254.24,
+19,Quadratic,0.1264,0.9991,0.9979,0.9886,1.37,Suggested
+20,Cubic,0.0856,0.9998,0.9990,,,Aliased

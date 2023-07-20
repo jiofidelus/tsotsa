@@ -1,0 +1,56 @@
+,0,1,2,3,4,5
+0,Compound,Min.,Max.,Mean,SDa,% RSDb
+1,C.subternatan=74,,,,,
+2,Iriflophenone-3-C-glucoside-4-O-glucoside (5),3.25,47.8,14.6b,11.8,81.0
+3,Mangiferin (22),0.291,5.80,1.53 d,1.43,93.4
+4,Isomangiferin (25),0.311,6.71,1.87 d,1.51,80.6
+5,Vicenin-2(26,1.16,5.42,2.70 c,0.954,35.3
+6,"3-Hydroxyphloretin-3',5'-di-C-hexoside(31",2.02,7.38,3.68 a,1.11,30.3
+7,Eriocitrin(32,1.64,12.9,5.12 a,2.12,41.5
+8,Scolymoside(35,2.23,28.6,14.6 a,6.85,46.8
+9,Phloretin-35'-di-C-glucoside(37,0.769,13.3,3.33,2.45,73.5
+10,Hesperidin 42,2.90,14.3,7.93 c,3.39,42.8
+11,Total polyphenols,94.6,364,216d,64.7,30.0
+12,TACDPPH,0.636,2.74,1.59 d,0.545,34.4
+13,Soluble solids,1.24,2.43,1.73 c,0.282,16.3
+14,C.maculata(n=80,,,,,
+15,Mangiferin (22),2.44,41.9,13.6 c,8.22,60.3
+16,Isomangiferin (25),2.09,20.8,10.4c,4.52,43.6
+17,Vicenin-2e (26,2.92,7.72,5.28 b,0.977,18.5
+18,Eriodictyol-O-hexoside (a),0.394,1.49,0.797,0.251,31.5
+19,Eriocitrin (32),1.55,10.6,4.40 ab,1.80,40.9
+20,Hesperidin(42,11.7,21.8,15.9 a,2.64,16.6
+21,Total polyphenols,103,394,269 c,71.4,26.5
+22,TACDPPH,0.583,3.33,1.99 c,0.646,32.5
+23,Soluble solids,1.26,2.40,1.84c,0.274,14.9
+24,C.longifolian=18,,,,,
+25,Iriflophenone-3-C-glucoside-4-O-glucoside (5),13.9,59.0,27.6 a,12.8,46.4
+26,Maclurin-3-C-glucoside6,ndh,1.83,0.302 b,0.559,186.7
+27,Iriflophenone-3-C-glucoside (13),0.953,3.29,2.26 b,0.715,31.9
+28,Mangiferin(22),25.9,203,68.9 b,54.3,78.8
+29,Isomangiferin (25),15.9,56.2,31.6 b,12.6,40.0
+30,Vicenin-2(26,6.55,10.4,7.90 a,1.03,13.1
+31,Eriocitrin (32),2.30,6.37,4.17 b,1.35,32.4
+32,"Tetrahydroxyxanthone-di-O,C-hexoside isomer A'(33",0.592,1.88,1.24,0.310,25.0
+33,Scolymoside(35),3.86,10.9,6.75 b,2.38,35.3
+34,Hesperidin (42),7.88,15.4,10.7 b,2.32,21.6
+35,Total polyphenols,294,719,496 a,127,25.6
+36,TACDPPH,1.95,5.44,3.51a,1.11,31.7
+37,Soluble solids,2.14,3.10,2.63 a,0.285,10.8
+38,C.genistoidesn=65,,,,,
+39,"Maclurin-di-O,C-hexoside(3)",0.221,2.39,0.974,0.552,56.7
+40,Iriflophenone-3-C-glucoside-4-O-glucoside(5,11.0,97.5,31.8 a,13.2,41.6
+41,Maclurin-3-C-glucoside(6,ndh,6.92,2.36 a,1.88,61.8
+42,Iriflophenone-3-C-glucoside(13),3.32,41.7,12.7 a,7.85,61.8
+43,Mangiferin (22,30.8,227,102 a,43.2,42.4
+44,Isomangiferin (25),16.7,71.2,35.3 a,9.52,27.0
+45,Vicenin-2 (26),3.26,7.57,5.58 b,0.886,15.9
+46,Naringenin-0-hexose-O-deoxyhexose isomer Ai(29,0.668,19.0,7.12,4.46,62.7
+47,Naringenin-O-hexose-O-deoxyhexose isomer Bi (30),0.797,17.8,7.99,4.53,56.7
+48,"3-hydroxyphloretin-3',5'-di-C-hexosidef(31)",0.694,2.62,1.60 b,0.432,26.9
+49,Tetrahydroxyxanthone-C-hexoside isomer' (b),0.403,1.97,1.01,0.367,36.5
+50,Hesperidin (42),4.20,15.9,10.5 b,2.61,24.9
+51,Tetrahydroxyxanthone-C-hexoside isomer'(c,0.252,1.62,0.769,0.308,40.1
+52,Total polyphenols,260,494,371 b,49.2,13.3
+53,TACDPPH,1.60,3.08,2.39 b,0.352,14.7
+54,Soluble solids,1.67,2.71,2.15 b,0.260,12.1

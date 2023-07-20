@@ -1,0 +1,7 @@
+,0,1,2,3,4
+0,Element,Certified concentration,Determined concentration,LOD,LOQ
+1,,(mg/kg),(mg/kg,(g/L),g/L)
+2,Cu,0.460.08,0.550.02,0.09,0.30
+3,Fe,1.81.1,2.20.3,0.57,1.88
+4,Se,0.1310.014,0.1340.007,0.04,0.13
+5,Zn,28.0 3.1,27.71.8,0.04,0.15

@@ -1,0 +1,28 @@
+,0,1,2,3
+0,Operating conditions,,,
+1,Nebuliser,Quartz concentric(Micromist400Lmin-1,Quartz concentric(Micromist400Lmin-1,
+2,Spray chamber,Scott-type double-pass water cooled,Scott-type double-pass water cooled,Scott-type double-pass water cooled
+3,Cell geometry,Octopole,,
+4,Sampling cone,"Nickel,1.0mm orifice","Nickel,1.0mm orifice",
+5,Skimmer cone,"Nickel,0.75mm orifice","Nickel,0.75mm orifice",
+6,RF power,1400-1500W,,
+7,Reflected power,<10W,,
+8,Standard mode,,,
+9,Plasma gas flow,,15Lmin-1,
+10,Nebuliser gas flow,,0.95-1.00Lmin-1,0.95-1.00Lmin-1
+11,Auxiliary gas flow,,0.99Lmin-1,
+12,Expansion stage,,2.0mbar,
+13,Intermediate stage,,2.010-4-3.010-4mbar,2.010-4-3.010-4mbar
+14,Analyser stage,,1.010-6-2.010-mbar,1.010-6-2.010-mbar
+15,Octopole bias,,-8V,
+16,Quadrupole bias,,-3V,
+17,He mode (collision cell mode,,,
+18,He gas flow,,,4.3 mL min-1
+19,Octopole bias,,,-18V
+20,Quadrupole bias,,,-15V
+21,Acquisition parameters,,,
+22,Mass range,,,2-260a.m.u
+23,Number of channels,,,500
+24,Dwell time,,,100s
+25,Number of sweeps,,,500
+26,Total acquisition time,,,219s

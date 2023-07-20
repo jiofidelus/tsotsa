@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,LLL,OLL,PLL,OLO,PPL,000,POO,PPO,PPP,soo
+1,Aegina,3.75 gh,13.05 cdef,2.82 def,24.12 abcd,0.81 cde,29.17 cdef,13.30 cde,1.64,0.38 abcd,2.20 bc
+2,Ajamy,5.39 cd,14.30 cd,3.83 ab,23.15 cde,0.92 bede,27.35 ef,12.34 efg,1.53,0.35 cd,1.73 de
+3,Albina,4.03 fgh,13.11 cdef,3.26 bcd,23.13 cde,1.00 abed,28.13 def,13.40 cde,1.85,0.47 abc,2.10 cd
+4,Ashoury,3.56 gh,12.13 efg,2.72 defgh,24.24 abed,0.75 cde,31.14 bede,12.91 def,1.46,0.42 abcd,2.04 cd
+5,Avdat,2.65,10.00 hi,2.04 h,22.92 de,0.63 e,33.69 ab,14.98 a,1.53,0.56 a,2.60 ab
+6,Avidon,5.97 c,17.27 b,4.00 b,24.98 ab,0.94 bede,23.12 8,11.13 gh,1.32,0.33 cd,1.18 fg
+7,Batoury,3.43 ghi,11.44 fgh,2.54 efgh,23.56 bede,0.78 cde,32.09 abcd,13.69 abede,1.57,0.27 de,2.33 cd
+8,Boundoky,3.27 hi,10.52 ghi,2.45 fgh,22.94 de,0.80 cde,32.96 abc,14.41 abc,1.68,0.39 abcd,2.25 bc
+9,Bronte,2.65 :,9.21 i,2.08 gh,22.22 e,0.75 cde,35.73 a,14.86 ab,1.66,0.36 bcd,2.84 a
+10,Iraq,4.18 fgh,12.99 def,2.80 defg,24.13 abcd,0.67 de,29.61 cdef,13.18 cde,1.60,0.39 abcd,2.21 bc
+11,Joley,4.02 fgh,12.59 def,2.86 def,23.64 bede,0.72 cde,29.75 cdef,13.37 cde,1.61,0.39 abed,2.35 bc
+12,Kastel,3.67 8h,11.77 fg,2.64 defgh,23.94 bede,0.72 cde,30.93 bede,13.54 bede,1.62,0.43 abcd,2.28 bc
+13,Kerman,5.15 cde,14.79 c,3.35 abc,25.69 a,0.79.cde,30.66 bede,11.73 fg,1.34,0.27 de,1.43 ef
+14,Larnaka,7.51 b,19.37 a,5.08 a,24.70 abc,1.17 ab,19.06 h,9.96 hi,1.32,0.00 f,0.95 gh
+15,Lathwardy,7.75 b,19.76 a,5.27 a,24.58 abed,1.26 a,18.56 h,9.68 i,1.40,0.00 f,0.72 h.
+16,Mateur,3.67 gh,12.17 efg,2.89 def,23.50 bede,0.79 cde,29.92 bedef,13.77 abed,1.78,0.44 abed,2.33 bc
+17,Napoletana,4.76 def,13.19 cdef,3.11 def,23.13 cde,0.81 cde,29.19 cdef,13.14 cde,1.57,0.43 abed,2.12 bc
+18,Ouleimy,4.15 fgh,12.69 def,3.03 def,23.15 cde,0.88 bede,29.22 cdef,13.83 abcd,1.80,0.39 abed,1.97 cd
+19,Sfax,9.13 a,20.54 a,5.62 a,23.64 bede,1.18 ab,17.46 h,9.40,1.36,0.15 ef,0.91 gh
+20,Sirora,4.30 efg,13.85 cde,3.03 def,23.49 bede,1.03 abc,26.35 fg,13.29 cde,1.89,0.55 ab,2.03 cd
+21,P value, 0.0001,<0.0001,< 0.0001,0.006,0.001,< 0.0001,<0.0001,0.477,<0.0001,<0.0001

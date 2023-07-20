@@ -1,0 +1,14 @@
+,0,1,2,3
+0,Compound Type and number (n),Origin (set 1),Origin (set 2),P-value
+1,,LRI,LRF,0.016
+2,E PAs/PANOs (n=17),LRI,LB,0.002
+3,,LRF,LB,5107
+4,,LRI,LRF,0.07
+5,L-type n=6,LRI,LB,3.10-11**
+6,,LRF,LB,6.10-13**
+7,,LRI,LRF,0.02
+8,S-type (n=9,LRI,LB,310-11**
+9,,LRF,LB,4106* *
+10,,LRI,LRF,0.99
+11,H-type (n=2,LRI,LB,0.53
+12,,LRF,LB,0.94

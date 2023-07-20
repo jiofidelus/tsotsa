@@ -1,0 +1,74 @@
+,0,1,2,3,4,5,6,7,8
+0,No.,Substances,R(min),nm,R(min),nm,,,Refs.
+1,,,C18,,C3o,,,,
+2,,Hydrocarbons,,,,,,,
+3,,-Carotene,39.30,"452,477 37.30","452,477 37.30",,"450,476aKhachik and Beecher,1987;Khachik et al.,1986;Khoo et al.,",,
+4,,,,,,,,,2011
+5,2,a-Carotene,38.90,"445,473",33.50,"445,472","bKhachik and Beecher,1987,1988; Khoo et al.,2011","445,472",
+6,3,&-Carotene,38.50,"416,439,468",29.60,415.439.468,"bBarbosa et al., 2008",415.439.468,"bBarbosa et al., 2008"
+7,4,-Carotene,38.40,"461,490",55.00,"460,489","bBarbosa et al., 2008; Khachik et al., 1989","460,489","bBarbosa et al., 2008; Khachik et al., 1989"
+8,5,B-Zeacarotene,38.90,"428,452",40.10,"426,452","b(Petzold et al., 1959; Simpson and Goodwin,1965)","426,452",
+9,6,8-Carotene,37.90,"431,455,486",50.50,"430,455,486","bBarbosa et al., 2008)","430,455,486","bBarbosa et al., 2008)"
+10,7,Lycopene,37.50,"445,471,502",73.10,,"445,471,502bKhachik and Beecher,1987;Tadmor et al.,2005;Vallverdu",,
+11,,,,,,,"Queralt et al.,2015",,"Queralt et al.,2015"
+12,8,-Carotene,38.50,"380,400,424",41.90,"380,400,424","bKhoo et al.,2011;Mouly et al.,1999;Tadmor et al.,2005","380,400,424",
+13,9,Torulene,38.39,"461,485,518",72.14,"461,485,518","bDavoi and Weber,2002","461,485,518","bDavoi and Weber,2002"
+14,,Hydroxycarotenoids,,,,,,,
+15,10,-Cryptoxanthin,32.90,"450,47625.80","450,47625.80",,"450,476aKhachik and Beecher,1988;Khoo et al.,2011",,"450,476aKhachik and Beecher,1988;Khoo et al.,2011"
+16,11,-Cryptoxanthin,32.50,"444,472",22.30,"441,472","aMouly et al.,1999","441,472","aMouly et al.,1999"
+17,12,(rac)-4-Hydroxy--carotene,33.23,"450,476",23.58,"450,476","450,476","450,476",
+18,13,Lycoxanthin,32.99,"445,470,501",62.43,"445,471,502","Cholnoky et al., 1968)","445,471,502","Cholnoky et al., 1968)"
+19,14,Lutein,21.80,"443,471",14.50,"443,471","Khachik et al., 1986; Khoo et al., 2011; Molnar et al.,2004a;","443,471",
+20,,,,,,,Saini et al.2015,,Saini et al.2015
+21,15,3'-Epilutein,23.50,"443,471",13.91,"444,471","Molnar et al.,2004a","444,471","Molnar et al.,2004a"
+22,16,Zeaxanthin,22.00,"449,475",16.90,"450,475","aKhachik et al.,1989;Saini et al.2015","450,475","aKhachik et al.,1989;Saini et al.2015"
+23,17,"(rac)-4,4'-Dihydroxy--carotene",23.50,"448,475",14.10,"449,475","449,475","449,475",
+24,18,Nigroxanthin,23.90,"442,471",14.20,"443,471","Deli et al.,1994;Deli et al.2001b","443,471","Deli et al.,1994;Deli et al.2001b"
+25,19,Karpoxanthin,9.90,"444,471",7.40,"422,443,472","Deli et al., 1992","422,443,472","Deli et al., 1992"
+26,20,6-Epikarpoxanthin,10.90,"444,471",7.80,"444,472","Deli et al., 1998b","444,472","Deli et al., 1998b"
+27,21,"5,6-Diepikarpoxanthin",12.10,"444,471",8.00,"444,472","Deli et al.2001b;Deli et al.,1998b","444,472","Deli et al.2001b;Deli et al.,1998b"
+28,,Epoxycarotenoids,,,,,,,
+29,22,"-Carotene 5,6-epoxide",36.00,"446, 472 26.10","446, 472 26.10","445,472",Achir et al.2014,"445,472",Achir et al.2014
+30,23,"-Carotene 5,6-epoxide",35.70,"418,441,468",22.50,"416,439,468","416,439,468","416,439,468",
+31,24,-Carotene 5.8-epoxide,35.99,"427,452",29.03,"427,452","427,452","427,452",
+32,25,"-Carotene 5,6,5',6'-diepoxide",31.61,"415,438,468",16.30,"415,438,468","415,438,468","415,438,468",
+33,26,"-Carotene 5,6,5',8'-diepoxide",31.61,"398,420,447",17.98,"398,421,448","398,421,448","398,421,448",
+34,27,"-Carotene 5,8,5',8'-diepoxide I",31.55,"380,400,424",20.49,"381,401,425","381,401,425","381,401,425",
+35,28,"-Carotene 5,8,5',8'-diepoxide II",31.80,"380,400,424",21.33,"380,400,425","380,400,425","380,400,425","e,f"
+36,29,"15-Dehydro--carotene 5,6-epoxide",35.10,"423,450",28.84,"424,450",,"424,450",
+37,30,"15,15'-Dehydro--carotene 5,6,5',6'-",30.70,"420,446",19.49,"420, 447","420, 447","420, 447",
+38,,epoxide,,,,,,,
+39,31,"(3S,5R,6S)--Cryptoxanthin 5,6-epoxide",31.12,"444,471",18.78,"445,471",Molnar et al.1997Turcsi et al.2015,"445,471",Molnar et al.1997Turcsi et al.2015
+40,,(anti),,,,,,,
+41,32,"(3S,5S,6R)--Cryptoxanthin 5,6-epoxide",30.72,"443,472",18.37,"445,471","Molnar et al.,1997","445,471","Molnar et al.,1997"
+42,,(syn),,,,,,,
+43,33,"(3S,5'R,6'S--Cryptoxanthin 5',6'",27.33,"443,471",15.85,,"444,472Molnar et al., 1997: Turcsi et al.,2015",,"444,472Molnar et al., 1997: Turcsi et al.,2015"
+44,,epoxide,,,,,,,
+45,34,"-Cryptoxanthin 5,8-epoxide",31.19,"427,452",21.79,"427,452","427,452","427,452",
+46,35,-Cryptoxanthin 5'8'-epoxide,27.2,"425,450",18.47,"427,451","427,451","427,451",
+47,36,"(3S,5R,6S,5'R,6'S)--Cryptoxanthin",24.75,"415,438,468",11.12,"415,438,468","415,438,468","415,438,468",
+48,,"5,6,5',6'-diepoxide",,,,,,,
+49,37,"(3S,5R,6S)-Antheraxanthin (anti)",17.60,"443,471",11.80,"444,471","Deli et al.,2001b","444,471","Deli et al.,2001b"
+50,38,"(3S,5S,6R)-Antheraxanthin (syn)",16.60,"443,471",11.30,"444,472","Molnar et al., 1999","444,472","Molnar et al., 1999"
+51,39,"(3S,5R,8S)-Mutatoxanthin",19.12,"426,451",13.88,,"426,452(Molnar et al., 1999,2000)","426,452(Molnar et al., 1999,2000)","426,452(Molnar et al., 1999,2000)"
+52,40,"(3S,5R,8R)-Mutatoxanthin",20.06,"426,451",14.98,"426,452","Molnar et al., 1999,2000","426,452","Molnar et al., 1999,2000"
+53,42,"(3S,5S,8R)-Mutatoxanthin",16.44,"426,451",11.19,"426,452","426,452","426,452",
+54,42,"(3S,5S,8S)-Mutatoxanthin",18.94,"426,451",13.62,"426,452","426,452","426,452",
+55,43,"(3S,5R,6S)-Lutein 5,6-epoxide (anti)",17.50,"414,437,467",9.80,"415,438,467","Deli et al., 1988; Khachik et al., 1989; Saini et al., 2015","415,438,467","Deli et al., 1988; Khachik et al., 1989; Saini et al., 2015"
+56,44,Chrysanthemaxanthin,19.30,"397,420,446",12.50,"397,420,446","397,420,446","397,420,446",
+57,45,Flavoxanthin,18.90,"397,420,446",11.80,"397,420,446","e(Khachik and Beecher, 1988)","397,420,446","e(Khachik and Beecher, 1988)"
+58,46.,Cucurbitaxanthin A,20.30,"443,471",11.50,"424,444,472","Deli et al., 2001b; Deli et al., 1996b)","424,444,472","Deli et al., 2001b; Deli et al., 1996b)"
+59,47,"(3S,5R,6S,3'S,5'R,6'S)-Violaxanthin (anti,",12.80,"415,438,467",8.20,"415,438468","Khachik et al., 1986; Kho0 et al., 2011; Molnar et al., 2004b","415,438468",
+60,,anti),,,,,,,
+61,48,"(3S,5S,6R,3'S,5'S,6'R)-Violaxanthin (syn,",10.90,"415,438,467",7.40,"415,438,468","Molnar et al., 2004b","415,438,468","Molnar et al., 2004b"
+62,,syn),,,,,,,
+63,49,Cycloviolaxanthin,16.82,"415,438,467",7.85,"415,438,468Deli et al.1996b;Deli et al.,1991","415,438,468Deli et al.1996b;Deli et al.,1991",,"415,438,468Deli et al.1996b;Deli et al.,1991"
+64,50,Luteoxanthin I,14.46,"398,420,447",9.65,"398,421,447e.f(Khachik and Beecher,1988)","398,421,447e.f(Khachik and Beecher,1988)",,"398,421,447e.f(Khachik and Beecher,1988)"
+65,51,Luteoxanthin II,14.83,"398,420,447",,,"e.fKhachik and Beecher,1988",,"e.fKhachik and Beecher,1988"
+66,52,Auroxanthin I,15.24,"380,400,425",11.09,"380,400,425 ef(Khachik and Beecher,1988)","380,400,425 ef(Khachik and Beecher,1988)","380,400,425 ef(Khachik and Beecher,1988)","380,400,425 ef(Khachik and Beecher,1988)"
+67,53,Auroxanthin II,15.79,"379,400,424",11.09,"380,400,425e.f(Khachik and Beecher,1988)","380,400,425e.f(Khachik and Beecher,1988)",,"380,400,425e.f(Khachik and Beecher,1988)"
+68,54,Auroxathin III,17.40,"380,400,425",13.38,"380,400,425e.f(Khachik and Beecher,1988)","380,400,425e.f(Khachik and Beecher,1988)","380,400,425e.f(Khachik and Beecher,1988)","380,400,425e.f(Khachik and Beecher,1988)"
+69,55,(all-E)-Neoxanthin,9.82,"416,440,468",7.29,"415,440,468aKhachik et al.,1986","415,440,468aKhachik et al.,1986","415,440,468aKhachik et al.,1986","415,440,468aKhachik et al.,1986"
+70,56,(9'Z)-Neoxanthin,11.70,"412,435,463",9.10,"412,435,463aKhachik et al.,1986;Khoo et al.,2011)","412,435,463aKhachik et al.,1986;Khoo et al.,2011)",,
+71,57,Fucoxanthin,9.08,449,4.82,,"bHeo et al.2010; Muradian et al.,2015",448,"bHeo et al.2010; Muradian et al.,2015"
+72,58,Fucoxanthol,4.56,457,4.82,,,457,

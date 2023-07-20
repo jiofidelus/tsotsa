@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Source,Df,Mean Sqa (Iron),Mean Sqa (Iron),,Mean Sqa (Zinc),Source,Df,Pooled Mean Sqa,Pooled Mean Sqa
+1,,,loc1,loc2,loc1,loc2,,,Iron,Zinc
+2,Block (ignoring Treatments),10,7261*,3574*,5341*,467*,Block,10,5159*,2528*
+3,Treatment (eliminating Blocks),82,1731*,1170*,496*,65*,Loc,1,"23,467*","18,791*"
+4,Treatment: Check,2,2339*,766,416*,7,Genotype,82,1464*,202
+5,Treatment: Test and Test vs. Check,80,1715*,1180*,498*,67*,Genotype x Location,82,1969*,637*
+6,Residuals,20,112,463,119,31,Residuals,50,494,258*

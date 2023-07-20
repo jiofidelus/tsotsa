@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7
+0,Extraction parameter,Procedure 1,Procedure 2,Procedure 3,Procedure 4,Procedure 5,Procedure 6,Optimized procedure
+1,Extraction volume 1 [mL],5,5,5,5,7.5,5,7.5
+2,Extraction volume 2 [mL],2.5,2.5,2.5,2.5,2.5,2.5,7.5
+3,Extraction volume 3 [mL],2.5,2.5,2.5,2.5,2.5,2.5,7.5
+4,Extraction temperature [C],80,60,80,80,80,80,60
+5,Temperature of HO [C],25,25,40,80,25,25,80
+6,Filtration,-,-,,-,-,+,+
+7,Recovery,9.7a,12.5a,13.3a,16.5a,20.1a,52.9b,64.1b
+8, SD [%], 0.11, 0.63, 0.96, 0.43, 2.6, 1.6, 8.0

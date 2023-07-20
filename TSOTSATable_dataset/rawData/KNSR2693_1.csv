@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7,8
+0,Cereal,,Analytical,Extraction,Mean_ Totall,Range,Range,,SEM4
+1,,,Method,Solvent,AR g/g,,,,
+2,Rye,Fluorimetry,Fluorimetry,Acetone,870,340,,9300,42
+3,Rye,,,Methanol,990,700,,62760,83
+4,,Gas Chromatography,Gas Chromatography,Acetone,1240,370,,59300,172
+5,,,,80% Ethanol,1240,370,,59300,172
+6,,,,Methanol,1180,520,,50660,127
+7,,HPLC,,Acetone,890,110,,1690,23
+8,,HPLC,,80% Ethanol,840,60,,490,9
+9,,,,Methanol,900,60,,360,7
+10,Wheat,Fluorimetry,Fluorimetry,Acetone,1840,620,,60300,104
+11,,,,80% Ethanol,2010,620,,60300,104
+12,,,,Methanol,2040,1260,,176940,140
+13,,Gas Chromatography,Gas Chromatography,Acetone,2010,870,,51160,191
+14,,,,80% Ethanol,2700,870,,118050,191
+15,,,,Methanol,2600,620,,47730,106
+16,,HPLC,,Acetone,2310,100,,1250,18
+17,,,,Methanol,2290,200,,6970,47

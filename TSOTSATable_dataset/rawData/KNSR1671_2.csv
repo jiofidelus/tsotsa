@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7
+0,Peak,tR (min),PDA Xmax(nm),[M-2H]-/[M]*,Formula [M]*,Error(ppm,MS2 characteristic ions in positive mode,Identification
+1,1,5.69,520,463.0889/465.1037,C21H21O12,2.037,MS[465]:303100,delphinidin 3-O-galactoside
+2,2,6.26,520,463.0886/465.1031,C21H21O12,0.747,MS[465]:303100,delphinidin 3-O-glucoside
+3,3,7.45,520,433.0782/435.0934,C2oH19O11,2.786,MS[435]:303100,delphinidin 3-0-arabinoside
+4,5,8.79,520,477.1040/479.1190,C22H23O12,1.247,MS2 [479]: 317100),petunidin 3-0-galactoside
+5,6,9.81,520,477.1039/479.1189,C22H23O12,1.038,MS2 [479]: 317100),petunidin 3-0-glucoside
+6,8,11.01,520,447.0938/449.1086,C23H25O12,0.762,MS2 [449]:317(100),petunidin 3-0-arabinoside
+7,10,11.97,520,491.1207/493.1343,C23H25O12,0.502,MS2[493]:331100),malvidin 3-O-galactoside
+8,13,13.09,520,491.1201/493.1345,C23H2sO12,0.907,MS2[493]:331100),malvidin 3-0-glucoside
+9,13,14.12,520,461.1097/463.1243,C25H27O13,1.754,MS2 [535]:331(100,malvidin 3-O-arabinoside
+10,22,24.52,520,533.1304/535.1444,C25H27O13,0.207,MS2 [535]:331(100,malvidin 3-O-acetylglucoside

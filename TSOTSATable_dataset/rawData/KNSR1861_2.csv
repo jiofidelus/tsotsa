@@ -1,0 +1,38 @@
+,0,1,2,3,4,5,6,7
+0,,,,,,Concentration (mg/100 g fruit) standard deviation,Concentration (mg/100 g fruit) standard deviation,Concentration (mg/100 g fruit) standard deviation
+1,Peak no,RT (min),[M-H],MS2 (m/z),Phenolic compounds,,,
+2,,,,,,Passion fruit,Pitanga,Mango
+3,1,2.52,299,"239,179,137,93",Hydroxybenzoyl glucose,<LOQ,LOQ,2.88  7.64E-4
+4,2,6.36,331,"271,169,129",Galloyl glucosea,2.60  3.70E-3,3.01 4.86E-2,1.96  5.14E-3
+5,3,6.64,633,"463,301",Galloyl-HHDP-glucosidea,,4.566.15E-5,2.86  4.76E-3
+6,4,6.92,329,"167,123,108",Orsellinic acid glucoside,<LOQ,,
+7,5,7.11,341,"179,163",Caffeoyl glucose,<LOQ,,-
+8,6,7.75,395,"349,179,135",Caffeic acid derivate,,0.11 8.54E-6,-
+9,7,8.08,401,"269,179,161",Apigenin pentosidef,<LOQ,,
+10,8,8.15,635,"465,313,169",Trigalloyl-glucosea,,5.12  3.12E-4,-
+11,9,8.24,325,"187,163",Coumaric acid glucoside,,0.14  2.65E-3,
+12,10,8.76,385,"223,208,179,164",Sinapic acid glucoside,0.15 5.51E-4,0.13  3.31E-3,0.20  3.93E-3
+13,11,9.44,457,"331,305,169",Epigallocatechin gallateb,,6.210.18,
+14,12,10.5,479,"317,316,179",Myricetin glucoside,,1.531.78E-2,0.96  2.04E-3
+15,13,11.2,449,"317,316,179",Myricetin arabinopyranoside,0.52  1.14E-3,1.08  5.58E-3,0.83  2.18E-3
+16,14,11.5,405,243,Piceatannol glucosidee,<LOQ,,
+17,15,11.7,521,329,Vanilloyl glucose derivate,,,<LOQ
+18,16,12.1,449,"317,316,179",Myricetin arabinopyranoside,5.418.76E-5,18.7 0.01,8.98  1.56E-3
+19,17,13.1,501,"454,307,163",Coumaric acid derivate,2.01  5.98E-3,,
+20,18,13.3,463,"301,300",Quercetin glucoside,4.09  7.93E-3,15.1  0.04,1.123.45E-5
+21,19,13.6,415,"409,179,135",Caffeic acid derivate,1.46  3.76E-2,0.14  3.91E-3,0.76  2.08E-3
+22,20,14.1,579,"417,166",Syringaresinol glucoside,,,0.15  6.09E-4
+23,21,14.3,433,"301,300",Quercetin pentosided,0.98 4.76E-3,<LOQ,-
+24,22,14.8,447,"285,284,255,256",Kaempferol glucosidef,,2.15  1.63E-3,
+25,23,15.3,433,301,Quercetin pentoside,,15.6  9.56E-4,3.27 5.48E-5
+26,24,15.9,447,"301,300",Quercetin rhamnose,,19.2 7.43E-4,-
+27,25,16.6,243,"225,201,175,159",Piceatannole,0.171.56E-5,,
+28,26,17.1,447,"301,179,151",Quercetin deoxyglucosided,,2.76 4.06E-4,
+29,27,17.3,449,"287,269,259",Dihydrokaempferol glucoside,,LOQ,
+30,28,18.2,615,"463,317",Myricetin-galloyl-deoxyhexose',,0.563.97E-4,
+31,29,19.5,317,"179,151",Myricetind,,0.78  5.78E-4,
+32,30,20.3,431,"285,255,151",Kaempferol rhamnosef,,<LOQ,
+33,31,24.2,599,"301,179,151",Quercetin-glucoside-protocatechuic acid,,LOQ,
+34,32,24.7,227,"185,157,143",Trans-resveratrole,0.061.56E-3,,-
+35,33,25.6,609,"301,179,151",Quercetin rutinosided,,<LOQ,-
+36,34,30.9,301,"179,151",Quercetind,,2.67  6.09E-4,-

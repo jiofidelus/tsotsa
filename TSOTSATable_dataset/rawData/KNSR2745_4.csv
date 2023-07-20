@@ -1,0 +1,9 @@
+,0,1,2,3,4
+0,Peak,Compound,tR(min),[M-H],Fragment
+1,,,,,ions(m/z)
+2,1,"Delphinidin 3,5-diglucoside",19.88,627,303
+3,2,"Cyanidin 3,5-diglucoside",22.96,611,287
+4,3,"Pelargonidin 3,5-diglucoside",25.73,595,271
+5,4,Delphinidin 3-glucoside,26.25,466,303
+6,5,Cyanidin 3-glucoside,29.18,449,287
+7,6,Pelargonidin 3-glucoside,31.52,433,271

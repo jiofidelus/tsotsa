@@ -1,0 +1,5 @@
+,0,1,2,3,4,5
+0,CLASS,Accuracy,Correlation,Sensitivity,Specificity,Precision
+1,LB,,,0.93 0.01,0.44  0.01,0.72 
+2,,0.74 ,0.44  0.02,0.93 0.01,0.44  0.01,0.02
+3,LR,0.01,,0.44  0.01,0.93  0.01,0.02

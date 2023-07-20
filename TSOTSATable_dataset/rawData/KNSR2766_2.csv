@@ -1,0 +1,11 @@
+,0,1,2
+0,Parameters,DPCSV,SWCSV
+1,Edeposition (V),-0.4,-0.4
+2,tdeposition (s),90,90
+3,Estart (V),-0.4,-0.4
+4,Eend (V),-0.7,-0.8
+5,Estep(V,-0.0067,-0.005
+6,Amplitude (V),0.08,0.08
+7,Interval time (s),0.067,0.017
+8,Scan ratemV s-,100,302
+9,Frequency (Hz),,60

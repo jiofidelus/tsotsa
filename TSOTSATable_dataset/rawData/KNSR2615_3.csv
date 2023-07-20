@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7
+0,Active materia,EDI (x10-5)(mg/kg bw/day),ADI (mg/kg bw/day),HQ(%),Active substance,EDI (x10-5 (mg/kg bw/day),ADI(mg/kg bw/day),HQ (%)
+1,Acetamiprid,1.380,0.070,0.020,Iprodione,1.288,0.060,0.021
+2,Acrinathrin,0.324,0.010,0.032,Kresoxim-methyl,0.334,0.400,0.001
+3,Azoxystrobin,1.361,0.200,0.007,Lambda cyhalothrin,0.361,0.005,0.072
+4,Boscalid,1.381,0.040,0.035,Lufenuron,0.334,0.015,0.022
+5,Bupirimate,0.334,0.050,0.007,Mepanipyrim,0.722,0.020,0.036
+6,Carbendazim,1.080,0.020,0.054,Metaflumizone,0.722,0.010,0.072
+7,Cymoxanil,0.901,0.013,0.026, Metalaxyl,0.611,0.080,0.008
+8,Cypermethrin,0.901,0.050,0.018,Methiocarb,0.586,0.013,0.045
+9,Cyproconazole,0.400,0.020,0.020,Methomyl,0.334,0.003,0.134
+10,Cyprodinil,1.308,0.030,0.016,Methoxyfenozide,0.334,0.100,0.003
+11,Cyromazine,0.964,0.060,0.005,Myclobutanil,1.056,0.025,0.042
+12,Chlorantraniliprole,0.722,1.560,0.001,Pymetrozine,1.056,0.030,0.035
+13,Chlorothalonil,0.722,0.015,0.048,Pyraclostrobin,1.308,0.030,0.044
+14,Chlorpyrifos,0.400,0.020,0.020,Pyridaben,0.334,0.010,0.033
+15,Chlorpyrifos-methyl,0.973,0.010,0.097,Pyrimethanil,0.973,0.170,0.006
+16,Diethofencarb,0.722,0.430,0.002,Pirimicarb,0.407,0.035,0.012
+17,Difenoconazole,1.289,0.010,0.129,Pyriproxyfen,1.056,0.100,0.011
+18,Dimetomorf,0.973,0.050,0.019,Procymidone,0.600,0.003,0.214
+19,Endosulfan,0.334,0.006,0.056,Propamocarb,1.118,0.290,0.004
+20,Fenarimol,0.722,0.012,0.060,Spinosad,0.324,0.024,0.014
+21,Fenarimol,0.242,0.010,0.024,Spiromesifen,1.056,0.030,0.035
+22,Fenhexamid,0.973,0.200,0.005,Tebuconazole,1.134,0.030,0.072
+23,Flonicamid,0.794,0.025,0.032,Tebufenpyrad,0.722,0.010,0.072
+24,Flubendiamide,0.722,0.017,0.042,Thiacloprid,0.722,0.010,0.012
+25,Fludioxonil,1.635,0.370,0.004,Thiametoxam,0.323,0.026,0.012
+26,Flupicolide,0.072,0.080,0.001,Thiophanate-methyl,0.722,0.080,0.009
+27,Flutriafol,1.056,0.010,0.106,Triadimenol,1.056,0.050,0.021
+28,Imidacloprid,1.453,0.060,0.024,Trifloxystrobin,0.407,0.100,0.004

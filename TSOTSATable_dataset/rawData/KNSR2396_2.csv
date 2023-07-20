@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Mean metabolite,Treatment group,,,
+1,concentration (mol g-),Ageing 1 week,,,
+2,fresh meat),Ageing 1 week,,Ageing 8 weeks,
+3,,Colour,Colour,Colour,Colour
+4,,stable,labile,stable,labile
+5,,3.15,2.15,3.25,1.76
+6,,1.61abc,1.39abc,1.86b,1.14c
+7,Trimethylamine,0.02,0.03,0.04,0.03
+8,,0.01a,0.02ab,0.02b,0.03ab
+9,Tryptophan,0.09,0.08,0.32,0.24
+10,,0.06a,0.05ab,0.11b,0.12ab
+11,Tyrosine,0.48,0.65,1.26,1.36
+12,,0.25a,0.32a,0.49b,0.81b
+13,Urea,3.25,4.19,3.59,3.15
+14,,1.58a,1.38a,1.60a,1.78a
+15,Uridine,0.10,0.10,0.16,0.12
+16,,0.04a,0.04ab,0.05b,0.06ab
+17,Valine,0.71,0.84,2.68,2.17
+18,,0.29a,0.38a,1.00b,1.11b
+19,myo-Inositol,1.81,2.07,2.02,1.92
+20,, 0.70a,0.68a,0.74a,1.17a
+21,sn-Glycero-3-,0.75,1.26,1.18,1.06
+22,phosphocholine,0.60a, 0.78a,0.61a,0.84a

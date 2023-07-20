@@ -1,0 +1,17 @@
+,0,1,2,3,4,5
+0,,,,ADI,,
+1,FD&C,Common,Chemical Class,US FDA,JECFA,EFSA
+2,Dye,Name,,,,
+3,,,,ADI,ADI,ADI
+4,,,,(mg/kg,(mg/kg,(mg/kg
+5,,,,bw/d),bw/d),bw/d
+6,Yellow,Tartrazine,Azo,0-5,0-7.5,0-7.5
+7,No.5,,,,,
+8,Yellow,Sunset,Azo,0-3.75,0-4,0-4
+9,No.6,Yellow,,,,
+10,Red No.,Allura Red,Azo,0-7,0-7,0-7
+11,40,,,,,
+12,Red No.,Erythrosine,Xanthene,0-2.5,0-0.1,0-0.1
+13,3,,,,,
+14,Blue,Brilliant,Triphenylmethane,0-12,0-6,0-12.5
+15,No.1,Blue,,,,

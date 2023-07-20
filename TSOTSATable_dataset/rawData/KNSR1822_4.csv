@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Temperatures (C),Durations (h),Durations (h),,,,,,,
+1,,1,,2,3,3,4,,5,6
+2,40,6.79  0.94eA,6.79  0.94eA,8.13  0.53dec,,13.24  1.60cB,17.90  1.30cc,,27.01  0.41bA,39.96  0.48aA
+3,60,6.82  1.21dA,6.82  1.21dA,14.06  0.86cA,,13.24  1.60cB,20.09  0.40bB,,13.52  1.74cc,36.46  0.88aB
+4,80,5.14  0.75eA,5.14  0.75eA,10.10  0.86dB,,18.80  1.71cA,37.75 1.28aA,,23.27  2.05bbB,16.40  1.51cc
+5,Two-way ANOVA analysis,,,,,,,,,
+6,,,Between temperatures,,Between treatment durations,Between treatment durations,,Interactions of temperatures x treatment durations,,
+7,F values,,5.189,,582.4,,,5.189,,
+8,,,ns,,***,,,***,,

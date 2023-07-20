@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6
+0,Peak number,Chemical name,Common name,RT,MS-IDa,RRTb,Matching(%)
+1,1,Hexadecanoic acid,Palmitic acid,11.42,NIST-14,1.236,98
+2,2,cis-9-Octadecenoic acid,Oleic acid,13.29,NIST-14,1.063,99
+3,3,"cis-9,cis-12-Octadecadienoic acid",Linoleic acid,13.34,NIST-14,1.058,99
+4,4,Octadecanoic acid,Stearic acid,13.44,NIST-14,1.051,98
+5,5,"cis-9,cis-12,cis-15-Octadecatrienoic acid",-Linolenic acid,13.56,NIST-14,1.041,99

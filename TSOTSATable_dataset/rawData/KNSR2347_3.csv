@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7
+0,,,Accuracy/precision,,,,,
+1,Sample,"Added, g L-1",Intra-day (n: 5),,,Inter-day (n: 3  5),,
+2,,,,Recovery%,RSD%,"a Found, g L-1",Recovery%,RSD%
+3,White wine,,3.8  0.2,,5.3,4.10.2,,4.9
+4,White wine,10,14.1  0.5,103,3.5,14.5  0.6,104,4.1
+5,Beer without alcohol,10,12.7  0.4,102,3.2,13.1  0.5,103,3.8

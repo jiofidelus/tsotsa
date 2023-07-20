@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,,,,,,Raw egg,,,,,Boiled egg,,,,
+1,Type,Modification,Amino acid,fmod,,aamod,aatot,,Modified amino acids,Modified amino acids,aamod,aarot,,Modified,
+2,,,,,,,,,,,,,,amino acids,
+3,Oxidative,Oxidation,CMFHWY,1,,15,272,,"C1/60,F4/86","C1/60,F4/86",9,143,,"F(4/57,M(1/23,","F(4/57,M(1/23,"
+4,,,,,,,,,"M3/30,W1/27,Y6/69","M3/30,W1/27,Y6/69",,,,"W3/28,Y1/35","W3/28,Y1/35"
+5,,Dioxidation,CFWY,2,,2,,,F(1/86),,4,,,W(2/28),
+6,,Trioxidation,C,3,,1,,,,,,,,,
+7,,Nitration,FHWY,3,,9,,,"F(2/86),Y(1/69)","F(2/86),Y(1/69)",12,13,,"F(3/57,H1/13)","F(3/57,H1/13)"
+8,Other,Kynurenine,W,3,,-,,,,,-,,,-,
+9,,Quinone,Y,3,,-,,,-,,-,,,,
+10,,Carbamylated,"KR, N-term",1,,-,,,,,-,,,,
+11,,Deamidated,NQ N-term,1,21,21,195,,"N14/114,Q7/81","N14/114,Q7/81",25,161,,"N19/95,Q6/66)","N19/95,Q6/66)"
+12,,Dehydrated,ST,1,,6,243,,"S5/131,T1/112","S5/131,T1/112",2,93,,S(2/93),
+13,,Carboxymethylated,K,1,,1,100,,K(1/100),,-,,,-,
+14,,,,,Raw egg,Raw egg,,,,,Boiled egg,,,,
+15,Overall modifi,,,,aamod,aamod,,aatot,,Ratio,aamod,,aatot,,Ratio
+16,cation scores,,,,,,,,,,,,,,
+17,,,Other,,26,,,272,,0.10,25,,156,,0.16
+18,,,Other,,28,,,538,,0.05,27,,254,,0.11
+19,,,Total,,54,,,810,,0.07,52,,410,,0.13

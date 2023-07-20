@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Compound,Concentration range,Regression Equation,R2,LODsa,LOQsb,SSE (%),Intra-day,Inter-day,Intra-day,Inter-day
+1,,mg/kg8 points,,,,,,n=5RSD%,n=5RSD%,n=5RSD%,n=5RSD%
+2,Nicotinic acid,0.005-10,y =88521.4x-2587.4,0.9996,0.0015,0.005,88.1,1.22,3.45,0.82,2.45
+3,Nicotinamide,0.005-10,y=116280.8+1411.2,0.9999,0.0015,0.005,91.0,2.31,4.52,1.31,3.92
+4,Riboflavin,0.001-10,y =55997.7 + 1793.6,1.000,0.0003,0.001,100.7,1.27,4.49,1.07,2.99

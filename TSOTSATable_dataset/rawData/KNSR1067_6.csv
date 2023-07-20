@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6
+0,Source,Sum of squares,Degree of freedom, Mean square,F-value,Prob>F,Significance
+1,Model,9.22,1,9.22,0.53,0.54,Significant
+2,X2 - Sample mass,424.57,1,424.57,24.18,0.03*,Significant
+3,X - Extraction duration,902.27,1,902.27,51.39,0.01*,Significant
+4,X4 - Extraction cycles,2014.22,1,2014.22,114.73,0.01*,Significant
+5,X2X3,120.28,1,120.28,6.85,0.12,
+6,X2X4,2093.05,1,2093.05,119.21,0.01*,Significant
+7,XzX4,519.71,1,519.71,29.60,0.03*,Significant
+8,X2XzX4,953.53,1,953.53,54.31,0.02*,Significant
+9,Pure error,35.11,2,17.55,,,
+10,Adjusted R2,97.91,,,,,
+11,Hyperoside,,,,,,
+12,Source,Sum of squares,Degree of freedom,Mean square,F-value,Prob>F,Significance
+13,Model,941.29,1,941.29,1158.61,0.0009*,Significant
+14,X2 -- Sample mass,272.61,1,272.61,335.55,0.0030*,Significant
+15,X -- Extraction duration,1938.78,1,1938.78,2386.38,0.0004*,Significant
+16,X4 - Extraction cycles,146.54,1,146.54,180.38,0.0055*,Significant
+17,XX3,161.82,1,161.82,199.18,0.0050*,Significant
+18,XX4,11.91,1,11.9072,14.66,0.0620,
+19,XX4,541.20,1,541.20,666.15,0.0015*,Significant
+20,X2XzX4,198.80,1,198.80,244.70,0.0041*,Significant
+21,Pure error,1.624,2,0.81,,,

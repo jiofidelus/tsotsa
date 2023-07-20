@@ -1,0 +1,23 @@
+,0,1
+0,Parameter,
+1,RF frequency,27.12 MHz
+2,Operating power,650W
+3,Coolant Ar flow,7.5L/min
+4,Plasma Ar flow,0.8 L/min
+5,Carrier Ar flow,0.8 L/min
+6,Torch type,Minitorch
+7,Nebulizer type,Meinhard
+8,Sample flow rate,2.3 mL/min
+9,Detection wavelengths (nm-1,
+10,Al,396.152
+11,Ba,455.403
+12,Ca,393.366
+13,Fe,259.940
+14,K,766.490
+15,Mg,279.553
+16,Mn,257.610
+17,Na,589.592
+18,P,214.914
+19,Sr,407.771
+20,Zn,213.856
+21,Cu,324.754

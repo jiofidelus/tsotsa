@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,Reference,Linear range (mol L-,Detection limit (mol L-1,Response time (s),pH range,Conditioning time
+1,Ansari et al.(2012),4.5 x 10-8-1.0 x 10-2,2.0 x 10-6,20,4.0-7.0,24 h
+2,Afkhami et al.(2014),4.5 x 10-8-1.0 x 10-2,2.34 x 10-8,10,3.56.0,24h
+3,Ghaedi et al.2012,5.0  10-8_1.0 x 10-1,4.0  10-8,10,2.5-5.5,Not mentioned
+4,Baig and Khan (2015),1.0  10-8-1.010-1,1.010-8,14,2.56.5,57 days
+5,Birinci et al.2016,1.0 10-6-1.0  10-1,4.9 x 10-7,<10,3.56.0,1 day
+6,Ghaedi et al.2013,6.0 x 10-8-1.0  10-1,4.0  10-8,<10,2.05.0,Not mentioned
+7,This work,1.0  10-10-1.0  10-5,7.9  10-11,9,7.011.0,3h

@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Round no.,Sample code,Sample type,Sample description,Total solids content %,Fat content (%)
+1,Round I,A,Single sample,Light coconut milk,<13,<10
+2,,B,Single sample,Coconut cream,2637,2028
+3,,C,Single sample,Coconut milk powder,>80,>30
+4,Round II,No.1,Blind duplicates,Light coconut milk,<13,<10
+5,,No.5,,,,
+6,,No.2,Blind duplicates,Coconut milk,13-25,10-19
+7,,No.6,,,,
+8,,No.3,Blind duplicates,Coconut cream,2637,2028
+9,,No.7,,,,
+10,,No.4,Blind duplicates,Coconut milk powder,>80,>30
+11,,No.8,,,,

@@ -1,0 +1,60 @@
+,0,1,2,3,4
+0,Individual,Consumption,Mean daily intake (mg/day)a,Mean daily intake (mg/day)a,
+1,food group,(g/day),Ubiquinol-,Ubiquinone-,Total
+2,,,10,10,CoQ1ob
+3,Meat,,,,
+4,Beef,15.8,0.130,0.426,0.556
+5,Pork,26.9,0.377,0.414,0.791
+6,Chicken,20.4,0.270,0.159,0.429
+7,Offal meat,1.6,0.100,0.094,0.194
+8,Subtotal,,0.88,1.09,1.97
+9,Fish and shellfish,,,,
+10,Mackerel and,11.7,0.098,0.498,0.595
+11,sardine,,,,0.022
+12,Salmon,3.9,0.001,0.021,0.022
+13,Sea bream and,7.0,0.008,0.011,0.019
+14,right eye,,,,
+15,flounder,6.5,,,
+16,Tuna,6.5,0.003,0.028,0.032
+17,Other fish,9.7,0.132,0.093,0.224
+18,Shellfish,4.5,0.007,0.011,0.019
+19,Cuttlefish,6.2,0.012,0.013,0.025
+20,"Prawns,",5.4,0.004,0.005,0.009
+21,shrimps and,,,,
+22,crabs,,,,
+23,Canned,2.3,0.034,0.001,0.034
+24,seafood,,,,
+25,Fish paste,11.3,0.005,0.009,0.014
+26,products,,,,
+27,Subtotal,,0.31,0.69,0.99
+28,Vegetables,,,,
+29,Tomato,14.9,0.000,0.000,0.000
+30,Spinach,36.1,0.000,0.046,0.115
+31,Other deep,36.1,0.069,0.046,0.115
+32,yellow,,,,
+33,vegetables,,,,
+34,Cabbage,21.3,0.047,0.018,0.065
+35,Cucumber,10.3,0.000,0.001,0.001
+36,Japanese,38.6,0.024,0.004,0.028
+37,radish,,,,
+38,Onion,27.2,0.010,0.008,0.018
+39,Chinese,19.1,0.056,0.029,0.086
+40,cabbage,,,,
+41,Other yellow,44.4,0.070,0.047,0.116
+42,vegetables,,,,
+43,Subtotal,,0.28,0.16,0.44
+44,Fruits,,,,
+45,Cherries,0.10,0.000,0.000,0.000
+46,Citrus,29.2,0.028,0.006,0.034
+47,Banana,11.7,0.003,0.007,0.010
+48,Apple,24.2,0.015,0.014,0.029
+49,Other fruits,35.8,0.067,0.117,0.184
+50,Subtotal,35.8,0.11,0.14,0.26
+51,Potatoes,,,0.008,
+52,White,7.1,0.013,0.008,0.021
+53,potatoes,,,,
+54,Sweet,28.5,0.019,0.011,0.030
+55,potatoes,,,,
+56,Other,22.4,0.027,0.014,0.040
+57,potatoes,,,,
+58,Subtotal,,0.06,0.03,0.09

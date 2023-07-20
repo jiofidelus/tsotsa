@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,,Calibration set (n = 206),Calibration set (n = 206),Prediction set (n = 68),Prediction set (n = 68),RPD
+1,Index,Spectral Pretreatment,,,R2c,RMSEC,R2p,RMSEP,RPD
+2,Volatile oil,1st D 5a,3,0.326,0.866,0.315,0.839,0.378,2.50
+3,Sanshoamides,SG-Smoothing (7)a,9,2.24,0.799,2.22,0.822,2.52,2.20
+4,Crack rate,1st D (5)a+ SNV,6,6.87,0.820,6.15,0.826,6.60,2.07

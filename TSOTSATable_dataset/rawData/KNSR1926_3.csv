@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,,kind of sample,manufacturer,,soluble oxalate,soluble oxalate
+1,,,,n,mean,SD
+2,iced tea,,,,,
+3,"black tea,apple","water, black tea extract, apple juice, ready-to-drink",Lipton,1,1.58,
+4,"black tea, lemon","water, black tea extract,flavour, ready-to-drink",Flight; Hardthof; Euroshopper,3,0.65,0.21
+5,"black tea,lemon","water, black tea extract, lemon juice, ready-to-drink",Comet; Natreen; Lipton,3,1.38,0.41
+6,"black tea, lemon-lime","black tea, lemon and lime juice, ready-to-drink",Pfanner,1,0.92,
+7,"black tea,peach","water, black tea extract, flavour, ready-to-drink",A&P;Flight,2,0.83,0.29
+8,"black tea,peach","water, black tea extract, lemon and peach juice, ready-to-drink",Comet,1,1.15,-
+9,"black tea,lemon,instant","black tea extract, lemon fruit powder; 7 g instant powder/100 mL",Kriiger,1,0.53,
+10,"black tea, peach, instant","black tea extract, flavour; 7 g instant powder/100 mL",Kriiger,1,0.73,-
+11,"green tea,grapefruit","water, green tea extract, flavour, ready-to-drink",Lipton,1,1.96,
+12,"green tea, lemon-prickly pear","green tea, apple and lemon juice, ready-to-drink",Pfanner,1,1.06,
+13,"red tea blend, lemon-lotus blossom","hibiscus, rooibos and pu-erh tea, apple and lemon juice, ready-to-drink",Pfanner,1,0.28,

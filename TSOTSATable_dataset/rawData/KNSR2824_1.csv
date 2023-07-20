@@ -1,0 +1,29 @@
+,0,1,2,3,4,5
+0,Techniques,Electrode,Analyte,Linear range,LOD (M),Ref
+1,,,,(M),,
+2,Cyclic voltammetry,Graphene-CHI/GCE,Glucose,80-12000,20,"Kang et al.,2009"
+3,Differential pulse voltammetry,PdNPs/GR/CHI GCE,Ascorbic acid dopamine,100-4000,20,"Wang et al.,2013)"
+4,,,uric acid,,,
+5,Cyclic voltammetry,GNPs/GN-CHI/GCE,Hydrogen peroxide,5-35000,1.6,"Jia et al.,2014"
+6,Cyclic voltammetry,CuFe2O4/CHI/GCE,8-hydroxyguanine,0.025697.175,0.0086,"Chen et al.,2020"
+7,Cyclic voltammetry,GCE/HA/CHI,Copper ions,4000-20000,10,"Tran et al.,2020"
+8,Cyclic voltammetry,AuNPs/CHI-MWCNTs/GCE,DNA,1-910-8,7.2  109,"Heydarzadeh et al.,2020"
+9,Cyclic voltammetry Impedance,MWCNTs-CHI,Cadmium,0.0088-0.44,0.0008,"Solis and Galicia,2020)"
+10,spectroscopy,,,,,
+11,Differential pulse voltammetry,P(CHI)-CuNPs-CuE,Mefenamic acid,0.01-10,0.001,"Farshchi et al.,2020"
+12,,,Indomethacin,,,
+13,Cyclic voltammetry,NDG/CHI/GCE,Azathioprine,0.21,0.06,"(Shahrokhian and Ghalkhani,"
+14,,,,,,2010
+15,Cyclic voltammetry,Magnetic iron nanoparticles/CHI/hemoglo,Acrylamide,10-171,0.06,"Navarro et al., 2020)"
+16,,bin nanocomposite,,,,
+17,Differential pulse voltammetry,Sn/CHI/PGE,Flavins,0.01-1.2,0.005,"(Nagarajan and Vairamuthu,"
+18,,,,,,2021)
+19,Differential pulse voltammetry,CHI/PGE,Daunorubicin,4.718,0.60,"Congur et al.,2019)"
+20,Differential pulse voltammetry,CHI-CNP-PGE,Piroxicam,0.05-50,0.025,"Shahrokhian et al.,2010"
+21,Differential pulse voltammetry,CHI/MWCNT/SPGE,Lactate,30.4-243.9,22.6,"(Hernandez-Ibaniez et al.,"
+22,,,,,,2016)
+23,Differential pulse voltammetry,GR-CHI,Dopamine,0.0320.06,0.0045,"Palanisamy et al., 2016"
+24,Differential pulse voltammetry,MoS/CHI/GOx-Gelatin/PGE,Glucose,10-800,3.18,"Altuntas and Kuralay,2021)"
+25,Differential pulse voltammetry,NiNPs/CHI-MWCNTs/PGE,Insulin,0.5-5,0.26,"Sisolakova et al.,2019"
+26,Differential pulse voltammetry,Au-Pt NPs/GO-CHI/PGE,Zidovudine,10-8-0.01,3  10-6,"Hasanjani and Zarei,2021"
+27,Differential pulse voltammetry,PGE/CHI,Flubendiamide,0.5-10,0.005,This work

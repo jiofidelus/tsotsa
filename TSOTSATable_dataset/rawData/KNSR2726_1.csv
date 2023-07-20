@@ -1,0 +1,43 @@
+,0,1,2,3,4,5
+0,Peak no.,RI,Compounds,CAS no.,IDa,Functional group
+1,1.,646,"EthanethiolB,Wo",75-08-1,A,Thiol
+2,2.,723,PropanethiolB.Wo,107-03-9,B,Thiol
+3,3.,797,"Ethyl acetateB,Wo,M,We",141-78-6,B,Ester
+4,4.,824,"Methyl propanoateB,Wo,We,J",554-12-1,B,Ester
+5,5.,839,1-(methylthio)-propane,3877-15-4,A,Thioacetal
+6,6.,875,"EthanolB,J",64-17-5,B,Alcohol
+7,7.,903,"Ethyl propanoateB,W.",105-37-3,B,Ester
+8,8.,918,,97-62-1,B,Ester
+9,9.,928,Propyl acetatew.,109-60-4,B,Ester
+10,10.,943,Methyl butanoateW.,623-42-7,B,Ester
+11,I1.,978,"Methyl 2-methylbutanoateB,Wo,We",868-57-5,B,Ester
+12,12.,1015,Ethyl butanoateB.Wo,105-54-4,B,Ester
+13,13.,1025,Propyl propanoateB.W.,106-36-5,B,Ester
+14,14.,1037,"Ethyl 2-methylbutanoateB,M,Wo,N,We,J",7452-79-1,B,Ester
+15,15.,1054,Ethyl 3-methylbutanoateB.Wo,108-64-5,B,Ester
+16,16.,1109,"S-ethyl ethanethioateWo,We.N",625-60-5,B,Thioester
+17,17.,1057,Propyl butanoateWo,105-66-8,B,Ester
+18,18.,1094,"Propyl 2-methylbutanoateB.Wo,We,N",37064-20-3,A,Ester
+19,19.,1140,Propyl 3-methylbutanoateWe,557-00-6,A,Ester
+20,20.,1150,Ethyl 2-butenoateWo,10544-63-5,A,Ester
+21,21.,1160,S-propyl ethanethioateWo,2307-10-0,A,Thioester
+22,22.,1172,"Methyl hexanoateWo,J",106-70-7,B,Ester
+23,23.,1176,3-methylbutyl propanoate,105-68-0,B,Ester
+24,24.,1197,"Diethyl disulfideM,Wo,We,N",110-81-6,B,Disulfide
+25,25.,1215,"Methyl propyl disulfideWo,N",2179-60-4,A,Disulfide
+26,26.,1221,"Ethyl hexanoateWo,We,J,N",123-66-0,A,Ester
+27,27.,1289,"Ethyl propyl disulfideM,Wo,J,N",30453-31-7,A,Disulfide
+28,28.,1315,Propyl hexanoate,626-77-7,B,Ester
+29,29.,1325,Ethyl heptanoateW.,123-66-0,A,Ester
+30,30.,1344,1-(ethylthio)-1-(methylthio) -ethaneN,,c,Thioacetal
+31,1.,1375,Dipropyl disulfideN,629-19-6,A,Disulfide
+32,2.,1412,Methyl octanoateW.,111-11-5,A,Ester
+33,33.,1431,"Ethyl octanoateWo,N,",106-32-1,A,Ester
+34,34.,1520,"Diethyl trisulfideM,Wo,N",3600-24-6,A,Trisulfide
+35,35.,1602,"Ethyl propyl trisulfideM.Wo,N",,c,Trisulfide
+36,6.,1623,"3,5-dimethyl-1,2,-trithiolaneWo,We,J",23654-92-4,A,Thiolane
+37,,,isomer 1,,,
+38,37.,1642,"3,5-dimethyl-1,2,-trithiolaneWo,We,j",23654-92-4,A,Thiolane
+39,,,(isomer 2),,,
+40,38.,1721,Dipropyl trisulfideN,6028-61-1,A,Trisulfide
+41,39.,1765,"1,1-bis(ethylthio)-ethaneN",4252-42-7,A,Thioacetal

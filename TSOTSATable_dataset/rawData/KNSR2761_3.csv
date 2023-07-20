@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7
+0,Cultivarcv.),Maceration,Anthocyanins,Tannins,Small Polymeric,Large Polymeric,Total Polymeric,Total phenolics
+1,,technique,(mg/L),(mg/L),Pigments (AU),Pigments (AU),Pigments (AU),(mg/L)
+2,Cabernet,Control,2105aa,21342a,2.03  0.03 a,0.99  0.12 a,3.03  0.12 a,839  26 a
+3,Sauvignon,CS+10d,2559 a,19016a,1.970.01 a,0.950.03a,2.920.03 a,67330 ab
+4,,p-value,0.003b,0.015,0.233,0.005,0.005,0.016
+5,,Control,39011c,37519 a,1.92  0.05 a,0.83  0.15 a,2.70  0.13 a,1198148 a
+6,Malbec,CS+5d,5125b,30021a,1.69  0.11 a,0.57  0.08 a,2.26  0.07 b,1264 137 a
+7,,CS+10d,562  19 a,31430a,1.350.12b,0.63  0.05 a,1.98  0.12 b,1280  50 a
+8,,p-value,0.001,0.146,0.017,0.271,0.008,0.881
+9,,Control,288  4 a,799  8 a,1.92  0.07 ab,1.63  0.12 a,3.55 0.14 a,2113  72.55 a
+10,Merlot,CS+5d,328  21 a,566  49 b,2.25  0.10 a,1.53  0.11 a,3.78  0.21 a,1730110b
+11,,CS+10d,307  13 a,824  93 a,1.880.11 b,1.660.17 a,3.54  0.26 a,2371130 a
+12,,p-value,0.232,0.046,0.073,0.811,0.683,0.124

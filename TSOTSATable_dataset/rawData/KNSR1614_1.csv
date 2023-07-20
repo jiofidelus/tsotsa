@@ -1,0 +1,68 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,Nos.,,RIs,Compounds,Amounts (g/L),Amounts (g/L),,,Odors2,NIF (%),,,,Identification
+1,Nos.,,RIs,Compounds,si,F,R,P,Odors2,S,F,R,P,methods3
+2,,,,sulfur-containing,,,,,,,,,,
+3,1,,1049,dimethyl disulfide,5.39a,34.5 ,3.93c,66.2 ,onion,100,88,81,88,"MS,RI,O,STD"
+4,,,,,5.39a,4.14d,3.93c,4.92b,,,,,,
+5,2,,1270,"3,4-dimethylthiophene",173 ,53.3 ,128 ,127,onion,44,13,31,31,"MS,RI,OSTD"
+6,,,,,24.5a,4.95c,6.07b,17.1b,,,,,,
+7,3,,1195,"2,5-dimethylthiophene",51.0 ,29.6 ,1141a,22.7 ,roasted,19,13,44,13,"MS,RI,O,STD"
+8,,,,"1,3-dithiane",189,3.34c,79.8 ,2.68c,sulfury,,,,,
+9,4,,1312,"1,3-dithiane",189,104,79.8 ,205 ,sulfury,94,81,75,94,"MS,RI,O"
+10,,,,,36.6a,18.6b,4.73c,12.5a,,,,,,
+11,5,,1382,2-ethyl-4-methylthiazole,12.1 ,4.25 ,9.52 ,,rice,38,13,25,,"MS,RI,O,STD"
+12,,,,,118,0.37c,48.3 ,,,,,,,
+13,,,1411,dimethyl trisulfide,118,44.3,48.3 ,67.8 ,sulfur,94,75,75,81,"MS,RI,O,STD"
+14,,,,,2.65a,3.78c,5.69c,2.96b,,,,,,
+15,7,,1706,methyl (methylthio)methyldisulfide,32.0 ,,,,sulfur,50,,-,,"MS,RI,O"
+16,,,,,7.24,,,,,,,,,
+17,8,,2308, 4-methyl-5-thiazoleethanol,5.35 ,0.85,5.67,3.33,sulfur,44,63,63,44,"MS,RI,O"
+18,,,,Subtotal,737,287,442,495,,,,,,
+19,,,,Nitrogen containing heterocyclic,,,,,,,,,,
+20,9,,1228,2-methylpyridine,29.0 ,,7.84,6.97 ,stink,25,-,13,13,"MS, RI,O, STD"
+21,,,,,5.81a,,0.51b,2.24b,,,,,,
+22,10,,1286,methylpyrazine,,,33.0 ,85.49 ,roasted,-,,88,100,"MS,RI,O,STD"
+23,,,,,,,1.97b,54.2 ,,,,,,
+24,11,,1353,"2,5-dimethylpyrazine",,,22.6 ,54.2 ,peanut,-,-,56,75,"MS,RI,O,STD"
+25,,,,,,,5.01b,6.64a,,,,,,
+26,12,,1359,"4,6-dimethylpyrimidine",57.7 ,,,54.2 ,,-,-,,,"MS,RI,O"
+27,,,,,2.17a,,,11.7 ,,,,50,69,
+28,13,,1426,2-ethyl-6-methylpyrazine,18.2 ,,8.06 ,11.7 ,roasted,75,-,50,69,"MS,RI,O,STD"
+29,,,,,4.69a,,0.83c,1.41b,,,,,75,
+30,14,,1446,trimethylpyrazine,34.8 ,,,28.0 ,roasted,75,-,-,75,"MSRI,O"
+31,,,,,4.06a,,,1.82b,,,,,,
+32,15,,1493,"3-ethyl-2,5-dimethylpyrazine",23.1 ,5.51 ,8.84 ,17.1 ,roasted,69,25,31,63,"MS,RI,O,STD"
+33,,,,,2.55a,0.64d,0.64c,0.81b,,,,,,
+34,16,,1535,2-ethenyl-6-methylpyrazine,,,,3.19 ,roasted,-,-,,19,"MS,RI,O"
+35,,,,,,,,0.56,,,,,,
+36,17,,2003,2-acetylpyrrole,10.47 ,,,,walnut,56,-,-,-,"MS,RI,O,STD"
+37,,,,,1.04,,,,,,,,,
+38,18,,2291,"2,3-dihydro-3,5-dihydroxy-6-",,,103,96.7 ,,,,,,"MS,RI,O,STD"
+39,,,,methyl-4H-pyran-4-one,,,183,32.9a,,,,,,
+40,,,,Subtotal,144,34.6,183,357,,,,,,
+41,,,,oxygen-containing heterocycles,,,,,,,,,,
+42,19,,1249,2-pentylfuran,101,35.05,52.6 ,56.8 ,caramel,94,56,69,69,"MS,RI,O,STD"
+43,,,,,11.4a,1.53c,4.55b,3.65b,,,,,,
+44,20,,1496,furfural,107,,45.3 ,72.1 ,caramel,88,-,75,81,"MS,RI,O,STD"
+45,,,,,21.3a,,3.45c,16.29b,,,,,,
+46,21,,1549,2-acetylfuran,11.4 ,7.89 ,,8.97 ,"almond,",44,31,,31,"MS,RI,O,STD"
+47,,,,,2.41a,0.6b,,1.4ab,roasted,,,,,
+48,22,,1723,2-furanmethanol,37.5 ,15.8 ,17.6 ,24.8 ,caramel,56,44,44,50,"MS,RI,OSTD"
+49,,,,,1.69a,1.81c,3.15c,3.77b,,,,,,
+50,23,,1948,5-butyldihydro-2(3H)-furanone,,,18.1 ,,peach,,-,75,-,"MS, RI,O"
+51,,,,,,,0.92,,,,,,,
+52,24,,2105,2.5-dimethyl-4-hydroxy-32H),24.8 ,8.4 ,10.19 ,7.74 ,strawberry,88,75,75,70,"MS,RI,O,STD"
+53,,,,furanone,7.68a,0.91c,0.86b,1.54c,,,,,,
+54,25,,2350,"2,3-dihydrobenzofuran",,,,23.8  1.0,,-,-,-,,"MS,RI,O"
+55,,,,Subtotal,281,67.2,144,194,,,,,,
+56,,,,aldehyde,,,,,,,,,,
+57,26,,1061,hexanal,,85.1 ,,38.6 ,green,,94,,88,"MS,RI,O,STD"
+58,,,,,,9.73a,106 ,220 ,,,,,,
+59,27,,1070,2-methyl-2-butenal,294 ,305 ,106 ,220 ,green,100,100,94,100,"MS,RI,O"
+60,,,,,50.3a,46.8a,17c,13.1b,,,,,,
+61,28,,1150,2-methyl-2-pentenal,11.7 ,57.0 ,,,green,63,69,,,"MS,RI,O"
+62,,,,,1.68b,34.5 ,,,,,,,,
+63,29,,1229,(E)-2-hexenal,,34.5 ,1.1 ,,green,,69,6,,"MS,RI,OSTD"
+64,,,,,,2.52a,0.1b,,,,,,,
+65,30,,1353,(E-2-heptenal,127 ,262 ,,,"green, fatty",94,100,,,"MS,RI,O,STD"
+66,,,,,5.07b,15.4a,,,,,,,,

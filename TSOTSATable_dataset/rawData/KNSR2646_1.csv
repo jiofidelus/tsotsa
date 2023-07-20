@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,Peak #,Compound,Rr(min),Quantitation,Calibration
+1,,,,wavelength (nm),range (mg/L)
+2,1,Hydroxytyrosol,6.6,280,0.01-20.0
+3,,,,,1.0-100a
+4,2,Tyrosol,10.1,280,0.1-50.0
+5,3,Caffeic acid,13.5,320,0.02-4.0
+6,4,Verbascoside,19.5,320,0.1-20.0
+7,5,Luteolin-7-,21.5,365,0.1-20.0
+8,,glucoside,,,
+9,6,Rutin,23.0,365,0.1-20.0
+10,7,Oleuropein,23.5-25.2,280,n/a
+11,,aglyconeb,,,
+12,8,Oleuropein,25.9,280,0.5-250.0
+13,9,Quercitrin,26.5,365,0.05-10.0
+14,10,Ligstrosideb,31.0,280,n/a

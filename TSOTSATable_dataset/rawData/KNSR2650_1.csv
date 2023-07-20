@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7
+0,Protein,Theoretical digested peptides,Identified peptides,Sequence coverage*(%),Transferred to TQMS,,With sufficient sensitivity,UniProtKB entry numbers
+1,MRJP1,28,28,76.6,15,10,10,077061
+2,MRJP 2,35,28,72.0,18,8,,077061
+3,MRJP 3,30,21,55.5,13,7,,Q17060
+4,MRJP 4,31,14,37.7,10,2,,Q17061
+5,MRJP 5,32,11,22.7,7,4,,097432
+6,MRJP 6,28,3,5.9,1,1,,Q6W3E3
+7,MRJP 7,31,6,10.3,4,2,,Q6IMJ9
+8,MRJP 9,244,1,1.7,1,0,,B3GM12
+9,Total,244,108,/,69,34,34,/

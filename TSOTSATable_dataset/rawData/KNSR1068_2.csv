@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Region,Variety,North latitude (),East longitude (),Altitude (m),Average temperature (C),Total precipitation (mm)
+1,Qingdao,Anjibai,36.24,120.57,122,13.5,426
+2,,Wuniuzao,36.24,120.57,126,,
+3,,Longjing 43,36.24,120.57,114,,
+4,Hefei,Anjibai,31.93,117.19,40,16.5,1226
+5,,Wuniuzao,31.93,117.20,34.7,,
+6,,Longjing 43,31.93,117.20,39,,
+7,Hangzhou,Anjibai,30.18,120.09,17.8,17.1,2104
+8,,Wuniuzao,30.18,120.09,17.8,,
+9,,Longjing 43,30.21,120.08,82.1,,

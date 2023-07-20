@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8
+0,Metal,Range (Mean Concentrations in (g/g),Range (Mean Concentrations in (g/g),,Estimated Daily Intake (g/kg/day),Estimated Daily Intake (g/kg/day),Estimated Daily Intake (g/kg/day),,Limit of DI intake (ug/kg/day)
+1,,Liver n=100,Gizzard (n=100,Heart (n=80,Liver,Gizzard,Heart,Total,
+2,Al,0.5-1.7(1.2),0.4-2.5 (1.5),0.4-1.7 (1.0),0.171,0.214,0.143,0.529,143 Antoine et al.2012
+3,Cr,0.01-0.04 (0.03),0.01-0.05 (0.03),0.01-0.25(0.09),0.004,0.004,0.013,0.021,"143 (Stern,2010)"
+4,As,0.01,0.01,ND,0.001,0.001,0.000,0.003,"10 (Australia New Zealand Food Authority,2001"
+5,Se,0.01-0.04 (0.03),0.02-0.09(0.06),0.01-0.03 (0.02),0.004,0.009,0.003,0.016,"20 (Australia New Zealand Food Authority,2001"
+6,Zn,2.2-3.0(2.5),1.9-2.1(2.4),2.7-4.0 (3.3),0.357,0.357,0.471,1.186,"10 (Australia New Zealand Food Authority,2001"
+7,Cd,0.01,ND,0.02-0.15(0.09),0.001,0.000,0.013,0.014,"5.0 (Australia New Zealand Food Authority,2001)"
+8,Hg,0.01-0.44 (0.18),0.08-0.34 (0.22),0.02-0.18 (0.08),0.026,0.0314,0.011,0.069,"10 (Australia New Zealand Food Authority,2001)"
+9,Pb,0.01,ND,0.25,0.001,0.000,0.036,0.037,"10 (Australia New Zealand Food Authority,2001)"
+10,Cu,0.1-0.4(0.3),0.43-0.50 (0.47),0.18-0.54(0.35,0.043,0.067,0.050,0.160,"10 (Australia New Zealand Food Authority,2001"
+11,Sb,0.2-0.34 (0.28),0.16-0.22 (0.19),0.2-0.56(0.37),0.040,0.027,0.053,0.120,10 (Australia New Zealand Food Authority2001)
+12,Ni,0.03,0.02,0.002-0.027(0.016),0.004,0.003,0.002,0.009,"17(US Panel,2001"
+13,Sr,0.01-0.06 (0.04),0.02,0.01-0.29(0.11),0.006,0.003,0.016,0.024,"30 Peter and Paul,2010"
+14,Fe,4.2-11.6 (6.5),6.2-11.5 (9.2),4.1-12.9 (7.6),0.929,1.314,1.086,3.329,"800 (European Food Safety Authority-EFSA,2004)"
+15,Mg,41.8-45.4(43.6),56.9-62.2(59.4),49.8-54.0(51.9),6.229,8.486,7.414,22.14,"5000 (Institute of Medicine,1997"

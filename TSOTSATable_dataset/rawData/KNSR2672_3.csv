@@ -1,0 +1,12 @@
+,0,1,2,3
+0,Country,Correctly classified,,Mean correct
+1,,origin [%],,classification[%]
+2,,Country,Other,
+3,Belgium (6),100,99,99
+4,Czech Republic7),86,97,96
+5,France(7,57,91,88
+6,Hungary (9),89,93,93
+7,Italy(7,86,83,83
+8,Portugal(6),50,77,75
+9,Switzerland(6,67,91,89
+10,Average,77,90,89

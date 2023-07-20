@@ -1,0 +1,27 @@
+,0,1,2,3
+0,,,Recommended,
+1,,,FAO/WHO/UNU,
+2,,Content in,(1985)pattern,
+3,,wholeseed,for children,Essential
+4,,protein,2-5 years old,amino acid
+5,Amino acid,g16gN,g16g-1N,score
+6,Tryptophan,0.9,1.2,75
+7,Lysine,11.6,6.2,187
+8,Histidine,4.7,2.0,235
+9,Arginine,8.9,,
+10,Aspartic acid,7.4,,
+11,Threonine,2.6,3.6,72
+12,Serine,4.7,,
+13,Glutamic acid,17.9,,
+14,Proline,2.9,,
+15,Glycine,4.2,,
+16,Alanine,5.3,,
+17,Cystine,0.6,,
+18,Valine,4.6,3.7,124
+19,Methionine,1.5,,
+20,Isoleucine,6.6,3.0,220
+21,Leucine,5.6,7.0,80
+22,Tyrosine,2.6,,
+23,Phenylalanine,4.6,,
+24,Methionine+cystine,2.1,2.6,81
+25,Phenylalanine+ tyrosine,7.2,6.6,109

@@ -1,0 +1,18 @@
+,0,1,2,3
+0,Phenolics,t. (min),MS (m/z),MS/MS(m/z)
+1,Hydroxycinnamic,,[M-H],Fragment ions
+2,acids derivatives,,,
+3,trans-Coutaric acid,9.77,295,163
+4,cis-Coutaric acid,10.01,295,163
+5,Caffeic acid,12.24,179,135
+6,trans-Fertaric acid,13.21,325,193
+7,p-Coumaric acid,19.41,147,103
+8,Ethyl caffeate,44.60,207,179
+9,Ethyl coumarate,53.58,191,147
+10,Stilbenes,,,
+11,trans-piceid,24.47,389,227
+12,trans-resveratrol,33.92,227,
+13,cis-piceid,34.28,389,227
+14,cis-resveratrol,40.67,227,
+15,Hydroxybenzoic acids,,,
+16,Gallic acid,5.69,169,125

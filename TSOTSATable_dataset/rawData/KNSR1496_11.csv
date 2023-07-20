@@ -1,0 +1,26 @@
+,0,1,2,3,4
+0,Individual,Consumption,Mean daily intake (mg/day)a,Mean daily intake (mg/day)a,
+1,food group,(g/day),,,
+2,,,Ubiquinol-,Ubiquinone-,Total
+3,,,10,10,CoQ1o
+4,Pulses,,,,
+5,Soybeans,2.1,0.009,0.005,0.014
+6,Tofu,36.1,0.040,0.063,0.103
+7,Natto,6.6,0.024,0.013,0.037
+8,Soy milks,3.4,0.003,0.005,0.008
+9,Other beans,1.7,0.002,0.002,0.004
+10,Subtotal,,0.08,0.09,0.17
+11,Dairy products,,,,
+12,Milk,96.1,0.023,0.007,0.030
+13,Cheese,1.9,0.001,0.001,0.003
+14,Fermented,20.9,0.004,0.002,0.005
+15,milk,,,,
+16,Subtotal,,0.03,0.01,0.04
+17,Others,,,,
+18,Seeds,2.1,0.014,0.010,0.024
+19,Mushrooms,15.0,0.000,0.000,0.000
+20,Eggs,36.6,0.012,0.015,0.027
+21,Vegetable oils,8.3,0.276,0.171,0.447
+22,Miso,12.4,0.029,0.001,0.030
+23,Subtotal,,0.33,0.20,0.53
+24,Total intake,,2.07,2.42,4.48

@@ -1,0 +1,42 @@
+,0,1,2,3,4,5,6,7,8
+0,Compound,,Rt,LOD,LOQ,min,max,mean,SD
+1,Amino acids,,,,,,,,
+2,Arginine,Arg,7.2,0.2,0.6,nd,29.3,19.6,6.4
+3,Asparagine,Asn,9.0,0.2,0.7,0.5,11.8,7.3,3.4
+4,Glutamine,Gln,10.8,0.1,0.2,6.9,38.8,17.7,8.6
+5,Citrulline,Cit,10.6,0.1,0.2,1.5,4.1,2.8,0.7
+6,Serine,Ser,12.0,0.2,0.5,7.1,17.6,11.6,3.2
+7,4-Hydroxyproline,Hyp,12.5,0.1,0.2,nd,8.6,6.2,2.8
+8,Aspartic acid,Asp,13.5,0.2,0.5,38.5,112.4,67.5,26.9
+9,Threonine,Thr,0.7,0.1,0.4,3.1,12.8,7.3,2.7
+10,Glycine,Gly,17.1,0.1,0.2,9.5,23.5,16.9,4.2
+11,Alanine,Ala,20.9,0.1,0.2,13.7,36.9,25.5,8.1
+12,Tyrosine,Tyr,21.5,0.1,0.2,4.8,21.3,10.6,4.6
+13,Glutamic acid,Glu,23.3,0.2,0.5,153.1,296.6,250.9,38.8
+14,-Aminobutyric acid,GABA,26.6,0.1,0.2,23.6,72.4,40.0,13.9
+15,Proline,Pro,27.7,0.1,0.2,203.6,891.7,578.0,229.3
+16,Methionine,Met,28.5,0.1,0.1,nd,3.0,2.0,1.4
+17,Valine,Val,30.4,0.1,0.2,3.0,10.2,5.8,2.2
+18,Phenylalaninea+Tryptophan,Phea+ Trp,34.0,0.1,0.2,7.4,25.4,14.3,5.2
+19,Leucine+Isoleucine,Leua+ Ile,39.9,0.1,0.3,7.6,26.5,13.7,5.7
+20,Cysteine,Cys,39.9,0.1,0.2,0.2,1.3,0.6,0.3
+21,Ornithine,Orn,42.1,0.1,0.2,nd,0.4,0.4,0.0
+22,Histidine,His,43.3,0.2,0.5,14.3,47.6,37.2,9.8
+23,Lysine,Lys,43.6,0.1,0.2,11.1,36.2,19.9,7.4
+24, Biogenic amines,Lys,,,0.2,,,,
+25, Methylamine,MTA,32.1,0.1,0.2,0.2,0.8,0.5,0.1
+26,Ethylamine,ETA,37.0,0.1,0.2,1.1,2.8,2.1,0.5
+27,Tryptamine,TRM,47.0,0.1,0.2,nd,nd,nd,
+28,Phenylethylamine,PEA,48.7,0.1,0.2,0.9,3.3,1.8,0.7
+29,Isopentylamine,IPA,50.2,0.1,0.2,tr,0.4,0.2,0.1
+30,Putrescine,PUT,50.2,0.1,0.2,3.7,18.6,7.8,4.5
+31,Cadaverine,CAD,51.3,0.1,0.2,0.1,2.9,13.8,0.9
+32,Histamine,HIM,51.9,0.1,0.2,nd,14.4,13.8,0.8
+33,Tyramine,TYM,55.8,0.1,0.2,nd,2.9,1.2,1.0
+34,Spermidine,SPD,56.8,0.1,0.2,nd,2.4,1.8,0.9
+35,Spermine,SPM,59.3,0.1,0.2,nd,2.5,1.4,0.7
+36,,,,,,min,max,mean,SD
+37,Total nitrogen compounds,,,,,539.3,1538.4,1156.2,292.3
+38,Total amino acids,,,,,525.8,1525.4,1139.0,292.9
+39,Total essential amino acidsb,,,,,34.4,111.0,61.4,22.5
+40,Total biogenic amines,,,,,11.2,32.3,17.2,6.9

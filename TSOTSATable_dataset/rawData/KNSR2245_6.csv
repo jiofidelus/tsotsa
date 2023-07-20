@@ -1,0 +1,8 @@
+,0,1,2,3,4
+0,Genotype,Antioxidant activity (M TE/g FM),Antioxidant activity (M TE/g FM),,Genotypic mean (P = 0.11)
+1,,ABTS,DPPH,FRAP,
+2,Allahabad Safeda,0.380.10,0.200.06,0.250.06,0.280.09
+3,Fan Retief,0.420.06,0.35  0.28,0.12 0.01,0.30 0.16
+4,Ruby Supreme,0.58  0.15,0.39 0.19,0.130.02,0.37 0.23
+5,Advanced selection,0.38 0.10,0.150.04,0.13 0.02,0.220.14
+6,Assay mean (P = 0.01),0.440.10 a,0.270.12 b,0.160.06 c,

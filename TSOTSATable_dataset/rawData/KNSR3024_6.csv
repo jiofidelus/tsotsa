@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Nutrients,Unit,RDA males,Average%,Shoulder,Shoulder%,Loin,Loin%,Leg,Leg%
+1,,,2550a,contribution,,contribution,,contribution,,contribution
+2,Proximate analysis,,,,,,,,,
+3,Moisture,g,,,66.8,,63.49,,66.03,
+4,Protein (N  6.25),g,63,39.8,23.1,36.6,27.8,44.1,24.5,38.8
+5,Fat,g,,,9.86,,7.80,,7.67,
+6,Ash,,,,0.95,,1.19,,1.05,
+7,Food energy (calculated),kJ,12 180,6.12,757,6.22,755,6.20,723,5.94
+8,Minerals,,,,,,,,,
+9,Magnesium (Mg),mg,420,,18.0,,24.2,,22.9,
+10,Potassium (K),mg,800,37.3,261,32.6,330,41.25,303,37.9
+11,Sodium (Na),mg,,,68.9,,83.3,,61.8,
+12,Zinc (Zn),mg,15,11.4,1.24,8.27,2.20,6.20,1.71,11.4
+13,Iron (Fe),mg,10,6.09,,,0.62,6.20,1.20,12.0
+14,Vitamins,,,,,,,,,
+15,Thiamin (B),mg,1.2,3.47,0.03,2.08,0.04,3.50,0.06,4.83
+16,Riboflavin (B),mg,1.3,4.15,0.04,3.08,0.07,5.38,0.05,4.00
+17,Niacin (B),mg,16,11.7,1.37,8.56,1.25,7.81,1.63,10.2
+18,Pyridoxine (B),mg,1.7,6.80,0.12,6.94,0.132,7.76,0.10,5.71
+19,Cyanocobalamin(B2),ug,2.4,38.8,0.83,34.6,0.91,37.9,1.05,43.8

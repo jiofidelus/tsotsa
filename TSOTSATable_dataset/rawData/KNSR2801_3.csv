@@ -1,0 +1,55 @@
+,0,1,2,3
+0,Discrepancy typea,Food group code and nameb,Frequencyc,Percento
+1,Food item,,,
+2,Incorrect,"3 Cereals, cereal product and",5,27.8
+3,,cereal dishes,,
+4,,11 Savoury sauces and,5,27.8
+5,,condiments,,
+6,,Total discrepancies,18,
+7,Missing/missed,1 Non-alcoholic beverages,5,5.7
+8,,"3 Cereals, cereal product and",9,10.2
+9,,cereal dishes,,
+10,,5 Free vegetables,14,15.9
+11,,8 Meat,14,15.9
+12,,11 Savoury sauces and,13,14.8
+13,,condiments,,
+14,,18 Complete dish,7,8
+15,,19 Incomplete dish,8,9.1
+16,,Total discrepancies,88,
+17,Valid sourceless,5 Free vegetables,15,39.5
+18,,11 Savoury sauces and,11,28.9
+19,,condiments,,
+20,,Total discrepancies,38,
+21,Questionable,5 Free vegetables,6,19.4
+22,,18 Complete dish,5,16.1
+23,,19 Incomplete dish,7,22.6
+24,,Total discrepancies,31,
+25,Quantity,,,
+26,Incorrect of quantity,"3 Cereals, cereal product and",8,12.9
+27,,cereal dishes,,
+28,,5 Free vegetables,9,14.5
+29,,8 Meat,5,8.1
+30,,11 Savoury sauces and,5,8.1
+31,,condiments,,
+32,,17 Soup,6,9.7
+33,,19 Incomplete dish,8,12.9
+34,,Total discrepancies,62,
+35,Valid Sourceless,"3 Cereals, cereal product and",8,8
+36,,cereal dishes,,
+37,,5 Free vegetables,28,28
+38,,8 Meat,12,12
+39,,10 Milk and milk products,11,11
+40,,11 Savoury sauces and,17,17
+41,,condiments,,
+42,,15 Fats and oils,6,6
+43,,Total discrepancies,100,
+44,Frequency,,,
+45,Incorrect of,1 Non-alcoholic beverages,6,6.1
+46,frequency,"3 Cereals, cereal product and",13,13.1
+47,,cereal dishes,,
+48,,5 Free vegetables,11,11.1
+49,,8 Meat,32,32.3
+50,,10 Milk and milk products,7,7.1
+51,,18 Complete dish,8,8.1
+52,,19 Incomplete dish,6,6.1
+53,,Total discrepancies,99,

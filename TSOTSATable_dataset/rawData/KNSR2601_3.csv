@@ -1,0 +1,37 @@
+,0,1,2,3
+0,,Amino acid content (w/w %),Amino acid content (w/w %),
+1,Amino acid,West,East,WHO/FAO/UNU(2007
+2,,Malaysia,Malaysia,report)a
+3,Essential,,,
+4,"Phenylalanine,Phe",3.170.34,2.91,0.0025
+5,,*,0.21,
+6,"Threonine, Thr",3.02 0.25,2.870.19,0.0015
+7,LeucineLeu,2.92  0.22,2.920.17,0.0039
+8,ValineVal,2.770.21,2.760.17,0.0026
+9,Histidine His,1.860.17,1.700.14,0.0010
+10,,*,*,
+11,"Lysine, Lys",1.560.14,1.600.10,0.0030
+12,IsoleucineIle,1.400.10,1.410.08,0.0020
+13,MethionineMet,0.380.03,0.370.03,0.0015
+14,"Tryptophan, Trp",0.22 0.22,0.250.18,0.0004
+15,,*,*,
+16,Total essential amino,17.30,16.79 ,0.0184
+17,acid,1.68,1.27,
+18,Non-essential,,,
+19,"Serine, Ser",3.670.31,3.530.23,
+20,"Aspartic acid, Asp",3.290.34,3.59 ,
+21,,*,0.31*,
+22,ProlinePro,3.07  0.24,2.870.17,
+23,"Tyrosine,Try",3.010.31,2.78  0.27,
+24,,*,*,
+25,"Arginine, Arg",2.99  0.24,2.82  0.20,
+26,"Glutamic acid,Glu",2.750.25,2.910.15,
+27,GlycineGly,1.530.27,0.930.30,
+28,,**,**,
+29,CysteineCys,1.440.15,1.250.11,
+30,,**,**,
+31,AlanineAla,1.130.09,1.160.06,
+32,Total non-essential,22.88 ,21.84,
+33,amino acid,2.20,1.80,
+34,Total amino acid,40.18,38.63 ,
+35,,3.88,3.07,

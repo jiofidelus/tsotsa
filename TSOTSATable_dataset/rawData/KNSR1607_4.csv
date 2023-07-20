@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6,7,8
+0,Reference,Source,Allowable total error,Allowable total error,,,Laboratory,,Sigma
+1,,,Bias,CV,,TEa,Bias,CV,
+2,EN 14152,CRM 421,6.1,4.1,1.65,12.865a,,-,-
+3,Esteve et al.2001),(P31),-,-,,-,1.01,6.8,2.31b
+4,Furlani and Godoy (2008),(P32),,-,-,-,0.92,4.30,2.78b
+5,Mattila et al.2001,(P33),11,-,,-,6.10,5.00,1.35b
+6,,Aggregate,11,-,,-,1,-,2.23c

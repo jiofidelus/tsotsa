@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6
+0,,,,Africa (A) or Asia (B),,China (Chi) or India+Sri Lanka (In,
+1,Code,Information,LDA,SIMCA,LDA,SIMCA,SIMCA
+2,Ble1 (UK),Kenya and India,A,A and B,,,
+3,Ble2 (UK),,B,B,In,Chi and In,Chi and In
+4,EG1(UK),China,B,B,Chi,Chi,Chi
+5,EB1(UK),a,B,B,In,Chi and In,Chi and In
+6,Ble3 (UK),_a,A,A and B,,,
+7,Ble4 (UK),China,B,B,Chi,,Chi
+8,EG2 (UK),China and India,B,Out,Chi,Out,Out
+9,Ble5 (UK),Assam (India),B,B,In,,In
+10,Ble6 (UK),"""mixed teas""",A,A and B,,,
+11,Ble7 (UK),India,B,B,In,,In
+12,EG3(UK),a,B,B,In,Out,Out
+13,EG4 (UK),_a,B,B,Chi,Chi,Chi
+14,EB2 (UK),,A,A and B,,,
+15,Ble8 (Ireland),Africa and India,A,A and B,,,
+16,Ble9 (UK),,B,B,Chi,Chi,Chi
+17,EG5 (Ireland),Sri Lanka and China,B,B,In,Chi and In,Chi and In
+18,EG6(Canada),Sri Lanka and others,A,Out,In,,Out
+19,Blel0 (Canada),Flavoured tead,A,Out,In,,Out
+20,EB3 (Canada),India and Kenya,A,A and B,,,
+21,EG7(UK),,B,B,Chi,Out,Out
+22,EB4 (UK),a,B,Out,Chi,Out,Out
+23,Ble9 (UK),a,B,B,In,,In
+24,Blel0,a,A,A,,,
+25,U1,Russia,A,Out,Chi,Out,Out
+26,U2,,B,Out,Chi,Out,Out
+27,U3,a,B,B,Chi,Chi,Chi
+28,U4,Argentina,B,Out,In,Out,Out
+29,U5,Argentina,B,Out,In,Out,Out
+30,U6,Brazil,B,Out,In,Out,Out
+31,,,,,,,
+32,U7,,A,Out,Chi,Out,Out
+33,U8,,A,Out,Chi,Out,Out

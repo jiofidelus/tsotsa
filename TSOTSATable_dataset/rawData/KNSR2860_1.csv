@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7
+0,IRI1 Food,Number of,Number of,Number of Ingredient,Number of Ingredient,Proportion of total,Count of uniquely,Count of Preferred
+1,Category,products in the,top sellers2,statements obtained,statements obtained,weight/volume,parsed text strings/,Descriptors (PDs)
+2,,category,,from BFPD3,from other sources,represented,ingredients,representing the
+3,,,,,,,,ingredients
+4,Cookies,"13,469",2876,1696,22,93%,2694,766
+5,Crackers,5701,1654,1227,19,93%,1902,647
+6,Fresh bread,"14,805",4205,2002,17,73%,2087,674
+7,and rolls,,,,,,,
+8,Pastry and,6675,2319,644,29,69%,2051,687
+9,doughnuts,,,,,,,
+10,Pies and,"10,284",1063,451,121,39%,,
+11,cakes4,,,,,,,

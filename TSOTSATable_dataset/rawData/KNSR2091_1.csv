@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7
+0,Variety,Device,PLS Factors,RMSEC mg/100 g DW,R2cal.,RMSECV mg/100 g DW,R2 cross-val.,Relative error%
+1,'Dometica',LED-sensor,1,10.0,0.79,11.0,0.77,16.2
+2,,IS-sensor,1,11.0,0.77,12.0,0.73,17.6
+3,Juanita',LED-sensor,1,6.2,0.80,6.6,0.77,16.0
+4,,IS-sensor,2,5.7,0.83,6.5,0.81,15.8

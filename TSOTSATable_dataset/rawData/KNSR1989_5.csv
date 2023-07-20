@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7
+0,Food,Ingredient,Ingredient,Ingredient water,Ingredient solid,Food solid content,Food weight (g),Proportion
+1,,,weight (g),content (%),amount (g),,,(ingredient
+2,,,,,,,,g/food g)
+3,"Seasoned,",Dried laver,100.000,11.400,88.600,0.945,104.770,0.9545
+4,toasted laver,Table salt,4.060,0.300,4.048,0.945,104.770,0.0388
+5,,Perilla seed oil,6.360,0.000,6.360,0.945,104.770,0.0607

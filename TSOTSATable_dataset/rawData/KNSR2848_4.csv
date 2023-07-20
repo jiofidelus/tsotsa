@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6
+0,,,,,Fish Sauce,,Shrimp sauce
+1,,Rawmaterial,,Freshwater fish,Freshwater fish,Marine fish,Shrimp
+2,No. of samples,No. of samples,,3,,12,3
+3,pH,,,5.6,,6.1,6.9
+4,NaCl,,g/d1),27.3,,25.5,27.0
+5,Total amino acids,Total amino acids,"g/T-N,g",3.84,,3.46,3.79
+6,Glutamicacid,Glutamicacid,g/T-N.g,0.57,,0.56,0.90
+7,Lysine,,"g/T-N,g",0.47,,0.39,0.40
+8,Leucine,,g/T-Ng,0.33,,0.28,0.39
+9,Valine,,g/T-Ng),0.30,,0.30,0.30
+10,Alanine,,g/T-N.g,0.43,,0.37,0.40
+11,Isoleucine,,"g/T-N,g)",0.23,,0.21,0.24
+12,"Total organic acidsg/T-N,g)","Total organic acidsg/T-N,g)","Total organic acidsg/T-N,g)",0.69,,0.88,1.36
+13,Acetic acid,Acetic acid,"g/T-N,g",0.27,,0.63,1.13
+14,Lactic acid,Lactic acid,g/T-N.g,0.36,,0.18,0.05
+15,Succinic acid,Succinic acid,g/T-N.g,0.06,,0.06,0.12
+16,T-N,,g/d1,1.71,,1.53,1.21
+17,NH-N/T-N,,,0.13,,0.18,0.20

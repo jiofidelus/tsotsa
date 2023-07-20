@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6
+0,Azaarene,Nominal concentration [ng/20 L],Nominal concentration [ng/20 L],,,,
+1,,0.1,,0.5,,2,
+2,,Precision%,Accuracy%,Precision%,Accuracy%,Precision%,Accuracy%
+3,B[h]Q,0.44,3.34,8.84,2.72,3.72,2.92
+4,B[c]Ac,2.24,4.20,2.63,3.65,8.80,1.21
+5,B[a]Ac,9.61,0.98,12.97,14.17,2.38,2.28
+6,"DB[a,c]Ac",3.50,3.03,6.99,2.65,1.40,0.89
+7,"DB[a,j]Ac",1.09,4.02,3.38,2.75,5.16,1.57
+8,"DB[a,h]Ac",13.67,8.82,4.86,3.86,5.43,1.82

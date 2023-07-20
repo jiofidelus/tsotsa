@@ -1,0 +1,61 @@
+,0,1,2,3
+0,Code,Food group,Product group,Description and composition of
+1,,,,the subgroup
+2,A02LR,Dairy products,Cheese,Firm -ripened cheeses
+3,,,Milk,Flavoured milks
+4,,,,"Milk (partly skimmed milk, skim"
+5,,,,milk)
+6,,,Yoghurt,Acidophilus milk
+7,,,,"Yoghurts (natural, flavoured,"
+8,,,,fruit and cereals)
+9,A031E,Eggs and egg,Eggs and egg,Eggs (cooked)
+10,,products,products,
+11,A026T,Fish and fish,Bivalves,Bivalve molluscs (Donax
+12,,products,,"variabilis, Clam)"
+13,,,Crustaceans,"Marine shrimps or prawns,"
+14,,,,cooked
+15,,,Fat fish,Canned tuna in oil
+16,,,,Canned sardine
+17,,,,European Sardine *)
+18,,,,"Mackerel, shub (*)"
+19,,,,Tuna
+20,,,Lean fish,Catfishes
+21,,,,Cod atlantic
+22,,,,Cod dried
+23,,,,Conger European
+24,,,,"Fish fingers, breaded"
+25,,,,Hakes
+26,,,,Horse mackerel
+27,,,,Ling
+28,,,,Nile perch
+29,,,,Other coastal marine fishes
+30,,,,"(Wrasse, Trisopterus luscus, Red"
+31,,,,"porgy, Red seabream)"
+32,,,,Other pelagic marine fishes
+33,,,,"Phycis phycis,Blackbelly"
+34,,,,"rosefish, Red Fish)"
+35,,,,"Plaice,european"
+36,,,,Sea bream
+37,,,Molluscs,"Octopus, common"
+38,,,,"Squid, common"
+39,A01QR,Meat and meat,Delicatessen,"Cold meats (Chorizo, Smoked"
+40,,products,,pork loinPork sausage
+41,,,,Cooked cured meat (Ham)
+42,,,,Frankfurter type sausage
+43,,,Red meat,Bovine fresh meat
+44,,,,Calf fresh meat
+45,,,,Sheep fresh meat
+46,,,,Swine fresh meat
+47,,,White meat,Chicken fresh meat
+48,,,,Rabbit fresh meat
+49,,,,Turkey fresh meat
+50,A011X,Pulses,Dry Pulses,Beans (dry seeds)
+51,,,,Chickpeas
+52,,,,Cowpea (dry seeds)
+53,,,,Lupin (dry seeds)
+54,,,,Soy
+55,,,Fresh Pulses,Broad bean (fresh seeds)
+56,,,,"Peas (fresh seeds, without pods)"
+57,A03RQ,Products for,Seitan,Seitan
+58,,non-standard,Tofu,Tofu
+59,,diets,,

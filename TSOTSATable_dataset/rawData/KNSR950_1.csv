@@ -1,0 +1,56 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Product description,2011,,,,,2013,,,,
+1,,Glycidol,MCPDs,2-MCPD,3-MCPD,Ratio 3/2-MCPD,Glycidol,MCPDs,2-MCPD,3-MCPD,Ratio
+2,,Equivalent,Equivalent,Equivalent,Equivalent,,Equivalent,Equivalent,Equivalent,Equivalent,3/2-MCP
+3,,(ng/g,(ng/g),(ng/g),(ng/g,,(ng/g),(ng/g),(ng/g),(ng/g),
+4,Extra virgin olive oil B,ND,,n.d.,n.d.,,ND,,n.d.,n.d.,
+5,Extra virgin olive oil B,ND,,n.d.,n.d.,,ND,,n.d.,n.d.,
+6,Extra virgin olive oil C,ND,,n.d.,<100 (76),,ND,,n.d.,n.d.,
+7,Extra virgin olive oil D,ND,,n.d.,n.d.,,ND,,n.d.,n.d.,
+8,Extra virgin olive oil F,ND,,n.d.,n.d.,,ND,,n.d.,n.d.,
+9,Extra virgin olive oil F,ND,,n.d.,n.d.,,ND,,n.d.,n.d.,2.2
+10,Light olive oil A,321,2168,608,1560,2.6,294,1350,427,739,2.2
+11,Light olive oil B,524,861,277,584,2.1,927,1050,313,739,2.4
+12,Vegetable oil spray A,9,,n.d.,n.d.,,,,,,
+13,Vegetable oil spray B,289,337,98,239,2.4,,,,,
+14,Vegetable oil spray D,275,205,61,144,2.4,198,,n.d.,n.d.,
+15,Vegetable oil spray D,316,662,181,481,2.7,225,130,n.d.,130,
+16,Vegetable oil spray E,80,350,81,269,3.3,225,,,,
+17,Mixvegetable oil A,487,1790,569,1220,2.1,,,,,
+18,Mixvegetable oil B,30,,n.d.,n.d.,,383,,0,n.d.,
+19,Mixvegetable oil C,32,,n.d.,100 (90,,268,,n.d.,<100(50,
+20,Coconut oil,1000,490,175,315,1.8,1290,549,216,333,1.5
+21,"Coconut oil, unrefined, A",26,,n.d.,n.d.,1.8,,549,,333,
+22,"Coconut oil, unrefined, B",,,,,,ND,,n.d.,n.d.,
+23,"Canola oil,unrefined A",ND,,n.d.,n.d.,,,,,,
+24,"Canola oil, unrefined B",,,,,,ND,483,n.d.,n.d.,
+25,Canola oil A,110,264,73,191,2.6,678,483,180,304,1.7
+26,Canola oil B,26,428,75,218,2.9,284,210,n.d.,210,
+27,Canola and extra virgin olive oil,59,428,129,299,2.3,284,351,116,235,2.0
+28,Canola and Sunflower oil A,263,234,69,165,2.4,144,,n.d.,<100(77),
+29,Rice Bran oil A,3790,"12,400",4030,8340,2.1,,,,,
+30,Rice Bran oil B,,,,,,1250,524,156,368,2.4
+31,Com oil,121,345,106,239,2.3,159,201,80,121,1.5
+32,"Sunflower oil, unrefined A",ND,,n.d.,n.d.,,,,n.d.,n.d.,
+33,Sunflower oil A,212,358,113,150,2.2,256,,153,<100(90),
+34,Sunflower oil B,212,214,64,3190,2.3,256,5260,153,3600,1.7
+35,Grapeseed oil A,3910,4670,619,3190,2.2,537,5260,1660,3600,2.2
+36,Grapeseed oil B,660,2000,5520,1380,2.2,2620,3110,964,2140,2.2
+37,Walnut oil,584,"17,100",5520,"11,600",2.1,555,4200,1330,2870,2.2
+38,Almond oil,594,751,236,515,2.2,441,1510,467,1040,2.2
+39,"Peanut oil, unrefined",3,,n.d.,n.d.,,,,n.d.,n.d.,
+40,Peanut oil,469,696,223,473,2.1,658,555,171,384,2.2
+41,"Avocado oil, unrefined A",22,,n.d.,n.d.,,,,,<100(62),
+42,"Avocado oil, unrefined B",,,,,,328,,n.d.,<100(62),2.4
+43,Avocado oil,591,1310,395,912,2.3,761,618,183,435,2.4
+44,Toasted Sesame oil,403,1080,323,757,2.3,,,,,2.4
+45,Toasted Seasame oil unrefined,380,1010,305,700,2.3,168,825,238,588,2.5
+46,Sesame oil unrefined A,240,472,141,331,2.3,,,604,,
+47,Sesame oil unrefined B,,,,,,484,1890,604,1290,2.1
+48,Margarine A,ND*,694,260,434,1.7,151,627,186,441,2.4
+49,Margarine B,ND*,248,64,184,2.9,31,284,71,213,3.0
+50,Margarine C,ND*,143,51,92,1.8,192,273,70,203,2.9
+51,Margarine D,557,264,86,178,2.1,216,258,93,164,1.8
+52,Vegetable shortening,244,736,234,432,2.1,1030,799,248,551,2.2
+53,Lard,27,628,196,432,2.2,49,600,188,412,2.2
+54,Palm oil shortening,,,,,,"10,600","12,500",4030,8420,2.1

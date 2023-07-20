@@ -1,0 +1,76 @@
+,0,1,2,3,4,5,6,7,8
+0,Sample,Products,Packing,Product composition,Code,,weight,,
+1,Code,,weight,,,,,,"sodium stearol-2-lactylate,"
+2,Sample 1, 2 Fibrous pan bread,520g,"Wheat flour, water, bran flour,",,,,,mono and diacetyl tartaric acic
+3,,(without added sugar),,"yeast, dietary fiber (1.1 %),",,,,,"of fatty acids, guar gum, alpha"
+4,,Brand 1,,"salt, B1, B2, B3, B6, Folic acid,",,,,,"of fatty acids, guar gum, alpha"
+5,,,,"B12, calcium, zinc, iron,",,,,,"amylase, lipase, xylanase,"
+6,,,,"calcium propionate,sorbic",,,,,"ascorbic acid, vegetable oil"
+7,,,,acid.,,,,,"(sunflower, palm oil), rye"
+8,Sample 2,Whole wheat bread,450g,"Whole wheat flour (100 %),",,,,,"sourdough powder, fermented"
+9,,(without added sugar),,"water, wheat flour, yeast,",,,,,"rye malt flour, wheat malt"
+10,,(Brand 1),,"wheat germ, salt, calcium",,,,,"extract, calcium propionate,"
+11,,,,"propionate,sorbic acid,",,,,,"sorbic acid, cumin."
+12,,,,ascorbic acid.,Sample,Whole wheat bread,350g,,"Wheat flour, water, whole"
+13,Sample 3, Whole wheat flour pan,520g,"Whole wheat flour (60.0 %),",12,(Brand 2),,,"wheat flour (23.0 %), yeast,"
+14,,bread (Brand 1),,"wheat flour, water, yeast, bran",,,,,"wheat germ,salt,sodium"
+15,,,,"flour, salt, calcium propionate,",,,,,"stearol-2-lactylate, mono and"
+16,,,,sorbic acid.,,,,,diacetyl tartaric acid esters of
+17,Sample 4,Premium multigrain,350g,"Whole wheat flour (60.0%,",,,,,mono and diglycerides of fatty
+18,,and einkorn wheat,,"wheat flour, water, germ,",,,,,"acids, guar gum, alpha"
+19,,bread(Brand 1,,"sunflower kernels, yeast,",,,,,"amylase, lipase,xylanase,"
+20,,,,"einkorn wheat flour (7.0 %),",,,,,"ascorbic acid, rye malt flour,"
+21,,,,"oatmeal (5.0 %), flaxseed,",,,,,"calcium propionate, sorbic"
+22,,,,"sesame, corn semolina (5.0 %),",,,,,acid.
+23,,,,"sunflower oil, bran flour,rye",Sample,Village bread (Brand,600 g,,"Wheat flour, water, wheat bran"
+24,,,,"flour (5.0 %), vinegar, salt,",13,2),600 g,,"10.0%,yeast,salt,rye malt"
+25,,,,"dietary fiber, roasted malt flour",,,,,"flour, sodium stearol-2-"
+26,,,,"(barley), rye sourdough,",,,,,"lactylate, mono and diacetyl"
+27,,,,"cumin,B1,B2,B3,B6,folic",,,,,tartaric acid esters of mono anc
+28,,,,"acid, B12, calcium, zinc, iron.",,,,,"diglycerides of fatty acids, guar"
+29,Sample 5,Wholemeal bread,450g,"Wheat flour,water, bran flour",,,,,"gum, alpha amylase, lipase,"
+30,,Brand 1,,"(18.0 %), yeast, wheat germ,",,,,,"xylanase, ascorbic acid,"
+31,,,,"salt, calcium propionate, sorbic",,,,,"calcium propionate,sorbic"
+32,,,,acid.,,,,,acid.
+33,Sample 6,Rye bread (Brand 1),450 g,"Wheat flour, whole rye flour",Sample,Wholemeal bread,400 g,,"Wheat flour,water,wheat brar"
+34,,,450 g,"(33.0 %), water, yeast, malt",14,Brand 2),,,"9.0%,yeast,salt,rye malt"
+35,,,,"extract, salt,roasted malt flour",,,,,"flour, sodium stearol-2-"
+36,,,,"(barley, rye), sourdough yeast,",,,,,"lactylate,mono and diacetyl"
+37,,,,"xanthan gum, calcium",,,,,tartaric acid esters of mono anc
+38,,,,"propionate, sorbic acid,",,,,,"diglycerides of fatty acids, gua"
+39,,,,ascorbic acid.,,,,,"gum, alpha amylase, lipase,"
+40,Sample 7,Additive-free rye and,350g,"Whole wheat flour (65.0 %),",,,,,"xylanase,ascorbic acid"
+41,,buckwheat bread,,"wheat flour,water,rye flour",,,,,"calcium propionate, sorbic"
+42,,Brand 1,,"(32.0 %), buckwheat flour (5.0",,,,,acid.
+43,,,,"%), rye paste (3.0 %, yeast,",Sample,Brand 3,400 g,,"Wheat flour, water, wheat bran"
+44,,,,"sunflower oil, malt extract,",15,Brand 3,,,"(23.0 %), yeast, salt, ascorbic"
+45,,,,"vinegar,salt,B1,B2,B6,folic",,,,,"acid, calcium propionate,"
+46,,,,"acid,B12, calcium,zinc iron.",,,,,sorbic acid.
+47,Sample 8,Toast bread(Brand 1,550g,"Wheat flour, water, sugar,",Sample,Whole wheat bread,350 g,,"Whole wheat flour, water,"
+48,,,550g,"yeast,sunflower oil, salt",16,Brand 3,,,"wheat flour, yeast, salt,"
+49,,,,"vinegar, calcium propionate,",,,,,"calcium propionate, sorbic"
+50,,,,sorbic acid.,,,,,acid.
+51,Sample 9,Balance whole wheat,350 g,"Whole wheat flour (60.0 %),",Sample,Rye bread (Bakery -1),,,"Rye flour, wheat flour,water"
+52,,and chia seed bread,,"wheat flour,water, sunflower",17,,,,"yeast, salt."
+53,,Brand 1,,"kernels,flaxseed, chia seeds",Sample,Rye bread (Bakery -2),,,"Rye flour, wheat flour, water,"
+54,,,,"(2.5 %), malt extract (barley,",18,,,,"yeast, salt."
+55,,,,"rye), pumpkin seed kernels,",Sample,Whole wheat bread,,,"Whole wheat flour, wheat"
+56,,,,"yeast, sunflower oil, vinegar,",19,(Bakery-1,,,"flour, water, yeast, salt."
+57,,,,"salt,tomato powder,B1,B2,",Sample,Whole wheat bread,,,Whole wheat flour.wheat
+58,,,,"B3,B6,folic acid,B12,",20,Bakery-2,,,"flour, water, yeast, salt."
+59,,,,"calcium zinc, iron.",Sample,Wholemeal bread,a,,"Bran flour, wheat flour, water,"
+60,Sample,Rye bread (Brand 2),400 g,"Wheat flour, water, rye flour",21,Bakery -1,,,"Bran flour, wheat flour, water,"
+61,10,,,"(13.0 %), yeast, sourdough rye",Sample,Wholemeal bread,,,"Bran flour, wheat flour, water,"
+62,,,,"powder, salt, sodium stearol-2-",22,Bakery-2,,,"yeast, salt."
+63,,,,"lactylate, mono and diacetyl",Sample,Pide (White bread),a,,"Wheat flour, water, yeast,"
+64,,,,tartaric acid esters of mono and,.23,Bakery-1,,,"sesame, salt."
+65,,,,"diglycerides of fatty acids, guar", Sample,White bread (Bakery,,,"Wheat flour, water, yeast, salt."
+66,,,,"gum, alpha amylase, lipase,",24,-1),,,
+67,,,,"xylanase, ascorbic acid,",Sample,White bread (Bakery,,,"Wheat flour, water, yeast, salt."
+68,,,,"fermented rye malt,fermented",25,-2),,,
+69,,,,"rye malt flour, wheat malt",Sample,White bread (Bakery,a,,"Wheat flour, water, yeast, salt."
+70,,,,"extract, calcium propionate,",26,-3),,,
+71,,,,sorbic acid.,Sample,White bread (Bakery,,,"Wheat flour, water, yeast, salt."
+72,Sample,Multi-grain bread,460 g,"Wheat flour, water, yeast, salt,",27,-4),,,
+73,11,Brand 2,,"corn semolina, germ,",Sample,White bread (Bakery,,,"Wheat flour, water, yeast, salt."
+74,,,,"sunflower kernels, flaxseed,",28,-5,,,

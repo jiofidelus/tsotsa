@@ -1,0 +1,66 @@
+,0,1,2
+0,Component modules,Advantages,Disadvantages
+1,,2Suitable for structural,
+2,,analysis of unknown,
+3,,samples,
+4,Ion-trap MS (IT) [24],1 Suitable for qualitative,1 Quantitative
+5,,studies on molecular,capability is not as
+6,,structure,good as QMS and
+7,,,QQQ;
+8,,,2 The capability of
+9,,,screening
+10,,,characteristic
+11,,,structure molecules
+12,,,is not enough
+13,Quadrupole time of,1Better qualitative,1 High cost of
+14,flight MS (QTOF) [24],ability than QQQ;, instruments
+15,,2Fast analysis speed;,
+16,,3) Suitable for large,
+17,,molecular weight and,
+18,,complex sample,
+19,,analysis,
+20,Fourier Transform Ion,1 Excellent qualitative,1 Instrument price
+21,Cyclotron Resonance,ability with high,and maintenance
+22,MS (FT-ICR) [25],resolution and good,costs;
+23,,sensitivity,2 Slow analysis speed
+24,Orbitrap MS [26],1) High sensitivity and,1 High cost of
+25,,high resolution,instruments
+26,,provide accurate mass,
+27,,and structure,
+28,,information;,
+29,,2It can effectively shield,
+30,,complex matrix,
+31,,interference;,
+32,,3 It can be used for the,
+33,,detection of trace,
+34,,substances and,
+35,,accurate qualitative,
+36,,analysis,
+37,Other Detector,,
+38,Olfactometry (O) [27],1 Enables screening of,1 The analysis results
+39,,key aroma active,are subjective;
+40,,compounds,2 The sensory training
+41,,,of the sniffers takes a
+42,,,long time
+43,Hydrogen flame,1 wide detection range;,1 High detection limit
+44,ionization detection,2 High sensitivity,2 Poor detection of
+45,FID[21],3 Good stability and,some low
+46,,rapid response.,concentration
+47,,,compounds
+48,Flame photometric,1 High sensitivity and,1 Narrow application
+49,detector (FPD [28],selectivity for trace,areas;
+50,,analysis of sulfur- or,2) Higher inertia
+51,,phosphorus-,requirements for
+52,,containing compounds,materials used in
+53,,,detection systems
+54,Sulfur,"1 High selectivity,high",1 Performance is
+55,chemiluminescence,sensitivity and high,easily influenced by
+56,detector (SCD) [29],separation,probe position and
+57,,,flame size;
+58,,,2 Operation and
+59,,,maintenance are
+60,,,complicated
+61,Nitrogen,1Simple operation;,1 Narrow application
+62,chemiluminescence,"2 High accuracy,good",area;
+63,detector (NCD [29],stability and high,2) Limited to the
+64,,detection efficiency,detection of organic

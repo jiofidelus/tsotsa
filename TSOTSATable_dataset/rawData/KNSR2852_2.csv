@@ -1,0 +1,10 @@
+,0,1,2,3
+0,Analytical parametera,Variation,,Effect (g/kg)
+1,,High level,Low level,
+2,Sample weight,A=5g,a=5.5g,0.075
+3,Extraction volume,B=10mL,b=9mL,0.775
+4,Column temperature,C=40C,c=36C,0.308
+5,% Reconstitution solution (A:B),D=95:5,d=90:10,0.108
+6,Column equilibration time,E=4min,e=3min,0.325
+7,"QuEChERS (anhydrous magnesium sulfate, Cs and PSA)","F=1200 mg,400 mg and 400mg","f=1100mg,350mg and 350mg",0.025
+8,Agitation time,G=20min,g=18 min,0.308

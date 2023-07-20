@@ -1,0 +1,18 @@
+,0,1,2
+0,Toxin,Detection,Recovery rate
+1,,limit g kg-1,%relative standard
+2,,,deviations (%)
+3,Zearalenone(ZEA),2,861.4
+4,Nivalenon(NIV),20,804.5
+5,Fusarenon=XFUS-X,10,913.9
+6,Deoxynivalenol(DON,10,982.1
+7,15-Acetyl deoxynivalenol(15-ADON,4,991.7
+8,3-Acetyldeoxynivalenol(3-ADON,9,904.9
+9,HT-2 Toxin (HT-2,2,1064.7
+10,T-2 Toxin (T-2),3,9614.0
+11,T-2 Triol,6,983.3
+12,T-2 Tetraol,45,855.7
+13,Scirpentriol(SCIRP),5,7811.2
+14,15-Monoacetoxyscirpenol(15-MAS,2,867.6
+15,"4,15-Diacetoxyscirpenol(4,15-DAS)",6,8118.9
+16,Neosolaniol(NEO),4,908.1

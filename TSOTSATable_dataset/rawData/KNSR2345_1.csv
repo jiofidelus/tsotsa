@@ -1,0 +1,14 @@
+,0,1,2
+0,Difference,IRI scanner data,USDA nutrition databases
+1,Primary use,Market research,Allow nutrient and food
+2,,,group analysis of dietary
+3,,,intake data
+4,Number of,1.1 million*,"10,000"
+5,items,,
+6,Database,Multiple variables describing,"One main text description,"
+7,structure,"each food item,each column has",plus one optional
+8,,similar information for every,additional text field
+9,,observation,
+10,Form of item,Purchase form (weight can,Raw or cooked (weight
+11,(product,include both edible and inedible,does not include inedible
+12,weight),parts),parts)

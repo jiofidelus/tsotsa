@@ -1,0 +1,29 @@
+,0,1,2,3,4
+0,Sample,Analyte,Sample Preparation,Separation,Reference
+1,,,,Method,
+2,Coffee and coffee products,Isoflavones,Acid hydrolysis,LC,Alves et al.2010
+3,Food supplement,Isoflavones,Solvent extraction and acid hydrolysis,LC,Boniglia et al.(2009)
+4,Pomegranate and,Lignans,Acid hydrolysis,GC-MS,Bonzanini et al.2009
+5,pomegranate products,,,,
+6,Food supplement,Isoflavones,Solvent extraction and acid hydrolysis,LC-MS/MS,Clarke et al.2008
+7,Water,"Isoflavones,equol,coumestrol",Solvent extraction and enzymatic and,LC-MS/MS,Erbs et al.2007
+8,,,acid hydrolysis,,
+9,Propolis,Isoflavones,Methanol extraction,GC-MS,Fernandez et al.2008)
+10,Soy milk and waste water,"Isoflavones, equol, coumestrol",Liquid-liquid extraction,GC-MS/MS,Ferrer et al.2009)
+11,"Soy products, Trifolium prantense,",Isoflavonoids,Methanol extraction,LC,Klejdus et al.2007
+12,"Irensine herbstii, Ononis spinosa",,,,
+13,Fruits and vegetables,"Isoflavones,lignans,coumestrol",Solvent extraction and enzymatic hydrolysis,LC-MS,Kuhnle et al.2007
+14,Vegetables,"Isoflavones,lignans,coumestrol",Solvent extraction and enzymatic hydrolysis,LC-MS/MS,Kuhnle et al.2009a)
+15,Various food,"Isoflavones, lignans, coumestrol",Solvent extraction and enzymatic hydrolysis,LC-MS/MS,Kuhnle et al.2009b
+16,Chinese herbs,Isoflavonoidslignans,Solvent extraction and enzymatic and acid,GC-MS,Lee et al.(2004)
+17,,mycoestrogens,hydrolysis,,
+18,Fruits and nuts,Daidzein and genistein,Enzymatic hydrolysis,GC-MS,Liggins et al.(2000a)
+19,Vegetables,Daidzein and genistein,Enzymatic hydrolysis,GC-MS,Liggins et al.(2000b
+20,Flaxseed,Lignans,Liquid-liquid extraction,LC,Meagher et al.(1999
+21,Method development,Lignans,Solvent extraction and enzymatic hydrolysis,LC-MS/MS,Milder et al.2004
+22,Method development,Lignans,Solvent extraction and enzymatic hydrolysis,GC-MS,Penalvo et al.2005)
+23,"Vegetables, fruits, legumes",Lignans,Solvent extraction and enzymatic and acid,LC,Schwartz and Sontag
+24,,,hydrolysis,,(2006)
+25,Various food,"Isoflavones, lignans,coumestrol",Solvent extraction and enzymatic hydrolysis,GC-MS,Thompson et al. (2006)
+26,Enriched dairy products,Isoflavones,Liquid-liquid extraction,LC,Zafra-Gomez et al.2010
+27,and fruit juices,,,,

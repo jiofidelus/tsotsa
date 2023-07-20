@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Species,Anatomic,%,%water,[Hg] mg/kg
+1,,part,weighta,contentb,d/w
+2,Agrocybe aegerita,Stem,34,836c,0.200.17ed
+3,,Cap,66,877,0.240.19e
+4,Amanita caesarea,Stem,41,913,0.810.14e
+5,,Cap,59,902,2.030.49d
+6,Boletus aereus,Stem,16,922,8.003.24b
+7,,Cap,84,913,10.282.92a
+8,Cantharellus,Stem,32,862,0.120.06e
+9,cibarius,,,,
+10,,Cap,68,861,0.190.23e
+11,Lactarius deliciosus,Stem,14,882,0.380.28e
+12,,Cap,86,883,0.610.79e
+13,Macrolepiota,Stem,37,885,1.871.20d
+14,procera,,,,
+15,,Cap,63,88  4,3.002.03c
+16,Morchella spp.,Stem,29,902,0.280.19e
+17,,Cap,71,874,0.210.12e
+18,Pleurotus eryngii,Stem,10,865,0.140.13e
+19,,Cap,90,893,0.160.26e
+20,Terfezia arenaria,Whole,100,831,0.090.08e
+21,Total,Stem,,,0.780.54b
+22,,Cap,,,0.960.42a

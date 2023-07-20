@@ -1,0 +1,15 @@
+,0,1,2,3
+0,Mixtures,Conc.of HO,HPS(%value,HPS (%) value
+1,,with respect to,with respect,with respect to
+2,,HPLC-ECD,to HPLC-ECD,HPS-CUPRAC
+3,,method(mM),method,method
+4,HOinitial),0.266,,
+5,HO+CuII,0.271,,
+6,Gallic acid,0.263,,
+7,GA+HO,,,
+8,Gallic acid,0.110,58.61.5,62.80.9
+9,GA+HO+CuII,,,
+10,Catechin,0.280,,
+11,CAT+HO,,,
+12,Catechin,0.221,16.90.5,14.61.9
+13,(CAT)+HO+Cu(II),,,

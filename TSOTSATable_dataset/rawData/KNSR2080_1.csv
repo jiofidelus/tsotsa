@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Proton position,Chemical shift (),Peak multiplicity,Carbon position,Chemical shift (),Peak multiplicity
+1,13,1.56,Multiplet,1,46.1,Doublet
+2,13,5.91,Doublet J=3.1),2,138.3,Singlet
+3,4,1.56,Complex multiplet doubled doublet,3,133.3,Doublet
+4,4a,3.3,"1=10.9,J2=4.8",4,46.4,Doublet
+5,6,6.43,DoubletU=12,4a,49.5,Doublet
+6,8a,6.73,DoubletU=12doubled doublet,5,198.4,Singlet
+7,8a,3.4,"J1=10.9,J2=4.8",6,140.5,Doublet
+8,"9a,9b",3.8,Complex multiplet,7,141.2,Doublet
+9,CH3,1.24,Singlet,8,198.8,Singlet
+10,,,,8a,48.9,Doublet
+11,,,,9,58.8,Triplet
+12,,,,CH3,27.1,Quartet

@@ -1,0 +1,54 @@
+,0,1,2,3,4,5,6,7
+0,No,Compounds,LRIa,Identification methodb,Concentration (g/kg),OAVe,DFf,Odor description
+1,Alcohol,,,,,,,
+2,A1,1-Octen-3-ol*,1450,MS/RI/O/Std,158  4.76,105,6,"earth, fat, floral, mold, mushroom"
+3,A2,"2,3-Butanediol",1543,MS/RI/Std,27.3  9.74,<1,,
+4,Aldehyde,,,,,,,
+5,B1,Hexanal*,1083,MS/RI/Std,49.1  0.002,10,-,
+6,B2,E-2-Hexenal,1216,MS/RI/Std,9.12  1.04,<1,,
+7,B3,E-2-Octenal*,1429,MS/RI/O/Std,45.4  0.229,15,2,"green, nut, fat"
+8,B4,Furan-2-carbaldehyde,1460,MS/RI/Std,46.6  0.717,<1,,
+9,B5,Decanal*,1480,MS/RI/Std,16.8  0.032,6,,
+10,B6,Benzaldehyde*,1520,MS/RI/O/Std,24311.4,<1,4,"bitter almond, burnt sugar, cherry, malt"
+11,Ketone,,,,,,,
+12,C1,"2,3-Butanedione",997,MS/RI/O/Std,76.2  10.7,76,6,"butter, caramel, cheese,cream, fruit"
+13,C2,3-Octanone,1253,MS/RI/Std,23.0  0.492,1,,
+14,C3,3-Hydroxy-2-butanone,1284,MS/RI/O/Std,742  11.9,53,4,"butter, cream, green pepper, rancid, sweat"
+15,C4,1-Octen-3-one*,1290,MS/RI/O/Std,11.8  0.133,3922,4,"earth, green, metal, mushroom"
+16,C5,6-Methyl-5-hepten-2-one*,1338,MS/RI/O/Std,46.0  0.118,1,4,"citrus, mushroom, pepper, rubber, strawberry"
+17,C6,3-Hydroxy-2-butanone acetate*,1378,MS/RI/O/Std,9.60  0.038,-,6,"cream, sweet, fat"
+18,Acids,,,,,,,
+19,D1,Acetic acid,1449,MS/RI/Std,550183,<1,,
+20,D2,3-Methylbutanoic acid*,1666,MS/RI/O/Std,81.5  3.94,<1,2,"cheese, fecal, putrid fruit, rancid, sweat"
+21,D3,E-2-Butenoic acid,1745,MS/RI/O/Std,88.92.33,,2,"sweet, cream, butter, fat"
+22,D4,Hexanoic acid*,1846,MS/RI/O/Std,1580  49.9,2,3,"acid, cheese, goat, pungent, rancid"
+23,D5,Heptanoic acid,1950,MS/RI/O/Std,154  13.2,<1,2,"apricot, floral,rancid, sour, sweat"
+24,D6,E-2-Hexenoic acid,1967,MS/RI/O/Std,23.1  0.257,,2,"fat, must"
+25,D7,Octanoic acid,2060,MS/RI/Std,119  5.73,<1,-,
+26,Esters,,,,,,,
+27,E1,Methyl acetate,828,MS/RI,472  90.4,<1,,
+28,E2,Methyl hexanoate,1184,MS/RI/Std,1440  32.1,21,-,
+29,E3,Hexyl acetate,1271,MS/RI/O/Std,14.7  2.61,<1,,
+30,E4,Methyl heptanoate,1287,MS/RI/Std,207  5.79,52,-,
+31,E5,Methyl decanoate*,1593,MS/RI/Std,1160  52.6,<1,-,
+32,E6,Ethyl decanoate*,1605,MS/RI/O/Std,273  15.0,<1,4,"brandy, burnt,grape, nut, pear"
+33,E7,Methyl benzoate*,1612,MS/RI/Std,273  14.9,4,-,
+34,E8,Methyl dodecanoate*,1804,MS/RI/O/Std,120078.0,803,6,"coconut, fruit, sweet"
+35,E9,Hexamethyl decanoate,2194,MS/RI/Std,79.9  38.9,<1,-,
+36,Lactones,,,,,,,
+37,F1,2-Oxolanone,1632,MS/RI,150  10.9,<1,-,
+38,F2,5-Ethyl-2-oxolanone,1694,MS/RI/O/Std,72.10.345,<1,5,"coconut, coumarin, onion, sweet,warm"
+39,F3,5-Propyl-2-oxolanone,1787,MS/RI/O/Std,30.4  0.21,<1,2,"caramel, fat, nut, peach, sweet"
+40,F4,5-Butyl-2-oxolanone*,1910,MS/RI/O/Std,31.8  0.334,5,4,"coconut, fruit"
+41,Pyrazines,,,,,,,
+42,G1,"2,6-Dimethylpyrazine",1328,MS/RI/Std,5.00  0.002,<1,-,
+43,G2,2-Ethyl-6-methylpyrazine*,1386,MS/RI/O/Std,54.53.18,1,2,"green, nut, roasted"
+44,G3,"3,5-Dimethyl-2-ethylpyrazine*",1455,MS/RI/O/Std,115  11.5,2887,5,"earth, must, nut, potato, roast"
+45,G4,Tetramethylpyrazine,1470,MS/RI/Std,47.50.269,<1,-,
+46,Olefins,,,,,,,
+47,H1,Limonene*,1200,MS/RI/O/Std,1750.641,5,4,"Citrus, orange"
+48,H2,Styrene*,1261,MS/RI/Std,88.6  0.283,1,-,
+49,H3,a-Farnesene,1746,MS/RI/Std,11.30.657,,-,
+50,Others,,,,,,,
+51,11,1-Methyl-4-(2-propyl)benzene*,1270,MS/RI/Std,10.7  0.553,2,-,
+52,12,Naphthalene*,1746,MS/RI/Std,87.7  0.493,15,,

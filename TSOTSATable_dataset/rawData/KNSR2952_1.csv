@@ -1,0 +1,9 @@
+,0,1,2
+0,Conditions,Iron,Zinc
+1,Atmosphere,Air,Air
+2,Detector,SDD,SDD
+3,Tube filter,A6,W5
+4,Secondary beam filter,open,open
+5,Voltage (V),15,26
+6,Set current (A),200,115
+7,Acquisition time (s),100,100

@@ -1,0 +1,12 @@
+,0,1,2,3,4
+0,,Retention factor value,Retention factor value,,
+1,,Primary development,Primary development,Secondary development,Secondary development
+2,PL,Average,Range,Average,Range
+3,PC,0.240,(0.15-0.39),0.295,(0.26-0.33)
+4,PE,0.510,(0.39-0.63),0.485,(0.46-0.51)
+5,PS,0.130,(0.00-0.26),0.315,(0.270.36)
+6,PI,0.130,(0.00-0.26),0.245,(0.230.26)
+7,CL,0.695,(0.55-0.84,0.610,(0.52-0.70)
+8,SM,0.150,(0.07-0.23),0.295,(0.26-0.33)
+9,LPC,0.145,(0.04-0.25),0.150,(0.080.22)
+10,LPA,0.015,(0.00-0.03),0.335,(0.300.37)

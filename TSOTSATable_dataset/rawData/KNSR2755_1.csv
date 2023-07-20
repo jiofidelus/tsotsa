@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,,Compounds,Target ions,Retention times (min),
+1,,,,GC-MS method 1,GC-MS method 2
+2,1,Benzene,"78,79",7.7,
+3,2,Toluene,"91,92",11.9,
+4,3,Ethylbenzene,91,18.3,
+5,4,o-Xylene,91,18.9,
+6,5,m/p-Xylene,91,20.4,
+7,6,Naphthalene,128,58.7,5.9
+8,7,2-Bromonaphthalene,207,58.7,7.6
+9,8,Acenaphthylene,"153,154",60.6,7.8
+10,9,Acenaphthene,"153,154",61.1,7.9
+11,10,Fluorene,166,64.1,8.9
+12,11,Anthracene,178,67.0,11.9
+13,12,Phenanthrene,178,67.2,12.1
+14,13,Fluoranthene,"202,203",69.2,18.2
+15,14,Pyrene,202,69.6,19.8
+16,15,Benz[a]anthracene,228,,30.1
+17,16,Chrysene,228,,30.4
+18,17,Benzo[b]fluoranthene,252,,40.9
+19,18,Benzo[a]pyrene,252,,43.4
+20,19,"Indeno[1,2,3-cd]pyrene",276,,53.3
+21,20,"Dibenzo[a,h]anthracene",276,,53.6
+22,21,Benzo[ghi]perylene,278,,54.6

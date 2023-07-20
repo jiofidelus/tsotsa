@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7
+0,TRAIT,Selection direction,Selection direction,Xo,Xs,h2%,GG,GG%
+1,M100 G,Highest value,,30.17,31.71,98.37,1.51,5.01
+2,Length,Highest value,,11.62,11.20,96.65,-0.41,-3.54
+3,L*,Highest value,,55.07,58.36,99.23,3.26,5.93
+4,a*,Lowest value,,6.22,4.08,98.99,-2.12,34.10
+5,CT,Lowest value,,16.49,17:43,95.50,51.48,5.10
+6,P,Highest value,,3.95,4.63,86.73,0.59,15.09
+7,Mg,Highest value,,3.10,3.14,86.70,0.03,1.08
+8,Fe,Highest value,,65.12,64.08,71.31,-0.74,-1.14
+9,Zn,Highest value,,28.93,29.30,65.58,0.24,0.84
+10,Cu,Highest value,,9.32,9.35,84.42,0.02,0.22
+11,Total gain,,,,,,53.87,-5.51
+12,,,Light-grain common bean cultivars selected,Light-grain common bean cultivars selected,Light-grain common bean cultivars selected,Light-grain common bean cultivars selected,Light-grain common bean cultivars selected,
+13,Cultivars,,M100 G,M100 G,Length.,L*,a*,CT
+14,Preguicoso,,42.86,,12.63,74.63,0.30,22:29
+15,Inhoque,,32.70,,10.83,56.98,1.78,21:52
+16,Carioca Vila Nova do Sul,Carioca Vila Nova do Sul,25.69,,10.65,52.61,6.14,13:36
+17,Perola,,29.11,,11.18,53.26,6.26,16:35
+18,Trindade,,28.18,,10.70,54.34,5.90,14:02
+19,Cultivars,,P,,Mg,Fe,Zn,Cu
+20,Preguicoso,,5.42,,3.06,65.94,28.46,9.24
+21,Inhoque,,3.98,,2.80,61.59,25.86,8.04
+22,Carioca Vila Nova do Sul,Carioca Vila Nova do Sul,5.11,,3.22,68.98,31.54,10.29
+23,Perola,,4.40,,3.37,61.14,33.28,9.70
+24,Trindade,,4.26,,3.25,62.74,27.36,9.49

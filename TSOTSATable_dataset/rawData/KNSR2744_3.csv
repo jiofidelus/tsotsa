@@ -1,0 +1,49 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,Basil species and,Phenolic Acids,,,,,,,,,,,,,Anthocyanins,Determination,Reference
+1,cultivar,Rosmarinic,Chicoric,Caftaric,Caffeic,Ferulic,p.,Caffeoyltartaric,Quercetin,Gentisic,Salvianic,Salvianolic,Salvianolic,Fertaric,,method,
+2,,acid,acid,acid,acid,acid,Coumaric,acid,rutinoside,acid,acid A,acid K,acid L,acid,,,
+3,,,,,,,acid,,acid,,,,,,,,
+4,,mg gdry weight,mg gdry weight,,,,,,,,,,,,mg g-1 dry,,
+5,,(mg g fresh weight),(mg g fresh weight),,,,,,,,,,,,weight,,
+6,,[mol g fresh weight],[mol g fresh weight],,,,,,,,,,,,,,
+7,O. basilicum L.,44.3,,,0.212,,,,,,,,,,,LC-DAD-MS/,Jakovljevic et al.
+8,purpurascens,6.69,2.01,,,,,,,,,,,,0.60,HPLC,Nguyen et al.
+9,'Dark Opal',,,,,,,,,,,,,,,,2010
+10,,48,,,,,,,,,,,,,,HPLC,Juliani et al.
+11,,,,[0.18],,,,,,,,,,,,,(2008)
+12,,[12.45],[0.93],[0.18],,,,,,,[0.28],[0.18],,,,HPLC-DAD-ESI-,Prinsi et al.
+13,,,,,,,,,,,,,,,,MS/MS,(2019
+14,,0.0175,0.0037,0.0241,,,,,,,,,,,,HPLC,Bajomo et al.
+15,,,,,,,,,,,,,,,,,(2022)
+16,O. basilicum L.,33,,,,,,,,,,,,,,HPLC,Juliani et al.
+17,'Red Rubin',,,,,,,,,,,,,,,,(2008)
+18,,(0.84),(0.05,(0.062,(0.046,,,,,,,,,,,HPLC-DAD-ESI-,Scagel&Lee
+19,,,,,,,,,,,,,,,,MS/MS,2012
+20,,1.392,0.107,0.048,0.090,,,,,0.407,,,,,,,Flanigan &
+21,,,,,,,,,,,,,,,,,Niemeyer (2014)
+22,,,,,,,,,,,,,,,0.72,,Salas-Perez et al.
+23,,,,,,,,,,,,,,,,,(2018
+24,,[15.00],[1.09],[0.29],0.0276,0.0054,,,,,,[0.21],[0.53],,,,Prinsi et al.
+25,,,,,,,,,,,,,[0.53],,,,(2019)
+26,O. basilicum L.,7,,,,,,,,,,,,,,HPLC,Juliani et al.
+27,'Cinnamon',,,,,,,,,,,,,,,,2008)
+28,,4.79,1.70,0.26,0.16,,,,,,,,,,0.48,,Kwee& Niemeyer
+29,,,(0.746),,(0.062),,,,,,,,,,,,2011
+30,,(1.38),(0.746),0.039,(0.062),,,,,,,,,,,HPLC-DAD-ESI-Scagel& Lee,HPLC-DAD-ESI-Scagel& Lee
+31,,,,,,,,,,,,,,,,MS/MS,2012
+32,O. basilicum L.,0.26,2.78,0.49,0.32,,,,,,,,,,0.50,HPLC,Kwee & Niemeyer
+33,var.,,,,,,,,,,,,,,,,(2011)
+34,thyrsiflorum,(2.41,,,0.0022),,,,(0.012),,,,,,,HPLC-DAD-ESI-,Scagel et al.
+35,Siam Queen',,,,,,,,,,,,,,,MS/MS,(2019
+36,O. basilicum L.,29.0,,,,,,,,,,,,,,HPLC,2008
+37,Lettuce leaf,,,,,,,,,,,,,,,,2008
+38,,0.0041,0.0020,0.0223,0.0223,0.0007,,,,,,,,,,HPLC,Bajomo et al.
+39,,0.0029,0.0026,0.0238,0.0334,0.0017,,,,,,,,,,,(2022)
+40,,(1.58),,,(0.0033),,,,(0.0066),,,,,,,HPLC-DAD-ESI-,Scagel et al.
+41,,,,,,,,,,,,,,,,MS/MS,(2019)
+42,O. basilicum L.,21.0,,,0.464,,,,,,,,,,,LC-DAD-MS/,Jakovljevic et al.
+43,var. minimum,,,,,,,,,,,,,,,MS,2019)
+44,'Small leaved',,,,,,,,,,,,,,,,
+45,,0.0029,,0.0178,0.0362,0.0022,,,,,,,,,,HPLC,Bajomo et al.
+46,,0.0056,0.0026,0.0286,00427,0.0023,,,,,,,,,,,2022)
+47,,0.0022,0.0020,0.0219,0.0254,0.0014,,,,,,,,,,,

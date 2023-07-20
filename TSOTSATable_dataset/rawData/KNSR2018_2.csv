@@ -1,0 +1,22 @@
+,0,1,2,3
+0,Food group,1% of annual consumption,No.of food items,Description of food items
+1,,per person(g/ml),,included in the food group
+2,Cereal products,694,11,"Flour, grain,corn flakes,pasta, bread incl. wholemeal bread"
+3,Pastries,137,4,"Biscuits,buns,cakes"
+4,Meat products,567,16,"Beef,pork,lamb,poultry,cured/processed meats"
+5,Fish,133,13,"Fresh and frozen, canned products, shellfish"
+6,Dairy products,1685,12,"Milk, sour milk, yoghurt, cream, hard cheese,"
+7,,,,"processed cheese, cottage cheese"
+8,Egg,92,1,
+9,Fats,175,6,"Butter, margarine, cooking oil, mayonnaise"
+10,"Vegetables,incl.root",548,19,"Fresh and frozen,canned products"
+11,vegetables,,,
+12,Fruit,641,15,"Fresh and frozen, canned products, juice, nuts"
+13,,,,"cordials, jam"
+14,Potatoes,514,4,"Fresh,French fries"
+15,Sugar and sweets,286,6,"Sugar,chocolate, sugar sweets,mustard,ketchup"
+16,"Soft drinks, beer",1188,4,"Soft drinks,mineral water,beer 2.1-3.5% alcohol)"
+17,Wine,145,4,Red and white wine (2 varieties each)
+18,Strong beer(>5% alcohol),218,3,Different brands
+19,Spirits,28,3,Different brands
+20,Ice cream,68,2,Dairy and vegetable fat-based

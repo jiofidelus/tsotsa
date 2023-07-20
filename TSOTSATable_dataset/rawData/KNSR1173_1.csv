@@ -1,0 +1,20 @@
+,0,1,2,3,4
+0,Semi-preparative,,Analytical,Analytical,
+1,,,Vitamin D,25-hydroxyvitamin D,25-hydroxyvitamin D
+2,Columns,Silica(LUNA)+amino(Spereclone),C18 (VYDAC),C18 (LUNA),C18 (LUNA)
+3,Eluent,A: n-heptane,,Methanol:acetonitrileMethanol:water,Methanol:acetonitrileMethanol:water
+4,,B: 10% 2-propanol in n-heptane,(20:80),(90:10),(90:10)
+5,Gradient,80% A+20% B (0 min),,,
+6,,40% A+60% B (10-20 min),,,
+7,,80% A+20% B (20-35 min),,,
+8,Flow (mL/min),1,1,,1
+9,Injection volume (L)150,,100,,100
+10,Retention time,Vitamin D: 13.5min,,Vitamin D: 18.5min25-OH D:17.9min,
+11,,25-OH D: 26.5 min,,Vitamin D3:20.5min25-OH D2:19.0 min,
+12,Collection (min),Fraction 1:12.5-14.5,,,
+13,,Fraction 2:25-28,,,
+14,Diluted to (uL),Fraction 1: 250,,,
+15,,Fraction 2:250,,,
+16,Detection,UV 265 nm,"DAD,220-320 nm","DAD,220-320 nm","DAD,220-320 nm"
+17,Quantification,,"UV,265 nm","UV,265 nm","UV,265 nm"
+18,Standard,,Internal (vitamin D),External incl. corr. for recovery,External incl. corr. for recovery

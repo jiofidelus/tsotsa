@@ -1,0 +1,5 @@
+,0,1,2,3,4
+0,Nutrient,Dependent variable,Fixed effect,Random effect,Observation removed
+1,Vitamin Ds,Log(Vitamin D),Type * Part,1processor+1processorType,56th Assayed value=8.32 (liquid yolk
+2,25(OHD3,Log(25OHD),Type+Part,1processor+1processor:Type,62nd Assayed value = 1.09 (liquid yolk)
+3,Iodine,Square Root(lodine),Type * Part,0+Partprocessor+1processorType,"1t28th Assayed values=423;188 dried yolk,liquid yolk"

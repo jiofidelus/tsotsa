@@ -1,0 +1,32 @@
+,0,1,2,3,4
+0,Comment,Linear range,Detection,Sample,Reference
+1,,,Limit,,
+2,N-CDs,0.56-17.43g/,0.08 g/mL,"River water,","(Song et al.,"
+3,,mL,(0.338M),"pear, soil",2017)
+4,,(2.38-73.78,,,
+5,,M),,,
+6,N-CDs,0.075-15g/,0.00187,"River water,","Lan et al.,2019"
+7,,mL(0.075-15,g/mL,apple,
+8,,ppm),1.87 ppb,,
+9,MoS QDs,0.01-30 g/mL,0.085g/,"Rice,tap",(Fahimi-Kashani
+10,,,mL,water,"et al.,2017"
+11,-CD-,0.01-18g/mL,0.0033g/,"Apple,",Yi et al.2021
+12,MoS2,0.01-18 ppm),mL(3.3,cucumber,
+13,QDs,,ppb),,
+14,GQDs/,0.110-3_6x,0.017g/,"Water, apple,","Li et al.,2020"
+15,AgNPs,10-3 g/mL,mL(0.017,carrot,
+16,,0.1-6g/L,g/L),,
+17,Mn:ZnS,0.045-0.224,0.00472,"Apple,lake","(Zhang et al.,"
+18,QDs,g/mL,g/mL,"water, drilled",2019)
+19,,0.19-0.95M,0.02M,water,
+20,UiO66-,0.01-1000g/,0.01 g/mL,"Orange,","(Mehta et al.,"
+21,NH2,mL(10-106,,tomato,2019)
+22,,ng/mL),,,
+23,CdTe QDs,0.025-3 g/mL,0.018g/,"Tap water,",Yan et al.2015
+24,,25-3000 ng/,mL,rice,
+25,,mL),,,
+26,This work,0.01-15.0g/,0.00156,"Peach,",
+27,,mL,g/mL,"cucumber,",
+28,,,1.56 ng/,"pear,",
+29,,,mL),"cabbage,",
+30,,,,cherry tomato,

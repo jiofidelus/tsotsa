@@ -1,0 +1,56 @@
+,0,1,2,3,4,5,6
+0,Cheeses,Fractions,Origin and Protein,Amino acid sequence,Molecular weights,Molecular weights,Previous works
+1,,,fragment,,Da),,
+2,H,f5,-CN (6873),AQTQSL,,727.3,
+3,,,1Phospho,,,,
+4,"B,C,H","f2,f3,f4",-CN (6973),QTQSL,,656.3,
+5,,,1Phospho,,,,
+6,HD,f5,-CN(6975,QTQSLVY,,918.4,
+7,,,1Phospho,,,,
+8,"B,C,H,P","f1,f3,f5,f6,f7",-CN(76-81,TFPGPIP,,627.4,"Haileselassie et.al.,1999"
+9,"HD,P","f2,f3,f6",-CN (7885),FGPIPNSL,,874.4,"Geerlings et al., 2006"
+10,,,1Phospho,,,,
+11,"B,C,H,K","f4,f5,f6",-CN (93102),TQTPVVVPPF,,1164.6,"Ozttirk et.al.,2021"
+12,,,1Phospho,,,,
+13,K,f6,-CN (93103),TQTPVVVPPFL,,1197.7,"Oztirk et.al.,2021"
+14,,,1Phospho,,,,
+15,H,f2,-LG1-5,MKCLL,,607.3,
+16,"C,HD,P","f4,f5",-LG(103-109,LNENKVL,,829.5,
+17,C,f7,-LG (104109),NENKVL,,716.4,
+18,"B,C,HD","f4,f7",-LG110-115,VLDTDY,,805.3,"Willy and Wilhelmu,2007"
+19,,,1Phospho,,,,
+20,"B,C,H,HD,P","f1,f4,f5",-LG (1116),TCGAQA,,550.2,
+21,,,1phospho,,,,
+22,"H,P","f2,f4",-LG112-118,DTDYKKY,,1092.4,"Willy and Wilhelmu,2007"
+23,,,2Phospho,,,,
+24,"B,H,HD,P","f1,f4",-LG(121127,FCMENSA,,881.3,
+25,"C,H","f2,f7",-LG (122127),CMENSA,,734.2,
+26,,,1Phospho,,,,
+27,"B,H,HD,K","f1,f7",-LG (128133),EPEQSL,,702.3,
+28,"B,C,H,HD","f1,f3,f7",-LG (128134),EPEQSLA,,853.3,
+29,,,1Phospho,,,,
+30,H,f3,-LG (139148),VRTPEVDDEA,,1130.5,
+31,P,f5,-LG (139149),VRTPEVDDEAL,,1323.6,
+32,,,1Phospho,,,,
+33,"B,H,K,P","f1,f2,f4",-LG (166172),SFNPTQL,,806.4,
+34,,,1Phospho,,,,
+35,C,"f5,f7",-LG (168172),NPTQL,,572.3,
+36,"B,H,HD","f1,f4",-LG (173178),EEQCHI,,758.3,
+37,B,f7,-LG(1826,IVTQTMKGL,,1150.5,
+38,,,2Phospho,,,,
+39,B,f1,-LG (2332),DIQKVA,,673.4,
+40,B,f10,-LG (2935),QKVAGTW,,869.4,"Willy and Wilhelmu,2007"
+41,,,1Phospho,,,,
+42,H,f3,-LG(43472,SDISL,,694.2,
+43,,,Phospho,,,,
+44,"B,C","f1,f4,f7",-LG (5155,QSAPL,,515.3,
+45,,,1Phospho,,,,
+46,"B,H","f3,f4",-LG54-58,PLRVY,,647.4,
+47,"B,P","f1,f7",-LG (5662),RVYVEEL,,907.5,"Willy and Wilhelmu,2007"
+48,"H,K","f2,f4",-LG (6372),KPTPEGDLEI,,1178.5,
+49,,,1Phospho,,,,
+50,H,f5,-LG (89-94),AEKTKI,,769.4,"Willy and Wilhelmu,2007"
+51,,,1Phospho,,,,
+52,"B,C,H,HD,","f3,f4,f7",-LG (9094),EKTKI,,618.4,"Willy and Wilhelmu,2007"
+53,K,,,,,,
+54,"C,H,HD,K","f5,f6",-LG (9096),EKTKIPA,,866.4,"Willy and Wilhelmu,2007"

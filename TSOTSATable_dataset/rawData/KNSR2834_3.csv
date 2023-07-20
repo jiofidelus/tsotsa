@@ -1,0 +1,27 @@
+,0,1,2,3
+0,Food sample and processing method,Fpe,HPLCb.c,Ratio:
+1,,Fresh,Fresh,FP/HPLC
+2,"Yellow maize kernels,dried",561,573,1.0
+3,Yellow maize kernels dried soaked for two days,447,413,1.1
+4,Yellow maize dough unfermented,301,259,1.2
+5,Yellow maize dough soaked for two days,285,294,1.0
+6,Yellow maize dough fermented lab,274,249,1.1
+7,Yellow maize dough fermented airing,276,247,1.1
+8,"White bread,78 % extraction rate,toasted",99,57,1.7
+9,"White bread,78 % extraction rate,fresh",88,68,1.3
+10,"Tofu,raw",209,206,1.0
+11,"Tofu,fried",303,289,1.0
+12,"Tempeh,raw",58,ND,
+13,"Tempeh,fried",ND,ND,
+14,"Red kidney beans, whole, dried, soaked",331,287,1.2
+15,"Red kidney beans,whole,dried",941,587,1.6
+16,"Orange sweet potato,raw",ND,ND,
+17,"Orange sweet potato,boiled",ND,ND,
+18,"Muffin (baking powder + baking soda,fresh",76,ND,
+19,"Jasmine white rice, soaked overnight,boiled",ND,ND,
+20,"Jasmine white rice,boiled",ND,ND,-
+21,"Jasmine white rice ground into flour,raw",ND,ND,-
+22,Jasmine rice porridge from flour,ND,ND,
+23,"White mung beans, whole,dried",864,646,1.3
+24,"Green mung beans, whole,dried",696,409,1.7
+25,"Green mung beans, sprouted",509,298,1.7

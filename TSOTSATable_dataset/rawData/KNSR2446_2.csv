@@ -1,0 +1,43 @@
+,0,1,2,3,4,5
+0,Peak*,Rt(min),UV max,[M+H]+m/z,MS/MS m/z,Assigned identity
+1,1,2.91,269,219.03,"219.03,112.90,58.06",Unknown
+2,2,3.10,479,325.11,"307.13,220.10,191.14",Bx-hydroxyproline (portulacaxanthin I)b
+3,3,3.25,471,269.11,"225.14, 136.06",Bx-glycine(portulacaxanthin III)
+4,4,3.38,244,130.09,"84.08,56.05",Unknown
+5,5,3.66,475,307.08,"116.07, 84.08, 76.02",Bx-unknownb
+6,6,3.85,474,326.14,"325.14,307.13,220.10",Bx-asparagine (vulgaxanthin III)a
+7,7,3.98,470,340.11,"308.09,116.07,84.04,76.02",Bx-glutamine (vulgaxanthin Ia
+8,8,4.16,259,142.09,"113.03,74.02",Unknown
+9,9,5.00,275,322.21,"147.04,119.05,107.05,91.05",Piscidic acid derivativeb
+10,10,5.50,474,341.10,"292.20,147.04,72.08",Bx-glutamic acid (vulgaxanthin II)a
+11,11,9.20,469,297.11,"286.09,153.04, 86.09",Bx-amino butyric acid
+12,12,10.47,478,309.11,263.10;217.10;70.06,Bx-proline (indicaxanthin)a
+13,13,12.08,275,257.07,"191.07,147.04,119.05,107.05",Piscidic acida
+14,14,13.71,534,551.15,"390.10,389.10",Betanina
+15,15,20.67,534,551.15,"390.10,389.10",Isobetaninb
+16,16,22.82,274,240.05,"131.05,103.05,72.08",Eucomic acid
+17,17,23.98,328,401.28,"145.03,127.04",Unknown
+18,18,27.28,540,389.10,"345.09,150.05",Betanidina
+19,19,27.98,536,551.15,389.10,Gomphrenin Ib
+20,20,30.21,"328,298 (sh)",398.11,"177.05,150.05,103.05",Unknown
+21,21,31.30,"326, 297 (sh)",961.34,"339.11,177.05,70.06",Unknown
+22,22,31.70,476,549.13,387.08,Neobetaninb
+23,23,32.34,274,205.05,"161.06,131.05,115.05,105.07",4-hydroxybenzoic acid derivative
+24,24,33.36,265,193.09,"193.09,105.07,79.05",Unknown
+25,25,33.56,266,481.13,"177.05,70.06",Unknown
+26,26,36.04,"269, 302",469.17,"232.07,177.05,133.06",Unknown
+27,27,36.76,473,398.25,"307.26, 219.05",Bx-tryptophanb
+28,28,37.25,"273,355",498.26,"234.11,177.05",Protocatechuic acid derivative
+29,29,37.49,"266,351",426.24,"303.05,191.07,120.08",QG1 (quercetin glycosideb
+30,30,38.07,"269,350",653.28,"303.05,177.05",QG2 (quercetin glycosideb
+31,31,39.06,352,771.23,"625.18;317.07,85.03",IG1 (isorhamnetin glucoxyl-rhamnosyl-rhamnoside)
+32,32,39.43,352,757.22,"317.07,167.07,86.10",IG2(isorhamnetin glucoxyl-rhamnosyl-pentoside)
+33,33,39.71,353,757.22,317.06,IG3(isorhamnetin-hexosyl-hexosyl-pentoside)
+34,34,40.12,"352, 299 (sh)",611.16,"479.12,317.07,177.05",IG4(isorhamnetin glucosyl-pentoside)a
+35,35,40.43,"352,293(sh)",611.23,"303.05,229.11,137.06",Rutin (quercetin-3-rutinoside)a
+36,36,42.17,353,581.15,317.07,Isorhamnetin glycosideb
+37,37,42.63,352,595.17,287.06,KG1(kaempferol-glucosyl-rhamnoside)a
+38,38,43.08,355,625.18,"317.07,85.03",IG5 (isorhamnetin glucoxyl-rhamnoside)
+39,39,43.93,313,475.22,"177.05,175.15,119.09",Unknown
+40,40,44.31,"330,299 (sh)",814.58,"641.37,317.07,169.09",Isorhamnetin glycosideb
+41,41,49.94,370,317.07,317.07,Isorhamnetin

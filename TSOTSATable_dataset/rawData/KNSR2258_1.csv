@@ -1,0 +1,37 @@
+,0,1,2,3,4,5,6
+0,Food,Origin,Water,Energy,Protein,Fat,Carbohydrate
+1,,,gm,Kcal,gm,gm,gm
+2,,,per 100 gm wet weight,,Per 100 gm dry weight,Per 100 gm dry weight,
+3,Barley,(Hordeum vulgare),(Hordeum vulgare),,,,
+4,,Morocco,7.80.3,4001,7.60.1,2.20.1,87.20.1
+5,,"F.A.O,",10.1,374,11.1,1.8,84.6
+6,Corn Zea mays),Corn Zea mays),,,,,
+7,,Morocco,8.20.2,4141,8.40.2,4.10.1,85.50.5
+8,,F.A.O.,10.6,406,11.2,5.4,82.1
+9,Durum wheat (Triticum durum),Durum wheat (Triticum durum),,,,,
+10,,Morocco,8.30.3,4021,11.10.2,2.10.1,84.90.3
+11,,F.A.O.,15,386,14.9,1.9,80.8
+12,Soft wheat (Triticum aestivum),Soft wheat (Triticum aestivum),,,,,
+13,,Morocco,7.80.2,4051,10.2+0.2,2.30.1,85.3+0.1
+14,,F.A.O.,13.2,376,15.9,1.8,80.6
+15,Sorghum (Sorghum vulgare),Sorghum (Sorghum vulgare),,,,,
+16,,Morocco,7.80.2,4072,11.70.3,3.50.2,81.81.0
+17,,F.A.O.,10.6,384,11.9,3.6,82.4
+18,Peas (Pisum spp.),Peas (Pisum spp.),,,,,
+19,,Morocco,8.30.4,3981,23.20.4,1.90.1,71.30.2
+20,,F.A.O.,11.3,381,24.7,1.2,69.7
+21,Lentils (Lens culinaris),Lentils (Lens culinaris),Lentils (Lens culinaris),,,,
+22,,Morocco,8.00.3,3971,22.00.3,1.80.1,72.30.4
+23,,F.A.O.,10.2,383,27.8,1.3,67.8
+24,Chickpeas(Cicer arietinum),Chickpeas(Cicer arietinum),,,,,
+25,,Morocco,7.40.5,4212,17.90.2,5.70.3,73.10.4
+26,,F.A.O.,10.3,397,21.8,4.1,70.6
+27,White beans(Phaseolus vulgaris,White beans(Phaseolus vulgaris,,,,,
+28,,Morocco,9.40.1,3911,21.00.5,1.8+0.1,71.3+0.1
+29,,F.A.O.,12.7,383,24.7,1.7,69.4
+30,Broad beans(Vicia faba),Broad beans(Vicia faba),Broad beans(Vicia faba),,,,
+31,,Morocco,7.50.1,4001,27.20.2,2.40.1,67.10.2
+32,,F.A.O.,10.4,383,31.8,1.8,63.2
+33,Rice (Oryza sativa),Rice (Oryza sativa),,,,,
+34,,Morocco,8.90.1,4031,7.4+0.1,1.90.1,88.70.1
+35,,F.A.O.,10.6,394,6.9,2.2,85.2

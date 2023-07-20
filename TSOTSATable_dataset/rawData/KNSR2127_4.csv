@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,Bioactive compound,Food,Processing,In vitro digestion,Effect on bioaccessibility,Reference
+1,,,,method,,
+2,-carotene and lycopeneRed and yellow tomato-basedHPP:,-carotene and lycopeneRed and yellow tomato-basedHPP:,,Solubility,CEO-SP:No effect,Palmero et al.
+3,,model system:,,,,(2016)
+4,,carotenoid enriched oil (CEO),100 MPa1 cycle,,CEO-IPcarotenoid BAcs,
+5,,"5%,chromoplast (CHRO) and",,,CHRO-SP:No effect in B-carotene BAcs,
+6,,"cell clusters (CC), dispersed",,,and slight  in lycopene BAcs,
+7,,into soluble (SP) and,,,CHRO-IP: carotenoid BAcs,
+8,,insoluble (IP) phases,,,CC-SP and CC-IP:,
+9,,,,,carotenoid BAcs,
+10,"Total carotenoids,",Plum and cabbage,TT:,Solubility and Caco-2,TT no effect on carotenoids,Kaulmann
+11,"xanthopylls, carotenes",,Boiling (7min),cells/co-culture cell,Carotenoid uptake was higher in co-,et al.(2016)
+12,,,Steaming (7min),modelCaco-2:HT-,culture vs.monoculture cell model,
+13,,,,29-MTX (mucus,,
+14,,,,producing cells),,
+15,-carotene and lycopeneMloukhiya,-carotene and lycopeneMloukhiya,TT,Solubility,,"-CaroteneBAcs,higher at TT 60/150Dhuique"
+16,and lutein,,,,min,Mayer et al.
+17,,(Tunisian dish): Dried jute,"95C/30,60 and",,Lycopene: not detected,(2016
+18,,leaves+tomato paste+olive,150min),,"Lutein:  BAcs,",
+19,,oil+water,,,higher at TT 60/150 min,

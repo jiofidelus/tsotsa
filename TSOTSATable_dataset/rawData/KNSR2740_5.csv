@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Phosphorus (P),,,,,,Potassium (K),,,,,
+1,Variety,Hazy,Giy,Emp,Rood,Mean (variety),Variety,Hazy,Giy,Emp,Rood,Mean (variety)
+2,Serolane,54,60,37,52,5110 a,Serolane,309,414,268,345,31465 ab
+3,Khano,49,47,33,54,469 ab,Khano,295,334,237,391,30951 abc
+4,Impilo,47,47,42,45,453 b,Ndoua,312,359,239,328,30951 abc
+5,Resisto,50,48,34,47,457 b,1999_1_7,255,335,277,320,29737 abcd
+6,1999_1_7,46,48,32,46,437 b,Excel,259,313,253,350,29145 bcd
+7,Excel,44,46,35,46,435 bc,Monatea,279,313,274,297,29118 bcd
+8,W_119,37,54,34,45,429 bc,Impilo,257,324,261,286,28635 bcde
+9,Ndoua,43,49,26,45,428 bc,Resisto,257,324,218,286,27245 cdef
+10,Monatea,41,44,26,39,388cd,W_119,246,333,215,259,26350 def
+11,2001_5_2,35,33,31,32,331 de,Beauregard,235,283,224,253,24926 ef
+12,Beauregard,31,33,26,31,303 e,2001_5_2,247,195,235,259,23428 f
+13,Blesboka,30,30,24,28,283e,Blesboka,193,200,181,190,1918g
+14,Mean (site),42 a,45a,32 b,42 a,,Mean (site),262 b,310 a,240 b,299 a,
+15,Overall mean,,,,,40,Overall mean,,,,,278
+16,P-Value (var),,,,,<0.001,P-Value (var),,,,,<0.001
+17,P-Value (site),,,,,<0.001,P-Value (site),,,,,<0.001
+18,LSD (var),,,,,5.3,LSD (var),,,,,41.36
+19,LSD (site),,,,,3.1,LSD (site),,,,,23.88
+20,CV%,,,,,9.1,CV%,,,,,10.4

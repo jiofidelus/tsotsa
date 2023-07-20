@@ -1,0 +1,36 @@
+,0,1,2,3,4,5
+0,ood,No.of,No.of,Sodium,Potassium,Na:Kratio
+1,,brands,purchases,(mg/100g),mg/100g,(mmol basis
+2,,,per brand,,,
+3,ashews,,,,,
+4,Farmland,,,,,
+5,regular,1,4,380+14a,590+12a,1.1
+6,no added salt,1,4,18+2c,610+24a,0.05
+7,All brands,,,,,
+8,regular,6,1+,400+170*,600+22*,1.1
+9,no added salt,1,4,182*,610+24*,0.05
+10,Peanuts,,,,,
+11,Farmland,,,,,
+12,regular,1,4,360+22a,610+13a,1.0
+13,no added salt,1,4,10+1c,63016a,0.03
+14,Planters,,,,,
+15,regular,1,4,640+42a,6106a,1.8
+16,low salt,1,4,240+1gb,670+23a,0.6
+17,All brands,,,,,
+18,regular,10,1+,500+140*,54048*,1.6
+19,low salt,1,4,2401ga,670+23a,0.6
+20,no added salt,1,4,10+1c,630+16a,0.03
+21,Potato chips,,,,,
+22,Smiths,1,,,,
+23,regular,1,4,61081a,1500130a,0.7
+24,lightly salted,1,4,400+32b,1000+190a,0.6
+25,Arnotts,,,,,
+26,regular,1,4,400150a,1400+34a,0.5
+27,lightly salted,1,4,330+2ga,1300+84a,0.4
+28,Farmland,,,,,
+29,regular,1,4,22014a,110042a,0.4
+30,no added salt,1,4,265c,980+92a,0.04
+31,All brands,,,,,
+32,regular,5,1+,400+160a,1300+210a,0.5
+33,lightly salted,2,4,360+45a,1300+110a,0.5
+34,no added salt,1,4,26+5*,99092*,0.04

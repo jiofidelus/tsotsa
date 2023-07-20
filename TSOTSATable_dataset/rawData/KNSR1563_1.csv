@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,Sample,Energy,Protein,Fiber,Characteristic,Origin
+1,F1,High,High,With,Diabetes,Spain
+2,F2,Standard,High,With,Powder/Diabetes,Mexico
+3,F3,Standard,High,With,Diabetes,Mexico
+4,F4,Standard,Standard,Without,Oral Nutrition Supplement,Mexico
+5,F5,Standard,Standard,Without,Standard,Spain
+6,F6,Standard,Standard,With,Fiber mixture,Spain
+7,F7,High,High,Without,Standard,Spain
+8,F8,High,Standard,Without,Standard,Spain
+9,F9,High,High,With,Standard,Spain
+10,F10,High,High,Without,Hydrolyzed proteins,Spain

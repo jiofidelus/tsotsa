@@ -1,0 +1,75 @@
+,0,1,2,3,4,5,6,7
+0,Cheeses,Cheeses,Fractions3,Origin and Protein,Amino acid sequence,Molecular weights,Molecular weights,Previous works
+1,,,,fragment,,(Da),,
+2,"B,C,HD","B,C,HD","f4,f7",s2-CN (200204),QHQKA,,611.3,
+3,"B,C,HD","B,C,HD","f1,f3,f4,f5",2-CN(4450,NPSKENL,,801.4,
+4,"B,H,K","B,H,K","f1,f4",2-CN (6369,NEEEYSI,,883.4,
+5,"B,K","B,K",f4,2-CN (8793),TVDDKHY,,957.4,
+6,,,,1Phospho,,,830.4,
+7,"C,HD,P,K","C,HD,P,K","f3,f5",2-CN (125131),DQVKRNA,,830.4,
+8,"H,P","H,P",f2,s2-CN (125134),DQVKRNAVPI,,1139.7,
+9,"H,HD","H,HD","f4,f5",2-CN (132-138),VPITPTL,,740.5,
+10,"C,H","C,H","f2,f6",2-CN (135143,TPTLNREQL,,1151.5,
+11,,,,1Phospho,,,,
+12,HD,HD,"f3,f4",2-CN (139143),NREQL,,659.3,
+13,H,,"f2,f7",s2-CN (163168),TKKTKL,,718.5,"Sistla,2013"
+14,"C,K,P","C,K,P","f1,f7",2-CN (163176),TKKTKLTEEEKNRL,,922.5,"Sistla,2013"
+15,"C,H,HD,P","C,H,HD,P","f3,f5,f6",2-CN (180186,KKISQRY,,922.5,
+16,"B,H","B,H",f7,s2-CN (196204),KTVYQHQKA,,1262.5,
+17,,,,2Phospho,,,,
+18,"C,H,K","C,H,K","f1,f7",2-CN (205209,MKPWI,,674.4,
+19,C,,f7,2-CN (209216,IQPKTKVI,,926.6,
+20,"H,HD,K","H,HD,K","f5,f6,f7",2-CN (210218,QPKTKVIPY,,697.4,
+21,,,,1Phospho,,,,
+22,"C,K","C,K","f5,f6",2-CN (217221),PYVRY,,1233.6,"Skrzypczak et.al.,2017"
+23,"H,HD","H,HD","f4,f5",2-CN (30-35),ISQETY,,740.3,"Skrzypczak et.al.,2017"
+24,"B,C,H,HD,","B,C,H,HD,","f1,f3,f5,f6,f7",2-CN (3135),SQETY,,627.3,
+25,,"P,K",,,,,,
+26,"HD,K","HD,K","f4,f5",2Phospho,SQETYKQEKNMA,,1536.6,
+27,"C,H","C,H","f4,f6",2-CN (4350),INPSKENL,,914.5,
+28,"B,C,H,HD,","B,C,H,HD,",f5,2-CN (5162),CSTFCKEVVRNA,,1436.6,"Sieber et.al.,2009"
+29,,"P,K","f3,f4",1Phospho,,,,
+30,"B,C,K,P","B,C,K,P","f3,f4",2-CN (5567,CKEVVRNANEEEY,,1662.7,"Sieber et.al., 2009"
+31,,,,1Phospho,,,,
+32,"H,HD","H,HD","f1,f2",2-CN (6367,NEEEY,,1033.4,
+33,"B,H,HD,P","B,H,HD,P","f1,f5",2-CN (6877,SIGSSSEESA,,1033.4,
+34,,,,1Phospho,,,,
+35,"B,H,K","B,H,K",f7,2-CN (7077),GSSSEESA,,833.3,
+36,,,,1Phospho,,,,
+37,"B,C,H","B,C,H","f2,f4,f5",2-CN (7886,EVATEEVKI,,1017.5,
+38,H,,"f2,f7",2-CN (81-86,TEEVKI,,718.4,
+39,,,,1Phospho,,,,
+40,C,C,f7,s2-CN (8796),TVDDKHYQKA,,1284.6,
+41,,,,1Phospho,,,,
+42,H,H,"f1,f2",s2-CN (98103),NEINQF,,764.4,"Contreras et.al.,2009"
+43,C,,f7,-CN (15),MKVLI,,603.4,
+44,HD,HD,f4,-CN (104-118,QPEVMGVSKVKEAMA,,1683.8,
+45,,,,1Phospho,,,,
+46,"B,C,H,HD,P","B,C,H,HD,P","f3,f5,f6",-CN (127-134),PKYPVEPF,,976.5,"Fan et al.,2019"
+47,"B,C","B,C","f1,f7",-CN (130-134),PVEPF,,588.3,"Fan et al.,2019"
+48,"C,HD,K,P","C,HD,K,P","f1,f4,f7",-CN (135-140,TESQSL,,904.2,
+49,,,,3Phospho,,,,
+50,"B,C,H,HD,","B,C,H,HD,","f3,f5,f6",-CN (135-142),TESQSLTL,,1198.3,
+51,,"K,P",,4Phospho,,,,
+52,H,,f7,-CN (141148),TLTDVENL,,904.5,"Kerkaert et.al.,2012"
+53,"B,H","B,H","f1,f2,f6,f7",-CN (143-148,TDVENL,,690.3,"Kerkaert et.al., 2012"
+54,HD,HD,f6,CN (167172),TDVENLHL,,940.5,"Kerkaert et.al., 2012"
+55,"C,K","C,K",f4,1Phospho,PPTVMF,,771.3,
+56,"B,C,K,P","B,C,K,P","f4,f5,f6",-CN (173180),PPQSVLSL,,840.5,Contreras et.al.2009
+57,"B,C,H,K","B,C,H,K","f4,f5,f6,f7",-CN (179-186),SLSQSKVL,,941.5,
+58,,,,1Phospho,,,,
+59,"B,C,H,HD,","B,C,H,HD,","f1,f4,f7",-CN (181-186),SQSKVL,,741.4,
+60,,"P,K",,1Phospho,,,,
+61,"C,H,HD,P,K","C,H,HD,P,K","f4,f7",-CN (181-192),SQPKVLPVPQKA;,,1281.8,"Meisel et.al.,2006;Chen et.al.,2020;Maneoa et.al.,1996"
+62,,,,,SQPKVLPVPQKA,,,
+63,B,,f4,-CN (187-195),PVPQKAVPQ,,998.6,
+64,"B,C,H,HD,P","B,C,H,HD,P","f1,f3,f6,f7",-CN (208-213),YQEPVL,,748.4,"Robert et al.,2004; Fan et al., 2019"
+65,H,,f2,-CN (209-213,QEPVL,,585.3,
+66,C,C,f5,-CN (2231,NVPGEIVESL,,1056.6,Daliri et.al.2018
+67,H,H,f7,-CN (2830),VESLSSSEESI,,1566.4,
+68,,,,5Phospho,,,,
+69,"C,HD,P","C,HD,P","f4,f5,f7",-CN (3238),SSSEESI,,978.2,
+70,,,,3Phospho,,,978.2,
+71,"B,C,HD","B,C,HD",f1,-CN (3945),TRINKKI,,872.6,
+72,HD,HD,f7,-CN (4248), NKKIEKF,,906.5,
+73,B,,f5,-CN(6067,DKIHPF,,884.5,"Gomez-Ruiz et.al.,2006;Quiros et al.,2005"

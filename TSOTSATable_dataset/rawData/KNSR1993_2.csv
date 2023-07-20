@@ -1,0 +1,9 @@
+,0,1,2
+0,Mycotoxin,Retention,Monitored fragment
+1,,time (min),ions (m|z)
+2,DON,9.031,"235.259,295"
+3,3-AcDON,9.819,"295,377,467"
+4,FUS-X,9.886,"450,480"
+5,15-AcDON,9.953,"350,392,407"
+6,NIV,10.164,"289,349,379"
+7,NEO neosolaniol(ISTD,11.119,"252,290"

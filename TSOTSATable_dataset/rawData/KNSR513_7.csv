@@ -1,0 +1,23 @@
+,0,1,2,3,4,5
+0,Fatty acid (mg/g of milk fat,Genotype,Stage of lactation,Stage of lactation,,SEM
+1,,,Early,Mid,Late,
+2,SFA,Nguni,18.50b,11.70b,7.20a,6.490
+3,,Crossbred,20.40b,23.60c,19.40b,7.570
+4,MUFA,Nguni,6.90b,6.10b,2.60a,2.820
+5,,Crossbred,7.10,9.50c,7.70c,2.680
+6,PUFA,Nguni,0.90a,0.80a,0.30a,0.280
+7,,Crossbred,0.90a,1.10,0.80a,0.310
+8,cis-FA,Nguni,6.30b,5.60b,2.40a,2.450
+9,,Crossbred,6.40a,8.30c,6.80b,2.430
+10,n-3,Nguni,0.20a,0.30a,0.10a,0.080
+11,,Crossbred,0.20a,0.30a,0.20a,0.080
+12,n-6,Nguni,0.20a,0.50a,0.70a,0.230
+13,,Crossbred,0.70a,0.80a,0.70a,0.240
+14,n-9,Nguni,5.90b,5.40b,2.30a,2.120
+15,,Crossbred,6.00a,8.00b,6.50b,2.300
+16,PUFA/MUFA,Nguni,0.13b,0.11a,0.13b,0.070
+17,,Crossbred,0.11a,0.11a,0.11,0.080
+18,PUFA/SFA,Nguni,0.05b,0.07b,0.04a,0.400
+19,,Crossbred,0.04a,0.05a,0.04a,0.030
+20,n-6:n-3,Nguni,0.35b,0.45c,0.45c,0.190
+21,,Crossbred,0.33a,0.32b,0.25a,0.200

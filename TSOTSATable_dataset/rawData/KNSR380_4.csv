@@ -1,0 +1,21 @@
+,0,1,2,3,4
+0,Sterol,Non-acid treated,Acid treated,Recovery,pe
+1,,phytosterols,phytosterols,(%)b,
+2,,(mg/g)a,mg/g,,
+3,Cholesterol,4.61 0.0,4.44 0.1,97,0.02
+4,Dihydrocholesterol,2.370.0,2.180.1,92,0.04
+5,Brassicasterol,1.300.1,1.260.1,97,NS
+6,24-Methylene cholesterol,6.34 0.1,5.450.1,86,0.0003
+7,Campesterol,2471,2371,96,0.0003
+8,Campestanol,7.74 0.1,7.69  0.0,99,NS
+9,Stigmasterol,33.9  0.2,33.0  0.2,97,0.003
+10,22-Stigmastenol,5.010.1,5.170.1,103,0.02
+11,7-Campesterol,5.38  0.0,5.20  0.1,97,NS
+12,"Clerosterol (+5,23-stigmastadienol)",7.08  0.3,6.25  0.0,88,0.009
+13,-Sitosterol,5063,4892,97,0.001
+14,Sitostanol,14.4  0.6,13.90.1,97,NS
+15,5-Avenasterol,11.7 0.3,9.16  0.3,78,0.0008
+16,Fucosterol(+unidentified),6.33 0.1,6.80  0.1,107,NS
+17,7-Stigmastenol,4.84  0.1,4.36  0.1,90,0.004
+18,7-Avenasterol,1.810.0,1.560.0,86,0.0004
+19,Sum,8656,833  3,96,0.0007

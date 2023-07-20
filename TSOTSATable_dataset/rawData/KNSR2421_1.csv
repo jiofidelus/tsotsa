@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6
+0,Analyte,Range (g mL -1),LOD (g mL -1),LOQ (g mL -1),Recoverya(%),"Repeatability (RSD,%)",Intermediate precision (RSD%)
+1,PC,100-1000,2.0,6.6,100.3,0.99,2.3
+2,LPC,100-1000,7.5,23.8,100.8,0.86,3.3
+3,PE,100-1000,2.5,7.5,99.6,0.86,6.9
+4,NAPE,100-1000,2.5,7.5,101.0,0.84,5.0

@@ -1,0 +1,32 @@
+,0,1,2,3,4
+0,Bioactive,Concentration,(R2),LODg.,LOQg
+1,Compound,range (g.mL-1),,mL-1,mL-1)
+2,Carotenoids,,,,
+3,Lutein,0.7-65,0.9991,6.90  10-3,1.15 10-2
+4,Zeaxanthin,1-40,0.9997,9.5610-2,1.5910-2
+5,Cryptoxanthin,3-100,0.9911,2.11  10-2,3.5110-2
+6,a-carotene,1-25,0.9934,1.97  10-2,3.28  10-2
+7,-carotene,4-48,0.9998,6.5310-2,10.8910-2
+8,Lycopene,10-100,0.9977,7.0x10-3,33.0 10-3
+9,,Phenolic Compounds,,,
+10,Caffeic acid,1-120,0.9976,0.44,1.33
+11,Chlorogenic acid,0.75-24,0.9960,0.77,2.34
+12,Coumaric acid,0.05-12,0.9935,0.28,0.86
+13,Ellagic acid,0.05-12,0.9925,0.55,1.67
+14,Ferulic acid,0.05-12,0.9940,0.85,2.56
+15,Gallic acid,1-120,0.9939,0.30,0.90
+16,Catechin,0.70-70,0.9905,1.50,4.53
+17,Epigallocatechin,0.10-70,0.9964,0.09,0.26
+18,gallate,,,,
+19,Kaempferol,0.05-12,0.9925,0.03,0.11
+20,Luteolin,0.10-50,0.9931,0.34,1.04
+21,Myricetin,0.28-50,0.9938,1.23,3.71
+22,Quercetin,0.40-50,0.9942,0.71,2.15
+23,Quercetin 3-,0.11-50,0.9997,0.07,0.20
+24,glucoside,,,,
+25,Rutin,1-120,0.9935,0.37,1.12
+26,Sugar Compounds,Concentration,(R2),LOD (g.,LOQ(g.
+27,,range (g.mL-1,,mL-1),mL-1
+28,Glucose,0.5-3.5,0.9963,0.22,0.67
+29,Fructose,0.1-2.0,0.9965,0.10,0.29
+30,Sucrose,0.1-2.0,0.9907,0.32,0.97

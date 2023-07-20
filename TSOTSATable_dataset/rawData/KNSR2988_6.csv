@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,Fatty acid,SRM 3275,NIST certified/reference,ATR-FTIR,FT-NIR
+1,,,values  uncertainty,predicted,predicted
+2,,,,value,value
+3,,,,SDa,SDa
+4,EPA,3275-1,11312b,1191,733
+5,,3275-2,39417,3681,3841
+6,,3275-3,1549,1632,1611
+7,DHA,3275-1,42915,4246,3761
+8,,3275-2,1878,2112,1521
+9,,3275-3,1045,1061,872

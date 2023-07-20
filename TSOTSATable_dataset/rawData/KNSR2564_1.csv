@@ -1,0 +1,15 @@
+,0,1,2
+0,Method,Spectrofluorometry,HPLC-PDA
+1,Standard linearity,,
+2,Intercept,2.467,3.275
+3,Slope,1.150,0.350
+4,R,0.999,0.993
+5,Range (g/mL),0.5-20,1-20
+6,Precisionn=5,,
+7,Mean (g/mL),32.6,30.4
+8,Relative standard deviation,3.5,3.9
+9,(RSD(%),,
+10,Accuracy,,
+11,Mean recovery,95.05,95.52
+12,%standard deviation,,
+13,Detection limit (g/mL,0.01,0.5

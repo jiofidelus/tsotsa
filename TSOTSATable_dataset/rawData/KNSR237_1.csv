@@ -1,0 +1,28 @@
+,0,1,2,3,4
+0,Peak No.,Rt (min),[M-H](m/z) a,MS/MS fragments (m/z)a,Tentative indentification
+1,1.,1.44,191.0185,"173.0096,127.9567,111.0093",Quinic acid b
+2,2.,1.74,1151.3739,"863.1915, 577.1349, 289.0717",A-type PA-tetramer b
+3,3.,3.10,371.0636,"353.0928, 209.0302",Hydroxyferulic acid hexoside (isomer 1) b
+4,4.,3.28,341.1075,179.0349,Caffeoylhexose (isomer 1) b
+5,5.,3.44,299.0784,,Chrysoeriol
+6,6.,3.79,353.0879,191.0552,Caffeoylquinic acid (isomer 1) b
+7,7.,4.58,341.1075,179.0349,Caffeoylhexose (isomer 2)b
+8,8.,4.62,341.0849,179.0349,Caffeoylhexose (isomer 3) b
+9,9.,4.74,707.1852,"353.0879 [M-2H]2-, 191.0554",Caffeoylquinic acid dimer b
+10,10.,5.03,353.0879,191.0552,Caffeoylquinic acid (isomer 2) b
+11,11.,5.28,179.0321,135.1075,Caffeic acid b
+12,12.,5.58,371.0597,"353.0928, 209.0302",Hydroxyferulic acid hexoside (isomer 2) b
+13,13.,5.75,337.0932,"191.0531, 163.0397",p-Coumaroylquinic acid b
+14,14.,5.95,515.1196,"353.0879,335.0750",Dicaffeoylquinic acid (isomer 1) b
+15,15.,6.23,367.1041,191.0553,Feruloylquinic acid b
+16,16.,6.61,371.0597,"353.0928, 209.0302",Hydroxyferulic acid hexoside (isomer 3) b
+17,17.,6.80,371.0636,"353.0928, 209.0302",Hydroxyferulic acid hexoside (isomer 4) b
+18,18.,7.06,372.0636,"353.0928, 209.0302",Hydroxyferulic acid hexoside (isomer 5)
+19,19.,7.24,341.1075,179.0349,Caffeoylhexose (isomer 4 b
+20,20.,7.58,341.1075,179.0349,Caffeoylhexose (isomer 5)b
+21,21.,7.91,515.1149,"353.0928, 191.0543",Dicaffeoylquinic acid (isomer 2) b
+22,22.,8.08,515.1196,"353.0928, 191.0543",Dicaffeoylquinic acid (isomer 3) b
+23,23.,8.18,353.0879,191.0543,Caffeoylquinic acid (isomer 3)b
+24,24.,8.26,353.0879,191.0543,Caffeoylquinic acid (isomer 4 b
+25,25.,8.76,515.1149,"353.0928, 191.0543",Dicaffeoylquinic acid (isomer 4) b
+26,26.,11.07,341.1075,179.0349,Caffeoylhexose (isomer 6)b

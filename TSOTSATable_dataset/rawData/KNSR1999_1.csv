@@ -1,0 +1,58 @@
+,0,1,2,3,4,5
+0,Compound,"Rt,",Compound,"Amax,",MW,MS(ESI+/
+1,code,mina,identification,nmb,,ESI)
+2,,,,,,"data, m/zc"
+3,,Anthocyanins -520 nm,Anthocyanins -520 nm,,,
+4,A1,7.00,delphinidin 3-O,"524,",465,465M+*
+5,,,glucoside,"320sh,",,
+6,,,,278,,
+7,A2,7.92,cyanidin 3-O-,"515,278",449,"449(M,"
+8,,,glucosided,,,287*
+9,A3,9.62,delphinidin 3-O-(6-,"520, 328,",551,551(M+*
+10,,,malonyl)glucoside,284,,
+11,A4,10.68,"cyanidin 3-O-(6""-","517,330,",535,"535(M*,"
+12,,,malonyl)glucoside,279,,"449*,287"
+13,A5,11.16,"cyanidin 3-O-(6""-","517,278",593,593M*
+14,,,dioxalyl)glucoside,,,"449*,287"
+15,A6,12.69,"peonidin 3-O-(6""-","518, 330,",549,549(M*
+16,,,malonyl)glucoside,278,,"463*,301"
+17,, Flavanones and flavones - 280 nm, Flavanones and flavones - 280 nm,,,
+18,F1,12.08,eriocitrind,"328,283",596,595 (M-
+19,,,,,,H)
+20,F2,13.97,neoeriocitrind,"328,284",596,595(M-
+21,,,,,,H
+22,F3,15.41,narirutind,"329, 284",580,579(M-
+23,,,,,,"H)"","
+24,,,,,,"433*, 271"
+25,F4,16.57,hesperidind,"326, 284",610,609 (M-
+26,,,,,,"H*,"
+27,,,,,,"463,301"
+28,F5,21.43,didymind,"328,283",594,593 (M-
+29,,,,,,H)-
+30,F6,10.19,vitexin,"338, 270",432,431 (M-
+31,,,,,,"H-*,311"
+32,,Hydroxycinnamic acids -330 nm,Hydroxycinnamic acids -330 nm,,,
+33,C1,5.43,caffeoyl-hexose,"328,",342,341 (M-
+34,,,,300sh,,"H-*,179"
+35,C2,6.04,p-coumaroylquinic,312,338,337(M-
+36,,,acid 1e,,,"H*,191"
+37,C3,6.73,feruloyl-hexose,"326,",356,355(M-
+38,,,,300sh,,H
+39,C4,7.17,p-coumaroylquinic,312,338,337 (M-
+40,,,acid 2e,,,"H,191*"
+41,C5,8.05,chlorogenic(3-,"325,",354,353(M-
+42,,,caffeoylquinic) acidd,300sh,,H-*191
+43,C6,8.67,feruloylquinic acid 1,"323,",368,367 (M-
+44,,,,300sh,,"H,191*"
+45,C7,8.85,p-coumaroylquinic,312,338,337 (M-
+46,,,acid 3e,,,"H,191*"
+47,C8,9.62,feruloylquinic acid 2,"322,",368,367(M-
+48,,,,300sh,,H*191
+49,C9,10.02,feruloylquinic acid 3,"323,",368,367 (M-
+50,,,,300sh,,"H,191*"
+51,C10,12.31,sinapic acid d,323,224,223 (M-
+52,,,,,,H
+53,C11,14.26,p-coumaric acid d,311,164,163 (M-
+54,,,,,,H)
+55,C12,15.23,ferulic acid d,"323,",194,193 (M-
+56,,,,298sh,,H-

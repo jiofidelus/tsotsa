@@ -1,0 +1,14 @@
+,0,1
+0,INFOODS Tagname,Definition
+1,Total carbohydrates,
+2,CHOCDF,"Carbohydrate,total(by difference):includes fibre.Calculated as: 100 g minus the sum of"
+3,,"grams of water, protein, fat and ash"
+4,CHOCSM,"Carbohydrate, total (by summation): includes fibre. Includes free sugars plus dextrin,"
+5,,"oligosaccharides, starch, glycogen and dietary fibre"
+6,Available carbohydrates,
+7,CHOAVL,
+8,,"dextrin, starch and glycogen"
+9,CHOAVLDF,
+10,,"water,protein,fat,fibre and ash"
+11,CHOAVLM,"Carbohydrate, available, expressed as the monosaccharide equivalent, Includes free"
+12,,"sugars plus dextrin,starch and glycogen"

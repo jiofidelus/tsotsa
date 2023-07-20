@@ -1,0 +1,42 @@
+,0,1,2,3,4,5,6,7
+0,No.,Peak no.,Accepted description,Rt (min),m/z+,Max Fold change,Highest mean,Lowest mean
+1,,,Critical metabolites of different thinned fruit varieties,,,,,
+2,1,24,P-Coumaric acid,5.672,165.5557,Infinity,TN3,TP1
+3,2,48,Vanillic acid,10.482,169.1134,Infinity,TN4,TP2
+4,3,51,Syringic acid,11.982,199.161,Infinity,TN1,TP1
+5,4,4,Protocatechuic acid hexoside,0.794,317.0592,596.004,TP1,TN1
+6,5,55,Methyl chlorogenic acid,12.648,369.3308,455.591,TN4,TP3
+7,6,34,Malvin,7.383,692.1359,248.834,TN3,TP1
+8,7,21,P-hydroxyphenylacetic acid,5.082,153.0442,222.412,TP1,TN4
+9,8,54,Dicaffeoylquinic acid,12.462,517.3244,65.865,TN4,TP3
+10,9,56,Isorhamnetin-3-O-glucoside,12.709,479.3469,27.400,TN1,TP2
+11,,,Critical metabolites of different ripe fruit varieties,,,,,
+12,10,9,Procyanidin B1,2.588,579.1506,Infinity,RP2,RN1
+13,11,46,Catechin hexoside,10.911,453.3407,Infinity,RP1,RN4
+14,13,49,Chlorogenic acid dimer,11.755,305.0638,122.470,RN2,RN3
+15,13,25,Anthocyanin,5.800,305.0638,92.545,RN3,RP1
+16,14,20,Cyanidin-3-o-rutinoside,4.967,632.1998,55.905,RN3,RN2
+17,15,31,P-Coumaric acid,6.890,165.0822,25.073,RN2,RP1
+18,16,29,Kaempferol-3-o-galactoside,6.418,449.1749,22.693,RN4,RN2
+19,17,16,Isoquercetin,4.106,465.1319,20.420,RN1,RN4
+20,,,Critical metabolites of thinned and ripe fruit,,,,,
+21,18,3,3-p-coumaroyl quinic acid,0.681,339.0704,Infinity,TN3,RN4
+22,19,33,1-caffeoylquinic acid,7.102,355.0828,Infinity,TN1,RN2
+23,20,43,Myricetin,10.315,319.2434,Infinity,TP1,RN2
+24,21,44,Kaempferol-3-o-rutinoside,10.435,595.1461,Infinity,TN3,RP3
+25,22,42,Rosmarinic acid,7.063,361.1001,2428.437,TN3,RN4
+26,23,19,Cyanidin-3-o-sambubioside,4.727,618.0903,2264.531,TN3,RP2
+27,24,6,Isorhamnetin-3-o-glucoside,2.104,479.1997,767.012,TP3,RP2
+28,25,7,Phlorizin,2.202,437.072,423.557,TN3,RP1
+29,26,22,Quercetin-3-o-galactoside,5.187,465.0999,369.057,TN2,RN1
+30,27,8,Hydrated chlorogenic acid,2.436,373.0623,337.389,TN3,RP1
+31,28,30,P-hydroxybenzoic acid glucoside,6.713,301.0278,304.475,TN1,RP1
+32,29,53,Isorhamnetin-3-o-rutinoside,12.120,625.1571,80.879,TP1,RP2
+33,30,48,Vanillic acid,11.284,169.1134,73.912,TN3,RP3
+34,31,52,Quercetin,12.091,303.1138,60.211,TN3,RN2
+35,32,14,Quercitrin,3.709,449.1591,53.415,TP1,RN4
+36,33,50,3-p-coumaroyl quinic acid,11.940,339.2258,27.887,TN4,RN3
+37,34,58,Epicatechin,12.948,291.2581,24.944,TN1,RP1
+38,35,27,Kaempferol-3-o-rutinoside,5.960,595.1461,21.007,TP1,RP2
+39,36,28,Methyl chlorogenic acid,6.170,369.1466,1174.06,RP3,TP3
+40,37,10,Proanthocyanidins,2.588,579.1503,35.669,RP2,TN2

@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Cultivar,Water Regime,Individual phenolic acids,Individual phenolic acids,,,,,,Individual flavonoids,Individual flavonoids
+1,,,Gallic,Protocatechuic,Syringic,Chlorogenic,Caffeic,Ferulic,Salicylic,Catechin,Epicatehcin
+2,,IWC,4.3  0.8e,1.8  0.1e,0.6  0.1c,3.9  0.1d,1.3  0.4d,1.1  0.1d,0.8  0.0e,0.5  0.2d,0.5  0.0c
+3,Raramuri,TD,11.4  0.0a,3.6  0.0c,0.8  0.od,3.7  0.0d,5.7  0.0a,0.5  0.1e,1.0  0.1cd,1.1  0.1c,1.2  0.ob
+4,,RI,7.5  0.3bc,4.1  0.0b,0.9  0.0d,6.7  0.0a,4.5  0.1b,2.6  0.1a,1.2  0.obc,1.4  0.1b,1.0  0.0b
+5,,IWC,6.6  0.2cd,2.2  0.0d,1.3  0.1c,4.5  0.1c,3.6  0.1c,2.2  0.0b,0.9  0.2de,1.2  0.obc,0.5 0.0c
+6,Pinto Saltillo,TD,8.6  0.5b,3.4  0.1c,1.4  0.1b,3.4  0.0e,5.0  0.2b,1.6  0.0c,1.4  0.ob,1.2  0.1bc,0.4  0.1c
+7,,RI,6.3  0.3d,4.7  0.1a,1.9  0.9a,5.4  0.2b,4.6  0.1b,2.6  0.1a,1.80.1,2.1  0.0a,2.8 0.1a
+8,HSD,,1.791,0.426,0.441,0.481,0.887,0.334,0.044,0.441,0.301
+9,P>F,,0.001,0.000,0.004,0.000,0.000,0.000,0.006,0.033,0.000

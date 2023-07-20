@@ -1,0 +1,45 @@
+,0,1,2,3,4,5,6
+0,Species,Sampling,Samples (n)a,,,Total,Location
+1,,,Complete,Stem,Cap,,
+2,Agrocybe aegerita,1,,16,16,32,Almeria
+3,,2,,11,11,22,Almeria
+4,,3,,8,8,16,Almeria
+5,,4,,8,8,16,Cordoba
+6,,5,,16,16,32,Cordoba
+7,Total,,,59,59,118,
+8,Amanita caesarea,6,,12,12,24,Huelva
+9,,7,,1,1,2,Huelva
+10,Total,,,13,13,26,
+11,Boletus aereus,8,,7,8,15,Sevilla
+12,,9,,3,3,6,Sevilla
+13,Total,,,10,11,21,
+14,Cantharellus cibarius,10,,9,10,19,Cadiz
+15,,11,,10,10,20,Cadiz
+16,,12,,10,10,20,Cadiz
+17,Total,,,29,30,59,
+18,Lactarius deliciosus,13,,7,7,14,Cordoba
+19,,14,,6,6,12,Cordoba
+20,,15,,7,1,14,Cordoba
+21,,16,,10,10,20,Cordoba
+22,,17,,10,10,20,Cordoba
+23,,18,,10,10,20,Cordoba
+24,Total,,,50,50,100,
+25,Macrolepiota procera,19,,13,13,26,Malaga
+26,,20,,6,6,12,Cordoba
+27,,21,,18,17,73,Cadiz
+28,Total,,,37,36,73,
+29,Morchella spp.,22,,28,28,56,Cordoba
+30,,23,,9,10,19,Cordoba
+31,,24,,6,6,12,Jaen
+32,,25,,6,6,12,Jaen
+33,Total,,,49,50,99,
+34,Pleurotus eryngii,26,,11,11,22,Granada
+35,,27,,11,11,22,Cordoba
+36,,28,,,,25,Cordoba
+37,,29,,,,8,Almeria
+38,Total,,,22,55,77,
+39,Terfezia arenaria,30,18,,,18,Sevilla
+40,,31,3,,,3,Sevilla
+41,,32,8,,,8,Sevilla
+42,Total,,29,,,29,
+43,General total,,29,269,304,602,

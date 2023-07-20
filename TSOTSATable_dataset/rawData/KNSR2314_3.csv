@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,Shoot,Leaf,Pod wall,Grain yield,Plant,No.of,No.of,100 seed,Root,Fe concentration,Zn concentration
+1,,weight,weight,weight,,height,branches,leaves,weight,length,,
+2,Shoot weight,1.00,,,,,,,,,,
+3,Leaf weight,0.78**,1.00,,,,,,,,,
+4,Pod wall weight,0.51 **,0.46 **,1.00,,,,,,,,
+5,Grain yield,0.59 **,0.48 **,0.56 **,1.00,,,,,,,
+6,Plant height,0.87 **,0.78 **,0.79 **,0.81**,1.00,,,,,,
+7,No. of branches,0.55 **,0.57 **,0.37 **,0.45**,0.56**,1.00,,,,,
+8,No. of leaves,0.78 **,0.74 **,0.84 **,0.84**,0.98**,0.58**,1.00,,,,
+9,100 seed weight,-0.05,-0.05,0.20*,0.17,0.09,0.08,0.14,1.00,,,
+10,Root length,0.76 **,0.70 **,0.82 **,0.87**,0.97**,0.64**,0.99**,0.18,1.00,,
+11,Fe concentration,0.07,-0.08,0.17,0.12,-0.15,0.02,-0.16,0.18,0.14,1.00,
+12,Zn concentration,0.15,0.27 **,0.00,0.05,0.08,0.21*,0.07,0.06,0.06,0.40**,1.00

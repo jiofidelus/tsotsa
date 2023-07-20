@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6
+0,Rice variety,Rice type,PC,% by total fatty acid content,,,
+1,,,,C16:0,C18:1,C18:2,Total*
+2,Bw 2726b,NIRV,Red,19.93  0.44abc,43.60  0.18gh,30.69 0.11bc,94.21 0.52bc
+3,Rathel,TRV,White,21.43  0.38c,40.32  0.11b,33.32  0.34def,95.07  0.06efg
+4,Suwadel,TRV,White,19.99  0.47abc,42.20  0.24e,32.87  0.29def,95.07  0.06efg
+5,Madathawalu,TRV,Red,19.52  0.88abc,42.98  0.24f,33.11  0.83def,95.61  0.22*
+6,Bg 300,NIRV,White,20.80  0.22abc,42.93  0.06f,31.26  0.08cd,94.98  0.14e
+7,Bg 360,NIRV,White,20.35  0.95abc,39.680.08a,35.00  0.91f,95.03  0.09ef
+8,At 308,NIRV,White,18.77  1.47a,43.89  0.14h,32.51  1.36cde,95.15  0.05efg
+9,Pachchaperumal,TRV,Red,20.09  0.11abc,42.76  0.02f,32.01  0.15cde,94.87  0.02de
+10,At 311,NIRV,Red,19.07  0.05ab,43.11  0.04fg,32.20  0.05cde,94.38  0.12bed
+11,Bg 352,NIRV,White,21.18  0.09bc,44.97  0.09i,28.68  0.11ab,94.83  0.19de
+12,At 307,NIRV,White,19.97  0.19abc,40.78  0.05bc,34.85  0.19f,95.60  0.07fg
+13,Herath Banda,TRV,Red,18.63  0.17a,40.49  0.09bc,30.47  0.22bc,89.57  0.11a
+14,Kalu Heenati,TRV,Red,18.70  1.02a,47.04  0.28i,28.26  0.79a,94.01  0.05b
+15,At 362,NIRV,Red,21.40  0.06c,40.96  0.37c,32.34  0.1gcde,94.69  0.15cde
+16,Kurulu Thuda,TRV,Red,19.79  1.75abc,41.59  0.28d,33.85  1.82ef,95.23  0.36efg

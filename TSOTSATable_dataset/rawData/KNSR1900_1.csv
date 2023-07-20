@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Cultivar,Average weight,,Flesh firmness,,Soluble,solids,Acidity,,pH,
+1,,(g),,(kg/cm2),,Brix,,g/L),,,
+2,Golden Delicious,116.620.8,a,5.80.4,b,13.60.7,b,4.10.6,bc,3.60.1,ab
+3,Stark Delicious,129.524.0,a,7.7  0.4,a,14.11.0,b,3.00.6,c,3.90.1,a
+4,Mora,81.6 19.2,b,7.5  0.6,a,15.9  0.6,b,8.3  0.9,a,2.90.1,C
+5,Nesta,81.729.8,b,7.20.6,a,16.91.8,b,5.91.1,abc,3.50.1,ab
+6,Panaia-red,126.3  35.9,a,5.8 0.4,b,17.11.2,b,6.2  0.7,abc,3.2 0.1,
+7,,,,,,,,,,,c
+8,Ruggine,42.8  15.5,c,7.70.8,a,23.44.4,a,7.44.5,ab,3.70.7,a
+9,PANOVA,,,,,,,,,,

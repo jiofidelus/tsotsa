@@ -1,0 +1,29 @@
+,0,1,2,3,4,5
+0,Product,n,g/100 g as is,,,
+1,,,Moisture,SDF/IDF,TDF+s.D.,TDF range
+2,"Apple and apricots,Tnew formula",1,84,0.6/1.0,1.6,
+3,"Apple and apricots/raspberry,T",4,84,0.3/0.4,0.80.1,0.7-0.9
+4,Apple and raisinJ,2,79,0.7/1.0,1.70.1,1.6-1.8
+5,"Apple sauce,T/J",5,87,0.5/0.8,1.30.1,1.2-1.5
+6,ApricotsT/J,5,83,0.3/0.3,0.50.1,0.50.6
+7,"Banana and pineapple, T",5,83,0.1/0.2,0.30.1,0.2-0.4
+8,"Banana w/applesauce, J (new formula)",2,77,0.7/1.2,1.90.2,1.7-2.0
+9,"Banana with/without applesauce, T/J",5,84,0.2/0.2,0.40.1,0.40.5
+10,"Blueberry dessert,J",4,86,0.1/0.2,0.30.0,0.3-0.3
+11,"Custard plain w/arrowroot, banana and butterscotch",5,82,,0.20.1,0.1-0.3
+12,Fruit drink,3,90,0.2/0.1,0.30.1,0.2-0.4
+13,Fruit salad.J,5,84,,0.40.0,0.4-0.4
+14,"Mixed fruits,J",5,88,0.3/0.5,0.80.0,0.7-0.8
+15,Mixed fruitsT,3,87,0.4/0.6,1.00.1,1.0-1.1
+16,Mixed fruitsT(new formula,3,81,0.9/1.2,2.10.1,2.0-2.2
+17,Peach and apple oatmeal baby food,4,85,0.5/0.8,1.40.2,1.2-1.6
+18,"Peach,J",5,83,0.5/0.5,1.10.1,1.0-1.2
+19,PeachT,5,80,1.1/1.0,2.10.2,1.9-2.3
+20,"Pear Bartlett,T",4,86,1.0/1.9,2.90.1,2.83.0
+21,"Pineapple and pears, T (new formula)",1,82,1.0/1.7,2.7,
+22,"Pineapple and pears,T/J",4,88,0.3/0.4,0.70.0,0.7-0.7
+23,"Plum,T",2,81,0.4/0.3,0.80.0,0.7-0.8
+24,PruneT,5,80,1.4/1.0,2.40.3,1.9-2.7
+25,Prunes and oatmeal baby food,4,79,0.9/1.1,2.0+0.0,2.0-2.1
+26,"Tutti frutti,T/J",5,84,,0.20.1,0.1-0.3
+27,"Yoghurt,w/banana and raspberry,T/J",5,84,,0.20.0,0.20.3

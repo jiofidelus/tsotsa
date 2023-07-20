@@ -1,0 +1,22 @@
+,0,1,2
+0,,LIMITS,UNIT
+1,,Min.,
+2,,Max.,
+3,COMPONENTS,,
+4,Alcohol content,3848,%(v/vof ethanol at 20C
+5,Volatile acidityas acetic acid,-150,
+6,"Total esters,as ethyl acetate",-200,
+7,"Total aldehydes,as acetaldehyde",-30,
+8,Furfural and,-5,alcohol)-1
+9,Hydroxymethylfurfural,-5,alcohol)-1
+10,Higher alcohols *,-360,
+11,Congeners **,200650,
+12,CONTAMINANTS,,
+13,Methanol,20,
+14,2-butanol,-10,
+15,1-butanol,-3,
+16,Acrolein (2-propenal),-5,
+17,Ethyl carbamate ***,210,
+18,Lead,200,
+19,Arsenic,100,
+20,Copper,-5,mg L-1

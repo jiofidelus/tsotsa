@@ -1,0 +1,4 @@
+,0,1,2,3,4,5,6
+0,Analyte,Precursor ion (m/z),,Isolation window (m/z),Collision Energy Q (%),Tube Lens Voltage (V),Product ions
+1,TAP,390,9,,32,60,354
+2,FFC,392,3,,30,60,356

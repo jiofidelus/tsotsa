@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7
+0,Food,,Calculated from USDA CHO,Calculated from USDA CHO,,,Ratio using British values,
+1,,CHO,Fiber,Total sugars,Starch-1,Starch,CHO,Starch-2
+2,,,,,,British,British,
+3,Cornflakes,86.5,2.8,6.9,76.8,77.7,84.9,76.6
+4,cereal,,,,,,,
+5,Bread,24.6,1.0,12.0,11.6,5.2,17.5,7.0
+6,pudding,,,,,,,
+7,Crackers,71.5,3.0,2.3,66.2,73.5,75.8,66.4
+8,"Rice,cooked",28.2,0.4,0.2,27.6,29.6,29.6,27.8
+9,Cowpeas,20.8,6.5,3.3,11.0,18.0,19.9,12.9
+10,Applesauce,11.3,1.2,8.0,2.0,0.0,8.1,0

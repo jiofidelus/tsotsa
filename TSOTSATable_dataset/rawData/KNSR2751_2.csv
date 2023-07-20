@@ -1,0 +1,18 @@
+,0,1,2,3,4,5
+0,,,Thiamine,,Riboflavin,
+1,,,[mg/100 g fresh weight (fw)],[mg/100 g fresh weight (fw)],(mg/100 g fw),
+2,sample***,N,flour,breads,flour,breads
+3,Crispbread brands,Crispbread brands,,,,
+4,Finnish,7,0.310.01,0.290.02,0.150.02,0.190.03
+5,Finncrisp,2,0.310.01,0.280.01,0.140.02,0.180.01
+6,average,9,,0.29  0.02*,,0.180.03*
+7,Imported brands,Imported brands,,,,
+8,Swedish,,,0.24,,0.14
+9,Norwegian,,,0.23,,0.08
+10,English,,,0.22,,0.10
+11,English,,,0.20,,0.10
+12,average,,,0.22  0.02*,,0.11 0.03**
+13,combined average 13,,,0.270.03,,0.160.05
+14,* significantly different: p <0.05,,* significantly different: p <0.05,,,
+15,**significantly differentp<0.05,,**significantly differentp<0.05,,,
+16,*** All pooled samples were analyzed in duplicate,,*** All pooled samples were analyzed in duplicate,*** All pooled samples were analyzed in duplicate,,

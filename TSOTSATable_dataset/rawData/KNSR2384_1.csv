@@ -1,0 +1,19 @@
+,0,1,2
+0,Parameter,NexION 300D,Elan 6100 DRC
+1,Spray chamber,"Cyclonic, Scott type",
+2,Nebulizer,"Quartz coaxial, type Meinhard",
+3,Plasma torch,Quartz,
+4,Sampler cone,Nickel,
+5,Skimmer cone,Nickel,
+6,Hyper skimmer cone,Aluminium,
+7,Plasma gas flow,16L min-1,15L min-1
+8,Nebulizing gas flow,1 L min-1,0.76L min-1
+9,RFpower,1600W,1200 W
+10,Analog detector voltage,-1800V,-1500V
+11,Pulse detector voltage,950 V,950
+12,Lens voltage,-9V,-7V
+13,Dead time of detector,25 ns,35 ns
+14,Sample flow rate,0.8 mL min-1,1mL min-1
+15,Number of repeats,6,900
+16,Integration time,150 ms,50 ms
+17,Monitored isotopes,"200Hg, 201Hg, 202Hg",

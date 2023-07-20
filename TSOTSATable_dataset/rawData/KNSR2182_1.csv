@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8
+0,Samples,Samples,RC,,LR (mgL-1),LOD,Standard,Method,Ref.
+1,,,(mgL-1,(mgL-1,,(mgL-1,,,
+2,"Carlsberg, Lager, Past Blue,","Carlsberg, Lager, Past Blue,",76-101,76-101,0-5.5,NA,Tannic acid,"SP,Fe(III)/phen complexes",Lau et al.1989
+3,,"San Miguel,Tsing Tao",,,,,,,
+4,"Carlsberg, Mahou, San Miguel","Carlsberg, Mahou, San Miguel",38-52,38-52,0-30,NA,Gallic acid,"SP,Fe(III)/phen complexes",Tomas et al.1993
+5,,"Henninger,Heineken",,,,,,FIA 60 samples h-1,
+6,"PilsenEverest,Tuborg,Marmara","PilsenEverest,Tuborg,Marmara",66-77,66-77,0-6.5,NA,Tannic acid,"SP,Fe(III)/phen complexes",Tinkilic and Uyanik(2001)
+7,"Lagers, porters,ales, sout, low caloreis","Lagers, porters,ales, sout, low caloreis",48-396,48-396,NA,NA,Catechin,"SP, Folin-Ciocalteau reagent",Vinson et al.(2003
+8,and non-alcoholic,and non-alcoholic,,,,,,,
+9,Lager (several European countries),Lager (several European countries),,376,NA,NA,Catechin,"SP, Folin-Ciocalteau reagent",Lugasi (2003)
+10,Dark (several European countries,Dark (several European countries,,473,NA,NA,Catechin,"SP,Folin-Ciocalteau reagent",Lugasi (2003)
+11,NM,,,15,NA,NA,Tannic acid,"VM,carbon nanotube electrode",Wan et al.2007
+12,Only two samples of beer,Only two samples of beer,218-240,218-240,2-100,0.3,Tannic acid,"SP, Folin-Ciocalteau reagent",Infante et al.2008
+13,"Abbey ale,bock,wheat, lager,pilsen","Abbey ale,bock,wheat, lager,pilsen",366-875,366-875,1-20,NA,Gallic acid,"SP,Folin-Ciocalteau reagent",Piazzon et al.(2010)
+14,non-alcoholic,non-alcoholic,,,,,,,
+15,,"Blonde, dark, strong and non alcoholic",125-544,125-544,10-100,NA,Gallic acid,"SP,Folin-Ciocalteau reagent",Gorjanovic et al.2010
+16,Large,Large,280-337,280-337,NA,NA,Gallic acid,"SP,Folin-Ciocalteau reagent",Fumi et al.2011
+17,Lager Brazilian beer,Lager Brazilian beer,250-300,250-300,NA,NA,Gallic acid,SPFolin-Ciocalteau reagent,Siqueira et al.2011
+18,Dark Brazilian beer,Dark Brazilian beer,380-600,380-600,NA,NA,Gallic acid,"SP,Folin-Ciocalteau reagent",Siqueira et al.2011
+19,"PilsenMunchner,Malzbier,Stout and","PilsenMunchner,Malzbier,Stout and",36-556,36-556,1.4-3.9,0.29,Tannic acid,"SP,the modified CUPRAC",Present work
+20,,non-alcoholic(Table 1,,,,,,method,
+21,"PilsenMunchner,MalzbierStout and","PilsenMunchner,MalzbierStout and",54-460,54-460,0.17-1.2,0.092,Gallic acid,"SP,the modified CUPRAC",Present work
+22,,non-alcoholic(Table 1,,,,,,method,

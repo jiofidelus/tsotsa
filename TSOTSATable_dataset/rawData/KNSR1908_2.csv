@@ -1,0 +1,11 @@
+,0,1,2
+0,Parameters,Evalueted,Selected
+1,,interval,value
+2,pH,2.0-11.0,9.0
+3,NaCO/NaHCObuffer volume(mL,4.2-16.8,8.4
+4,Eluent HCl and,0.1-2.5,HNO3/0.50
+5,HNO/concentration HNOmolL-1,,
+6,HNOflow ratiomLmin-,1.4-2.4,1.4
+7,HNOvolume(mL,1.4-2.4,1.4
+8,Sample flow ratio(mLmin-,0.45-2.2,2.2
+9,Sample volume(mL),4-64,52.8

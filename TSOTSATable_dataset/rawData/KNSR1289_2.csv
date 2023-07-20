@@ -1,0 +1,27 @@
+,0,1,2,3,4
+0,,Fe Concentration (mg/kg,Fe Concentration (mg/kg,,
+1,Genotype,"IIPR,","IIPR,RS,","IIPR,RC,",Mean value over
+2,,Kanpur,Dharwad,Bhopal,locations
+3,IPU02-43,101 bcde,94.6 abcdef,94.1 abc,96.6
+4,U3108,128 ab,84.2 cdefg,98.1abc,103
+5,WBU-108,154a,83.4 defg,110 a,116
+6,Shekhar 2,104 bcde,108 abcd,104 ab,105
+7,MASH-1,106bcde,113abc,87 BCE,102
+8,IPU94-1,98.9 cde,102 abcdef,94.1abc,98.3
+9,NO5-31,87.4 cde,105 abcde,102abc,98.4
+10,IPU99-43,101 bcde,104 abcdef,87.0 BCE,97.4
+11,IPU99-209,95 cde,118a,82.7 cd,98.6
+12,WBU137-2,105 bcde,99.2 abcdef,94.4 abc,99.5
+13,UH85-5,92.8 cde,87.8 bcdefg,90.3abc,90.3
+14,PLU429,81.6 e,93.5 abcdef,93.2abc,89.4
+15,SPS28,92.5 cde,115ab,82.4 cd,96.6
+16,IPU99-79,109 bcde,75.8 fg,94.6 abc,93.1
+17,UH-1,111 bcd,64g,101.4 abc,92.0
+18,PU-30,113 BCE,103 abcdef,88.1 BCE,102
+19,VBN-7,95.6 cde,78.2 efg,93.5 abc,89.1
+20,LBG-787,82.2 de,94.5 abcdef,83.4 cd,86.7
+21,IPU96-12,103 bcde,114ab,83.7bcd,100
+22,Azad-1,81.8e,116ab,65.3d,87.8
+23,Mean,102,97.8,91.5,97.1
+24,CV,17.0,18.1,13.4,
+25,LSD(5%),27.8,29.3,20.3,

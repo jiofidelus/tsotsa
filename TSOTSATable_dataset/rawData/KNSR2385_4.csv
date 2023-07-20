@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Vitamin E,LOD,LOQ,Recovery,Within-run precision,Between-run precision
+1,homologues,(mg/100 g),(mg/100 g),(%),(%),(%)
+2,-tocopherol (-T),0.003,0.01,92,11,12
+3,-tocopherol (-T),0.01,0.03,98,9,10
+4,-tocopherol (-T),0.01,0.03,100,9,10
+5,8-tocopherol (8-T),0.0009,0.003,107,15,15
+6,-tocotrienol (a-T3),0.005,0.02,110,20,18
+7,-tocotrienol (-T3),0.0003,0.001,105,14,16
+8,-tocotrienol(-T3),0.0003,0.001,105,13,15
+9,8-tocotrienol (8-T3),0.01,0.03,87,19,20

@@ -1,0 +1,75 @@
+,0,1,2,3,4
+0,Compound Number,Retention Time (min),m/z [M-H]aor,SRM Transition: m/z < Fragment and Detected Fragments ,Tentative Identification
+1,,,[M+H]+b,,
+2,Gallic acid and derivatives a,Gallic acid and derivatives a,,,
+3,1,1.97,331,SRM 331 > 169,"Galloyl-hexoside h, ."
+4,,,,"MS2[331]:169,151,141,101,125",
+5,2,2.62,169,SRM 169> 125,"Gallic acid d, h, n, o"
+6,,,,"MS2 [169]: 125,69,95,79",
+7,27,7.23,453,SRM 453 > 169,Methylphloroglucinol-galloyl-hexosic
+8,,,,"MS2[453]:125,169,313,438,151",
+9,30,7.45,453,SRM 453> 169,Methylphloroglucinol-galloyl-hexosi
+10,,,,"MS2[453]:313,125,169,438,151",
+11,59,11.23,497,"MS2 [497]: 345, 183,313,250,95,123",Eucaglobulin 1
+12,75,13.56,461,"SRM 461 >169,179",Cinnamoyl-galloyl-O-hexoside 
+13,,,,"MS2[461]: 169,313,125,179,161",
+14,78,13.78,509,"MS2 [509]:195,313,169,357,125,241",Dihydroferuloyl-O-hexoside-gallate
+15,85,14.78,461,"SRM 461 > 169,179",Cinnamoyl-galloyl-O-hexoside o
+16,,,,"MS2 [461]:169,313,125, 151,147,161",
+17,Cinnamic acid derivatives a,Cinnamic acid derivatives a,,,
+18,3,3.00,331,SRM 331 > 153,Protocatechuoyl-caffeic acid d
+19,,,,"Ms2 [331]: 153, 168, 138, 295, 125",
+20,11,5.16,341,"SRM 341 >179,135",Caffeoyl-O-hexoside
+21,,,,"MS2[341]:179,135,163",
+22,14,5.81,337,"RM 337>163,119",5-p-Cumaroylquinic acid 1
+23,,,,"Ms2 [337]: 163, 119, 191S",
+24,18,6.19,337,"SRM 337 > 163,119",3-p-Cumaroylquinic acid
+25,,,,"MS2 [337]: 191,163,119",
+26,32,7.54,179,SRM 179 >135,"Caffeic acid dI,n"
+27,,,,"MS2 [179]:135,65,79,89,117,141",
+28,46,9.55,179,SRM 179>135,"Caffeic acid isomer d, I, n, o"
+29,,,355,"MS[179]:135,79,71,92,107,117",
+30,49,9.83,355,"MS2[355]:147,103,113","Cinnamoyl-O-hexoside d, e, h, "
+31,55,10.71,357,SRM 357 >195,Dihydroferuloyl-O-hexoside 1
+32,,,,"MS2 [357]: 195,167,151,219",
+33,60,11.24,415,"MS2[415]:207,145,133,139,177","Dimethoxycinnamoyl-O-hexoside e, h"
+34,94,17.15,529,"MS2[529]: 191,107,175,132,312",Caffeoly-feruloyl-quinic acid
+35,"Caffeoylquinic acids a,f",,,,
+36,5,4.38,353,"SRM 353 > 191,179,135",1-O-Caffeoylquinic acid &. 1
+37,,,,"MS2 [353]: 191, 161, 179",
+38,8,4.70,353,"SRM 353>191,179,135",
+39,,,,"MS2[353]:191,179,135,173",
+40,9,4.88,353,"SRM 353 >191,179,135",3-O-Caffeoylquinic acid g
+41,,,,"MS2 [353]: 191,179,135,161",
+42,24,6.82,353,"SRM 353 > 191,179,135",cis-3-O-Caffeoylquinic acid 8. 1
+43,,,,"Ms2 [353]: 191,135,179",
+44,26,7.14,353,"SRM 353 > 191,179","5-O-Caffeoylquinic acid d, g, o"
+45,,,,"MS[353]:191,161,173",
+46,29,7.39,353,"SRM 353 >191,179135",4-O-Caffeoylquinic acid &. 1
+47,,,,"MS[353]:173,191,135",
+48,34,7.66,353,"SRM 353> 191,179",cis-5-O-Caffeoylquinic acid g. 1
+49,,,,"MS2 [353]: 191,161",
+50,40,8.11,353,"SRM 353> 191,179",cis-4-O-Caffeoylquinic acid g. 1
+51,,,,"MS2[353]:173,191,143",
+52,,Ellagic acid derivatives and ellagitannins,,,
+53,4,4.07,933,"SRM 933 > 301, 257, 229",Vescalagin isomer
+54,,5.18,,"Ms2 [933]: 301, 493, 249, 631, 915, 275",
+55,10,5.18,933,"SRM 933 > 301, 257,229",Vescalagin isomer
+56,,,,"MS2[933]:631,425,301,249,915,275",
+57,12,5.01,783,"MS2 [783]: 301, 783, 481, 275, 247","Pedunculagin isomer m, -"
+58,19,6.46,951,"SRM 951 >301,257,229","Geranin isomer m, o"
+59,,,,"MS2 [951]: 783, 908. 301. 481. 275",
+60,20,6.50,783,"SRM 783 > 301, 257,229","Pedunculagin isomer m, -"
+61,,,,"MS2[783]:301,275.481.249.463",
+62,22,6.73,951,"SRM 951 > 301,257,229","Geraniin isomer m, -"
+63,,,,"MS2[951]:908,784,481,301,275",
+64,25,6.95,951,"SRM 951 >301,257,229","Geraniin isomer m, ."
+65,,,,"MS[951]:783,908,764,275,301",
+66,31,7.57,951,"SRM 951>301,257,229","Geraniin isomer m, -"
+67,,7.47,,"MS2 [951]: 275,301,935,783",
+68,33,7.47,935,"SRM 935> 169,125","Galloyl-bis-HHDP-glucoside m, o"
+69,,7.83,,"MS2[935]: 935,275,350,250,301",
+70,36,7.83,951,"SRM 951 >301,257,229","Geraniin isomer m, o"
+71,,,,"MS2 [951]: 783,301,275,481,784",
+72,39,7.99,935,"SRM 935>169,125","Galloyl-bis-HHDP-glucoside m, o"
+73,,,,"MS2 [935]: 633,275,301,571,590",

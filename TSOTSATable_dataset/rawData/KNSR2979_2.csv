@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7
+0,Compound,q1,q3,Type,Dwell,DP,CE,CXP
+1,name,(da),(da),,time (s),,,
+2,EBDCS-,241,193,Quantifier,20,41,10,16
+3,dimethyl,,,,,,,
+4,,241,134,Qualifier,20,41,10,16
+5,,241,117,Qualifier,20,41,15,16

@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7
+0,Parameters,Experiment 1:Corelli Radicchio hybrid,,,Experiment 2:Botticelli Radicchio hybrid,,,
+1,,Packaging condition (A),Storage duration (B),AB,Packaging condition (A),,Storage duration (B),AB
+2,,(AIR or pMA),"5,8,12 days",,(AIR or pMA),(AIR or pMA),"5,8,12,19,25 days)",
+3,Visual Quality score (5-1),***,.***,ns,,**,***,ns
+4,Respiration rate (mL CO/kg h),***,***,***,***,***,***,***
+5,Ammonium (mole NH4/g fw),***,.**,*,ns,ns,*,ns
+6,Electrolyte leakage (%),.***,.**,*,ns,ns,ns,ns
+7,Antioxidant activity (mg Trolox/100 g fw),ns,ns,ns,ns,ns,***,ns
+8,Total Phenols (mg GAE/100 g fw),ns,ns,ns,ns,ns,***,ns

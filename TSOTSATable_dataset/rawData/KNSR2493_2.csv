@@ -1,0 +1,25 @@
+,0,1,2,3,4
+0,Rank,Rank,Food group,% of total energy,Cumulative % of total
+1,,,,,energy
+2,NHANES 1999-2000,,,,
+3,,1,"Sweets,desserts",12.3,12.3
+4,,2,"Beef, pork",10.1,22.3
+5,,3,"Bread, rolls, crackers",8.7,31.0
+6,,4,Mixed dishes,8.2,39.2
+7,,5,Dairy,7.3,46.5
+8,,6,Soft drinks,7.1,53.6
+9,,7,Vegetables,6.5,60.1
+10,,8,"Chicken, fish",5.7,65.8
+11,,9,Alcoholic beverages,4.4,70.2
+12,10,10,"Fruit, juice",3.9,74.2
+13,NHANESI*,NHANESI*,,,
+14,,1,"Sweets, desserts",12.4,12.4
+15,,2,"Beef,pork",10.7,23.1
+16,,3,"Bread,rolls,crackers",10.7,33.9
+17,,4,Mixed dishes,7.8,41.6
+18,,5,Vegetables,7.3,48.9
+19,,6,Dairy,7.2,56.2
+20,,7,Soft drinks,6.0,62.2
+21,,8,"Chicken, fish",5.7,67.8
+22,,9,Alcoholic beverages,4.5,72.3
+23,10,10,Fats & oils,4.0,76.3

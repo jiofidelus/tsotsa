@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Food,Zn,Cu,Mn,Ca,P,Mg,Na,K
+1,Cereals,Cereals,,,,,,,,
+2,"Green maize,boiled","Green maize,boiled",0.8,0.1,0.13,Tr,106,49,3,141
+3,Maize flour,Maize flour,,,,,,,,
+4,"65% extraction,boiled","65% extraction,boiled",0.8,0.1,0.14,3,102,21,Tr,99
+5,"95% extraction,boiled","95% extraction,boiled",2.2,0.2,0.32,Tr,402,152,Tr,378
+6,Maize bran,Maize bran,3.7,0.3,0.61,9,508,186,18,531
+7,"Sorghum flour, boiled","Sorghum flour, boiled",1.2,ND,0.78,7,224,NA,NA,NA
+8,Rice,,1.6,0.6,0.72,Tr,314,169,Tr,183
+9,Roots,,,,,,,,,
+10,"Cassava,boiled","Cassava,boiled",0.6,0.2,0.28,26,43,22,7,263
+11,"Sweet potato,boiled","Sweet potato,boiled",0.2,0.2,0.12,19,38,11,10,302
+12,Vegetables,Vegetables,,,,,,,,
+13,"Chinese cabbage,boiled","Chinese cabbage,boiled",0.6,0.06,0.20,84,22,15,9,167
+14,"Pumpkin leaf,boiled","Pumpkin leaf,boiled",0.7,0.2,1.23,142,82,75,10,170
+15,"Pumpkin fruit,boiled","Pumpkin fruit,boiled",0.2,0.1,0.03,35,44,32,8,358
+16,"Cassava leaf,boiled","Cassava leaf,boiled",1.2,0.05,0.92,178,94,75,13,304
+17,"Amaranth,boiled","Amaranth,boiled",1.3,0.1,1.88,372,68,135,24,443
+18,"Okra leaf,boiled","Okra leaf,boiled",1.8,0.2,2.47,514,116,74,23,317
+19,Okra fruit,Okra fruit,NA,NA,NA,104,95,77,11,382
+20,Legumes,Legumes,,,,,,,,
+21,"Groundnut,boiled","Groundnut,boiled",1.4,0.4,0.65,41,265,123,15,510
+22,Groundnut flour,Groundnut flour,2.8,0.8,0.93,83,455,187,18,892
+23,"Lima bean,immature","Lima bean,immature",1.3,0.3,0.70,29,161,74,17,660
+24,"Pigeon pea, dried","Pigeon pea, dried",2.2,1.2,1.31,112,344,NA,NA,NA
+25,"Pigeon pea,immature,boiled","Pigeon pea,immature,boiled",0.9,0.4,0.47,42,140,NA,NA,NA
+26,"Kidney bean, dried","Kidney bean, dried",3.3,0.7,1.42,90,440,172,27,1397
+27,"Kidney bean,immature","Kidney bean,immature",1.5,0.5,0.75,58,238,NA,NA,NA
+28,"Bengal bean,boiled","Bengal bean,boiled",1.3,0.6,0.62,24,87,28,3,77
+29,"Cowpeas,boiled","Cowpeas,boiled",1.0,0.2,0.48,23,152,48,10,389
+30,Animal Products ,Animal Products ,,,,,,,,
+31,"Duck egg,boiled","Duck egg,boiled",1.5,0.1,0.03,108,450,14,60,99

@@ -1,0 +1,28 @@
+,0,1,2
+0,Elements and wavelength,,"As 188.980,Ca (396.847),Cd (214.439)"
+1,,,"Co238.892),Cr267.716),Cu327.395"
+2,,,"Fe (238.204),K(766.491),Mg(279.553,"
+3,,,"Mn257.610),Na589.592,Ni 231.604"
+4,,,"P213.618,Pb220.353,Se(196.026"
+5,,,"Sn 189.927),V(292.401 and Zn(213.857)"
+6,Conditions used by all element lines,,
+7,Power(kW),1.20,1.20
+8,Plasma flow (L/min),15.0,15.0
+9,Auxiliary flow(L/min,1.50,1.50
+10,Nebulizer flow(L/min),0.75,0.75
+11,Replicate read time (s,3.00,3.00
+12,Instrument stabilization,15,
+13,delay(s),,
+14,Sample uptake delay(s),40,
+15,Pump rate (rpm),15,
+16,Rinse time (s),30,
+17,Replicates,3,
+18,Torch type and mount,,"Low flow,axial and 90 degree bend;Torch"
+19,,,mounted horizontally and the plasma was
+20,,viewed axially,viewed axially
+21,Nebulizer type,,Concentric glass(SeaSprays)
+22,Spray chamber type,,Cyclonic spray chamber (Glass)
+23,Detector,,Charge-coupled device(CCD
+24,Autosampler,,Varian SPS 5(60 samples capacity and
+25,,,fast rinse option; peristaltic pump.
+26,Software,ICP Expert,ICP Expert

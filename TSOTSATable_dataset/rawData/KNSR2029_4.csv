@@ -1,0 +1,25 @@
+,0,1,2,3,4
+0,,,BBn=6,BA(n=15,WBn=15
+1,Glucomannan,Glucomannan,,,
+2,,content(mg/L),,,
+3,Max,,450.43,505.56,632.85
+4,Min,,314.07,197.55,304.77
+5,Mean  SD,Mean  SD,360.0450.71b,310.4889.50b,456.5081.82a
+6,Glucomannan (%,Glucomannan (%,,,
+7,,Total NSP),,,
+8,Max,,25.65,39.83,24.95
+9,Min,,21.23,27.32,12.12
+10,Mean  SD,Mean  SD,22.921.73b,34.50 4.48a,19.44 3.16b
+11,Glucomannan (%,Glucomannan (%,,,
+12,,TC),,,
+13,Max,,1.33,1.35,1.81
+14,Min,,0.94,0.79,0.87
+15,MeanSD,MeanSD,1.110.14b,1.040.18b,1.320.21a
+16,G/M,,,,
+17,Max,,2.27,2.80,3.51
+18,Min,,1.32,1.00,1.13
+19,Mean SD,Mean SD,1.790.40a,1.800.57a,1.930.59a
+20,avDPGM,avDPGM,,,
+21,Max,,127,110,162
+22,Min,,81,46,81
+23,Mean SD,Mean SD,10019ab,8119b,10922a

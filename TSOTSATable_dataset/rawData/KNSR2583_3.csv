@@ -1,0 +1,40 @@
+,0,1,2
+0,,Standard mode,He mode
+1,Plasma Parameters,,
+2,RF Power,1550 W,1550W
+3,RF Matching,1.80V,1.80V
+4,Sample Depth,8.0 mm,8.0 mm
+5,Nebulizer Gas,1.09 L/min,1.09 L/min
+6,Nebulizer Pump,0.10 rps,0.10 rps
+7,S/C Temperature,2,2
+8,Makeup Gas,0.00 L/min,0.00 L/min
+9,Auxiliary Gas,0.90 L/min,0.90 L/min
+10,Plasma Gas,15.0 L/min,15.0 L/min
+11,Lens Parameters,,
+12,Extract 1,0.0V,0.0V
+13,Extract 2,-200.0V,200.0V
+14,Omega Bias,90V,90.0V
+15,Omega Lens,8.4V,8.4V
+16,Cell Entrance,-30V,40.0V
+17,Cell Exit,50V,-60.0V
+18,Deflect,12.0V,-0.4V
+19,Plate Bias,35V,-55.0V
+20,Cell Parameters,,
+21,He Flow,0.0 mL/min,4.3 mL/min
+22,OctP Bias,-8.0V,-18.0V
+23,OctP Rf,200V,190 V
+24,Energy Discrimination,5.0V,3.0V
+25,QP Parameters,,
+26,Mass Gain,136,136
+27,Mass Offset,125,125
+28,Axis Gain,1.0009,1.0009
+29,Axis Offset,0.04,0.04
+30,QP Bias,-3.0V,-15.0V
+31,Hardware Settings,,
+32,Torch H,0.2mm,0.2 mm
+33,Torch V,0.4 mm,0.4 mm
+34,Dicriminator,3.9 Mv,3.9 Mv
+35,Analog HV,2164 V,2164V
+36,Pulse HV,1040 V,1040 V
+37,Integration Time,0.1,0.1
+38,Replicates,3,3

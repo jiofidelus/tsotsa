@@ -1,0 +1,16 @@
+,0,1,2,3
+0,Compound,Precursor ion,Collison,Product ion
+1,,(m/z),energy (V),(m/z)
+2,PteGlu,442,19.0,295
+3,2H4]-PteGlu,446,19.0,299
+4,Hofolate,446,19.0,299
+5,2H4]-H4folate,450,19.0,303
+6,5-CH3-H4folate,460,21.0,313
+7,2H4]-5-CH3,464,21.0,317
+8,Hafolate,,,
+9,10-CHO-PteGlu,470,19.0,295
+10,2H4]-10-CHO-,474,19.0,299
+11,PteGlu,,,
+12,5-CHO-H4folate,474,25.0,327
+13,2H4]-5-CHO-,478,25.0,331
+14,Hafolate,,,

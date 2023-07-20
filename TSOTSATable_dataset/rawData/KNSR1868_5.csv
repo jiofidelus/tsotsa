@@ -1,0 +1,9 @@
+,0,1,2,3
+0,Variable,Canonical correlations,F,Pr>F
+1,Serine,0.552,56.771,<0.0001
+2,Proline,0.357,34.610,<0.0001
+3,Tyrosine,0.399,46.839,<0.0001
+4,Leucine,-0.101,20.092,<0.0001
+5,Histidine,0.151,6.327,0.014
+6,Threonine,0.195,5.974,0.017
+7,Arginine,0.162,4.730,0.032

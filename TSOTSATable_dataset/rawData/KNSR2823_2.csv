@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Metabolic mode,Tested,m/z [M-,Main metabolites,Advantage,Disadvantage,References
+1,,compounds,H]-,,,,
+2,Eelectrochemical,Epicatechin,303.7655,Methylated epicatechin,100 uM standard solution;20,,
+3,microreactor,,,,mM ammonium formate buffer;,,
+4,,,334.0571,Carboxylated epicatechin,Low sample consumption; Easy,,This study
+5,,,610.4188,Methylated epicatechin +GSH,operation; Real time monitoring,,
+6,,,594.1394,Epicatechin+GSH,of MS; Short duration,,

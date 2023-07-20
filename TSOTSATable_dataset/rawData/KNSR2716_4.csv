@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,,n Consumers,Mean,S.D.,Minimum,Maximum
+1,Gender,(%of sample),g (oz),g (oz),g (oz),g (oz)
+2,,Intakes reported in NHANES 1989-1991 for ages 19-30 years: Total n = 2036; M =1005; F = 1031,,,,
+3,Male,489 (49%),686 (24),487 (17),31(1),4278 (151)
+4,Female,422 (41%),538 (19),356 (13),62 (2),2535 (89)
+5,,Intakes reported in NHANES 1991-1994 for ages 19-30 years:Total n=2067;M=897:F=1170,,,,
+6,Male,433(48%),719 (25),489 (17),62 (2),2976(105)
+7,Female,474 (41%),603 (21),446 (16),31(1),3472 (122)
+8,,Intakes reported in CSFII1994-1996for ages 19-30 years:Total n=1800;M=920;F=880,,,,
+9,Male,458 (50%),791 (28),563 (20),93 (3),4650 (164)
+10,Female,322 (37%),691 (24),569 (20),62 (2),4836(171)

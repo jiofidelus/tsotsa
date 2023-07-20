@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7
+0,,,Stock,Stock concentration,Additive,Protein concentration,Active enzyme,Active enzyme:
+1,,,volume (L),(pg/pL),volume(L),(pg/pL),concentration (g/L),substrate ratio
+2,EW sample,,50,100,,100,,
+3,Water,,560,,,,,
+4,1M HCl,,20,,,,,
+5,Pepsin,,20,100,650,7.7,3.1,0.40
+6,1 M NaHCO3,,40,,,,,
+7,"KH2PO4,pH 7.5",buffer,200,,990,,,
+8,Pancreatin,,100,25,990,5.0,2.5,0.50

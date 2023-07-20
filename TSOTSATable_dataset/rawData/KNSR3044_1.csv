@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7
+0,,Grown in full light,,Grown in shaded light,Grown in shaded light,Source of variation,,
+1,,Raw,Cooked,Raw,Cooked,Effect of light,Effect of cooking,Interactior
+2,Dry matter (%),5.380.19,5.420.54,4.140.53,3.84  0.42,***,NS,NS
+3,Totaloxalate,1072.723.2,1125.222.8,1234.1 37.5,1249.4  12.2,***,NS,NS
+4,Soluble oxalate,569.0  25.9,459.6  9.8,475.341.6,503.0  21.4,NS,NS,NS
+5,Insoluble oxalatea,503.840.8,665.521.9,758.756.0,746.5  29.8,***,NS,NS
+6,Calculated calcium bound to oxalateb,223.918.1,295.89.7,337.224.9,331.813.2,***,NS,
+7,Total calcium,1828.8  6.6,1292.5  31.2,1128.0  20.5,1235.0  27.3,***,,***
+8,Calcium bound in oxalate/total calcium (%),12.21.0,22.9  1.1,30.0  2.7,26.9  1.3,***,,***

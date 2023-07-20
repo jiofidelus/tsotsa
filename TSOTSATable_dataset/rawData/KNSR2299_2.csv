@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,peak,m/z,ion type,elemental,tentative,mass
+1,number,,,formula,identification,error
+2,,,,,,ppm
+3,1,116.0707,[M+H]+,C5HoNO2,proline,2.0
+4,2,132.1019,[M+H],CgH4NO2,leucine/,1.2
+5,,,,,isoleucine,
+6,3,162.0583,[M+H]+,CgH2NOS,S-allyl-cysteine,0.8
+7,4,178.0532,[M+H]+,CgH2NO3S,alliin,0.9
+8,5,227.1277,[M+H]+,C12H1gO4,allixin,1.0
+9,6,128.0342,[M-H],CgHgNO3,pyroglutamic,0.5
+10,,,,,acid,
+11,7,133.0131,[M-H],C4H5Os,malic acid,0.4
+12,8,176.0378,[M-H],CgHoNO3S,alliin,1.6
+13,9,215.0322,[M+Cl],CgH12OgCl,glucose,1.2

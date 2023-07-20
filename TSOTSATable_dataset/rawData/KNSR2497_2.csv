@@ -1,0 +1,49 @@
+,0,1,2,3,4,5,6,7,8
+0,,Varieties,Alanine,Aspartic,Glutamic,Glycine,Proline,Serine,Tyrosine
+1,,,,acid,acid,,,,
+2,1.,C 518,0.061 cde,0.668 efghi,1.071,0.549 bcdefg,1.387,0.598 abcdef,0.597 a
+3,2.,C591,0.057 cde,0.665 efghij,1.094,0.539 bcdefg,1.325,0.581 bcdefgh,0.373 bcdefgh
+4,3.,C 228,0.036 e,0.711d,0.921,0.594 bcdef,1.241,0.564 bcdefghij,0.409 abcdefg
+5,4.,C217,0.065 cde,0.595 klmno,1.235,0.495 defgh,1.096,0.535 cdefghijk,0.440 abcde
+6,5.,C 250,0.060 cde,0.579 lmno,1.038,0.495 defgh,1.006,0.510 defghijk,0.308 bcdefgh
+7,6.,C 271,0.051 cde,0.597 klmn,0.820,0.496 defgh,1.039,0.509 defghijk,0.231 fgh
+8,7.,C 273,0.016 cde,0.645 fghij,0.951,0.553 bcdefg,1.182,0.602 abcde,0.260 defgh
+9,8.,Dirk,0.088 abc,0.670 imno,1.313,0.427 gh,0..936,0.453 hijk,0.330 bcdefgh
+10,9.,Mexi Pak,0.041 de,0.556 no,1.080,0.464 fgh,0.877,0.457 ghijk,0.315 bcdefgh
+11,10.,Barani 70,0.048 cde,0.453 q,0.968,0.393 h,0.861,0.409 k,0.255 defgh
+12,11.,Chenab 70,0.053 cde,0.519 p,1.300,0.461 fgh,0.899,0.403 jk,0.204 gh
+13,12.,SA 42,0.088 abc,0.671 defghi,1.085,0.606 bcd,1.155,0.660 abc,0.236 efgh
+14,13.,Blue Silver,0.080 abcd,0.690 de,0.918,0.609 bcd,1.142,0.576 bcdefghi,0.276 defgh
+15,14.,Pari 73,0.065 cde,0.555 ,1.223,0.467 efgh,0.959,0.466 fghijk,0.299 cdefgh
+16,15.,Lyallpur 73,0.061 cde,0.597 klmn,0.961,0.497 defgh,0.851,0.498 defghijk,0.189 h
+17,16.,Sandal 73,0.068 cde,0.557 mno,0.787,0.527 bcdefg,1.009,0.488 efghijk,0.302 cdedfgh
+18,17.,Pothohar,0.074 bcde,0.633 ijk,0.987,0.528 bcdefg,0.908,0.512 defghijk,0.212 gh
+19,18.,Yecora,0.066 cde,0.576 Imno,1.160,0.209 cdefgh,1.036,0.510 defghijk,0.366 bcdefgh
+20,19.,SA 75,0.058 cde,0.683 defg,1.025,0.578 bcdef,1.071,0.591 abcdefg,0.267 defgh
+21,20.,Arz,0.056 cde,0.585 Imno,0.979,0.513 cdefgh,1.167,0.523 defghijk,0.322 bcdefgh
+22,21.,LU 26,0.058 cde,0.634 hijk,1.098,0.542 bcdefg,1.082,0.571 bcdefghi,0.350 bcdefgh
+23,22.,Punjab 76,0.061 cde,0.687 def,0.788,0.552 bcdefg,1.138,0.580 bcdefghi,0.243 efgh
+24,23.,Pavon,0.090 abc,0.799 d,1.124,0.753 a,0.962,0.722 a,0.293 cdefgh
+25,24.,WL 711,0.059 cde,0.594 klmno,0.743,0.506 cdefgh,1.154,0.531 cdefghijk,0.241 efgh
+26,25.,Chenab 79,0.052 cde,0.600 kl,0.815,0.515 bcdefgh,1.138,0.445 ijk,0.382 bcdefgh
+27,26.,Bahawalpur 79,0.111 ab,0.763c,1.019,0.620 bcd,1.102,0.626 abcd,0.287 cdefgh
+28,27.,Punjab 81,0.060 cde,0.683 defg,1.031,0.558 bcdefg,1.199,0.558 bcdefghij,0.332 bcdefgh
+29,28.,Pak 81,0.053 cde,0.675 defgh,0.993,0.562 bcdefg,1.080,0.526 cdefghij,0.425 abcdef
+30,29.,Barani 83,0.063 cde,0.578 lmno,1.069,0.487 defgh,1.351,0.465 fghijk,0.339 bcdefgh
+31,30.,Kohinoor 83,0.084 abc,0.756 c,1.033,0.650 ab,1.227,0.616 abcde,0.291 cdefgh
+32,31.,Faisalabad 83,0.054 cde,0.670 defghi,1.030,0.548 bcdefg,1.230,0.581 bcdefgh,0.351 bcdefgh
+33,32.,Faisalabad 85,0.073 bcde,0.627 jk,0.835,0.535 defg,1.183,0.506 defghijk,0.322 bcdefgh
+34,33.,Punjab 85,0.057 cde,0.676 defg,1.042,0.579 bcdef,1.162,0.574 bcdefghi,0.336 bcdefgh
+35,34.,Satluj 86,0.061 cde,0.684 defg,0.778,0.603 bcde,1.050,0.579 bcdefghi,0.277 defgh
+36,35.,Chakwal 86,0.071 bcde,0.678 defg,0.796,0.587 bcdef,1.165,0.576 bcdefghi,0.252 efgh
+37,36.,Rawal 87,0.072 bcde,0.675 defgh,0.819,0.605 bcd,1.197,0.542 cdefghijk,0.236 efgh
+38,37.,Punjnad 88,0.060 cde,0.662 efghij,0.826,0.562 bcdefg,1.402,0.579 bcdefghi,0.350 bcdefgh
+39,38.,Shalimar 88,0.081 abcd,0.598 klm,0.861,0.516 bcdefgh,1.318,0.501 defghijk,0.340 bcdefgh
+40,39.,Rohtas 90,0.065 cde,0.699 de,1.119,0.604 bcd,1.282,0.628 abcd,0.355 bcdefgh
+41,40.,Pasban 90,0.059 cde,0.687 def,1.045,0.593 bcdef,1.236,0.604 abcde,0.354 bcdefgh
+42,41.,Inqulab 91,0.057 cde,0.675 defgh,0.991,0.568 bcdef,1.159,0.594 abcdef,0.464 abcd
+43,42.,Parwaz 94,0.119 a,0.644 ghij,0.998,0.546 bcdefg,1.908,0.538 cdefghijk,0.324 bcdefgh
+44,43.,Shahkar 95,0.063 cde,0.711 d,0.966,0.604 bcd,1.413,0.620 abcde,0.513 ab
+45,44.,Punjab 96,0.081 abcd,0.841 a,0.888,0.640 abc,1.124,0.682 ab,0.488 abc
+46,,Mean,0.066,0.645,0.991,0.549,0.566,0.550,0.326
+47,,LSD Value,0.035,0.035,,0.110,,0.110,0.169

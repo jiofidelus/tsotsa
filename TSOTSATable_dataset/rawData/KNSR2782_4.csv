@@ -1,0 +1,27 @@
+,0,1,2,3
+0,Nutrients [Tagname],Korean Terms (unit)/Definition/Analytical,International Terms (unit)/Definition/Analytical method,Comparability or/
+1,,method,,convertibility
+2,,Lumiflavin method (fluorimetry),The order of preferred method: Microbiological assay with,
+3,,,Saccharomyces carlsbergensis or S. uvarum > HPLC > Fluorimetry,
+4,Vitamin B6 [VITB6A],Vitamin Bs (mg/100 g EP),Vitamin B (mg/100 g EP),Comparable
+5,,,"Sum of pyridoxal, pyridoxine, pyridoxamine and their phosphates",
+6,,HPLC,Microbiological assay with Saccharomyces carlsbergensis& HPLC,
+7,Vitamin B12 [VITB12],Vitamin B12 (g/100 g EP),Vitamin B2 (g/100 g EP), Not-comparable
+8,,HPLC,Microbiological assay with Lactobacillus leichmanii,
+9,Vitamin C [VITC],Vitamin C (mg/100 g EP),Vitamin C (mg/100 g EP),Comparable
+10,,Sum of ascorbic acid and dehydroascorbic,Sum of L-ascorbic acid and L-dehydroascorbic acid,
+11,,acid,,
+12,,HPLC,"Fluorimetric method, HPLC",
+13,Sodium [NA],Sodium (mg/100 g EP),Sodium (mg/100 g EP),Comparable
+14,,AAS,"AAS, FS",
+15,Potassium [K],Potassium (mg/100 g EP),Potassium (mg/100 g EP),Comparable
+16,,AAS,"AAS, FS",
+17,Calcium [CA],Calcium (mg/100 g EP),Calcium (mg/100 g EP),Comparable
+18,,ICP,"AAS, FS",
+19,Phosphorus [P],Phosphorus (mg/100 g EP),Phosphorus (mg/100 g EP),Comparable
+20,,ICP,"ICP, colorimetric method applying to wet-digested samples",
+21,Iron [FE],Iron (mg/100 g EP),"Iron, total (mg/100 g EP)",Comparable
+22,,,Haem and non-haem iron,
+23,,ICP,"AAS, ICP & sound colorimetric methods",
+24,Magnesium [MG],Magnesium (mg/100 g EP),Magnesium (mg/100 g EP),Comparable
+25,,,AAS,

@@ -1,0 +1,56 @@
+,0,1,2,3,4,5,6,7
+0,Peak,Compound,RIa,RI (ref)b,Peak,Compound,Ri a,RI (ref)
+1,1,Methyl acetate,827,813,53,Unknown,1495,
+2,2,2-Methylfuran,876,866,54,2-Acetylfuran,1498,1490
+3,3,Ethyl acetate,897,872,55,Formic acid,1501,
+4,4,2-Butanone,909,908,56,Furfuryl formate,1504,1519
+5,5,2-Methylbutanal,913,910,57,3-Methyl-2-cyclopenten-1-one,1507,
+6,6,3-Methylbutanal,916,910,58,Benzaldehyde,1509,1502
+7,7,Unknown,927,,59,Pyrrole,1518,
+8,8,Ethanol,934,929,60,1-(2-Furyl)-2-propanone,1522,1546
+9,9,"2,5-Dimethylfuran",953,951,61,Unknown,1532,
+10,10,"2,3-Butanedione",979,963,62,1-Acetyloxy-2-butanone,1536,1554
+11,11,Unknown,1023,,63c,Furfuryl acetate,1539,1559
+12,12,Toluene,1043,1042,63c,Propanoic acid,1539,
+13,13,"2,3-Pentanedione",1062,1053,64,5-Methylfurfural,1566,1563
+14,14,Ethyl is ovalerate,1078,1060,65,2-Propionyl-furan,1569,1563
+15,15,Unknown,1088,,66,"4-Cyclopenten-1,3-dione",1573,
+16,16,Unknown,1102,,67,"1,2-Furfuryl-1-propanone",1575,
+17,17,Unknown,1128,,68,Furfuryl propionate,1599,1620
+18,18,"2,4-Dimethyl-3-pentanone",1137,,69,2-Formyl-1-methylpyrrole,1607,1661
+19,19,1-Methylpyrrole,1139,1139,70,y-Butyrolactone,1609,1632
+20,20,2-Vinyl-5-methylfuran,1154,1149,71,2-Acetylpyrazine,1614,1665
+21,21,Ethyl-2-butenoate,1164,,72,Unknown,1631,
+22,22c,Limonene,1198,1178,73,Butanoic acid,1634,1611
+23,22c,Pyridine,1198,1180,74,2-Acetyl-1-methylpyrrole,1645,1647
+24,23,3-Methylbutan-1-ol,1205,1205,75,"1,2-(Furyl)-butan-3-one",1651,
+25,24,Pyrazine,1212,1194,76,4-Methoxy-benzenamine,1655,
+26,25,2-Methylpyridine,1229,1239,77,5-Methyl-2-(3H)-furanone,1661,
+27,26,Furfuryl methyl ether,1243,,78,Furfuryl alcohol,1668,1686
+28,27,3-Methyl-3-butene-1-ol,1258,1264,79,3-Methylvaleric acid,1673,
+29,28,Thiazole,1262,1260,,2-Formylthiophene,1679,
+30,29,2-Methyltetrahydrofuran-3-one,1267,1283,80,1-(6-Methyl-2-pyrazinyl)-1-ethanone,1679,
+31,30,2-Methylpyrazine,1271,1288,81,Isovaleric acid,1680,
+32,31,Unknown,1274,,82,Unknown,1681,
+33,32,Unknown,1283,,83,Unknown,1711,
+34,33,3-Hydroxy-2-butanone,1289,1307,84,"2-Ethyl-4-methyl-2,5-furanedione",1718,
+35,34,1-Hydroxy-2-propanone,1300,1323,85,Unknown,1733,
+36,35,"2,5-Dimethylpyrazine",1322,1347,86,Unknown,1763,
+37,36,Unknown,1329,,87,Unknown,1795,
+38,37,"2,6-Dimethylpyrazine",1334,1353,88,3-Methyl-2-butenoic acid,1802,1776
+39,38,2-Ethylpyrazine,1338,1359,89,2-Hydroxy-3-methyl-2-cyclopenten-1-one,1829,
+40,39,"2,3-Dimethylpyrazine",1345,1372,90,"2,3-Dihydro-5-hydroxy-6-methyl-4(H)-pyran-4-one",1848,
+41,40,2-Methyl-2-cyclopenten-1-one,1366,1397,91,Unknown,1852,
+42,41,1-Hydroxy-2-butanone,1375,1381,92,Guaiacol,1859,1843
+43,42,3-Ethylpyridine,1387,,93,3-Ethyl-2-hydroxy-2-cyclopenten-1-one,1894,
+44,43,2-Ethyl-6-methylpyrazine,1391,1411,94,3-Hydroxy-2-methyl-4H-pyran-4-one,1959,
+45,44,2-Ethyl-3-methylpyrazine,1406,1419,95,2-Acetylpyrrole,1969,1949
+46,45,2-Ethyl-5-methylpyrazine,1411,1432,96,Difurfuryl ether,1977,
+47,46,Unknown,1420,,97,Phenol,2007,1984
+48,47c,2-Vinyl-5-methylpyrazine,1433,1485,98,2-Formylpyrrole,2013,2014
+49,47c,"2,6-Diethylpyrazine",1433,1463,99,4-Ethylguaiacol,2023,2014
+50,48,Acetic acid,1440,1450,100,-Decalactone,2131,2103
+51,49,Furfural,1461,1449,101,4-Vinylguaiacol,2187,2182
+52,50,1-Acetoxy-2-propanone,1470,1483,102,Unknown,2360,
+53,51,2-Furfuryl methyl sulfide,1481,1516,103,Benzoic acid,2428,2399
+54,52,2-Methyl-6-vinylpyrazine,1490,1521,,,,

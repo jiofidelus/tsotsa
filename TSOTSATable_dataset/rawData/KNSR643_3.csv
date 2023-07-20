@@ -1,0 +1,53 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,Gender,,,,,,,,,,,,,,,,
+1,,Mean intake (cup equivalent)),Mean intake (cup equivalent)),Mean intake (cup equivalent)),Mean intake (cup equivalent)),,,,,Cup equivalent per 1000 kcal,Cup equivalent per 1000 kcal,Cup equivalent per 1000 kcal,Cup equivalent per 1000 kcal,Cup equivalent per 1000 kcal,,,
+2,,Men(N=5183,Men(N=5183,,,,Women (N = 5380),Women (N = 5380),,Men,,,,,Women,,
+3,,Mean,,SE,,Mean,Mean,SE,SE,Mean,,SE,,,Mean,,SE
+4,Epidemiological,,,,,,,,,,,,,,,,
+5,Total vegetables,1.8 a,1.8 a,0.04,,,1.5b,,0.02,0.7 a,,0.01,0.01,,0.9 b,,0.02
+6,Total vegetables excluding fried potatoes,1.5,1.5,0.04,,,1.3 b,,0.03,0.7a,,0.01,0.01,,0.8 b,,0.02
+7,Fried potatoes,0.2 a,0.2 a,0.01,,,0.1b,,0.01,0.1,,0.005,0.005,,0.1,,0.005
+8,Behavioral,,,0.04,,,1.2 b,,,,,,,,0.7 b,,
+9,Total vegetables,1.3,1.3,0.04,,,1.2 b,,0.02,0.6 a,,0.01,0.01,,0.7 b,,0.01
+10,Total vegetables excluding fried potatoes,1.1,1.1,0.03,,,1.0,,0.02,0.5a,,0.01,0.01,,0.6 b,,0.02
+11,Fried potatoes,0.2 a,0.2 a,0.01,,,0.1 b,,0.01,0.1,,0.005,0.005,,0.1,,0.005
+12,Age,,,,,,,,,,,,,,,,
+13,,,2039 (N = 3642),2039 (N = 3642),,,,40-59 (N = 3521),40-59 (N = 3521),,,,,60+(N=3400,60+(N=3400,,
+14,,Mean,Mean,,,SE,,Mean,Mean,SE,,,,Mean,,,SE
+15,Epidemiological,,,,,,,,,,,,,,,,
+16,Total vegetables,,1.5a,,,0.03,,1.7b,1.7b,0.04,0.04,,,"1.6a,b",,,0.04
+17,Total vegetables excluding fried potatoes,,1.3a,,,0.03,,1.5b,1.5b,0.04,0.04,,,1.5b,,,0.04
+18,Fried potatoes,,0.2a,,,0.01,,0.2a,0.2a,0.01,0.01,,,0.1b,,,0.01
+19,Behavioral,,,,,,,,,,,,,,,,
+20,Total vegetables,,1.1a,,,0.03,,1.4b,1.4b,0.04,0.04,,,1.3b,,,0.03
+21,Total vegetables excluding fried potatoes,,0.9a,,,0.02,,1.2b,1.2b,0.04,0.04,,,1.2b,,,0.03
+22,Fried potatoes,,0.2a,,,0.01,,0.2b,0.2b,0.01,0.01,,,0.1b,,,0.01
+23,Ethnicity,,,,,,,,,,,,,,,,
+24,,Non-Hispanic white (N = 4628),Non-Hispanic white (N = 4628),Non-Hispanic white (N = 4628),,,,Non-Hispanic black (N=2299),Non-Hispanic black (N=2299),Non-Hispanic black (N=2299),,,,Hispanic (N = 2579),Hispanic (N = 2579),Hispanic (N = 2579),
+25,,Mean,,,SE,,,Mean,,SE,,,,Mean,,,SE
+26,Epidemiological,,,,,,,,,,,,,,,,
+27,Total vegetables,,1.6a,,,0.03,,,1.4b,,0.03,,,1.6a,1.6a,,0.04
+28,Total vegetables excluding fried potatoes,,1.4a,,,0.01,,1.2b,1.2b,,0.01,,,1.5a,1.5a,,0.01
+29,Fried potatoes,,0.2a,,,0.01,,,0.2a,,0.01,,,0.1b,0.1b,,0.01
+30,Behavioral,,,,,,,,,,,,,,,,
+31,Total vegetables,,1.3a,,,0.03,,,0.9b,,0.03,,,1.2a.b,1.2a.b,,0.04
+32,Total vegetables excluding fried potatoes,,1.1a,,,0.03,,,0.9b,,0.03,,,"1.1a,b","1.1a,b",,0.04
+33,Fried potatoes,,0.2a,,,0.01,,,0.2,,0.01,,,0.1b,0.1b,,0.01
+34,Income,,,,,,,,,,,,,,,,
+35,,,Low(N=3340,Low(N=3340,,,,Middle (N=3482,Middle (N=3482,,,,,High (N=2840),High (N=2840),,
+36,,Mean,Mean,,SE,SE,,Mean,,SE,,,Mean,Mean,,,SE
+37,Epidemiological,,,,,,,,,,,,,,,,
+38,Total vegetables,,"1.5a,b",,,0.04,,1.5a,1.5a,0.04,0.04,,,1.8b,,,0.06
+39,Total vegetables excluding fried potatoes,,"1.4a,b",,,0.04,,1.3a,1.3a,0.03,0.03,,,1.6b,,,0.05
+40,Fried potatoes,,0.2,,,0.01,,0.2,0.2,0.01,0.01,,,0.2,,,0.01
+41,Behavioral,,,,,,,,,,,,,,,,
+42,Total vegetables,,1.2,,,0.05,,1.2,1.2,0.04,0.04,,,1.4,,,0.05
+43,Total vegetables excluding fried potatoes,,1.0a,,,0.04,,1.0a,1.0a,0.03,0.03,,,1.2b,,,0.05
+44,Fried potatoes,,0.2,,,0.01,,0.2,0.2,0.01,0.01,,,0.2,,,0.01
+45,Education,,,,,,,,,,,,,,,,
+46,,< high school (N = 2736),< high school (N = 2736),< high school (N = 2736),< high school (N = 2736),,,high school (N = 2324),high school (N = 2324),,,,> high school (N = 5503),> high school (N = 5503),> high school (N = 5503),> high school (N = 5503),
+47,,Mean,Mean,,SE,,,Mean,,SE,,,Mean,,,SE,
+48,Epidemiological,,,,,,,,,,,,,,,,
+49,Total vegetables,,1.6,,,0.07,,1.6,,0.03,,,1.6,1.6,,,0.04
+50,Total vegetables excluding fried potatoes,,1.5,,,0.06,,1.4,,0.03,,,1.4,1.4,,,0.04
+51,Fried potatoes,,0.2,,,0.01,,0.2,,0.01,,,0.2,0.2,,,0.01

@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7
+0,,,,,,Purine (g/kg dry matter),,
+1,Insect species,Sex,,,,,,
+2,,,Guanine,Hypoxanthine,Xanthine,Adenine,Epurines,Adenine+ hypoxanthine
+3,,Male,"1.66  0.68a, A","2.04  0.97a, A","1.31  0.93a, A","1.95  0.94a, A","6.96  3.52a, A","3.99  1.91a, A"
+4,House cricket,Female,"1.37  0.61a, A","1.85  0.79 a, A","1.45  0.90a, A","1.34  0.86a, A","6.01  3.16a, A","3.19  .165 a, A"
+5,Desert locust,Male,"1.15 0.03b,A","0.45  0.03 b, B","0.62  0.03b, B","2.73  0.16b, B","4.95  0.25b, B","3.18  0.19b, A"
+6,Desert locust,Female,"1.84  0.02c, A","0.65  0.17 b, B","0.19  0.02c, B","3.54  0.44c, B","6.22  0.65c, B",4.19 0.61A
+7,Discoid roach,Male,"0.73  0.13d, A","0.97  0.25c, B","0.12  0.04d, B","1.28  0.38d, A","3.10  0.80d, c","2.25  0.63d, B"
+8,Discoid roach,Female,"0.99  0.17d, A","1.03  0.13 c, B","0.18  0.03d, B","1.17  0.23d, A","1.17  0.56d, c","2.20  0.36d, B"

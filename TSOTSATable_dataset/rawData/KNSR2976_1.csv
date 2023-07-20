@@ -1,0 +1,15 @@
+,0,1
+0,Plasma conditions,
+1,RF power,1.2 kW
+2,Plasma Ar flow rate,15Lmin-1
+3,Auxiliary Ar flow rate,0.89 Lmin-1
+4,Carrier Ar flow rate,0.95-1.0Lmin-1
+5,Torch horizontal,-0.5-1.0mm
+6,alignment,
+7,Torch vertical,0.2-0.5 mm
+8,alignment,
+9,Sampling depth,6.0-8.0 mm
+10,Instrument,
+11,Sampler cone,"Nickel,1.0 mm orifice diameter"
+12,Skimmer cone,"Nickel, 0.4 mm orifice diameter"
+13,Isotopes,

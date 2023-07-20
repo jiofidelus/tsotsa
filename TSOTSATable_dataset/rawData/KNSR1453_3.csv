@@ -1,0 +1,20 @@
+,0,1,2,3
+0,Parameters,Parameters,Cd,Pb
+1,,Analytical range g L-1,0-20,0-20
+2,SlopeSD,SlopeSD,0.009  5.0  10-4,0.0105  6.4  10-3
+3,Intercept  SD,Intercept  SD,0.025  6.6  103,0.0886  4.5  10-3
+4,,Confidence limit of slopeb,0.0013,0.0008
+5,,Confidence limit of intercept,0.0169,0.0115
+6,,Correlation coefficient (R,0.9845,0.9951
+7,m0 (pg),m0 (pg),10.1,8.4
+8,Limits,Limits,,
+9,LODg kg-1,LODg kg-1,1.51,3.32
+10,LOQg kg1,LOQg kg1,5.04,11.20
+11,,Analysis of variance,,
+12,Linear regression,Linear regression,9582.17 (4.6),4781.69 (4.6)
+13,Linearity deviation,Linearity deviation,21.56 (2.96),3.38(2.96)
+14,Recovery test,Recovery test,,
+15,,Level/Added ug L-1,"Recovered(meanSD,%",
+16,5,,"104.775,19","96.411,74"
+17,,10,"106.071,74","108.413,28"
+18,,15,"100.801,86","94.653,58"

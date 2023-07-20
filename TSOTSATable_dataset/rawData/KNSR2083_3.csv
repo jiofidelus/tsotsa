@@ -1,0 +1,8 @@
+,0,1,2,3,4,5
+0,,,Predicted class,Predicted class,,
+1,Actual classes,#of PC,,,,
+2,,,Acacia,Linden,Colza,Sunflower
+3,Acacia Ro+Fr(37*,2,37,,,
+4,Linden Ro+Fr 11*,1,1,10,-,
+5,Colza Ro+Fr(13*,2,2,-,11,-
+6,Sunflower Ro+Fr(12*,2,1,-,-,11

@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Parameter (it range,Parameter (it range,Procedure,Slope,Offset,RMSECV*,R2
+1,PV,,Calibration,0.99,0.02,0.1,0.99
+2,,0-4)[meq/kg],Validation,0.97,0.05,0.5,0.89
+3,p-AV,,Calibration,0.86,0.28,0.5,0.86
+4,,(0.5-3.8),Validation,0.76,0.43,0.8,0.67
+5,TT,,Calibration,0.94,3.83,5.0,0.94
+6,,37-100.7 [mg/100 g],Validation,0.80,11.5,10.0,0.83

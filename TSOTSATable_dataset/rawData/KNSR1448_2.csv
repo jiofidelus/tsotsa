@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,,As,,Cd,,,Cu,Pb,,Se
+1,Wavelength (nm),,193.7,,228.8,,,324.8,283.3,,196.0
+2,Argon flow (mLmin-1),,250,,250,,,250,250,,250
+3,Sample volume (L),,20,,20,,,20,20,,20
+4,Modifier volume (L),,5,,5,,,5,5,,5
+5,"Heating program temperature C(ramp time (s), hold time (s))","Heating program temperature C(ramp time (s), hold time (s))",,,,,,,,,
+6,Drying 1,"110 1,30",,"110 (1,30)",,,"110 1,30",,"110 1,30)",,"1105,10"
+7,Drying 2,"130 (15,30)",,"130 (15,30)",,,"130 (15,30)",,"130 (15, 30)",,"600 (20,40)"
+8,Cooling,,,,,,,,,,"20 (1,40)"
+9,Ashing,"1600 (10, 20)",,"700 (10, 20)",,,"2000 (0, 5)",,"900 (10, 20)",,"1300 (10, 20)"
+10,Atomisation,"2000 (0, 5)",,"1550 (0, 5)",,,"2000 (0, 5)",,"1850 (0, 5)",,"2100 (0, 5)"
+11,Cleaning,"2450 (1, 3)",,"2450 (1, 3)",,,"2450 (1, 3)",,"2450 (1, 3)",,"2400 (1,5)"
+12,Conditions for flame absorption spectrometry (FAAS),Conditions for flame absorption spectrometry (FAAS),,,,,,,,,
+13,,Ca,,Fe,,K,,Mg,Na,,Zn
+14,Wavelength (nm),422.7,,248.3,,766.5,,285.2; 202.6,589.0; 589.6,,213.9
+15,Lamp current (mA),10,,5,,5,,4,5,,5
+16,Fuel,Acetylene,,Acetylene,,Acetylene,Acetylene,Acetylene,Acetylene,,Acetylene
+17,Support,Nitrous oxide,,Air,,Air,,Air,Air,,Air
+18,Flame stoichiometry,Reducing,,Oxidising,,Oxidising,,Oxidising,Oxidising,,Oxidising
+19,Conditions for mercury analyser,,,,,,,,,,
+20,,,,,,,,,,Hg,
+21,Wavelength (nm),,,,,,,,,253.65,
+22,Drying time (s),,,,,,,,,60,
+23,Decomposition time (s),,,,,,,,,150,
+24,Wait time (s),,,,,,,,,45,
+25,Weight/volume of sample,,,,,,,,,100 mg/100 mL-1,100 mg/100 mL-1
+26,Working range,,,,,,,,,0.05-600 ng,0.05-600 ng

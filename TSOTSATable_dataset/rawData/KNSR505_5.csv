@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6
+0,Pesticide,Instrument,Matrix,Recovery,RSD,LOD,LOQ
+1,,,effect,(average),%,,
+2,-HCH,GC-MS,82.1,100.6,18.2,1.3,4.3
+3,permetrin,GC-MS,-50.5,95.0,17.4,1.8,5.9
+4,cyflometofen,GC-MS,89.1,109.7,7.4,1.3,4.4
+5,-HCH,GC-MS,41.0,127.1,14.7,3.8,12.5
+6,chlortanolil,GC-MS,29.3,88.5,8.1,6.9,56.3
+7,lindane,GC-MS,76.2,120.5,9.1,11.9,39.8

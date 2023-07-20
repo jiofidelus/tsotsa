@@ -1,0 +1,12 @@
+,0,1,2
+0,Digestion parameters,Variation,Optimized value
+1,Solvent system,HNO,Series of
+2,,HNO3:HO2:1,HNO:HO2:12mL
+3,,HO2,HNOHO2:11mL
+4,,,HO1 mL
+5,Sample mass,0.1-0.5g,0.3g
+6,Presonication time,0-30 min,10 min
+7,Sonication time,10-60min,30 min
+8,Vessel,Opened,Covered
+9,,Covered,
+10,,Tightly closed,

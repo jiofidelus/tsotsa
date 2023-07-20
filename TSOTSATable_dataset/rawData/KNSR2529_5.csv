@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,Sugar,1M+Ca2+,1M+Na+,2M+Ca2+,3 M+Ca2+,4M+Ca2+
+1,Hexose trisaccharide,m/z 272,"m/z 527,base peak",ND,ND,ND
+2,Sucrose,"m/z 362, base peak",m/z 365,m/z 533,ND,ND
+3,Glucose,ND,m/z 203,m/z 200,"m/z 290, base peak",m/z 380
+4,Fructose,ND,m/z 203,m/z 200,"m/z 290, base peak",m/z 380
+5,Deoxyhexose,ND,ND,ND,m/z 266,ND

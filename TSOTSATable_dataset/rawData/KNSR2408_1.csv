@@ -1,0 +1,31 @@
+,0,1,2,3,4
+0,Peak,Identification,Amax (nm)a,Amax (nm)b,Response to chemical tests
+1,no.,,,,
+2,,,,%111/11,
+3,-,Neoxanthin,"415,439,467","414.438,466","Positive to trans; positive to 5,6- epoxide (1"
+4,,,,88,group); positive to acetylation (3 OH groups)
+5,2,Violaxanthin,"417,441,470","416, 440,468","Positive to trans; positive to 5,6- epoxide (2"
+6,,,,98,groups); positive to acetylation (2 OH groups
+7,+,Lutein,423.447.475,"421,443,472",Positive to trans; positive to acetylation (2 OH
+8,,,,60,"groups,positive to methylation(1 allylic OH"
+9,,Zeaxanthin,"(428), 454, 480","(425),448,476",Positive to trans; positive to acetylation
+10,,,,24,(l OH group); negative to methylation
+11,,Rubixanthin,"438,463, 494","435,458,488",Positive to trans; positive to acetylation
+12,,,,40,1 OH group
+13,8,Cis-rubixanthin,"354,432,460,490 430,455,485",,Positive to cis; positive to acetylation
+14,,,,,(l OH group; negative to methylation
+15,,-cryptoxanthin,"(426), 454, 481","(425), 448, 476",Positive to trans; positive to acetylation
+16,,,,25,(1 OH group); negative to methylation
+17,10,"-carotene-5,6-","425, 449, 477","423,441,470","Positive to trans; positive to 5,6 epoxide"
+18,,epoxide,,55,(1 group);
+19,11,Lycopene,"446,473,504","442, 468, 500",Positive to trans
+20,,,,65,
+21,12,Cis-lycopene,"361,442, 467,498 360,440,466, 497 Positive to cis",,"361,442, 467,498 360,440,466, 497 Positive to cis"
+22,,,,56,
+23,13,-carotene,"438,463,494","435,458,488",Positive to trans
+24,,,,38,
+25,15,a-carotene,"425, 448, 476","422, 444, 472",Positive to trans
+26,,,,53,
+27,16,-carotene,"(428),454, 480","(424), 448, 476",Positive to trans
+28,,,,25,
+29,17,Cis--carotene,"340,423,449,474",,

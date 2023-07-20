@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,storage period in week/room,quality attributes of uncooked,quality attributes of uncooked,quality attributes of uncooked,,,,quality attributes of cooked,quality attributes of cooked,quality attributes of cooked,quality attributes of cooked,,,
+1,,appearance,color,odor,,texture,overall acceptability,appearance,color,,odor,texture,flavor,overall acceptability
+2,0,6 2a,62a,61,61,71,6.48  1.47a,61a,71,71,71a,72a,62a,6.4  1.4a
+3,1A#,8  1a,8  1a,7,1a,1a,7.411.02a,61a,6,1a,71a,7  1a,7 1a,6.6  1.6a
+4,1M,81a,81a,61a,61a,la,7.56  0.73a,6  1a,61,61,71a,71a,52a,6.1  1a
+5,2A,70a,71,7,1a,1a,7.29  1.38a,6  2a,62a,62a,62a,71a,71,6.9  1.3a
+6,2M,71,71,61,61,1a,6.71  1.25a,5  2a,52,52,61a,62a,61,6.31.6a
+7,3A,62a,61a,5,2a,1a,6.29  1.6a,5  2a,42a,42a,52a,62a,52a,5.4  2a
+8,3M,6  2a,6  2a,5,2a,1a,6.29  2.14a,4  2a,3a,3a,52a,5  2a,6  2a,5.7  2a
+9,4A,71a,71a,7,2a,la,6.94  1.02a,6  2a,6  2a,6  2a,7  2a,7  2a,7  2a,6.6  1.9a
+10,4M,6  2a,6 2a,5,2a,2a,6.00  1.93a,6  2a,6  2a,6  2a,6  2a,2a,2a,6.1  2.1a
+11,5A,7 1a,71a,71a,71a,1a,7.14  0.9a,61a,61a,61a,6 1a,6  2a,71a,6.8  1.3a
+12,5M,8 1a,8 1a,71a,71a,1a,7.00 1.73,7  2a,7  2a,7  2a,71a,7 1a,2a,6.9  1.4a
+13,6A,71a,71a,61a,61a,1a,6.38  1.06a,6  2a,6 ,1a,6  2a,6 1a,2a,6.6  1.4a
+14,6M,7  2a,7  2a,71a,71a,61a,5.88  1.36a,6  2a,6  2a,6  2a,6  2a,6  2a,6  2a,6.12

@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7
+0,Trait,,N,Media,SD,CV,Minimum,Maximum
+1,Composition traits (%),Composition traits (%),,,,,,
+2,,Moisture,104,64.35,10.66,16.56,39.48,75.70
+3,Fat,Fat,104,18.14,6.63,36.57,7.49,32.95
+4,,Protein,104,12.72,5.39,42.39,5.87,23.20
+5,Nitrogen related traits (%),Nitrogen related traits (%),Nitrogen related traits (%),,,,,
+6,,Total nitrogen,104,2.31,0.87,37.73,1.31,4.22
+7,,Soluble,104,0.30,0.16,53.44,0.06,0.82
+8,,nitrogen,,,,,,
+9,,Ripening,104,12.67,4.60,36.30,4.52,24.89
+10,,Index,,,,,,
+11,Minerals (g/100 g),Minerals (g/100 g),,,,,,
+12,Ca,Ca,104,0.45,0.16,36.63,0.22,0.75
+13,K,K,104,0.08,0.04,50.79,0.02,0.14
+14,Mg,Mg,104,0.03,0.02,80.64,0.01,0.08
+15,Na,Na,104,0.26,0.17,65.51,0.04,0.69
+16,P,P,104,0.30,0.12,38.27,0.16,0.53

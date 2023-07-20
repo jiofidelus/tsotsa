@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,EA concentration,inter-day,,intra-day,
+1,0.1umol/L,SD (mol/L),0.0036,SD(umol/L),0.0035
+2,,RSD,3.6%,RSD,3.5%
+3,,recovery,100.16%,recovery,98.28%
+4,,n,6,n,18
+5,1.0 mol/L,SD (mol/L),0.0199,SD (mol/L),0.0210
+6,,RSD,1.9%,RSD,2.1%
+7,,recovery,102.47%,recovery,101.97%
+8,,n,6,n,18

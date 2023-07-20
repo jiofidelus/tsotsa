@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8
+0,,Cadmium,,,,Lead,,,
+1,lamp current [mA],6,,,,8,,,
+2,wavelength [nm],228.8,,,,283.3,,,
+3,slit width [nm],0.2,,,,0.2,,,
+4,limit of detection [mg/kg],0.0007,,,,0.0004,,,
+5,limit of quantification [mg/kg],0.002,,,,0.0013,,,
+6,mo[pg],15,,,,10,,,
+7,parameter/step,drying,pyrolysis,atomization,cleaning,drying,pyrolysis,atomization,cleaning
+8,temperature [C],140,550,2400,2700,100,800,2500,2700
+9,ramp [C/s],18,10,0,4,25,10,0,4
+10,hold [s],40,18,10,5,60,20,10,5
+11,gas flow [ml/min],200,200,0,200,200,200,0,200

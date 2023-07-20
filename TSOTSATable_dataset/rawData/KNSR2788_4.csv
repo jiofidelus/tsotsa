@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,sources,df,,,,,,,,,
+1,Types,,GRA,GRE,GNF,4-HGBS,GER,UK,GRH,GBS,4-MGBS,T.GSL
+2,Irrigation timing,Irrigation timing,7.63**,45.40***,0.33,0.37,11.27***,0.40,45.62***,0.84,14.87***,60.09***
+3,Cultivar,,0.75,5.76**,0.05,0.52,0.53,0.01,65.39***,0.71,11.47***,48.81***
+4,Irrigation timing X Cultivar,Irrigation timing X Cultivar,9.50***,65.81***,2.50,4.99**,9.04***,4.26*,123.46***,8.03**,23.73***,142.42***

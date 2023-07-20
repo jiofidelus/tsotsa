@@ -1,0 +1,17 @@
+,0,1,2,3
+0,Foods,Assay values,Published values,Relative differences
+1,Cereals,,,
+2,Cheerios,1.08,107f,98.0
+3,Entrees,,,
+4,Cheese pizza,1.09,38.0d,33.9
+5,Macaroni and cheese,1.30,23.1d,16.8
+6,Pepperoni pizza,2.12,52.4d,23.7
+7,Mashed potatoes with gravy,1.33,4.00f,2.01
+8,Chili,5.20,22.0d,3.24
+9,Miscellaneous,,,
+10,Yeast,202,2000b8501000,8.883.193.94
+11,Nuts,,,
+12,"Almonds, roasted, salted",44.0,821d: 436e:481h,17.64; 8.89; 9.91
+13,"Peanuts,roasted,salted",175,1014820h0-1500,4.783.687.56
+14,"Walnuts, fresh",25.9,183e173h,6.07;5.67
+15,"Pecans,fresh",20.0,206h,9.31

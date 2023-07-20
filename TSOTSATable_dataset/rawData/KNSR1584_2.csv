@@ -1,0 +1,17 @@
+,0,1,2,3,4,5
+0,Label,SR-,SR-Legacy,Amount,USDA Food,Amount
+1,Ingredient,Legacy,name,(g,Pattern Group,
+2,,code,,,(unit),
+3,Corn,11178,Yellow,28,Starchy,0.18
+4,,,"corn,",,vegetables (cup,
+5,,,frozen,,eq.1,
+6,Carrots,11130,"Carrots,",27,Red-orange,0.22
+7,,,frozen,,vegetables (cup,
+8,,,,,eq.),
+9,Green,11061,Snap,25,Other,0.19
+10,beans,,"beans,",,vegetables (cup,
+11,,,frozen,,eq.),
+12,Peas,11312,"Peas,",20,Starchy,0.14
+13,,,"green,",,vegetables (cup,
+14,,,frozen,,eq.),
+15,Total,,,100,,

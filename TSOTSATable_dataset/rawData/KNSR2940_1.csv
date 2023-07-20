@@ -1,0 +1,33 @@
+,0,1,2,3,4
+0,Elements,RfD (mg/,Reference,CSF (mg/,Reference
+1,,kgbw/day),,kgbw/day)-1,
+2,Hg,0.0003*,US EPA,/,
+3,,,(2021b),,
+4,Cd,0.0001,US EPA,0.38,Gebeyehu and
+5,,,(2021b),,Bayissa (2020);
+6,,,,,Nduka et al.
+7,,,,,(2019)
+8,,,,,Real et al.2017
+9,V,0.005**,US EPA,/,
+10,,,(2021b),,
+11,Cr,0.003***,US EPA,0.50,"USDOE,2011"
+12,,,(2021b),,
+13,Ni,0.02,US EPA,1.70,USDOE2011
+14,,,(2021b),,
+15,Cu,0.04,US EPA,1,
+16,,,2021b),,
+17,As,0.0003,US EPA,1.50,US EPA(2021b
+18,,,2021b),,
+19,Ba,0.20,US EPA,/,
+20,,,(2021b),,
+21,Sb,0.0004,US EPA,1,
+22,,,(2021b),,
+23,Pb,0.0035,Obiora et al.,0.0085,USDOE2011
+24,,,(2019);,,
+25,,,Bat et al.,,
+26,,,(2019);,,
+27,,,Ullah et al.,,
+28,,,(2021),,
+29,,,Real et al.,,
+30,,,2017,,
+31,Mn,0.10,"USEPA,2021",,

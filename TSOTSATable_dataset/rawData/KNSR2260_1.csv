@@ -1,0 +1,14 @@
+,0,1,2
+0,,Zn,Mg
+1,Food sub-groups,,"Rangemin-max,[mg/100g]"
+2,Cereals and cereal products,0.3-13.0,8.0-170
+3,Milk and milk products,0.1-4.3,6.0-150
+4,Vegetables,0.1-4.4,3.0-270
+5,Nuts and seeds,0.9-3.5,18.0-164
+6,Fruits,0.1-1.0,4.0-66.0
+7,Fish and fish products,0.4-2.7,6.0-73.0
+8,Meat and meat products,0.5-5.9,8.0-61.0
+9,Beverages,0.1-0.7,1.0-54.0
+10,"Sugars, preserves and snacks",0.1-4.6,3.0-170
+11,"Soups, sauces and miscellaneous foods",0.1-2.4,2.0-130
+12,Alcoholic beverages,0.1-0.3,4.0-9.0

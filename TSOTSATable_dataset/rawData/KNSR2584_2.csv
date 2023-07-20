@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6
+0,Code,Metabolites,RIa,RIb,IDc,Frequency in control samples,Frequency in drought-stressed samples
+1,Sesqui 14,-Elemene,1646,1642,RI/MS,22,22
+2,Sesqui 15,Sabinyl acetate,1661,1651,RI/MS,33,22
+3,Sesqui 16,-Humulene,1679,1672,RI/MS,78,78
+4,Sesqui 17,Epi-bicyclosesquiphellandrene,1682,1696,RI/MS,44,67
+5,Sesqui 18,-Amorphene,1694,1691,RI/MS,78,89
+6,Sesqui 19,Ledene,1707,1708,RI/MS,100,67
+7,Sesqui 20,Germacrene D,1716,1712,RI/MS,67,78
+8,Sesqui 21,-Muurolene,1732,1730,RI/MS,56,56
+9,Sesqui 22,Bicyclogermacrene,1742,1744,RI/MS,89,89
+10,Sesqui 23,8-Cadinene,1764,1761,RI/MS,100,100
+11,Sesqui 24,-Curcumene,1782,1777,RI/MS,56,56
+12,Sesqui 25,"Cadina-1,4-diene",1789,1786,RI/MS,78,67
+13,Sesqui 26,Cuparene,1826,1831,RI/MS,11,11
+14,Sesqui 27,cis-Calamenene,1830,1837,RI/MS,67,67
+15,Sesqui 28,-Calacorene,1911,1916,RI/MS,78,78
+16,Sesqui 29,Caryophyllene oxide,1971,1966,RI/MS,33,22

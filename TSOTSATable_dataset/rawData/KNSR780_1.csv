@@ -1,0 +1,39 @@
+,0,1,2,3,4,5
+0,Companya,Ingredients (%(tissue)b.c,Family,Common names,,
+1,,,,English,Portuguese,Polish
+2,1,Panax ginseng (R),Araliaceae,Ginseng,Ginseng,Imbir
+3,"1,2,3,4,5,6",Matricaria chamomilla (F),Asteraceae,German Chamomile,Camomila,Rumianek
+4,7,Calendula officinalis (U),Asteraceae,Marigold,Calendula,Nagietek Lekarski
+5,7,Taraxacum officinalis (U),Asteraceae,Dandelion,Dante de Leao,"Mniszek Lekarski, Mlecz"
+6,3,Tabebuia impeteginosa (B),Bignoniaceae,,Pau D'Arco,
+7,7,Sambucus nigra (F),Caprifoliaceae,Elderberry tree,Sambugueiro (Flor,Bez Czarny
+8,7,Valeriana officinalis (R,Caprifoliaceae,Valerian,Valeriana,Waleriana
+9,8,Spergularia rubra (A),Caryophyllaceae,Sandwort,Quebra Pedras,Muchotrzew Polny
+10,7,Herniaria glabra (A),Caryophyllaceae,Smooth rupturewort,Quebra Pedras,Potonicznik Nagi
+11,"1,7",Equisetum arvense (A),Equisetaceae,Horsetail,Cavalinha,Skrzyp Polny
+12,3,Vaccinium myrtillus (L),Ericaceae,Blueberry,Mirtilo,Jagoda
+13,3,Aspalathus linearis (A),Fabaceae,Roiboos,Rooibos (Cha Vermelho,Roiboos
+14,"1,7",Cassia angustifolia (U),Fabaceae,Senna,Sena,Straczyniec Waskolistny
+15,7,Centaurium erythraea (A),Gentianaceae,Common centaury,Fel da Terra,Centuria Zwyczajna
+16,"1,3,7",Geranium robertianum (A),Geraniaceae,Herb Robert,Sao Roberto,Bodziszek Cuchnacy
+17,"3,6",Ginkgo biloba (L),Ginkgoaceae,Ginkgo,Gingko,Gingko
+18,8,Hypericum perforatum(A),Hypericaceae,St. Johns Wort,Hipericao,Dziurawiec Zwyczajny
+19,"1,3,4,10",Melissa officinalis (A),Lamiaceae,Lemon balm,Cidreira,Melisa
+20,"1,2,7,12",Mentha piperita (L),Lamiaceae,Mint,Menta,Mieta
+21,1,Rosmarinus officinalis (A),Lamiaceae,Rosemary,Alecrim,Rozmaryn
+22,7,Salvia silvestriss (A,Lamiaceae,Blue Hill Sage,(Salva),Szalwia Omszona
+23,13,Hibiscus sabdariffa (F),Malvaceae,Roselle;Hibiscus,Hibisco,Hibiskus
+24,7,Peumus boldus (L),Monimiaceae,Boldo,Boldo,Boldo
+25,7,Fraxinus excelsior (L),Oleaceae,Ash,Freixo,Jesion Wyniosty
+26,"1,7",Olea europaea (L),Oleaceae,Olive,Oliveira,Oliwka
+27,7,Passiflora incarnata (A),Passifloraceae,Passionflower,Passiflora,Meczennica
+28,1,Zea mays (stigmas and styles,Poaceae,Maize;Corn,Barbas de Milho,Kukurydza
+29,1,Cymbopogon citratus (A),Poaceae,Lemongrass,Erva Principe,Trawa Cytryowa
+30,"1,3,7",Citrus aurantium (F),Rutaceae,Orange Flower,Flor de Laranja,Pomarancza
+31,"1,6",Tilia europaea (F),Tiliaceae,Tilia; Linden,Tilia,Lipa
+32,"2,4,7",Tilia species (species not stated),,,=,
+33,3,Tilia platyphyllos (F),,,,
+34,7,Urtica dioica (L),Urticaceae,Nettle,Urtiga Verde,Pokrzywa Zwyczajna
+35,"1,4,5,7",Aloysia triphylla; Lippia triphylla;,Verbenaceae,Lemon verbena,Lucia-Lima,Cukrownica
+36,,Lipia citriodora (L),,,,
+37,9,Viola tricolor (F),Violaceae,Sweet violet,Amor Perfeito,Bratek

@@ -1,0 +1,20 @@
+,0,1,2,3,4,5
+0,,,Dietary lipids,Dietary lipids,,
+1,Measurement,LO,MO,SBO,CF,Pooled SEM
+2,Liver weight,1.75ab,1.96a,1.78ab,1.63b,0.11
+3,(per 100g body weight,,,,,
+4,Liver lipid,108,126,107,124,13.0
+5,(mg/100g body weight),,,,,
+6,Breast muscle lipid,223,257,168,265,77.0
+7,(mg/100g tissue),,,,,
+8,Thigh muscle lipid,225,313,283,309,46.0
+9,(mg/100g tissue),,,,,
+10,Total liver lipid,2.02b,2.59b,2.20b,3.63a,0.38
+11,g),,,,,
+12,Total heart lipid,1.20,1.10,1.04,1.28,0.18
+13,g,,,,,
+14,Plasma VLDL + LDL,0.19b,0.19b,0.23b,0.37a,0.05
+15,triacylglycerol,,,,,
+16,umol/ml),,,,,
+17,Plasma triacylglycerol,0.22,0.24,0.30,0.38,0.05
+18,umo1/ml),,,,,

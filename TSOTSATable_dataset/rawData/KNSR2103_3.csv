@@ -1,0 +1,40 @@
+,0,1,2,3,4,5
+0,Reference,Food name,Food group,Method of analysisa,Total anthocyanin (SD) mg/100 g fresh,Individual anthocyanins reported
+1,,,,,weight,
+2,Fredericks et al.2013,Strawberry,Fruit products and dishes,HPLC,381.75 (6.23),Yes
+3,Netzel et al. (2006),Blueberry,Fruit products and dishes,HPLC/ESI-MS-MS,381.75 (6.23),Yes
+4,Bobrich et al.2014,Black diamond plum,Fruit products and dishes,HPLC,89.8 mg,Yes
+5,Fanning et al. (2014),Queen Garnet plum,Fruit products and dishes,HPLC,195,No
+6,Takos et al.2006,Apple skin (red),Fruit products and dishes,HPLC,9 mg/100 g fruit skin,No
+7,Bindon et.al.2014, Shiraz grape,Fruit products and dishes,HPLC,159 (5,No
+8,Zabaras et al.(2013),Red cabbage,Vegetables,HPLC/ESI-LC/MS,57.4,No
+9,Singh et al.2012,Purple dragon Carrot,Vegetables,HPLC,5(0.2),No.
+10,Netzel et al.2006,Muntries,(Native fruit products and,HPLC/ESI-MS-MS,25.26 (1.24),Yes
+11,,,dishes,,,Yes
+12,Netzel et al.2006),Tasmanian pepper,(Native fruit products and,HPLC/ESI-MS-MS,607 (52),Yes
+13,,,dishes,,,
+14,Netzel et al.2006,Molucca raspberry,Nativefruit products and,HPLC/ESI-MS-MS,73.64 (0.41),Yes
+15,,,dishes,,,
+16,Netzel et al.2006,Davidson's plum,(Native) fruit products and,HPLC/ESI-MS-MS,38.42 (0.83),Yes
+17,,,dishes,,,Yes
+18,Netzel et al.2006,Illawarra plum,Nativefruit products and,HPLC/ESI-MS-MS,556.82 (20.73),Yes
+19,,,dishes,,,Yes
+20,Netzel et al.2006,Cedar bay cherry,Nativefruit products and,HPLC/ESI-MS-MS,27.77 (0.54),Yes
+21,,,dishes,,174.55 (10.63),Yes
+22,Netzel et al.2006,Burdekin plum,Nativefruit products and,HPLC/ESI-MS-MS,174.55 (10.63),Yes
+23,,,dishes,,,
+24,Netzel et al.2007,Riberry,(Native fruit products and,HPLC-DAD/ESI/,72.39 (1.45),Yes
+25,,,dishes,MS-MS,,
+26,Netzel et al.2007,Bush Cherry,(Native) fruit products and,HPLC-DAD/ESI/,105.79 (1.24),Yes
+27,,,dishes,MS-MS,,
+28,Netzel et al.2007,Finger lime,Nativefruit products and,HPLC-DAD/ESI/,11.09 (0.83),Yes
+29,,,dishes,MS-MS,,Yes
+30,Unpublished data from source,pomegranate juice,fruit products and dishes,HPLC,13b,No
+31,Unpublished data from source,pomegranate cranberry juice,fruit products and dishes,HPLC,12b,No
+32,Unpublished data from source,pomegranate blueberry juice,fruit products and dishes,HPLC,12b,No
+33,Unpublished data from source,Dr Red (Dr Purple Shiraz and Purple Carrot Blend),fruit products and dishes,HPLC,9b,No
+34,Unpublished data from source,Dr Red (Purple carrot blueberry punch),fruit products and dishes,HPLC,40b,No
+35,Unpublished data from source,Dr Red (Blueberry punch),fruit products and dishes,HPLC,610b,No
+36,Unpublished data from source,Nature's Goodness (Joint Formula: Cherry juice concentrate with,fruit products and dishes,HPLC,14b,No
+37,,anthocyanin complex),,,,
+38,Unpublished data from source,Sunraysia (100% Prune juice (from concentrate)),fruit products and dishes,HPLC,<<1b,No

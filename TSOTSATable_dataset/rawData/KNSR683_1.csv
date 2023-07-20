@@ -1,0 +1,13 @@
+,0,1
+0,Cyclonic nebulization chamber,Cyclonic
+1,Nebulizer,Concentric
+2,RF power(W),1200
+3,Plasma gas flow-rate (L min-1,8.0
+4,Auxiliary gas flow-rate - Ar (L min-1),1.1
+5,Nebulizer gas flow-rate-Ar(L min-,0.7
+6,Cell voltage (V),-21
+7,Replicates,5
+8,Collision cell gas flow(mL min -1,6.0
+9,Energy filter (V),7.0
+10,Correction equation,Non-used
+11,Monitored m/z,27Al

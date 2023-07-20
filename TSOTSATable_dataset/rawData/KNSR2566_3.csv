@@ -1,0 +1,22 @@
+,0,1,2,3,4,5
+0,Food Description,Number,Mean?,Min?,Max2,Cv2
+1,,of,,,,
+2,,'samples,,ug/100g),ug/100g),(%
+3,"Ravioli, Beef Canned",2,9.2,7.8,10.7,22
+4,"Rice, Fried",3,14.5,14.2,15.1,3
+5,"Rice, Spanish Canned/Mix",2,7.7,7.4,8.0,5
+6,"Rice, White Long Grain Enrcook 5",,7.8,3.9,10.0,31
+7,"Salmon, Canned Drained",3,32.8,31.0,34.5,5
+8,"shrimp, Canned",3,34.4,22.0,44.4,33
+9,"Soup, Veg Beef Can Recon3",3,1.8,0.9,3.0,57
+10,"Sweet Peas, Canned Drained",1,0.5,*,*,*
+11,"Sweet Potato, Baked Can Drained 3",,0.74,0.4,1.35,70
+12,"Tea, Beverage",1,0.000,*,*,*
+13,Tomato/Vegetable Juice,4,0.54,0.21,0.99,61
+14,"Tomato Sauce, Barbecue Bottled",2,1.03,0.7,1.36,45
+15,"Tuna, Light Water Drained",4,84.9,59.4,103.0,22
+16,"Veg, Mixed Can Drain Microwave",1,0.26,*,*,*
+17,"Vegetable Soup, Canned Recon",4,1.58,0.75,2.23,40
+18,"Waffles, Frozen Heated",3,11.7,11.2,12.5,6
+19,"Watermelon, Fresh",1,0.08,*,*,*
+20,"Yogurt, Strawberry",3,1.65,0.28,2.7,75

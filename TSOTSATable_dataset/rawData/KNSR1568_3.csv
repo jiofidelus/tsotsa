@@ -1,0 +1,56 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Column type,Mobile phase and,Type,Detecta-,Time,LOD,LOQ,Linear range,RSD (%),Recovery,Refs.
+1,,other,of SGs,tion,(min),,,(R2),,(%),
+2,,chromatographic,,,,,,,,,
+3,,"conditions (flow rate,",,,,,,,,,
+4,,"column temperature,",,,,,,,,,
+5,,injection volume),,,,,,,,,
+6,Restek Pinnacle,A:10 mM ammonium,"SX,",ESI,28,0.01-0.34g/,,0.1-2.0g/g,2-15,,(Shah
+7,II Amino,acetate in HO/ACN,"Ru,",,,g,,(>0.99),,,"et al.,"
+8,100,50/50v/v;B,"STV,",,,,,,,,2012)
+9,"2.1 mm,",10 mM ammonium,"RA-D,",,,,,,,,
+10,"3 um,",acetate in HO/ACN,"RF,",,,,,,,,
+11,"Bellefonte,",5/95v/v;gradient,DuA,,,,,,,,
+12,PAUSA),elution,,,,,,,,,
+13,,"0.25 mL/min,30C,",,,,,,,,,
+14,,20L,,,,,,,,,
+15,TSKgel NH2,A:5 mM ammonium,"Sx,",QTRAP,22,,,10-0.1 or,,90-110,(Well et al.
+16,100(150,acetate and 0.05%,"Ru,",with ESI,,,,5.0-0.05a,,,2013)
+17,"2.0 mm,",formic acid in ACN/,"STV,",,,,,(>0.998),,,
+18,"3 m, Tosoh","HO95/5,v/v;B","RA-F,",,,,,,,,
+19,"Bioscience,",5 mM ammonium,DuA,,,,,,,,
+20,"Stuttgart,",acetate and 0.05%,,,,,,,,,
+21,Germany),formic acid in ACN/,,,,,,,,,
+22,,"HO10/90,v/v);",,,,,,,,,
+23,,gradient elution,,,,,,,,,
+24,,"0.2 mL/min,10 L",,,,,,,,,
+25,Luna HILIC,A:HO;B:ACN,"STV,",DAD at,18,1.07 g/mL,3.55-3.56g/,0.025-0.5 mg/,5.76-9.32,,(Lorenzo
+26,150,gradient elution,RA,210 nm,,,mL,mL,,,"et al.,"
+27,"4.6 mm,","1 mL/min, 36 C,",,,,,,(>0.99,,,2014)
+28,"5m,",20 L,,,,,,,,,
+29,"Phenomenex,",,,,,,,,,,
+30,Le Pecq,,,,,,,,,,
+31,"Cedex,",,,,,,,,,,
+32,France),,,,,,,,,,
+33,AcclaimTM,A: 40 mM ammonium,"SX,",QqQ,18,2.12-3.13 ng/,6.37-9.40 ng/,5-1600 ng/mL,intra-day:,99.3-104.0,(Kubica
+34,TrinityTM P2,acetate in HO (pH,"STV,",with ESI,,mL,mL,>0.999,"0.84.1,",,"et al.,"
+35,100,6.8;B:0.01% acetic,"RA,",,,,,,inter-day:,,2016)
+36,"2.1 mm,",acid in ACN;gradient,"RC,",,,,,,1.4-4.4,,
+37,"3 um,Thermo",elution,DuA,,,,,,,,
+38,Fisher,"0.6 mL/min, 30C",,,,,,,,,
+39,Scientific),2 L,,,,,,,,,
+40,BEH Amide,A: 0.05% formic acid,"SX,",Orbitrap,25,,,0.1-10 g/mL,intra-day:,95-102,(Gardana
+41,150,in HO;B:0.05%,"Ru,",with ESI,,,,10-100 ng/mL,"2.1-4.2,",,and
+42,"2.1 mm,",formic acid in ACN;,"STV,",,,,,,inter-day:,,"Simonetti,"
+43,"1.7 m,",gradient elution,"RA-G,",,,,,,3.0-5.1,,2018
+44,"Waters,","0.3 mL/min, 35 C","RM,",,,,,,,,
+45,"Milford, MA,",5 L,DuA,,,,,,,,
+46,USA),,,,,,,,,,
+47,PA (250,A: H2O; B: ACN;,"SX,",UV at,38,4.9-13 g/mL,15-40g/mL,0.05-2 mg/mL,intra-day:,95.02-102.5,The current
+48,"2.1 mm,",gradient elution,"Ru,",210 nm,,,,>0.999,"0.30-0.99,",,study
+49,6 um),"1.2 mL/min,20C","STV,",,,,,,inter-day:,,
+50,,10L,"RA-F,",,,,,,1.68-3.73,,
+51,,A:HO;B:EtOH,"RM,",,28,10-16g/mL,31-49 g/mL,0.05-2 mg/mL,intra-day:,91.90-97.76,
+52,,gradient elution,"RN,",,,,,(>0.999),"0.41-0.70,",,
+53,,"0.6 mL/min, 60 C",RO,,,,,,inter-day:,,
+54,,10L,,,,,,,1.44-4.52,,

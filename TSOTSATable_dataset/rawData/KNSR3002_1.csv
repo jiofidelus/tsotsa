@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6
+0,Matrix,True class,Predicted class,Predicted class,,Correct,Average
+1,,,,,,classification,
+2,,,Acacia,Rape,Adulterated,rate,
+3,A,Acacia,28,0,6,82.4 %,86.3 %
+4,,Rape,1,44,3,91.7%,
+5,,Adulterated,7,3,55,84.6 %,
+6,B,Acacia,29,1,4,85.3 %,89.7 %
+7,,Rape,2,43,3,89.6 %,
+8,,Adulterated,3,2,60,92.3 %,
+9,C,Acacia,29,0,5,85.3 %,86.7 %
+10,,Rape,1,44,3,91.7 %,
+11,,Adulterated,6,5,54,83.1 %,
+12,D,Acacia,22,5,7,64.7%,74.8%
+13,,Rape,1,42,5,87.5%,
+14,,Adulterated,13,5,47,72.3 %,
+15,E,Acacia,28,1,5,82.4 %,85.2%
+16,,Rape,1,44,3,91.7 %,
+17,,Adulterated,7,5,53,81.5 %,

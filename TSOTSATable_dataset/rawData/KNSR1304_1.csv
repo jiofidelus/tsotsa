@@ -1,0 +1,22 @@
+,0,1
+0,Operating conditions,
+1,Nebulizer: concentric type pumped at,0.9 mL min-1
+2,Spray chamber: Scott-type double-pass,2.7 mbar
+3,water cooled expansion stage:,
+4,Intermediate stage:,2.010-4mbar
+5,Analyzer stage:,4.610-mbar
+6,Sampling cone: nickel,1.0 mm orifice
+7,Skimmer cone:nickel,0.75mm orifice
+8,Standard mode(adjusted daily),
+9,Radio frequency power:,1350W
+10,Reflected power:,<5W
+11,Plasma gas flow:,15Lmin-1
+12,Nebulizer gas flow:,0.75-0.9 Lmin-1
+13,Auxiliary gas flow:,0.90Lmin-1
+14,Acquisition parameters,
+15,Mass range,7-208a.m.u
+16,Number of channels,500
+17,Dwell time,160s
+18,Number of sweeps,500
+19,Total acquisition time,60s
+20,Peak jumping mode,

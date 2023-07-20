@@ -1,0 +1,26 @@
+,0,1,2,3,4,5
+0,Country,Foodstuff type,Number of,Concentration range (ug,Frequency,Ref.
+1,,,samples,kg-1,,
+2,USA,"Vegetables, fruits, fish, meat, tea and coffee",31,<0.01-146,87%,"Liao and Kannan,"
+3,,,,,,2013
+4,Spain,"Tuna, pate , nuts, mushrooms, artichokes, asparagus, oil, beans, peach, fruit salad",40,<0.017-88.66,93%,"Gonzalez et al.,"
+5,,mackerel and squid,,,,2020
+6,China,"Meat, seafood,vegetables, beverages",151,ND to 837,92.1%,Cao et al.2021
+7,Spain,"Pickled mussels, tomato, seafood, asparagus, sweet corn, olive, peaches in syrup",16,ND-202,12.5%,"Cardama et al.,"
+8,,,,,,2021
+9,China,"Beverages, rice, wheat flour, shellfish, fish, vegetables, canned cereal, canned fish,",379,0.05-326,79.7%,"Zhou et al.,2019"
+10,,canned meat,,,,
+11,Iran,"Pineapple, peach, tomato, powdered milk, soft drinks, honey, and fish",18,ND-8.3,88.9%,"Sadeghi et al.,"
+12,,,,,,2016
+13,Nigeria,"Meat, seafood, dairy products, oil, vegetables, cereals",162,ND-28.4,39.5%,"Adeyi et al.,2019"
+14,Italy,Fruit juices,46,0.5-2.85,33%,"Gallo et al.,2019"
+15,Italy,Energy drinks,40,<0.5-3.3,42.5%,"Gallo et al.,2017"
+16,Portugal,Seafood,47,<0.2-99.9,83%,"Cunha et al.,"
+17,,,,,,2012
+18,Egypt,"Beef, sausage, luncheon, tuna, Beans, Mushroom, Sweetcorn, Tomato ketchup,",45,6.14-710.59,100%,"Osman et al.,"
+19,,"Tomato paste, oil, pickles,fruit, milk, and Beverages",,,,2018
+20,Turkey,"Green peas,garniture,corn, tomato paste,pepper paste,pickles,mushroom and",36,21.86-1858.71,100%,"Sungur et al.,"
+21,,bean,,,,2014
+22,Korea,"Ham,fish,vegetables, and fruits",104,ND-278.50,100%,"Choi et al.,2018"
+23,Saudi,"Beverages, seafood, milk products, vegetables, fats and oils, condiments and others",36,<0.5-110,97%,Present study
+24,Arabia,,,,,

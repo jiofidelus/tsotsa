@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8
+0,Types,,"Training dataset accuracy (n = 94, %)","Training dataset accuracy (n = 94, %)",,,"Testing dataset accuracy (n = 34, %)","Testing dataset accuracy (n = 34, %)",
+1,,CART,LDA,SVM,RF,CART,LDA,SVM,RF
+2,Linden honey (n=20),94.0,94.7,99.3,100,92.0,80.0,94.0,100
+3,Sunflower honey (n =17),92.5,100,99.2,100,82.0,90.0,84.8,100
+4,Vetch honey (n =20,92.0,97.3,99.8,100,74.0,91.0,88.0,92.0
+5,Rape honey (n=27,93.0,98.1,98.0,98.5,90.0,90.0,92.6,100
+6,Acacia honey (n =22),80.0,98.1,98.8,98.1,60.0,85.0,86.7,86.7
+7,Jujube honey(n=22,90.9,100,98.8,100,93.3,96.7,91.5,96.5
+8,Total (n=128),90.9,97.5,98.8,99.36,82.1,88.8,91.5,96.5

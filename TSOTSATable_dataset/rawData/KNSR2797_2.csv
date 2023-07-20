@@ -1,0 +1,68 @@
+,0,1,2,3
+0,PTRIa,Compounds sorted in chemical classes,Rel. int.%b,
+1,,,Flower,Honey
+2,2002,"+)-R)-p-Mentha-1,810-diene-9-ol",,2
+3,2031,cis-3-Buthyl-4-vinyl-cyclopentene,,0.8
+4,2048,Nerolidol,0.8,
+5,2089,Elemol,0.6,1
+6,2131,(+)-Spathulenol,0.4,
+7,2171,y-Eudesmol,,2.4
+8,2172,2-Isopropyl-5-methyl-9-methylene-bicyclo[4.4.0]dec-1-ene,0.6,
+9,2186,T-Cadinol (10-b-H-cadin-4-en-10-ol),,1.2
+10,2219,-Eudesmol,,1
+11,2225,T-Muurolol (10-b-H-cadin-4-en-10-ol),,2.9
+12,2226,-Cadinol,1.4,
+13,2245,-Copaene-8-ol,1.0,
+14,2476,*Nerolidol,95.0,21.1
+15,Compounds bearing benzene ring,,,
+16,1232,1-Methyl-4-(1-methylethyl)-benzene (p-cymene),2.7,1.3
+17,1261,"1,3,5-Trimethyl-benzene (mesitylene)",,0.3
+18,1373,Methyl-benzene(toluene),,0.9
+19,1412,"4-Etil-1,2-dimetil-benzol (4-etil-o-xilol)",,1.8
+20,1415,1-Methyl-4-(1-methyletenyl)-benene (p-cymenil),,7.8
+21,1512,Benzaldehyde,,5.3
+22,1644,Hyacinthin (benzeneacetaldehyde),,75.4
+23,1843,2-Hydroxyimino-n-(p-methoxyphenyl)acetamide,0.3,
+24,1856,p-Cymene-8-ol,,12.5
+25,1917,Benzeneethanol,,7.5
+26,1928,"2,6-Bis(1,1-dimethylethyl)-4-methyl-phenol (BHT)",,3
+27,2181,"2,4,6-Trimethyl-1,3-benzenediamine",,3.3
+28,2194,Timol (5-metil-2-(1-metiletil)-fenol),,2.2
+29,2280,"2,4-Bis(1,1-dimethylethyl)-phenol",,2.9
+30,"Open chain alcohols, aldehydes, ketones","Open chain alcohols, aldehydes, ketones",,
+31,1247,3-Heptanol,,1
+32,1343,cis-3-Hexenol,0.6,
+33,1367,Nonanal,0.8,
+34,1466,2-Ethyl-1-hexanol,,0.6
+35,1488,n-Decanal,0.8,1.1
+36,2141,"6,10,14-Trimethyl-2-pentadecanone",,2.7
+37,,O-containing heterocyclic substances,,
+38,1435,2-Furancarboxaldehyde (furfural),,28.7
+39,1486,1-(2-Furanyl)-ethanon (2-acetylfuran),,3.9
+40,1564,5-Methyl-2-furancarboxaldehyde,,4.3
+41,,(5-methyl-2-furfural),,
+42,2416,,,
+43,2416,Oxacycloheptadec-8-ene-2-one,,1.6
+44,2578,Hexadec-7-en-16-olide (musk ambrette),,3.4
+45,Esters of openchain acids,,,
+46,2440,"11,14-Eicosadienoic acid methyl ester",,1.4
+47,2624,"2,4-Dicyano-2-(2,3-dimethyl-3-pentenyl)pentanedioic acid",,9.3
+48,,dimethyl ester,,
+49,Fatty acids,,,
+50,2573,Linoleic acid,,0.9
+51,,"Open chain and ringed, saturated and unsaturated hydrocarbons",,
+52,1079,n-Undecane,,0.2
+53,1205,1-Dodecene,,1
+54,1265,n-Tridecane,,0.3
+55,1429,(Z)-3-Hexadecene,,1.3
+56,2122,Heneicosane,,10.8
+57,2211,Docosane,,3.5
+58,2302,Tricosane,,43.9
+59,2313,(Z-9-Tricosene (muscalure),,8.6
+60,2319,(E)-9-Tricosene (muscalure),,1.2
+61,2347,Cyclotetradecane,,1.3
+62,2382,Tetracosane,,1.9
+63,2465,Hydrocarbon,,24.4
+64,2512,1-Octadecene,,10.5
+65,2665,1-Nonadecene,,8.6
+66,2665,1-Nonadecene,,2.4

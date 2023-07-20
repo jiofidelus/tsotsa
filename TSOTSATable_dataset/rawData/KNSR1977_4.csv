@@ -1,0 +1,25 @@
+,0,1,2,3,4,5
+0,Analyte,Reference,Sample(year),Assigned value (mg kg1),Measured valuemg kg-1,Z-score
+1,As,FAPAS 07178,Canned crab meat(2012,12.3,12.0,0.2
+2,Na,FAPAS 01873,Milk powder (2013),327,287,1.9
+3,Mg,FAPAS 01873,Milk powder (2013),878,782,1.9
+4,Al,FAPAS 07177,Infant formula cereals(2012),2.33,2.72,1.2
+5,K,FAPAS 01873,Milk powder(2013),1282,1274,0.2
+6,Ca,FAPAS 01868,Breakfast cereals (2012),33.1,29.4,1.2
+7,,FAPAS 01869,Milk powder (2013),387,354,1.3
+8,,FAPAS 01873,Milk powder (2013),946,922,0.6
+9,Cr,FAPAS 07177,Infant formula cereals2012,0.211,0.218,0.2
+10,,FAPAS 07183,Infant formula cereals(2013,0.135,0.127,0.3
+11,Cd,FAPAS 07178,Canned crab meat (2012),5.71,5.67,0.1
+12,,FAPAS 07183,Infant formula cereals (2013),0.048,0.049,0.1
+13,Fe,FAPAS 01868,Breakfast cereals (2012),190,172,1.3
+14,Hg,FAPAS 07178,Canned crab meat (2012),0.099,0.092,0.3
+15,,FAPAS 07183,Infant formula cereals (2013),0.029,0.022,-1.1
+16,Mo,FAPAS 07177,Infant formula cereals (2012),0.383,0.374,0.1
+17,Pb,FAPAS 07178,Canned crab meat (2012),0.089,0.077,0.6
+18,,FAPAS 07183,Infant formula cereals(2013,0.066,0.055,0.8
+19,Se,FAPAS 07177,Infant formula cereals (2012),0.085,0.078,0.4
+20,,FAPAS 01869,Milk powder(2013),0.077,0.078,0.1
+21,,FAPAS 07183,Infant formula cereals (2013),0.085,0.088,0.1
+22,,FAPAS 01873,Milk powder2013,0.146,0.156,0.3
+23,Zn,FAPAS 01868,Breakfast cereals (2012),2.88,2.28,1.5

@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6
+0,Sample,Analyte,Labelled(gL-1),Found(gL-1),AddedagL-1,Found(gL-1,Recovery %
+1,CFJ 1,Ascorbic acid,nib.,0.733  0.005,0.168,0.908  0.003,104.2
+2,CFJ 1,Global sugars,135.0,126.6  1.8,50.0,175.7  2.1,98.2
+3,CFJ 2,Ascorbic acid,nlb.,0.651  0.008,0.168,0.827  0.005,104.8
+4,CFJ 2,Global sugars,120.0,132.0  2.4,50.0,177.5  2.0,91.0
+5,CFJ 3,Ascorbic acid,nib,0.579  0.009,0.168,0.761  0.02,108.3
+6,,Global sugars,115.0,111.3  2.3,50.0,159.5  2.2,96.4
+7,CFJ 4,Ascorbic acid,nib,0.488  0.006,0.168,0.650  0.009,96.4
+8,CFJ 4,Global sugars,120.0,128.5  2.1,50.0,181.9  4.7,106.8
+9,NOJ,Ascorbic acid,0.280.86c,0.678  0.03,0.180,0.861  0.02,101.7
+10,NGJ,Global sugars,60-110c,98.4  2.0,50.0,155.0  1.4,113.2
+11,NGJ,Ascorbic acid,0.250.50c,0.432  0.07,0.180,0.608  0.05,97.8
+12,NGJ,Global sugars,50-83c,81.9  1.9,50.0,130.7  2.0,97.6

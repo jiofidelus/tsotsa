@@ -1,0 +1,17 @@
+,0,1,2,3,4,5
+0,Region,Type,Daily Food,i-As,Estimated,MOE
+1,,of rice,consumption,occurrence,intakes i-As,
+2,,,(g day-1),g g~1 975th,(g kg-1bw,
+3,,,,,day1,
+4,Northern,White,49,,,
+5,,Rice,,,,
+6,,Other,5,,,
+7,Central-,White,70,0.112,0.112,26.7
+8,western,Rice,,,,
+9,,Other,3,,,
+10,Southeast,White,47,0.155,0.104,28.8
+11,,Rice,,,,
+12,,Other,5,0.106,0.007,428.6
+13,Southern,White,40,0.173,0.100,30.0
+14,,Rice,,,,
+15,,Other,3,0.171,0.007,428.6

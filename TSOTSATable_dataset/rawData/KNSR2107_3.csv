@@ -1,0 +1,6 @@
+,0,1,2,3
+0,Factors,Levels,,
+1,,-1,0,1
+2,Hydrolysis time X/min,10,20,30
+3,Hydrolysis temperature X/C,60,80,100
+4,Hydrolysis solution concentration X3/ mol L-1,0.4,0.6,0.8

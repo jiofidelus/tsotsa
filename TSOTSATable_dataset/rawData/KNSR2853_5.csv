@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,Method,Sample Treatment Experimental Conditions,Analytes,LOD,Reference
+1,mineralization/ICP OES,"Concentrate HNO and HO2,sample quantity:0.25 g and","CaK,P,Mg,MnCu,Fe,Cr,",0.01 -0.39 mg kg0.02,Mohammed
+2,,procedure time: about 4h,"Cd, Zn, Sn and Pb",mg kg-1(Sn),"et al.,2019"
+3,Deep eutectic solvent,"DES choline chloride with urea, sample quantity: 20 mL","Pb, Co, Ni and Mn",1.07.5 g L-1,Soylak and
+4,microextraction/F AAS,and procedure time: 38 min,,,"Koksal,2019"
+5,Ultrasound-assisted acid,"HCl 0.5 mol L-1, sample quantity:3.68 g and procedure",Fe and Ni,20 ng g~1(Fe),"Almeida et al.,"
+6,extraction/HR-CS GF AAS,time: 22 min,,50 ng g~1(Ni),2019
+7,Ionic liquid dispersive liquid-,"Extraction solvent:[TBP][PO4] IL,dispersive solvent:",Ni and Cu,0.35 g L(Cu),"Adhami et al.,"
+8,liquid micro-extraction/FAAS,"chloroform, sample quantity: 5.0 g and procedure time:",,0.77 g L-1 (Ni),2020
+9,,about 30 min,,,
+10,EIEB/F AAS,"Concentrate HNO3+10 % (v/v),Triton X-114, sample","Ca,Mg, MnFe and Zn",0.0120.057 mg L-1,"Valasques et al.,"
+11,,"quantity: 6 mL, procedure time: about 60 min",,,2018
+12,EIEB/GF AAS and ICP-MS,"HNO3 3 % (v/v) + Triton X-114 2% (w/v), sample",Sn and potential application:,GF AAS: 1.1 g L-1 and,This work
+13,,quantity:1 g and procedure time:about 60 min,"Na, Al, Ti, Cr, Cu and Zn",ICP-MS: 0.009 g L-1,

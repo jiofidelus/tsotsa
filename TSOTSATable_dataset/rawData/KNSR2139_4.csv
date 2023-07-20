@@ -1,0 +1,54 @@
+,0,1,2,3,4,5,6
+0,,,,Cognac 1,Cognac 2,Calvados 1,Calvados 2
+1,Aldehydes,,,,,,
+2,1',Hexanala,1064,,x,,
+3,2',Pent-2-enal,1073,,,,x
+4,3',Heptanal,1176,,,,x
+5,4',3-Ethoxypropanala,1185,,,,x
+6,5',Octanal,1282,,x,,x
+7,6',Nonanal,1387,x,,x,x
+8,7,Oct-2-enal,1382,,x,x,
+9,8',"2,6,6-Trimethyleyclohex-2-en-1-carboxaldehyde",1420,,x,,
+10,9',Furfurala,1462,x,x,x,
+11,10',Decanal,1501,x,x,X,x
+12,11',Benzaldehydea,1513,,x,,x
+13,12',5-Methylfurfural,1513,x,x,X,
+14,13',-Cyclocitral,1606,x,x,x,x
+15,14',2-Phenylethanal,1631,,,,x
+16,15',2-Thiophenecarboxaldehyde,1684,x,x,,x
+17,16',5-Methyl-2-thiophenecarboxaldehyde,1767,x,,,x
+18,17',Tridec-2-enal,1868,,x,x,
+19,18',"3-(2,6,6-Trimethyleyclohexen-1-yl)-prop-2-enal",1920,x,,,
+20,19',p-Anisaldehyde,1998,,,,x
+21,20',Pentadecanal,2132,,,x,
+22,21',Hexadecanal,2132,,,X,
+23,Ketones,,,,,,
+24,22',Pentan-2-one,<1000,X,x,,
+25,23',Hexan-3-one,1023,,,,
+26,24',4-Methylpentan-2-one,1059,,x,,
+27,25',Hexan-2-one,1060,,,,x
+28,26',3-Methylpentan-2-one,1067,,,,x
+29,27',Heptan-3-one,1141,x,,,x
+30,28',5-Methylhexan-2-one,1142,,,,x
+31,29,Heptan-2-one,1173,x,x,x,x
+32,30',Octan-3-one,1210,,,x,
+33,31',Octan-2-one,1269,,x,x,x
+34,32',Oct-1-en-3-one,1277,,,,
+35,33',6-Methylhept-5-en-2-one,1327,,x,X,x
+36,34',Nonan-2-one,1382,x,x,x,
+37,35',Decan-2-one,1493,,,,x
+38,36',2-Acetylfuranea,1500,,x,,x
+39,37',Dihydro-2-methyl-3(2H)-thiophenone,1518,x,,,
+40,38',Undecan-2-one,1598,x,x,,x
+41,39',Acetophenone,1628,x,,x,
+42,40',"2,2,6-Trimethylcyclohex-2-en-1,4-dione (4-oxoisophorone)",1668,,x,,
+43,41',Dodecan-2-one,1704,x,,,
+44,42',-Ionone,1739,x,,,
+45,43',Tridecan-2-one,1805,x,,,x
+46,44',-Damascone,1797,x,x,,x
+47,45',-Damascenonea,1798,x,,x,
+48,46',Pentadecan-2-one,2019,X,,,
+49,47',4-(p-Methoxyphenyl)-2-butanone,2134,,,,
+50,48',(Anisyl methyl ketone),,,,,
+51,49',Heptadecan-2-one,2231,,,x,
+52,,Total carbonyl compounds identified,,25,23,25,29

@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,Matrix,Sample treatment /time,"Reagents (g, mL)",Method,LODs (M),Ref.
+1,Capsicum fruit,QuEChERS(< 30 min,"8.1 g,15 mL of ACN",LC-PDA; LC-MS/MS,0.0021,"Buddidathi et al.,2016"
+2,Fruits and vegetables,QuEChERS + EV (< 30 min),"3.0 g, 20 mL of ACN",LC-MS/MS,0.0001,"Caboni et al.,2008)"
+3,Cabbage,QuEChERS+EV(<30 min,"7.7 g,30 mL of ACN",LC-MS/MS,0.00003,"Chen et al.,2012"
+4,Cabbage,QuEChERS<30 min),"7.7 g,30 mL of ACN",LC-MS/MS,0.0022,"Chen et al.,2014"
+5,Rice,SE+ CP+EV (> 5 h),"9 g,>400 mL",LC-UV,0.0015,"Gopal and Mishra,2008)"
+6,Pea,SE+ clean-up +EV (>12 h),"0.5 g,>900 mL",LC-UV-Vis,0.073(LOQ),"Kale et al.,2012"
+7,White rice,,20 mL of ACN,DPV,0.005,In this work

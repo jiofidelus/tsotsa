@@ -1,0 +1,47 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Peak,tR,PDA,[M-H],Formula,Formula,Error,Characteristic ions in MS spectra in,Characteristic ions in MS,Identification
+1,,(min),Amax,[M+H]*,[M-H],[M+H]*,(ppm),negative mode,spectra in positive mode,
+2,,,(nm),,,,,,,
+3,,Hydroxycinnamic acids and related derivatives,,Hydroxycinnamic acids and related derivatives,Hydroxycinnamic acids and related derivatives,,,,,
+4,4,7.97,"220,",353.0871/,C16H7Og,,,MS[353]:191100,MS2[355]:163100,caffeoylquinic acid
+5,,,325,355.1035,,,1.998,,,
+6,14,14.38,325,335.0774/,C16H15O8,,1.206,,,caffeoylshikimic acid
+7,,,,337.0924,,,,,,
+8,19,20.52350,20.52350,355.1035/,,C16H21Og,2.496,,"MS[357]:195100,16326",feruloylhexoside
+9,,,,357.1189,,,,,,
+10,25,28.85 326,28.85 326,515.1199/,C25H23O12,,0.778,"MS2[515]:353100,3236,19199",,dicaffeoylquinic acid
+11,,,,517.1317,,,,,,
+12,,Flavan-3-ols and proanthocyanidins,Flavan-3-ols and proanthocyanidins,Flavan-3-ols and proanthocyanidins,,,,,,
+13,7,10.29,,577.1352/,C3oH25O12,,1.137,"MS[577]:55925,45161,425100,","MS2[579]:4537,427100",procyanidin B2.
+14,,,,579.1493,,,,"407(59,289(38,287(10)","40954,30119,29146,289",
+15,,,,,,,,,"12,24722",
+16,9,11.28,278,289.0719/,C15H1O6,,0.480,"MS2[289]:2477,245100,2317","MS[291]:27318,16546,151catechin","MS[291]:27318,16546,151catechin"
+17,,,,291.0870,,,,"20536,2039,179(11)","(23),147(8,139100,123(94)",
+18,12,14.00,325,863.1837|,C45H35O18,,0.594,"MS2[863]711100,69314,57322",,procyanidin trimer A
+19,,,,865.1988,,,,"55915,53111,45128,411(38,299",,type
+20,,,,,,,,"6,2898)",,
+21,,Flavonols and flavonol glycosides,Flavonols and flavonol glycosides,Flavonols and flavonol glycosides,,,,,,
+22,15,16.92 348,16.92 348,479.0838/,C21H1gO13,,1.432,MS[479]:317(100,MS[481]:319100),myricetin 3-0-
+23,,,,481.0983,,,,,,hexoside
+24,18,19.27,347,479.1198/,C22H23O12,,0.628,,"MS2 [479]: 347(20),329(100),325(60),MS2 [481]: 463(66),445(6),415dihydro-tetrahydroxy-",
+25,,,,481.1346,,,,299(8),"15,3639,349100,22313",dimethoxy flavone
+26,,,,,,,,,,pentoside
+27,20,22.34 348,22.34 348,463.0886/,C2HgO12,,0.866,"MS[463]:301100,30037",MS2[465]:303(100),quercetin 3-0-
+28,,,,465.1042,,,,,,hexoside
+29,21,23.32,348,463.0885/,C21H1gO12,,0.650,"MS[463]:301100,30029",MS2 [465]: 303(100),quercetin 3-0-
+30,,,,465.1034,,,,,,hexoside
+31,23,25.81,348,433.0783/,C2oH7O11,,1.537,"MS2 [433]:301(79,300100)",MS2 [435]: 303(100),quercetin 3-0
+32,,,,435.0930,,,,,,pentoside
+33,24,26.57,348,505.0987/-,C23H21O13,,0.126,MS[505]:4635730110030081,,quercetin 3-0-
+34,,,,,,,,,,acetylhexoside
+35,26,30.53,356,507.1148/,C23H23O13,,0.761,"MS[507]:38720.345100,3297",MS[509]:347100,syringetin 3-0-
+36,,,,509.1292,,,,301(8,,hexoside
+37,27,32.19,350,505.0988/,C23H21O13,,0.072,"MS[505]:46323,301100,30073,MS[507]:303100","MS[505]:46323,301100,30073,MS[507]:303100",quercetin 3-0-
+38,,,,507.1135,,,,271(6,,acetylhexoside
+39,28,34.15350,34.15350,505.0990/,C23H21O13,,0.468,"MS[505]:46360,30193,300100,MS[507]:303100","MS[505]:46360,30193,300100,MS[507]:303100",quercetin 3-0-
+40,,,,507.1133,C23H21O13,,,271(6),,acetylhexoside
+41,Chalcone glycosides,Chalcone glycosides,Chalcone glycosides,,,,,,,
+42,16,18.12345,18.12345,509.1300/,,C23H25O13,0.749,"MS[509]:35521,329100","MS[511]:49312,349100",chalcone 3-0-
+43,,,,511.1450,,,,,223(15,galactoside
+44,17,18.50,345,509.1301/,,C23H25O13,0.749,,"MS2[509]:35551347100,32990,MS2[511]:4938,349100",chalcone 3-0-
+45,,,,511.1450,,,,193(8),223(14,glucoside

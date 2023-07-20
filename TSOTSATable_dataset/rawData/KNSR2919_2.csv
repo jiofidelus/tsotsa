@@ -1,0 +1,14 @@
+,0,1,2,3
+0,Sample ID,Wheat cultivar,Wheat Fraction,Flour Type
+1,LFref,Louise,Flour,Refined Wheat Flour
+2,LBref,Louise,Batter,Refined Wheat Flour
+3,LPref,Louise,Pancake,Refined Wheat Flour
+4,LFwhole,Louise,Flour,Whole Wheat Flour
+5,LBwhole,Louise,Batter,Whole Wheat Flour
+6,LPwhole,Louise,Pancake,Whole Wheat Flour
+7,WBFref,Westbred 936,Flour,Refined Wheat Flour
+8,WBBref,Westbred 936,Batter,Refined Wheat Flour
+9,WBPref,Westbred 936,Pancake,Refined Wheat Flour
+10,WBFwhole,Westbred 936,Flour,Whole Wheat Flour
+11,WBBwhole,Westbred 936,Batter,Whole Wheat Flour
+12,WBPwhole,Westbred 936,Pancake,Whole Wheat Flour

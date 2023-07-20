@@ -1,0 +1,38 @@
+,0,1,2,3,4,5,6,7
+0,Peak,Odour compounds,RIa,Odour descriptor,Peak,Odour compounds,RIa,Odour descripto
+1,1,Methyl acetate,827,Pleasant,46,Unknown,1420,Caramel
+2,2,2-Methylfuran,876,Unpleasant,47b,2-Vinyl-5-methylpyrazine,1433,Toasted
+3,3,Ethyl acetate,897,Fruity,47b,"2,6-Diethylpyrazine",1433,Toasted
+4,5,2-Methylbutanal,913,Sweet,48,Acetic acid,1440,Sour
+5,6,3-Methylbutanal,916,Sweet,49,Furfural,1461,Almond/bitter
+6,7,Unknown,927,Sweet,50,1-Acetyloxy-2-propanone,1470,Unpleasant
+7,8,Ethanol,934,Sweet,51,2-Furfuryl methyl sulfide,1481,Coffee
+8,9,2.5-Dimethylfuran,953,Coffee,52,2-Methyl-6-vinylpyrazine,1490,Coffee
+9,12,Toluene,1043,Unpleasant,53,Unknown,1495,Unpleasant
+10,13,"2,3-Pentanedione",1062,Buttery,54,2-Acetylfuran,1498,Spicy
+11,14,Ethylisovalerate,1078,Fruity,55,Formic acid,1501,Unpleasant
+12,15,Unknown,1088,Pleasant,56,Furfuryl formate,1504,Floral
+13,18,"2,4-Dimethyl-3-pentanone",1137,Pleasant,57,3-Methyl-2-cyclopenten-1-one,1507,Floral
+14,19,1-Methylpyrrole,1139,Coffee,58,Benzaldehyde,1509,Almond/bitter
+15,20,2-Vinyl-5-methylfuran,1154,Coffee,59,Pyrrole,1518,Toasted
+16,21,Ethyl-2-butenoate,1164,Floral,60,1-2-furyl)-2-propanone,1522,Pleasant
+17,22,Pyridine,1198,Burnt,63,Furfuryl acetate,1539,Nutty
+18,23,3-Methylbutan-1-ol,1205,Unpleasant,64,5-Methylfurfural,1566,Caramel
+19,24,Pyrazine,1212,Coffee,65,2-Propionyl-furan,1569,Fruity
+20,25,2-Methylpyridine,1229,Coffee,69,2-Formyl-1-methylpyrrole,1607,Buttery
+21,28,Thiazole,1262,Toasted,70,-Butyrolactone,1609,Sweet
+22,29,2-Methyltetrahydrofuran-3-One,1267,Nutty,71,2-Acetylpyrazine,1614,Toasted
+23,30,2-Methylpyrazine,1271,Toasted,74,2-Acetyl-1-methylpyrrole,1645,Coffee
+24,32,Unknown,1283,Buttery,76,4 Methoxy benzenamine,1655,Unpleasant
+25,33,3-Hydroxy-2-butanone,1289,Buttery,77,5-Methyl-2-(3H)-furanone,1661,Coffee
+26,34,1-Hydroxy-2-propanone,1300,Nutty,78,Furfuryl ale ohol,1668,Burnt
+27,35,"2,5 Dimethylpyrazine",1322,Toasted,80b,Thiophenecarboxaldehyde,1679,Coffee
+28,37,"2,6-Dimethylpyrazine",1334,Nutty,80b,1-(6-methyl-2-pyrazidine)-1-ethanone,1679,Coffee
+29,38,2-Ethylpyrazine,1338,Toasted,84,2-Ethyl-4-methyl-2.5-furanedione,1718,Coffee
+30,39,"2,3-Dimethylpyrazine",1345,Toasted,92,Guaiacol,1859,Burnt
+31,40,2-Methyl-cyclopenten-1-one,1366,Toasted,95,2-Acetylpyrrole,1969,Unpleasant
+32,41,1-Hydroxy-2-butanone,1375,Toasted,96,Difurfuryl ether,1977,Unpleasant
+33,42,3-Ethylpyridine,1387,Toasted,98,2-Formylpyrrole,2013,Unpleasant
+34,43,2-Ethyl-6-methylpyrazine,1391,Toasted,99,4-Ethylguaiacol,2023,Spicy
+35,44,2-Ethyl-3-methylpyrazine,1406,Nutty,101,4-Vinylguaiacol,2187,Spicy
+36,45,2-Ethyl-5-methylpyrazine,1411,Toasted,,,,

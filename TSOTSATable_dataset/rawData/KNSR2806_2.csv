@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,Technique,Method,Linear range (g/mL),LOD (g/mL),LOQ (g/mL),RSD (%),Reference
+1,Batch,Complexation with aluminium,17.8-88.9,0.13,-,<1,"Saadi et al.,2014"
+2,,Complexation with chloranilic acid,2.530.0,0.40,-,<2,"(Fahelelbom,2008)"
+3,,Diazotization and coupling of metchlopramide,1.052.0,0.33,-,<3,"Mouayed and Al-Abachi,2015"
+4,,Oxidation by chloramine-T,4.6-16.0,0.75,2.50,-,"Rufino et al.,2010"
+5,,Oxidation by potassium permanganate,1.0-30.0,0.96,3.22,<2,"Ahmida et al.,2009"
+6,FIA,Complexation with aluminium,0.5-10.0,0.07,0.72,<1,"(Liawruangrath et al.,2006)"
+7,,Complexation with iron,1.0100.0,0.10,0.92,2.4,"(Ruengsitagoon,2008)"
+8,,Diazotization and coupling of metchlopramide,8.0240.0,0.90,-,<2,"Mouayed and Al-Abachi,2015"
+9,,Diazotization with p-sulfanilic acid,50.0-400.0,8.60,28.8,<5,"Perez Rodriguez et al.,2016)"
+10,,,1.0-40.0,0.40,1.35,<2.5,"Rodriguez et al.,2016"
+11,,Oxidation by chloramine-T,29.5343.1,1.67,5.51,,"(Rufino et al., 2009)"
+12,SIA,Complexation with yttrium,4.4177.7,2.18,3.47,<4,"(Thanasarakhan et al., 2011)"
+13,SIEMAa,Chelating with zirconium,0.225.0,0.13*,0.40*,<5,Present work

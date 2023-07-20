@@ -1,0 +1,12 @@
+,0,1
+0,perating parameters forICP-MS,
+1,orward power (W),1350
+2,ias flows (lmin-),
+3,Nebuliser,0.85
+4,Auxiliary,1.0
+5,Coolant,15.0
+6,Jebuliser type,"Ebdon, high solid"
+7,ata acquisition for quantitative analysis,Peak jump
+8,nternal standard,"In,100 g1-1"
+9,otope masses monitored,
+10,"Ti, 51V,52Cr,59Co, 60Ni,65Cu,85Rb,133Cs,206Pb,207Pb and 208pb",

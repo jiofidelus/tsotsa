@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6
+0,Type of meat,Number of meat,Number of analyzed,Number of samples with quantifiable,,Number of samples with quantifiable,Nitrate
+1,product,products analyzed,samples,nitrate concentrations*,,nitrite concentrations,positivity (%)
+2,Hamburger,,9,ga,0,,100
+3, Seasoned meat,7,21,3b,0,,14.3

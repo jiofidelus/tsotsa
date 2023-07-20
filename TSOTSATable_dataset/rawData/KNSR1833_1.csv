@@ -1,0 +1,37 @@
+,0,1,2,3
+0,Amino acid,Amino acid,Concentration in,Concentration in mixed
+1,,,individual amino acid,standard stock solution
+2,,,stock solution (mol/L),(mol/L)
+3,Trp,,100.07,0.40
+4,Phe,,49.86,1.99
+5,Tyr,,10.39,0.62
+6,Ile,,5.27,0.47
+7,Leu,,10.71,1.07
+8,Met,,10.04,0.64
+9,Cys,,9.99,0.80
+10,Val,,50.43,1.21
+11,Thr,,100.24,0.60
+12,GABA,GABA,100.95,0.81
+13,Ser,,10.07,0.81
+14,Ala,,200.13,2.00
+15,Hpro,Hpro,10.36,0.04
+16,Gly,,101.69,1.22
+17,Asn,,100.30,12.04
+18,Pro,,20.45,0.41
+19,Glu,,99.97,2.00
+20,Gln,,50.38,1.01
+21,Cit,,1.53,0.31
+22,Asp,,40.29,3.22
+23,His,,20.85,0.46
+24,Arg,,10.06,0.40
+25,Orn,,10.00,0.02
+26,Lys,,5.21,0.21
+27,Car,,10.10,0.20
+28,Internal standards (IS),Internal standards (IS),Concentration in,Concentration in mixed
+29,,,individual IS stock,IS stock solution (umol/
+30,,,solution (mol/L),L)
+31,"L-phenyl-d5-alanine-2,3,3-",,50.83,12.71
+32,,ds,,
+33,"L-alanine-2,3,3,3-d4","L-alanine-2,3,3,3-d4",100.19,12.52
+34,"L-asparagine-15N2,ds",,102.19,42.58
+35,"L-glutamine-2,3,3,4,4-d5",,39.63,8.26

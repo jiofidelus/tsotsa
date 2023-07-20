@@ -1,0 +1,52 @@
+,0,1,2,3,4,5,6
+0,Sample,Metals found,Digestion technique,Analysis,Working range,Limit of detection,References
+1,,mgkg-1),,technique,gL-1,mgkg-1),
+2,Rice,Cd 0.440.03,Dry ashing,FAAS,,,"Naseri et al.,2015"
+3,,Co 0.330.06,,GFAAS,,,
+4,,Cr 0.470.07,,,,,
+5,,Ni 0.670.03,,,,,
+6,,Pb 0.760.19,,,,,
+7,Rice,Cd 0.0082-0.016,CAD,GFAAS(Cd and,Cd 0.125-2,Cd 0.1228(0.0037),"Al-Saleh and Shinwari,2001"
+8,,Pb 0.0231-0.0681,,Pb),Pb 2.5-40,Pb 0.1325a,
+9,,Hg ND-0.0035,,HG-AAS(Hg),Hg 0.5-8,Hg 0.2035a(0.0030),
+10,Cooked glutinous rice,AI 0.870.1,in vitro digestion,ICP-OES,,,"Omar et al.,2015"
+11,,As 0.0160.001,model,,,,
+12,,Cd 0.0170.001,,,,,
+13,,Co 0.0500.01,,,,,
+14,,Cr 0.12 0.02,,,,,
+15,,Cu 1.20.1,,,,,
+16,,Fe 1.70.1,,,,,
+17,,Pb 0.0200.001,,,,,
+18,,Zn 6.70.1,,,,,
+19,Cooked fragrant rice,AL 0.820.01,in vitro digestion,ICP-OES,,,Omar et al.2015
+20,,As0.0150.001,model,,,,
+21,,Cd 0.0160.001,,,,,
+22,,Co 0.0470.01,,,,,
+23,,Cr 0.120.01,,,,,
+24,,Cu 1.30.1,,,,,
+25,,Fe 1.90.1,,,,,
+26,,Pb 0.0190.001,,,,,
+27,,Zn 8.2 0.1,,,,,
+28,Rice,Cd 0.0063-0.0178,CAD,ICP-MS,,,"Rahman et al.,2014"
+29,,Co 0.0117-0.0354,,,,,
+30,,Cr 0.061-0.743,,,,,
+31,,Cu 2.0-6.8,,,,,
+32,,Mn 6.2-10.0,,,,,
+33,,Ni 0.088-0.777,,,,,
+34,,Pb 0.096-0.921,,,,,
+35,,Zn 14.1-22.4,,,,,
+36,Rice,As 0.181-0.250,MAD,ICP-MS,1.00-100.0,,"Shraim,2014"
+37,,Cd 0.007-0.020,,,,,
+38,,Pb 0.012-0.028,,,,,
+39,Brown jasmine rice,Fe 5.10-9.75,,INAA,,,Srinuttrakul and
+40,,Mn 21.9-43.8,,,,,"Busamongkol,2014"
+41,,Zn 22.5-32.7,,,,,
+42,Commercial rice,Cd ND-0.016,,RNAA,,,"Zwicker et al.,2010"
+43,Contaminated rice,Cd 0.007-0.579,,RNAA,,,"Zwicker et al.,2010"
+44,Sticky brown rice,Cd<0.87(0.0174,CAD,ASV,Cd 0.5-60,Cd 0.27(0.0054,"Kaewkim et al.,2013"
+45,Jasmine white rice,Pb<0.37(0.0074,,,Pb 0.5-60,Pb 0.11a (0.0022),
+46,Wheat rice germ,for all samples,,,,,
+47,Brown rice milk,,,,,,
+48,Organic unpolished rice,Cd ND,UAD,ASV,Cd 10-200,Cd 0.11a (0.0037),This work
+49,"brown,red, black and",Pb ND,,,Pb 5-200,Pb 0.06a(0.0020),
+50,mixed),for all samples,,,,,

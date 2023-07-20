@@ -1,0 +1,69 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,,,,,"ESI(+-QToF/MS(experimental ions,m/z","ESI(+-QToF/MS(experimental ions,m/z","ESI(+-QToF/MS(experimental ions,m/z",
+1,Peak,Peak,Abbreviation,RT,DAD AmaX,Formula,[M+H]+,"Error,",[M+,Fragmentation of [M+H]+
+2,No.,No.,Abbreviation,(min),(nm),[M+H]+,[M+H]+,mDa,Na]+,
+3,,,,,,,,,[M+K]+,
+4,,Hydroxybenzoyl derivatives (6),,,,,,,,
+5,1a,3-0-p-,3-pHbQA,5.06,257,C14H17Og,313.1024,10.1,335.0854,"295[M+H-HO]+,139 [pHb+H]+,121"
+6,,hydroxybenzoylquinic,,,,,,,351.0635,"[pHb+H-H2O]*,95 [pHb+H-CO]"
+7,,acid,,,,,,,,
+8,,(neonasipomic acid),,,,,,,,
+9,2a,3-O-vanilloylquinic acid,3-VQA,8.04,"262,293",C15H19O9,343.1188,15.9,365.0977,169 [Van+H]151 [Van+H-HO]
+10,,(neodaripomic acid),,,,,,,381.0732,125 [Van+H-CO]
+11,4b,5-0-p-,5-pHbQA,11.74,258,C14H17Og,313.1024,10.1,335.0854,295[M+H-HO]+139 [pHb+H]121
+12,,hydroxybenzoylquinic,,,,,,,351.0635,"[pHb+H-HO]*,95[pHb+H-CO]"
+13,,acid,,,,,,,,
+14,,(nasipomic acid),,,,,,,,
+15,5a,4-0-p-,4-pHbQA,12.93,258,C14H17Og,313.1024,10.1,335.0854,"295 [M+H-HO]+139 [pHb+H],121"
+16,,hydroxybenzoylquinic,,,,,,,351.0597,"[pHb+H-HO],95 [pHb+H-CO]"
+17,,acid,,,,,,,,
+18,,(cryptonasipomic acid),,15.65,,,,,,
+19,6a,5-O-vanilloylquinic acid,5-VQA,15.65,"264,294",C15H19Og,343.1151,12.2,365.0977,169 [Van+H]151 [Van+H-HO]
+20,,(daripomic acid),,,,,,,381.0732,"125 [Van+H-CO],110 [Van+H-CO2"
+21,,,,,,,,,,CH]+
+22,ga,4-O-vanilloylquinic acid,4-VQA,17.17,"263,293",C15H19Og,343.1151,12.2,365.0977,"169 [Van+H]+,151 [Van+H-HO]*,"
+23,,(cryptodaripomic acid),,,,,,,381.0732,"125 [Van+H-CO],110 [Van+H-CO2"
+24,,,,,,,,,,CHg]+
+25,,Hydroxycinnamoyl derivatives (25),,,,,,,,
+26,Caffeoyl derivatives,Caffeoyl derivatives,,,,,,,,
+27,7,caffeic acid,CA,16.21,"238,298sh,323",CgHgO4,181.0581,8.7,,"163 [M+H-HO]*,145 [M+H-2HO]*,"
+28,,,,,,,,,,"135[M+H-HO-CO]+,117[M+H-2HO"
+29,,,,,,,,,,co]
+30,10,6-O-caffeoyl-fructosyl,6-CFG,19.17,"241,298sh,326",C21H29O14,,,527.1454,"487 [M+H-HO]*,325 [M+H-Fruc-"
+31,,1-2glucoside,,,,,,,543.1200,"HO]*,181 [Caf+H]*,163 [Caf+H-"
+32,,,,,,,,,,"HO]+,135 [Caf+H-HO-CO]"
+33,,mono-Hydroxycinnamoylquinic acids,,,,,,,,
+34,,3-O-caffeoylquinic acid,3-CQA,10.46,"244,297sh,324",C16H19O9,355.1124,9.5,377.0929,"181 [Caf+H]+,163 [Caf+H-HO]+145"
+35,,(neochlorogenic acid),,,,,,,393.0665,"[Caf+H-2HO]+,135 [Caf+H-HO"
+36,,,,,,,,,,"CO]*, 117 [Caf+H-2HO-CO]+"
+37,ge,5-O-caffeoylquinic acid,5-CQA,17.31,"240,298sh,325",C16H19O9,355.1162,13.3,377.1009,"337 [M+H-HO]*,181 [Caf+H]*163"
+38,,(chlorogenic acid),,,,,,,393.0746,"[Caf+H-HO]+,145 [Caf+H-2HO]"
+39,,,,,,,,,,"135 [Caf+H-HO-CO]*,117 [Caf+H-"
+40,,,,,,,,,,2HO-CO]
+41,11c,4-O-caffeoylquinic acid,4-CQA,20.10,"234,298sh,325",C16H19O9,355.1124,9.5,377.1009,"181 [Caf+H]*,163 [Caf+H-H2O]*,145"
+42,,(cryptochlorogenic acid),,,,,,,393.0746,"[Caf+H-2HO],135 [Caf+H-HO-"
+43,,,,,,,,,,"CO],117 [Caf+H-2HO-CO]+"
+44,12c,5-O-feruloylquinic acid,5-FQA,28.80,"238,297sh,325",C17H21O9,369.1322,14.1,391.1154,"351 [M+H-HO]+,195 [Fr+H]+,177"
+45,,,,,,,,,407.0832,[Fr+H-HO]+149[Fr+H-HO-CO]
+46,,,,,,,,,,"145[Fr+H-HO-CHOH],134 [Fr+H"
+47,,,,,,,,,,HO-CO-CH]
+48,"13b,c",5-O-caffeoylquinic acid,5-CQM,34.96,"242,298sh,327",C17H21O9,369.1322,14.1,391.1113,351 [M+H-HO]181 [Caf+H]163
+49,,methyl ester,,,,,,,407.0832,"[Caf+H-HO]+,145 [Caf+H-2HO]"
+50,,(methyl 5-0-,,,,,,,,"135 [Caf+H-HO-CO]+,117 [Caf+H-"
+51,,caffeoylquinate),,,,,,,,2HO-CO]
+52,,di-Hydroxycinnamoylquinic acids,,,,,,,,
+53,15c,"3,4-di-O-caffeoylquinic","3,4-diCQA",51.75,"241,299sh,324",C25H25O12,517.1395,4.9,539.1254,"499 [M+H-HO]*,355 [M+H-Caf]"
+54,,acid,,,,,,,555.0960,"337 [M+H-Caf-HO]+,181 [Caf+H]+,"
+55,,isochlorogenic acid B,,,,,,,,"163 [Caf+H-HO]+,145 [Caf+H-"
+56,,,,,,,,,,"2HO],135 [Caf+H-HO-CO]+"
+57,16c,"3,5-di-O-caffeoylquinic","3,5-diCQA",52.99,"242,299sh,327",C25H25O12,517.1395,4.9,539.1254,"499 [M+H-HO]*,355 [M+H-Caf],"
+58,,acid,,,,,,,555.0960,"337 [M+H-Caf-HO]+,181 [Caf+H],"
+59,,(isochlorogenic acid A),,,,,,,,"163 [Caf+H-H2O]*,145 [Caf+H-"
+60,,,,,,,,,,"2HO]+,135 [Caf+H-HO-CO]"
+61,18c,"4,5-di-O-caffeoylquinic","4,5-diCQA",60.34," 243,299sh,327",C25H25O12,517.1441,9.5,539.1254,"499 [M+H-HO]+,355 [M+H-Caf],"
+62,,acid,,,,,,,555.0960,337 [M+H-Caf-HO]181 [Caf+H]
+63,,isochlorogenic acid C,,,,,,,,"163 [Caf+H-HO],145 [Caf+H-"
+64,,,,,,,,,,"2HO]+,135 [Caf+H-HO-CO]"
+65,19,3-O-feruloyl-4-O-,"3 F,4CQA",62.00,"246,298sh,324",C26H27O12,531.1992,48.9,553.1423,"513 [M+H-HO]+,351 [M+H-Caf-"
+66,,caffeoylquinic acid,,,,,,,569.1226,HO]337[M+H-Fr-HO]195
+67,,,,,,,,,,"[Fr+H],181 [Caf+H]"

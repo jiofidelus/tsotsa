@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Milk component,Genotype,Stage of lactation,Stage of lactation,,SEM1
+1,,,Early,Mid,Late,
+2,Protein (g/kg of milk),Nguni,32.2a,35.1b,37.8c,2.96
+3,,Crossbred,32.9a,32.8a,33.8a,2.56
+4,Fat (g/kg of milk,Nguni,29.8a,31.1a,32.5b,0.63
+5,,Crossbred,33.5c,34.3c,37.3c,0.55
+6,Lactose (g/kg of milk),Nguni,47.7c,48.8c,35.1a,2.05
+7,,Crossbred,44.8b,48.7c,48.7c,1.76
+8,Total solids (g/kg of milk),Nguni,94.7a,103.9a,108.5a,8.19
+9,,Crossbreds,123.1b,124.1b,131.3b,7.01

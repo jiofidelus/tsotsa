@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8
+0,Extractant,Preconcentration,Detection,Chelating agent,LOD,RSD (%),EFa,Linear range,References
+1,(amount),technique,,,,,,gL1,
+2,Poly(MPAEMA-co-DVB-co-AMPS)b,SPEd,FAASf,,1.2 ng g.1,<2.0,200,-,Dasbasi et al.2016
+3,PCXc,SPE,ICP-AES$,,68 ng g.1,10.9,15,10-80,Sixto et al.2016
+4,1% w/v,CPEe,FAAS,1-PTSch,3.4 g L.1,4.8,25,500-10000,"CitakTuzen,2010)"
+5,Triton X-114,,,,,,,,
+6,1mL,,,,,,,,
+7,10%(w/v),CPE,UV-Vis,7-,3.9 g L1,1.1,114,5.0-100,"Khammas et al.,2012)"
+8,Triton X-114,,,6MBTA8HQ),,,,,
+9,400L),,,,,,,,
+10,CCl4,DLLME,FAAS,DDTC,140 ng g.1,<20,-,22 -100,"Rosa et al.,2015"
+11,140L,,,,,,,,
+12,"50%(w/v [P6.6,6.14]MnCl4 in CHCl150 L)",DLLME,ETAAS,DFC,3.0 ng L1,3.6,107,0.01-3,This work

@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7,8
+0,Protein identification,Protein identification,,Accession number,Accession number,Sequence coverage,Total score,Ion scores,Peptide sequences
+1,Peroxidase C1A (Armoracia rusticana),Peroxidase C1A (Armoracia rusticana),,P00433,,21%,290,43,R.DTIVNELR.S
+2,,,,,,,,47,R.DAFGNANSAR.G
+3,,,,,,,,92,R.TEKDAFGNANSAR.G
+4,,,,,,,,76,R.MGNITPLTGTQGQIR.L
+5,Ig heavy chain V-III region 23 (Homo sapiens),Ig heavy chain V-III region 23 (Homo sapiens),Ig heavy chain V-III region 23 (Homo sapiens),PO1764,,29%,87,64,K.NTLYLQMNSLR.A
+6,Ig light chain variable region (Homo sapiens),Ig light chain variable region (Homo sapiens),Ig light chain variable region (Homo sapiens),AAR91610,,14%,133,133,K.LLIYNASSLQSGVPSR.F
+7,pMJA186-scFv,,,,,34%,312,103,K.LLIYNASSLQSGVPSR.F
+8,,,,,,,,163,R.EAEAAAEVQLLESGGGLVQPGGSLR.L
+9,MRPPFRSSSEMSFCSAAPETVIMKYLLPTAAAGLLLLAAQPAMAEVQLLESGGGLVQPGG,,,MRPPFRSSSEMSFCSAAPETVIMKYLLPTAAAGLLLLAAQPAMAEVQLLESGGGLVQPGG,,,,,Fig.5.Amino acid sequence of the JrBSF scFv deduced from the nu
+10,,,,,,,,,cleotide sequence by Expasy Web site.Positions of the complementary
+11,,H-CDR1,,,H-CDR2,,,,determining regions for the variable domains of heavy (H-CDR 1-3
+12,SLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSNISATGAYTTYADSVKGRFTISRDNSK,,,SLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSNISATGAYTTYADSVKGRFTISRDNSK,,,,,and light (L-CDR 1-3) chains are indicated.The amino acid sequences
+13,,,H-CDR3,,,Linker,,,found in matrix-assisted laser desorption/ionization tandem mass
+14,,,,,,,,,spectrometry (MALDI-TOF/TOF) analysis are underlined.
+15,,,L-CDR1,,,L-CDR2,,,
+16,MTOSPSSLSASVGDRVTITCRASOSISSYLNWYOOKPGKAPKLLIYNASSLOSGVPSRFSGS,,,MTOSPSSLSASVGDRVTITCRASOSISSYLNWYOOKPGKAPKLLIYNASSLOSGVPSRFSGS,,,,,
+17,,,L-CDR3,,,Hys-Tag,c-myc,,
+18,GSGTDFTLTISSLQPEDFATYYCQQSDAYPYTFGQGTKVEIKRAAAHHHHHHGAAEQKLIS,,,GSGTDFTLTISSLQPEDFATYYCQQSDAYPYTFGQGTKVEIKRAAAHHHHHHGAAEQKLIS,,,,,

@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,,,,Reagents Penalty points(PPR),,,,,,,Category,Results,"Sensitivity,ug/kg)","Sensitivity,ug/kg)","Sensitivity,ug/kg)",
+1,,Methodology,,Regent,,,Energy,Hazard,Waste,Total,,,,,,Ref
+2,,,type,amount,Hazard,subtotal,,(PPoH),(PPw),(100-PP),Certificate,AGREE,LOD,,LOQ,
+3,,,type,(mL),,,,,,,Certificate,,,,,
+4,,,HCI,30,2,3.5,,,,,,,,,,
+5,,,Toluene,151,6,17.3,,,,,,,,,,
+6,,1514-1(Acidic,n-Hexane,20,8,12.4,2,1,15,36,,0.21,0.025,,0.04,
+7,,conditions),Acetic acid,3,4,3.4,,,,,,,,,,
+8,,,Chloroform,60,4,8.7,,,,,,,,,,
+9,R,,,,,,,,,,,,,,,
+10,W,1513-2,Methanol,54.7,6,12.7,2,0,12,73,C,0.34,0.025,,0.04,2010
+11,,(Alkaline conditions),,,,,,,,,,,,,,
+12,M,,,,,,,,,,,,,,,
+13,A,,,,,,,,,,,,,,,
+14,T,ImmunoAffinity,,,,,,,,,,,,,,
+15,R,,Methanol,104,6,15.4,2,0,14,68,D,0.29,0.024,,0.04,22010
+16,A,,,,,,,,,,,,,,,
+17,L,,Acetonitrile,10,4,5.0,,,,,,,,,,
+18,,,Hexane,3,8,6.9,3,1,6,76,,0.43,0.2,,0.5,
+19,,,Methanol,0.5,6,3.0,,,,,,,,,,
+20,,,Acetonitrile,10,4,5.0,,,,,,,,,,
+21,,up,,,,,3,0,6,85,,0.46,0.2,,0.5,
+22,,up,Acetic acid,0.1,4,1.2,,,,,,,,,,

@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7
+0,Race,Cut,Moisture,Protein,Lipid,Ash,Energy value,
+1,,,g/100 g,(g/100 g),g/100 g),g/100 g),(kcal)/100 g,kJ/100 g
+2,Cribu,Buttock,74.4+0.2a,19.50.1a,1.20.1a,1.10.1a,89,372
+3,Creole,,74.40.2a,20.90.8a,1.10.1a,1.10.1a,93,388
+4,Cribu,Flank,75.30.1a,18.40.1a,2.2+0.1b,1.10.1a,92,387
+5,Creole,,75.31.3a,20.42.1a,2.50.3b,1.00.1a,101,424
+6,Cribu,Loin blade steak,71.60.4a,20.70.1a,2.20.1b,1.20.1a,102,425
+7,Creole,,72.20.4a,21.10.1a,2.50.5b,1.10.1a,109,458
+8,Cribu,Shoulder blade steak,76.40.4a,18.90.3a,3.40.1c,1.00.1a,106,442
+9,Creole,,75.80.2a,18.40.3a,2.70.6bc,1.00.1a,98,412

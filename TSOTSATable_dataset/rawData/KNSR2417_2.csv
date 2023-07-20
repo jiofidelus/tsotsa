@@ -1,0 +1,58 @@
+,0,1,2,3
+0,Edible Oil type,FLD,UV,HCAa
+1,,gg-1,18:g1,class
+2,Extra virgin olive oil 1,<LOQ,LOQ,1
+3,Extra virgin olive oil 2,<LOQ,LOQ,1
+4,Extra virgin olive oil 3,<LOQ,LOQ,1
+5,Extra virgin olive oil 4,LOQ,LOQ,1
+6,Refined olive oil 1 1,1.610.05,1.550.10,1
+7,Refined olive oil 1 2,1.450.01,1.29 0.09,1
+8,Refined olive oil 1 3,<LOQ,0.750.09,1
+9,Refined olive oil 14,<LOQ,0.800.03,1
+10,Refined olive oil 1 5,<LOQ,0.740.07,1
+11,Refined olive oil 16,1.070.05,0.980.10,1
+12,Refined olive oil 17,1.620.03,1.41  0.01,1
+13,Refined olive oil 18,1.890.02,1.690.01,1
+14,Refined olive oil 0.4 1,3.090.11,3.100.10,2
+15,Refined olive oil 0.4 2,3.260.78,3.96 0.37,2
+16,Refined olive oil 0.4 3,3.540.04,3.10  0.03,2
+17,Refined olive oil 0.4 4,3.580.01,3.12  0.02,2
+18,Refined olive oil 0.4 5,3.990.14,3.500.04,2
+19,Refined olive oil 0.4 6,2.990.04,2.72  0.04,2
+20,Refined olive oil 0.4 7,2.08 0.01,1.72 0.01,1
+21,Refined olive oil 0.4 8,3.27  0.38,2.81  0.39,2
+22,Pomace olive oil 1,5.020.73,4.970.02,3
+23,Pomace olive oil 2,7.68  0.03,7.81 0.02,3
+24,Pomace olive oil 3,7.04  0.09,6.93  0.21,3
+25,Pomace olive oil 4,9.210.05,8.14 0.08,
+26,,,,
+27,Pomace olive oil 5,7.47  0.25,7.98  0.99,3
+28,Pomace olive oil 6,5.83  0.01,5.27  0.01,3
+29,Pomace olive oil 7,6.28  0.13,6.020.39,3
+30,Virgin safflower oil,<LOQ,<LOQ,1
+31,Virgin sesame oil,<LOQ,LOQ,1
+32,Virgin hemp oil,<LOQ,<LOQ,1
+33,Virgin nut oil,<LOQ,LOQ,1
+34,Extra virgin avocado oil,LOQ,LOQ,1
+35,Virgin linen oil,<LOQ,<LOQ,1
+36,Virgin sunflower oil,<LOQ,<LOQ,1
+37,Refined sunflower 1,3.250.05,3.910.89,2
+38,Refined sunflower 2,<LOQ,0.86  0.02,1
+39,Refined sunflower 3,3.110.27,2.82  0.21,2
+40,Refined sunflower 4,3.280.50,2.950.41,2
+41,Refined sesame oil 1,2.061.15,2.02  0.24,1
+42,Refined sesame oil 2,1.210.11,1.010.25,1
+43,Refined sesame oil 3,0.960.14,0.89 0.06,1
+44,Refined sesame oil 4,1.12  0.20,1.000.37,1
+45,Refined corn oil 1,LOQ,1.050.04,1
+46,Refined corn oil 2,4.750.44,4.460.51,3
+47,Refined peanut oil,3.470.06,3.58  0.02,2
+48,Seeds oil,13.821.02,14.17  2.63,4
+49,Sunflower and soybean oil,17.320.80,10.141.72,4
+50,"Soybean, sesame, seeds and fish oil",30.540.98,28.481.30,5
+51,Sesame and soybean oil,12.610.56,10.901.14,4
+52,"Soybean, peanut and sesame oil",17.92 0.66,11.591.12,4
+53,Soybean and nut oils,20.36  1.84,15.650.18,4
+54,Olive oil used in canned food 1,1.020.04,1.070.34,1
+55,Olive oil used in canned food 2,2.810.09,2.85 0.06,2
+56,Sunflower oil used in canned food,3.700.13,4.020.07,2

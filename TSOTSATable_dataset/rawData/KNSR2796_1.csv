@@ -1,0 +1,8 @@
+,0,1
+0,Data files,Contents
+1,Food commodity intakes,Grams of commodity consumed per kilogram of body
+2,,"weight,per person per day"
+3,EPA food commodity vocabulary,Names and descriptions of over 500 EPA food
+4,,commodities
+5,Sample person data,"CSFII individual variables,weighting factors"
+6,Food-code-to-commodity translation file,Grams of commodities per 100 g of USDA food codes

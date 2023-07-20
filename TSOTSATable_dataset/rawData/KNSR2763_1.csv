@@ -1,0 +1,14 @@
+,0,1
+0,"EDXRF benchtop system(S2 RANGER,Bruker AXS",
+1,Anode X-ray tube,Pd
+2,Spot size,26 mm
+3,Detector,SDD-XFlash
+4,Total analysis time,400s (200s/per analytical condition
+5,Measuring mode,Vacuum
+6,Analytical Lines,
+7,-Kline,"Na,Mg,Al,Si,PS,Cl,K,Ca,Mn,Fe,Cu,Zn,Br,Rb,Sr"
+8,-L line,Pb
+9,Measurement conditions,
+10,"-Condition-1:20kV,0.171 mA,No primary filter","NaMgAI,Si,PS,CI"
+11,"-Condition-2:40kV,0.349 mA,500m Al filter","K,CaMn,Fe,CuZn,Br,Rb,Sr,Pb"
+12,Absorption effects corrections,Fixed alphas (intensity model)

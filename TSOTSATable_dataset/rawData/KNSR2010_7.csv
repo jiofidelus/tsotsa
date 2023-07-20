@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6
+0,,CRM,Mean(mgkg-1,s(mgkg1),CV %),CVR (%),CI (IQC)(mgkg1
+1,Al,Estimated mean,491,13.3,2.7,12.7,369-972a
+2,,Theoretical value,670,55.3,0.6,,659-681b
+3,V,Estimated mean,0.851,0.023,2.8,8.5,0.666-1.238a
+4,,Theoretical value,0.952,0.082,5.7,,0.789-1.115b
+5,Mn,Estimated mean,189,8,4.3,7.9,134-248a
+6,,Theoretical value,191,6,2.0,,179-203b
+7,Co,Estimated mean,0.217,0.013,5.8,9.5,0.147-0.273a
+8,,Theoretical value,0.210,0.008,4.0,,0.185-0.235b
+9,Ni,Estimated mean,1.44,0.09,6.2,8.3,0.86-2.28a
+10,,Theoretical value,1.57,0.08,3.4,,1.41-1.73b
+11,Cu,Estimated mean,6.98,0.12,2.3,9.2,5.44-10.10a
+12,,Theoretical value,7.77,0.27,2.3,,7.24-8.30b
+13,Zn,Estimated mean,33.3,2.8,8.5,9.0,23.5-43.6a
+14,,Theoretical value,33.5,1.1,2.1,9.0,31.4-35.6b
+15,As,Estimated mean,0.204,0.01,6.0,12.8,0.105-0.277a
+16,,Theoretical value,0.191,0.01,4.0,,0.168-0.214b
+17,Sr,Estimated mean,26.1,0.97,2.4,10.0,26.3-48.9a
+18,,Theoretical value,37.6,1.35,2.4,,34.9-40.3b
+19,Mo,Estimated mean,0.42,0.016,3.9,6.8,0.36-0.68a
+20,,Theoretical value,0.52,,,,
+21,Cd,Estimated mean,0.207,0.01,4.0,5.6,0.1400.260a
+22,,Theoretical value,0.199,0.01,2.7,,0.184-0.214b
+23,Sb,Estimated mean,0.058,0.007,5.7,10.5,0.0360.096a
+24,,Theoretical value,0.066,0.005,5.1,,0.0560.075b
+25,Ba,Estimated mean,34.2,0.8,2.2,8.9,22.8-42.3a
+26,,Theoretical value,32.5,1.3,2.6,,30.0-35.0b
+27,Hg,Estimated mean,0.019,0.002,6.9,10.4,0.013-0.023a
+28,,Theoretical value,0.018,0.001,3.0,,0.016-0.019b
+29,Pb,Estimated mean,2.02,0.08,4.2,7.5,1.51-2.81a
+30,,Theoretical value,2.16,0.12,3.6,,1.93-2.39b

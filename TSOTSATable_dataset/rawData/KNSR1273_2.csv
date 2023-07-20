@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,Species,K,P,Mg,Ca,Na,Fe,Zn,Cu,Mn,Ni,Cd,Co,References
+1,Abelmochus esculentus (Okra,18.13,,0.4,4.23,0.4,1.2,0.19,,,0.12,0.13,,James and Emmanuel
+2,,,,,,,,,,,,,,2011
+3,Agaricus bisporus,320,80,9,6,5,0.6,,0.72,,-,,,Mayer 1997
+4,(Mushroom),,,,,,,,,,,,,
+5,Allium cepa (Onions),160,30,4,25,3,0.3,,0.05,,,-,,Mayer(1997
+6,Asparagus officinalis,1094,-,,67,184,19,260,,.,,,,Aberoumand and Deokule
+7,(Asparagus),,,,,,,,,,,,,(2009)
+8,Beta vulgaris (Beetroot),380,51,11,20,66,1,,0.02,,,,,Mayer (1997
+9,Brassica oleracea(Cabbage),10.45,,4.43,7.73,0.5,0.18,0.34,-,,0.29,0.07,,James and Emmanuel
+10,,,,,,,,,,,,,,(2011
+11,Brassica rapa (Turnip),280,41,8,48,15,0.2,,0.01,,,,,Mayer (1997
+12,Cucumis sativus (Cucumber),4.65,,3.92,1.8,5.25,4.4,0.55,0.1,0.12,0.18,,0.114,Ismail et al.2011
+13,Cucurbita pepo Pumpkin),130,19,10,29,,0.4,,0.02,-,-,,,Mayer (1997)
+14,Daucus carota (Carrot),3.85,,29.7,2.2,4.9,13.3,0.21,0.14,0.127,0.005,,0.104,Ismail et al.2011
+15,Lactuca sativa (Lettuce),220,28,6,28,3,0.7,,0.01,,-,,,Mayer (1997
+16,Lycopersicon esculantum,83.6,76,,220,154.8,12,25.6,7.6,20.8,-,,,Adenipekun and Oyetunji
+17,(Tomato),,,,,,,,,,,,,(2010)
+18,Momordica charantia (Bitter,6.4,,4.26,2.85,6.9,11.6,0.4,0.11,0.139,0.13,,0.114,Ismail et al.2011
+19,gourd),,,,,,,,,,,,,
+20,Phaseolus vulgaris (Bean),230,38,17,36,,1.2,0.2,0.01,,,,,Holland et al.1991
+21,Pisum sativum (Peas),330,130,34,21,1,2.8,,0.05,,,-,,Mayer (1997)
+22,Raphanus sativus (Raddish),149.44,-,321.37,860.36,109.50,19.85,11.76,2.9,,0.711,0.005,,Linkon et al.(2015
+23,Solanum tuberosum (Potato),38.5,,2.91,2.4,6.6,1.5,0.15,0.13,0.1,0.05,-,0.113,Ismail et al.2011
+24,Spinacia oleracea (Spinach),157.52,-,631.02,229.17,485.57,74.92,29.45,7.55,,0.973,0.009,-,Linkon et al.2015

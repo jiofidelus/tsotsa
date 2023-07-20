@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,Masking species,Analytical,Analytical,Score,Score
+1,,signal,,,
+2,,G,S,G,s
+3,Ammonia (3.0 mmol L-1),139,20,1,1
+4,Formaldehyde(0.2mmol L-1),38,84,1,0
+5,Urea (1.2 mmol L-,46,72,1,1
+6,Ammonium chloride (3.0 mmol L-1),44,81,1,0
+7,Acid milk (pH=5.7),24,127,1,1
+8,Acid milk with pH adjusted to 6.6,57,88,1,0
+9,Diluted milk (1:10 v/v),47,113,1,1
+10,Control solutions,,,,
+11,Conform milk(pH=6.6),70,93,0,0
+12,Acid milk (addition of HCl up to pH=5.7),25,128,1,1
+13,"pH-adjusted milk (addition of HCl+NaOH, to restore pH =",55,89,1,0
+14,6.6),,,,

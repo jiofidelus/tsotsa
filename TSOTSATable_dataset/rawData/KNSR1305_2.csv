@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Calibration set,,,,,Predication set,Predication set,,
+1,Index,ni,Mean,Range,Std.dev,SEL,n2,Mean,Range,Std.dev
+2,Volatile oil (mL/100 g),206,5.25,2.696.62,0.861,0.219,68,4.74,2.826.59,0.948
+3,Sanshoamides (mg/g),206,25.8,17.3-43.1,4.98,1.98,68,28.1,19.2-41.3,6.03
+4,Crack rate (%),206,66.0,40.5-98.7,14.5,2.04,68,73.0,43.896.8,16.0

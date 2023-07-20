@@ -1,0 +1,25 @@
+,0,1,2,3,4
+0,Treatment,Removal (%),,,Average Removal
+1,,18 g a.,27 g a.,36 g a.,%meanSD
+2,,i./ha,i./ha,i./ha,
+3,Soaking in clean,1.72,1.35,1.53,1.530.19
+4,water for 5 min,,,,
+5,Soaking in clean,4.07,4.78,4.71,4.520.39
+6,water for 15 min,,,,
+7,Soaking in clean,17.6,16.8,18.3,17.60.8
+8,water for 30 min,,,,
+9,Soaking in 0.1%,9.43,10.8,10.2,10.10.7
+10,CHCOOH,,,,
+11,Soaking in 0.5%,17.6,19.2,21.4,19.41.9
+12,CHCOOH,,,,
+13,Soaking in 1.0%,22.8,20.6,21.0,21.51.2
+14,CHCOOH,,,,
+15,Soaking in 0.1% NaCl,22.3,22.3,22.7,22.4  0.2
+16,Soaking in 0.5% NaCl,26.4,26.2,28.0,26.9  1.0
+17,Soaking in 1.0% NaCl,37.6,36.2,42.8,38.9 3.5
+18,Soaking in 0.1%,24.6,27.1,29.0,26.9  2.2
+19,NaHCO3,,,,
+20,Soaking in 0.5%,21.4,21.2,21.6,21.4 0.2
+21,NaHCO3,,,,
+22,Soaking in 1.0%,17.2,18.6,16.2,17.31.2
+23,NaHCO3,,,,

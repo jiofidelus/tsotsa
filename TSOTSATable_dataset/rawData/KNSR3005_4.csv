@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,Pigment,Tentative identification,2max,Molecular ion,MS fragment ions (m/z),Samples
+1,,,(nm),[M*](m/z),,
+2,1,"Catechin-(4,8)-cyanidin-3-glucoside","284,525",737,"737,575,423,329,557,449",A (pericarp and endosperm)
+3,2,"Catechin-(4,8-cyanidin-3-","286,526",823,"575,423,557,449,329,287",A(pericarp and endosperm)
+4,,malonylglucoside,,,,
+5,3,"Epicatechin-(4,8)-cyanidin-3-",286.526,823,"575,423,557,449,329,287",A(pericarp)
+6,,malonylglucoside,,,,
+7,4,"Catechin-(4,8)-peonidin-3-glucoside","284,526",751,589.437.343.571.463,A(pericarp)
+8,5,"Epicatechin-(4,8)-peonidin-3-glucoside","284,526",751,"589,437,571",A(pericarp)
+9,6,"Catechin-(4,8)-pelargonidin-3-glucoside","284,515",721,"559,407,313,541,433,271",A(pericarp)
+10,7,"Catechin-(4,8)-cyanidin-3,5 diglucoside","285,529",899,"737.575,423.329","Bpericarp,Cendosperm"
+11,8,"Catechin-(4,8)-cyanidin-3-","284,526",985,737,B(pericarp)
+12,,malonylglucoside-5 glucoside,,,,
+13,9,"Epicatechin-(4,8)-cyanidin-3-","284,526",985,737,B(pericarp)
+14,,malonylglucoside-5glucoside,,,,

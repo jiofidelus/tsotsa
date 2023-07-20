@@ -1,0 +1,20 @@
+,0,1,2
+0,Retention time (min),Compound,m/z of the most intense ions(relative abundance %
+1,,Roasted Coffee,
+2,3.98,pyridine,"79100,8085,5250"
+3,6.35,2-methyl pyrimidine,"94100.6740,9540"
+4,8.50,2-furanmethanol,"81100,9870,9760"
+5,8.65,3-furanmethanol*,"81100,98(55.9750"
+6,10.36,"2,6-dimethyl pyrazine","108100,10930,10720"
+7,13.02,5-methyl-2-furancarboxaldehyde,"109100,110(505330"
+8,14.75,"2-furanmethanol, acetate",98(100.81(80.5340
+9,29.86,4-hidroxy-3-methylacetophenone,"150100,13570,10745"
+10,,Roasted barley,
+11,6.92,3-furaldehyde,"95100.96(30,6710"
+12,12.95,5-methyl-2-furancarboxaldehyde,"109100,11050,5330"
+13,17.54,Butyl-Benzene,"91100,9260,13430"
+14,22.53,Pentyl-Benzene,"91100,9255,148(30"
+15,27.33,Hexyl-Benzene,"91100,9255,16220"
+16,,Coffe/barley admixtures,
+17,3.77,Ethanedinitrile,"53100,585,855"
+18,14.34,"2-furanmethanol, acetate","98100,8190,5340)"

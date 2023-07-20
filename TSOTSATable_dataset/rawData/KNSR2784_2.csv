@@ -1,0 +1,19 @@
+,0,1,2,3
+0,Nut type,Nut type,Number of food items,Proportion (%) of total nuts
+1,,,containing this nut type,and nut-containing products
+2,,,(n),
+3,Almond,Almond,58,24.58
+4,Peanut,Peanut,41,17.37
+5,Mixed (no peanuts),Mixed (no peanuts),41,17.37
+6,Mixed (with,Mixed (with,40,16.95
+7,,peanuts),,
+8,Walnut,Walnut,11,4.66
+9,Cashew,Cashew,9,3.81
+10,Macadamia,Macadamia,8,3.39
+11,Unknown,Unknown,8,3.39
+12,Hazelnut,Hazelnut,6,2.54
+13,Pecan,Pecan,4,1.69
+14,Pistachio,Pistachio,3,1.27
+15,Pine,,3,1.27
+16,Chestnut,Chestnut,3,1.27
+17,Brazil,Brazil,1,0.42

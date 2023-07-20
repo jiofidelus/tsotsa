@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,Group,Uncertainty Components,Sources,,Typical valuea
+1,,,(Evaluation Methods),(Evaluation Methods),(Relative%)
+2,"I (uchar,sys)b",Ochratoxin A standard solution,Purity of the reference material,Purity of the reference material,0.34
+3,,Isotope ratio standard,Gravimetric preparation (mainly from repeatability evaluated by cross-check,Gravimetric preparation (mainly from repeatability evaluated by cross-check,0.27
+4,,,of independent sets of calibration solutions),of independent sets of calibration solutions),
+5,,,Gravimetric mixing (mainly from repeatability evaluated by cross-check of,Gravimetric mixing (mainly from repeatability evaluated by cross-check of,0.13
+6,,,multiple isotope ratio standards from each individual standard solution),multiple isotope ratio standards from each individual standard solution),
+7,,Peak area ratio of ochratoxin A and 13C2o-ochratoxin,Standard deviation of multiple LC/MS measurements,Standard deviation of multiple LC/MS measurements,0.73
+8,,A from LC/MS measurements of isotope ratio standard,,,
+9,"II (uchar,ran)c",Mass of sample taken for analysis,,Readability and linearity of the balance used (from the certificate of the balance),0.01
+10,,Mass of 13C2o-ochratoxin A solution spiked,,Readability and linearity of the balance used(from the certificate of the balance <0.01,
+11,,into sample taken for analysis,,,
+12,,Peak area ratio of ochratoxin A and 13C2o-ochratoxin A Standard deviation of multiple LC/MS measurements,,Peak area ratio of ochratoxin A and 13C2o-ochratoxin A Standard deviation of multiple LC/MS measurements,0.40.9
+13,,from LC/MS measurements of sample extract,,,

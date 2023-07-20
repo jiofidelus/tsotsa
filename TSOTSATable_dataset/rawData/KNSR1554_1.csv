@@ -1,0 +1,13 @@
+,0,1
+0,l. Calculation based on amino acid determination,l. Calculation based on amino acid determination
+1,Sum of amino acids (minus additional water),Sum of amino acids (minus additional water)
+2,2. Calculation based on nitrogen (N) determination multiplied by nitrogen conversion factor,
+3,Selection of nitrogen value,Selection of nitrogen value
+4,Total N (analysed through Kjeldahl),Total N (analysed through Kjeldahl)
+5,Protein N,Protein N
+6,Amino N,Amino N
+7,Selection of nitrogen conversion factor (NCF),Selection of nitrogen conversion factor (NCF)
+8,,N6.25
+9,N Jones factor,N Jones factor
+10,Nx adapted Jones factors,Nx adapted Jones factors
+11,N  lowered factors (5.7 or 5.33 together with specific factors),N  lowered factors (5.7 or 5.33 together with specific factors)

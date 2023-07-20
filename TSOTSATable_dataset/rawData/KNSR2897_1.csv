@@ -1,0 +1,24 @@
+,0,1
+0,ICP-MS,
+1,RF Power,1550W
+2,RF Matching,1.8V
+3,Sampling Depth,10mm
+4,"Plasma,Carrier and Makeup","15.0,1.09 and 0 L minrespectively"
+5,gas flowrates,
+6,Nebulizer,Concentric
+7,Spray Chamber,"Scott-type, double pass,2C"
+8,Cones,Ni
+9,Collision cell gas,"He,4.0 mL min"
+10,Integration time,75As*1.0s 40Ar35Cl+0.1s
+11,HPLC,
+12,Guard Column,"PRP-X10010um,4.1X 250mm"
+13,Analytical Column,PRP-X100
+14,Mobile Phases,"A:Ammonium acetate,10mmol LpH 8.35"
+15,,B:Milli-Qwater
+16,,"C:Ammonium oxalate,50 mmol LpH 8.35"
+17,Flowrate,1 mL min
+18,Gradient,0-2.00m in.100 % A 2.01-3.00 m in.60% B
+19,,"40% C 3.01-5.00 m in.20% B,80% C"
+20,,5.30-12.50 m in.100% A
+21,Injection Volume,50L
+22,Column Temperature,Room temperature

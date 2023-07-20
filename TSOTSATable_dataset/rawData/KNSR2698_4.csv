@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,Source,,DF,,Violaxanthin,Violaxanthin,,Neoxanthin,,Lutein/zeaxanthin,Lutein/zeaxanthin,,-Carotene,Total carotenoids
+1,,,,,ugg,ugg,gg,gg,,ugg,,,gg,ugg
+2,Season (S),,1,,433596.5*,433596.5*,,79723.5**,,238965.6**,,,155640.8**,1071559.7**
+3,Reps(S),,2,,,9307.8,,178.8,,1081.7,,,579.6,1040.3
+4,Varieties (V),,21,,,34233.2**,,5440.4**,,24955.4**,24955.4**,,1827.6ns,148063.6**
+5,SV,,21,,,26326.6**,,2090.9*,,7941.8ns,7941.8ns,,3629.0**,90282.4**
+6,Error,,42,,,3820.1,,1151.2,,4769.0,,,1113.4,25346.3
+7,Source,,DF,,Ascorbic acid,Ascorbic acid,Calcium,Calcium,Iron,Zincgg-1,Zincgg-1,,Total glucosinolates,Dry matter
+8,,,,,(mgg-1),(mgg-1),(mgg-1),(mgg-1),(gg-),,,,(molg-1,(%)
+9,Season (S),,1,,149.3**,,2855.2**,2855.2**,4329.5ns,337.3*,337.3*,,390.4ns,25.00**
+10,Reps (S),,2,,1.1,,1.0,,246.4,,8.3,,37.9,0.02
+11,Varieties(V,,21,,7.9**,,26.7**,26.7**,3193.6**,44.7*,44.7*,,28.9**,0.50**
+12,SV,,21,,5.2ns,,17.6**,17.6**,3193.6**,103.6**,103.6**,,19.1**,0.26ns
+13,Error,,42,,3.0,,7.4,,491.3,24.8,24.8,,7.6,0.18
+14,Source,DF,B-Carotene-,B-Carotene-,B-Carotene-,Total carotenoid-,,Ascorbic acid-yield,Ascorbic acid-yield,Calcium-yield,Calcium-yield,Iron-yield,Zinc-yield,Total glucosinolate-
+15,,,yielda (gha-1),yielda (gha-1),yielda (gha-1),yieldgha-,,(kgha-1),,kgha-1,kgha-1,gha-,gha-,yieldmolha-
+16,Season (S),1,24723.0**,24723.0**,,365199.6**,,5.6ns,,361.3**,,2618.2ns,0.05ns,160.1*
+17,Reps(S),2,,218.7,,3760.0,,1.3,,1.6,,182.3,10.4,6.2
+18,Varieties (E,21,,514.7*,,29206.4**,,2.2ns,,6.9*,,515.9**,54.0**,7.0**
+19,SV,21,,812.5**,,27206.4**,,2.7ns,,7.3*,,1045.8**,60.7**,12.1**
+20,Error,42,,236.4,,6503.0,,1.6,,3.5,,135.3,10.3,2.9
+21,Source,,,,,,,,DF,,,,,Yieldtha-
+22,Season (S),,,,,,,,1,,,,,131.91**
+23,Reps(S),,,,,,,,4,,,,,1.16
+24,VarietiesE,,,,,,,,21,,,,,3.60**
+25,SV,,,,,,,,21,,,,,3.60**
+26,Error,,,,,,,,84,,,,,1.06

@@ -1,0 +1,66 @@
+,0,1,2,3,4,5
+0,Bioactive compound,Food,Processing,In vitro digestion,Effect on bioaccessibility,Reference
+1,,,,method,,
+2,,,Gari:,,,
+3,,,Fermentation+roasting,,,
+4,,,1652C/10min),,,
+5,,,Fufu:,, solubility and cell uptake in transgenic,
+6,,,Fermentation+boiling,,,
+7,"- and -carotene,",Orange juice industrially,TT:,Solubility,"Industrial extraction  BAcs carotenoids, Stinco et al.","Industrial extraction  BAcs carotenoids, Stinco et al."
+8,"-cryptoxanthin,",processed or hand-squeezed,Pasteurization (99 C),,but pasteurization reduced them to the(2012),but pasteurization reduced them to the(2012)
+9,zeaxanthin and lutein,,15s),,level of hand-squeezed,
+10,ree carotenoids and,Red and green pungent,TT:,Solubility,Boiling and grilling  most free and,Victoria
+11,mono- and diesterified peppers,mono- and diesterified peppers,Boiled (94 2C/12.5min),,esterified carotenoids. Fat  less polar,Campos et al.
+12,xanthophylls,,Grilled,,"carotenoids (carotenes,",2013
+13,,,(2102C/13.2min),,-cryptoxanthin and esterified,
+14,,,,,xanthophylls),
+15,Lycopene,Tomato pulp with/without oil,TT.,Solubility,HPP alone no effect,(2013)
+16,,"coconut,olive or fish5%",Microwave,,TT alone (t BAcs only at 1202C),(2013)
+17,,,"70C,90C120C/",,HPP followed by TT higher  BAcs at all,
+18,,,20min),,temperatures with oil,
+19,,,HPP:,,,
+20,,,100bar/37C,,,
+21,"Capsanthin,zeaxanthin,","Yellow, red and orange chili",TT:,Solubility, BAcs following processing that,Pugliese et al.
+22,"antheraxanthin,",peppers,Boiling (10min,,compensates the lower contents in total(2013),compensates the lower contents in total(2013)
+23,"violaxanthin, lutein,",,,,carotenoids in processed peppers.,
+24,B-carotene and,,,,"Evident for -carotene, zeaxanthin and",
+25,-cryptoxanthin,,,,-cryptoxanthin,
+26,"Capsanthin,zeaxanthin,",Red chili peppers,TT:,Solubility,"capsanthin,zeaxanthin and",Pugliese et al.
+27,"antheraxanthin,",,,,violaxanthin,2014
+28,"violaxanthin,",,Boiling (10min),, -carotene (in several cultivars) and,
+29,B-carotene and,,,,-cryptoxanthin (all cultivars),
+30,-cryptoxanthin,,,,,
+31,ycopene,"Red tomatoes (fresh,paste,",TT: Cooking (70-802C),Dialysis, BAcs in paste and dried vs.fresh,Kamiloglu
+32,,"puree, juice, dried, chopped,",5-70min),,tomato,et al.2014
+33,,and chopped and cooked),,,No differences in other treatments vs.,
+34,,,,,fresh tomato,
+35,"3-carotene and lycopene Red and orange carrots, red","3-carotene and lycopene Red and orange carrots, red",TT:,Solubility,Chromoplast:,Palmero et al.
+36,,and atomic red tomatoes,,,,2014
+37,,(chromoplast and cell clusters)Chromoplast,(chromoplast and cell clusters)Chromoplast,,No effect in -carotene BAcs (orange,
+38,,,,,"carrot and lycopene (red carrot, but ",
+39,,,,,lycopene BAcs (tomato),
+40,,,"65,75,85 and 952C/",,Cell cluster:,
+41,,,10min),,,
+42,,,Cell clusters,,Low intensity TT  -carotene and,
+43,,,"95,105,115 and 125C/",,"lycopene BAcs,but high intensity TT",
+44,,,25min),,only  -carotene BAcs,
+45,3-cryptoxanthin,Orange juice,TT:,Dialysis, -cryptoxanthin BAcs,Aschoff et al.
+46,,,Pasteurization,,,(2015
+47,,,90C/54s),,,(2015
+48,"Lutein, neolutein a+b,",Kiwifruit puree,TT:,Solubility and dialysis No effect on carotenoid BAcs,Solubility and dialysis No effect on carotenoid BAcs,Benlloch-
+49,"-carotene,",,Microwave,,,Tinoco et al.
+50,"neoxanthin,",,"1000 W,340s",,,2015
+51,violaxanthin),,Pasteurization,,,
+52,x-and -carotene,Pro-vitamin A biofortified,TT:,Solubility and,BAcs<4%,Ribeiro et al
+53,,pumpkin,"Boiling (5,10, 20min)",dialysis/Caco-2 cells,"In general, boiling gets better BAcs than(2015)","In general, boiling gets better BAcs than(2015)"
+54,,,,,steaming and boiling with sugar added,
+55,,,"Steaming (7,14, 28min)",,time of cookingBAcs,
+56,,,Boiling+sucrose,,,
+57,,,addition(60%,,,
+58,Violaxanthin,"Fruit juice,milk-based fruit",TT,"Solubility and dialysisIn general, all carotenoids BAcs,withRodriguez-","Solubility and dialysisIn general, all carotenoids BAcs,withRodriguez-","Solubility and dialysisIn general, all carotenoids BAcs,withRodriguez-"
+59,"+neoxanthin,",beverages and soy milk-based,90C/60s,,"any treatment, mainly with TT, except Roque et al.","any treatment, mainly with TT, except Roque et al."
+60,"antheraxanthin, lutein, fruit beverages","antheraxanthin, lutein, fruit beverages",HPP,,violaxanthin +neoxanthin in all,(2016)
+61,zeaxanthin-and,,(400 MPa/402C/5min),,beverages and antheraxanthin and,
+62,"-cryptoxanthin, -",,HIPEF,,lutein in soymilk-fruit with HIPEF and,
+63,and -carotene,,"35 kVcm-1,4 ms bipolar",,HPP and lutein in milk-fruit with HIPEF,
+64,,,"pulses,200Hz,1800 ms",,,

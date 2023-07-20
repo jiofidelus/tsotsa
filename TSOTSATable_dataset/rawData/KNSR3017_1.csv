@@ -1,0 +1,34 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,Sample,E-,Coumarin,Eugenol,o-methoxy-,Cinnamyl,Cinnamyl,(E)-,Commercial information about origin,Proposed classification,Daily dose of
+1,,,cinnamaldehyde,,,cinnamaldehyde,alcohol,alcohol,cinnamic,(when available),,coumarin (mg)
+2,,,,,,,,,acid,,,
+3,,,,,mg/g,,,,,,,
+4,,,,,SD,,,,,,,
+5,,1,15.8  0.3,1.7  0.1,,0.16  0.01,0.24  0.02,,0.53  0.03,Southeast Asia Cinnamon,Cassia,
+6,,2,32.5  0.2,6.1  0.1,,0.94  0.01,0.24  0.03,,0.65  0.02,Vietnam Cinnamon,Cassia,
+7,,3,7.8  0.1,1.8 0.1,,,,,0.65  0.02,,Cassia,
+8,,4,4.7  0.1,1.3  0.1,,,,,0.51  0.01,,Cassia,
+9,,5,6.6  0.1,,0.01,0.28  0.02,0.12  0.01,,0.180.01,,C.verum,
+10,FOOD,6,6.0  0.1,,0.01,0.23  0.01,0.12  0.01,,0.19  0.01,"Ceylon Cinnamon, Madagascar",C.verum,
+11,,7,10.40.1,,-,,,,1.39  0.04,,Unclassified,
+12,,8,10.7  0.1,2.1  0.1,,,,,0.55  0.03,,Cassia,
+13,,9,5.2  0.3,,0.02,0.22  0.01,-,-,0.21  0.01,Ceylon Cinnamon,C.verum,
+14,,10,11.7 0.1,2.8  0.1,,,,,0.43  0.04,"Cinnamomum burmannii, Indonesia",Cassia,
+15,,11,9.6  0.4,2.4  0.1,,1.70  0.10,0.20  0.01,,0.78  0.07,Vietnam Cinnamon,Cassia,
+16,,12,9.6  0.4,2.4  0.1,,,,,0.570.01,Cinnamomum verum,Cassia,
+17,,13,10.8  0.2,1.7  0.1,,,0.33  0.01,,0.79  0.05,Ceylon Cinnamon,Cassia,
+18,,14,9.8  0.2,2.6  0.1,,0.31 0.04,,,0.87  0.02,"Cinnamon Cassia, Thailand",Cassia,
+19,,15,0.2  0.1,1.50.1,,-,,,0.62  0.04,Cinnamomum zeylanicum,Cassia,2.4
+20,,16,,,,,,-,,Cinnamomum verum,No cinnamon detected,
+21,,17,6.4  0.1,,0.01,0.27  0.02,,-,0.28  0.02,Cinnamomum verum,C.verum,
+22,,18,3.1  0.1,,0.01,0.14  0.01,0.13  0.02,,0.18  0.01,Ceylon Cinnamon,C. verum,
+23,,19,,,,-,-,-,,"Cinnamomum zeylanicum, C. cassia",No cinnamon detected,
+24,DIETARY,20,6.00.1,1.2  0.1,,-,,,0.20 0.01,Cinnamomum cassia,Cassia,0.65
+25,SUPPLEMENTS,21,,-,,-,-,-,,Ceylon Cinnamon,No cinnamon detected,
+26,,22,1.2  0.1,-,-,-,-,-,4.10  0.31,Cinnamomum cassia Presl,Unclassified,
+27,,.23,2.0  0.1,-,,-,-,-,3.74  0.20,Cinnamomum cassia Presl,Unclassified,
+28,,24,,,-,-,-,-,,Ceylon Cinnamon,No cinnamon detected,
+29,,26,20.0  0.7,3.4  0.1,-,,,,0.50  0.08,"Cinnamomum burmannii, Indonesia",Cassia,3.5
+30,,26,12.9  0.2,2.5  0.1,,-,0.200.03,,0.43  0.02,Ceylon Cinnamon,Cassia,4.8
+31,,28,19.0  0.1,2.7  0.1,,,,,0.50  0.06,Cinnamomum cassia,Cassia,8.4
+32,,28,17.10.1,3.2 0.1,,,0.19 0.01,,0.67  0.03,Cinnamomum cassia,Cassia,8.4

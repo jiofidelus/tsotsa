@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,,Yes WLP,No WLP,Mean difference(95%,P-value
+1,,,,CI2),
+2,,Mean  Standard error,Mean  Standard error,,
+3,Energy (kcal),166635,159830,"67.6(5.5,129.6)",0.033
+4,Total Fat (g),621.64,581.42,"3.3(0.4,6.2",0.026
+5,Saturated Fat,230.60,210.52,"1.5(0.4,2.5",0.007
+6,(g),,,,
+7,Added sugar,140.45,130.39,"1.1 (0.3,1.9)",0.006
+8,(tsp),,,,
+9,Sodium (mg),253373,231463,"218.9(89.5,348.3)",0.001

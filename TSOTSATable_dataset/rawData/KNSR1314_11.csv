@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7
+0,Test materials,Light coconut milk,Light coconut milk,Coconut milk,,Coconut cream,Coconut milk pow-,Coconut milk pow-
+1,,,,,,,der,
+2,Laboratories remaining after eliminating outliers,16,16,14,17,15,17,17
+3,"Mean value, %",8.84,10.57,20.90,27.01,28.93,98.82,99.25
+4,"Repeatability standard deviation, Sr, %",0.02,0.03,0.12,0.49,0.21,0.04,0.10
+5,"Repeatability relative standard deviation, RSDr, %",0.21,0.30,0.60,1.83,0.74,0.04,0.10
+6,"Repeatability limit, r (2.8S), %",0.05,0.09,0.35,1.38,0.6,0.12,0.28
+7,"Reproducibility standard deviation, SR, %",0.04,0.11,0.22,0.60,0.33,0.21,0.31
+8,"Reproducibility relative standard deviation, RSDR, %",0.50,1.05,1.06,2.24,1.12,0.21,0.32
+9,"Reproducibility limit, R (=2.8SR),%",0.12,0.31,0.62,1.69,0.91,0.59,0.88

@@ -1,0 +1,41 @@
+,0,1,2,3,4,5
+0,Selenium,,,,,Selenium
+1,Content2,,FDA-TDS,,Food,Content2
+2,ug/100g),,Number,Composite,Composite,ug/100g)
+3,"Yogurt, Strawberry",,9,"Yogurt, Strawberry","Yogurt, Strawberry",2.4
+4,"Beans, Pinto",,38,"Beans, Pinto","Beans, Pinto",34.2
+5,"Pork and Beans, Canned",,39,"Pork and Beans, Canned","Pork and Beans, Canned",2.4
+6,"Beans, Navy",,43,"Beans, Navy","Beans, Navy",6.0
+7,"Peas, Green Boiled",,45,"Peas, Green Boiled","Peas, Green Boiled",0.4
+8,,,52,Farina,,11.0
+9,,,55,Corn,,1.6
+10,"Popcorn, popped in oil",,57,"Popcorn, popped in oil","Popcorn, popped in oil",6.7
+11,Watermelon,,81,Watermelon,Watermelon,0.09
+12,Orange Juice,,98,Orange Juice,Orange Juice,0.08
+13,Apple Juice,,99,Apple Juice,Apple Juice,0.09
+14,Cole Slaw,,111,Cole Slaw,Cole Slaw,1.68
+15,Broccoli,,113,Broccoli,,1.52
+16,Tomato/Vegetable Juice,,118,Tomato/Vegetable Juice,Tomato/Vegetable Juice,0.88
+17,Tomato Sauce,,119,Tomato Sauce,Tomato Sauce,1.05
+18,Green Beans,,121,Green Beans,Green Beans,0.18
+19,"Potatoes, French Fries",,134,"Potatoes, French Fries","Potatoes, French Fries",4.2
+20,"Potatoes, Mashed",,135,"Potatoes, Mashed","Potatoes, Mashed",1.8
+21,"Potatoes, Baked",,137,"Potatoes, Baked","Potatoes, Baked",1.3
+22,"Sweet Potato, Baked/Skinned",,140,"Sweet Potato, Baked/Skinned","Sweet Potato, Baked/Skinned",0.47
+23,"Sweet Potato, Candied",,141,"Sweet Potato, Candied","Sweet Potato, Candied",0.41
+24,Chili Con Carne,,145,Chili Con Carne,Chili Con Carne,3.1
+25,Chow Mein,,153,Chow Mein,Chow Mein,10.8
+26,"Cake, Chocolate Coconut Frost",,178,"Cake, Chocolate Coconut Frost","Cake, Chocolate Coconut Frost",3.2
+27,"Cake, Yellow",,179,"Cake, Yellow","Cake, Yellow",3.9
+28,"Cookies, Chocolate Chip",,183,"Cookies, Chocolate Chip","Cookies, Chocolate Chip",3.5
+29,"Cookies, Oreo",,184,"Cookies, Oreo","Cookies, Oreo",4.1
+30,Gelatin Dessert,,190,Gelatin Dessert,Gelatin Dessert,0.33
+31,Cola Beverage,,194,Cola Beverage,Cola Beverage,0.04
+32,,,195,Coffee,,0.09
+33,,,197,Tea,,0
+34,,,198,Beer,,1.31
+35,,,199,Wine,,0.14
+36,Item number in FDA-TDs food list as described in Pennington,1.,,,,
+37,"et al. J. American Dietetic Association, (1986) 86, 867-889).",,,,,
+38,Each value represents average of duplicate analyses carried,2.,,,,
+39,out on a single composite for each food item.,,,out on a single composite for each food item.,,

@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Clusters,1(Other),2(Citrus),3(Dark berry),,4(Green leafy/orange vegetables),,5(Peas/lentils/onion),6(Legumes,7(Lycopene/red),8(Parsley/kale
+1,Rose(Rosaceae),10,0,2,0,,0,,0,0,0
+2,Cabbage (Cruciferae),10,0,0,5,,0,,0,0,1
+3,Gourd,7,0,0,2,,0,,0,1,0
+4,(Cucurbitaceae),5,,,,,,,,,
+5,Sunflower,5,0,0,3,,0,,0,0,0
+6,(Asteraceae/,,,,,,,,,,
+7,Compositae),,,,,,,,,,
+8,Nightshade,4,0,0,0,,0,,0,1,0
+9,(Solanaceae),,,,,,,,,,
+10,Legume,3,0,0,0,,6,,4,0,0
+11,(Leguminosae),,,,0,,,,,,
+12,Amaryllis,2,0,0,0,,2,,0,0,0
+13,(Ameryllidaceae),,,,,,,,,,
+14,Carrot/parsley,2,0,0,1,,0,,0,0,1
+15,(Umbelliferae,,,,,,,,,,
+16,Grape (Vitaceae),2,0,0,0,,0,0,0,0,0
+17,Goosefoot,1,0,0,3,,0,,0,0,0
+18,(Chenopodiaceae),,,,,,,,,,
+19,Heath (Ericaceae),0,0,1,0,,1,,0,0,0
+20,Rutaceae,0,8,0,0,,0,0,0,0,0

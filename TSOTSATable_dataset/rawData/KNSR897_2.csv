@@ -1,0 +1,21 @@
+,0,1,2,3,4
+0,Parameter,na,NO3,SCN,NO
+1,Number of plates (N m-1)b,10,132707,92225,55531
+2,"Resolution (Rs, NO3: SCN-",10,5.49,-,-
+3,"Resolution (Rs, SCN- : NO2-)c",10,-,4.00,-
+4,"Resolution (Rs,NO: BrO-)",10,-,,5.91
+5,Instrumental precision  corrected peak area (% RSD),10,3.12,2.63,2.45
+6,Instrumental precision  migration time (% RSD),10,2.34,2.68,2.88
+7,Intra-day precision -corrected peak area (% RSD),10,4.16,3.50,3.27
+8,Intra-day precision - migration time (% RSD),10,3.11,3.58,3.84
+9,Inter-day precision - corrected peak area (% RSD),9,6.09,7.92,5.40
+10,Inter-day precision - migration time (% RSD),9,8.72,8.04,8.63
+11,Linearity -- linear range (mg L-1),,0.14.0,,
+12,Linearity-slope,,1.1756,0.5392,1.0000
+13,Linearity - intercept,,0.0564,0.0048,0.0072
+14,"Linearity -- coefficient of regression, R2",,0.9943,0.9929,0.07
+15,LOQ (mg L-1),,0.05,0.06,0.07
+16,LOD (mg L-1),,0.03,0.04,0.04
+17,Recovery (% at 0.5 mg L- level),,85.9  0.4,94.7  0.3,93.2  0.9
+18,Recovery (% at 2.0 mg L-1 level),,92.2  0.2,93.4  0.1,93.2  0.1
+19,Recovery (% at 3.5 mg L-1 level),,103.40.4,102.8  0.2,103.8  0.5

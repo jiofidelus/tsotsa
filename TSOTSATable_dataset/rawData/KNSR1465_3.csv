@@ -1,0 +1,8 @@
+,0,1,2,3
+0,Treatment,pH,Soluble solids,Titration acidity
+1,,,brix,g/100mL)
+2,No treatment,3.35a0.03ab,16.250.43a,1.160.07a
+3,12.5J/mL UV dose,3.350.03a,16.380.43a,1.180.07a
+4,34.4 J/mL UV dose,3.370.03a,15.880.43a,1.140.07a
+5,62.4J/mL UV dose,3.360.03a,16.000.43a,1.140.07a
+6,"Heat90C,2 min",3.430.03a,16.500.43a,1.190.07a

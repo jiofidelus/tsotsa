@@ -1,0 +1,5 @@
+,0,1,2,3,4
+0,Element,Wavelength (nm),Band width (nm),Flame,Sensitivity (g/mL)
+1,Cadmium,228.8,0.5,Air-CH2,0.009
+2,Nickel,232.00,0.2,Air-CH2,0.04
+3,Lead,217.00,1.0,Air-CH2,0.16

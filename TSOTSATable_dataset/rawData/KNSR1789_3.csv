@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,,TP(mg/100g),DP(mg/100 g),,pvalue
+1,,Mean (SD),Mean(SD,%,
+2,White wheat flour,116.7 (1.0),50.7 (9.5),43,<0.001
+3,Wheat dough unsoured,76.9 (2.2),42.8 (3.8),56,<0.001
+4,Wheat sourdough,79.4 (1.7),47.7 (3.7),60,<0.001
+5,Home-baked wheat bread unsoured,82.2 (1.7),38.1 (3.0),46,<0.001
+6,Home-baked sougdough wheat bread,81.5 (1.6),67.4 (5.0),83,<0.001
+7,Bakery wheat bread,82.5 (2.6),42.3 (8.4),51,<0.001
+8,Wholegrain rye flour,300.8 (8.0),135.0 (7.8),45,<0.001
+9,Wholegrain rye sourdough,160.7 (2.4),159.9(8.4),99,0.754
+10,Home-baked wholegrain rye bread,171.9 (4.0),134.4 (3.9),78,<0.001
+11,Bakery rye bread(incl.wheat),186.6(3.5),128.7 (6.4),69,<0.001
+12,Bakery wholegrain rye bread,203.8 (3.4),145.4 (9.5),71,<0.001
+13,Barley grit,153.7 (2.6),43.8 (4.7),29,<0.001
+14,Barley porridge,29.0 (3.4),20.1 (3.2),69,<0.001

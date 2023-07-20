@@ -1,0 +1,71 @@
+,0,1,2,3,4
+0,Phenolics,Phenolics,tr(min),MS (m/z),MS/MS (m/z)
+1,Anthocyanins,Anthocyanins,,M*,Fragment ion
+2,,Non-acylated glucosides,9.89,,
+3,Cy-3-glc,Cy-3-glc,11.53,449,287
+4,Pt-3-glc,Pt-3-glc,12.85,479,317
+5,Pn-3-glc,Pn-3-glc,14.62,463,301
+6,Mv-3-glc,Mv-3-glc,15.88,493,331
+7,,Acetylglucosides,,,
+8,Dp-3-acetylglc,Dp-3-acetylglc,20.56,507,303
+9,Pt-3-acetylglc,Pt-3-acetylglc,20.56,505,317
+10,Pn-3-acetylglc,Mv-3-acetylglc,23.13,505,301
+11,Mv-3-acetylglc,Mv-3-acetylglc,24.35,535,331
+12,,p-Coumaroylglucosides,,,
+13,,Dp-3-p-coumglc,22.50,611,303
+14,,Cy-3-p-coumglc,26.30,595,287
+15,,Pn-3-p-coumglc,26.30,625,317
+16,,Pn-3-p-coumglc,28.98,609,301
+17,,Mv-3-p-coumglc,28.90,639,331
+18,,Pyranoanthocyanins,,,
+19,Vitisin-A,Vitisin-A,18.04,561,399
+20,Ac-vitisin-A,Ac-vitisin-A,19.66,603,399
+21,p-Cm-vitisin-A,p-Cm-vitisin-A,19.16,707,399
+22,Vitisin-B,Vitisin-B,19.16,559,355
+23,Ac-vitisin-B,Ac-vitisin-B,21.28,559,355
+24,p-Cm-vitisin-B,p-Cm-vitisin-B,24.78,663,355
+25,,10-carboxy-pyranoPn-3-glc,24.78,531,369
+26,,10-catechin-pyranoMv-3-glc,,805,"643,491"
+27,,10-epicatechin-pyranoMv-3-gle,,805,"643,491"
+28,,10-(procyanidin dimer)-,,1093,"931,803"
+29,,pyranoMv-3-glc,,,
+30,,10-(procyanidin dimer)-,,1135,"931,845"
+31,,pyranoMv-3-acetylglc,,,
+32,,10-DHP-pymv-3-glc,30.85,625,463
+33,,10-DHP-pymv-3-acglc,35.26,667,463
+34,,10-DHP-pymv-3-cmglc,35.26,609,447
+35,,10-MHP-pymv-3-acglc,33.54,609,447
+36,,10-MHP-pymv-3-acglc,35.91,651,447
+37,,10-MHP-pymv-3-cmglc,37.98,755,447
+38,,(epi)catechin-ethyl-Mv-3-,,955,"665, 357"
+39,,p-coumaroylglc,,,
+40,Phenolics,Phenolics,tr(min),MS (m/z),MS/MS (m/z)
+41,Flavonols,Flavonols,,[M+H]*,Fragment ion
+42,M-glcU,M-glcU,22.56,495,319
+43,M-gal,M-gal,23.04,481,319
+44,M-glc,M-glc,23.79,481,319
+45,Q-glcU,Q-glcU,29.25,479,303
+46,Q-glc,Q-glc,30.36,465,303
+47,L-glc,L-glc,34.08,495,333
+48,M,M,34.08,319,
+49,K-glcU,K-glcU,35.51,463,287
+50,K-glc,K-glc,36.61,449,287
+51,I-glc,I-glc,39.58,479,317
+52,S-glc,S-glc,41.30,509,347
+53,Q,Q,44.77,303,
+54,L,,48.44,333,
+55,K,K,52.73,287,
+56,I,,56.03,317,
+57,,,57.41,347,
+58,,,,,
+59,Flavan-3-ols,Flavan-3-ols,,,
+60,,Procyanidin B2,7.76,579,291
+61,Catechin,Catechin,8.61,291,"273,165,139,"
+62,,,,,123
+63, Procyanidin B1, Procyanidin B1,11.20,579,291
+64,Epicatechin,Epicatechin,14.94,291,"273, 165, 139,"
+65,,,,,123
+66,Phenolics,Phenolics,t(min,MS (m/z),MS/MS(m/z)
+67,Hydroxycinnamic,Hydroxycinnamic,,[M-H],Fragment ions
+68,acids derivatives,acids derivatives,,,
+69,trans-Caftaric acid,trans-Caftaric acid,7.33,311,"179,149"

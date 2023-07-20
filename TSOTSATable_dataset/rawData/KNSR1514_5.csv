@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,HPLC retention,TAG structure,% HPLC,Molecular,ESI-MS,Partition,Double
+1,time(min),,abundance,weight,M+23,number(PN),bonds(n)
+2,28.13,Trilinoleoyl-glycerol LLL*(linolenoyl-linoleoyl-palmitoyl-glycerolLnLP*,2.64,878/880,901/903,42/44,6/5
+3,,and Dilinoleoyl-oleoyl-glycerol LLO*),,,,,
+4,29.30,Dilinoleoyl-oleoyl-glycerolLLO*(Dilinoleoyl-palmitoyl-glycerol LLP*),19.00,880,903,44,5
+5,30.43,Dioleoyl-linoleoyl-glycerolLOO*(linoleoyl-palmitoyl-oleoyl-glycerol LPO*),38.24,882,905,46,4
+6,31.55,Trioleoyl-glycerol o0o*,23.98,884,907,48,3

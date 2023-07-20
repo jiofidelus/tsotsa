@@ -1,0 +1,14 @@
+,0,1,2
+0,Carotenoid,M/z,
+1,,Molecular ion,Fragments
+2,Neoxanthin,600,"221,181,172"
+3,Violaxanthin,600,"520,352,221,181"
+4,Lutein,568,"550.476,193.153"
+5,Zeaxanthin,568,"462, 153"
+6,Rubixanthin,552,"460,153"
+7,-Cryptoxanthin,552,"460,446, 399"
+8,Lycopene,536,"467,444,430"
+9,3-Caroteno-5.6-epoxide,552,"205,165"
+10,y-Carotene,536,"467,444,430"
+11,a-Carotene,536,444
+12,-Carotene,536,"444, 430, 399"

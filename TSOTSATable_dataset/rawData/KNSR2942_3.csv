@@ -1,0 +1,29 @@
+,0,1
+0,,Assignmenta
+1,"26,29,33",-(CH)n-
+2,"40,42",-CH2-CH-O-CO-R
+3,56,"Ar-OCH3-OCH3,CH-O-CH-"
+4,65,"-CHO--CH-O-CO-R,-CHOH(overlapping C6 polysaccharide)"
+5,72,">CHO-CO-R,>C-OH,-CHOH-overlapping C2,3,5 polysaccharide"
+6,74,"C-OR-,Ar-CHOH-,-CHOH-overlapping C2,3,5 polysaccharide)"
+7,82,"-CHOH-,-CHOAr-(overlapping C4 polysaccharide)"
+8,88,"-CH-O-,-CHOH-,C-OR,C-R (overlapping C4-polysaccharide)"
+9,"105,115,120-135,148,156","Aromatic-CH-,-CH=CH-Ar-C-(overlapping C1-polysaccharide)"
+10,168,-CH-O-C=OR
+11,173,>CH-O-C=OR
+12,179,-CH2-COOH
+13,209,C=0 keto group
+14,FT-IR/cm1,Assignmenta
+15,3345-3355,str(O-H-O
+16,2925,str asymmetricCH)
+17,2852,str symmetric(CH)
+18,"1473,1463,1313,723",bend(CH
+19,1229,str(C-C chain
+20,1720-1750,str(C=O)ester group (with a shoulder~1700 str(C=O-HH-bonded ester groups
+21,1690-1710,str(C=O)free acid group
+22,"1167,1103",str asymmetric and symmetric (C-O-C) ester
+23,1624,str(C=C phenolic acid
+24,"1606,1588",str(C-C aromatic)
+25,"1551,1515,1440",str(C-C aromatic conjugated with C=C
+26,830,bend oop(C-H and C-Caromatic
+27,"1247,1063,1030",str(C-O)polysaccharides

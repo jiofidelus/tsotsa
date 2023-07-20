@@ -1,0 +1,22 @@
+,0,1,2,3,4
+0,,Roodeplaat,Giyani,Hazyview,Empangeni
+1,Province,Gauteng,Limpopo,Mpumalanga,KwaZulu-Natal
+2,Type of site,Research Institute,Community garden,Farmer's plot,Agricultural College
+3,Location,25.604S;28.345E,23.300S;30.533E,25.049S;31.144E,28.725S;31.898E
+4,Climatic area,Warm temperate,Dry subtropical,Humid subtropical,Humid subtropical
+5,Altitude,1164m,716m,564m,100m
+6,Growth period,5 months,5 months,6 months (winter),4.5 months
+7,TemperatureC,21.6,24.5,19.5,24.8
+8,Rainfall (mm)a,31.3,39.6,27.0,94.1
+9,Humidity (%)a,51.7,59.1,59.4,71.7
+10,Radiation(MJ/m/daya,22.2,18.5,13.6,19.4
+11,Irrigation,Sprinkler(400 mm,Furrow,Furrow,Sprinkler
+12,Irrigation frequency,1-2 times/week (depending,Infrequent,Infrequent,1-2 times/week (depending
+13,,on rainfall),,,on rainfall)
+14,Fertilization preplant,"200 kg/ha 1:0:1(18.5% N,0%","500 kg/ha 2:3:2 (8.5% N,13%","150 kg/ha 2:3:4 (6.7% N,10%","500 kg/ha 2:3:2 (8.5% N,13%"
+15,,"P,18.5% K)","P, 8.5% K)","P, 13.3% K)","P, 8.5% K)"
+16,Fertilization:,150 kg/ha limestone,150 kg/ha LAN (28% N),"268 kg/ha LAN (28% N),",150 kg/ha LAN (28% N)
+17,top dressing,ammonium nitrate (LAN;28%,,170 kg/ha potassium chloride,
+18,,N,,KCI;50% K),
+19,Total nutrient,"N=79,P=0,K=37","N=84,P=64,K=42","N=85,P=15,K=105","N=84,P=64,K=42"
+20,pplication (kg/ha,,,,

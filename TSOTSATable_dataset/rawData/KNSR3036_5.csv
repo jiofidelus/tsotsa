@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,Accession/,Sugars g/kg fresh wt,Sugars g/kg fresh wt,,Organic acids,Organic acids
+1,cultivar,,,,g/kg fresh wt,g/kg fresh wt
+2,,Fructose,Glucose,Sucrose,Citric,Malic
+3,A2,30.9 e,25.1 bc,9.0c,18.2a,0.81 d
+4,A9,27.3 f,22.5 cd,8.0 d,15.8 b,0.63 e
+5,A10,30.8 e,22.3d,7.9d,13.6c,1.14b
+6,A12,32.0 de,25.7b,10.0 b,12.4 d,0.73e
+7,A14,33.9 bc,23.8b-d,9.2c,11.4e,1.15 ab
+8,A17,31.4 e,24.4 b-d,7.5de,13.9c,0.71 e
+9,A20,30.4 e,22.1 d,6.7e,13.7c,0.73e
+10,A22,33.3 cd,24.4 b-d,10.6b,12.3d,0.51f
+11,Heritage,35.1b,24.3 b-d,10.2 b,10.5 f,1.16a
+12,Tulameen,36.8 a,28.3 a,12.2 a,9.6 g,0.91c
+13,LSDo.01,2.25,3.60,1.11,0.77,0.10

@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,Species(or food),Tissue,Melatonin,Extraction/purification,Analytical method,References
+1,Lycopresicon esculentum,Fruit,2pg/g,"Acetone-water-glycerol,",GC-MS,Van Tassel et al.2001
+2,(tomato),,,"tricine,NaOH pH 8",,
+3,,,8-16pg/g,,RIA,
+4,Lycopresicon esculentum,Fruit,1068.5 pg/g (fw),Ether,HPLC-fluorescence,Pape and Luening2006
+5,(tomato),,,,,
+6,,,982.1 pg/g,,ELISA,
+7,Olive oil,Oil,53-119 pg/mL,Methanol/chloroform,ELISA,De la Puerta et al.2007
+8,Vitis vinifera,Grape skin,5-965pg/g,Buffer and SPE,ELISA,Iriti et al.2006
+9,Prunus cerasus (tart cherries,Rind and meta,1.07-19.59 ng/g,Buffer pH=r Chloroform,HPLC-EC,Burkhardt et al.2001
+10,,of the fruit,,,,
+11,Juglans regia L.(walnuts),Seed,3.5ng/g,Buffer and methanol,HPLC-EC,Reiter et al.2005
+12,Prunus amygdalus(almonds),Seed,39 ng/g dry seed,Ethanol,HPLC-EC,Manchester et al.2000
+13,Helianthus annuus (sunflower),Seed,29 ng/g dry seed,Ethanol,HPLC-EC,Manchester et al.2000
+14,Brassica nigra (black mustard),Seed,129 ng/g dry seed,Ethanol,HPLC-EC,Manchester et al.2000
+15,Brassica hirta (white mustard),Seed,189 ng/g dry seed,Ethanol,HPLC-EC,Manchester et al.2000
+16,Chinese medicinal herbs,Herb,12-3771 ng/g,Methanol/water and C1s-SPE,HPLC-FD MS-confirmed,Chen et al.2003
+17,Lupinus albus,Root,16.2-18.4 ng/g fw,Ethyl acetate with butylated toluene,HPLC-fluorescence,Arnao and
+18,,,,,detection,Hernandez-Ruiz(2007
+19,Wine,,50-80 pg/mL,Methanol and C18-SPE,ELISA,Guerrero et al.(in press

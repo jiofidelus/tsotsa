@@ -1,0 +1,20 @@
+,0,1,2,3,4
+0,Polyphenol,UV-Visiblemax),UV-Visiblemax),Fluorescence(max),Fluorescence(max)
+1,,(nm),,(nm),
+2,,Main,Secondary,Excitation,Emission
+3,Hydroxycinnamic acids,,,,
+4,Chlorogenic acid,325,249,340,455
+5,Caffeic acid,323,247,310,440
+6,p-Coumaric acid,310,241,320,420
+7,Ferulic acid,323,247,310,445
+8,Synapic acid,324,247,310,450
+9,Hydroxybenzoic acids,,,,
+10,Gallic acid,271,,260,360
+11,"3,4-dihydroxybenzoic acid",259,294,290,350
+12,4-hydroxybenzoic acid,256,,260,340
+13,Vanillic acid,260,292,260,355
+14,Syringic acid,274,238,270,360
+15,Ellagic acid,253,366,210,425
+16,Catechins,,,,
+17,Catechin,280,-,280,325
+18,Epicatechin,280,-,280,325

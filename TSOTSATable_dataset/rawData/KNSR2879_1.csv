@@ -1,0 +1,37 @@
+,0,1,2,3
+0,Characteristics,Espinal,Villavicencio,Lebrija
+1,Altitude (masl),335ab,336 b,1038b
+2,Average,28 ac,26 b,21b
+3,temperatureC,,,
+4,Maximum,33,31b,25-26 b
+5,temperatureC,,,
+6,Minimum,22b,22 b,18-19b
+7,temperature (C),,,
+8,Delta T day/night,8b,6b,4b
+9,Relative humidity,70b,79 b,82-85.2
+10,(%),,,
+11,"Wind speed, km",7.9,2,8.5
+12,h-1,,,
+13,Sunlight hours,6a,4.04d,5.4c
+14,(hours/day),,,
+15,Annual heat units,5694 b,,3249 b
+16,(C,,e,
+17,pH soil,6.0,5,4.3-4.6
+18,Average annual,1570,2458 2918e,1189b-1350
+19,precipitation,,,
+20,(mm per year),,,
+21,Evaporation (mm,1990 ac,1106.5d,990
+22,per year),,,
+23,Drainage,Regular,Good internal,Good drainage
+24,,,and,
+25,,,external,
+26,,,drainage e,
+27,Rainfall pattern,Bimodal b,Unimodal b,Bimodal  April-May
+28,,March-May,March-,September-
+29,,September-,November,October
+30,,October,,
+31,Fertility,Medium Lowf,Lowf,Low.
+32,,,,Low Ca and Mg
+33,,,,"availability,due to"
+34,,,,the
+35,,,,presence of Al

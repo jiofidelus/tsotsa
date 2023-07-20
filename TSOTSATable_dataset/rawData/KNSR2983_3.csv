@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,Energy,,Protein,Total,Carbohydrate,Fibre,Water,Dry matter,Ash,Caffeine,CGAa
+1,,kJ/100g),lipid(g/100 g),g/100g,lipid(g/100 g),g/100g,g/100g,g/100g,g/100g,g/100g,mg/100g,(mg/100g)
+2,CODEb,ENERC,,PROT,FAT,CHO,FIBT,WATER,DRYMAT,ASH,CAFFN,CHLRAC
+3,EuroFIR Method,MI0107,,MI0123,MI1202,MI0183d,MI1307,MI1103,MI1103,MI1018,MI1212,MI1212
+4,Indicatorc,,,,,,,MI0141,,,MI1154,MI1154
+5,LanguaLTM codes,,"A0710,A0845,A1243,A0892,B1305,C0295,EO106,FO014,GO005,HO391,J0174,KO027,M0173,M0351,N0042,N0039,P0026,R0517",,,,,,,,,
+6,for roasted,,,,,,,,,,,
+7,ground coffeee,,,,,,,,,,,
+8,LanguaLTM codes,,"A0465,A1241,A0892,A0845,A0639,A0734,B1305,C0228,C0295,E0114,FO014,G0005,G0017,H0391,H0148,J0174,KO027,M0173,M0351",,,,,,,,,
+9,for infusionse,"P0026,R0517",,,,,,,,,,
+10,Samplef,,,,,,,,,,,
+11,Roasted ground,1430,,16.90.5,17.6  2.0,26.3,26.5  2.8,3.8  0.0,96.2,4.1  0.0,331086,348058
+12,coffee,,,,,,,,,,,
+13,Weak infusiong,12,,0.10.0,0.10.0,0.3,0.30.0,98.91.4,1.1,0.10.0,7011,808
+14,Strong infusionh,26,,0.10.0,0.2  0.0,0.9,0.6 0.1,97.9  2.0,2.1,0.2  0.0,11810,13612

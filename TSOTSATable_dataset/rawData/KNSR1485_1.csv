@@ -1,0 +1,23 @@
+,0,1
+0,Food,Cooking preparation
+1,Bluefishfillet,Poacheda in water with skin
+2,Bluefishskin,Poached in water with skin
+3,"Catfish,farm raised,no skin",Raw
+4,"Flounder,wild caught",Raw
+5,"Flounder,wild caught","Microwaveb,40s"
+6,"Haddock,wild caught",Raw
+7,"Haddock,wild caught","Microwave,60 s"
+8,"Haddock,wild caught,with skin",Raw
+9,"Haddock,wild caught,with skin","Microwave,60s"
+10,"Salmon,msc wild sockeye fillet,",Raw
+11,certified fresh,
+12,"Salmon,msc wild sockeye fillet",Raw
+13,"certified fresh,skin",
+14,"Sea bass,wild Chilean",Poached in water with skin
+15,"Sea bass,wild Chilean,with skin",Poached in water with skin
+16,"Whole shrimp,head and shell removed",Raw
+17,"Whole shrimp,head and shell removed","Microwave,60s"
+18,"Shrimp, shell, tail, legs",Raw
+19,"Shrimp, shell, tail, legs","Microwave,60s"
+20,"Trout,white fillet,farm raised",Poached in water with skin
+21,"Trout,white fillet,farm raised,with skin",Poached in water with skin

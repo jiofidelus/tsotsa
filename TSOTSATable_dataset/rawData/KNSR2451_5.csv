@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,,"Derivatizing agent, Extractant,",Linear,Detection,,,,
+1,Matrix type, Sample name,Detection method, Separation columns,working,limit,Average (n:,RSD %,"Published data, g g-1",References
+2,,,, Separation columns,range,limit,3),,,
+3,,Multi-floral A,,RP column,0.13-100 mg,,38.3,3.0,,"Nozal et al.,2001; Costa"
+4,Honey,Multi-floral B,HPLC or RP-HPLC,Spherisorb ODS II C-18 column),L-1,0.04 mg L-1,4.6,10.0,0.8-138,"et al.,1999;Spano et al.,"
+5,,Multi-floral B,,,,,4.6,10.0,,2006)
+6,Breakfast cereals,Honey rings,,ODS2),10-150 g,0.03 g g-1,24.7,3.0,4-193,"(Garcia-Villanova et al.,"
+7,,Corn flakes,,,81,,46.8,4.0,,1993)
+8,,,,Cation-exchange resin based,,,,,,
+9,Beverages,Without alcohol,HPLC/PAD,column (Bio-Rad Aminex HPX,0.1-100 mg,3g L-1at,8.5,4.0,"4-22,1-3","(Yuan and Chen, 1998)"
+10,Beverages,,HPLC/PAD,87H hydrogen form,L-1,280 nm,,,"4-22,1-3","(Yuan and Chen, 1998)"
+11,,With Alcohol,,,25-700 g,,6.3,7.0,,
+12,Biscuits,Honey biscuits,GC-MS,BSTFA,25-700 g,6 g kg~1,7.0,5.0,,"(Teixido et al., 2006)"
+13,Jam,Plum,GC-MS,,kg-1,6 g kg~1,12.7,2.0,,"(Teixido et al., 2006)"
+14,vegetable oils,Honey,MEKC,"SDS,a bare fused-silica capillary",1-25mg L-1,0.43 mg L-1,3-25,0.64.0,11-1145,"Wong et al., 2012)"
+15,Foodstuffs,HoneyFruit juice,MEKC,"SDS, uncoated fused-silica",2.5-250 mg,0.7 mg kg-1,40,"3.0-10.0,","3.3-42.3,2.9-10.6","Teixido et al.,2011"
+16,Foodstuffs,HoneyFruit juice,MEKC,capillary,kg-1,0.7 mg kg-1,40,7.012.0,"3.3-42.3,2.9-10.6","Teixido et al.,2011"
+17,,,,"DVB/CAR/PDMS,",,,,,,
+18,"foods, treacle",Honey,HS-SPM-HPLC,methylsiloxane capillary,-,280 nm,200 g L-1,1.4,66.1-179,"(Edris et al., 2007)"
+19,,,,column,0.01-100 g,,,,,
+20,Honey,Different botanic origin,RP-HPLC,RP C18 column,0.01-100 g,3g L-1 at,,0.2-1.5% as,5.90-155.8,"Spano et al.,2009)"
+21,Honey,honey samples,RP-HPLC,RP C18 column,1-100 mg,284 nm,,CV%,5.90-155.8,"Spano et al.,2009)"
+22,Beverages,Cola and soft drinks,SPE-AMTC-PAD,,L-1,0.1 mg L-1,1.0 mg L-1,4.7,1.07-4.47,"Xu et al.,2015"
+23,Foods,vinegars,SPME-GC-MS,"PFBHA, PDMS/DVB fibre",0.1-50 mg,0.023 mg L-1,0.23 mg L-1,1.34.7,0.02327.87,"Tsai and Kao,2012"
+24,Beverages,Fruit juices, Salting out-VALLME-,"1-Hexanol, ODS Hypersil C18",1-5000g,0.400.45,2-5000 g,1.53.2,0.71-28,Abu-Bakar et al.2014
+25,Beverages,Fruit juices,HPLC-DAD,column,0.8-56 mg,g L-1,11,1.53.2,0.71-28,Abu-Bakar et al.2014
+26,Foods,products,factorial CCD,"Ethyl acetate-hexane (4:1, v/v)",L-1,7.6 g kg-1,-,4.1-16.0,1.25,"Perez-Palacios et al.,2013"
+27,Honey/Beverages,"Different honey samples,",UA-CPE-,,6.5-275 g,,2575 and,"2.85.3,","0.903-1.555,","(Gtirkan and Altunay,"
+28,without alcohol,alcoholic beverages,Spectrophotometry,p-NPH/SDS,1-1,1.96 g L-1,150 g L-1,3.85.6,0.206-0.840,2015)
+29,Foodstuffs,vinegar samples,Spectrophotometry,PSF*/SDS,2200 g L-1,L-1,75 g L-1,2.5-3.8,0.91-13.80,The current study

@@ -1,0 +1,28 @@
+,0,1,2,3,4
+0,,Steps for sample processing:Questions,,Points,
+1,,,Yes,No or,No or
+2,,,,Unknown,Unknown
+3,"Are the samples protected from oxidation (use of TBHQ,BHT,","Are the samples protected from oxidation (use of TBHQ,BHT,",0.5,,0
+4,N2BHA etc.),,,,
+5,Are the samples protected from ultraviolet light?,Are the samples protected from ultraviolet light?,0.25,,0
+6,Was optimization of extraction reported?,Was optimization of extraction reported?,1.25,,0
+7,Was the sample size 5g(anthocyanidins or 1gother flavonoids,Was the sample size 5g(anthocyanidins or 1gother flavonoids,0.5,,0
+8,Were samples hydrolyzed?,Were samples hydrolyzed?,0.1,,0.1
+9,Were losses by hydrolysis minimized?,Were losses by hydrolysis minimized?,1.5,,0.1
+10,Was adequate resolution of peaks demonstrated if samples were,Was adequate resolution of peaks demonstrated if samples were,1.5,,0.1
+11,not hydrolyzed?,,,,
+12,Steps for analysis and quantitation: Questions,Steps for analysis and quantitation: Questions,,Points,Points
+13,,,Yes,No or,No or
+14,,,,Unknown,Unknown
+15,Were analyte peaks identified by one method only?,Were analyte peaks identified by one method only?,1,,0
+16,"retention time,mass spectrometry,nuclear magnetic resonance","retention time,mass spectrometry,nuclear magnetic resonance",2,,0
+17,etc.),,,,
+18,"If external standardization was used for quantitation, was the purity","If external standardization was used for quantitation, was the purity",0.5,,0
+19,of standard verified?,of standard verified?,,,
+20,"If internal standardization was used for quantitation,was the","If internal standardization was used for quantitation,was the",0.5,,0
+21,"standard similar in stability,chemical and spectral properties?","standard similar in stability,chemical and spectral properties?",,,
+22,Were 3 concentrations of the standard bracketing sample conc.,Were 3 concentrations of the standard bracketing sample conc.,0.5,,0
+23,used for the standard curve?,used for the standard curve?,,,
+24,Was the linearity of the standard curve demonstrated?,Was the linearity of the standard curve demonstrated?,0.5,,0
+25,Was the calibration curve coefficientr0.99?,Was the calibration curve coefficientr0.99?,0.5,,0
+26,Was the instrument response checked frequently?,Was the instrument response checked frequently?,0.5,,0

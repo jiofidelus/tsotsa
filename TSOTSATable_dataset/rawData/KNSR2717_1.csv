@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8
+0,match the label nutrient value (per 100 g),match the label nutrient value (per 100 g),,,,,,,
+1,Ingredient,Dietary fiber (g),Weight(g) kJ(kcal),Weight(g) kJ(kcal),Protein (g),Fatg,CHO (g),Dietary fiber (g),Sodium (mg)
+2,Oat bran,,52,536 (128),9.00,3.66,34.43,8.00,2
+3,Whole,,21,297 (71),2.88,0.39,15.24,2.56,1
+4,wheat,,,,,,,,
+5,Sugar,,16,259 (62),0,0,15.98,0,0
+6,Cornmeal,,10,155 (37),0.85,0.16,7.77,0.74,0
+7,Salt,,1,0 (0),0,0,0,0,388
+8,Total,,100,1247 (298),12.73,4.21,73.42,11.30,391
+9,Product,,100,1464 (350),12.70,5.10,74.90,10.00,400
+10,label,,,,,,,,
+11,,Step 2: Calculate the amount of natural vitamin E from ingredients using the product formulation (per 100 g),,,,,,,
+12,Ingredient,Natural vitamin E,,Weight (g),,Vitamin E,,Natural vitamin E,
+13,,as -tocopherol (mg),,,,(IU),,as -tocopherol (mg),
+14,Oat bran,,,52,,1.21,,0.81,
+15,Whole,,,21,,0.30,,0.20,
+16,wheat,,,,,,,,
+17,Sugar,,,16,,0,,0,
+18,Cornmeal,,,10,,0.03,,0.02,
+19,Salt,,,1,,0,,0,
+20,Total,,,100,,1.54,,1.03,
+21,Step 3: Calculate the amount of synthetic vitamin E used in fortification,Step 3: Calculate the amount of synthetic vitamin E used in fortification,,,,,,,
+22,5 IU total vitamin E-1.54 IU ingredient vitamin E=3.46 IU from synthetic vitamin E,5 IU total vitamin E-1.54 IU ingredient vitamin E=3.46 IU from synthetic vitamin E,,,,,,,
+23,Step 4: Calculate the vitamin E activity contributed bv svnthetic vitamin E used in fortification,Step 4: Calculate the vitamin E activity contributed bv svnthetic vitamin E used in fortification,,,,,,,
+24,3.46IU synthetic vitamin E  0.45=1.56mg vitamin E,3.46IU synthetic vitamin E  0.45=1.56mg vitamin E,,,,,,,
+25,Step 5: Total the vitamin E from the product ingredients and from fortification,Step 5: Total the vitamin E from the product ingredients and from fortification,,,,,,,
+26,1.03 mg natural vitamin E+ 1.56mg vitamin E from fortification =2.59 mg vitamin E,1.03 mg natural vitamin E+ 1.56mg vitamin E from fortification =2.59 mg vitamin E,,,,,,,

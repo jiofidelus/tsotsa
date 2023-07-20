@@ -1,0 +1,45 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Lab,Sample,Sample,Extraction,Clean-up,IS,LC,Column,Column dimensions,Detector/,Injection solvent,Conservation,Reference
+1,code,intake,pretreatment,,Clean-up,,,phase,,Wavelength,,,
+2,,(mg),,,,,,,,,,,
+3,1,800,Saponification with,THF:hexane,NR,None,HPLC,C18,25 cm  4.6 mm; 3 um,DAD/,20 EtAc/80 (90 ACN/,Light protection,[44]
+4,,,pyrogallol,,,,,,,450nm,10IPA,with UV filters,
+5,2,500 ,Saponification,THF:MeOH (1:1; v-,filters,(All-E--apo-,HPLC,C18,10 cm  4.6 mm; 3 m in,DAD/,ACN:MeOH:DCM,BHT during,[45]
+6,,1500,,v),filters,carotenal,,,series with,450 nm,7:2:1;v-vv,extraction and,
+7,,,,,,,,,25 cm x 4.6 mm; 5 m,,,light protection,
+8,3,1000,Enzymatic digestion,Acetone:Pentane,Clean-up with,(All-E-)-apo-,HPLC,C3o,25cm 4.6 mm;5m,DAD/450-,MeOH:ACN(9:1;v-v,NR,[46]
+9,3,,+ saponification,4:6,10% NaCl-,carotenal,HPLC,C3o,,470 nm,+EtAC + 0.25%,,[46]
+10,,,,, solution and,,,,,,triethylamine,,
+11,,,,,H2O,,,,,,,,
+12,4,500,Saponification of,MeOHTHF1:1;v-,None,Echinenone,HPLC,C30,25cm 4.6 mm;5m,DAD/,MeOH:MTBE(1:1;v-v,BHT during,[47]
+13,,,extract,v),,,,,,450 nm,,extraction and,
+14,,,,,,,,,,,,light protection,
+15,5,250,Saponification,Acetone,None,None,HPLC,C30,25cm4.6mm;5m,DAD,MeOH:MTBE (1:1;v-v),"Light protection,",[48]
+16,,,,,,,,,,/450 nm,,nitrogen and low,
+17,,,,,,,,,,,,temperature,
+18,6,10-15,NR,HO:Acetone:ACN,None,(All-E-)-apo-,HPLC,C18,15cm  4.6 mm;5m,DAD /NR,HO:acetone:ACN,Light protection,[49]
+19,,,,2:4:4;v-vv,,carotenal,,,,,1:2:2;v-v:v,,
+20,7,3000,Saponification,Acetone+Hexane:,PTFE 0.45m,(All-E-)-apo-,HPLC,C30,25 cm  4.6 mm;5um,UV-Vis/450,MeOH:MTBE:HO(vv:,BHT for standard,[50]
+21,,,,Petroleum ether,filters,carotenal,,,,,v),solutions,
+22,,,,1:1;v-v,,,,,,,,,
+23,8,500,Saponification,Hexane:EtOH,None,(All-E--apo-,HPLC,C18,25cm2.1mm;5um,DAD,ACN:MeOH:EtAc,NR,[51]
+24,,,,Acetone (5:2.5:2.5;,,carotenal,,,,/450 nm,6:2:2;v-vv,,
+25,,,,v-v:v+hexane,,,,,,,,,
+26,9,1000,NR,Acetone:MeOH,None,NR,UPLC,C18,10cm  2.1 mm;1.8m,MS/NR,DCM,BHT during,[16]
+27,,,,50:50;1:1,,,,,,,,extraction,
+28,,,,+DCM:MeOH,,,,,,,,,
+29,,,,50:50;1:1,,,,,,,,,
+30,10,500 ,NR,Light petroleum/,PTFE 0.45 m,NR,HPLC,C3o,25 cm  4.6 mm; 5 m,DAD/NR,EtAc,NR,[52]
+31,,1000,,EtAc/MeOH 1:1:1,filters,,,,,,,,
+32,,,,v-v:v),,,,,,,,,
+33,11,1000,Saponification,Ethanol:hexane,Clean-up with,(All-E-)-apo-,HPLC,C30,25cm 4.6 mm;5m,450 nm,EtAc +0.25% (v/v),BHT during,[53]
+34,,,,4:3;v-v,10% NaCl-,carotenal,,,,450 nm,triethylamine/MeOH/,extraction,
+35,,,,, solution and,,,,,,ACN(50:45:5;v-v:v),,
+36,,,,,None,,,,,,,BHT during,
+37,12,1800 -,None,MeOH:THF (1:1; v-,None,Retinyl,HPLC,C18,25 cm  3 mm;5 m,DAD/450,"MeOH:Butanol (6:4, v-",BHT during,[54]
+38,,2000,,v),,acetate,,,,,v),extraction,
+39,13,120-130,NR,Hexane:Acetone,NR,NR,HPLC,C3o,15 cm  4.6 mm; 3 m,DAD/285-,EtAc,NR,[35]
+40,,,,1:1;v-v,,,,,,450 nm,,,
+41,14,110-115,NR,HO+Acetone,NR,(All-E-)-apo-,HPLC,C30,25 cm  4.6 mm; 5 m,DAD/,MeOH:MTBE 1:1;v-v,BHT during,[55]
+42,,,,+Diethyl ether:,,carotenal,,,,450 nm,,extraction,
+43,,,,Petroleum ehter,,,,,,,,,

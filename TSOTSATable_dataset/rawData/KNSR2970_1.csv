@@ -1,0 +1,15 @@
+,0,1,2,3
+0,,Area under curve (AUC),Hydrolysis index (HI)a,glycemic index (GI)b
+1,Maltose,77.4,100,100
+2,Bread mean,51.9,67.0,72
+3,SD,2.68,3.46,-
+4,95% CI (lower),1,63.8,
+5,95% CI (higher),,70.2,11
+6,Variance,0.008,11.9,11
+7,Sample 1,56.0,72.3,
+8,Sample 2,51.6,66.7,-
+9,Sample 3,49.7,64.1,11
+10,Sample 4,49.8,64.3,11
+11,Sample 5,50.6,65.3,
+12,Sample 6,50.1,64.7,11
+13,Sample 7,55.4,71.5,11

@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6
+0,Fruit external,,Ripening Stages,Ripening Stages,,,
+1,brightness,Genotypes,Green,Unripe,Ripe,Dried,Average
+2,values,,,,,,
+3,,,105.7,44.2,46.4,38.8,
+4,,HZR2,0.2a,0.4e,2.5,2.0,58.8 B
+5,,,0.2a,0.4e,d,gh,
+6,,M1,101.3,59.6,59.7,39.7,65.1A
+7,,ALTUNi,0.5b,0.9c,0.7,1.1,
+8,,,,,c,g,
+9,,Average of,86.4A,47.7 B,48.0,38.3C,
+10,,Stage,,,B,,
+11,,LSD,LSDgen*=0.639 LSDstage*=0.639 LSDgenxstage,LSDgen*=0.639 LSDstage*=0.639 LSDgenxstage,,LSDgen*=0.639 LSDstage*=0.639 LSDgenxstage,
+12,,,1.279,,,,

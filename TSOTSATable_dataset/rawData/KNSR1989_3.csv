@@ -1,0 +1,13 @@
+,0,1,2
+0,,Group,Rules
+1,1,No recipes available from MHWFA,The flow chart in Fig.1
+2,,(processed or prepare food),
+3,2,Foods with single ingredient with,"For example,soybean occurs"
+4,,water content changed by food,"in three types:soybean,dry"
+5,,processing or preparation,"soybean,boiled soybean."
+6,,,Any type not included in
+7,,,the food commodities
+8,3,Foods with single ingredient with,"For example,wheat occurs in"
+9,,any loss by food processing,"two types:wheat,flour.Any"
+10,,,type not included in the
+11,,,food commodities

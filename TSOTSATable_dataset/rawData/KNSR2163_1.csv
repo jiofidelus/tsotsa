@@ -1,0 +1,50 @@
+,0,1,2,3,4,5,6,7
+0,,,,,,Geographic coordinates,Geographic coordinates,
+1,Collection site,Population name,Tag,Region,Province,latitude,longitude,altitude (m a.s.
+2,,,,,,(N),(E,1.)
+3,Artichoke (Cynara cardunculus L.var. scolymus L.),,,,,,,
+4,by-products,,,,,,,
+5,Longiano,,ART-1,Emilia-,Forli-Cesena,44.07,12.32,107
+6,,,,Romagna,,,12.25,107
+7,Cesena,,ART-2,Emilia-,Forli-Cesena,44.09,12.25,253
+8,,,,Romagna,,,,
+9,Cesenatico,,ART-3,Emilia-,Forli-Cesena,44.18,12.36,5
+10,,,,Romagna,,,,
+11,Cardoon (Cynara cardunculus L.var.altilis DC) leaf,,,,,,,
+12,petioles,,,,,,,
+13,Ozzano Emilia,Cardo centofoglie di Bologna,ER-1,Emilia-,Bologna,44.45,11.46,62
+14,,,, Romagna,,,,
+15,San Giorgio di Piano,Cardo centofoglie di Bologna,ER-2,Emilia-,Bologna,44.66,11.40,15
+16,,,,Romagna,Bologna,,,
+17,Granarolo dell'Emilia,Cardo centofoglie di Bologna,ER-3,Emilia-,Bologna,44.55,11.42,28
+18,,,,Romagna,Bologna,,,
+19,Cesenatico,Gigante di Romagna,ER-4,Emilia-,Forli-Cesena,44.16,12.39,6
+20,Cesenatico,,,Romagna,,,,
+21,Cesenatico,Gigante di Romagna,ER-5,Emilia-,Forli-Cesena,44.16,12.38,9
+22,,,,Romagna,,,,
+23,Cesena,Gigante di Romagna,ER-6a,Emilia-,Forli-Cesena,44.17,12.27,22
+24,Cervia,Cardo di Cervia,,Romagna,,,,
+25,Cervia,Cardo di Cervia,ER-7,Emilia-,Ravenna,44.24,12.36,0
+26,,,TUS-1,Romagna,,,,
+27,Massa,Cardo massese,TUS-1,Tuscany,Massa-,44.04,10.14,56
+28,,,,,Carrara,,,
+29,Massa,Cardo massese,TUS-2,Tuscany,Massa-,44.04,10.11,25
+30,,,,,Carrara,,,
+31,Capannori,Cardo di Lucca,TUS-3,Tuscany,Lucca,43.84,10.55,16
+32,Lucca,Cardo di Lucca,TUS-4,Tuscany,Lucca,43.90,10.54,38
+33,Andezeno,Cardo bianco avorio di,PIE-1,Piedmont,Turin,45.05,7.85,284
+34,,Andezeno,,,,,,
+35,Baldissero Torinese,Cardo bianco avorio di,PIE-2,Piedmont,Turin,45.06,7.81,440
+36,,Andezeno,,,,,,
+37,Costigliole d'Asti,Cardo avorio di Isola d'Asti,PIE-3,Piedmont,Asti,44.80,8.14,137
+38,Costigliole d'Asti,Cardo avorio di Isola d'Asti,PIE-4,Piedmont,Asti,44.78,8.15,182
+39,Isola d'Asti,Cardo avorio di Isola d'Asti,PIE-5,Piedmont,Asti,44.82,8.16,129
+40,Incisa Scapaccino,Cardo Gobbo di Nizza,PIE-6,Piedmont,Asti,44.79,8.38,133
+41,,Monferrato,,,,,,
+42,Incisa Scapaccino,Cardo Gobbo di Nizza,PIE-7a,Piedmont,Asti,44.79,8.38,133
+43,,Monferrato,PIE-8,,,,,138
+44,Nizza Monferrato,Cardo Gobbo di Nizza,PIE-8,Piedmont,Asti,44.78,8.36,138
+45,Nizza Monferrato,Cardo Gobbo di Nizza,PIE-9,Piedmont,Asti,44.76,8.32,170
+46,,Monferrato,,,,,,
+47,Macerata,Cardo di Trodica,MAR-1,Marche,Macerata,43.26,13.46,118
+48,Macerata,Cardo di Trodica,MAR-,Marche,Macerata,43.26,13.46,118

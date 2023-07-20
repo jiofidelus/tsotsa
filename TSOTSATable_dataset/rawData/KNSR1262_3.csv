@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+0,No,Time,max,AACYL,A44ol,Nb Acyl,Nb,Peak identity,Detection of phenolic compounds,,,,Detection of phenolic compounds,,,,,,
+1,,(min),max,AviSmax,Avismax,,Glyc,,Am,Ce,Da,Db,Dbb,Dc,De,Dp,Ib,Me,Xs
+2,13,14.23,"294s, 323",,,,,Caffeic acid,,,,,x,,x,,x,,
+3,,17.10,"297s, 326",,,,,n.a.,,,,x,,,x,,,,
+4,,23.05,326,,,,,n.a.,,,,,,,x,,x,,
+5,,39.74,"300s, 325",,,,,n.a.,,,,,,,,,,,
+6,,41.42,"303s, 327",,,,,n.a.,,,,x,x,x,,,,,
+7,,43.51,274,,,,,n.a.,,,,,,,,,x,,
+8,,45.11,274,,,,,n.a.,,,,,,,,,,,
+9,,53.49,"305s, 325",,,,,n.a.,,,,,,,,,x,,
+10,,53.82,279,,,,,n.a.,,,,,,,x,,x,,x
+11,14,60.13,"297s,327",,,,,"3,5-DiCQ acid",x,,,x,,,,,x,,

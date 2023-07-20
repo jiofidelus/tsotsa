@@ -1,0 +1,33 @@
+,0,1,2,3,4
+0,Sample number,Cheese variety,Geographical region,Category,Milk type
+1,1,Feta,Epirus,Soft,a
+2,2,Feta,Thessaly,Soft,a
+3,3,Feta,Macedonia,Soft,a
+4,4,Feta,Peloponnesus,Soft,a
+5,5,Feta,Sterea Ellas,Soft,a
+6,6,Feta Kalathaki,Lemnos Island,Soft,a
+7,7,Telemes,Thessaly,Soft,b
+8,8,Telemes,Thrace,Soft,b
+9,9,Telemes,Macedonia,Soft,b
+10,10,Anthotyros (fresh),Epirus,Whey (Soft),c
+11,11,Anthotyros(fresh),Crete,Whey (Soft),c
+12,12,Anthotyros (fresh),Macedonia,Whey (Soft),c
+13,13,Myzithra (fresh),Thessaly,Whey (Soft),d
+14,14,Myzithra (fresh),Crete,Whey (Soft),d
+15,15,Myzithra (fresh),Macedonia,Whey (Soft),d
+16,16,Manouri,Thessaly,Whey (Fatty),e
+17,17,Manouri,Macedonia,Whey (Fatty),e
+18,18,Kasseri,Macedonia,Semi-Hard,a
+19,19,Kasseri,Aegean Islands,Semi-Hard,a
+20,20,Kasseri,Epirus,Semi-Hard,a
+21,21,Graviera,Crete,Hard,a
+22,22,Graviera,Naxos Island,Hard,f
+23,23,Kefalograviera,Epirus,Hard,g
+24,24,Kefalograviera,Peloponnesus,Hard,g
+25,25,Kefalograviera,Sterea Ellas,Hard,g
+26,26,Metsovone,Epirus,Hard,b
+27,27,Ladotiri,Lesvos Island,Hard,a
+28,28,Kefalotiri Agno Victoria,Macedonia,Hard,a
+29,29,Kefalotiri,Epirus,Hard,a
+30,30,Kefalotiri,Crete,Hard,a
+31,31,Kefalotiri,Macedonia,Hard,a

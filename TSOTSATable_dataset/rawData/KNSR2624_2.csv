@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8
+0,,Range,Average,Variety with highest,Taxonomic,Variety with lowest,Taxonomic,Refb,Refb
+1,,,,nutrient content,groupa,nutrient content,groupa,(highest),(lowest)
+2,ThiaminB1(n=5,0.08-0.11mg/100g,0.09,Katahdin*,Tbr,Norchip*,Tbr,6,6
+3,,,,"Maine,USA",,"North Dakota,USA",,,
+4,Riboflavin(B2n=5,0.022-0.36 mg/100g,0.07,Russet Burbank*,Tbr,Katahdin*(USA),Tbr,6,6
+5,,,,(Idaho USA),,,,,
+6,NiacinB3n=5,0.62-2.07 mg/100 g,1.26,Russet Burbank*,Tbr,White rose (Davis,Tbr,6,19
+7,,,,(USA),,"CaliforniaUSA,USA",,,
+8,Vitamin B6 (n=4),0.15-0.3 mg/100g,0.24,Norchip*,Tbr,Pontiac*(North,Tbr,6,6
+9,,,,"North Dakota,USA",,DakotaUSA),,,
+10,Folic acidn=4,10.3-15.3 mcg/100g,12.42,Russet Burbank*,Tbr,"Katahdin*Maine,USA",Tbr,6,6
+11,,,,(USA),,,,,
+12,Calcium(n=127,1.35-27.8 mg/100g,10.59,Jancko Anckanchi*,Ajanhuiri,Marta (Poland),Tbr,17,26
+13,,,,"(Huancayo, Peru)",,,,,
+14,Phosphorus(n=26,33-126 mg/100g,71.43,Unknown CIP703315,Gon/G,Kufri Bahar (India),Tbr,3,9
+15,,,,(Peru),,,,,
+16,Sodium(n=31,0.1-7.7mg/100g,2.87,Peluca (Spain),Adg,Ibicenda(Spain,Tbr,15,3
+17,Potassium (n=53),239-693.8 mg/100g,443.30,Azucena (Spain),Adg,Monalisa (Spain),Tbr,15,3
+18,Magnesium(n=47,10.8-37.6 mg/100g,20.21,Puca Huaryo,Cha,Monalisa (Spain),Tbr,3,3
+19,,,,"(Lima,Peru)",,,,,
+20,Manganesen=28,0.05-0.39mg/100g,0.13,Bryza(Poland),Tbr,Fala(Poland),Tbr,25,25
+21,Iron(n=177,0.14-10.4 mg/100 g,1.04,Peluca (Spain),Tbr/T,Sipancachi (Bolilvia),Adg,15,3
+22,Zincn=156,0.22-0.76 mg/100 g,0.41,Roscanela*(Peru),Adg,Cara (Spain),Tbr/T,16,15
+23,Coppern=27,0.05-0.15 mg/100 g,0.11,Bonita (Spain),Adg,Cara (Spain,Tbr/T,15,15

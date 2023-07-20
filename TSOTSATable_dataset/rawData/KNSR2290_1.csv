@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,LOD (g L-1),LOD (g L-1),,"Repeatability of single fiber (RSD %,","Repeatability of single fiber (RSD %,","Repeatability of single fiber (RSD %,",Repeatability of fiber-to-fiber (RSD,R2,,
+1,Compound,[Setz],,,n=5,,,,[Setg],,
+2,,[Setz],[C4CqPip],[Set3/,[Setz],[C4C?Pip],[Set3/,[Set/,[Setg],[C4C;Pip],[Set3/
+3,,,,C4C?Pip],,,C4CqPip],C4CqPip],,,C4CqPip]
+4,Diazinon,0.01,0.02,0.02,2.2,7.4,3.1,8.9,0.9909,0.9878,0.9841
+5,Parathion-,0.17,0.46,0.50,3.3,4.6,2.9,8.5,0.9967,0.9657,0.9841
+6,methyl,,,,,,,,,,
+7,Fenitrothion,0.16,0.16,0.34,3.5,5.3,5.1,12.2,0.9992,0.9961,0.9932
+8,Parathion,0.02,0.02,0.03,2.3,3.4,2.1,5.4,0.9968,0.9916,0.9992
+9,-Cyhalothrin,0.85,0.73,0.95,3.8,4.6,6.5,13.2,0.9979,0.9955,0.9137
+10,Permethrin,0.12,0.03,0.12,4.5,5.5,5.8,12.8,0.9851,0.9714,0.9108

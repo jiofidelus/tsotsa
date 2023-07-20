@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,,,,,,,,Precision (% RSD),Precision (% RSD),,,,
+1,Compound,Linearity range (g mL-1),Slope,Intercept,R2,LOD (g mL-1),LOQ (g mL-1),Intra-day (n=6,Intra-day (n=6,,Inter-day (n=6,Inter-day (n=6,
+2,,,,,,,,1,2,3,1,2,3
+3,Fagopyrin F,0.14-184,6038.67,-1018.26,0.9998,0.35,1.07,3.1,1.9,2.8,3.1,2.5,2.4

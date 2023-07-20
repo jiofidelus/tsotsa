@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7
+0,Interferences ions,Tolerance limit,Recovery (%),RSD (%),Interferences ions,Tolerance limit,Recovery (%),RSD (%)
+1,I-,1500,96.8,2.1,Sn2+,500,97.4,2.8
+2,"NHA*,",1500,97.9,2.4,Beauvericin,500,96.7,2.9
+3,K+,1000,98.4,2.2,Parathion,250,95.9,2.9
+4,Br,1000,103.1,2.4,Mn2+,250,102.1,2.9
+5,NO,1000,97.1,2.5,Sterigmatocystin,250,97.3,2.7
+6,SO42,1000,97.1,2.7,NO3,100,97.2,2.5
+7,Zn2+,1000,102.4,2.5,Cypermethrin,100,96.4,2.7
+8,Ca2+,750,102.7,2.3,Flumethrin,100,103.7,2.9
+9,CO2,750,96.2,2.3,Cyfluthrin,100,96.6,3.1
+10,Cr3+,750,95.7,2.1,CHCOO,100,96.0,3.2
+11,Tartaric acid,750,98.3,2.5,5-Methylfurfural,50,102.7,3.0
+12,Mg2+,750,104.1,2.5,Fe3+,50,96.7,3.1
+13,A13+,500,97.2,2.2,Ochratoxin,50,95.1,2.7
+14,Cd2+,500,96.9,2.4,5-HMF,50,94.8,2.8
+15,Cu2+,500,97.5,2.5,3-Furfural,25,94.5,2.4
+16,Nicotinamide,500,102.7,2.3,Citrinin,25,94.5,3.3
+17,Ascorbic acid,500,95.8,2.7,2-Furfural,25,92.7,3.3

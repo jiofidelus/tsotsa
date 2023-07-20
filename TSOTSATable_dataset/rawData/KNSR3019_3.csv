@@ -1,0 +1,11 @@
+,0,1,2,3
+0,Moisture/phytomicronutrient,Fresh mass basis,,
+1,,Units,Upper leaves,Lower leaves
+2,Dry mass content,g/100 gfm,14.7,13.2**
+3,Moisture content,g/100gfm,85.3,86.8**
+4,Total ascorbic acid,mg/100 gfm,132.7,109.1**
+5,Free ascorbic acid,mg/100 gfm,58.7,52.8*
+6,Phylloquinone,g/100 gfm,435.1,458.gns
+7,Folic acid,g/100 gfm,182.8,111.8
+8,B-Carotene,g/100 gfm,"11,130","11,610ns"
+9,Lutein,g/100 gfm,9790,8950*

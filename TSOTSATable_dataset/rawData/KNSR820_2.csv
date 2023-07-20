@@ -1,0 +1,33 @@
+,0,1,2,3,4
+0,Peak,Carotenoid,%,UV-visX,MS
+1,No,,,nm),
+2,1,unidentified,0.38,421,
+3,2,unidentified mixture,0.26,"443,466",
+4,3,unidentified,0.26,462,
+5,4,"5,6-",1.16,467,601.3[M+H]+;
+6,,Diepicapsokarpoxanthin,,,
+7,5,Neoxanthin,0.42,"416,440,",601.3[M+H];
+8,,,,468,583.3[M+H-
+9,,,,,"HO]+,515.2"
+10,6,unidentified,0.42,465,
+11,7,unidentified mixture,0.86,"435,463",
+12,8,13Z-Capsorubin+,11.23,"365,475",601.3 [M+H]+
+13,,Capsoneoxanthin,,463,601.3[M+H]
+14,9,unidentified,0.35,449,
+15,10,(13/13Z)-Capsanthin,0.29,464,585.3[M+H]+
+16,11,Capsorubin,48.71,481,601.3[M+H];
+17,12,Capsanthin,11.65,475,585.3 [M+H]+
+18,13,Zeaxanthin,0.45,"450,476",569.3[M+H]+
+19,14,"Cryptocapsin 5,6-epoxide",2.49,467,585.3[M+H];
+20,,,,,567.3[M+H-
+21,,,,,HO]+
+22,15,Red (13Z)-unidentified,0.35,467,
+23,16,-Cryptoxanthin,0.25,"445,470",553.3[M+H]
+24,17,-Cryptoxanthin,2.02,"450,476",553.3[M+H]
+25,18,unidentified(13Z),0.34,"341,445,",
+26,,,,472,
+27,19,(13Z)--Carotene,2.06,"338,444,",537.3[M+H]
+28,,,,468,
+29,20,-Carotene,1.32,"444,472",537.3 [M+H]+
+30,21,-Carotene,11.20,"450,476",537.3[M+H]+
+31,22,(9Z)--Carotene,3.17,"445,471",537.3[M+H]

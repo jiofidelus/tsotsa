@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,Flower,Moisture (%),,Mineral composition [mg/100 g dry weight],Mineral composition [mg/100 g dry weight],Mineral composition [mg/100 g dry weight],Mineral composition [mg/100 g dry weight],,,,,,,,Reference [recalculated]
+1,,,Ca,Cu,Fe,K,Mg,Mn,Mo,Na,P,S,Sr,Zn,
+2,Antirrhinum majus,87.4,283,1.3,3.5,1.30  103,136,4.5,0.67,70,331,-,-,7.0,"Rop et al., 2012"
+3,Begonia boliviensis,85.8,246,1.4,1.9,1.30  103,106,3.1,0.44,66,142,-,-,3.2,"Rop et al.,2012"
+4,Brassica oleracea var. botrytis,93.4,17,-,-,11,11,0.2,,2,58,-,-,-,"Vieira,2013)"
+5,Brassica oleracea var. italica,92.6,80,-,-,11,11,35.1,,26,78,-,-,-,"Vieira, 2013)"
+6,Calendula officinalis,89.3,41,-,-,,-,0.1,,1,11,-,-,-,"Vieira,2013)"
+7,Centaurea cyanus,90.4,253,0.9,7.1,2.74  103,142,2.4,0.31,76,548,-,-,7.8,"Rop et al.,2012"
+8,Chrysanthemum frutescens,90.4,270,2.3,5.4,3.65  103,110,8.2,0.31,93,447,-,-,5.7,"Rop et al.,2012"
+9,Chrysanthemum parthenium,90.1,346,2.4,5.9,3.65  103,198,7.4,0.31,115,508,-,-,6.0,"Rop et al.,2012"
+10,Crocus sativus,89.7,139,-,16.0,1.40103,113,-,-,10,279,-,-,,"Serrano-Diaz et al., 2013)"
+11,Cynara scolymus,78.9,84,,,,-,0.3,1,60,42,-,-,-,"Vieira,2013)"
+12,Dianthus caryophyllus,88.5,426,2.5,8.5,3.07  103,161,6.5,0.48,99,460,-,-,6.2,"Rop et al.,2012"
+13,Fuchsia  hybrida,91.6,286,3.2,9.7,1.92103,204,5.0,0.85,150,257,-,-,13.7,"Rop et al.,2012"
+14,Impatiens walleriana,85.3,275,0.9,4.9,1.95103,138,4.1,0.26,64,260,-,-,5.9,"Rop et al.,2012"
+15,Rosa odorata,90.3,273,2.3,3.5,1.95103,141,3.4,0.63,76,223,-,-,4.5,"Rop et al.,2012"
+16,Tagetes patula,90.3,370,1.2,9.3,4.06  103,219,8.4,0.39,122,510,,-,14.2,"Rop et al.,2012"
+17,Tropaeolum majus,88.7,299,1.0,5.7,2.18  103,132,5.2,0.26,78,427,-,-,8.0,"Rop et al.,2012"
+18,Tropaeolum majus,90.6,28,-,-,,-,0.2,,1,10,-,-,,"Vieira,2013)"
+19,Viola  wittrockiana,90.6,486,1.95,7.3,3.96  103,190,7.9,0.84,132,514,,-,11.5,"Rop et al.,2012"
+20,Viola  wittrockiana,90.1,30,-,-,-,-,0.1,,1,8,-,-,-,"Vieira,2013)"

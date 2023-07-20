@@ -1,0 +1,25 @@
+,0,1
+0,Advantages,Example
+1,Facilitate user-specified searches that will enable users to combine appropriate,A researcher investigating the association between intake of
+2,descriptors and download relevant data.,calcium salts and blood pressure can use LanguaLTM to identify
+3,,sources of calcium in conventional foods and dietary supplements
+4,,and then download the information of interest to create a
+5,,specialized database of calcium sources for the research study
+6,Provide ease in combining food and dietary supplement databases to more,This is an important functionality in determining nutrients of
+7,accurately estimate nutrient intakes and explain health outcomes in epidemiological,public health interest and in arriving at dietary recommendations
+8,studies. Pertinent since food composition databases use LanguaLTM to index foods.,"such as national dietary guidelines.For example,nutrients,such as"
+9,,"calcium,vitamin B2,and folic acid in dietary supplements make"
+10,,important contributions to the diets of pregnant women and older
+11,,adults.
+12,Facilitate uniformity in reporting research when applied to the National Health and,The treatment of dietary supplement products is not uniform
+13,Nutrition Examination Survey (NHANES) dietary supplement database.,"across studies. Currently,researchers use their own unique"
+14,,approaches to defining and classifying dietary supplements for
+15,,"analysis, making it difficult to compare findings across studies."
+16,,"Because LanguaLTM is a structured, controlled vocabulary for"
+17,,"describing products, it provides a consistent approach to entering"
+18,,"and classifying products in databases, thus facilitating uniform"
+19,,reporting of research.
+20,"Help trace the source of an adulterant, pesticide, contaminant,or",If a dietary supplement product contains an adulterant of interest
+21,food borne illness when a safety problem is identified.,and the source of that adulterant is known and described in the
+22,,"database,then products containing the adulterant of interest can"
+23,,"be identified in the database, and traced in the food supply."

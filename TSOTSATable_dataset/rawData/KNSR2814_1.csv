@@ -1,0 +1,37 @@
+,0,1,2
+0,No.,Name,Description
+1,1,imean,Mean value of channel colour value
+2,2,Ivar,Variance value of channel colour value
+3,3,Istd,Standard deviation of channel colour value
+4,4,fft_energy,Energy extracted from Fourier Domain
+5,5,fft_entropy,Entropy extracted from Fourier Domain
+6,6,fft_homogeneity,Homogeneity extracted from Fourier Domain
+7,7,fft_inertia,Inertia extracted from Fourier Domain
+8,8,amount_group,Intensity feature based on the histogram: Number of
+9,,,batches of levels with at least 1 pixel on the histogram
+10,9,kurtosis,Kurtosis extracted from channel histogram
+11,10,large_batch,Intensity feature based on the histogram: The largest
+12,,,batch of levels on the histogram.
+13,11,small batch,Intensity feature based on the histogram: The smallest
+14,,,batch of levels on the histogram.
+15,12,skewness,Skewness from channel histogram
+16,13,index_large,Intensity feature based on the histogram: Index of the
+17,,,largest batch of levels on the histogram.
+18,14,index_small,Intensity feature based on the histogram Index of the
+19,,,smallest batch of levels on the histogram.
+20,15,mean,Mean of current channel intensity
+21,16,median,Median value of current channel intensity
+22,17,std,Intensity standard deviation of the current channel
+23,18,var,Variance of current channel intensity
+24,19,n_zeros,Intensity feature based on the histogram: Number of non-
+25,,,zero levels in the histogram.
+26,20,value_max,Intensity of max value of the current channel intensity
+27,21,entropy,Entropy of the current channel
+28,22,homogeneity,Homogeneity of the current channel
+29,23,inertia,Inertia of the current channel
+30,24,correlation,Correlation of current channel
+31,25,energy,Energy of current channel
+32,26,ent_b,Entropy of the grayscale image
+33,27,gef,Global Contrast Factor
+34,28,smn,Statistical Naturalness measure
+35,29,eme,Measure of Enhancement by Entropy

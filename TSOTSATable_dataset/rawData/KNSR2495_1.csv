@@ -1,0 +1,25 @@
+,0,1,2,3,4,5
+0,Methods,Comments, Linear range,Detection limit,Sample,Reference
+1,UHPLC-MS/MS,-FeO3@CNM,50.0-548.0 mol L-1 (0.02-20.0,0.110-4mol L-0.004 ng mL-1,Fish,"Li et al.,2020"
+2,,,ng mL-1),,,
+3,,SPE,mL-1,0.58 mol L-10.21 mg L-1,Seafood,"Gao et al.,2019)"
+4,,MCP,164.42192.3 mol L-1,6.0310-3 mol L-1(2.2 g L-1),Water,"(Ghasemi and Kaykhaii,"
+5,HPLC-UV,,27.4658.1 mol L(10.0-250.0,,Fish;,2016)
+6,,MIP,g L-1,0.310-3 mol L-1 (0.11 g L-1),Shrimp,"(Long et al.,2009"
+7,,RSM,g L~1),0. 4710-3 mol L-1 (0.17 g L-1),Seawater,"Hashemi et al.,2019"
+8,ED,OMCNs, 0.122.1 mol L-1,0.05 mol L-1,Water,"Yang et al., 2020)"
+9,ED,OMCNs, 0.122.1 mol L-1,0.05 mol L-1,sample,"Yang et al., 2020)"
+10,SERS,GO/AuNPs, 2.5-100.0 mol L-1, 2.5 mol L-1,Water,"Fu et al.,2013"
+11,SERS,GO/AuNPs, 2.5-100.0 mol L-1, 2.5 mol L-1,sample,"Fu et al.,2013"
+12,,FQ-ITC,0.0030.014 mol L (1.05.0 g,5.4810-3 mol L-1 (2.0 g L-1),Fish;,"(Chen et al., 2018)"
+13,,FQ-ITC,L-1,5.4810-3 mol L-1 (2.0 g L-1),Shrimp,"(Chen et al., 2018)"
+14,Immunoassay,CLEIA,ng mL-l),0. 1110-3 mol L-1 (0.04 ng mL-1),Fish,"Dong et al., 2021)"
+15,,icELISA,ng mL-1,-,Fish,"(Shen et al., 2011)"
+16,,BSA-AuNCs,0.3-20.0 mol L-1, 0.19 mol L-1,Urine,"Ju et al., 2018"
+17,,L-aptamer,0.052.0 mol L-1, 4.7710~2 mol L-1,Fish,"(Luo et al., 2019"
+18,,"Se,N,Cl-CDs",0.072.5 mol L-1,2.110-2 mol L-1,Fish,"Hu et al., 2021"
+19,,N-CDs,10.080.0 mol L-1, 5.16 mol L-1,Water,"(Singh and Singh,"
+20,Spectrofluorimetry,N-CDs,10.080.0 mol L-1, 5.16 mol L-1,sample,2020)
+21,,CDs&ZIF-, 0.02-0.18 mol L-1, 2.9310-3 mol L-1,Water,"Liu et al., 2020)"
+22,,8@MIPs, 0.02-0.18 mol L-1, 2.9310-3 mol L-1,sample,"Liu et al., 2020)"
+23,,This work,L-1,L-0.93 nmol L-1,Fish,

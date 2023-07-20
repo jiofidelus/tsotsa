@@ -1,0 +1,27 @@
+,0,1,2,3,4
+0,"Three classes or categories considered:China,India and Sri Lanka",,,,
+1,LDA,,,,
+2,,,Predicted group,,
+3,Actual group,Group size,China,India,Sri Lanka
+4,China (Ch),13,13 (100.0%),0 (0.0%),0(0.0%
+5,India (In),7,0 (0.0%),7 (100.0%),0 (0.0%
+6,Sri Lanka (Sri),6,0 (0.0%),0 (0.0%),6 (100.0%)
+7,Discriminant function 1=+0.248Al-0.631Ba+1.201Ca+2.767Co-0.247Cr-0.721Cs+0.507Cu-1.211Fe-1.694Mg,,,,
+8,,,,-2.530Mn+0.111Ni-0.692Pb+0.211Rb+0.465Sr+0.540Ti-0.133V-0.051Zn,-2.530Mn+0.111Ni-0.692Pb+0.211Rb+0.465Sr+0.540Ti-0.133V-0.051Zn
+9,Discriminant function 2=-0.589Al+2.241Ba-1.558Ca+2.750Co+0.779Cr+0.607Cs-0.995Cu+0.307Fe+0.779Mg,,,,
+10,,,,0.347Mn+0.400Ni-0.415Pb+0.245Rb-0.483Sr+0.501Ti-3.238V-0.819Zn,0.347Mn+0.400Ni-0.415Pb+0.245Rb-0.483Sr+0.501Ti-3.238V-0.819Zn
+11,SIMCA,,,,
+12,China (Ch),13,13 (100.0%),0 (0.0%),0 (0.0%)
+13,India (In),7,0 (0.0%),2 (28.6%),5 (71.4%)
+14,Sri Lanka (Sri),6,1 (16.7%,3 (50.0%),2 (33.3%)
+15,Two classes or categories considered: China and India + Sri Lanka,,,,
+16,LDA,,,,
+17,,,,Predicted group,
+18,Actual group,,Group size,China,India+Sri Lanka
+19,China (Ch),,13,13 (100.0%),0 (0.0%)
+20,India+Sri Lanka(B),,13,0 (0.0%),13 (100.0%)
+21,Discriminant function=+0.023Al-0.413Ba-0.430Ca-3.646Co-0.103Cr+0.396Cs-0.043Cu+0.964Fe,,,Discriminant function=+0.023Al-0.413Ba-0.430Ca-3.646Co-0.103Cr+0.396Cs-0.043Cu+0.964Fe,
+22,,,,+1.248Mg+2.440Mn-0.268Ni+0.675Pb-0.306Rb-0.217Sr-0.697Ti+1.481V+0.392Zn,+1.248Mg+2.440Mn-0.268Ni+0.675Pb-0.306Rb-0.217Sr-0.697Ti+1.481V+0.392Zn
+23,SIMCA,,,,
+24,China (Ch),13,13 (100.0%),0 (0.0%),
+25,India+Sri Lanka (B),13,1 (7.7%),12 (92.3%),

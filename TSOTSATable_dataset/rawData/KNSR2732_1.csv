@@ -1,0 +1,10 @@
+,0,1,2,3
+0,Variable,Modela,,R2
+1,Runner,,,
+2,PRTC,,3.32+(temperature  0.51)-time 1.43-temperature2 0.0026+(time2 0.032,0.5879
+3,TEAC,,1.06+(temperature0.01+(time0.00073-temperature0.000052)-temperature time0.00010,0.2140
+4,Virginia,,,
+5,PRTC,3.10-(temperaturex0.0080),3.10-(temperaturex0.0080),0.1596
+6,TEAC,,1.76-(temperature x0.015+(time  0.048+(temperature20.000053)-(time20.0011,0.2248
+7,Spanish,,1.50 +temperature  0.0033+(time  0.014) (temperature2 0.000023)-(temperature  time  0.00018),
+8,TEAC,,1.50 +temperature  0.0033+(time  0.014) (temperature2 0.000023)-(temperature  time  0.00018),0.4622

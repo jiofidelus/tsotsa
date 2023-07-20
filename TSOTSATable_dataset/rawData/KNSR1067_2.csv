@@ -1,0 +1,36 @@
+,0,1,2,3,4,5
+0,Type of experimental,Experiment,Solvent X used for the,Solvent X used for the,Sample,Extraction
+1,design,numbera,first extraction,second extraction,mass X(mg),duration X(min
+2,Experimental design 1,1,Methanol-BHT 99:1v/v,Methanol-BHT 99:1(v/v,160,23
+3,,2,Methanol-BHT 99:1(v/v,Methanol-BHT 99:1(v/v,440,23
+4,,3,Methanol-BHT 99:1(v/v,Methanol-BHT 99:1(v/v,160,37
+5,,4,Methanol-BHT 99:1(v/v,Methanol-BHT 991(v/v,440,37
+6,,5,Methanol-BHT 99:1(v/v,Methanol-BHT 99:1(v/v),500,30
+7,,6,Methanol-BHT 99:1(v/v,Methanol-BHT 99:1(v/v,100,30
+8,,1,Methanol-BHT 99:1(v/v,Methanol-BHT 99:1(v/v,300,40
+9,,8,Methanol-BHT 99:1(v/v,Methanol-BHT 99:1(v/v,300,20
+10,,9,Methanol-BHT 99:1v/v,Methanol-BHT 99:1(v/v,300,30
+11,,10,Methanol-BHT 99:1(v/v,Methanol-BHT 99:1(v/v,300,30
+12,,11,Methanol-BHT 99:1(v/v,Methanol-BHT 99:1 (v/v),300,30
+13,Experimental design 2,1,Acetone-water-BHT 79:30:1(v/v,Acetone-water-BHT 79:30:1v/v,160,23
+14,,2,Acetone-water-BHT 79:30:1(v/v),Acetone-water-BHT 79:30:1(v/v,440,23
+15,,3,Acetone-water-BHT 79:30:1(v/v,Acetone-water-BHT 79:30:1(v/v,160,37
+16,,4,Acetone-water-BHT 79:30:1(v/v),Acetone-water-BHT 79:30:1(v/v,440,37
+17,,5,Acetone-water-BHT 79:30:1(v/v),Acetone-water-BHT 79:30:1v/v,500,30
+18,,6,Acetone-water-BHT 79:30:1(v/v),Acetone-water-BHT 79:30:1(v/v,100,30
+19,,7,Acetone-water-BHT 79:30:1(v/v),Acetone-water-BHT 79:30:1 (v/v),300,40
+20,,8,Acetone-water-BHT 79:30:1(v/v),Acetone-water-BHT 79:30:1 (v/v),300,20
+21,,9,Acetone-water-BHT 79:30:1(v/v),Acetone-water-BHT 79:30:1(v/v),300,30
+22,,10,Acetone-water-BHT 79:30:1(v/v,Acetone-water-BHT 79:30:1(v/v),300,30
+23,,11,Acetone-water-BHT 79:30:1(v/v),Acetone-water-BHT 79:30:1(v/v),300,30
+24,Experimental design 3,1,Methanol-BHT 99:1(v/v),Acetone-water-BHT 79:30:1(v/v,160,23
+25,,2,Methanol-BHT 99:1(v/v),Acetone-water-BHT 79:30:1 (v/v),440,23
+26,,3,Methanol-BHT 99:1v/v,Acetone-water-BHT 79:30:1(v/v),160,37
+27,,4,Methanol-BHT 99:1(v/v),Acetone-water-BHT 79:30:1(v/v),440,37
+28,,5,Methanol-BHT 99:1(v/v,Acetone-water-BHT79:30:1(v/v),500,30
+29,,6,Methanol-BHT 99:1(v/v,Acetone-water-BHT 79:30:1(v/v,100,30
+30,,7,Methanol-BHT 99:1(v/v,Acetone-water-BHT 79:30:1(v/v,300,40
+31,,8,Methanol-BHT 99:1(v/v,Acetone-water-BHT 79:30:1(v/v,300,20
+32,,9,Methanol-BHT 99:1(v/v),Acetone-water-BHT 79:30:1(v/v,300,30
+33,,10,Methanol-BHT 99:1(v/v,Acetone-water-BHT 79:30:1 (v/v),300,30
+34,,11,Methanol-BHT 99:1v/v,Acetone-water-BHT 79:30:1v/v,300,30

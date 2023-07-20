@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,Farm,Feed**,Hen hybrid,"Vitamin D, content",CV/%
+1,,,,g/100 g,
+2,1,Feed 1,LSL,15  1.2,8.0
+3,2,Feed 1,LSL,6.6  0.18,2.7
+4,3,Feed 1,Isabrown,14.70.16,1.1
+5,4,Feed 1,MA 86*,12.6  0.59,4.7
+6,S,Feed 2,Isabrowm,1.9+0.11,5.8
+7,6,Feed 3,MA86*,11.4  0.25,2.2
+8,7,Conc.1,Isabrown,1.35+0.023,1.7
+9,8,Conc.2,LSL,4.9 0.27,5.5
+10,,Conc.2,Isabrown,4.50  0.010,0.2
+11,10,Conc.3,LSL,7.8+0.19,2.4
+12,11,Conc.3,MA 86*,3.72  0.027,0.7
+13,12,Conc.4,MA 86*,1.78 0.057,3.2

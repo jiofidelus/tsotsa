@@ -1,0 +1,26 @@
+,0,1,2
+0,Comparison,Regression function (13C,Regression function (g15N)
+1,Bran versus,y=0.844x-5.193,y=0.895x-0.052
+2,wholemeal,,
+3,,"R=0.843,p<0.01","R=0.966,p<0.01"
+4,Wheat shorts versus,y=0.913x-1.989,y=0.922x-0.315
+5,wholemeal,,
+6,,"R=0.744,P<0.01","R=0.976,P<0.01"
+7,Wheat flour versus,y=0.750x-6.891,y=0.909x+0.411
+8,wholemeal,,
+9,,"R=0.840,p<0.01","R=0.972,p<0.01"
+10,Defatted flour versus,y=0.774x-6.016,y=0.900x+0.418
+11,wholemeal,,
+12,,"R=0.733,p<0.01","R=0.972,p<0.01"
+13,Gluten versus,y=0.836x-5.000,y=0.914x+0.360
+14,wholemeal,,
+15,,"R=0.727,p<0.01","R=0.974,p<0.01"
+16,Lipid versus,y=0.708x-14.608,
+17,wholemeal,,
+18,,"R=0.387,p<0.01",
+19,Starch versus,y=0.868x-4.051,
+20,wholemeal,,
+21,,"R=0.845,p<0.01",
+22,Crude fiber versus,y=0.813x-9.275,
+23,wholemeal,,
+24,,"R=0.389,p<0.01",

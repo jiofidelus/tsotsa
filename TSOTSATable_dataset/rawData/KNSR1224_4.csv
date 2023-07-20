@@ -1,0 +1,18 @@
+,0,1,2,3,4,5
+0,,,Canned potatoes,Canned potatoes,,
+1,Product,,"ppm total SO,","ppm total SO,",,No.of samples
+2,Canned whole potatoes,Canned whole potatoes,<10,<10,,7
+3,Canned sliced potatoes,Canned sliced potatoes,,41,,1
+4,Canned potato soup,Canned potato soup,<10,<10,,3
+5,,,Potato chips,Potato chips,,
+6,"ppm total SO,","ppm total SO,",,,No.of samples,
+7,,<10,,,10,
+8,,11,,,1,
+9,,20,,,1,
+10,,,Frozen potato products,Frozen potato products,,
+11,Product,,ppm total SO2,ppm total SO2,,No.of samples
+12,French fries,,<10,,,1
+13,French fries,,22,,,1
+14,Potato dumpling,,27,,,1
+15,Potato skin,,23,,,1
+16,Stuffed potato,,86,,,1

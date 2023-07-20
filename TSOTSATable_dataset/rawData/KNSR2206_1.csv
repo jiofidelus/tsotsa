@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Type,Filters,,Kernel size (Pool size),Strides,Activation
+1,,(Units),,,,
+2,Conv1D,8,3,,2,Relu
+3,BN,-,-,,-,
+4,Max-pooling,-,3,,2,Relu
+5,Conv1D,32,3,,2,
+6,BN,-,-,,-,
+7,Max-pooling,-,3,,2,
+8,Flatten,-,,,-,
+9,Dense,128,,,,Relu
+10,Dropout,,-,,-,-
+11,Dense,3,-,,-,Softmax

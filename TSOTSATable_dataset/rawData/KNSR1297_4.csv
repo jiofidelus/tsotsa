@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Peak,,,Peak,Identified,Identified
+1,No.,,Components,Area(%),,"Method"""
+2,140,"3,7.11-Trimethyl-2,6,10-dodecatrien-1-ol","3,7.11-Trimethyl-2,6,10-dodecatrien-1-ol",0.03,MS,
+3,141,"l,5,9-Trimethy1-12-isopropylene-","l,5,9-Trimethy1-12-isopropylene-",0.36,MS,
+4,,,"l,5.9-cyclotetradecatriene",,,
+5,154,Benzoic acid,,0.35,MS,
+6,157,Dodecanoic acid,,0.08,MS,
+7,158,Cedrol,,0.13,MS,
+8,162,Vanillin,,0.39,MS,
+9,165,4-Hydroxy-3-methoxy-acetophenone,4-Hydroxy-3-methoxy-acetophenone,0.02,MS,
+10,168,Phytol,,22.60,MS.IR,MS.IR
+11,170,Tetradecanoic acid,Tetradecanoic acid,0.57,MS,
+12,181,Palmitic acid,,7.41,MS.IR,MS.IR

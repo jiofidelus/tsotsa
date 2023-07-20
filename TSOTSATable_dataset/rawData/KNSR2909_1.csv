@@ -1,0 +1,44 @@
+,0,1,2,3,4
+0,,PRODUCT,MOISTURE,LIPID,PROTEINa
+1,,,8,8),(8)
+2,MEAT PRODUCTS,MEAT PRODUCTS,,,
+3,"Beef, ground","Beef, ground",52.60.01b,19.20.13,27.20.36
+4,"Beef, roast","Beef, roast",58.8 0.30,8.40.03,30.40.05
+5,"Beef, (roast + stew)","Beef, (roast + stew)",58.80.27,5.80.14,32.60.40
+6,"Beef, sirloin","Beef, sirloin",60.80.62,7.10.49,29.7 0.01
+7,Cold cuts,Cold cuts,59.30.61,15.10.07,15.80.05
+8,"Fish, canned (salmon","Fish, canned (salmon",65.01.97,9.80.11,23.6+0.15
+9,tuna and sardines),tuna and sardines),,,
+10,"Fish, fresh (white)","Fish, fresh (white)",75.22.38,2.90.02,21.50.11
+11,"Fish, frozen (white","Fish, frozen (white",73.40.02,3.30.03,21.2+ 0.11
+12,"Fish, frozen (halibut,","Fish, frozen (halibut,",73.20.11,2.00.03,22.60.05
+13,haddock and cod),haddock and cod),,,
+14,"Luncheon meats, canned","Luncheon meats, canned",56.30.57,17.80.32,20.10.37
+15,"Lamb, roast + chops)","Lamb, roast + chops)",56.90.18,10.90.03,29.20.40
+16,"Organ meats, kidney beef","Organ meats, kidney beef",62.50.47,4.90.22,28.10.17
+17,"Organ meats, livers","Organ meats, livers",62.20.90,5.80.02,26.00.01
+18,"chicken, calf and pork)","chicken, calf and pork)",,,
+19,"Pork, cured (bacon, ham","Pork, cured (bacon, ham",55.15.29,21.10.31,20.20.21
+20,and sausage),and sausage),,,
+21,"Pork, (roast + chops)","Pork, (roast + chops)",60.30.06,9.00.05,28.60.11
+22,"Poultry (chicken, turkey)","Poultry (chicken, turkey)",62.60.57,6.20.01,29.3 0.18
+23,"Shellfish (shrimp, scallop","Shellfish (shrimp, scallop",75.91.68,0.90.04,18.10.08
+24,"and lobster, fresh or","and lobster, fresh or",,,
+25,frozen),,,,
+26,Soup with meat,Soup with meat,88.01.62,1.60.04,3.60.06
+27,"Veal, cutlets","Veal, cutlets",65.20.11,3.80.03,28.20.26
+28,BREAD AND CEREAL,BREAD AND CEREAL,,,
+29,"Bread,crusty","Bread,crusty",29.20.00,0.90.01,11.90.00
+30,"Bread, white","Bread, white",35.90.00,1.50.01,9.60.20
+31,"Cereal, corn","Cereal, corn",1.60.00,0.40.18,7.90.08
+32,"Flour, wheat","Flour, wheat",10.40.00,0.90.04,13.2  0.20
+33,"Rice, cooked","Rice, cooked",67.60.00,0.30.04,2.80.09
+34,Waffles and pancakes,Waffles and pancakes,41.00.99,11.10.08,6.90.03
+35,DAIRY PRODUCTS,DAIRY PRODUCTS,,,
+36,"Cheddar,Edam, Brie","Cheddar,Edam, Brie",40.41.77,28.20.92,25.30.08
+37,Cottage cheese,Cottage cheese,79.20.21,3.60.24,11.90.38
+38,"Cheese, processed slices","Cheese, processed slices",42.90.85,24.80.29,17.50.13
+39,"Yoghurt,plain","Yoghurt,plain",77.00.00,3.90.07,6.20.07
+40,VEGETABLES,,,,
+41,"Mushrooms, fresh (cooked)","Mushrooms, fresh (cooked)",91.20.52,,3.20.03
+42,"Mushrooms, canned (cooked)","Mushrooms, canned (cooked)",91.2 0.52,,2.90.02

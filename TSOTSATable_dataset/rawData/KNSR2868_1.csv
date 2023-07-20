@@ -1,0 +1,30 @@
+,0,1,2,3,4
+0,Name,Precursor,Product,Fragmentor,Collision
+1,,ion m/z[M,ions m/z,(V,energy(V)
+2,,+H]+,,,
+3,Glucosone quinoxaline,251.1,173.2*/,75,20/20
+4,(GS-Q),,161.2,,
+5,"1,2-pentosone",221,157*/,105,20/20
+6,"quinoxaline (1,2-PS-",,173,,
+7,Q),,,,
+8,"2,3-pentosone",221,156.9*/,80,40/20
+9,"quinoxaline (2,3-PS-",,144,,
+10,Q),,,,
+11,3-deoxyglucosone,235,175*/,115,20/20
+12,quinoxaline(3-DG-Q),,187.1,,
+13,3-deoxypentosulose,205,187.1*/,110,15/30
+14,quinoxaline(3-DP-Q,,143,,
+15,1-deoxypentosulose,205,158*/,100,30/40
+16,quinoxaline (1-DP-Q),,145,,
+17,"1,4-dideoxyglucosone",219,159*/,100,20/20
+18,"quinoxaline (1,4-",,201,,
+19,DDG-Q),,,,
+20,"1,4-dideoxypentosulose",189.1,171.1*/,100,15/15
+21,"quinoxaline (1,4-",,159.1,,
+22,DDP-Q),,,,
+23,Methylglyoxal,145,77.1*/,145,35/35
+24,quinoxaline (MGO,,51.1,,
+25,Q),,,,
+26,"2,3-butanedione",159,77*/,145,40/30
+27,"quinoxaline (2,3-BD-",,117.9,,
+28,Q),,,,

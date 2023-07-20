@@ -1,0 +1,12 @@
+,0,1,2,3
+0,Spiking recovery,0.1 g/g,0.05g/g,0.01g/g
+1,replicates,validation leve,validation leve,validation leve2
+2,Sp_R1,85.5,109,55.1
+3,Sp_R2,91.5,85.8,60.7
+4,Sp_R3,67.5,81.8,77.3
+5,Sp_R4,90,83,50.3
+6,Sp_R5,69.5,81.9,45.8
+7,Sp_R6,87.2,76.6,51.2
+8,Average recovery,81.9,86.4,56.7
+9,%,,,
+10,RSD%,11.8,12.1,18.1

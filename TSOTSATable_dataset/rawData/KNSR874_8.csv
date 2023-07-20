@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,,HPLC/ESI/MS,based on organic phosphorus content,based on organic phosphorus content,based on total phosphorus content,based on total phosphorus content
+1,,InsPse,InsPs eq.d.e (mol/g),degree of overestimation (%),InsP eqemol/g,degree of overestimation (%)
+2,,(mol/g),,,,
+3,macadamias,2.670.22c,7.6  0.1b,184,10.9  0.5a,306
+4,pecans,1.79 0.13c,13.11.0b,632,19.4  0.8a,985
+5,hazelnuts,3.66  0.17c,14.50.5b,296,19.6  1.4a,436
+6,Brazil nuts,12.6  0.82c,31.41.1b,149,40.9  5.6a,224
+7,pistachios,4.17  0.44c,18.90.5b,352,27.6  0.8a,561
+8,walnuts,4.80  0.60c,15.70.7b,227,21.2  1.7a,343
+9,cashews,2.34  0.06c,18.5  0.2b,691,28.5  2.3a,1119
+10,wheat aleurone,44.10.95c,12.5  0.1a,44,101.9  12.8a,131
+11,corn germ,5.46 0.21b,12.5  0.1a,129,12.8  1.2a,134
+12,rice bran,63.360.82c,93.7  4.2b,48,112.8  2.9a,78

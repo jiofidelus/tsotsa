@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,Amino acid (mg/g of milk),Genotype,Stage of lactation,Stage of lactation,,SEM1
+1,,,Early,Mid,Late,
+2,Arginine,Nguni,1.50b,1.30b,1.00a,0.230
+3,,Crossbred,0.90a,1.00a,1.00a,0.250
+4,Threonine,Nguni,1.50b,1.70b,2.10b,0.110
+5,,Crossbred,1.20a,1.30a,1.40a,0.120
+6,Methionine,Nguni,1.50b,1.90b,1.80b,0.110
+7,,Crossbred,0.50a,0.50a,0.60a,0.110
+8,Valine,Nguni,1.30a,1.80b,1.60ab,0.130
+9,,Crossbreds,1.30a,1.40a,1.40a,0.140
+10,Phenylalanine,Nguni,1.70b,1.50b,1.30a,0.150
+11,,Crossbred,1.00a,1.10a,1.20a,0.160
+12,Isoleucine,Nguni,1.50b,1.50b,1.30a,0.090
+13,,Crossbred,1.20a,1.20a,1.20a,0.090
+14,Leucine,Nguni,2.20b,2.30b,1.90a,0.160
+15,,Crossbred,1.70a,1.80a,1.80a,0.180
+16,Histidine,Nguni,1.00b,1.10b,0.80a,0.100
+17,,Crossbred,0.70a,0.70a,0.70a,0.120
+18,Lysine,Nguni,2.00a,2.20b,2.60b,0.090
+19,,Crossbred,1.90a,2.00a,1.90a,0.100

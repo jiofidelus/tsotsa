@@ -1,0 +1,56 @@
+,0,1,2,3
+0,Food groups,Food groups,Definition and examples of content,WEIGHT
+1,High-fat milk,High-fat milk,Cow's milk or sweetened milk drinks such as cocoa >2% and 5%,Raw
+2,Other animal milk,Other animal milk,"Horse-, goat-, sheep milk",Raw
+3,Creams,Creams,Creams >5% fat,Prepared
+4,Ice cream,Ice cream,All dairy ice creams,Prepared
+5,Sour milk and sour milk products,Sour milk and sour milk products,"Sour milk, yogurt, kefir, cultured milk, butter milk, sour cream, creme fraiche",Prepared
+6,Cheese,Cheese,Various types of cheese; Two groups will be separated:,
+7,,,"Fresh cheeses, e.g. Cottage cheese, cream cheese and other similar cheese spreads, homemade",Prepared
+8,,,"cheese,mozzarella",
+9,,,"Aged cheeses,e.g.Gouda,Emmentaler,Edam,Gruyere,Camembert,Brie,cheese spreads e.g.in",Prepared
+10,,,"tubes, contain often aged cheese, check the ingredients first before categorization), blue cheese like",
+11,,,"Roquefort, Finnish ""sulatejuusto"" (made out of Edam)",
+12,Whey,Whey,"Liquid whey, whey concentrate, whey isolate (powders/concentrates are converted to liquid)",Liquid
+13,NON-DAIRY PRODUCTS,NON-DAIRY PRODUCTS,,
+14,Non-dairy products,Non-dairy products,"Non-dairy yoghurts, ice cream/desserts, kefirs, creams, e.g. almond, rice, oat yoghurt and ice cream",Prepared
+15,MEAT AND MEAT PRODUCTS,MEAT AND MEAT PRODUCTS,"Various types, e.g. fillet, minced, cold-cuts",
+16,Pork,,"Pork, including non-cured bacon",Raw
+17,Beef,,"Beef,veal",Raw
+18,Poultry,Poultry,"Various poultry meat,e.g.goose, duck, game bird, pheasant",Raw
+19,"Lamb, goat, horse","Lamb, goat, horse","Lamb, goat meat, horse",Raw
+20,Game,Game,"Various game meat, e.g. rabbit,venison, deer,elk",Raw
+21,Processed meats and sausages,Processed meats and sausages,"Cold-cuts, sausages, brawn, bologna, spam, liver sausage, smoked meat, cured bacon",Prepared
+22,Organ meats/offal,Organ meats/offal,Offal from all kind of meat types,Raw
+23,FISH AND FISH PRODUCTS,FISH AND FISH PRODUCTS,"Various types, e.g. fillet,whole fish (edible part)",
+24,Fresh and frozen fish,Fresh and frozen fish,All types of fresh and frozen fish,Raw
+25,Processed fish,Processed fish,"Pickled, fermented, dried or smoked fish",Prepared
+26,Canned fish,Canned fish,"All types of canned fish e.g. canned tuna, salmon",Prepared
+27,"Shellfish, other seafood","Shellfish, other seafood","Shrimp, clam, crawfish, oysters, crab, caviar, lobster, crab cake as well as canned shell fish",Raw
+28,EGGS,EGGS,"Various types, e.g. cooked, poached, fried form is taken into account: powder, conversion to",
+29,,,raw liquid form,
+30,Eggs,,"All type of eggs, e.g. chicken, duck, goose; Egg powder will be converted back to raw",Raw
+31,BEVERAGES,BEVERAGES,Various types; form is taken into account: powder conversion to liquid form,
+32,Coffee,Coffee,"Coffee, consider powders",Liquid
+33,Tea,,"Teas from tea plant, unsweetened ice tea, powders e.g. lemon tea; not including herbal or fruit teas",Liquid
+34,Light Beverages including cola,Light Beverages including cola,"Unsweetened or artificially sweetened/low-calorie (e.g. Stevia) sweetened soft drinks, fruit and",Liquid
+35,,,"berry drinks, ice, and nectar as well as instant teas (20 kcal/100 g)",
+36,Sugar sweetened beverages including cola,Sugar sweetened beverages including cola,"Sugar sweetened soft drinks, fruit and berry drinks, ice, and nectar as well as regular ice tea, instant",Liquid
+37,,,teas (>20 kcal/100 g),
+38,Alcohol,Alcohol,"All types, e.g. wine, beer, cognac, brandy, liquor",Liquid
+39,CONFECTIONARY,CONFECTIONARY,,
+40,Sweets,Sweets,"Total sugar candies, non-chocolate power- and energy bars, candy mixtures with chocolate as minor",Prepared
+41,,,component,
+42,Chocolate,Chocolate,"High-fat sweets, chocolate, M & M, raisins with chocolate, and chocolate power- and energy bars",Prepared
+43,,,"cocoa powder in a cocoa drink will not be counted, cocoa as liquid is grouped under the",
+44,,,corresponding milk group (see above),
+45,INFANT FORMULAS,INFANT FORMULAS,Various types; form is taken into account: powder conversion to liquid form,
+46,Regular cow's milk based infant formulas,Regular cow's milk based infant formulas,All types of regular cow's milk based infant formulas,Liquid
+47,,Partially hydrolyzed cow's milk based infant formulas,All types of partially hydrolyzed cow's milk based infant formulas,Liquid
+48,,Fully hydrolyzed cow's milk based infant formulas and,All types of fully hydrolyzed cow's milk based infant formulas and amino acid infant formulas,Liquid
+49,,amino acid (elemental formulas,,
+50,Soy base infant formulas,Soy base infant formulas,All types of soy based infant formulas,Liquid
+51,Other non-dairy infant formulas,Other non-dairy infant formulas,All types of non-dairy infant formulas,Liquid
+52,Other animal (dairy) infant formulas,Other animal (dairy) infant formulas,"All types of infant formulas from goat, sheep or horse milk",Liquid
+53,MISC.,MISC.,,
+54,Ketchup,Ketchup,Various types,Prepared

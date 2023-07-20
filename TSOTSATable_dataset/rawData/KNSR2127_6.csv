@@ -1,0 +1,65 @@
+,0,1,2,3,4,5,6
+0,Bioactive compound,Bioactive compound,Food,Processing,In vitro digestion method,Effect on bioaccessibility,Reference
+1,TAC(DPPH,TAC(DPPH,Apples,HPP,Solubility, TAC at 4-8-10min,Labarca
+2,,,Granny Smith,"500 MPa/202C/2, 4, 8 and 10min",,,Labarca
+3,,,,,,,et al.
+4,,,,,,,2011a)
+5,TAC(DPPH),TAC(DPPH),Algarrobo (Prosopis,HPP,Solubility, TACwith all HPP conditions 2-4-8-Briones-, TACwith all HPP conditions 2-4-8-Briones-
+6,,,chilensis seeds,"500 MPa/202C/ 2, 4, 8 and 10min",Solubility,10min,Labarca
+7,,,,,,,et al.
+8,,,,,,,2011b)
+9,Ascorbic acid,Ascorbic acid,Milk-based (whole,TT,Solubility,TT confers  ascorbic acid than HPPCilla et al.,TT confers  ascorbic acid than HPPCilla et al.
+10,,,"milk, skimmed milk",902C/30s),,,(2012)
+11,,,and soya milk) fruit,HPP,,,
+12,,,beverages,400 MPa/40C/5min,,,
+13,-and,-and,Milk-based(whole,TT,Solubility,HPP provides  -tocopherol in all,
+14,,8-tocopherol,"milk, skimmed milk",902C/30s),,samples and  - and &- tocopherols,
+15,,,and soya milk) fruit,HPP,,in soya milk samples than TT,
+16,,,beverages,(400 MPa/402C/ 5min),,,
+17,EGC,EGC,without milk (10% or,TT:,Solubility," EGC,EGCG and ECG in h-GTE with/Xie et al."," EGC,EGCG and ECG in h-GTE with/Xie et al."
+18,EC,,without milk (10% or,Ambient temperarute-brewed (232C),,without milk vs. GTE,(2013)
+19,,,25%),(GTE),,,
+20,EGCG,EGCG,,Boiling-brewed (1002C)(h-GTE),,,
+21,GCG,GCG,,,,,
+22,ECG,ECG,,,,,
+23,,"Total polyphenols and Red tomatoes (fresh,","Total polyphenols and Red tomatoes (fresh,",TT:,Dialysis,t polyphenols and flavonoids Bacs,Kamiloglu
+24,,"flavonoids,TAC","paste, puree, juice,",,,and TAC in paste and dried vs. fresh et al.,and TAC in paste and dried vs. fresh et al.
+25,,"ABTS,DPPH,FRAP","dried, chopped, and",,,tomato,(2014)
+26,,CUPRAC),chopped and cooked),Cooking,,No differences in other treatments,
+27,,,,(70-802C/5-70min),,vs.fresh tomato,
+28,,Total polyphenols and Cereal: Finger millet,Total polyphenols and Cereal: Finger millet,TT:,Dialysis,Finger millet: Pressure cooking ,
+29,,flavonoids,and pearl millet,,,"polyphenols and flavonoids Bacs,",
+30,,,,,,but other TT  polyphenols Bacs and,
+31,,,,,,do not affect to flavonoids,
+32,,,,"Roasting (1502C, 5min), pressure",,Pearl millet:All TT  polyphenols,
+33,,,,"cooking, boiling (5, 10,15min) and",,"and flavonoids Bacs, except roasting",
+34,,,,microwave heating,,,
+35,,"Total polyphenols and Cereal: Wheat,","Total polyphenols and Cereal: Wheat,",TT:,Dialysis,"Roasting: In general,  or no effect on Hithamani","Roasting: In general,  or no effect on Hithamani"
+36,,flavonoids,shorgum,,,Bacs,and
+37,,,"Legumes:Green gram,Roasting (150C,5min,pressure",,,"Pressure cooking:  Bacs in shorgum,",Srinivasan
+38,,,chickpea,"cooking, boiling (5, 10,15min) and",,wheat(polyphenols) and chickpea,2014b
+39,,,,microwave heating,,(flavonoids),
+40,,,,,,Boiling:  Bacs of flavonoids in all of,
+41,,,,,,them and polyphenols in shorgum,
+42,,,,,,"Microwave heating:  Bacs in wheat,",
+43,,,,,,"shorgum and green gram, but  Bacs",
+44,,,,,,in chickpea,
+45,"Total polyphenols,","Total polyphenols,",Black carrot jam and,TT:,Dialysis, TAC(CUPRAC method) only in jamKamiloglu, TAC(CUPRAC method) only in jamKamiloglu
+46,,"TAC (ABTS,",marmalade,Boiling (1002C/30min),, phenolic acids Bacs in both,et al.
+47,,CUPRAC) and,,,,samples,2015)
+48,,phenolic acids,,,,,
+49,"Vitamin C,total","Vitamin C,total","Fruit juice,milk-based TT","Fruit juice,milk-based TT",Dialysis,Vitamin C  with HPP in milk-juice,Rodriguez-
+50,,HAA(DPPH),fruit beverages and soy,,,and I with TT in juice and soy milk-,Roque et al.
+51,,HAA(DPPH),milk-based fruit,,,juice.No effect with HIPEF,2015
+52,,,beverages,902C/60s),,"Total polyphenols  with HPP,HIPEF",
+53,,,,HPP,,"HAA  with HPP,HIPEF and TT in",
+54,,,,(400MPa/402C/5min),,milk-juicebutTTHAA in juice and,
+55,,,,HIPEF,,soy milk-juice,
+56,,,,"(35 kVcm-1, 4ms bipolar pulses,200",,,
+57,,,,"Hz,1800ms)",,,
+58,LAA(DPPH),LAA(DPPH),"Fruit juice, milk-basedTT (902C/60 s)","Fruit juice, milk-basedTT (902C/60 s)",Solubility and dialysis,"LAA  with HIPEF, HPP and TT in",Rodriguez-
+59,,,fruit beverages and soy,,,"milk-juice,but soy milk-juice",Roque et al.
+60,,,milk-based fruit,HPP (400 MPa/402C/5min),,"In juice,HIPEF and HPP LAA,but TT2016","In juice,HIPEF and HPP LAA,but TT2016"
+61,,,beverages,HIPEF,,had no effect,
+62,,,,"35 kVcm-1,4ms bipolar pulses,200",,,
+63,,,,"Hz,1800ms)",,,

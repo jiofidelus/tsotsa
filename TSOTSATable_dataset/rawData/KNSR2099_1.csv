@@ -1,0 +1,72 @@
+,0,1,2,3,4
+0,WWEIA Category Descriptiona,No.food,No.food,,No. food codes
+1,,codes in,codes,,with fortified
+2,,category,fortified,,ingred
+3,Milk and Dairy,,,,
+4,"Milk,whole",9,9,,
+5,"Milk, reduced fat",6,4,,1
+6,Milklowfat,7,5,,1
+7,Milk nonfat,7,6,,
+8,"Flavored milk, whole",12,6,,5
+9,"Flavored milk, reduced fat",22,12,,10
+10,"Flavored milk, lowfat",14,9,,5
+11,"Flavored milk, nonfat",17,9,,7
+12,Milk shakes and other dairy,14,2,,5
+13,drinks,,,,
+14,Milk substitutes,28,19,,7
+15,Cheese,61,5,,3
+16,"Yogurt, regular",17,1,5,16
+17,Cottage/ricotta cheese,16,,5,1
+18,Protein Foods,,,,
+19,"Beef, excludes ground",83,5,,8
+20,"Lamb, goat, game",45,,,2
+21,Liver and organ meats,15,,,1
+22,"Chicken, whole pieces",161,3,,38
+23,"Chicken patties, nuggets and",15,10,,2
+24,"Turkey, duck, other poultry",49,,,7
+25,Fish,340,,,169
+26,Shellfish,94,1,,35
+27,Eggs and omelets,195,,,137
+28,Cold cuts and cured meats,67,,,3
+29,Bacon,13,1,,
+30,"Beans, peas, legumes",79,,,15
+31,Nuts and seeds,79,1,,1
+32,Ground beef,25,9,,6
+33,Ground beef,4,,,
+34,Frankfurters,12,,,
+35,Sausages,27,,,
+36,Mixed Dishes,,,,
+37,Meat mixed dishes,307,,1,169
+38,Poultry mixed dishes,153,3,,103
+39,Seafood mixed dishes,120,,,67
+40,Rice mixed dishes,147,10,,99
+41,"Pasta mixed dishes,excludes",195,10,,133
+42,macaroni and cheese,,,,
+43,Macaroni and cheese,16,3,,13
+44,Turnovers and other grain-based,52,13,,37
+45,items,,,,
+46,Fried rice and lo/chow mein,45,,,15
+47,Stir-fry and soy-based sauce,74,4,,13
+48,mixtures,,,,
+49,"Egg rolls, dumplings, sushi",25,,,7
+50,Burritos and tacos,54,5,,48
+51,Other Mexican mixed dishes,63,6,,33
+52,Pizza,91,29,,52
+53,Burgers (single code),99,33,,62
+54,Frankfurter sandwiches (single,96,,,69
+55,code),,,,
+56,Chicken/turkey sandwiches,36,16,,19
+57,single code,,,,
+58,Egg/breakfast sandwiches (single,50,20,,30
+59,code),,,,
+60,Other sandwiches (single code),78,12,,66
+61,Cheese sandwiches (single code),50,,,50
+62,Peanut butter and jelly,28,,,28
+63,sandwiches (single code),,,,
+64,Soups,232,27,,78
+65,Nachos,7,,,
+66,Grains,30,,,
+67,Rice,30,4,,16
+68,"Pasta, noodles, cooked grains",26,,,10
+69,Yeast breads,126,60,,46
+70,Rolls and buns,39,28,,8

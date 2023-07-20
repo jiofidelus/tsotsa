@@ -1,0 +1,19 @@
+,0,1,2,3
+0,Coating,Source,Ingredients,Amount of coating
+1,,,,uncooked fishsticks
+2,,,,(g)
+3,Connercial batter,Catering,"Wheat flour, leavening, starch",
+4,,wholesalers,"animal shortening, non-fat milk",25.6
+5,Recipe-prepared,,"Wheat flour, salt, oil, water,",
+6,batter,,egg white,29.2
+7,"Commercial, prepared",Supermarket,"Crumbs, oil, starch, salt,",
+8,fishsticks,,phosphates (purchased with coating,
+9,,,applied),44.0c
+10,Commercial,Fast food,,
+11,breading l,outlet,Not available,8.8
+12,Commercial,,,
+13,breading 2,Supermarket,"Wheat and soy flours, dextrose,",
+14,,,"leavening, sugar, vegetable",
+15,,,"protein, herbs, spices",5.6
+16,Recipe-prepared,Recipe,"Wheat flour, egg, breadcrumbs",16.8
+17,breading,,,16.8

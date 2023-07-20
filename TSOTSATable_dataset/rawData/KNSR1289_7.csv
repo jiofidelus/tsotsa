@@ -1,0 +1,8 @@
+,0,1,2,3
+0,Iron Concentration,,,Zinc Concentration
+1,Sources of Variation,Df,Mean Sq,Mean Sq
+2,Genotype,19,439 *,21*
+3,Location,2,1732*,725*
+4,Location x Replication,6,1049*,62*
+5,Genotype x Location,38,692*,15
+6,Residuals,114,256,8

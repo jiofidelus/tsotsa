@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7
+0,Sample type,Parameters,Measurement results (g/kg),Measurement results (g/kg),,,,
+1,,,DONa,D3G,NIV,3ADON,15ADON,FUS-X
+2,,Incidenceb,90% (9/10),90% (9/10),50% (5/10),30% (3/10),NDc,ND
+3,Conventional corn,Mean of positives,11.47,1.66,3.06,2.37,ND,ND
+4,Conventional corn,Median of positives,8.92,1.15,2.10,2.60,ND,ND
+5,,Concentration range,0.7933.38,0.144.75,1.91-5.80,1.203.30,ND,ND
+6,,Incidence,100% (15/15),100% (15/15),100% (15/15),100% (15/15),100% (15/15),100% (15/15)
+7,Organic corn,Mean of positives,869.61,197.74,112.02,6.80,165.40,13.04
+8,Organic corn,Median of positives,852.32,155.47,78.21,6.63,128.53,10.42
+9,,Concentration range,219.501223.3,34.3-419.1,13.50-234.10,0.3011.80,38.60298.30,1.20-28.70
+10,,Incidence,92% (11/12),92% (11/12),67% (8/12),25% (3/12),ND,17% (2/12)
+11,Conventional wheat,Mean of positives,35.61,5.42,27.69,6.34,ND,2.01
+12,Conventional wheat,Median of positives,11.92,2.55,0.70,6.40,ND,2.02
+13,,Concentration range,3.81-153.54,0.44-17.60,0.45-126.23,2.3010.32,ND,53% (8/15)
+14,,Incidence,100% (15/15),100% (15/15),100% (15/15,ND,33% (5/15),53% (8/15)
+15,Organic wheat,Mean of positives,40.60,8.21,19.74,ND,14.26,2.83
+16,Organic wheat,Median of positives,27.88,3.20,1.86,ND,11.18,2.65
+17,,Concentration range,0.7499.86,0.2524.67,0.4579.9,ND,6.0330.61,1.504.61
+18,,Incidence,100% (6/6),100% (6/6),100% (6/6),ND,ND,100% (6/6)
+19,Conventional rice,Mean of positives,3.97,0.57,25.14,ND,ND,30.10
+20,Conventional rice,Median of positives,4.10,0.15-0.95,21.20,ND,ND,26.70
+21,,Concentration range,1.606.7,0.15-0.95,9.1-31.52,ND,ND,6.3055.90
+22,,Incidence,78% (7/9),33% (3/9),100% (9/9),ND,ND,100% (9/9)
+23,Organic rice,Mean of positives,1.17,0.32,4.65,ND,ND,8.58
+24,Organic rice,Median of positives,0.93,0.31,4.80,ND,ND,8.91
+25,,Concentration range,0.482.47,0.150.5,0.4610.93,ND,ND,3.2317.10
+26,Total samples,Incidence,94% (63/67),88% (59/67),86.5% (58/67),31.3% (21/67),29.8% (20/67),61.2% (58/67)
+27,,Mean of positives,225.08,53.21,41.47,6.10,127.62,11.76
+28,,Median of positives,14.10,3.20,12.20,6.40,111.15,7.89
+29,,Concentration range,0.481223.0,0.14419.1,0.45-234.1,0.30-11.8,6.0298.3,0.855.90

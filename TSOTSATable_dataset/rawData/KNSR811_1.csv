@@ -1,0 +1,20 @@
+,0,1,2,3,4
+0,No,Antibodies,Analyte in,Labelled,Detected
+1,,immobilized in the T,the sample,antibodies,interaction in the
+2,,zone(s),,,T zone
+3,,Single ICA of chicken IgY,,,
+4,1,RACI,IgY,RACI-AuNPs,Yes
+5,2,RACI,IgY,RAOI-AuNPs,No
+6,3,RACI,OVA,RACI-AuNPs,No
+7,4,RACI,OVA,RAOI-AuNPs,No
+8,Single ICA of OVA,Single ICA of OVA,,,
+9,5,RAOI,IgY,RACI-AuNPs,No
+10,6,RAOI,IgY,RAOI-AuNPs,No
+11,7,RAOI,OVA,RACI-AuNPs,No
+12,8,RAOI,OVA,RAOI-AuNPs,Yes
+13,,Double ICA of IgY and OVA,,,
+14,9,RACI/RAOI,IgY/OVA,RACI-AuNPs,In the T2 zone
+15,10,RACI/RAOI,IgY/OVA,RAOI-AuNPs,In the T1 zone
+16,,,,RACI-AuNPs,In the T1
+17,11,RACI/RAOI,IgY/OVA,And,
+18,,,,RAOI-AuNPs,

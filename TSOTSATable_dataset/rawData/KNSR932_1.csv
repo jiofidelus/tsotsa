@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Air inlet temperature (C),Air outlet temperature (C),(mL/min),Moisture of,Total phenolics,Total,Antioxidant
+1,,,(mL/min),microencapsulates (%),,"anthocyanins""","activity"""
+2,140,812,8.5,16.2  0.5a,19.711.73a,13.56  1.05a,102.05  3.72a
+3,,802,9.1,17.60.5ab,22.781.68ab,15.700.08b,101.892.93ab
+4,,802,9.6,20.5  0.9b,23.691.16ab,15.61  0.47b,102.22  0.62a
+5,160,952,8.5,15.3  0.2c,18.33  0.89ac,12.54  0.76a,96.142.91bc
+6,,95 2,9.1,16.10.3c,18.240.67ac,12.42  0.48a,95.890.43c
+7,,922,9.6,18.91.1ab,18.770.99ac,11.98  0.42c,97.7 0.54ac
+8,,,Blueberry concentrated extract (freeze dried sample without mesquite gum),,24.121.21ad,16.52  0.78d,115.411.69d
+9,Slurry of blueberry prior spray drying,Slurry of blueberry prior spray drying,,,24.92  2.64ad,16.42  1.13d,116.2  2.3d

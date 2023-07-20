@@ -1,0 +1,19 @@
+,0,1
+0,Forward power (W),1000
+1,Gas flows (lmin-,
+2,Coolant,15.0
+3,Auxiliary,1.5
+4,Nebuliser type,Cross flo
+5,Nebuliser pressure (kPa),150
+6,Pump speed (revmin-),20
+7,PMT voltage (V),650
+8,Stabilization time (s),10
+9,Detection wavelengths (nm),
+10,Al,396.152
+11,Ba,455.403
+12,Ca,393.366
+13,Fe,259.940
+14,Mg,279.533
+15,Mn,257.610
+16,Sr,407.771
+17,Zn,213.856

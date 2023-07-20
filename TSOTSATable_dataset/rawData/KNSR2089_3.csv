@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7
+0,Botanical family,Variety,Lutein,Zeax,-Crypt,-Caro,B-Caro,Lyco
+1,Species,Cultivar,,,,,,
+2,Apiaceae,,,,,,,
+3,Apium graveolens L.,var.dulce,,,,,,
+4,,celery(stalks,3.05,,,,2.64,
+5,,var.rapaceum,,,,,,
+6,,celeriac(leaves),4.25,,,,3.42,
+7,,celeriac (root),0.02,,,,0.14,
+8,Daucus carota L.,ssp. sativus,,,,,,
+9,,carrot Bolero (orange),0.06,,-,2.63,6.82,-
+10,,carrot Deep Purple(purple),0.82,,,0.07,0.20,
+11,,carrot Kuittinger(white),-,,,,,
+12,,carrot Nutrired (reddish),,-,-,0.07,2.28,0.92
+13,,carrot Yellow Mello (yellow,0.23,-,-,,0.10,
+14,Foeniculum vulgare L,var.azoricum,,,,,,
+15,,fennel (leaves),4.86,-,,,4.26,-
+16,,fennel (bulb),0.06,,-,-,0.13,-
+17,Solanaceae,,,,,,,
+18,Capsicum annuum L.,,,,,,,
+19,,pepper(orange),0.41,2.20,0.06,0.42,0.50,
+20,,pepper(red),0.21,,0.42,0.48,1.60,1
+21,,pepper(yellow),0.40,0.17,0.53,0.11,0.16,
+22,Lycopersicon lycopersicum L.,,,,,,,
+23,,tomato Climberley,,,,,0.57,8.65
+24,,tomato Komeet,,,1,,0.47,7.20
+25,,tomato Plaissance,,,1,,0.48,7.56

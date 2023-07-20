@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7
+0,Parameters,,Compounds,,,,,
+1,,,Caffeic,5-CQ,4-CQ,"3,4-","3,5-","4,5-"
+2,,,acid,,,DQ,DQ,DQ
+3,Limit of detection,,0.017,0.013,0.017,0.017,0.013,0.013
+4,g100mL-1,,,,,,,
+5,Limit of quantification,Limit of quantification,0.034,0.026,0.034,0.034,0.026,0.026
+6,g100mL-1,,,,,,,
+7,Linear range,,0.034 a,0.026,0.034,0.034,0.026,0.026
+8,g100mL-1,,25.0,a 25.0,a 25.0,a55.0,a25.0,a 25.0
+9,Lack of fit test (F1),,2.13,2.82,1.77,1.01,2.58,2.15
+10,Precision on,Level1,6.0,5.3,5.4,5.9,5.9,6.0
+11,the day in,Level 2,2.4,2.5,2.5,2.2,2.3,2.3
+12,relative,Level3,3.1,3.3,3.0,2.9,3.1,3.0
+13,standard,,,,,,,
+14,deviation,,,,,,,
+15,n=10,,,,,,,
+16,Precision,Level 1,0.3,0.9,0.5,0.3,0.7,0.8
+17,between,Level 2,0.3,0.2,1.6,1.4,1.6,2.6
+18,days in,Level 3,0.6,0.9,1.0,0.4,0.5,0.7
+19,relative,,,,,,,
+20,standard,,,,,,,
+21,deviation,,,,,,,
+22,n=3,,,,,,,

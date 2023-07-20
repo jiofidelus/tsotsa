@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8
+0,,First Zone,,,,Second Zone,,,
+1,Analyte,Honeydew (n =20),,Propolis(n=20,,Blossom honey (n=20,,Propolis (n = 20),
+2,,Concentration,Frequency,Concentration,Frequency,Concentration,Frequency,Concentration,Frequency
+3,,meang/kg,(%),"(mean,g/kg)",(%),"mean,g/kg)",(%),"(mean, g/kg)",(%)
+4,Naphthalene,<LOQ,-,<LOQ,-,<LOQ,-,9.8*,5
+5,Fluorene,<LOQ,-,5.81  14.2,20y,<LOQ,-,17.12  19.3,55x
+6,Phenantrene,1.74  2.7c,25,18.3  23.9b,65xy,2.78  3.1c,40yz,51.7  38.3a,85X
+7,Anthracene,<LOQ,-,<LOQ,-,<LOQ,-,11.35*,5
+8,Fluorenthene,<LOQ,-,3.79  7.1b,30y,<LOQ,-,14.81  25.6a,70x
+9,Pyrene,<LOQ,-,2.51  3.3b,35y,1.13  1.9b,15,7.35  5.4a,90x
+10,Benzo(a),<LOQ,-,3.87*,5,<LOQ,-,1.37  4.2,10
+11,anthracene,,,,,,,,
+12,Chrysene,0.73  0.7b,30y,1.6  3.4ab,25y,0.79  0.7b,35xy,2.75  3.7a,50x
+13,PCB28,<LOQ,-,3.23  7.4b,20,<LOQ,-,15.01  27.5a,30
+14,PCB52,<LOQ,-,8.94*,5y,<LOQ,-,8.8  18.9,25X
+15,PCB138,<LOQ,-,<LOQ,-,<LOQ,-,6.8  17.3,15
+16,PCB153,<LOQ,,<LOQ,-,<LOQ,,12.98  26.9,20
+17,PCB180,<LOQ,,<LOQ,-,<LOQ,,14.19  34.3,15
+18,PCB118,<LOQ,,<LOQ,-,<LOQ,,28.47  69.0,15
+19,"p,p'-DDE",<LOQ,,15.16  27.7b,35y,<LOQ,,46.1  48.5a,75X
+20,Alfa-HCH,<LOQ,,28.86  61.4,25,<LOQ,,32.38  86.7,15
+21,Lindane,<LOQ,,118.84  206.6b,30y,<LOQ,,328.28  371a,65x
+22,Beta-HCH,<LOQ,-,46.16  78.6b,40,<LOQ,,84.67  104.0a,55
+23,PBDE 85,<LOQ,,<LOQ,,<LOQ,,1.78,5
+24,Contamination,35 %y,,85%,,45%y,,100%,
+25,Frequency,,,,,,,,

@@ -1,0 +1,38 @@
+,0,1,2,3,4,5,6,7,8
+0,Compounds,CAS,RI,Sc,Wa-Sc,Zr-Sc,Zb-Sc,Sp-Sc,Kf
+1,Other esters,,,,,,,,
+2,Methyl butyrate*,623427,686,23.0  7.78a,21.4  0.64a,16.5  0.99a,27.5  2.87a,18.2 1.88a,523 13.8b
+3,Methyl pentanoate,624-24-8,785,ND,ND,ND,ND,ND,2.48  0.17a
+4,Isobutyl isobutyrate,97-85-8,856,ND,ND,ND,ND,ND,1.71  0.03a
+5,Methyl hexanoate,106-70-7,884,3.26  0.92a,3.46  0.38a,4.01  0.31a,3.74  0.10a,4.24  0.45a,43.8  0.99b
+6,Propyl butyrate,105-66-8,892,ND,ND,ND,ND,ND,8.91 0.15a
+7,Butyl isobutyrate,97870,920,ND,ND,ND,ND,ND,1.33  0.03a
+8,Isobutyl butyrate,539-90-2,951,ND,ND,ND,ND,ND,28.7  0.46a
+9,Butyl butyrate*,109-21-7,984,ND,ND,ND,ND,ND,21.5  0.29a
+10,Isoamyl butyrate*,10627-4,1019,ND,ND,1.31  0.11a,1.63  0.43a,ND,ND
+11,Methyl benzoate,93583,1060,ND,ND,ND,ND,ND,7.22  1.32a
+12,Methyl octanoate,111-11-5,1083,56.0  11.6b,39.1  3.93b,58.2  4.31b,53.6  0.38b,53.3  14.32b,10.0  1.12a
+13,Isobutyl hexanoate*,105-79-3,1118,1.07  0.62a,3.24  1.25a,1.53  0.11a,1.77 0.38a,1.48  0.44a,ND
+14,Hexyl butyrate,2639636,1183,ND,ND,ND,ND,ND,1.37  0.09a
+15,Isopentyl hexanoate,2198-61-0,1218,1.05  0.26a,1.08  0.21a,2.33  0.35a,ND,1.32  0.48a,ND
+16,Methyl decanoate,110-42-9,1282,36.9  10.29a,27.7  1.97a,43.3  1.28a,38.8  13.08a,38.9  5.74a,ND
+17,Methyl dec-4-enoate,1191-02-2,1290,3.88  1.49abc,8.21  4.72bc,15.2  2.26d,2.04  0.88ab,9.36  1.78 cd,0.71  0.36a
+18,Isobutyl octanoate,5461-06-3,1317,6.54  1.52ab,3.20  1.00a,8.61  0.11b,6.11  0.17ab,6.49  2.00ab,ND
+19,Isoamyl octanoate,2035-99-6,1417,13.0  1.85a,11.6  9.03a,11.7  1.72a,7.26  2.29a,9.73  5.55a,ND
+20,Methyl dodecanoate*,111-82-0,1481,3.44  0.45a,2.62  1.12a,2.57  1.11a,1.98  1.35a,ND,ND
+21,Isobutyl decanoate*,30673-382,1516,1.89  0.48a,ND,2.14  0.17a,1.71  0.28a,2.08  0.61a,ND
+22,Isoamyl decanoate,2306-91-4,1615,4.08  2.71a,ND,5.250.10,3.73  0.95a,5.74  1.28a,ND
+23,Decyl decanoate,1654-86-0,2177,5.69  1.88a,720  80.ob,ND,ND,ND,ND
+24,Sum,,,160  39.7a,842  158b,173  42.0a,150.0  53.6a,15116.5a,650  19.5a
+25,Phenols,,,,,,,,
+26,"3,5-Di-tert-butylphenol",1138-52-9,1555,6.61  0.67a,2.91  2.01a,5.531.45,4.48 0.72a,5.49  2.34a,ND
+27,"2,4,6-Tri-tert-butylphenol",732263,1882,ND,10.3  2.36a,ND,ND,ND,ND
+28,Sum,,,6.61  0.67a,13.20  1.55b,5.53 1.45a,4.48  0.72a,5.49  2.34a,ND
+29,Terpenes,,,,,,,,
+30,Terpinen-4-ol*,562-74-3,1137,ND,ND,ND,ND,ND,3.33  0.15a
+31,Camphene,7992-5,943,ND,ND,ND,ND,4.94  1.97a,ND
+32,-Terpinene,99-85-4,998,ND,ND,ND,ND,ND,1.140.16a
+33,Bornylene,464-17-5,932,ND,ND,ND,2.010.53a,3.02 1.03a,ND
+34,Cineole,470-82-6,1059,40.07.68a,42.6  9.19ab,48.6  3.52ab,69.5  9.1d,63.8  7.66 cd,60.0  0.5bcd
+35,-Cubebene,17699-14-8,1344,ND,ND,ND,ND,ND,0.57 0.11a
+36,Sum,,,40.0 7.68a,42.6  9.19ab,48.6  3.52abc,71.5  9.63d,71.8  7.66d,65.0 0.81bc

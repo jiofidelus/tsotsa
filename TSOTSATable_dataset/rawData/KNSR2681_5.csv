@@ -1,0 +1,22 @@
+,0,1,2,3
+0,Parameter,,,
+1,RF Power,1550 W,,
+2,RF matching,1.70V,,
+3,Sampling depth,10.0 mm,,
+4,Torch-H,0.1 mm,,
+5,Torch-V,0.1mm,,
+6,Nebulizer pump,0.10 rps,,
+7,Plasma gas flow rate,15 L/min,,
+8,Makeup gas flow rate,0.12 L/min,,
+9,Carrier gas flow rate,1.05 L/min,,
+10,Nebulizer,MicroMist (borosilicate glass),MicroMist (borosilicate glass),
+11, Spray chamber,"Scott double-pass(quartz),cooled at 2C",,"Scott double-pass(quartz),cooled at 2C"
+12,Sample cone,"Nickel,1 mm orifice diameter","Nickel,1 mm orifice diameter",
+13,Skimmer cone,"Nickel,0.45 mm orifice diameter","Nickel,0.45 mm orifice diameter",
+14,Doubly-charged ions and oxides limits,140Ce2+/140Ce*<3.0 %,140Ce2+/140Ce*<3.0 %,
+15,,140Ce16O+/140Ce*<1.5%,140Ce16O+/140Ce*<1.5%,
+16,,No gas,He,H2
+17,Collision/reaction gas flow rate,7,5.0 mL/min,6.0 mL/min
+18,Extract lens 1 voltage,OV,OV,OV
+19,Extract lens 2 voltage,-190 V,-190 V,-190 V
+20,Isotopes measured,,,

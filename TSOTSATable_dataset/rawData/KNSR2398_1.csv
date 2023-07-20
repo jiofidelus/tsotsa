@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7
+0,Foodstuff,Scientific name,Cr,Ni,Cu,As,Cd,Pb
+1,Cereals,,,,,,,
+2,Rice(n=13,Oryza sativa,0.910.42,1.41.6,6.3  3.1,0.170.10,0.0570.046,0.190.32
+3,Maize(n=8,Zea mays,1.80.33,1.30.44,2.3  0.39,0.64 0.17,0.0750.017,0.170.08
+4,Pulses,,,,,,,
+5,Lentil(n=7,Lens culinaris,1.5 1.3,0.760.46,3.3 2.2,0.47 0.29,0.0260.010,0.470.24
+6,Mung Beann=3,Vigna radiata,2.6 1.3,3.00.86,4.4  1.6,0.0330.031,0.0070.001,0.0740.02
+7,Blackgram(n=5,Vigna mungo,2.21.3,2.81.7,4.61.4,0.0570.038,0.0140.018,0.340.25
+8,Vegetables,,,,,,,
+9,Brinjal(n=9,Solanum melongena,0.840.41,3.11.6,165.7,0.140.14,0.420.21,0.750.61
+10,Bottle gourd(n=9,Lagenaria siceraria,0.600.28,3.4 1.9,103.1,0.0520.035,0.0600.051,1.01.1
+11,Pumpkin(n=9,Cucurbita maxima,0.620.21,4.8 3.9,103.3,0.0710.064,0.0200.015,0.72  0.73
+12,Tomato (n=9),Solanum lycopersicum,0.680.19,1.61.0,113.2,0.0550.037,0.110.029,0.85  0.58
+13,Fruits,,,,,,,
+14,Papaya(n=3,Carica papaya,1.50.41,0.850.48,3.7  1.7,0.22  0.26,0.0280.044,0.28  0.03
+15,Banana(n=5,Musa paradisiaca,1.21.3,1.00.56,4.9 2.5,0.48  0.16,0.0490.060,0.37 0.22
+16,Mangon=3,Mangifera indica,2.11.1,0.760.76,4.5 3.2,0.410.50,0.0350.04,0.86  0.20
+17,Jack fruitn=3,Artocarpus heterophyllus,1.00.34,2.3 1.2,8.9  2.6,0.360.42,0.0420.024,0.71  0.31
+18,Fish,,,,,,,
+19,Spotted snakehead(n=18,Channa punctatus,2.00.90,1.00.96,3.01.5,0.190.093,0.0260.015,0.63  0.46
+20,Stinging catfish (n=18),Heterponeustes fossilis,2.1  0.82,1.50.75,4.7  1.2,0.270.09,0.0330.013,1.1  0.28
+21,Banded gourami (n=18,Trichogaster fasciata,2.9 1.1,2.20.63,3.50.91,0.300.09,0.0450.034,1.3  0.64
+22,Meat,,,,,,,
+23,Chickenn=5),Gallus gallus domesticus,1.40.31,0.390.43,2.51.6,0.0320.012,0.0300.032,0.170.16
+24,Beefn=3,Bos primigenius,1.30.24,0.10 0.08,1.20.49,0.0420.015,0.0050.005,0.170.17
+25,Muttonn=3,Capra aegagrus hircus,1.2  0.16,1.5 1.6,2.5  1.6,0.0420.059,0.0460.063,0.45  0.75
+26,Chicken egg (n=10,Gallus gallus domesticus,1.40.19,1.9 1.8,4.0  2.1,0.0870.072,0.022 0.024,0.24  0.23
+27,Milk,,,,,,,
+28,Cow milk(n=12,Bos primigenius,1.6 0.41,1.52.2,2.3  1.2,0.056 0.032,0.0290.026,0.20  0.23

@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,Minerals,Mean(g/g,SD (g/g),RSD (%),F value (Feritical=2.393),Homogeneity testing result
+1,White jasmine rice,,,,,
+2,Arsenic,0.15,0.04,27.64,1.627,Pass
+3,Chloride,3.10,0.51,16.30,2.238,Pass
+4,Magnesium,33.45,4.33,12.94,0.463,Pass
+5,Potassium,7.43,120.0,16.48,1.481,Pass
+6,Potassium,546.2,120.0,21.97,2.236,Pass
+7,Zinc,18.20,1.94,10.65,1.496,Pass
+8,Soybeans,,,,,Pass
+9,Calcium,2837,231,8.13,2.415,Pass
+10,Chloride,0.39,0.06,14.97,1.003,Pass
+11,Iron,89.95,5.91,6.57,2.126,Pass
+12,Magnesium,1644.2,178.3,10.85,0.993,Pass
+13,Manganese,26.25,3.69,14.04,0.838,Pass
+14,Potassium,"15,137.5",2876.1,19.00,1.476,Pass

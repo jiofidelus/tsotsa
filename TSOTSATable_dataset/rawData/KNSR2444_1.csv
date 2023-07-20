@@ -1,0 +1,20 @@
+,0,1,2,3,4,5
+0,,Origin,Type of sample,,87Sr/86Sr,Sr recoverya (%)
+1,S,"Slovenia, Isola",oil,0.19  0.04,not performedb,-
+2,,,pomace,508  57,0.70840 0.00014,82
+3,,,soil,"13,200 120",0.70842  0.00007,92
+4,C1,"Croatia, Dalmatia",oil,0.033  0.02,not performedb,-
+5,,,pomace,1180  65,0.70834  0.00001,85
+6,,,soil,7070  56,0.70850  0.0001,95
+7,C2,"Croatia, Istria",oil,0.041  0.02,not performedb,-
+8,,,pomace,1090  13,0.71074  0.00004,85
+9,,,soil,1940  29,0.71071  0.00009,95
+10,T1,"Tunisia, Sfax",oil,3.10  0.25,0.70872  0.00008,91
+11,,,pomace,536  42,0.70860  0.00006,85
+12,T2,"Tunisia, Kairouan",.oil,0.66  0.09,0.70820  0.00010,94
+13,,,pomace,1090  160,0.70820  0.00003,89
+14,T3,Tunisia Zarzic,oil,5.93  0.02,0.70905  0.00006,90
+15,T4,"Tunisia, Kasserine",oil,0.25  0.02,0.70982  0.00008,92
+16,T5,"Tunisia, Jendouba",oil,0.14  0.02,0.71057  0.00007,91
+17,Quality Control,SRM NIST 2387,LLEC,1560 300,0.70909  0.00003,85
+18,,,MWDc,2380  230,0.70906  0.00004,91

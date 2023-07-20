@@ -1,0 +1,53 @@
+,0,1,2,3,4
+0,Locations,Meat,Range,MeanSE,References
+1,,products,,,
+2,Egypt,All,0.0-36,9.03  0.89,Current study
+3,,shawarma,,,
+4,,samples,,,
+5,Egypt,Beef,0.0-30,8.02  1.14,Current study
+6,,shawarma,,,
+7,Egypt,Chicken,0.0-36,10.3 1.36,Current study
+8,,shawarma,,,
+9,Spain,Beef raw,1.0-0.11,,Hernandez-Jover
+10,,,,,et al. (1996)
+11,Turkey,Ground beef,0.59-1.61,-,Durlu-Ozkaya
+12,,,,,et al.2001)
+13,Turkey,Hamburgers,0.0,0.0,Durlu-Ozkaya
+14,,,,,et al.2001
+15,Brazil,Frankfurter,0.0-0.12,0.09,Silva and Gloria
+16,,,,,(2002)
+17,Brazil,Mortadella,0.0-0.72,0.15,Silva and Gloria
+18,,,,,(2002)
+19,Brazil,Sausages,0.0 - 4.66,1.35  0.9,Silva and Gloria
+20,,,,,(2002)
+21,Brazil,Meatball,0.0-0.0,0.0,Silva and Gloria
+22,,,,,(2002)
+23,Brazil,Hamburger,0.0-0.08,0.02,Silva and Gloria
+24,,,,,(2002)
+25,Brazil,Nugget,0.0-0.0,0.0,Silva and Gloria
+26,,,,,(2002)
+27,Brazil,Chicken,0.0-1.03 0.40,-,Silva and Gloria
+28,,breast stored,,,(2002)
+29,,at4C,,,
+30,Brazil,chicken,0.0 ,-,Silva and Gloria
+31,,thigh stored,0.54  0.13,,(2002)
+32,,at4C,,,
+33,Greece,Smoked,0.0-3.29,,Ntzimani et al.
+34,,turkey fillets,,,(2008)
+35,,(aerobic,,,
+36,,packaged),,,
+37,Greece,Smoked,0.17-1.56,,Ntzimani et al.
+38,,turkey fillets,,,(2008)
+39,,(vacuum,,,
+40,,packaged),,,
+41,Greece,Smoked,0.49-1.19,,Ntzimani et al.
+42,,turkey fillets,,,(2008)
+43,,(skin-,,,
+44,,packaged),,,
+45,Italy,Fresh beef,0.190.018-,,Galgano et al.
+46,,meat stored,0.18 0.02,,(2009)
+47,,at 4,,,
+48,Greece,Fermented,0.0-5.1.4,8.14 1.39,Papavergou et al.
+49,,sausages,,,(2012)
+50,Turkey,Fermented,0.0-46.93,9.983.68,Ekici and Omer
+51,,sausage,,,(2018)

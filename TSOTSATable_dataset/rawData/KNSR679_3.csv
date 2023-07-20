@@ -1,0 +1,16 @@
+,0,1,2,3
+0,Sample,Determined fresh fruit equivalent,Determined fresh fruit equivalent,Claimed fresh fruit
+1,,"(mg/daily serving,mean  SD","(mg/daily serving,mean  SD",equivalent(mg/daily
+2,,,,serving)
+3,,Based on AUC@,Based on quantified,
+4,,278nm,compounds,
+5,CDS01,102727,116311,25200
+6,CDS02,2379151,352328,45000
+7,CDS03,27694,246834,40000
+8,CDS04,143030,163947,25000
+9,CDS05,194416,196012,25200
+10,CDS06,78313,7049,12600
+11,CDS07,315713,182826,50000
+12,CDS08,244971,16747,40000
+13,CDS09,124733,118824,25000
+14,CDS10,6613255,4913 66,a60000

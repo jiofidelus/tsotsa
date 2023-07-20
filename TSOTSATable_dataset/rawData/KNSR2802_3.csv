@@ -1,0 +1,41 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Extraction,Extraction Solvent,Detection,Sample,Analytes,Linearitya,R2,LOD(g,%Recovery,Ref.
+1,Technique,,Method,,,Range,,Kg1,,
+2,Ultrasonic-,"5 ml acetonitrile,25.5 ml",UPLC-MS/,Canned food,3 bisphenols,Not,Not mentioned,0.05-1.1,88.4-105.6,Cao et al.
+3,assisted,"methanol, 1.5 acetone",MS,and,,mentioned,,,,(2021)
+4,extraction,,,beverages,,,,,,
+5,followed by,,,,,,,,,
+6,sample cleanup,,,,,,,,,
+7,Extraction,"20 ml acetonitrile,10",LC-MS/MS,Food,6 bisphenols,1-200,>0.99,0.0017-3.1,92.4-109,Cao et al.
+8,followed by,methanol,,composite,,,,,,(2019)
+9,SPE,,,samples,,,,,,
+10,Ultrasonic-,"10 ml acetonitrile,3",UPLC-MS/,Food,4 bisphenols,0.05-100,>0.999,0.015-0.303,84.6-117.5,
+11,assisted,"methanol, 9 ml phosphate",MS,samples,,,,,,
+12,extraction,buffer saline,,,,,,,,
+13,followed by,,,,,,,,,
+14,sample cleanup,,,,,,,,,
+15,Extraction with,"5 ml n-heptane, 11 ml",GC-MS,Canned and,9 bisphenols,Not,Not mentioned,Not,Not,Gonzalez
+16,n-heptane,"acetonitrile, 85 L",,non-canned,,mentioned,,mentioned,mentioned,et al.
+17,followed by a,tetrachloroethylene,,food,,,,,,(2020)
+18,clean-up step,,,,,,,,,
+19,then DLLME,,,,,,,,,
+20,QuEChERS,10 ml acetonitrile,GC-MS,Food and,BPA,31.3-2000,0.998,0.00013,80-99,Adeyi et al.
+21,,(derivatization step was,,beverages,,,,,,(2019)
+22,,needed),,,,,,,,
+23,QuEChERS,22.5 ml acetonitrile,LC-MS/MS,Food and,4 bisphenols,0.03-400,0.9900-0.9998,0.004-4.0,76-116,Zhou et al.
+24,followed by,,,beverages,,,,,,(2019)
+25,SPE,,,,,,,,,
+26,QuEChERS,5 ml acetonitrile,HPLC-FLD,Milk,9 bisphenols,5.0-100,0.9942-0.9997,1.0-3.1,75.82-93.86,Xiong et al.
+27,,,,,,,,,,(2017
+28,molecularly,"8 ml acetonitrile,7 ml",HPLC-FLD,Canned,5 bisphenols,1.050.0,N/A,0.15,52-94,Gallo et al.
+29,imprinted SPE,methanol,,energy,,,,,,(2017)
+30,,,,drinks,,,,,,
+31,Extraction,"12 ml acetonitrile,2 ml",LC-MS/MS,Canned food,8 bisphenols,0.01-100,>0.99,0.003-0.015,61-126,Liao and
+32,followed by,10% dichloromethane/,,and,,,,,,Kannan
+33,SPE,"hexane,10 ml 80%",,beverages,,,,,,(2013)
+34,,"methanol/acetone,10 ml",,,,,,,,
+35,,hexane,,,,,,,,
+36,Ultrasonic-,"5 ml ethyl acetate,8 ml",UPLC-MS/,Canned food,"BPA,BPS,",0.01-100,0.9991-0.9996,0.003-0.015,80.3-103.8,This study
+37,assisted,"methanol, 6 ml acetonitrile",MS,and,"BPF,D8,",,,,,
+38,extraction,,,beverages,Pergafast,,,,,
+39,followed by,,,,,,,,,

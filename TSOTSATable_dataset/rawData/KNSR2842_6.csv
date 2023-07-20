@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6,7
+0,Analyte,Analytical procedure,Linear rangeg L-1),LODng L-1,LOQ (g L-1,PF,%RSD,Reference
+1,Sb; Sn,UA-IL-LLME/ICP-OES,0.0083-250;0.004-350,2.5; 1.2,8.3; 4.0,250; 275,2.1.9; 2.54.7,"Biata et al.,2017"
+2,Sb;Sn,UA-CPE/FAAS,0.1-140; 0.1-225,30,100,114.5; 110.6,2.35.2; 2.65.4,"Altunay et al., 2016"
+3,TI,IL-DLLME/ETAAS,0.034,3.3,11,100,5.3,"Escudero et al., 2012"
+4,Tl,CPE/ICP-MS,0.0020.5,0.4,1.3,125,2.3,"Meeravali and Jiang,2008"
+5,Sb; Sn,FI-SPE,0.5-1.5; 1.0-3.0,11;142,37;479,7; 2.5,1.4; 1.5,"Fornieles et al., 2013"
+6,Sb; Sn; Tl,UA-CPE/ICP-OES,0.027-650;0.023-700;0.033-700,8;7;10,27;23;33,150;145;160,1.84.1; 1.33.8; 1.72.8,This work

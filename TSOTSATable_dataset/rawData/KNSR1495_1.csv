@@ -1,0 +1,21 @@
+,0,1,2
+0,ITEM,DESCRIPTION,
+1,Nutrient content,Defined by a single value or a mean value (for more than two analytical data when available,Defined by a single value or a mean value (for more than two analytical data when available
+2,Standard deviation,,Represents the variability in the nutrient content; is presented when nutrient content was calculated as the mean value of three or more data points.
+3,Minimum value,,"Lower value for a certain component, presented when the nutrient content was calculated as the mean value of two or more data points."
+4,Maximum value,,"Higher value for a certain component, presented when the nutrient content was calculated as the mean value of two or more data points."
+5,Number of data points,The number of analytical values used to calculate the mean nutrient content.,The number of analytical values used to calculate the mean nutrient content.
+6,References,,Lists the numeric code of all the references used to calculate the mean content of the component.
+7,Type of data,,"Analytical value:values based on data compiled from publications,laboratories,food industries,and other FCTs;or based on chemical analyses carried"
+8,,out for this purpose.,out for this purpose.
+9,,,Calculated values: values calculated from other analytical data (e.g.carbohydrates calculated by difference and energy) or values obtained from recipe
+10,,,"calculation (nutrient profiles calculated from raw or cooked ingredients, applying appropriate yield and nutrient retention factors)."
+11,,,Imputed values:values derived from analytical data for a similar food or different forms of the same food (e.g.vegetable boiled or stewed.The values
+12,,,"were also used to identify values for food products in a certain brand, complemented with data on a generic food.The values were corrected for moisture"
+13,,and fat in the complemented food. Part of the imputed values were derived from international FCTs.,and fat in the complemented food. Part of the imputed values were derived from international FCTs.
+14,,,"Assumed value: values were assumed to be zerofor certain single foods, in their natural forms, based on data from other FCTs or in the following"
+15,,,"situationsFAO/INFOODS,2012):i alcohol-animal and plant foods that were not fermentediidietary fiber-animal foodsiii carbohydrates-"
+16,,,"animal foods (except offal and mollusks);(iv)cholesterol,retinol and vitamin B12-plant foods not fermented (except mushrooms);(v)vitamin C-for"
+17,,oils;(vi folic acid -for non-fortified foods.,oils;(vi folic acid -for non-fortified foods.
+18,,,"Trace value (tr) was used when(i a component was identified but not quantified,or (ii when the level of the nutrient was considered not relevant in"
+19,,the food.,

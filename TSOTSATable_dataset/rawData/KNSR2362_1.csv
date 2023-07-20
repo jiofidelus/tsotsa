@@ -1,0 +1,42 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Common name,Vit.D,,Common name,EPA,,Common name,DHA,
+1,,,n,W,,n,W,,n,W
+2,B,,,,B,,,B,,
+3,,Wolf fish,4,6,Anglerfish,5,5,Sprat,4,4
+4,,Halibut,11,30,Saint-James shells,6,27,Mussel,10,14
+5,,Caviar,16,41,Squid,8,15,Pollack,11,34
+6,,Lognormal (truncated),,,Mussel,11,14,Lognormal (truncated),,
+7,,Sole,5,8,Edible crab,19,124,Nile perch,0,0
+8,,European plaice,6,16,Loglogistic (truncated),,,Saint-James shells,6,27
+9,,Haddock,6,20,Nile perch,0,0,Anglerfish,6,6
+10,,Blue or Perna Mussel,8,24,Sole,11,47,Eel,10,11
+11,,Anchovy,12,34,Lognormal (truncated),,,Sole,12,48
+12,,Cod,16,60,Norway lobster,0,0,Mackerel,16,136
+13,,Eel,16,27,Whiting,4,20,Edible crab,18,122
+14,,Trout,28,79,Lobster,6,9,Tuna,21,31
+15,,Tuna,31,98,Mackerel,16,137,Trout,32,115
+16,,Sardine,34,89,Tuna,19,32,Herring,33,244
+17,,Mackerel,44,113,Trout,29,114,Sardine,43,216
+18,,Salmon,58,211,Normal (truncated),,,Normal (truncated),,
+19,,Normal(truncated,,,Sea bream,0,0,Norway lobster,0,0
+20,,Sprat,3,4,Common shrimp,3,4,Sea bream,0,0
+21,,Scampi,4,33,Surimi,3,13,Common shrimp,3,4
+22,,Sea bream,4,11,Sprat,4,4,Whelk,3,4
+23,,Saithe Alaska pollack,9,34,Anchovy,6,7,Surimi,3,13
+24,,Herring,60,197,European plaice,6,27,Whiting,4,21
+25,Uniform,Uniform,,,Wolf fish,8,10,Lobster,5,9
+26,,Surimi,0,0,Caviar,9,10,European plaice,5,27
+27,,Saint-James shells,1,6,Eel,9,10,Anchovy,7,7
+28,,Norway lobster,1,2,Scampi,9,99,Caviar,8,10
+29,,Ray,1,3,Haddock,9,18,Scampi,8,97
+30,,Whelk,1,3,Pollack,11,34,Haddock,8,18
+31,,Nile perch,1,1,Halibut,14,77,Wolf fish,8,10
+32,,John Dory,1,1,Cod,14,43,Squid,10,15
+33,,Edible crab,2,7,Herring,35,224,Halibut,14,77
+34,,Anglerfish,2,6,Sardine,42,216,Cod,24,46
+35,,Lobster,2,10,Salmon,56,297,Salmon,63,295
+36,,Common shrimp,3,7,Uniform,,,Uniform,,
+37,,Conger,3,4,John Dory,1,1,John Dory,1,1
+38,,Squid,5,12,Conger,1,2,Ray,2,2
+39,,Whiting,11,16,Ray,2,2,Conger,2,2
+40,,,,,Whelk,3,3,,,

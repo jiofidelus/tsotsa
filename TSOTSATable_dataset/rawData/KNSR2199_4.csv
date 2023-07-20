@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Source of variation,d.f.,Total Phenolics- Boiled,Total Phenolics- Boiled,Total Phenolics- Bioaccessible,Total Phenolics- Bioaccessible,,Total Phenolics - Percentage of bioaccessibility,Total Phenolics - Percentage of bioaccessibility,Total Phenolics - Percentage of bioaccessibility
+1,,,F-value,p-value,F-value,p-value,,F-value,,p-value
+2,Clone,,29.211,<0.001,24.953,<0.001,4.345,,0.006,
+3,Environment,,3.519,0.073,4.202,0.051,0.00253,,0.96,
+4,Environment,,3.044,0.029,13.29,<0.001,1.982,,0.118,
+5,Besidual,24,,,,,,,,

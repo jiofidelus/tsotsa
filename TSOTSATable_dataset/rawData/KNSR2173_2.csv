@@ -1,0 +1,8 @@
+,0,1,2,3,4,5
+0,Detection platform,(ppm),(ppm),(uL),(min),Ref
+1,1.Chemodosimeter-Spectrophotometric method,0.91.5,0.84,Not mentioned,30,"Chaiendoo et al.,2018"
+2,2. Kinetic spectrophotometric method,0.01-0.1,0.0029,1000,10,Cui et al.2007
+3,3.FIA-spectrophotometer,0.3-3.0,0.06,350,~1,"Teerasong et al.,2010)"
+4,4.Optical chemical sensor,0.0-100,0.504,Not mentioned,2.5,"Gani et al.,2013"
+5,5. Paper-based analytical device,100-1000,100,30,5,"Taprab and Sameenoi,2019)"
+6,6. This work,0.001-1.50,0.06,100,5,

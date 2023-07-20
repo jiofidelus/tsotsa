@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7
+0,Variable,Symbol,Units,Codified level,Codified level,,,
+1,,,,-2,-1,0,1,2
+2,Carrier HCl concentration,A,mol L1,0.45,0.9,1.35,1.8,2.25
+3,Sample HCl concentration,B,mol L1,0.9,1.8,2.7,3.6,4.5
+4,NaBHconcentration,C,% (m/v),0.1,0.2,0.3,0.4,0.5
+5,Peristaltic pump speed,D,RPM,80,90,100,110,120
+6,HCl flow rate,,ml min1,6.3,7.0,7.8,8.6,9.4
+7,NaBH4 flow rate,,ml min1,4.2,4.7,5.2,5.7,6.3

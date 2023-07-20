@@ -1,0 +1,53 @@
+,0,1,2,3,4
+0,,,,VIP value,
+1,,,,positive,
+2,NO.,MC.,Compound,VIP,
+3,,,,negative,
+4,,,,PIM,NIM
+5,1,IA1,3R-N-gle-3-hydroxy-indoleacetc acid,1.44,/
+6,2,QA4,Norisocorydine,2.86,/
+7,3,QA5,Magnoflorine*,11.51,/
+8,4,QA6,Caaverine,2.82,/
+9,5,QA7,N-Methylasimilobine,3.17,/
+10,6,QA8,Asimilobine,2.75,/
+11,7,QA13,Nornuciferine,3.95,/
+12,8,QA14,Nuciferine (sanjoinine E),5.33,/
+13,9,CA9,Mucronine J,2.68,/
+14,10,CA10,RamosineA,1.68,/
+15,11,CA11,Sanjoinine G1,3.38,/
+16,12,CA12,C-11 epimer of sanjoinine G1,1.54,/
+17,13,CA16,Sanjoinine F,4.55,/
+18,14,CA17,Sanjoinine G2,1.68,/
+19,15,CA18,Sanjoinine B,1.84,/
+20,16,CA19,Amphibine D,6.86,/
+21,17,CA20,Sanjoinine A (Frangufoline),2.19,/
+22,18,CA21,Lotusanine A,2.19,/
+23,19,CA22,Lotusine B,3.16,/
+24,20,FC1,Vicenin II*,2.71,3.59
+25,21,FC3,6-(4-O--D-glucopyranosyl)-vanilloylspinosin,2.19,2.70
+26,22,FC4,6-(4-O--D-gluco-pyranosyl)-benzoylspinosin,2.24,3.01
+27,23,FC5,"Isovitexin-2""-O--D-glucopyranoside",2.02,1.07
+28,24,FO6,Camelliaside B,1.85,2.81
+29,25,FC8,Spinosin*,7.50,5.32
+30,26,FC10,Apigenin-6-C-glucopyranoside(Isovitexin),/,1.23
+31,27,FC11,Swertisin*,/,1.28
+32,28,FC14,"""-Vanilloylspinosin",/,1.08
+33,29,FC15,"Isoscoparin-2""-O-(6-feruloyl)-glucopyranoside",1.59,1.92
+34,30,FO17,kaempferol-3-O-rutinoside*,2.75,4.46
+35,31,FC18,"6""-p-Hydroxybenzoylspinosin",1.30,1.43
+36,32,FC22,epi-6-(N--D-glucopyranosyl-23-dihydro-,1.1,/
+37,,,"2""-oxo-3""-yl-acetate spinosin",,
+38,33,FO25,Naringin,/,1.40
+39,34,FC26,"6""-Dihydrophaseoylspinosin",2.13,2.04
+40,35,FC27,"6""-Sinapoylspinosin",7.61,8.60
+41,36,FC29,"6""-p-Coumaloylspinosin",3.87,4.83
+42,37,FC30,"""-Feruloylspinosin*",5.03,1.16
+43,38,FC31,6-O-(3-glc-indole-acetyl)spinosin (R),2.54,3.17
+44,39,FC32,6-O-(3-glc-indole-acetyl)spinosin (S),3.61,2.07
+45,40,FC35,6---phaseoylspinosin,3.56,3.71
+46,41,FC36,"6""-feruloylisospinosin",/,1.16
+47,42,FC37,-(345-trimethoxyl)-cinnamoylspinosin,3.82,4.13
+48,43,S1,Protojujuboside A,,1.16
+49,44,S2,Protojujuboside B,,1.86
+50,45,S7,Jujuboside A*,1.00,7.72
+51,46,$9,Jujuboside B*,1.09,5.35

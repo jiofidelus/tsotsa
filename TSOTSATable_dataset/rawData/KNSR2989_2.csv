@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7
+0,,Min. Euclidean distance,Silhoutte,,Dunn,,Calinski-Hasrabaz index,Calinski-Hasrabaz index
+1,,,index,,index,,,
+2,,Original data,Original data,Exploded data,Original data,Exploded data,Original data,Exploded data
+3,GENERAL,,,0.803,0.533,0.302,61.1,"71,986"
+4,,,0.775,,,,,
+5,MAD-MAT,5.59,,0.277,4.38,0.00196,60.1,"15,123"
+6,,,0.824,,,,,
+7,MAD-RED,8.84,,0.550,9.49,0.00721,258,"89,175"
+8,,,0.914,,,,,

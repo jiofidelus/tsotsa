@@ -1,0 +1,20 @@
+,0,1,2,3,4,5
+0,Code,Compounds,Rt (min),UVmax(nm),MSa(m/z),MS2(m/z)
+1,Flavonols,,,,,
+2,FO1,quercetin-3-galactosideb,10.9,255,463,301
+3,FO2,quercetin-3-glucosideb + quercetin-3-rutinosideb,11.1,255,"609, 463",301
+4,FO3,"kaempferol-3-glucosideb,c",11.9,265,447,285
+5,Flavan-3-ols,,,,,
+6,FA1,procyanidin B1b,5.5,280,577,"425, 289"
+7,FA2, procyanidin trimere I,5.8,280,865,"577, 289"
+8,FA3,catechinb,6.0,280,289,245
+9,Hydroxycinnamic acids,,,,,
+10,HA1,neochlorogenic acidb,5.1,325,353,"191, 179"
+11,HA2,p-coumaroylquinic acid,6.2,310,337,"191, 163"
+12,HA3,chlorogenic acidb,7.1,325,353,"191, 179"
+13,HA4,cryptochlorogenic aciab.c,7.3,325,353,"191, 179"
+14,Anthocyanins,,,,,
+15,AN1,cyanidin-3-glucosideb,9.0,515,449,287
+16,AN2,cyanidin-3-rutinoside,9.4,515,595,287
+17,AN3,malvidin-3-coumaroylglucoside-acetaldehydec,9.7,505,663,355
+18,AN4,malvidin-3-glucoside-acetaldehyded,9.8,502,517,355

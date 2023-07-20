@@ -1,0 +1,46 @@
+,0,1,2,3,4,5
+0,No.,Aroma compounds omitted from the complete,na,,Significanceb,Significanceb
+1,,recombinant,Y,R,Y,R
+2,1,All esters,15,12,***,***
+3,1-1,Ethyl hexanoate,15,13,***,***
+4,1-2,Ethyl butyrate,9,7,*,-
+5,1-3,Ethyl pentanoate,9,9,*,*
+6,1-4,Ethyl octanoate,10,9,**,*
+7,1-5,Ethyl acetate,9,7,*,
+8,1-6,2-Methylbutyl butyrate,3,7,,-
+9,1-7,Ethyl dodecanoate,6,9,-,*
+10,1-8,Ethyl lactate,7,9,-,*
+11,1-9,Ethyl levulinate,3,7,-,-
+12,1-10,Butyl hexanoate,3,6,-,-
+13,1-11,Ethyl-2-hydroxy-4-methylvalerate,-,5,-,
+14,1-12,Ethyl decanoate,,6,,
+15,1-13,Palmitic acid ethyl ester,-,4,-,-
+16,1-14,2-Phenethyl hexanoate,-,7,-,-
+17,1-15,Ethyl-2-methylbutyrate,2,7,-,-
+18,1-16,Ethyl heptanoate,-,5,,-
+19,1-17,Ethyl phenylacetate,5,7,-,-
+20,1-18,Phenethyl butanoate,3,-,-,-
+21,2,All sulfur,15,12,***,***
+22,2-1,Benzenemethanethiol,15,13,***,***
+23,2-2,Dimethyl trisulfide,13,9,* **,*
+24,3,All acids,13,9,***,*
+25,3-1,Octanoic acid,2,9,,*
+26,3-2,Hexanoic acid,9,6,*,-
+27,3-3,Valeric acid,4,3,-,-
+28,3-4,Butanoic acid,5,10,-,**
+29,3-5,Propionic acid,,10,,**
+30,3-6,Acetic acid,,9,-,*
+31,3-7,Isovaleric acid,,10,,**
+32,4,All phenols,11,10,**,**
+33,4-1,"2,4-Di-tert-butylphenol",2,6,,
+34,4-2,p-Cresol,9,9,*,*
+35,5,All aldehydes,-,6,-,
+36,6,Ketone,,5,,
+37,7,All pyrazines,11,9,**,*
+38,7-1,2-Ethyl-6-methylpyrazine,2,5,-,-
+39,7-2,"5-Ethyl-2,3-dimethylpyrazine",5,5,-,
+40,8,All alcohols,5,5,,-
+41,8-1,1-Butanol,2,5,-,-
+42,8-2,2-Heptanol,5,6,-,-
+43,8-3,3-Methyl-1-butanol,-,6,-,-
+44,8-4,1-Hexanol,-,7,-,-

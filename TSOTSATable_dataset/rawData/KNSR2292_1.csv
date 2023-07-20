@@ -1,0 +1,38 @@
+,0,1
+0,Operating conditions,
+1,Atomizer/gas flow rate setup,
+2,Fuel gas flow rate(Lmin-1,2
+3,Support gas flow rate (Lmin-1,15
+4,Flame type,Air-CH2
+5,Burner height,7mm
+6,Measurement parameters,
+7,Signal processing,Peak height
+8,Sampling time,40s
+9,Total acquisition time without dilution:,198s
+10,Autosampler parameters,
+11,Sample volume,400 L
+12,Injection volume,100L
+13,Injection speed,25 jLs-1
+14,Intake speed,130 Ls-1
+15,Discharge speed,150 Ls-1
+16,Optics parameters,
+17,Calcium (Ca),
+18,Lamp current low:,10mA
+19,Wavelength,422.7 nm
+20,Slit width,0.7nm
+21,Lamp mode,NON-BGCa
+22,Magnesium(Mg),
+23,Lamp current low,8 mA
+24,Wavelength,285.2 nm
+25,Slit width,0.7nm
+26,Lamp mode,BGC-D2b
+27,Sodium (Na),
+28,Lamp current low,12mA
+29,Wavelength,589.6nm
+30,Slit width,0.2nm
+31,Lamp mode,NON-BGC
+32,Potassium (K),
+33,Lamp current low,10mA
+34,Wavelength,766.5 nm
+35,Slit width,0.7nm
+36,Lamp mode,NON-BGC

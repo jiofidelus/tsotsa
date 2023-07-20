@@ -1,0 +1,45 @@
+,0,1,2,3
+0,Foods,Assay values,Published values,Relative differences
+1,"Meat, fish, poultry, egg",,,
+2,Beef liver,416,365b;960c,0.121.30
+3,Chicken strips,4.30,40.5b,8.42
+4,"Egg, whole",214,538b; 220d; 165e,1.51;0.03;-0.23
+5,"Egg,white",57.6,78.8a,0.37
+6,"Egg,yolk",272,494d,0.82
+7,Pork chop,44.6,27.0b; 30.0e,0.390.32
+8,"Salmon, pink, in water",58.6,54.1b50.0e,0.08;-0.15
+9,"Tuna, in water",6.80,20.0e,1.94
+10,Dairy,,,
+11,American cheese,30.9,35.7d; 20.0e,0.15;-0.20
+12,"Cheddar cheese, mild",14.3,71.4b;21.4d,3.99:0.50
+13,Provolone cheese,1.17,18.0f; 38.7e,14.3;31.9
+14,Skim milk,1.31,20.0f; 20.0c,14.3;14.3
+15,Whole milk,0.91,31.0f;18.9e,33.1;19.8
+16,"Yogurt, plain",0.85,22.02,24.9
+17,Vegetables,,,
+18,"Broccoli, fresh",9.43,19.0h,1.01
+19,"Carrots, canned",6.22,15.2c; 50.0e; 27.oh,1.44;7.04;3.34
+20,Cauliflower,1.61,12.3b;15.0e,6.66; 8.32
+21,Green beans,0.07,10.1; 7.70e; 5.00h,143;109;70.4
+22,Mushrooms,21.6,72.5c; 84.6e,2.36; 2.92
+23,Spinach,7.05,69.0c; 11.0e,8.790.85
+24,Sweet potato,14.5,43.0e; 59.0h,1.96;3.07
+25,Whole kernel corn,0.47,21.6c; 62.0h,45.0; 131
+26,Fruits and berries,,,
+27,Apple,0.20,9.212.3e,45.0; 60.5
+28,Apple juice,0.50,8.2c,15.4
+29,Avocado,9.60,80.4b; 36.0c,7.38;2.75
+30,Banana,1.30,44.0c; 26.3e,32.9; 19.2
+31,Orange,0.50,19.0c10.4e,37.0; 19.8
+32,Orange juice,4.10,8.3c; 7.6e,1.02:0.88
+33,Raisins,3.91,46.7c; 19.4e,10.9; 3.96
+34,Raspberries,1.78,14.3b19.4e,7.03:9.90
+35,Strawberries,15.0,40.0c;10.8c,1.67;-0.28
+36,Tomatoes,7.00,40.0;40.0; 14.0,4.71:4.711.00
+37,Bread and grains,,,
+38,"Crackers, saltine",1.96,486d,247
+39,Grits,0.51,43.5b,84.3
+40,Noodles,1.81,25.0b,12.8
+41,Oatmeal,1.91,250d,130
+42,Roll,0.48,19.0f,38.6
+43,Whole wheat bread,0.74,182.4b; 60.7e: 45.01,245;81.0;59.8

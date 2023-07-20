@@ -1,0 +1,14 @@
+,0,1,2,3,4
+0,Matrix,Number of,Number of,Spike level,Mean percentage
+1,,samples,samples,,recovery (range)
+2,Cream,,4,Equivalent to 0.5 mg/kg,94 (81-112)
+3,Sour cream,,1,Equivalent to 0.5 mg/kg,106
+4,Cheese-cottage,,1,Equivalent to 0.5 mg/kg,84
+5,Dairy dessert,,1,Equivalent to 0.5 mg/kg,92
+6,Yoghurt,,2,Equivalent to 0.5 mg/kg,110 (95-124)
+7,Ice cream,,2,Equivalent to 0.5 mg/kg,77 (71-82)
+8,Soy drink,,1,Equivalent to 0.5 mg/kg,89
+9,Cheese-cream,,1,Equivalent to 0.5 mg/kg,104
+10,Cheese-cheddar,,1,Equivalent to 0.5 mg/kg,100
+11,Butter,,2,Equivalent to 0.5 mg/kg,94 (90-97)
+12,,Mean iodine recovery,,,94

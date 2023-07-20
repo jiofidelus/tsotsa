@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7
+0,Compound,Calibration curve,,,,Instrumental,Method,Method
+1,,,,,,LOD,LOD,LOQ
+2,,Linear range (g/mL),Slope,Intercept,Correlation,(g/mL),(g/g),(g/g)
+3,,,,,coefficient,,(g/g),(g/g)
+4,Hydroxycinnamic acids,,,,,,,
+5,p-coumaric (n = 5,1.128,451475,5804,0.9999,0.03,0.07,0.25
+6,ferulicn=8,1.5-150,275027,81789,0.9999,0.03,0.07,0.25
+7,sinapic (n =5,1.224,253528,5360,0.9999,0.05,0.14,0.47
+8,Anthocyanin,,,,,,,
+9,cyanidin 3-O-glucoside (n = 8),1.9772,111802,275799,0.9998,0.38,1.01,3.38
+10,Flavonols,,,,,,,
+11,myricetin 3-O-glucoside (n = 7),0.4-110,111938,-11714,0.9999,0.07,0.19,0.65
+12,quercitin 3-O-glucoside (n = 7),1.1-112,119462,7527,0.9999,0.08,0.22,0.75
+13,kaempferol 3-O-glucoside(n = 9),0.4-940,113597,31057,0.9998,0.08,0.21,0.69
+14,myricetin (n = 6),0.332,153925,6338,0.9999,0.08,0.21,0.72
+15,quercetin (n =6,0.530,154906,22308,0.9998,0.08,0.22,0.74
+16,kaempferol (n =6),0.357,167416,65422,0.9997,0.16,0.42,1.38

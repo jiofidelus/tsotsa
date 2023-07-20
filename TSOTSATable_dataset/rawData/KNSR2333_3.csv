@@ -1,0 +1,11 @@
+,0,1,2,3
+0,Sample,MG added/10-6,MG founda/10-6,relative recovery
+1,,mol L1, mol L-1,/%
+2,Aquaculture,0,NDc,
+3,water,0.50,0.48(0.02),96.0
+4,Fish 1,0,ND,
+5,Fish 1,0.50,0.52(0.03),104.0
+6,Fish 2,0,ND,
+7,Fish 2,1.00,1.03 (0.06),103.0
+8,Fish 3,0,ND,-
+9,Fish 3,5.0,4.93(0.12),98.6

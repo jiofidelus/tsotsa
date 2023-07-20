@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7
+0,,,,Absorption on,,Rfvalues,Chemical,
+1,Fraction,Identification,petroleum ether (nm),petroleum ether (nm),petroleum ether (nm),on TLC,reactions,
+2,1,"-carotene 5,6,5',6'-diepoxide",413,436,467,0.96,Epoxide tests,+
+3,2,"8-carotene 5,6-epoxide",419,441,470,0.98,Epoxide tests,+
+4,3,-carotene,(424),447,474,0.99,trans test,+
+5,,,,,,,Epoxide test,
+6,4,Luteochrome,396,419,446,0.97,Epoxide tests,+
+7,5,a-zeacarotene,398,421,447,0.98,transtest,+
+8,,,,,,,Epoxide test,
+9,6,Neurosporene,413,436,466,0.94,trans test,+
+10,,,,,,,Epoxide tests,
+11,7,-carotene,378,399,424,0.99,,

@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Peak No.,Peak ID,Retentions (expressed as ratios of peak areas of each compound in different treatments to that in fresh sample),Retentions (expressed as ratios of peak areas of each compound in different treatments to that in fresh sample),,Retentions (expressed as ratios of peak areas of each compound in different treatments to that in fresh sample),,,,,
+1,,,Baking treatments,,,Boiling treatments,,,Microwaving treatments,Microwaving treatments,
+2,,,5 min,10 min,15 min,1 min,3 min,10 min,15s,30s,45s
+3,,Hydroxycinnamic acids and related derivatives,Hydroxycinnamic acids and related derivatives,,,,,,,,
+4,4,caffeoylquinic acid,0.9420.072c,0.918  0.014bc*,0.868  0.004b**,0.9460.078c,0.9340.0404c,0.9370.044c,0.7660.08a**,0.721  0.023a**,0.7100.009a**
+5,14,caffeoylshikimic acid,0.785  0.074abc**,0.727 0.045ab**,0.7000.010a**,0.854  0.014c**,0.761 0.008ab**,0.7210.004a*,,0.749  0.039ab**,0.706  0.033a**
+6,19,feruloylhexoside,0.8770.068b*,0.875  0.024b*,0.808  0.028b**,0.846 0.048b**,0.852  0.042b*,0.823  0.144b**,,0.535  0.011a**,0.527  0.1474a**
+7,25,dicaffeoylquinic acid,0.7850.060b**,0.7510.118b**,0.6630.029a**,0.888  0.078c*,0.808 0.079b**,0.774 0.045b**,0.754  0.042b**,0.6120.103a**,0.595  0.116a**
+8,,Flavan-3-ols and proanthocyanidins,,,,,,,,,
+9,,procyanidin B2,0.757 0.041cd**,0.737  0.052cd**,0.710  0.057c**,0.670 0.009b**,0.599  0.015a**,0.570  0.009a**,0.820  0.039d**,0.803  0.012d**,0.7810.028cd**
+10,9,catechin,0.9430.124,0.928  0.052c,0.766  0.010ab**,0.9290.096c,0.9240.045c,0.9190.072,0.815  0.087b**,0.742 0.018ab**,0.668  0.026a**
+11,12,procyanidin trimer A-type,0.790  0.079c**,0.779  0.184c**,0.5300.031b**,0.529  0.132b**,0.515  0.053b**,0.428  0.021ab**,0.426  0.039ab**,0.363  0.013a**,0.361  0.017a**
+12,,Flavonols and flavonol glycosides,,,,,,,,,
+13,15,myricetin 3-0-hexoside,0.8670.085**,0.826  0.028e**,0.7720.015de**,0.747  0.01cd**,0.664  0.053ab**,0.680  0.034be**,0.648  0.042ab**,0.6610.038b**,0.601  0.033a**
+14,18,dihydro-tetrahydroxy-,0.9450.042c,0.929 0.034c*,0.926  0.037c*,0.9390.011c,0.9270.018c*,0.738  0.058a**,0.827  0.070b**,0.795  0.064ab**,0.744  0.054a**
+15,,dimethoxy flavone pentoside,,,,,,,,,
+16,20,quercetin 3-0-hexoside,0.944 0.125defgh,0.920  0.057cg*,0.8360.081bcd**,0.862 0.110bce**,0.911  0.024cf,0.880 0.062ch**,0.775  0.152ac**,0.707 0.071ab**,0.6460.1334a**
+17,21,quercetin 3-0-hexoside,0.952  0.049d,0.934  0.031d,0.860 0.046bec**,,0.838  0.071b**,0.825  0.040b**,0.844  0.052b**,0.823  0.045b**,0.7304  0.084a**
+18,23,quercetin 3-0-pentoside,0.926  0.059c,0.890 0.017c,0.731 0.058b**,0.737 0.068b**,0.696  0.140ab**,0.616 0.070ab**,0.723  0.130b**,0.654  0.069ab**,0.597  0.0924a**
+19,26,syringetin 3-O-hexoside,0.880  0.155e*,0.827  0.066de**,0.776  0.050ce**,0.862  0.060de**,0.823  0.127de**,0.656  0.041ac**,0.710 0.034bed**,0.605  0.029ab**,0.573  0.091a**
+20,27,quercetin 3-O-acetylhexoside,0.913  0.094d,0.903 0.058d,0.899  0.064d,0.902  0.020d,0.906  0.078d,0.745 0.041bc**,0.723  0.084ac**,0.684  0.016ab**,0.637  0.116a**
+21,,Chalcone glycosides,,,,,,,,,
+22,16,chalcone 3-0-galactoside,0.950  0.031d,0.878  0.085cd**,0.755  0.046ab**,0.938  0.025d,0.936  0.086d,0.841 0.067bc**,0.842  0.052be**,0.752  0.056a**,0.748  0.068a**
+23,17,chalcone 3-O-glucoside,0.888  0.090def*,0.870 0.027abcdef*,0.8660.013bcdef,0.981  0.166ef,0.958  0.096cef,0.889  0.067def*,0.823  0.054abd**,0.740  0.092ab**,0.734 0.061a**
+24,,Total,0.887 0.062d**,0.865  0.052d**,0.7710.023bc**,0.867  0.052d**,0.834 0.042bed**,0.760  0.053ab**,0.7680.044bec**,0.692  0.041ab*,0.666  0.054a**

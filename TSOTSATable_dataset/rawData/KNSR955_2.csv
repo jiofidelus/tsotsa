@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Phenolic compounds,Folin method,Immobilized enzymatic,Folin method,Immobilized
+1,,(mol GAE),method(mol GAE,(mol EAE),enzymatic method
+2,,,,,(mol EAE)
+3,Ellagic acid,0.127  0.009,0.136  0.008,0.021  0.002,0.070 0.007
+4,Ferulic acid,0.1140.008,0.0300.003,0.0190.001,0.065 0.006
+5,Caffeic acid,0.1350.010,0.055  0.004,0.021  0.002,0.030  0.002
+6,p-Coumaric acid,0.1300.006,0.083  0.007,0.021 0.001,0.027 0.003
+7,p-Hydroxybenzoic acid,0.036  0.003,0.1350.009,0.0120.001,0.0390.003
+8,Quercetin,0.092  0.005,0.065  0.006,0.017  0.001,0.034  0.002
+9,Total,0.633  0.037,0.503  0.012,0.1110.001,0.264  0.017
+10,Mixture,0.584  0.024,0.476  0.031,0.087  0.004,0.237  0.018
+11,Additivity (%),92,95,78,90

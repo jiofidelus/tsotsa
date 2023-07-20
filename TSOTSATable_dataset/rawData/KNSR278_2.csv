@@ -1,0 +1,30 @@
+,0,1,2,3,4
+0,Type of tea,TPC(mg GAE/100 g),AEAC(mg AA/100 g),FRP (mg GAE/g),CECso(mg/mL)
+1,Tropical herbal tea,,,,
+2,Lemon myrtle,7560126a,13 600792a,610.6a,1.20.2a
+3,Guava,5930584b,7430752b,352.7b,1.20.2a
+4,Legundi,5420404b,4900549c,302.0c,1.90.1b
+5,Rooibos,3750235c,3020456e,200.4e,4.71.2d
+6,Jin yin hua,3630169c,3850224d,210.5d,2.00.2b
+7,Misai kucing,278071d,4160362cd,220.9d,1.10.5a
+8,Pegaga,2040214e,1340613f,121.2f,2.70.1c
+9,Mas cotek,202087e,108066f,5.90.3h,1.00.0a
+10,Bitter gourd,85421g,53656g,100.4g,2.00.1b
+11,Getto,85421g,53656g,3.50.3i,0.90.1a
+12,Asam gelugor,80694g,26215i,2.90.2j,>7.0e
+13,Rang jeud,80550g,59129g,4.3  0.5i,4.00.5d
+14,Lemon grass,64420h,35431h,3.10.2j,4.70.3d
+15,Temperate herbal tea,,,,
+16,Oregano,5860379a,7240309a,491.6a,0.80.2b
+17,Mint,435020b,4430310c,310.4c,0.30.0a
+18,Peppermint,4210139b,309097d,370.3b,0.40.1a
+19,Rosemary,281089c,309097d,201.2d,2.10.5c
+20,Chamomile,137037d,966 52e,8.10.2e,3.3 0.1d
+21,Camellia tea,,,,
+22,Green Tea (g),"14,1201810a",250002780a,14311a,1.80.3c
+23,Green Tea (g,"11,3701480b",18 4601740b,8411b,1.40.1b
+24,Ti Kuan Yin (o),9090457c,161702480b,69 4.2c,1.90.2c
+25,Yellow Label(b),8490803c,115501150cd,53  3.0e,1.70.1c
+26,Cha Wang (o,7500462d,14 4503046bc,592.3d,1.80.5c
+27,Bukit Cheeding(b),7410120d,10 300563d,53  3.0e,1.00.2a
+28,Cameron Highlands (b,6060543e,75101260e,362.4f,1.50.2bc

@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8
+0,Nr,Compound,(nm),Range (g on-column),Slope,y-intercept,12,LOD (mg/L),LOQ (mg/L)
+1,1,Unidentified,288,,_a,-a,_a,0.006,0.018
+2,2,Protocatechuic acid,288,0.007  1.8,1603.4,3.4,1.0000,0.006,0.018
+3,3,3--d-Glucopyranosyl-4-O--D-glucopyranosyliriflophenone,288,b,b,,_b,0.023,0.070
+4,4,3--D-Glucopyranosyliriflophenone,288,0.005  1.2,1701.9,8.5,0.9999,0.017,0.052
+5,5,Eriodictyol-O-(deoxyhexose-O-hexose),288,,,c,,0.009,0.028
+6,7,Mangiferin,320,0.008  1.9,2234.5,1.9,1.0000,0.028,0.085
+7,8,p-Coumaric acid,320,0.005  1.2,6510.4,6.2,1.0000,0.010,0.031
+8,9,Eriodictyol-O-(deoxyhexose-O-hexose),288,,-c,-c,-c,0.009,0.028
+9,10,Isomangiferin,320,-d,,,-d,0.026,0.077
+10,11,Vicenin-2,320,0.005  1.2,1612.2,1.8,1.0000,0.007,0.022
+11,14,Eriocitrin,288,0.005  1.2,1645.6,4.2,1.0000,0.009,0.028
+12,16,Hesperidin,288,0.009 -2.3,1645.6,14.8,1.0000,0.027,0.082
+13,18,Neoponcirin,288,0.009  2.2,1552.1,5.0,1.0000,0.013,0.156
+14,19,Hesperetin,288,0.013  3.3,615.7,0.9,0.9999,0.052,0.156

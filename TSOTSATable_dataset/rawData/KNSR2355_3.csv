@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,Ballast substances,Acetone,Chloroform,Cyclohexane,Diethyl ether,Ethyl acetate,Hexane
+1,FA/AR,0.5,1.0,2.0,0.3,1.5,3.5
+2,Sulfuric acid,114,157,84,209,150,93
+3,Iodine,11,27,22,41,32,22
+4,Phospholipids,15,17,9,17,17,11
+5,Aminolipids,3,7,1,6,6,5
+6,Glycolipids,18,23,7,25,15,10
+7,Choline groups,9,5,1,14,5,1
+8,Steroids,25,18,23,29,24,19
+9,Phenols,,,,,,
+10,PMA,4,6,1,13,6,1
+11,FBB,6,7,1,10,5,3
+12,DCQCI,12,19,12,16,12,9
+13,Totala,103,129,77,171,122,81

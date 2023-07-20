@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8
+0,,Weight,,Flesh firmness,,Soluble solids,,Acidity,
+1,,r,P,,P,,P,r,P
+2,Total phenols,-0.386,*,-,ns,0.489,***,-,ns
+3,Total flavonoids,0.454,*,-,ns,0.572,***,-,ns
+4,Catechin,,ns,,ns,0.609,***,0.455,*
+5,Epicatechin,0.540,ns,0.437,ns,0.852,,0.492,*
+6,Rutin,,ns,-,ns,,ns,-,ns
+7,Chlorogenic acid,0.727,ns,1,ns,0.687,ns,,ns
+8,DPPH*(65 min),0.374,,-,ns,-,ns,0.360,*
+9,DPPH*(65 min),-,ns,-,ns,0.419,*,-,ns
+10,DPPH*(35 min),,ns,-,ns,0.479,*,,ns
+11,DPPH*(5 min),,ns,,ns,0.466,*,,ns
+12,ONOO-,,ns,,ns,0.569,,-,ns

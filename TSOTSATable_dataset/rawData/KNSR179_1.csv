@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,Test protein,Trp/protein,MW [kDa]a,Nrrp/protein []3,Purpose in this study
+1,-LA,5.25%,14.2,,Creation of a
+2,PB,1.85%,97.2,12,calibration curve
+3,TI,1.85%,20.1,2,
+4,OV,1.31%,42.8,3,
+5,BSA,0.56%,66.4,2,
+6,-Cas,0.79%,23.6,1,Verification of absolute protein quantification
+7,-LG,2.04%,18.3,2,
+8,-Gal,6.24%,116.4,39,Examination of proteins with high Trp/protein
+9,LYZ,7.81%,14.3,6,

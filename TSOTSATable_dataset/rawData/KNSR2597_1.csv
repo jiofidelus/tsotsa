@@ -1,0 +1,17 @@
+,0,1,2,3,4
+0,Compounds,Transition,Dwell,The fragmentation,The collision
+1,,(m/z),time,energies,energies
+2,,,(ms),of Q1(V),(eV)
+3,Rosmarinic acid,359.1-161.0,50,100,10
+4,Protocatechuic,137.0-108.0,50,120,35
+5,aldehyde,,,,
+6,Protocatechuic,153.0-108.9,50,100,15
+7,acid,,,,
+8,Caffeic acid,178.9-134.9,50,100,10
+9,Ferulic acid,193.0-133.9,50,100,10
+10,Apigenin,269.0-116.9,50,160,30
+11,Luteolin,285.0133.0,50,160,30
+12,Quercetin,301.0-150.9,50,140,20
+13,Isorhamnetin,315.0300.0,50,140,25
+14,Chlorogenic acid,353.0191.0,50,100,5
+15,Rutin,609.0299.9,50,220,35

@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7
+0,Dish name,Energy,Prot,Fat,CHO,Iron,Yieldb,Ne
+1,,kcal/100g)g/100g,kcal/100g)g/100g,g/100g,g/100g,mg/100g),(%,
+2,Tea (tea leaves and water:,,,,,,,
+3,With sugar,26,0.0,0.0,6.6,0.0,91,396
+4,With milk,17,0.7,1.3,0.7,0.7,92,274
+5,With milk and sugar,28,0.4,0.7,4.8,0.4,92,1326
+6,Porridge (maize flour and water,,,,,,,
+7,Plain,38,0.9,0.5,7.7,0.0,89,684
+8,With sugar,47,0.9,0.5,10.5,0.0,90,264
+9,With milk,43,1.2,0.9,7.7,0.3,89,166
+10,Githeri boiled maize and beans:,,,,,,,
+11,Plain,147,5.1,1.6,29.6,1.5,75,1760
+12,With fat and onions,135,4.5,1.9,25.9,1.4,96,1208
+13,With fat and vegetables,126,4.3,1.8,24.3,1.4,93,483
+14,With fat and potato or banana,115,3.6,1.5,22.8,1.1,90,231
+15,Maize only,160,3.9,2.0,32.9,1.1,71,192
+16,"With fat, potato or banana and veg",110,3.6,1.6,21.3,1.2,91,152
+17,Mataha (boiled maize and vegetables):,,,,,,,
+18,Plain,150,4.1,1.8,30.4,1.4,85,188
+19,With beans,159,5.8,1.7,32.5,1.9,89,168
+20,With beans and banana,140,4.3,1.3,28.9,1.5,78,127
+21,With potato,149,3.9,1.7,31.4,1.3,76,152
+22,Gitwero (boiled banana and potatoes:,,,,,,,
+23,Plain,70,1.2,0.1,17.5,0.4,56,227
+24,With fat,82,1.2,1.4,17.1,0.4,73,219
+25,With vegetables,66,1.2,0.1,16.3,0.5,60,118
+26,"With roots yam, arrowroot,etc.",82,1.1,0.2,19.4,0.6,67,100
+27,"With roots yam, arrowroot,etc. and fat",84,1.0,0.8,19.3,0.7,85,122
+28,Banana only,70,0.9,0.1,17.9,0.3,57,110
+29,With milk,83,1.9,1.7,15.7,0.4,65,140
+30,Stew (boiled vegetables):,,,,,,,
+31,With fat,36,1.6,2.1,3.4,1.1,86,728
+32,With potato and fat,47,1.3,1.5,7.3,0.6,85,183
+33,"Ugali maize flour and water, plain",134,3.3,1.7,27.6,0.9,84,1243

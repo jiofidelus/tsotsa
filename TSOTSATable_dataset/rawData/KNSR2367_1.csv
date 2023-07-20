@@ -1,0 +1,12 @@
+,0,1,2
+0,Nutrient,Content per 100 g,Tolerance
+1,"carbohydrates,sugar,protein,fiber",<10g,2g
+2,,10-40g, 20%
+3,,>40g,8g
+4,fat,<10g,1.5g
+5,,10-40g, 20%
+6,,>40g,8g
+7,saturated fat,<4g,2g
+8,,4g, 20%
+9,salt,<1.25g,0.375 g
+10,,1.25 g,20%

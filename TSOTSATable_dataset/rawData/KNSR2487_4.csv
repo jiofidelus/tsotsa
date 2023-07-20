@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Food item (mg/kg)b,Myricetin Range,Quercetin Range,Quercetin Range,Kampferol Range,Luteolin Range,Luteolin Range,Apigenin Range,Total Range,Total Range
+1,"Grapes(red,seedless",2<0.4,6,5-8,<0.1,26,2231,<0.1,33,30-35
+2,Mango (Hayden),2<0.4,0,,<0.1,<0.3,,<0.1,<1.1,
+3,Oranges (local Ka'u),3<0.4,6,47,<0.1,15,14-18,<0.1,21,2022
+4,Oranges (Navel),3<0.4,4,44,<0.1,14,12-16<0.1,12-16<0.1,18,16-19
+5,Papaya,4<0.4,0,,<0.1,<0.3,,<0.1,<1.1,
+6,Pineapple,1<0.4,0,,<0.1,<0.3,,<0.1,<1.1,
+7,Plum (black),2<0.4,18,828,<0.1,9,910,<0.1,27,1737
+8,Plum (red),2<0.4,10,812,<0.1,<0.3,,<0.1,10,812
+9,Raspberries (frozen),1<0.4,11,,<0.1,<0.3,,<0.1,11,
+10,Strawberries,1<0.4,9,,6,<0.3,,<0.1,15,
+11,Strawberries (frozen),1<0.4,9,,13,<0.3,,<0.1,22,
+12,Dried fruits,,,,,,,,,
+13,"Prunes, (dried, pitted)",2<0.4,<0.2,,<0.1,<0.3,,<0.1,<1.1,
+14,Raisins,2<0.4,<0.2,,<0.1,<0.3,,<0.1,<1.1,
+15,Juices and jams,,,,,,,,,
+16,Grape jam,2<0.4,<0.2,,<0.1,<0.3,,<0.1,<1.1,
+17,Grape juice,2<0.4,8,5-11,<0.1,<0.3,,<0.1,8,5-11
+18,Guava jam,2<0.4,<0.2,,<0.1,<0.3,,<0.1,<1.100,<1.100
