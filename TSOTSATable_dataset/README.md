@@ -1,4 +1,5 @@
-
+The comparison used to generate the table of scientific papers used to extract the dataset
+https://orkg.org/comparison/R601687/
 
 ORKG was used to build a table containing the scientific papers used in this work.
 
