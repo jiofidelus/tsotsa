@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6
+0,Nutrient,Indonesia,Malaysia,Philippines,Singapore,Thailand,Vietnam
+1,Ash,"char sample, ash in",dry sample; char,dry sample; char,not specified,"char sample, ash in",ash in furnace at
+2,,furnace at 500-550c,sample and ash in,sample and ash in,,furnace at 500-550C,550C
+3,,,furnace at 500-550C,furnace at 500-550C,,,
+4,Calcium,calcium precipitated,calcium precipitated,calcium precipitated,AASmethod,calcium precipitated,"titrimetric,AOAC 1990"
+5,,"as Ca oxalate,","as Ca oxalate,","as Ca oxalate,",,"as Ca oxalate,",
+6,,"dissolved in H2SO4,","dissolved in H2SO4,","dissolved in H2SO4,",,"dissolved in H2SO4,",
+7,,titrate with KMnO4;,titrate with KMnO4;,titrate with KMnO4,,titrate with KMnO4;,
+8,,also AAS method:,also AAS method:,,,"also AAS method, air-",
+9,,nitrous oxide-,nitrous oxide-,,,acetylene/ nitrous,
+10,,"acetylene, 422.7 nm","acetylene, 422.7 nm",,,"oxide-acetylene,",
+11,,,,,,422.7 nm,
+12,Phosphorus,colorimetric method:,react with vanadate-,react with,,gravimetric method:,"gravimetric method,"
+13,,react with vanadate-,"molybdate, OD @ 420","ammoniummolybdate,",,react with ammonium,AOAC 1990
+14,,"molybdate, OD @ 400",nm,OD @ 660 nm,,"molybdate,weight",
+15,,nm; titrimetric method:,,,,residue,
+16,,Pprecipitated as,,,,colorimetric method:,
+17,,ammonium phospho-,,,,react with vanadate-,
+18,,"molybdate, dissolved",,,,"molybdate, OD @ 420",
+19,,alkali tirtrated with HCI,,,,nm,
+20,Iron,"react with bipyridyl,",react with,"react with bipyridyl,",AAS method,react with,"colorimetric, titrimetric,"
+21,,OD @ 520 nm (in,phenanthroline or,OD @ 520 nm,,phenanthroline or,AOAC 1990
+22,,presence of added,"bipyridyl, OD @ 510",,,"bipyridyl, OD @ 510",
+23,,ascorbic acid),nm; also AAS method:,,,nm; also AAS method,
+24,,,air-acetylene; 248.3,,,(see multi-minerals);,
+25,,,nm,,,"also AAS method, air-",
+26,,,,,,"acetylene, 248.3 nm",
+27,"Zinc, copper",,AAS method: Zn & Cu,,,AAS method; air,
+28,,,by air-acetylene flame,,,nitrous oxide-,
+29,,,"at 213.9 & 324.7 nm,",,,"acetylene, Zn 213.9,",
+30,,,Mg nitrous oxide-,,,"Cu, 324.7",
+31,,,"acetylene, 202.6 nm.",,,,

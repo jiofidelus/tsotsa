@@ -1,0 +1,62 @@
+,0,1,2,3,4
+0,,proximate,content (min-max),,
+1,moisture (%),moisture (%),1.50-13.80,,
+2,dietary fiber%,dietary fiber%,0.15-30.00,,
+3,proteins (%),proteins (%),2.50-62.00,,
+4,ash %,,0.50-6.50,,
+5,lipids (%),lipids (%),0.41-24.40,,
+6,carbohydrates (%),carbohydrates (%),18.50-82.80,,
+7,sugars (g/100 g),sugars (g/100 g),,,
+8,glucose,glucose,2.7728.49,,
+9,fructose,fructose,4.90-33.48,,
+10,sucrose,sucrose,0.059.02,,
+11,maltose,maltose,0.16-6.03,,
+12,isomaltose,isomaltose,0.10-0.60,,
+13,raffinose,raffinose,0.10-0.20,,
+14,trehalose,trehalose,0.10-0.40,,
+15,erlose,erlose,0.10-0.30,,
+16,polyphenols,polyphenols,,,
+17,total phenolic content (mg of GAE/g),total phenolic content (mg of GAE/g),0.69-213.00,,
+18,,total flavonoid content (mg of QE/g,1.82-107.00,,
+19,fatty acids (g/100 g),fatty acids (g/100 g),,,
+20,C4:0 butyric acid,C4:0 butyric acid,traces-0.26,C18:3 a-linolenic acid,0.1-56.90
+21,C6:0 caproic acid,C6:0 caproic acid,traces-4.53,C18:3 y-linolenic acid,traces-41.99
+22,C8:0 caprylic acid,C8:0 caprylic acid,traces-6.34,C20:0 arachidic acid,traces-6.88
+23,C10:0 capric acid,C10:0 capric acid,traces-14.98,C20:1 eicosenoic acid,0.0073-3.35
+24,C11:0 undecanoic acid,C11:0 undecanoic acid,traces-1.70,C21:1 heneicosenoic acid,traces-3.92
+25,C12:0 lauric acid,C12:0 lauric acid,traces-8.51,C20:2 eicosadienoic acid,traces-4.27
+26,C14:0 myristic acid,C14:0 myristic acid,traces-20.70,C20:3 dihomo-y-linolenic acid,traces-54.01
+27,C15:0 pentadecanoic acid,C15:0 pentadecanoic acid,traces-29.97,C20:3 eicosatrienoic acid,traces-18.36
+28,C16:0 palmitic acid,C16:0 palmitic acid,traces-64.38,C20:4 arachidonic acid,traces-2.40
+29,C16:1 palmitoleic acid,C16:1 palmitoleic acid,traces-4.39,C22:0 behenic acid,traces-17.89
+30,C17:0 heptadecanoic acid,C17:0 heptadecanoic acid,0.07-25.60,C22:1 erucic acid,0.0038-1.40
+31,C17:1 heptadecenoic acid,C17:1 heptadecenoic acid,traces-6.61,C22:6 docosahexaenoic acid,traces-1.29
+32,C18:0 stearic acid,C18:0 stearic acid,0.0027-8.52,C23:0 tricosanoic acid,0.09-5.39
+33,C18:1 cis-oleic acid,C18:1 cis-oleic acid,1.33-20.61,C20:5 eicosapentaenoic acid,0.35-3.36
+34,C18:2 trans-linoelaidic acid,C18:2 trans-linoelaidic acid,0.2212.62,C24:0 lignoceric acid,traces-1.59
+35,C18:2 cis-linoleic acid,C18:2 cis-linoleic acid,0.0085-53.92,C24:1 nervonic acid,traces=0.97
+36,total amino acids (g/100 g),total amino acids (g/100 g),,,
+37,essential amino acids,essential amino acids,,non-essential amino acids,
+38,,arginine,0.03-2.58,alanine,0.09-2.33
+39,,histidine,0.07-4.49,aspartic acid,0.213.23
+40,,isoleucine,0.01-1.60,cysteine,0.07-0.30
+41,leucine,leucine,0.062.47,glutamic acid,0.13-3.03
+42,lysine,lysine,0.03-3.71,glycine,0.04-1.84
+43,,methionine,0.010.62,proline,0.04-19.8
+44,,phenylalanine,0.032.72,serine,0.23-1.33
+45,,threonine,0.025.58,tyrosine,0.03-3.76
+46,,tryptophan,0.05-14.80,asparagine,0.080.57
+47,,valine,0.03-1.57,glutamine,0.02-1.42
+48,vitamins (mg/100 g),vitamins (mg/100 g),,,
+49,fat soluble,fat soluble,,water soluble,
+50,,a-carotene,0.3332.47,thiamine (vitamin B),0.20-1.30
+51,,-carotene,0.08-19.89,riboflavin (vitamin B),0.40-2.56
+52,,y-carotene,5.38-12.87,niacin (vitamin B),1.30-15.34
+53,,-carotene,4.4911.58,nicotinamide (vitamin B),0.51-12.10
+54,,-carotene,5.80-12.39,pantothenic acid (vitamin Bs),0.50-2.00
+55,lutein,lutein,4.45-47.63,Pyridoxine (vitamin B.),0.10-3.80
+56,,-cryptoxanthin,0.13-8.54,biotin (vitamin B.),0.05-0.07
+57,,isocryptoxanthin,3.11-8.05,folic acid,0.30-1.00
+58,,isozeaxanthin,3.80-26.54,vitamin C,6.03-79.70
+59,,lactucaxanthin,3.17-9.80,,
+60,,neoxanthin,4.457.22,,

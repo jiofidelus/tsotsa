@@ -1,0 +1,46 @@
+,0,1,2,3
+0,Sample,Concentration (mg,Analytical,Reference
+1,,kg1or mg L-1,technique,
+2,Baby foods,0.01-343,HPLC-DAD,"(Prata et al.,"
+3,,,,2021)
+4,Beer,4.3-7.0,HPLC-DAD,"(Viegas et al.,"
+5,,,,2018)
+6,Black garlic,1880-4820,HPLC-UV,"(Zhang et al.,"
+7,,,,2016)
+8,Bread,14.8-17.1,HPLC-DAD,"Gulcan et al.,"
+9,,,,2020)
+10,Breakfast cereals,15-717,HPLC-UV,(Rada-Mendoza
+11,,,,"et al.,2002"
+12,Brown sugar,0.2-6.5,HPLC-DAD,(Polovkova&
+13,,,,"Simko,2017)"
+14,Coffee,900-1200,HPLC-UV,"(Alcantara et al.,"
+15,,,,2021)
+16,Cracker,0.3-35.0,HPLC-UV,(Svecova&
+17,,,,"Mach,2017"
+18,Corn and cane,407-2121and461-,HPLC-UV,"Andrade et al.,"
+19,syrups,893,,2016)
+20,Corn syrups,47-1655,UV,"(Andrade et al.,"
+21,,,,2017)
+22,Dried fruits,4-2400,HPLC-DAD,(Aktag&
+23,,,,"Gokmen,2020"
+24,Dulce de leche,315-465,HPLC-DAD,"(Barrera et al.,"
+25,,,,2021)
+26,Fruit juice,0.1-3.0,GC-MS/MS,(Marsol-Vall
+27,,,,"et al.,2016"
+28,Honey,12-127,CE and HPLC,"(Rizelio et al.,"
+29,,,MS/MS,2012)
+30,Honey,2-232,NIR,"Apriceno et al.,"
+31,,,,2018)
+32,Honey,11-162,UV/Vis,"Besir et al.,"
+33,,,,2021)
+34,Milk products,37-891,HPLC-DAD,"Xing et al.,"
+35,,,,2021)
+36,Thermally-,0.01-2.3,HPLC-MS/MS,"Qin et al.,2017"
+37,processed,,,
+38,seafood,,,
+39,Tomato-based,5-312,CE,(Marcondes
+40,products,,,"et al.,2021"
+41,Vinegar,43-455,HPLC-UV,"Gong et al.,"
+42,,,,2020)
+43,Wine,0.2-598,HPLC-DAD-MS/,(Serra-Cayuela
+44,,,MS and NMR,"et al.,2013"

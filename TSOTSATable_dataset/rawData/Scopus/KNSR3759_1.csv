@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Species,COD,Producer,Origin,Emetals,Species,COD,Producer,Origin,Emetals
+1,Thymus,,,,,Lavandula,,,,
+2,vulgaris L.,C1,Adams,India,8.9075,augustifolia,L1,Adams,India,6.0237
+3,vulgaris L.,,,,,Mill.,,,,
+4,Satureja,,,,,Lavandula,,,,
+5,hortensis L.,C2,Hypericum Romania,Hypericum Romania,6.9294,augustifolia,L2,Hypericum Romania,Hypericum Romania,14.6322
+6,hortensis L.,,,,,Mill.,,,,
+7,Satureja,,Steaua,,,Lavandula,,Steaua,,
+8,hortensis L.,C3,Divina,Romania,13.2498,augustifolia,L3,Divina,Romania,11.1439
+9,hortensis L.,,Divina,,,Mill.,,Divina,,
+10,Thymus,,,Salt Lake,,Lavandula,,,Salt Lake,
+11,vulgaris L.,C4,Doterra,"City, UT,",10.6565,augustifolia,L4,Doterra,"City, UT,",7.8597
+12,vulgaris L.,,,USA,,Mill.,,,USA,
+13,Thymus,,,,,Lavandula,,,,
+14,vulgaris L.,C5,Herbalsana UE,Herbalsana UE,5.4272,augustifolia,L5,Herbalsana UE,Herbalsana UE,8.9778
+15,vulgaris L.,,,,,Mill.,,,,
+16,vulgaris L.,C6,Solaris,Romania,9.0870,hybrida,L6,Solaris,Romania,9.9007
+17,Thymus,,,,,Lavandula,,,,
+18,vulgaris L.,C7,Fares,Romania,5.7259,augustifolia,L7,Fares,NaN,3.7830
+19,vulgaris L.,,,,,Mill.,,,,
+20,pipperita L.,M1,Adams,India,10.6569,Sylvestris L.,P1,Adams,Austria,4.5618
+21,pipperita L.,M2,Hypericum Romania,Hypericum Romania,10.9964,sylvestris L.,P2,Hypericum Romania,Hypericum Romania,9.1167
+22, pipperita L.,M3,Divina,Romania,17.1625,sylvestris L.,P3,Divina,NaN,3.0284
+23,Mentha x,,,Salt Lake,,Pinus,,,Salt Lake,
+24, pipperita L.,M4,Doterra,"City, UT,",20.4874, sylvestris L.,P4,Doterra,CityUT,7.9497
+25, pipperita L.,,,USA,, sylvestris L.,,,USA,
+26,pipperita L.,M5,Herbalsana,UE,5.4209,Sylvestris L.,P5,Herbalsana,UE,10.6651
+27,pipperitaI,M6,Solaris,Romania,38.8149,Sulvestris L,P6,Solaris,NaN,5.5946

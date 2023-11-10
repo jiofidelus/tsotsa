@@ -1,0 +1,44 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Variables,Variables,,"Total(n=6,845","Total(n=6,845",,,Workplace foodservices,,Workplace foodservices,,,P-valuel
+1,,,,,,,"Non=5,719",,,,"Yesn=1,126",,
+2,,,,%,SE,%,,SE,,%,,SE,
+3,Percentage,Percentage,,100.0,,83.2,,0.6,,16.8,,0.6,
+4,Age(yrs),Age(yrs),,44.6,0.1,44.9,44.9,0.2,,43.1,,0.3,<0.01
+5,Men,,,58.5,0.6,57.4,57.4,0.7,,64.0,64.0,1.5,<0.01
+6,Household income,Household income,Household income,,,,,,,,,,<0.01
+7,,Quartile1,Quartile1,6.4,0.4,6.9,6.9,0.5,,3.7,3.7,0.6,
+8,,Quartile 2,Quartile 2,21.5,0.7,22.0,22.0,0.8,,19.1,,1.4,
+9,,Quartile3,Quartile3,32.8,0.8,31.8,31.8,0.8,,37.9,37.9,1.8,
+10,,Quartile4,Quartile4,39.3,1.0,39.2,39.2,1.1,,39.3,39.3,2.0,
+11,Higher education:at least a college degree,Higher education:at least a college degree,Higher education:at least a college degree,52.8,1.0,51.8,51.8,1.1,,57.9,57.9,1.9,<0.01
+12,Occupation,Occupation,,,,,,,,,,,0.01
+13,,Non-manual worker,Non-manual worker,47.8,1.0,47.2,47.2,1.0,,50.3,50.3,1.9,
+14,,Service and sales worker,Service and sales worker,21.1,0.6,22.6,22.6,0.6,,13.6,13.6,1.1,
+15,,Manual worker,Manual worker,31.1,0.8,30.1,,0.8,,36.2,36.2,1.8,
+16,Married,Married,,68.4,0.9,68.3,68.3,0.9,,68.7,68.7,1.9,0.85
+17,BMI,,,,,,,,,,,,0.01
+18,,Underweight,Underweight,3.8,0.3,3.8,3.8,0.3,,4.0,4.0,0.7,
+19,,Obese,,35.4,0.7,36.0,36.0,0.8,,32.4,32.4,1.6,
+20,Current smoker2),Current smoker2),Current smoker2),25.8,0.7,25.8,25.8,0.7,,25.5,25.5,1.6,0.84
+21,Heavy drinker?),Heavy drinker?),Heavy drinker?),16.5,0.6,17.0,17.0,0.6,,14.2,14.2,0.2,0.06
+22,Adequate physical activity,Adequate physical activity,Adequate physical activity,48.4,0.8,48.4,48.4,0.8,,48.2,48.2,1.9,0.92
+23,Chronic diseases,Chronic diseases,Chronic diseases,,,,,,,,,,
+24,,Hypertension,Hypertension,21.0,0.6,21.3,21.3,0.6,,19.5,19.5,1.2,0.19
+25,,Diabetes,Diabetes,7.0,0.3,7.6,7.6,0.4,,4.2,4.2,0.6,<0.01
+26,,Dyslipidemia,Dyslipidemia,30.6,0.7,30.8,30.8,0.8,,29.8,29.8,1.9,0.62
+27,Meal type,Meal type,,,,,,,,,,,
+28,,Breakfast,Breakfast,,,,,,,,,,
+29,,Skipping the meal,Skipping the meal,30.3,0.7,31.3,31.3,0.8,,25.5,25.5,1.6,-
+30,,,Workplace foodservice,2.5,0.2,0,,-,-,14.9,14.9,1.3,
+31,,Eating out,Eating out,12.2,0.5,13.1,,0.5,,7.7,7.7,1.0,
+32,,Homemade meal,Homemade meal,55.0,0.8,55.6,55.6,0.8,,51.9,51.9,1.8,
+33,,Lunch,,,,,,,,,,,
+34,,Skipping the meal,Skipping the meal,8.0,0.4,9.1,,0.5,,2.7,2.7,0.6,-
+35,,,Workplace foodservice,15.0,0.6,0,,,1,88.4,88.4,1.1,-
+36,,Eating out,Eating out,47.7,0.8,56.7,,0.8,,4.0,4.0,0.7,-
+37,,Homemade meal,Homemade meal,29.2,0.7,34.2,34.2,0.8,,4.9,4.9,0.8,
+38,,Dinner,,,,,,,,,,,
+39,,,Skipping the meal,5.5,0.3,5.9,5.9,0.4,,3.5,3.5,0.7,
+40,,,Workplace foodservice,3.7,0.3,0,,-,-,22.1,,1.5,-
+41,,Eating out,Eating out,41.6,0.7,42.9,42.9,0.8,,35.4,35.4,1.6,
+42,,Homemade meal,Homemade meal,49.2,0.7,51.2,51.2,0.8,,39.0,39.0,1.6,

@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Multimorbidity-related medication profiles,Multimorbidity-related medication profiles,Multimorbidity-related medication profiles,Multimorbidity-related medication profiles,,,,,
+1,,"""Few multimorbidity-related","""Few multimorbidity-related","""Few multimorbidity-related",,Predominantly allergic multimorbidity,Predominantly allergic multimorbidity,,Predominantly metabolic multimorbidity,Predominantly metabolic multimorbidity
+2,,medicationsprofile,medicationsprofile,,"related medications""profile","related medications""profile",,,related medicationsprofile,
+3,,n,AHEI-,OR(95%CI) n,,"AHEI-2010,m",OR (95% CI),n,"AHEI-2010,m",OR (95% CI)
+4,,,"2010,mean",,,(sd),,,(sd),
+5,,,(sd),,,,,,,
+6,Age-adjusted,1550,,,1147,,,777,,
+7,model 1,,,,,,,,,
+8,,AHEI-2010 tertile 510,38.7 (4.1),1.00 (ref),391,38.1 (4.5),1.00 (ref),276 38.1 (4.3),276 38.1 (4.3),1.00 (ref)
+9,1,,,,,,,,,
+10,AHEI-2010 tertile,508,47.3 (2.0),1.00 (ref),380,47.5 (2.1),0.97 (0.80-1.17)267 47.3 (2.0),,0.97 (0.80-1.17)267 47.3 (2.0),0.94(0.76-1.17)
+11,2,,,,,,,,,
+12,AHEI-2010 tertile,532,56.4 (4.4),1.00 (ref),376,56.2 (4.3),0.91 (0.75-1.10)23455.5 (4.2),,0.91 (0.75-1.10)23455.5 (4.2),0.75 (0.60-0.93)
+13,3,,,,,,,,,
+14,P for trend,,,,,,0.32,,,0.01
+15,Multivariable-,1550,,,1147,,,777,,
+16,adjusted model,,,,,,,,,
+17,2a,,,,,,,,,
+18,AHEI-2010 tertile,510,38.7 (4.1),1.00 (ref),391,38.1(4.5),1.00 (ref),27638.1(4.3),27638.1(4.3),1.00 (ref)
+19,1,,,,,,,,,
+20,,AHEI-2010 tertile 508,47.3 (2.0),1.00 (ref),380,47.5 (2.1),0.99 (0.811.20) 267 47.3 (2.0),,0.99 (0.811.20) 267 47.3 (2.0),0.96 (0.771.21)
+21,2,,,,,,,,,
+22,,AHEI-2010 tertile532,56.4 (4.4),1.00 (ref),376,56.2 (4.3),0.96 (0.79-1.17)23455.5 (4.2),,0.96 (0.79-1.17)23455.5 (4.2),0.80 (0.631.00)
+23,3,,,,,,,,,
+24,P for trend,,,,,,0.64,,,0.05

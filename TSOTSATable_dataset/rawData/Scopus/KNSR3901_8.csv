@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Baseline,n,OR95% CIfor adherenceincreasing5 points if baseline<13p or any increase if baseline13pto the MedDie,,OR95% CIfor adherenceincreasing5 points if baseline<13p or any increase if baseline13pto the MedDie,,,,,
+1,characteris-,,intervention (adherent vs. non-adherent)2,intervention (adherent vs. non-adherent)2,intervention (adherent vs. non-adherent)2,,,,,
+2,,,6 month-follow-up,,,,12 month-follow-up,,,
+3,,,Crude3,p value,Multivariable4,p value,Crude3,p value,Multivariable4,p value
+4,Health-related characteristics,Health-related characteristics,Health-related characteristics,,,,,,,
+5,Hypertension,,,,,,,,,
+6,No,488,1.00ref,,1.00 (ref),,1.00(ref,,1.00 (ref),
+7,Yes,2497,0.89 (0.74-1.09),0.260,0.81 (0.65-1.01),0.063,1.03(0.84-1.24),0.802,0.95 (0.76-1.19),0.655
+8,Obesity,,,,,,,,,
+9,No,815,1.00 (ref),,1.00 (ref),,1.00 (ref),-,1.00 (ref),
+10,Yes,2170,1.00 (0.85-1.18),0.965,0.81 (0.65-1.01),0.067,1.08 (0.92-1.27),0.334,1.10(0.87-1.37),0.425
+11,Type 2 diabetes,,,,,,,,,
+12,No,2154,1.00 (ref,,1.00 (ref),,1.00 (ref),,1.00 (ref),
+13,Yes,831,0.65(0.55-0.76,<0.001,0.69 (0.55-0.86),0.001,0.72 (0.61-0.85),<0.001,0.82 (0.661.02),0.080
+14,Hypercholesterolemia,Hypercholesterolemia,,,,,,,,
+15,No,897,1.00 (ref),,1.00 (ref),,1.00 (ref),,1.00 (ref),
+16,Yes,2088,0.89 (0.76-1.04),0.154,0.91 (0.76-1.08),0.288,0.99 (0.841.15),0.853,1.01 (0.85-1.21),0.876
+17,Cancer,,,,,,,,,
+18,No,2765,1.00 (ref),,1.00 (ref),,1.00 (ref),,1.00 (ref),
+19,Yes,220,0.93 (0.70-1.22),0.582,0.96 (0.70-1.31),0.791,0.98 (0.741.29),0.867,1.01 (0.74-1.39),0.932
+20,Depression,,,,,,,,,
+21,No,2408,1.00 (ref),,1.00 (ref),,1.00 (ref),,1.00 (ref),
+22,Yes,577,0.80 (0.67-0.96),0.017,0.80 (0.640.99),0.036,0.73(0.61-0.87),0.001,0.71 (0.570.88),0.002

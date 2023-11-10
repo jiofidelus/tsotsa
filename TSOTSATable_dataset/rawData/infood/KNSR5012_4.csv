@@ -1,0 +1,25 @@
+,0,1,2,3
+0,Acquisition type of,Abbreviation,Abbreviation,Comment
+1,source,used,,
+2,Article from scientific,,,
+3,literature,,a,Analytical value
+4,Analytical report,,,
+5,Reference dataset,,,"Value taken from data compilation,i.e.food composition"
+6,,,,datasets/databases
+7,Mix of data sources,,ar,Value represents a mix of data from the scientific literature or
+8,,,,reports(i.e.analytical dataor from reference data sets
+9,Calculated,,C,"Value derived by calculation in present dataset (e.g.PROTCNT,"
+10,,,,"ENERGY,see ANNEX2)"
+11,Estimated,,e,Value borrowed from similar/same food (values may be
+12,,,,"adjusted/unadjusted),or estimated from calculations"
+13,,,Z,Value is assumed zero.
+14,,,tr,Value is estimated trace.
+15,,,*,Tag for values for which INFOODS tagnames referring to a less
+16,,,,preferred/inappropriate analyticalmethodwere also included in
+17,,,,"the aggregation,or were the only option available. In the latter"
+18,,,,case the respective tagname is added in the documentation field
+19,,Blank,Blank,"Missing value,i.e.no validated value can be reported.Wherever"
+20,,,,"possible,the content has been estimated from a similar food or"
+21,,,,calculated based on various analytical data.A zero value cannot
+22,,,,automatically be assigned.
+23,,,[],Data are considered of lower quality

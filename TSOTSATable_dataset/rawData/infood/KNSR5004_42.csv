@@ -1,0 +1,40 @@
+,0,1,2
+0,lagname,Unit,Nutrient name
+1,EDIBLE,,Edible coefficient factor
+2,ENERG,kJ,"Energy,calculated in kJ"
+3,ENERG,kcal,"Energy, calculated in kcal"
+4,WATER,g,Water
+5,PROTCNT,g,"Total protein, calculated from total nitrogen"
+6,CHOL,mg,Cholesterol
+7,FAT,g,"Fat, total"
+8,FASAT,g,"Fatty acids, total saturated"
+9,FAMS,g,"Fatty acids,total monounsaturated"
+10,FAPU,,"Fatty acids, total polyunsaturated"
+11,FATRN,g,"Fatty acids, total trans"
+12,CHOAVLDF,g,"Carbohydrates available,calculated by difference"
+13,FIBTG,g,"Fiber,total dietary(Prosky method)"
+14,ASH,g,Ash
+15,Ca,mg,Calcium
+16,Fe,mg,Iron
+17,Mg,mg,Magnesium
+18,P,mg,Phosphorus
+19,K,mg,Potassium
+20,Na,mg,Sodium
+21,Zn,mg,Zinc
+22,Cu,mg,Copper
+23,Se,mcg,Selenium
+24,ID,mcg,Iodine
+25,Mn,mg,Manganese
+26,VITA_RAE,mcg,Vitamin A;retinol activity equivalent (RAE)
+27,RETOL,mcg,Retinol
+28,CARTBEQ,mcg,f-carotene equivalent
+29,VITDEQ,meg,"Vitamin D, expressed as Vitamin D3 + D2+ 5 x 25-"
+30,,,hydroxycholecalciferol
+31,VITE,mg,"Vitamin E, expressed in a-tocopherol equivalents"
+32,THIA,mg,Thiamin
+33,RIBF,mg,Riboflavin
+34,NIAEQ,mg,"Niacin equivalents, total (sum of niacin and 1/60 tryptophan)"
+35,VITB6,mg,Vitamin B 6
+36,FOL,mcg,Total folate
+37,VITB12,meg,Vitamin B 12
+38,VITC,,

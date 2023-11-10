@@ -1,0 +1,43 @@
+,0,1,2,3,4
+0,Species,Name,Kind,Abiotic Stress Function,Citation
+1,,PUB19,U-box E3 ubiquitin ligase,Negatively regulates drought,[90]
+2,,PLANT U-BOX 19,U-box E3 ubiquitin ligase,stress tolerance,[90]
+3,,PUB22,,Negatively regulates drought,
+4,,PUB23,U-box E3 ubiquitin ligase,stress tolerance,[66]
+5,,PLANT U-BOX,,stress tolerance,
+6,,PUB30,U-box E3 ubiquitin ligase,stress tolerance during,[91]
+7,,,,germination,
+8,,PUB46,U-box E3 ubiquitin ligase,Positively regulates oxidative,[92]
+9,,PLANT U-BOX,U-box E3 ubiquitin ligase,stress tolerance,[92]
+10,,PUB46,,Positively regulate drought,
+11,,PUB48,U-box E3 ubiquitin ligase,stress tolerance,[93]
+12,,PLANT U-BOX,,stress tolerance,
+13,,PUB48,U-box E3 ubiquitin ligase,Positively regulates heat,[94]
+14,,PLANT U-BOX 48,U-box E3 ubiquitin ligase,tolerance,[94]
+15,,SDIR1,,Positively regulates ABA,
+16,,DROUGHT-INDUCED,ubiquitin ligase,dependent salt and drought,[95]
+17,,RING FINGER1,ubiquitin ligase,stress tolerance,
+18,,PRU1,,,
+19,,PHOSPHATE,RING finger domain E3,Modulates Pi homeostasis in,
+20,,RESPONSE,ubiquitin ligase,response to low-Pi stress in,[96]
+21,,UBIQUITIN E3,ubiquitin ligase,Arabidopsis,
+22,,LIGASE1,,,
+23,,HOS1,,,
+24,,HIGH EXPRESSION,RING finger domain E3,Negatively regulates the cold,"[97,98]"
+25,,OF OSMOTICALLY,ubiquitin ligase,stress response in Arabidopsis,"[97,98]"
+26,,RESPONSIVE GENE 1,,,
+27,,DUF1,,,
+28,,DUF2,RING finger domain E3,Positively regulates ABA,
+29,,UNKNOWN,ubiquitin ligase,response,[99]
+30,,FUNCTION,,,
+31,,ATL61,,Negatively regulates cold,
+32,,ARABIDOPSIS,C3H2C3 RING finger,stress response and a,"[100,101]"
+33,,TOXICOS EN,domain E3 ubiquitin ligase,positively regulates drought,"[100,101]"
+34,,LEVADURA,,stress response,
+35,,STRF1 SALT,RING finger domain E3,,
+36,,TOLERANCE RING,ubiquitin ligase,Positively regulates salt stress,[102]
+37,,FINGER1,ubiquitin ligase,,
+38,,JAV1-ASSOCIATED,C3H2C3 RING finger,Positively regulates drought,[103]
+39,,UBIQUITIN LIGASE1,domain E3 ubiquitin ligase,stress,[103]
+40,,SUBMERGENCE,RING finger domain E3,Negatively regulates,[104]
+41,,RESISTANT1,ubiquitin ligase,submergence tolerance,[104]

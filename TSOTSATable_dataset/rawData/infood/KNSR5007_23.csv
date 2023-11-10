@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Food,Code,Letter,Name,Energy,Energy,Protein,Fat,Carbo-,Fibre Phytate,Fibre Phytate,Water
+1,group,Code,code,Name,Energy,Energy,Protein,Fat,hydrate,Fibre Phytate,Fibre Phytate,Water
+2,,,,,kcal,kJ,g,g,g,g,g,g
+3,251,4258,JX,"Tia durango, dried challo and kucha leaves",97,407,7.0,6.1,4.9,1.3,0.11,77
+4,250,4379,00,Tia durango and dried furo,102,428,7.2,6.6,5.1,1.4,0.11,77
+5,250,4412,PV,"Tia durango, dried furo and naa",104,434,7.4,6.5,5.4,1.8,0.12,76
+6,250,4205,HW,Tia durango and dried kujalo,102,428,7.2,6.6,5.1,1.4,0.11,77
+7,250,4150,FT,"Tia durango, dried kujalo and naa",103,430,7.4,6.5,5.2,2.1,0.12,76
+8,250,4414,PX,Tia durango and dried fish (unspecified),103,431,7.2,6.7,5.1,1.4,0.11,77
+9,250,4246,JL,"Tia durango, dried fish (unspecified) and naa",104,437,7.3,6.6,5.4,1.8,0.12,76
+10,250,4254,JT,"Tia durango, dried fish and okra",95,399,6.9,6.0,4.8,1.6,0.11,78
+11,250,4204,HV,Tia durango and fresh challo,93,389,6.7,6.0,4.7,1.3,0.11,70
+12,250,4512,TR,Tia durango and fresh furo,93,389,6.7,6.0,4.7,1.3,0.11,70
+13,250,4415,PY,Tia durango and fresh kujalo,93,389,6.7,6.0,4.7,1.3,0.11,70
+14,250,4438,QV,Tia durango and fresh fish (unspecified),93,389,6.7,6.0,4.7,1.3,0.11,70
+15,250,4416,PZ,"Tia durango, fresh fish (unspecified) and oil",133,558,6.4,10.7,4.4,1.2,0.10,66
+16,250,4247,JM,"Tia durango, fresh challo and naa",94,395,6.8,6.0,5.1,1.7,0.11,70
+17,250,4251,JQ,"Tia durango, fresh fish and okra",85,358,6.4,5.4,4.4,1.5,0.10,71
+18,250,4519,TY,Tia durango and shellfish,84,353,5.2,4.5,6.1,1.5,0.12,80
+19,250,4194,HL,Tia durango and fish dajiwo,49,205,3.0,3.4,2.6,0.8,0.08,87
+20,250,4202,HT,"Tia durango, fish dajiwo and naa",50,209,3.2,3.4,2.8,1.5,0.08,86
+21,9.- Leaves and Other Vegetables,9.- Leaves and Other Vegetables,9.- Leaves and Other Vegetables,9.- Leaves and Other Vegetables,,,,,,,,
+22,9.1 - Leaves,9.1 - Leaves,,,,,,,,,,
+23,256,4045,BS,"Kucha leaves, fresh",31,133,3.3,0.3,4.1,5.0,0.03,80
+24,256,4046,BT,"Morongo leaves,fresh",38,162,4.6,0.1,5.0,4.7,0.05,77
+25,256,4047,BU,"Jambanduro leaves,fresh",51,217,6.2,0.2,6.5,7.2,0.08,68
+26,256,4044,BR,"Baobab leaves,fresh",61,258,4.0,0.2,11.4,7.2,0.08,76
+27,256,4146,FP,"Baobab leaves,dried",214,895,13.1,2.3,37.7,29.9,0.26,12
+28,256,4128,EX,"Keren-kerengo leaves, fresh",41,174,4.5,0.3,5.4,5.0,0.08,80
+29,,9.2 - Kucha Leaf Sauces (without groundnuts),,9.2 - Kucha Leaf Sauces (without groundnuts),,,,,,,,
+30,256,4207,HY,Kucha sauce =kucha durango,34,142,3.1,0.4,3.4,6.3,0.03,87
+31,256,4406,PP,Kucha and naa,35,147,3.3,0.4,3.6,6.9,0.03,86
+32,256,4358,NT,"Kucha, naa and okra",34,144,3.1,0.4,3.9,6.3,0.03,86
+33,256,4605,XG,Kucha and naa and tulingo,49,205,4.3,0.9,5.2,7.6,0.08,82

@@ -1,0 +1,17 @@
+,0,1
+0,CAPPT trial outcomes,Effect measure to compare
+1,,arms/summary statistic
+2,Primary outcome at302weeks,
+3,Haemoglobin concentration ascertained from a Hemocue 301+analyser reading(Hb g/dL,Difference/mean
+4,Secondary outcomes at302weeks,
+5,Prevalence of anaemia% Hb<11.0g/dL),Odds ratio/proportion
+6,Mid-upper arm circumference(cm),Difference/mean
+7,"Mean probability of adequacy (MPA) of 11 micronutrients including vitamin A, riboflavin (B),",Difference/mean
+8,"niacinB,pyridoxineB,cobalaminB,thiamineB,folateBg,vitamin Ciron,zinc and calcium",
+9,Total number of ANC visits a health facility,Ratio/mean
+10,Indicators on the pathway to impact to be compared between arms at 302weeks,
+11,FA tablets consumed by time of measurement at302weeks,Ratio/mean
+12,Usual energy intake (kcal/day),Difference/mean
+13,Usual dietary iron intakeexcluding supplements(mg/day,Difference/mean
+14,Uptake of methods used to improve bioavailability,Ratio/mean
+15,Nutrition knowledge score,Ratio/count

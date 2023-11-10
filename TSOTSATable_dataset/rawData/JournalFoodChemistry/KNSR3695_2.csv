@@ -1,0 +1,73 @@
+,0,1,2,3
+0,Theme,Topic,Example,Example
+1,Checks on food identification,Food name and description, Food naming is consistent, Food naming is consistent
+2,,,,"E.g.'Bread,wheat,wholegrain'instead of Wholegrain wheat bread"
+3,,,,"Consistent use of singular or plural, e.g. use 'berry' or 'berries'"
+4,,Food groups,, All individual foods are assigned to an appropriate food group
+5,,Food codes,,- No duplication of food codes exists in a user table/DB for different foods
+6,,Examples of unambiguous food description,Meat,
+7,,,," Specify the animal (e.g. chicken, beef, mutton)"
+8,,,,"Type of the cut (e.g. chop, fillet, leg)"
+9,,,," Fat content (e.g. lean, medium fat, fatty -- or better indicate% fat content in"
+10,,,name),name)
+11,,,,"Type of cookinge.g. boiled, fried, grilled)"
+12,,,With or without visible fat,With or without visible fat
+13,Checks on components,Component name and expression,,All values are expressed per 100 g edible portion on fresh weight basis (EP).
+14,,,unless otherwise stated,unless otherwise stated
+15,,Mathematical checks,,- All values for aggregated foods are included in the calculation of the mean
+16,,,,except for outliers)
+17,,,, Minimum values  representative value (mean/median)
+18,,,, Maximum values > representative value (mean/median)
+19,,,,Standard deviationSDis calculated only if n is 3
+20,,Comparability of components,,"For components for which different INFOODS tagnames exist, care was"
+21,,,,taken when aggregating values in the reference DB. Only those foods and
+22,,,,their values were aggregated which had the same INFOODS tagname
+23,,Edible portion/inedible part/refuse,,"Values for edible or inedible portion/refuse,derived from different sources"
+24,,,,have been copied/converted correctly according to definitions given in the
+25,,,,documentation
+26,,Proximates,,The sum of proximates(=of water + protein + fat + available carbohy-
+27,,,,drates + dietary fibre + alcohol + ash) is within the acceptable range set in
+28,,,,one's own DB.
+29,,,,"Preferable:97-103 g (Greenfield and Southgate (2003),acceptable: 95-"
+30,,,105g,105g
+31,,Energy in kJ (kcal),," No energy values of the user table/DB were copied from other sources, but"
+32,,,,were calculated in the own DB
+33,,Water/moisture,, Values for water content are given for every food in the user table/DB
+34,,"Protein, nitrogen components",, Applicability of nitrogen to protein conversion factors(XNhas been veri-
+35,,,,fied when protein values were borrowed from other sources (check also
+36,,,,for archival/reference DB)
+37,,"Total fat, fatty acids, lipid components","Fat,total","Fat,total"
+38,,,It is important to check that:,It is important to check that:
+39,,,," If fat values derived from Soxhlet method (FATCE) were used, because no"
+40,,,,"other fat values were available, the FATCE values should be marked differ-"
+41,,,,"ently in the user table e.g. in parenthesis or given under a specific tagname,"
+42,,,,to indicate lower quality. The Soxhlet method is inappropriate for foods
+43,,,,with high amounts of polar and bound lipids
+44,,,,If the value for total fat (FAT) is =0:
+45,,,,Fatty acids=0
+46,,,,Cholesterol=0
+47,,"Carbohydrates, starch, sugars",,Total sugars (SUGAR)> individual mono- and disaccharides
+48,,"Dietary fibre, crude fibre",," If only crude fibre (FIBC) values were available, dietary fibre values should"
+49,,,,"be estimated from another food. If this was not possible, the crude fibre"
+50,,,,(FIBC values should be clearly marked to indicate lower quality in the user
+51,,,,"DB, e.g. by putting values in parentheses, or by using different food compo-"
+52,,,,nents identifiers (tagnames)
+53,,"Ash, minerals",,"- If carbohydrate values were calculated by difference, the ash value is"
+54,,,,reported in the user table/DB
+55,,Vitamins and pro-vitamins,, The vitamin A values were calculated within one's own DB and not copied
+56,,,,from other sources
+57,,,, The same definition/formula was applied throughout the entire DB
+58,,Systematic checks,, Foods should be sorted by ascending or descending values for a given com-
+59,,,,"ponent within a food group(graphs/statistics can also be used,in order to"
+60,,,,easily identify typing or unit errors.See also below Specific checks within
+61,,,,food groups
+62,,Missing values,," Missing values are never assigned a 0 value, unless evidence exists that the"
+63,,,,"value can be presumed zero,e.g.under Limit of Detection(LOD(see below:"
+64,,,,absence of food components in specific food groups)
+65,,Absence of components in specific food,,"Retinol,Vitamin B12,Cholesterol,heme iron=0 in plant foodsexceptions"
+66,,groups,,for Vitamin B12 which can occur in fermented foods and mushrooms)
+67,,,,Alcohol=0 in all animal and plant foods unless fermented
+68,,Specific checks within food groups,,"Cereals (excluding pseudo cereals, e.g. quinoa, amaranth)"
+69,,,,Water values are~7g-15g/100gEP
+70,,,,Protein values are ~ 6 g -14 g/100 g EP
+71,,Examples on specific checks between foods,,- Nutrient values of raw foods  nutrient values of cooked foods because of

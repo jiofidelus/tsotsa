@@ -1,0 +1,65 @@
+,0,1,2,3,4,5,6,7,8,9
+0,NDB No.,Description,Proanthocyanidin,Mean,N,SD,Min,Max,cc,Sources of Data
+1,,,4-6mers,0.00,1,,,,B,24
+2,,,7-10mers,0.00,1,,,,B,24
+3,,,Polymers,0.00,1,,,,,24
+4,11096,"Broccoli raab, raw (Brassica ruvo)",Dimers,0.00,1,,,,,24
+5,,,Trimers,0.00,1,,,,B,24
+6,,,4-6mers,0.00,11,,,,,24
+7,,, Polymers,0.00,1,,,,,24
+8,,, Polymers,0.00,1,,,,,24
+9,11091,"Broccoli, cooked, boiled, drained,",Dimers,0.00,1,,,,,24
+10,,without salt,Trimers,0.00,1,,,,,24
+11,,,4-6mers,0.00,1,,,,,24
+12,,,7-10mers,0.00,1,,,,,24
+13,,,Polymers,0.00,1,,,,,24
+14,11090,"Broccoli, raw (Brassica oleracea",Dimers,0.00,2,,0.00,0.00,,"24, 26"
+15,,var. italica),Trimers,0.00,2,,0.00,0.00,,"24, 26"
+16,,,4-6mers,0.00,2,,0.00,0.00,,"24, 26"
+17,,,7-10mers,0.00,2,,0.00,0.00,B,"24, 26"
+18,,,Polymers,0.00,2,,0.00,0.00,B,"24, 26"
+19,11116,"Cabbage, chinese (pak-choi), raw",Dimers,0.00,1,,,,,26
+20,,(Brassica pekinensis),Trimers,0.00,1,,,,c,26
+21,,,4-6mers,0.00,1,,,,,26
+22,,,7-10mers,0.00,1,,,,,26
+23,,, Polymers,0.00,1,,,,,26
+24,11110,"Cabbage, cooked, boiled, drained,",Dimers,0.00,1,,,,,24
+25,,without salt,Trimers,0.00,1,,,,,24
+26,,,4-6mers,0.00,1,,,,,24
+27,,,Polymers,0.00,1,,,,,24
+28,,,Polymers,0.00,1,,,,,24
+29,11109,"Cabbage, raw (Brassica oleracea)",Dimers,0.00,11,,,,,26
+30,,,Trimers,0.00,1,,,,,26
+31,,,4-6mers,0.00,1,,,,c,26
+32,,,7-10mers,0.00,1,,,,c,26
+33,,,Polymers,0.00,1,,,,c,26
+34,11113,"Cabbage, red, cooked, boiled,",Dimers,0.00,1,,,,,24
+35,,"drained,without salt",Trimers,0.00,1,,,,,24
+36,,,7-10mers,0.00,1,,,,BB,22
+37,,,Polymers,0.00,1,,,,,24
+38,11112, oleracea (Capitata Group)),Dimers,0.00,1,,,,BB,24
+39,, oleracea (Capitata Group)),Trimers,0.00,,,,,BB,24
+40,,,4-6mers,0.00,1,,,,,24
+41,,,7-10mers,0.00,1,,,,,24
+42,,,Polymers,0.00,1,,,,B,24
+43,11960,"Carrots, baby, raw (Daucus carota)",Dimers,0.00,1,,,,,24
+44,,,Trimers,0.00,1,,,,,24
+45,,,4-6mers,0.00,1,,,,m,24
+46,,,7-10mers,0.00,,,,,m,24
+47,,,Polymers,0.00,1,,,,B,24
+48,11125,"Carrots, cooked, boiled, drained,",Dimers,0.00,,0.00,0.00,0.00,B,23
+49,,without salt,Trimers,0.00,,0.00,0.00,0.00,B,23
+50,,,4-6mers,0.00,4,0.00,0.00,0.00,BB,23
+51,,,7-10mers,0.00,4,0.00,0.00,0.00,BB,23
+52,,,Polymers,0.00,4,0.00,0.00,0.00,,23
+53,11124,"Carrots,raw(Daucus carota",Dimers,0.00,8,0.00,0.00,0.00,B,"14, 23, 26"
+54,,,Trimers,0.00,8,0.00,0.00,0.00,,"14, 23, 26"
+55,,,4-6mers,0.00,5,0.00,0.00,0.00,,"23, 26"
+56,,,7-10mers,0.00,51,0.00,0.00,0.00,B,"23, 26"
+57,,, Polymers,0.00,5l,0.00,0.00,0.00,B,"23, 26"
+58,11135,"Cauliflower,raw(Brassica oleracea)",Dimers,0.00,1,,,,,26
+59,,,Trimers,0.00,1,,,,,26
+60,,,4-6mers,0.00,1,,,,,26
+61,,,7-10mers,0.00,,,,,,26
+62,,,Polymers,0.00,1,,,,,26
+63,11141,"Celeriac, raw (Apium graveolens)",Dimers,0.00,1,,,,c,26

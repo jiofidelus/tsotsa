@@ -1,0 +1,11 @@
+,0,1,2,3
+0,Food mixturesb,Thiamine,Niacin,Lysine
+1,Non-germinated,,,
+2,Unprocessed food mixture,0.53  0.01,2.81  0.11,2.98  0.10
+3,Autoclaved food mixture,0.480.02(9),2.65 0.05(6),2.500.05(-16)
+4,Autoclaved and fermented food mixture,0.59  0.01(+11),2.95  0.14(+5),3.890.11+31
+5,Germinated,,,
+6,Unprocessed germinated food mixture,1.16  0.02,3.98  0.05,5.05  0.06
+7,Germinated autoclaved food mixture,1.050.01-9,3.350.02(-8),4.170.05-17
+8,"Germinated,autoclaved and fermented food mixture",1.32  0.02 (+14),4.39  0.37 (+10),6.77  0.07(+34)
+9,CDP<0.05,0.04,0.51,0.25

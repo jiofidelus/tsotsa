@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6,7
+0,,,,,Cooked by moist heat,,Cooked by dry heat,Cooked by dry heat
+1,3-Alpha,Food name in,YF,Source,Food ItemID,YF,Source,FoodItem ID
+2,code,English,,,,,,
+3,ABX,Abalones,0.63*,1,"093036,093071",,,
+4,JTX,Conch shells,0.51*,,"093037,093072",,,
+5,TBG,Giant Eastern,0.51*,7,"093038,093073",,,
+6,,Pacific conch,,,,,,
+7,TBI,Eastern Pacific,0.51*,7,"093039,093074",,,
+8,,fighting conch,,,,,,
+9,OYC,Cupped oysters,0.78,9,"093040,093075",,,
+10,OYG,Pacific cupped,0.78,9,"093041-093042,",,,
+11,,oyster,,,093076-093077,,,
+12,OYM,Mangrove cupped,0.78,9,"093043,093078",,,
+13,,oyster,,,,,,
+14,OYA,American cupped,0.78,9,"093044-093046,",,,
+15,,oyster,,,093079-093081,,,
+16,OYX,Flat oysters,0.78,9,"093047,093082",,,
+17,OYF,European flat,0.78,9,"093048,093083",,,
+18,,oyster,,,,,,
+19,MYV,Mytilus mussels,0.62*,2; 8,"093049,093084",,,
+20,MUK,Korean mussel,0.62*,2; 8,"093050,093085",,,
+21,MUS,Blue mussel,0.62*,2; 8,"093051,093086",,,
+22,MSM,Mediterranean,0.62*,2;8,"093052-093054,",,,
+23,,mussel,,,093087-093089,,,
+24,XMS,Perna mussels,0.62*,2; 8,"093055,093090",,,
+25,MUZ,New Zealand,0.62*,2;8,"093056,093091",,,
+26,,mussel,,,,,,
+27,MSV,Green mussel,0.62*,2; 8,"093057,093092",,,
+28,SCX,Scallops,0.5,9,"093058,093093",,,
+29,SCE,Great Atlantic,0.5,9,"093059,093094",,,
+30,,scallop,,,,,,
+31,CLV,Venus clams,0.63*,1;8,"093060,093095",,,
+32,SVE,Striped venus,0.63*,1;8,"093061,093096",,,
+33,SQZ,Inshore squids,0.51,2,"093062,093097",0.61,2; 8,093106
+34,SQR,European squid,0.51,2,"093063-093064,",0.61,2; 8,093107-093108
+35,,,,,093098-093099,,,
+36,OCT,Octopuses,0.51,,"093065,093100",0.61,2;8,093109
+37,OCC,Common octopus,0.51,2,093066-093067,0.61,2; 8,093110-093111

@@ -1,0 +1,23 @@
+,0,1,2,3
+0,Paste properties,Xanthosoma spp.,Colocasia spp.,P-
+1,,,,value
+2,pH,6.290.02,6.310.01,0.3333
+3,TTA(ml NaOH/10 g gel),2.000.00 a,1.510.01b,0.0001
+4,Color,,,
+5,L*,49.050.28a,52.300.09b,0.0000
+6,a*,1.870.03 a,1.980.03b,0.0005
+7,b*,7.91 0.14 a,11.160.07b,0.0000
+8,Pasting properties (RVA),,,
+9,Onset temperatureC,79.850.00a,82.350.00b,0.0000
+10,Peak viscosity (cP,176310b,116112a,0.0003
+11,Trough (cP),169113b,108411a,0.0004
+12,Breakdown (cP),734,9312,0.1526
+13,Final viscosity (cP),270119b,16281 a,0.0002
+14,Setback(cP),10106b,5601a,0.0001
+15,Protein and starch,,,
+16,digestibility,,,
+17,IVPD (%,70.910.49b,67.561.17a,0.0102
+18,k,0.0050,0.0140,0.0024
+19,,0.0003a,0.0006b,
+20,C (%),91.89 4.99a,38.420.65b,0.0033
+21,eGI,65.840.30b,61.29  0.07a,0.0000

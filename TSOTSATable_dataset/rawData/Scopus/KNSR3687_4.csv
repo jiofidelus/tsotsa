@@ -1,0 +1,16 @@
+,0,1,2,3
+0,Variable,,IF1-Pn=10,IF2-Pn=10
+1,Systolic Blood Pressure.SBP,Pre,1236,1244
+2,(mmHg),Post a,1145,1195
+3,"Diastolic Blood Pressure,DBP",Pre,843,862
+4,(mmHg),Post a,773,843
+5,Total Cholesterol(mg/dL,Pre,184.912.6,180.18.8
+6,,Posta,153.711.5,153.712.4
+7,LDL-C (mg/dL),Pre,106.812.3,109.47.9
+8,,Posta,96.312.1,95.1  9.9
+9,HDL-C (mg/dL),Pre,54.65.1,51.24.6
+10,,Post a,41.93.5,42.64.0
+11,Triglycerides (mg/dL),Pre,117.725.7,101.524.7
+12,,Post a,80.49.6,77.510.8
+13,TC:HDL (mg/dL),Pre,3.70.5,3.90.5
+14,,Post,4.00.5,3.80.4

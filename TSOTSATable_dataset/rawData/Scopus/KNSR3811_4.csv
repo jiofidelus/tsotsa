@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7
+0,Factor,,MPs,PRAGs,RG-II,TPs,Ara/Gal,TOs
+1,Treatments (T),Control,116.88 a 353.79 b,116.88 a 353.79 b,458.78 c,929.45 c,1.28 b,413.92 b
+2,,MeJ,105.11 a 305.63 a,105.11 a 305.63 a,201.49 a,612.23 a,0.92 a,308.76 a
+3,,BTH,,,104.61 a 323.41 ab 294.51 b,722.53 b,1.08 a,334.60 a
+4,,MeJ+BTH,,,106.75 a 339.69 ab259.29 ab,705.74ab,0.97 a,341.95 a
+5,Time of application (TA),Veraison,110.52 a 332.04 a,110.52 a 332.04 a,295.59 a,738.16 a,1.03 a,333.43 a
+6,,Mid-Ripening,102.57 a 321.02 a,102.57 a 321.02 a,262.34 a,685.93 a,1.03 a,350.27 a
+7,Interaction,T*TA,ns,ns,ns,ns,ns,ns

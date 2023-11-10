@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6
+0,Product,,Previously oxidised,T(C,Do10-m/s,Estimated error10-m/s,Reference
+1,L,Water,,20,2.48,0.12 (5%),Present study
+2,,Water,,20,1.7,n.d.,Grote &Thews(1962
+3,,Water,-,20,1.76-2.22,n.d.,Baird &Davidson(1962
+4,,Water,-,20,2.01,n.d.,Davidson & Cullen1957
+5,,Water,,20,2.3,n.d.,Wise &Houghton1966
+6,,Water,,20,2.3,n.d.,Grote(1967
+7,,Water,,25,2.00,n.d.,Barron et al.1993
+8,,Water,-,30,2.8,n.d.,Wise &Houghton1966
+9,,Water,-,30,2.85,n.d.,Grote (1967)
+10,S,Agar 1%w/w,-,20,2.26,0.16 (7%),Present study
+11,,Agar 2% w/v,-,30,0.197,0.04 (19%)b,Miller et al.2003
+12,,Agar 2% w/v,-,30,2.45,n.d.,Sato & Toda (1983)
+13,,Agar 2% w/v,-,30,2.7,n.d.,Adlercreutz (1986)
+14,L,Orange juice,Yes,20,1.40,0.13 (9%),Present study
+15,L,Apple juice,Yes,25,1.42,n.d.,Barron et al.1993
+16,V,Mashed apple,Yes,20,0.89,0.1011%,Present study
+17,V,Mashed apple,No,20,0.62,0.04 (6%),Present study
+18,V,Mashed tomato,Yes,20,0.55,0.0611%,Present study
+19,LV,Miglyol,,20,1.06,0.07 (7%,Present study
+20,LV,Olive oil,Yes,20,0.78,0.25 (27%),Present study
+21,LV,Olive oil,No,20,0.93,0.25 (27%),Present study
+22,LV,Olive oil,No,25,0.87,n.d.,Crowe et al.1987
+23,LV,Olive oil,No,25.3,0.746,0.08 (11%,Davidson et al.(1952
+24,S,Copra oil,Yes,20,0.48,0.08 (17%),Present study
+25,S,Copra oil,No,20,0.22,0.01(5%,Present study
+26,S,Lard,No,25.3,0.395,0.03 (8%)b,Davidson et al.1952

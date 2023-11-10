@@ -1,0 +1,39 @@
+,0,1,2
+0,TAGNAME,DESCRIPTION,UNIT
+1,General description of food,General description of food,
+2,EDIBLE,Edible portion coefficient,
+3,PH,"pH, hydrogen ion concentration",
+4,Macronutrients including energy,Macronutrients including energy,
+5,Energy,,
+6,ENERC(original),"Energy, total metabolizable; calculated from the energy-",kJ
+7,,producing food components (original as from source),
+8,ENERC(original),"Energy, total metabolizable; calculated from the energy-",kcal
+9,,producing food components (original as from source),
+10,ENERA,"Energy, gross; determined by direct analysis using bomb",kJ
+11,,calorimetry,
+12,ENERA,"Energy, gross; determined by direct analysis using bomb",kcal
+13,,calorimetry,
+14,Protein,,
+15,Individual amino acids and aggregations,Individual amino acids and aggregations,
+16,AAA,"Amino acids,total aromatic",mg
+17,AAE-,"Amino acids,total essential; unknown or variable which AS are",mg
+18,,included in total,
+19,AANE,"Amino acids,total non-essential",mg
+20,AAT-,"Amino acids,total; precise definition not specified",mg
+21,AAT18,Sum of 18 amino acids (excluding glutamine and asparagine),mg
+22,ALA,Alanine,mg
+23,ARG,Arginine,mg
+24,ASP,Aspartic acid,mg
+25,CYS,Cystine,mg
+26,GLN,Glutamine,mg
+27,GLU,Glutamic acid,mg
+28,GLY,Glycine,mg
+29,HIS,Histidine,mg
+30,HYL,Hydroxylysine,mg
+31,HYP,Hydroxyproline,mg
+32,ILE,Isoleucin,mg
+33,LEU,Leucine,mg
+34,LYS,Lysine,mg
+35,MET,Methionine,mg
+36,PHE,Phenylalanine,mg
+37,PRO,Proline,mg

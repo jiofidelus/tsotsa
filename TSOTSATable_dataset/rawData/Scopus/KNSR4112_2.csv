@@ -1,0 +1,42 @@
+,0,1,2
+0,NUMBER OF PARTICIPANTS (N),NUMBER OF PARTICIPANTS (N),PERCENTAGE(%)
+1,Do you use olive oil as main culinary fat?,,
+2,Non-adherence: No,671,98.5
+3,Adherence:Yes,10,1.5
+4,"How much olive oil do you consume in a given day (including oil used for frying, salads, out-of-house meals, etc.)?",,
+5,Non-adherence:<4 tbsps.<60ml),638,93.7
+6,Adherence:>4 tbsps.(>60ml),43,6.3
+7,How many vegetable servings do you consume per day?,,
+8,Non-adherence:<400g,681,100.0
+9,Adherence:>400g,0,0.0
+10,How many fruit units (including natural fruit juices) do you consume per day,,
+11,Non-adherence:<360g,678,99.6
+12,Adherence:>360g,3,0.4
+13,"How many servings of red meat, hamburger, or meat products (ham, sausage, etc.) do you consume per day?",,
+14,Non-adherence: >150g,1,0.2
+15,Adherence:<150g,680,99.8
+16,"How many servings of butter, margarine, or cream do you consume per day?",,
+17,Non-adherence:>12g,175,25.7
+18,Adherence:12g,506,74.3
+19,How many sweet or carbonated beverages do you drink per day?,,
+20,Non-adherence:>330ml (>1 serving),28,4.1
+21,Adherence:<330ml (<1 serving),653,95.9
+22,How many servings of legumes do you consume per week?,,
+23,Non-adherence:<3 servings(<450g),652,95.7
+24,Adherence:>3 servings(>450g),29,4.3
+25,How many servings of fish or shellfish do you consume per week?,,
+26,Non-adherence:<3 servings (<300-450g),659,96.8
+27,Adherence:>3 servings (>300-450g),22,3.2
+28,How many servings of nuts (including peanuts) do you consume per week?,,
+29,Non-adherence:<3 servings(<90g,637,93.5
+30,Adherence:>3 servings (>90g),44,6.5
+31,"How many times per week do you consume commercial sweets or pastries (not homemade), such as cakes, cookies, biscuits, or custard?",,
+32,Non-adherence: >3 servings (>150g),79,11.6
+33,Adherence:<3 servings150g,602,88.4
+34,"Do you preferentially consume chicken, turkey, or rabbit meat instead of veal, pork, hamburger, or sausage?",,
+35,Non-adherence:No,260,38.2
+36,Adherence: Yes,421,61.8
+37,"How many times per week do you consume vegetables, pasta, rice, or other dishes seasoned with sofrito (sauce made with tomato and onion,",,
+38,"leek, or garlic and simmered with olive oil)?",,
+39,Non-adherence:<60ml(<2 servings),514,75.5
+40,Adherence:>60ml (>2 servings),167,24.5

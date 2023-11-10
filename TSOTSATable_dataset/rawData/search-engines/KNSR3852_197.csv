@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+0,food,Name,Name,Size,Size,u1,u1,u2,u3,,u4,,u5,u6,u7,,u8,10
+1,code,Kiswahili,English,.,,bowl,bowl,glass,cup,,plate,plate,tbsp,tsp,saucer,saucer,unit,Average
+2,553,mchuzi wa kuku bila mafuta,Chicken relish with no oil,,Std,,300,,,,,,,,,150,,
+3,553,mchuzi wa kuku bila mafuta,Chicken relish with no oil,,A,,,,,,,,,,,,,200
+4,554,kipande cha kuku,Chicken piece,,S,,,,,,,,,,,,50,
+5,554,kipande cha kuku,Chicken piece,,M,,,,,,,,,,,,100,
+6,554,kipande cha kuku,Chicken piece,,L,,,,,,,,,,,,200,
+7,554,kipande cha kuku,Chicken piece,,A,,,,,,,,,,,,,200
+8,556,mchuzi wa kuku na mafuta,Chicken relish with oil,,Std,,300,,,,,,,,,150,,
+9,556, mchuzi wa kuku na mafuta,Chicken relish with oil,,A,,,,,,,,,,,,,200
+10,557,dagaa,Small dried fish,,Std,,200,,,100,,,,,,70,,
+11,558,dagaa,Small dried fish,,A,,,,,,,,,,,,,100
+12,559,dagaa,Small dried fish,,Std,,200,,,100,,,,,,70,,
+13,560,dagaa wa kukaanga,Small dried fish -fried,,A,,,,,,,,,,,,,100
+14,561,yai la kukaanga,Egg fried,,Std,,,,,,,,,,,,70,
+15,561, yai la kukaanga,Egg fried,,A,,,,,,,,,,,,,70
+16,562, spanish omelet,Spanish omelet,,Sta,,,,,,,,,,,,100,
+17,563,mchuzi wa samaki,Fish(fresh) fried relish,,Sta,,,,,,,200,,,,100,,
+18,563,mchuzi wa samaki,Fish(fresh) fried relish,,A,,,,,,,,,,,,,200
+19,564,samaki wakavu,Dried fish,,S,,,,,,,,.,.,.,,135,
+20,564,samaki wakavu,Dried fish,,M,,,,,,,,,,,,275,
+21,564,samaki wakavu,Dried fish,,L,,,,,,,,,,,,450,
+22,564,samaki wakavu,Dried fish,,A,,,,,,,,,,,,,315
+23,565,samaki wabichi,Fresh fish,,S,,,,,,,,,,,,135,
+24,565, samaki wabichi,Fesh fish,,M,,,,,,.,,,-,.,,275,
+25,565,samaki wabichi,Fresh fish,,L,.,,,.,,.,,,,-,,450,
+26,565, samaki wabichi,Fresh fish,,A,,,,,,,,,,,,,

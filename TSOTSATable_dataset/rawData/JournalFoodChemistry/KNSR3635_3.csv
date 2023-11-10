@@ -1,0 +1,71 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Food type,Food samples included,Primary,Composite,100 gSD,SD (range),Vitamin D3,25(OHD3,Vit D2,g/100 g
+1,,,samples,analytical,100 gSD,SD (range),ug/100g,g/100g,(ug/100,g/100 g
+2,,,n,samples,(range),,SD (range)),SD (range)),gSD,SD
+3,,,,n,,,,,(range),(range))
+4,Beverages,Coffee (cappuccino/latte/,6,1,89.2,2.6,Tr,ND,ND,ND
+5,,flat white,,,,,,,,
+6,Breakfast cereals,Breakfast cereals,6,1,2.8,4.1,11.90,ND,0.13,ND
+7,-fortified,,,,,,,,,
+8,Cereals and,Bread (white/grain/,18,3,44.9  24.5,7.7  11.2,ND,ND,ND,ND
+9,cereal products,"wholemeal,rice white",,,(23.9-71.8),ND-20.6,,,,
+10,,pastry (puff and shortcrust),,,,,1.11  0.67,,,
+11,Eggs and egg,Chicken eggs-cage/,24,4,62.9  25.0,25.2  31.9,1.11  0.67,0.60  0.43,ND,ND
+12,products, standard and free-range/,,,(25.4-75.5),(9.2  73.0),(0.19-1.78),ND-1.01,,
+13,,"organic,egg mayonnaise",,,,,,,,
+14,Fats and oils --,"Butter, lard and dripping,",30,5,8.4 7.5,89.7  9.1,0.76  1.27,ND-0.21,0.16,ND-Tr
+15,unfortified,olive oil,,,ND-15.1,(82.4-100.0),ND-3.02,,0.17(ND,
+16,,,,,,,,,-0.40),
+17,Fats and oils --,"Margarine, dairy blend",24,4,37.5  6.2,60.0  5.0,9.26  2.85,ND,2.73 ,ND
+18,fortified,spread,,,29.7-42.7,(55.0-66.3),(5.83-11.70),, 6.08),
+19,"Finfish< 5% fat,","Barramundi, basa, coated",90,15,65.7  11.6,7.5  6.3,1.05  1.53,ND,ND-0.11*,ND
+20,"seafood, coated","calamari, coated fish,",,,(49.283.4),(0.9-18.2),ND-4.9,,,
+21,white fish and,"canned tuna, oysters",,,,,,,,
+22,seafood,prawns sardines,,,,,,,,
+23,products,,,,,,,,,
+24,Finfish >5% fat,"Atlantic salmon, canned",48,8,66.0  4.7,11.1  4.9,8.73  7.1,0.18  0.13,ND,ND
+25,,"salmon, fish fillets (white),",,,(59.3-71.5),(5.1-17.6),(1.2422.7),ND-0.34,,
+26,,"mullet, trout",,,,,,,,
+27,Fruits and,"Apple, eggplant, potato,",24,4,87.2  7.8,ND,ND,ND,ND,ND
+28,vegetables,tomato,,,(78.0-94.0),,,,,
+29,Marsupial animal,Kangaroo,6,1,67.9,2.4,ND,ND,Tr,Tr
+30,meat,,,,,,,,,
+31,Milk and milk,"Cheese (brie, camembert,",156,26,(34.389.8),(1.138.3),ND-0.20,ND - 0.12*,ND-0.11,ND-Tr
+32,products --,"cheddar, cream cheese,",,,(34.389.8),(1.138.3),,,,
+33,unfortified,"feta, mozzarella, ricotta),",,,,,,,,
+34,,"cream,flavoured milk",,,,,,,,
+35,,"(reduced fat, regular fat),",,,,,,,,
+36,,"milk (reduced fat,regular",,,,,,,,
+37,,"fat), yoghurt (regular fat,",,,,,,,,
+38,,reduced fat),,,,,,,,
+39,"Milk,milk","Dairy dessert/yoghurt,",54,9,(0.889.2),1.1-25.4,7.41  8.26,0.03  0.07,0.37 ,ND
+40,products and,"infant formula, dairy milk",,,(0.889.2),1.1-25.4,ND-19.45,(ND-0.17,0.55 (ND,
+41,milk,"substitute, dairy milk, dairy",,,,,,,1.74),
+42,alternatives-,"milk powder,malted",,,,,,,,
+43,fortified,"chocolate drink powder,",,,,,,,,
+44,,toddler formula,,,,,,,,
+45,Mixed savoury,"Chicken burger, fried rice",102,17,56.3  12.0,9.6  3.3,ND-0.18,ND-0.17,ND-,ND-Tr
+46,dishes,"with egg/meat/fish, beef",,,(40.2-85.8),(1.1-17.3,,,0.31,
+47,,"burger with cheese,egg and",,,,,,,,
+48,,"bacon, beef burger with",,,,,,,,
+49,,"salad and sauce,meat pie,",,,,,,,,
+50,,pizza (tomato/cheese or,,,,,,,,
+51,,"vegetable/cheese,pizza",,,,,,,,
+52,,meat lovers styleravioli,,,,,,,,
+53,,or tortellini with meat and/,,,,,,,,
+54,,"or cheese filling, sausage",,,,,,,,
+55,,"roll, soup with meat or",,,,,,,,
+56,,"seafood, spring rolls or",,,,,,,,
+57,,dumplings with meat or,,,,,,,,
+58,,"fish, takeaway style mixed",,,,,,,,
+59,,chicken,,,,,,,,
+60,Monogastric,"Chicken breast (skinless),",84,14,62.0  6.7,8.9  4.8,0.42  0.39,0.23  0.08,ND,ND
+61,animal meats,"chicken leg with skin,",,,(49.469.0),(2.2  17.1),(Tr -1.24,(0.12-0.38),,
+62,,"chicken nuggets, crumbed",,,,,,,,
+63,,"chicken, pork chops, pork",,,,,,,,
+64,,mince,,,,,,,,
+65,Ruminant animal,"Beef mince, beef steak,",60,10,60.7  5.8,12.2  5.3,0.12  0.09,0.17  0.06,0.17,ND-0.13
+66,meats,"lamb chops, lamb liver",,,(50.5-68.4),(5.0-18.8),ND-0.33,Tr-0.27,0.20 (ND,
+67,,,,,,,,,ND-,
+68,Processed meats,"Bacon, ham, salami, canned",72,12,58.5  11.3,15.4 8.0,0.29  0.38,0.14  0.05,ND-,ND-Tr
+69,,"meats, beef sausage,",,,(40.8-74.1),(3.329.2),(0.101.49),Tr-0.25,0.18,

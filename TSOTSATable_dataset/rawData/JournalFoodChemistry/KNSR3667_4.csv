@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,Food mixturesb,Total soluble,Reducing,Non-reducing,Starch
+1,Non-germinated,,,,
+2,Unprocessed food mixture,3.02  0.16,0.95 0.11,2.07  0.11,42.92  0.71
+3,Autoclaved food mixture,9.480.11,3.95 0.11,5.53  0.05,34.63  0.92
+4,Autoclaved and fermented food mixture,7.25  0.05,5.25  0.17,2.00  0.05,21.91  2.28
+5,Germinated,,,,
+6,Unprocessed germinated food mixture,12.500.05,5.37  0.11,7.13  0.11,30.150.91
+7,Germinated autoclaved food mixture,17.30  0.11,6.95  0.05,10.35  0.17,20.05  0.87
+8,"Germinated, autoclaved and fermented food mixture",9.50  0.28,8.23  0.11,1.27  0.05,9.98  0.25
+9,CDP<0.05,0.47,0.37,0.32,2.89

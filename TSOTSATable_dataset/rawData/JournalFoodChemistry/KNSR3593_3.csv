@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,Reagent/techniquea,Detection, Samplea,"Linear range, mg L-1/","Limit of detection, g L-1/",Reference
+1,,,,kg-1,kg~1,
+2,KI/Bu4NI/VALLME,spectrophotometry; 295 nm,"salt, seawater",0.0050.088,1.5,"Zaruba et al.,2017"
+3,KI/SFOD-DLLME,smartphone (B channel), table salt,0.073.5,17.5,"Caleb et al.,2021"
+4,"KI/polymethacrylate,",solid phase colorimetry;370 nm,food grade salt,0.060.80,30,"Gavrilenko et al.,2019"
+5,SPE,,,,,
+6,"KI/BSA-AuNCS, ML-GS","smartphone, R/B ratio","iodized salt, fish",1.7517.5,1.75c,"Lert-itthiporn et al.,2021"
+7,,,sauce,,,
+8,"KI/BSA-AuNCS, ML-GS",fluorimetry; ex. 490 nm/em. 630,"iodized salt, fish",0.8717.5,875,"Lert-itthiporn et al.,2021"
+9,,nm,sauce,,,
+10,KI/SDME/DMF,microspectrophotometry;295 nm,water,0.0070.175,1.1,"Pena-Pereira et al.,2010"
+11,AA/IB/LLLME,microspectrophotometry; 553 nm,"iodized salt,",0.034-1,13.8,"Sharma et al., 2009"
+12,,,seawater,,,
+13,CCl4/USA-oxidation,microspectrophotometry; 512 nm,iodized salt,0.2-20,0.2c,"Filgueiras et al.,2017"
+14,DM-p-PDA,spectrophotometry; 550 nm,"VSC,iodized salt",?b,3.5c,"Araya et al., 2020"
+15,PhHz/8HQ/HLLME,spectrophotometry; 484 nm,food grade salt,0.0910,18,"Gupta & Dsouza, 2020"
+16,HA/SA/NED,digital camera (G channel),table salt,50-400,38.1c,"Duangdeewong et al.,"
+17,,,,,,2020
+18,PhHz/2-naphthol/,"DRS-FTIR, 750 cm-1",salt/food/,0.0410,4.4,This work
+19,DLLME,,supplements,,,

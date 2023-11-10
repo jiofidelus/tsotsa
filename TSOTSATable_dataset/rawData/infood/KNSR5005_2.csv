@@ -1,0 +1,28 @@
+,0,1
+0,Column title,Description
+1,'Food item ID',Indicates a unique identification code for each food entry (see section
+2,,"Foods,food groups and coding)"
+3,'Code',The old coding system used in version 1.0 and 1.1 allows tracing back to
+4,,former versions.
+5,'Subgroup',"Indicates, when a food group was divided into subgroups (see section"
+6,,"Foods, food groups and coding)."
+7,,"All subgroups are combined in one single spreadsheet and not, as in"
+8,,"former versions, separated (e.g.'starch roots and tubers' and 'potatoes'"
+9,,in version 1.1).
+10,"'Country,region'",Indicates of the sampling place(country/region)
+11,'Type',"Indicates whether the food is wild(w), underutilized(U,or belongs to a"
+12,,"cultivarC),varietyv),genotype or ecotype"
+13,'Food name in own language,"Gives the food name in own/local language,if available"
+14,'Food name in English',Gives the food name in English along with a food description.
+15,'Processing',Minuscule letters indicate the state of the food
+16,,r=raw
+17,,"p=processed(e.g.cooked,grilled,fermented)"
+18,,d=dried
+19,,This variable will not replace the indication of the processing in the food
+20,,description/food name
+21,,Some examples for special cases
+22,,legumes: d
+23,,powder: d
+24,,dried and processed: p
+25,,smoked and dried:p
+26,,fresh and frozen:r

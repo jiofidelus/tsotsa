@@ -1,0 +1,22 @@
+,0,1
+0,Datasheet title,Description
+1,01 Introduction,"Gives an introduction to the tables, incl. information on"
+2,,copyright and disclaimer.
+3,02 List of Species,Presents an overview of the pulse species for which compiled
+4,,nutrient values are given in PulsesDM and their respective
+5,,food item IDs used in the actual datasheets (sheets 04-06)
+6,03 Components PulsesDM,Gives an overview of all components that are covered by the
+7,,"uPulses datasheets (sheets 04-05), listing INFOODS tagnames,"
+8,,"descriptions, recommended units, max. decimal places and"
+9,,significant digits used.
+10,04 NV_sum (per 100 g EPDM),"Presents compiled nutrient values per 100 g EPDM for raw,"
+11,,processed and cooked foods -without information on statistics
+12,,and documentation per component.
+13,05 NV_doc(per 100 g EPDM),Presents compiled nutrient values per 100 g EPDM with
+14,,documentation per component.
+15,06 AA (per g N),"Presents compiled amino acid values per g nitrogen for raw,"
+16,,processed and cooked foods - includes information on
+17,,statistics and documentation per AA.
+18,07 Retention Factors,Lists retention factors applied according to the preparation
+19,,method.
+20,08 Bibliography,Presents the entire reference list with the corresponding ID

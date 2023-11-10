@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,NDNS age groups (years)a,NDNS age groups (years)a,NDNS age groups (years)a,NDNS age groups (years)a,,,,,,,
+1,,4-10,,11-18,,,19-64,,16-49,,65+,
+2,,sex-,Boys,Boys,Girls,Men,Women,Women,Women,Men,,Women
+3,,combined,,,,,,,,,,
+4,Red blood cell folate,,,,,,,,,,,
+5,Mean concentration,537,456,,377,531,,485,430,523,,640
+6,(nmol/L)b,,,,,,,,,,,
+7,% with concentration below,7,15,,28,3,,11,16,14,,10
+8,305nmol/L,,,,,,,,,,,
+9,% with concentration below,,,,,,,,91,,,
+10,NTD threshold 748nmol/L,,,,,,,,,,,
+11,Serum folate,,,,,,,,,,,
+12,Mean concentration,21.9,12.2,,10.8,13.9,,14.6,12.7,14.9,,21.3
+13,(nmol/L)b,,,,,,,,,,,
+14,% with concentration below,0,9,,12,8,,11,15,6,,6
+15,7nmol/L,,,,,,,,,,,
+16,% with concentration below,16,49,,73,46,,45,57,38,,27
+17,13nmol/Lc,,,,,,,,,,,
+18,Bases (unweighted),,,,,,,,,,,
+19,Red blood cell folate,111,93,,86,220,,293,208,63,,91
+20,Serum folate,102,95,,82,225,,300,213,63,,90

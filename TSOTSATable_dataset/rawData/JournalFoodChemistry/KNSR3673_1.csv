@@ -1,0 +1,43 @@
+,0,1,2
+0,Group,Food group,Includes information
+1,A,Bakery products,"Breads,biscuits,muffins,pizza bases and"
+2,,,cakes
+3,B,"Beverages,alcoholic","Beers,port,sherry,spirits and wines"
+4,C,"Beverages, non-","Drink concentrates and powders, energy"
+5,,alcoholic,"drinks,fruit drinksfruit juices, smoothies"
+6,,,"liquid breakfast,rice milks,soy milks,teas"
+7,,,coffees and soft drinks
+8,D,Breakfast cereals,"Extruded cereals,mixed grain cereals and"
+9,,,mueslis
+10,E,Cereals and pseudo-,"Cereal constituents,flours,noodles,pastas"
+11,,cereals,rice.tempeh and tofu
+12,F,Dairy,"Butters,cheeses,ice creams,milks,protein"
+13,,,"powder,yoghurts"
+14,G,Eggs,Chicken eggs-cooked and raw
+15,H,Fast foods,"Burgers,chain store takeaways,Chinese"
+16,,,"takeaways,fries,Indian takeaways,pizzas"
+17,,,savoury items
+18,J,Fats and oils,"Cooking and salad oils,margarines"
+19,,,shortenings
+20,K,Fin fishes,Fresh and canned fishes
+21,L,Fruits,"Fruits rawdried,canned and stewed"
+22,M,Meats,Variety of meat cuts and types from beef
+23,,,"chicken,lamb,pork,venison,etc.raw and"
+24,,,cooked
+25,N,Meat products,"Cured meats, sausages"
+26,P,Miscellaneous,"Salts,stocks,yeast and yeast spreads"
+27,,,spices and herbs
+28,Q,Nuts and seeds,"Nuts,seeds and its products"
+29,R,Recipes,"Multiple ingredients recipes,derived from"
+30,,,recipe calculation using weight yield and
+31,,,nutrient retention factors
+32,S,Sauces and,"Dressings,dips,tomato sauces, simmer"
+33,,condiments,"sauces, soy sauces"
+34,T,Shellfishes,"Cockles,crab,mussels,prawns,scallops"
+35,,,squid
+36,U,Snack foods,"Chips,muesli bars,popcorns"
+37,V,Soups,Soup dry mix and soup prepared
+38,W,"Sugars,","Chocolates,jams,lollies,Nutella"
+39,,confectionaries and,"marmalade,sugars"
+40,,sweet spreads,
+41,X,Vegetables and pulses,Raw and cooked

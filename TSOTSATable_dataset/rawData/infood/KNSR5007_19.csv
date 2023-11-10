@@ -1,0 +1,37 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Food,Code,Letter,,Energy,Energy,Protein,Fat,Carbo-,Fibre Phytate,Fibre Phytate,Water
+1,group,Code,code,,Energy,Energy,Protein,Fat,hydrate,Fibre Phytate,Fibre Phytate,Water
+2,,,,,kcal,kJ,g,g,g,g,g,g
+3,211,4811,zoo,"Tubanyo nyelengo,naa,tia durango and dried furo",127,533,5.1,3.1,21.0,4.5,0.21,66
+4,211,4812,ZHW," Tubanyo nyelengo, naa, tia durango and dried kujalo",127,533,5.1,3.1,21.0,4.5,0.21,66
+5,211,4816,ZQV,"Tubanyo nyelengo, naa, tia durango and fresh fish (unspecifie",124,518,4.9,2.9,20.9,4.5,0.21,64
+6,211,4817,ZPZ,"Tubanyo nyelengo, naa, tia durango, fresh fish and oil",139,581,4.8,4.7,20.8,4.4,0.21,62
+7,211,4818,ZHL,"Tubanyo nyelengo, naa, tia durango and fish dajiwo",108,450,3.6,2.0,20.1,4.3,0.20,70
+8,211,4832,ZPS,"Tubanyo nyelengo, naa, tia durango, dried challo and oil",143,597,5.0,4.9,20.9,4.5,0.21,65
+9,210,4824,ZTS,"Tubanyo nyelengo, naa, tia durango and meat",122,509,5.6,2.2,20.7,4.5,0.21,67
+10,210,4825,ZTL,"Tubanyo nyelengo, naa, tia durango and chicken",122,509,5.6,2.2,20.7,4.5,0.21,67
+11,210,4827,ZOQ,"Tubanyo nyelengo, naa, tia durango and oil",138,579,4.0,4.9,21.0,4.5,0.21,66
+12,,5.2 - Tubanyo Nyelengo and Other Sauces,5.2 - Tubanyo Nyelengo and Other Sauces,5.2 - Tubanyo Nyelengo and Other Sauces,,,,,,,,
+13,213,4224,IP,"Tubanyo nyelengo, naa, kucha and fish dajiwo",122,512,3.6,1.0,25.6,5.8,0.23,65
+14,216,4232,IX,"Tubanyo nyelengo, naa, bukolo and dried fish",127,530,4.0,1.0,26.6,5.6,0.22,65
+15,5.3 - Tubanyo Futo and Sauces,5.3 - Tubanyo Futo and Sauces,5.3 - Tubanyo Futo and Sauces,5.3 - Tubanyo Futo and Sauces,,,,,,,,
+16,203,4653,ZC,"Tubanyo futo,naa and water",117,490,3.2,0.9,25.1,5.2,0.18,67
+17,203,4809,ZTQ,"Tubanyo futo, naa and tia dajiwo",133,560,3.9,2.0,26.2,5.5,0.21,64
+18,203,4596,WX,"Tubanyo futo, naa, tia dajiwo and cassava",146,611,3.8,1.7,30.0,5.7,0.21,60
+19,203,4597,WY,"Tubanyo futo, naa, tia dajiwo and pumpkin",154,646,4.8,3.5,28.2,6.3,0.23,59
+20,203,4829,ZCE,"Tubanyo futo, naa and leaf (jambanduro) dajiwo",123,513,3.5,0.9,26.2,5.4,0.19,65
+21,203,4830,ZVW,"Tubanyo futo, naa and pumpkin dajiwo",122,510,3.4,0.9,26.1,5.4,0.19,65
+22,203,4808,ZAF,"Tubanyo futo, naa and fish dajiwo",124,519,3.9,1.0,26.0,5.4,0.19,64
+23,5.4 - Tubanyo Mono,5.4 - Tubanyo Mono,5.4 - Tubanyo Mono,,,,,,,,,
+24,218,4656,ZF,Tubanyo mono,43,180,1.5,0.4,9.0,2.4,0.08,86
+25,219,4658,ZH,Tubanyo mono and sugar,59,247,1.3,1.1,11.7,2.4,0.08,84
+26,220,4663,ZM,Tubanyo mono and sour milk,66,276,2.3,2.1,10.2,1.8,0.08,85
+27,221,4665,zo,"Tubanyo mono,sour milk and sugar",62,259,1.9,1.7,10.5,2.1,0.08,85
+28,6. - Wheat (Farinyo),6. - Wheat (Farinyo),6. - Wheat (Farinyo),,,,,,,,,
+29,226,4118,EN,"Wheat flour, white",350,1464,9.8,1.2,80.1,3.4,0.13,13
+30,283,4574,WB,Bread,263,1100,9.0,1.9,56.1,2.7,0.05,29
+31,283,4586,WN,Pancakes,349,1460,6.0,15.8,48.8,1.5,0.05,26
+32,6.1 - Wheat (Farinyo) Mono,6.1 - Wheat (Farinyo) Mono,6.1 - Wheat (Farinyo) Mono,,,,,,,,,
+33,230,4143,FM,Wheat mono,46,192,1.8,0.1,10.0,0.6,0.02,87
+34,231,4144,FN,Wheat mono and sugar,53,222,1.8,0.1,12.0,1.1,0.02,85
+35,232,4145,FO,"Wheat mono, sugar and milk (fresh)",52,218,2.1,0.7,10.3,1.0,0.02,86

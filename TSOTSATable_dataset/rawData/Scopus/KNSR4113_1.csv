@@ -1,0 +1,24 @@
+,0,1,2,3,4,5
+0,Items,ARG Type,Resistance Mechanism,Sample A,Sample B,Sample C
+1,lnuA,lincosamide,antibiotic inactivationx,1.53 10-5,0.000109,3.41 x 10-5
+2,adeF,Multidrug,antibiotic efflux,6.55  10-5,7.86  10-5,7.56  10-5
+3,OXA-141,Multidrug,antibiotic inactivation,5.00 x 10-5,5.67  10-5,5.74 x 10-5
+4,arnA,peptide,antibiotic target alteration,4.03 x 10-5,3.20  10-5,3.12  10-5
+5,APH3-VIa,aminoglycoside,antibiotic inactivation,3.80 x 10-5,2.05  10-5,2.26  105
+6,Erm43,Multidrug,antibiotic target alteration,2.01  10-5,1.42 x 10-5,2.80 x 10-5
+7,FosB,fosfomycin,antibiotic inactivation,3.83  10-6,2.02 x 10-5,4.69  10-6
+8,MexS,Multidrug,antibiotic efflux,6.48  10-6,2.00 x 10-5,4.52  10-6
+9,ErmD,Multidrug,antibiotic target alteration,1.66  10-5,6.00 x 10-6,9.15  10-6
+10,fusD,fusidic acid,antibiotic inactivation,1.39  10-6,1.51 x 10-5,4.27 x 10-6
+11,OXA-50,Multidrug,antibiotic inactivation,1.50  10-6,1.33  10-5,6.17 x 10-6
+12,mdsC,Multidrug,antibiotic efflux,2.09 x 106,1.30 x 10-5,7.23 x 106
+13,MexB,Multidrug,antibiotic efflux,3.21 x 10-6,1.29  10-5,2.87  10-6
+14,OXA-388,Multidrug,antibiotic inactivation,1.28  10-5,1.16  10-5,1.00  10-5
+15,OXA-351,Multidrug,antibiotic inactivation,3.55  10-6,1.11  10-5,9.50 x 10-7
+16,,,resistance-nodulation-cell,,,
+17,MexW,Multidrug,division(RND) antibiotic,4.24  10-6,9.82 x 10-6,6.88 x 10-07
+18,,,efflux pump,,,
+19,lmrC,lincosamide,antibiotic efflux,9.78  10-6,2.23  106,1.39 x 10-6
+20,tetS,tetracycline,antibiotic target protection,7.24  10-6,9.75  10-6,1.94  10-6
+21,APH3-VI,aminoglycoside,antibiotic inactivation,8.98  10-6,7.35  10-6,6.19  10-6
+22,lmrD,lincosamide,antibiotic efflux,8.87 x 10-6,1.96 x 10-6,1.27 x 10-6

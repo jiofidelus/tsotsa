@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6
+0,Food,North East,North Central,North West,South East,South West,South-South
+1,Starchy roots/tubers,,,,,,
+2,Yam (Dioscorea spp.),XX,XXX,XX,XXXX,X XXX,X XXX
+3,Cassava (Manihot spp.),XX,XXX,XX,X XXX,X XXX,X XX
+4,Cocoyam (Colocasia and Xanthosoma spp.),,XX,,XXX,XX,XXX
+5,Sweet potato (Ipomea batata),XX,XX,XX,x,x,x
+6,Irish potato (Ipomea batata),XX,XXX,XXX,,,x
+7,Plantain (Musa spp.),,x,X,XXX,XXX,XXX
+8,Cereals,,,,,,
+9,Corn (Zea mays),X XXX,X XXX,X XXX,X XX,X XX,X XX
+10,Rice (Oryza spp.),XXXX,XXXX,XXXX,X XX,XXX,X XX
+11,Wheat (Triticum vulgare),X XX,X XX,XXX,X XX,X XX,X XX
+12,Millet (Eleusine spp.),XXX,X XX,XX,,x,
+13,Sorghum (Sorghum bicolor),XXX,XXX,XXX,x,,x
+14,Hungry rice: acha (Digitaria exilis),x,XX,,,,
+15,Legumes/Pulses,,,,,,
+16,Cowpea (Vigna unguiculata),XXXX,XXXX,XXXX,XXX,XXX,X XX
+17,Bambara (Vigna subterranean),,XXX,XX,XXX,x,x
+18,Pigeon pea (Cajus cajan),,,,XXX,XX,x
+19,African yambean (Sphenostylis stenocarp,,,,XX,x,x
+20,Other legumes,,,,X,x,x
+21,Oil seeds and nuts,,,,,,
+22,Groundnuts (Arachis hypoea),XXXX,XXXX,XXXX,XX,XX,XX
+23,Soybeans (Glycine max),x,XX,x,x,x,X
+24,Benniseeds (Sesamum indicum),,XX,,x,x,XX
+25,Melon seeds (Citrullus vulgare),x,XX,x,XXX,XXX,XX
+26,"Locust bean (Parkia biglobosa),iru/dadawa",XXXX,XXXX,XXXX,XX,XX,XX
+27,Dika nut (Irvingia gabonensis),,,,XXX,XX,XX
+28,African oil bean (Pentaclethra macrophylla),,,,XXX,x,x
+29,"Castor oil (Ricinus communis), ogiri/ogil",,XXX,,XX,x,
+30,"Mesquite seed (Prosopis africana), Okpei",,,,XXXX,x,XX

@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7
+0,,,Proximates,Proximates,Proximates,Vitamins (Vitamin A),Vitamins,Vitamins (Vitamin E)
+1,Food and Description,Energy (kcal),Water,"Protein, calculated from",Lipid,Retinol,Vitamin D,alpha-Tocopherol
+2,,,,reference nitrogen,,,,
+3,Unit,kcal/100 g,g/100 g,g/100 g,g/100 g,g/100 g,g/100 g,mg/100 g
+4,"Wild, raw",142,72.2,20.6,5.8,8,5.0,1.0
+5,"Cultured, raw",177,68.5,20.9,9.4,11,7.0,2.4

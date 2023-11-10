@@ -1,0 +1,40 @@
+,0,1,2,3,4
+0,Sample,Type,Advantage,Disadvantage,Reference
+1,Water,Neuston and,+ Uncomplicated usage;,Boat is needed,"[40, 70],"
+2,,manta nets,+Large aqueous sample volumes,Time-consuming;,[7282]
+3,,,+ Widely used (to analyze various,Vessel and tow ropes may cause sam-,
+4,,,locations);,ple contamination;,
+5,,,+ The structure (lateral wings) allows,Clogging problems;,
+6,,,sampling of the water surface;,Detection limit is 333 um,
+7,,,+ Collects large MP amounts for fur-,,
+8,,,ther testing,,
+9,,Plankton net,+ Uncomplicated usage;,Boat is needed;,"[70,72],"
+10,,,+ Detection limit up to 100 um;,Requires water flow;,"[73], [83]"
+11,,,+Fast to use;,Clogging problems;,
+12,,,+ Samples medium volumes of water;,It is possible to sample lower volumes,
+13,,,+ Allows water column sampling,ofwater compared to manta nets,
+14,,Sieving,+ Does not need unique equipment or,Samples medium/low volumes of,"[70,73],"
+15,,,boat;,water;,"[84,85]"
+16,,,+Simple sample collection:,Great amount of water must be trans.,
+17,,,+ Choice of mesh size allows to sepa-,ported to the lab;,
+18,,,rate particles according to their size,Water is transported manually in,
+19,,,directly in the field,buckets;,
+20,,,,Possible contamination,
+21,,Pumps,+Samples large volumes of water;,Requires apparatus;,"[70,73],"
+22,,,+ Simple;,Energy is needed;,"[79, 85],"
+23,,,"+ Smaller MPs can be sampled, and",Requires boat;,[86]
+24,,,fiber loss is limited;,Possible contamination;,
+25,,,+ Filtered water volume is known;,Transport and application may be,
+26,,,+ Allows standardization of sampling;,challenging;,
+27,,,+ Allows choice of mesh size,Less representative,
+28,SedimentBeach sediment,SedimentBeach sediment,+ Simple and fast sampling;,There are variations between sampled,[70]
+29,,collection,+It is possible to take bigger sample,area and depth,
+30,,,volumes or do replicates,,
+31,,Seabed collec-,+ Uncomplicated usage;,Boat is needed,[70]
+32,,tion (grab sam-,+ Replicates may be taken,There are variations between sampled,
+33,,"pler, box corer,",,area and depth;,
+34,,gravity core),,Sampling may disturb sediment sur-,
+35,,,,face,
+36,Soil,Soil collection,+ Simple and fast sampling;,There are variations between sampled,[87]
+37,,,+ It is possible to take bigger sample,area and depth,
+38,,,volumes or do replicates,,

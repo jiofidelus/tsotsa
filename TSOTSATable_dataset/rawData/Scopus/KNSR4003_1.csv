@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6,7
+0,Biomarker,Biomarker,Population,Specimen,Analytical method,Advantages,Disadvantages,Threshold defining iodine sufficiency in
+1,,,group,,,,,populations
+2,UIC,UIC,Infants/,Spot urine,Spectrophotometric,Noninvasive,High intraindividual and interindividual,Median UIC>100 g/L in lactating women
+3,,,toddlers,Infant samples,(Sandell-,Reflects recent iodine,variability due to large variation in iodine,and infants recommended by WHO
+4,,,lactating,can be,Kolthoff,intake (within h),"intake and urine volume (249, 306)","(176), but evidence for this threshold in"
+5,,,women,collected,reaction),Assess intake from all,Large sample size needed(306),"lactating women, infants, and toddlers"
+6,,,,using urine,ICP-MS, dietary sources,Not useful for individual assessment unless,is weak.Median UIC>200 g/L likely
+7,,,,pads or urine,,External quality control, 10 repeated samples collected (306),more appropriate in infants (see Fig. 3)
+8,,,,bags,,program in place,UIC in lactating women should be assessed,"Criteria indicating deficient, optimal, and"
+9,,,,,,(307),along with BMIC as fractional iodine,excessive iodine intake should be defined
+10,,,,,,,excretion may vary in urine and breast,
+11,,,,,,,milk (250),
+12,BMIC,BMIC,Lactating,Spot breast milk,ICP-MS,Noninvasive,High intraindividual variability due to large,Not yet adopted (21)
+13,,,women,,,Reflects recent iodine,day-to-day variability in iodine intake,
+14,,,,,,intake (within h),Not reliable for individual assessment,Observational studies suggest median BMIC
+15,,,,,,,,of between 100 and 200 g/L indicate
+16,,,,,,,,"iodine sufficiency(18, 250) (Fig. 3)"
+17,,,,,,,,Criteria indicating optimal iodine nutrition
+18,Tg,,Infants/,Serum or DBS,ELISA,Venopuncture,Values elevated at deficient and excessive,to be defined
+19,,,"toddlers,",,,Simple collection by,iodine intakes and should be accompanied,Assay specific reference ranges: to be
+20,,,lactating,,,finger or heel prick,by UIC,defined for most assays (physiological
+21,,,women,,,and storage on filter Wide interassay variation,and storage on filter Wide interassay variation,decline during first mo of life must be
+22,,,,,,paper,Affected by degradation when stored under,considered)
+23,,,,,,Small sample volume,hot and humid conditions (DBS),
+24,,,,,,Reflects intermediate,,
+25,,,,,,iodine status (wk to,,
+26,,,,,,mo),,
+27,Neonatal,Neonatal,Neonates,Serum or DBS,Various,Collection by heel prick Should be taken at least 48 h after birth to,Collection by heel prick Should be taken at least 48 h after birth to,Prevalence<3% of values>5 mIU/L
+28,,TSH,2-5d,,immunoassays,and storage on DBS,avoid TSH surge,"indicates iodine sufficiency (176), but"
+29,,,after,,,is simple,,threshold< 5 mIU/L may be more
+30,,,birth,,,,,sensitive to detect mild iodine deficiency
+31,,,,,,International reference,Primarily reflects exposure to iodine,
+32,,,,,,range available,deficiency during pregnancy,
+33,,,,,,Measures thyroid,Reflects population risk of moderate-to-,
+34,,,,,,function at a,"severe iodine, but insensitive to mild",
+35,,,,,,particularly,iodine deficiency,
+36,,,,,,susceptible age,May be confounded by use of iodine-,
+37,,,,,,,containing antiseptics at birth,

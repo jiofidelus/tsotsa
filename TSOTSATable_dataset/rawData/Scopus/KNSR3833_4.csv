@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7
+0,,,,"Urban,N 340",,,"Rural, N 334",
+1,Variable,Categories,B,95%CI,P-value,B,95% CI,P-value
+2,Intercept,,1.08,"0.68, 1.48",<0.001,2.28,"1.58, 2.97",<0-001
+3,Educational status of mothe,No formal education Ref,,,,,,
+4,,Primary education,-0.34,"0.64,003",0-033a,,,
+5,,Secondary education,,,,0.80,"0.41,1.19",<0.001a
+6,Educational status ofFather,No formal education Ref,,,,,,
+7,,Secondary education,0.27,"0-02, 0.57",0-071,,,
+8,Single,Single,-0.59,"-112,-006",0.029a,,,
+9,Married Ref,Married Ref,,,,,,
+10,Child lives with,Both father and mother Ref,,,,,,
+11,Mother only,Mother only,0.36,"001,074",0.059,,,
+12,,Care giver only,,,,1.50,"0.62, 2-39",0.001a
+13,Frequency of meals per day,,,,,0.19,"0.08,0.31",0.001a
+14,Childs aged in month,,,,,0.06,"0-03,0.09",<0.001a
+15,Duration of continuous breast feeding after 6 months,,0.09,"0-07, 012",<0-001a,,,
+16,Housewife,Housewife,,,,0.49,"081,1.16",0.003a
+17,Merchant,Merchant,0.58,"0-31,0.845",<0-001a,,,
+18,,Government employee Ref,,,,,,
+19,Merchant,Merchant,,,,0.52,"0.10,0.94",0.016a
+20,,Government employee Ref,,,,,,
+21,Frequent number of ANC visits,,,,,-0.09,"0.16,-001",0.022a
+22,Frequent number of PNC visits,,0.55,"0.84, 0.26",<0.001a,,,
+23,Advice of IYCF practice during PNC visit,,0.16,"0.095,0-23",<0-001a,0.40,"0.09,0.72",0.013a
+24, Mother only, Mother only,0.77,"115,039",<0.001a,,,
+25,Caregiver,Caregiver,0.62,"124,001",0.053,,,
+26,,Both father and mother Ref,,,,,,
+27,Source of daily food,Own production,0.59,"0-27,0.91",<0.001a,,,
+28,,Purchased,,,,0.42,"-074,010",0.01a
+29,Horse,Horse,,,,0.90,"0-36,1.45",0.001a
+30,Other means Ref,Other means Ref,,,,,,

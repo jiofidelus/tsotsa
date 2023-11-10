@@ -1,0 +1,27 @@
+,0,1,2,3,4,5
+0,I.,Methods,,AOAC and other standard methods of food analysis.,AOAC and other standard methods of food analysis.,AOAC and other standard methods of food analysis.
+1,,,i.,Proximate analysis,,
+2,,,,"ProteinFat,CHO,WaterAshby Micro-level digestion-distillation","ProteinFat,CHO,WaterAshby Micro-level digestion-distillation","ProteinFat,CHO,WaterAshby Micro-level digestion-distillation"
+3,,,,system),,
+4,,,ii.,"Macro-minerals:Na,K,CaMg",,
+5,,,iii.,"Heavy metals:Hg,As,Se Cd,Pb",(by ICPMS),(by ICPMS)
+6,,,,"iv.Trace Metals:Cu,Zn,Fe",,
+7,,,v.Amino acid,v.Amino acid,(AAA),(AAA)
+8,II.Parameters,II.Parameters,,vi. Total Phenol,,by Spectrophotometer)
+9,,,,vii.Antioxidant activity:DPPH & ORAC,(by ELISA with microtiter,(by ELISA with microtiter
+10,,,,plate),,
+11,,,,viii.Antinutrients:Phytate &Oxalate,,(by Spectrophotometry&
+12,,,,Colorimetry),,
+13,,,ix.Fatty acid profile,ix.Fatty acid profile,(by Gas liquid chromatography),(by Gas liquid chromatography)
+14,,,,x.Total dietary fiber TDF,(by Enzymatic-gravimetric method),(by Enzymatic-gravimetric method)
+15,,,xi. Total sugar (TS),xi. Total sugar (TS),(by Titemetric method),(by Titemetric method)
+16,,,,xii. Total free sugar(TFS,(by Titemetric method),(by Titemetric method)
+17,,,xiii.Retinol,xiii.Retinol,,
+18,,,xiv.B-Carotene,xiv.B-Carotene,(by HPLC),
+19,,,,"xv.Vitamin C,BB,B6",,
+20,,,i.,Method Standardization,,
+21,III.Quality,III.Quality,,,"ii. Method Validation: Internal standard (IS), External standard (ES","ii. Method Validation: Internal standard (IS), External standard (ES"
+22,,Assurance,,percentage of recovery,,
+23,,Program,,,"iii. Data Quality: Precision (CV), Accuracy (In-house reference material -","iii. Data Quality: Precision (CV), Accuracy (In-house reference material -"
+24,,(QAP),,IHRM and well documented food),,
+25,,,,iv.Meticulous Documentation,,

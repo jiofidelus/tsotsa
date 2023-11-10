@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,,,,,
+1,Investigated,"Extract,",Groups,Animal,,Method for,Microbiome,Method for,,
+2,"Plant, Plant",Sample,(n = Number of,"Species,",Conditions,Microbiome,Changes,Metabolite,Metabolites,Reference
+3,Part,Preparation,Analyzed,Volunteers,,Analysis,Changes,Detection,,
+4,,,Individuals),,,,,,,
+5,,,,,,,,,feces of RPE,
+6,,,,,,,,,groups: 44,
+7,,,3 groups:,,,,,,native RPE,
+8,,ethanolic,"control (saline),",male Sprague,,,,targeted,constituents,
+9,,extract (75%),"0.5 h group, and",Dawley rats, treated for,,,UHPLC-Q-TOF-,"(3 xanthones,",[160]
+10,,RPE,1.5 h group (both,(200  20 g),6 days,,,MS,"1 sucrose ester,",[160]
+11,,RPE,RPE 2 g/kg),(200  20 g),,,,MS," 9 oligoesters,",
+12,,,n = 6 per group),,,,,," 33 saponins),",
+13,,,,,,,,,and,
+14,Polygala,,,,,,,,29 metabolites,
+15,radix,,,,,,HFD-PGW group vs.,,,
+16,radix,,,,,,reduced Bac-,,,
+17,,,3 groups:,,,,teroidetes/Firmicutes,,,
+18,,,n=8,,,,ratio in HFD-C group,,,
+19,,water extract,n=8,,treated for,,mitigated in,,,
+20,,(100 g radix,HFD control,,5 weeks after,,HFD-PGW group;,,,
+21,,polygalae,"(HFD-C), HFD-",,model,V3-V4 region of,rel. increase:,,,
+22,,powder,polygala group,male ICR mice,"construction,","16S rRNA gene,","Proteobacteria,",,,[161]
+23,,refluxed at,(HFD-PGW) (PGW,4 weeks old),fecal samples,NGS (Illumina),"Bacteroidaceae,",,,[161]
+24,,100 C with,dissolved in,,collected after,NGS (Illumina),"Rikenellaceae, S24-7,",,,
+25,,1 L water),distilled water,,5 weeks,,"Desulfovibrionaceae,",,,
+26,,PGW,"orally once daily,",,treatment,,Enterobacteriaceae;,,,
+27,,,dose not given),,,,rel. decrease:,,,
+28,,,(n =10 per group),,,,"Deferribacteres,",,,
+29,,,,,,," Lachnospiraceae,",,,
+30,,,,,,,"Ruminococcaceae,",,,

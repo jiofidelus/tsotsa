@@ -1,0 +1,49 @@
+,0,1,2,3
+0,Total carbohydrate intake (%kcal),Total carbohydrate intake (%kcal),,
+1,Chaol Index,0.480 (0.105),0.131,<.0001
+2, Shannon Index,0.008 (0.002),-0.098,0.0007
+3,Observed OTU,-0.432 (0.095),0.131,<.0001
+4,Dietary glycemic load (g/1000),Dietary glycemic load (g/1000),,
+5,Chaol Index,0.340 (0.076),0.128,<.0001
+6,Shannon Index,0.005 (0.002),0.089,0.002
+7,Observed OUT,0.308 (0.068),0.129,.0001
+8,Dietary fiber (g/1000),,,
+9,Chao1 Index,0.452 (0.275),0.047,0.101
+10,Shannon Index,0.006 (0.006),0.029,0.313
+11,Observed OTU,0.443 (0.247),0.052,0.073
+12,Dietary soluble fiber (g/1000),Dietary soluble fiber (g/1000),,
+13,Chaol Index,1.700 (1.025),0.048,0.098
+14,Shannon Index,0.021 (0.022),0.029,0.322
+15,Observed OTU,1.59 (0.921),0.050,0.084
+16,Dietary insoluble fiber (g/1000),Dietary insoluble fiber (g/1000),,
+17,Chaol Index,0.567 (0.359),0.045,0.115
+18,Shannon Index,0.007(0.008),0.028,0.325
+19,Observed OTU,0.564 (0.323),-0.050,0.081
+20,Dietary starch (%kcal),,,
+21,Chaol Index,0.407 (0.212),0.055,0.056
+22,Shannon Index,0.003 (0.004),-0.019,0.513
+23,Observed OTU,0.380 (0.191),0.057,0.046
+24,Dietary lactose (%kcal),Dietary lactose (%kcal),,
+25,Chaol Index,0.898 (0.297),0.087,0.003
+26,Shannon Index,0.019 (0.006),0.086,0.003
+27,Observed OTU,0.782 (0.267),0.084,0.004
+28,Dietary maltose (%kcal),Dietary maltose (%kcal),,
+29,Chaol Index,3.09 (3.200),-0.028,0.335
+30,Shannon Index,0.0510.067,0.022,0.453
+31,Observed OTU,2.77 (2.874),0.028,0.336
+32,Dietary sucrose (%kcal),Dietary sucrose (%kcal),,
+33,Chaol Index,1.47 (0.311),0.135,<.0001
+34,Shannon Index,0.022 (0.007),0.097,0.0007
+35,Observed OTU,1.22 (0.280),0.124,<.0001
+36,Dietary fructose (%kcal),Dietary fructose (%kcal),,
+37,Chaol Index,0.398 (0.388),0.030,0.305
+38,Shannon Index,0.008 (0.008),0.030,0.299
+39,Observed OTU,0.416 (0.349),0.034,0.234
+40,Dietary galactose (%kcal),Dietary galactose (%kcal),,
+41,Chaol Index,3.74 (9.913),-0.011,0.706
+42, Shannon Index,0.276 (0.209),.0.038,0.186
+43,Observed OTU,0.861 (8.904),0.003,0.923
+44,Dietary glucose (%kcal),Dietary glucose (%kcal),,
+45,Chaol Index,0.697 (0.452),0.044,0.123
+46,Shannon Index,0.014 (0.010),0.042,0.142
+47,Observed OTU,0.697 (0.406),0.049,0.087

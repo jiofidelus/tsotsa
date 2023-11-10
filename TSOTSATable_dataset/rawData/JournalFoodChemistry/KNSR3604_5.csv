@@ -1,0 +1,19 @@
+,0,1,2
+0,Food Group,*,Cooking method
+1,Cereals,35,"Boiled 12,Rice cooked(Taku23"
+2,Potatoes and,21,"Boiled 15,Steamed 4,Deep-fried 1,Tempura 1"
+3,starches,,
+4,Pulses,17,"Boiled 14,Soaked in hot water 2,Baked 1"
+5,Nuts and seeds,4,"Boiled 3,Roasted 1"
+6,Vegetables,135,"Boiled 88,Baked 1,Salt-pickled 13,Pickled with"
+7,,,"salted rice bran 6,Stir-fried 19,Deep-fried 2,"
+8,,,"Tempura 1,Soaked in water 3.Micro-waved 1"
+9,,,Glazed1
+10,Mushrooms,24,"Boiled 15.Baked 1,Stir-fried 8"
+11,Algae,5,"Boiled 2,Stir-fried 2,Soaked in water 1"
+12,"Fish,mollusks and",83,"Boiled 31,Grilled 43,Steamed1,Deep-fried 1,"
+13,crustaceans,,"Breaded and deep-fried 4,Tempura 3"
+14,Meat,43,"Boiled 13,Grilled 25,Deep-fried 2,Breaded and"
+15,,,deep-fried3
+16,Eggs,5,"Boiled 1,Poached 1,Grilled 2,Steamed 1"
+17,Total,372,

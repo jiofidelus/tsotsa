@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Cultivar type,Model,Year,Cultivar,,Geosmin concentration ( g - kg-1),,Geosmin concentration ( g - kg-1),TDS (%,TDS (%
+1,,,,,,Mean,,,Mean,Mean
+2,IGC,Outreach,2018,Moving Target,Moving Target,50.7a,,,,9.7a
+3,IGC,Outreach,2018,Blushing Not Bashful,Blushing Not Bashful,45.7ab,,,,9.1a
+4,IGC,Farm,2018,Evansville Orbit,Evansville Orbit,33.8ab,,,,8.7a
+5,Check,-,2018,Bull's Blood,Bull's Blood,29.1b,,,,7.8a
+6,Check,,2018,Touchstone Gold,Touchstone Gold,8.5c,,,,9.7a
+7,LGC,Outreach,2018,Snowglobe,,8.2cd,,,,9.5a
+8,LGC,Farm,2018,Evansville Ember,Evansville Ember,4.8d,,,,8.6a
+9,IGC,Outreach,2019,Blushing Not Bashful,Blushing Not Bashful,47.2a,,,10.5a,10.5a
+10,IGC,Farm,2019,Evansville Orbit,Evansville Orbit,42.3ab,,,10.2a,10.2a
+11,IGC,Outreach,2019,Moving Target,Moving Target,35.9abc,35.9abc,,10.9a,10.9a
+12,Check,-,2019,Bull's Blood,Bull's Blood,21.4bcd,21.4bcd,,,8.3a
+13,Check,,2019,Chioggia,,19.2cd,,,,8.3a
+14,Check,-,2019,Avalanche,,15.7de,,,,9.1a
+15,Check,-,2019,Touchstone Gold,Touchstone Gold,11.6de,,,,9.4a
+16,GC,Outreach,2019,Snowglobe,,8.7ef,,,10.4a,10.4a
+17,GC,Farm,2019,Evansville Ember,Evansville Ember,5.8f,,,,9.2a
+18,ignificance indicators from,,,,,,,2018,2019,2019
+19,NOVA performed on,ignificance indicators from,Variable,,,,DF,P,P,
+20,=highof perceived,ikert scores1=low to,Sweetness,,Cultivar,,5,6.3 E-06***,1.6 E-08**,1.6 E-08**
+21,avor attributes and flavor,avor attributes and flavor,,,Event,,1,0.12,0.67,
+22,reference for HGC and,reference for HGC and,,,Cultivar x Event,,5,1.1 E-03**,1.4 E-05**,1.4 E-05**
+23,GC table beet cultivars,GC table beet cultivars,Earthiness,,Cultivar,,5,4.0 E-03**,9.0 E-03**,9.0 E-03**
+24,"n two and three consumer,",nd commercial OP checks,,,Event,,1,0.86,3.2 E-02*,3.2 E-02*
+25,"hef, and horticulture",,,,Cultivar x Event,,5,0.11,0.66,
+26,epartment tasting events in,epartment tasting events in,Bitterness,,Cultivar,,5,0.25,4.9 E-04**,4.9 E-04**
+27,"018 and 2019, respectively","018 and 2019, respectively",,,Event,,1,0.41,0.14,
+28,,,,,Cultivar x Event,,5,0.29,0.30,
+29,,,Intensity,,Cultivar,5,5,0.75,3.0 E-03**,3.0 E-03**
+30,,,,,Event,1,1,0.45,0.20,
+31,,,,,Cultivar x Event,,5,0.19,3.7 E-02*,3.7 E-02*
+32,,,Complexity,,Cultivar,,5,9.0 E-02,0.43,
+33,,,,,Event,1,1,0.23,0.16,
+34,,,,,Cultivar x Event,,5,3.0 E-02*,0.86,
+35,,,Flavor Preference,Flavor Preference,Cultivar,5,5,1.4 E-04***,5.0 E-03**,5.0 E-03**
+36,*****Significant at,*****Significant at,,,Event,1,1,0.64,2.0 E-03**,2.0 E-03**
+37,espectively,"0.05,0.01,or 0.001,",,,Cultivar x Event,,5,0.16,4.9 E-02*,4.9 E-02*

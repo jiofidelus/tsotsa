@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7
+0,Individual glycosyl residues (%),Control,Veraison,,,Mid-ripening,,
+1,,,MeJ,BTH,MeJ+BTH,MeJ,BTH,MeJ+BTH
+2,Arabinose,10.61.1 a,10.81.9 a,11.51.0 a,9.30.7 a,100a,102 a,112 a
+3,Rhamnose,1.10.1a,0.70.1a,0.80.2 a,0.90.1 a,1.10.6 a,0.90.2 a,1.91.6 a
+4,Fucose,1.20.2 a,1.20a,1.20a,1.10.1a,1.10a,1.20.2 a,1.51 a
+5,Galactose,4.90.4 a,5.10.5 a,5.10.1a,4.80.7 a,4.40.7 a,5.10.7 a,5.60.4 a
+6,Glucose,8.90.7 a,11.20.3 a,10.01.1 a,9.90.5 a,8.71.7 a,9.80.7 a,8.93.9 a
+7,Mannose,9.61.0 abc,10.90.0 bc,10.10.9 bc,11.20.0c,9.30.7 ab,10.20.2 bc,8.10.8 a
+8,Xylose,7.71.1 a,9.30.9 a,8.90.9 a,8.81.8 a,8.20.8 a,8.20.9 a,6.70.7 a
+9,Xylitol,0.70.1a,0.80.2 a,0.80 a,0.70.3 a,0.60.1 a,0.70.1 a,10.4 a
+10,Galacturonic acid,52.62.1 a,46.64.2 a,48.02.1 a,49.44.9 a,53.90.1 a,51.14.8 a,52.67.0 a
+11,Glucuronic acid,1.00.1 a,1.10.2 a,1.20 a,1.20.5 a,0.90.2 a,1.10.3 a,1.10.1 a
+12,4-O-methylglucuronic acid,1.80.2 ab,2.30.2 abc,2.30.1 bc,2.60.3 c,2.20.4 abc,1.90.2 ab,1.70.1 a

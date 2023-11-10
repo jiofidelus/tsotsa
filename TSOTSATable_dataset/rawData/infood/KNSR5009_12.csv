@@ -1,0 +1,41 @@
+,0,1,2
+0,F22D4N3,Fatty acid 22:4 n-3,g
+1,F22D4,Fatty acid 22:4,g
+2,F20D5CN3,Fatty acid 20:5 cis n-3,g
+3,F20D5N3,Fatty acid 20:5 n-3,g
+4,F20D5,Fatty acid 20:5,g
+5,F21D5N3,Fatty acid 21:5 n-3,g
+6,F21D5,Fatty acid 21:5,g
+7,F22D5N6,Fatty acid 22:5 n-6,g
+8,F22D5N3,Fatty acid 22:5 n-3,g
+9,F22D5,Fatty acid 22:5,g
+10,F22D6CN3,Fatty acid 22:6 cis n-3,g
+11,F22D6N3,Fatty acid 22:6 n-3,g
+12,F22D6,Fatty acid 22:6,g
+13,F18D1N7 A F18D1,Fatty acid 18:1 n-7 + fatty acid 18:1 n-9,g
+14,N9,,
+15,F18D1N11_A_F20D,Fatty acid 18:1 n-11 +fatty acid20:1 n-9,g
+16,1N9,,
+17,F20D1N9 A F20D1,Fatty acid 20:1 n-9 + fatty acid 20:1 n-11,g
+18,N11,,
+19,F20D1N11_A_F20D,Fatty acid 20:1 n-11 + fatty acid 20:1 n-13,g
+20,1N13,,
+21,F22D1N11_A_F22D,Fatty acid 22:1 n-11 + fatty acid 22:1 n-13,g
+22,1N13,,
+23,F20D4N6 A F22D1,Fatty acid 20:4 n-6+fatty acid 22:1,g
+24,F22D1N9_A_F22D1,Fatty acid 22:1 n-9 + fatty acid 22:1 n-11,g
+25,N11,,
+26,FACID,"Fatty acids, total",g
+27,FASAT,"Fatty acids,total saturated",g
+28,FAMS,"Fatty acids, total monounsaturated",g
+29,FAPU,"Fatty acids,total polyunsaturated",g
+30,FATRN,"Fatty acids,total trans",g
+31,FAUN,"Other fatty acids, not specifiied",g
+32,FAPUN9,"Fatty acids, total n-9 polyunsaturated",g
+33,FAPUCN6(g),"fatty acids,total n-6 polyunsaturated in cis configuratior",g
+34,FAPUN6,"Fatty acids,total n-6 polyunsaturated",g
+35,FAPUCN9(g),"fatty acids,total n-9 polyunsaturated in cis configuration",g
+36,FAPUN3,"Fatty acids,total n-3 polyunsaturated",g
+37,FAPUCN3,"fatty acids, total n-3 polyunsaturated in cis configuration",g
+38,FAPULCCN3(g),"fatty acids, total n-3 long-chain polyunsaturated in cis",g
+39,,configuration,

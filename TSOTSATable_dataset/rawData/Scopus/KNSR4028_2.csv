@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7
+0,,,,,Cell Wall Components,Cell Wall Components,,
+1,Factor,,Cellulosic,Non-Cellulosic,Uronic Acids,,,
+2,Factor,,Glucose,Glucose,(Pectins),Lignin,Proteins,Total Phenols
+3,,,(Cellulose),(Hemicellulose),(Pectins),,,
+4,Year,2017,16222 b,408 b,298  18 a,414  84 a,294 a,362 b
+5,,2017,16222 b,22 11 a,298  18 a,46733 b,294 a,29 7 a
+6,Time of Application (TA),Mid-ripening,15015 ab,377a,351+35 b,482  34 b,43  18 a,267a
+7,,Control,15015 ab,377a,351+35 b,379  66 a,48  21 a,267a
+8,Treatments,BTH,168  23 c,32  11 a,287  70 a,471  69 b,48  21 a,288 a
+9,,MeJ+ BTH,15812bc,29  12 a,277  46 a,460  35 b,46  19 a,30 9 a
+10,,YxT,ns, (3%), (12%),ns,ns,ns
+11,Interactions,T TA,ns,*** (21%),*** (29%),** (7%),** (1%),** (2%)
+12,Interactions,T TA,ns., (2%), (9%),* (8%),** (1%),ns
+13,,Y x T x TA, (8%), (2%), (12%),* (8%),ns,ns

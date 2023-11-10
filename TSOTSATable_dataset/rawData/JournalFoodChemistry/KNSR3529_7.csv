@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,Matrix,Extracting,TC,Pressure,Other operation,Target compounds,Chemical structure of main,Chemical structure of main,Chemical structure of main,,,,Extraction recovery/yield,Antioxidant,References
+1,,solvent,,(MPA),parameters,,compounds,compounds,,,,,,capacity (method,
+2,Mango leaves,Water,100,4,3 h; flow rate 10 g/,"Flavonoids, xanthonoids",Mangiferin,,,,,,~35%,4.02 to 7.92 g/,Fernandez-Ponce
+3,,,,,min,,1365.9  1.2 mg/100 g DW,1365.9  1.2 mg/100 g DW,1365.9  1.2 mg/100 g DW,,,,,mg EC5o (DPPH),"et al.,2012"
+4,,,,,,,,,,,,,TPC: 1775.4 mg/100 g DW,,
+5,,,,,,,OH,,,,,,,,
+6,,,,,,,HO-,,,,,OH,,,
+7,,,,,,,,OH,,,,,,,
+8,,,,,,,Quercetin3--d-glucoside,Quercetin3--d-glucoside,Quercetin3--d-glucoside,,,,,,
+9,,,,,,,409.5  6.7 mg/100 g DW,409.5  6.7 mg/100 g DW,409.5  6.7 mg/100 g DW,,,,,,
+10,,,,,,,,,,,,-OH,,,
+11,Pomegranate seed,Water,220,6,30 min;,Phenolic compounds,n.d,,,,,,n.d,4100 mmol/100 g,He et al.2012
+12,residues,,,,solid/water ratio,,,,,,,,,(DPPH),
+13,,,,,1:40;,,,,,,,,TPC4854.7mg/100 g DW,,
+14,,,,,pH 4,,,,,,,,, 2250 mmol TE/,
+15,,,,,,,,,,,,,,100 gTEAC,
+16,Apple by-products,Water,120,10.3,3min,Flavonols,Hyperoside: quercetin-3-O-,Hyperoside: quercetin-3-O-,,,,,Total flavonols content:,0.01 to 0.47,"Plaza et al.,2013"
+17,,,,,,,galactoside,,,,,,1.3 mol/g dry apple by-,mmol/g(TEAC),
+18,,,,,,,,,,,,,product,,
+19,,,,,,,,,,,,,,0.26 to 8.51 1/,
+20,,,,,,,,,,,,,,EC5DPPH),
+21,,,,,,,HO,,,,,,,,
+22,,,,,,,OH,,,,,,,,
+23,,,,,,,362 nmol/g dry apple,362 nmol/g dry apple,362 nmol/g dry apple,,,,,,
+24,Onion skin wastes,Water,145,5,30 min;2.5 mL/min,"Flavonoids,",Quercetin,,,,,,~2.1 higher vs.,156.7  6.2 mg,Benito-Roman
+25,,,,,,"hydroxybenzoic acid,",,,,,,,conventional extraction,FeSO4/g (FRAP),"et al.,2020"
+26,,,,,,flavonols,HC,,,,,,with 70% EtOH/HO,,
+27,,,,,,,HO,,,,,OH,TPC:97.8 2.1 mg GAE/g,,
+28,,,,,,,,HO,,,,,TFC: 27.4  0.9 mg/g DW,,
+29,,,,,,,,,,,OH,,TFC: 27.4  0.9 mg/g DW,,
+30,,,,,,,15.4 0.4 mg/g DW,15.4 0.4 mg/g DW,15.4 0.4 mg/g DW,,,,,,
+31,,,,,,,Quercetin-4'-,Quercetin-4'-,,,,,,,
+32,,,,,,,glucoside,,,,,,,,
+33,,,,,,,,,,HO,,,,,
+34,,,,,,,HO,,,,,,,,
+35,,,,,,,,,OH,,,,,,
+36,,,,,,,OH O,OH O,,,,,,,
+37,,,,,,,8.4  0.1 mg/g DW,8.4  0.1 mg/g DW,8.4  0.1 mg/g DW,,,,,,

@@ -1,0 +1,40 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Study,Species,Probiotic,Model,Probiotic conc.,Duration,Outcome measures,Pro,Crt,Effect
+1,,,,,(CFU/day),of Tx,,,,
+2,,,,,,(Days),,,,
+3,Go et al.[60],APP/PS1 mice,A. butyriciproducens,AD (Transgenic;,2.0 108,5663,"Y-maze, NOR, bio-",8,8,Improved NOR and
+4,,,,APP/PS1),,,"markers, histology",,,"Y-maze results,"
+5,,,,,,,,,, improved inflamma-
+6,,,,,,,,,,tory biomarkers
+7,Ho et al.[61],C57B/CL6 mice,PM-1 (L. paraca-,AD (Subcutane-,1108,84,"MWM,Reference",5,5,Improved MWM
+8,,,Streptococcus,D-galactose),,,"Probe test, Working",,,oxidative state and
+9,,,thermophilus),,,,"memory task, bio-",,,apoptotic state
+10,,,,,,,"markers, histology",,,"in brain, lowered"
+11,,,,,,,,,,caspase-3 damage to
+12,,,,,,,,,,hippocampus
+13,Huang et al. [62],SAMP8 mice,L.paracasei,AD (Transgenic;,1x1010,84,"MWM,Open field",6,6,"MWM,open field"
+14,,,,SAMP8),,,"test, Biomarkers",,,"results improved,"
+15,,,,,,,,,,reduced oxidative
+16,,,,,,,,,,stress and inflam-
+17,,,,,,,,,,mation
+18,Jeong et al. [63],Fischer 344 rats,"L. curvatus, L. plan-",Aged (18 months),1x1010,56,"MWM, Y-maze,",6,6,Y-Maze results
+19,,(male),tarum,,,,biomarkers,,,"improved, no sig"
+20,,,,,,,,,,nificant change to
+21,,,,,,,,,," MWM performance,"
+22,,,,,,,,,,restored neurotrophic
+23,,,,,,,,,,factors and improved
+24,,,,,,,,,, inflammatory state
+25,Jung et al.[64],ICR mice (male),L. pentosus,AD intraperitoneally,11010,3,"MWM, Y-maze,",6,6,Improved Y-maze and
+26,,,,injected scopola-,,,"Passive avoidance,",,,MWM perfor-
+27,,,,mine,,,biomarkers,,," mance significantly,"
+28,,,,,,,,,,Increased hip-
+29,,,,,,,,,,pocampal BDNF and
+30,,,,,,,,,,p-CREB expression
+31,Kaur et al. [65],APP/PS1 mice,"VSL#3 (B. longum,",AD (Transgenic;,1.28 x107 CFU/g,56,"Histology, biomark-",6,6,Decreased intestinal
+32,,,"B. infantis, B.",APP/PS1),,,ers,,, inflammation and
+33,,,"breve, L. acidophi-",,,,,,,"gut permeability, no"
+34,,,"lus, L. paracasei,",,,,,,,significant change to
+35,,,"L. bulgaricus, L.",,,,,,,"plaque deposition,"
+36,,,"plantarum, Strep-",,,,,,,"serum cytokine,"
+37,,,tococcus salivarius,,,,,,,gliosis in brain
+38,,,thermophilus),,,,,,,

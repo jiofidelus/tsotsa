@@ -1,0 +1,44 @@
+,0,1,2,3
+0,Food ID,English name and description,,Scientific name
+1,E,Fruits and products (continued),,
+2,AAE119,"Toddy palm, cotyledon",Borassus flabellifera,Borassus flabellifera
+3,AAE124,"Water Rose, Nak (redish color) variety",Eugenia javanica,Eugenia javanica
+4,AAE126,Watermelon,Citrullus vulgaris,Citrullus vulgaris
+5,AAE125,"Wax jambu, Water Rose, green color variety",Eugenia javanica,Eugenia javanica
+6,F,"Meat, other animals and products",,
+7,AAF9,"Beef,blood",Bos indicus,
+8,AAF11,"Beef, brain, raw",Bos indicus,
+9,AAF18,"Beef, heart, raw",Bos indicus .,
+10,AAF19,"Beef, kidney, raw",Bos indicus,
+11,AAF23,"Beef,liverraw",Bos indicus,
+12,AAF188,"Beef, Longissimus dorsi, raw",Bos indicus,
+13,AAF25,"Beef, lungs,raw",Bos indicus,
+14,AAF2,"Beef, meat ball",Bos taurus,
+15,AAF44,"Beef, tongue, raw",Bos indicus,
+16,AAF185,"Chicken, black, thigh, w/ skin, raw",Gallus gallus domesticus,Gallus gallus domesticus
+17,AAF91,"Chicken, blood, cooked",Gallus gallus domesticus,Gallus gallus domesticus
+18,AAF99,"Chicken, breast, w/ skin, raw",Gallus gallus domesticus,Gallus gallus domesticus
+19,AAF100,"Chicken, drumstick, raw",Gallus gallus domesticus,Gallus gallus domesticus
+20,AAF101,"Chicken, feet, deboned, raw",Gallus gallus domesticus,Gallus gallus domesticus
+21,AAF95,"Chicken, gizzard, raw",Gallus gallus domesticus,Gallus gallus domesticus
+22,AAF96,"Chicken, heart, raw",Gallus gallus,
+23,AAF102,"Chicken, intestine, raw",Gallus domesticus,Gallus domesticus
+24,AAF186,"Chicken, jungle fowl, wing, w/ skin, raw",Gallus domesticus,Gallus domesticus
+25,AAF97,"Chicken, liver, raw",Gallus domesticus,Gallus domesticus
+26,AAF103,"Chicken, matured, dressed carcass, raw",Gallus domesticus,Gallus domesticus
+27,AAF104,"Chicken, thigh, w/ skin, raw",Gallus domesticus,Gallus domesticus
+28,AAF105,"Chicken, wing, w/ skin, raw",Gallus domesticus,Gallus domesticus
+29,AAF190,"Duck,blood,cooked",Anas domesticus,Anas domesticus
+30,AAF110,"Duck, liver,raw",Anas domesticus,Anas domesticus
+31,AAF111,"Duck, meat, raw",Anas domesticus,Anas domesticus
+32,AAF114,"Frog, small",Rana sp.,
+33,AAF145,"Mutton, lean, raw",Ovis aries,
+34,AAF148,"Nam/Jihn-som (Pork sausage, fermented), packed in banana leaf",Sus scrofa,
+35,AAF194,"Pork, blood, cooked",Sus scrofa,
+36,AAF120,"Pork, brain, raw",Sus scrofa,
+37,AAF119,"Pork,ham,raw",Sus scrofa,
+38,AAF121,"Pork, heart, raw",Sus scrofa,
+39,AAF124,"Pork, kidney, raw",Sus scrofa,
+40,AAF149,"Pork, leg, deboned, raw",Sus scrofa,
+41,AAF196,"Pork, liver,boiled",Sus scrofa,
+42,AAF197,"Pork, liver, fried",Sus scrofa,

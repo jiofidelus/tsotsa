@@ -1,0 +1,55 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Matrix,solvent,,(MPA),operation,Target compounds,compounds,,,recovery/yield,capacity,References
+1,,,,,parameters,,,,,,(method),
+2,,Ethanol:,,,Previous,"Procyanidins,",Type A-procyanidin,,,n.d,,Figueroa
+3,,water 50:50,,,sonication for,"flavonoids, phenolic",,,,,,et al.2018c
+4,,(v/v),,,15 min;20,"acids, flavanols,",,,,TPC: 34  1 mg,,
+5,,,,,min of static,glucosylated acid,,,,GAE/g,,
+6,,,,,extraction,derivates,,,,,,
+7,,,,,,,n.d,,,,,
+8,Avocado seed,Ethanol:,200,11,Previous,"Organic acids,phenolic 4-hydroxybenzoic acid","Organic acids,phenolic 4-hydroxybenzoic acid",,,n.d,310 30,Figueroa
+9,,water 50:50,,,sonication for,"acids, flavonoids,",,,,,mol TE/g,"et al.,2018c"
+10,,(v/v,,,15 min;20,"catechins, condensed",,0,,,(ORAC),
+11,,,,,min of static,tannins,,,,,,
+12,,,,,extraction,,,,,,,
+13,,,,,,,,,OH,,mol TE/g,
+14,,,,,,,,,,,(TEAC),
+15,,,,,,,HO,,,,,
+16,,,,,,,n.d,,,,,
+17,Orange peel,Ethanol:,65,10,2.37 g/min;,Glycosylated,Hesperidin,,,~35%,2559 mg,Barrales
+18,,water 75:25,,,40 min,"flavonoids,",,,,,TE/g(FRAP),et al.2018
+19,,v/v),,,,hydroxybenzoic acids,,,,TPC:14.90.7,,
+20,,,,,,,,,,mg GAE/g,,
+21,,,,,,,,,,,4.6  0.3 mg,
+22,,,,,,,,,,,TE/g (DPPH),
+23,,,,,,,583 mg/g DW,,,,,
+24,Pomegranate,Ethanol:,200,10.34,20 min,"Phenolic acids,",Punicalagin,,,n.d,2265.6 ,"Garcia et al.,"
+25,peel,water 50:50,,,,"flavonoids,",,,,,100.5 mol,2021
+26,,v/v),,,,hydrolysable tannins,,,,TPC: 149.0 ,TE/g (FRAP),
+27,,,,,,,,,,5.3 mg GAE/g,,
+28,,,,,,,,,,,916.4 ,
+29,,,,,,,,,,,102.0 mol,
+30,,,,,,,,,,,TE/g (ORAC),
+31,,,,,,,22.0  0.3 mg/g DW,,,,,
+32,Olive oil mill,Ethanol:,100,10.34,"5 min,1 cyclePolyphenols","5 min,1 cyclePolyphenols",n.d,,,n.d,Olive,Tapia-
+33,and winery,water 50:50,,,,,,,,,pomace:,Quiros
+34,wastes,(v/v,,,,,,,,TPC: 9.52 ,2.41  0.11,"et al.,2020"
+35,,,,,,,,,,0.20 mg GAE/gto 31.63 ,0.20 mg GAE/gto 31.63 ,
+36,,,,,,,,,,Olive pomace,0.46 mg TE/g,
+37,,,,,,,,,,,(TEAC),
+38,,,,,,,,,,TPC: 3.58 ,,
+39,,,,,,,,,,0.02 mg GAE/g,Winery,
+40,,,,,,,,,,(Winery,wastes:,
+41,,,,,,,,,,wastes),0.15  0.01,
+42,,,,,,,,,,,to7.18,
+43,,,,,,,,,,,0.10 mg TE/g,
+44,Grape pomace,Glicerol:,150,10,5 min,"Flavonols, flavanols,",Quercetin,,,n.d,n.d,Huaman-
+45,,water,,,,"phenolic acids,",,,,,,Castilla
+46,,32.5:67.5,,,,stilbenes,,,,TPC: 444.52,,"et al.,2020"
+47,,(v/v),,,,,,,,35.56g GAE/g,,
+48,,,,,,,,,OH,,,
+49,,,,,,,HO,,,,,
+50,,,,,,,,OH,,,,
+51,,,,,,,257.60  0.12 g/g DW,,,,,
+52,Grape pomace,,150,10,5min,,Catechin,,,~3 higher vs.,314.05,
+53,,,,,,,,,,conventional,15.7 umol,

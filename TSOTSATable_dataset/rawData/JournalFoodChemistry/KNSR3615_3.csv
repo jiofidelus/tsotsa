@@ -1,0 +1,59 @@
+,0,1,2,3
+0,Nutrient group,Methods and references,Nutrient,Methods and references
+1,,,group,
+2,Water,Oven drying(A 08/09/77;NF V 04-401AOAC 925.10,Vitamin B2Microbiological(AOAC 960.461 and AOAC 952-20,Vitamin B2Microbiological(AOAC 960.461 and AOAC 952-20
+3,,"gravimetric drying(AOAC,1984,microwave(PNTA0081",,ELISA(RIDASCREENFAST vitamin B12 test Art.No:R2102)
+4,Ash,"Muffle furnace;ash furnace(PNTA0083),calcination",Calcium,"ICP-OES;ICP-AES;SAA AAS(A 08/09/77),flame"
+5,,"A 08/09/77,gravimetric drying(AOAC930.30,1990",,-atomic absorption spectroscopy(AOAC965.09
+6,,,,PNTA0016)
+7,Nitrogen(protein),"Kjeldahl-Dumas(AOAC 976.05,PNTA0100,",PhosphorusICP-OES;ICP-AES;Colorimetric(A 08/09/77,PhosphorusICP-OES;ICP-AES;Colorimetric(A 08/09/77
+8,,FIL-IDF 20B 1993),,"spectrometricPNTQ1025),UV absorption"
+9,,,,"(AOAC970.39,atomic absorption"
+10,Total fat,"Gravimetric;gravimetric,Weibull method",Iron,"ICP-OESICP-AESAAS(Dir78/993,ICP-MSflame"
+11,,"(Egan,Kirk,&Sawyer,1981,acid hydrolysis-sox",,"-atomic absorption spectroscopy(AOAC965.09,"
+12,,"cap(AOAC depending on food matrix,acid hydrolysis",,graphite furnace AAS(PNTA0017)
+13,,"and hexane extractionJORF,Arrete du 08/09/77",,
+14,,Soxhlet(A 08/09/77PNTA0075,,
+15,"Fatty acidsSFA,MUFA,PUFA","Gas chromatography (Bligh and Dyer technique,",Zinc,ICP-OES;ICP-AES;AAS(Dir 78/933/NF V76-113
+16,,"PNTA0129,GC-FID(AOCS Ce 1-62;AOCS Ce 2-66",,ICP-MS;flame-atomic absorption spectroscopy
+17,,,,(AOAC965.09;PNTA0016
+18,Starch,"Polarimetric99/79 EC OJL209polarimetric,",Sodium,"ICP-OES;ICP-AES;AESA 08/09/77;PNTA0016),EAS;"
+19,,enzymatic hydrolysis and GC analysis of glucose content,,flame-atomic absorption spectroscopy after ashing
+20,,"Browne &Zerban,1941,enzymatic digestion",,(AOAC965.09)
+21,,"(AOAC996.11;NF V 04-404;PNTQ1159,titrimetricSI36,HPLC",,
+22,Carbohydrate,"Dry matter -(protein+ fat + ash+fibre,calculated by differencePotassium",,"ICP-OES;AES(A08/09/77;PNTA0016),EAS;flame"
+23,,,,atomic absorption spectroscopy(AOAC 965.09)
+24,Individual sugars,"HPLC;GCKnapp,1979,extraction with water",Copper,ICP-OES;ICP-MS;AAS;graphite furnace AAS(PNTA0017)
+25,,60C determined by HPAEC and PAD detection;,,
+26,,HPLC-chromatography(PAD detectoror RI,,
+27,,detectorJAOAC75 or AOAC 982.14;PNTQ0101,,
+28,Total dietary fibre,"Enzymatic-gravimetric method (Asp, Johanssen,","MagnesiumICP-OES;AASA 08/09/77,flame-atomic","MagnesiumICP-OES;AASA 08/09/77,flame-atomic"
+29,,"Hallmer,&Siljestrom,1983;AOAC47.021-47.027,",,absorption spectroscopy(AOAC 965.09;PNTA0016
+30,,1984;AOAC 985.29;PNTA0066),,
+31,Total NSP,"Englyst(Cummings &Englyst,1991)",,
+32,Cholesterol,GCISO6799-1992AOAC 933.08PNTA0093,Chloride,"Potentiometry(NF ISO5943,NF ISO 5725,NFV 05116"
+33,,"GLC analysisFIL-IDF 159,1992;DGF F III-1,1998",,"NFV04289,NF EN ISO 5810,ISO 1841-2,NF ISO 5943 mod"
+34,,CPG(NF T 60-249),,
+35,Vitamin A(all trans retinol),"HPLC-UV(BS EN 12823-1:2000,HPLC-DAD",lodine,Colorimetric;bromation/titrimetry(AOAC 935.14
+36,,"(IDF standard 142,HPLCNF EN 12823-1",,
+37,Beta-carotene,"HPLC-UV;HPLC-DAD(AOAC 45.1.03,1995,",Manganese,Graphite furnace -atomic absorption spectroscopy
+38,,HPLC(NF EN 12823-2),,after microwave digestion(BS 14084
+39,Other carotenoids,HPLC (NF 12823-2),Selenium,"HydridePNTA0059,fluorescenceAASICP-MS"
+40,,,,graphite furnace- atomic absorption spectroscopy
+41,,,,after microwave digestion(BS 14627
+42,Vitamin Bi,HPLC-FLUBS EN 14122:2003;Gubler1991:PNTA1001,Total folate,Microbiological (AOAC 944.12/45.2.03(1990.ICP_MS
+43,,"AOAC 960-46),HPLCNF EN 14122),based onJ.AOAC vol,76(5",,
+44,Vitamin B,"HPLC-FLU(BS EN 14152:2003;Cooperman &Lopez,1991;",Biotin,"Turbidimetricanalog to FDA method,LST AB 266.1"
+45,,"AOAC 960-46),HPLCNF EN 14152),Based onJ.AOAC vol,765)",,microbiological(AOAC 945-74
+46,Vitamin B(Niacin),"HPLC-UVTakatsuki,Suzuki,& Sato,1987),",Vitamin C,"HPLCJ.Agric.Food Chem.1984 32,352-5),HPLC-FLU"
+47,,"based onJ.AOAC vol,76 no 5;microbiological method",,"Zapata &Dufour,1992;Dodson,Young,&Soliman,1992"
+48,Pantothenic acid,Microbiological assay(AOAC 945.74(1990,,"HPLC-UV;HPLCNF EN 14130,titrimetric"
+49,,,,"(AOAC967.21),HPLC-DAD(PNTQ1001"
+50,Vitamin Be,"HPLC-FLU(Food Chem48(1993321-324,",Vitamin E,HPLC(BS EN ISO 687:2001 BS 5766:2001.
+51,,"Food Chem 52(199581-86,Brubacher,",,"NF V 18-144;NF EN 12822,HPLC-FLU"
+52,,"Muller-Mulot,&Southgate,1985Arr",,"(AOCS Ce 8-89,revised 1990;PNTQ1012"
+53,,"du 12/01/99,JORF du 04/02/99),HPLC",,
+54,,"(XP ENV 14164),based onJ.AOAC vol,",,
+55,,85 no 4;microbiological method,,
+56,,,"Vitamin D3HPLC-UV(BS EN 12821:2000,","Vitamin D3HPLC-UV(BS EN 12821:2000,"
+57,,,,"NEN-EN 12821,2000,HPLC"

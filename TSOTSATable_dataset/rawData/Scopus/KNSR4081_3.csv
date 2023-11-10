@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6
+0,Mutant clone no,Fruit volume(mm,Fruit diameter (mm),Fruit length (mm),Fruit shape index,TSS(Brix),TSS/TA
+1,Control,143.3 e,155.2 f,168.1 f,1.08 a,16.17a,12.34 a
+2,Mutl,336.7 b,180.7 bc,192.1 bc,1.06 a,16.37 a,11.32a
+3,Mut2,240.0 d,173.2 bcde,181.0 de,1.05a,15.27 a,11.39a
+4,Mut3,326.7 b,182.0 ab,192.7 ab,1.06a,15.97 a,11.92a
+5,Mut4,250.0 cd,164.7 ef,176.0 ef,1.07a,15.57 a,11.02 a
+6,Mut5,286.7 bcd,174.7 bcde,185.1bcde,1.06a,16.77 a,11.92 a
+7,Mut6,230.0 d,168.6 de,179.4 e,1.06 a,15.83 a,11.23 a
+8,Mut7,431.7 a,192.6 a,202.9 a,1.05a,15.37 a,11.03 a
+9,Mut8,316.7b,178.6 bcd,190.6 bcd,1.07a,16.40 a,12.08 a
+10,Mut9,310.0bc,174.5 bcde,184.9 bcde,1.06 a,15.73 a,11.74 a
+11,Mutl0,286.7 bcd,172.5bcde,182.9 bcde,1.06 a,16.63 a,11.85a
+12,Mutll,286.7 bcd,171.1 cde,182.1 cde,1.06 a,16.00 a,12.03 a

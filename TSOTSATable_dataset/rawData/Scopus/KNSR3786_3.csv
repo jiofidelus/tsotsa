@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6
+0,Factors,3,Wald  value,OR,OR(95%CI),P,
+1,Monthly income,0.001,6.238,1.001,1.000-1.001,,0.013*
+2,(,,,,,,
+3,Parity (times),1.334,9.553,3.795,1.6578.689,,0.002**
+4,Second-hand or third-hand smoke (yes versus no),1.060,4.528,2.886,1.087-7.659,,0.033*
+5,Easy access to healthy food (yes versus no),-1.417,3.875,0.242,0.059-0.994,,0.049*
+6,Physical activity (scores),-0.001,21.875,0.999,0.9980.999,,<0.001**
+7,Depression (scores),0.177,10.468,1.193,1.072-1.328,,0.001**
+8,Type D personality (scores),0.138,8.013,1.148,1.0441.264,,0.005**
+9,Social support (scores),0.149,10.996,0.861,0.789-0.941,,0.001**
+10,Environment (scores),-0.143,13.033,0.866,0.801-0.937,,<0.001**x

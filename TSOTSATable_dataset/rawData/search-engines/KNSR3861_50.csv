@@ -1,0 +1,42 @@
+,0,1,2
+0,Food ID,English name and description,Scientific name
+1,F,"Meat,other animals and products (continued)",
+2,AAF126,"Pork, liver,raw",Sus scrofa
+3,AAF130,"Pork, lung, raw",Sus scrofa
+4,AAF187,"Pork, pancreas, raw",Sus scrofa
+5,AAF150,"Pork, rib, deboned, raw",Sus scrofa
+6,AAF158,"Pork,shoulder,raw",Sus scrofa
+7,AAF152,"Pork, shoulder, broiled",Sus scrofa
+8,AAF202,"Pork, shoulder, fried",Sus scrofa
+9,AAF159,"Pork, skin, fried",Sus scrofa
+10,AAF204,"Pork, tenderloin,raw",Sus scrofa
+11,AAF164,"Rabbit, whole carcass, raw","Oryctolagus cuniculus, Lepus cuniculus"
+12,G,"Finfish, shellfish, other aquatic animals and products",
+13,AAG2,"Anchovy, fresh, whole",Stolephorus indicus
+14,AAG1,"Anchovy, dried",Stolephorus indicus
+15,AAG18,"Carp, common, raw",Cyprinus carpio
+16,AAG22,"Catfish, freshwater, raw",Clarias batrachus
+17,AAG25,"Catfish,gunther's walking, boiled",Clarias macrocephalus
+18,AAG26,"Catfish, gunther's walking, fried",Clarias macrocephalus
+19,AAG24,"Catfish, gunther's walking, raw",Clarias macrocephalus
+20,AAG27,"Catfish, gunther's walking, roasted",Clarias macrocephalus
+21,AAG217,"Catfish, striped,,wl skin,raw",Pangasius sutchi
+22,AAG218,"Catfish, striped, w/ skin, steamed",Pangasius sutchi
+23,AAG160,"Catfish,truncated estuarine, raw",Arius truncatus
+24,AAG250,"Clam, undulated surf",Paphia undulata
+25,AAG288,"Cobia/Black kingfish, raw",Rachycentron canadum
+26,AAG224,"Cockle/ark shell, fresh",Area granosa
+27,AAG38,"Crab, shore, raw",Varuna litterata
+28,AAG39,"Crabmeat, mud, boiled",Scylla serrata
+29,AAG40,"Crabmeat, mud, fresh",Scylla serrata
+30,|AAG41,"Cuttlefish, dried",Loligo sp. ommastrephes spp
+31,AAG42,"Cuttlefish,raw",Sepia pharaonis
+32,AAG44,"Eel, silver pike (daggertooth pike conger), sea water , raw",Muraenesox cinereus
+33,AAG146,"Eel, swamp, boiled",Fluta alba
+34,AAG286,"Eel, swamp, raw",Fluta alba
+35,AAG45,"Featherback, grey (knifefish), raw",Notopterus notopterus
+36,AAG62,"Featherback, grey (knifefish), roasted",Notopterus notopterus
+37,AAG208,"Featherback, spotted (knifefish) flesh, cooked",Notopterus chitala
+38,AAG206,"Featherback, spotted (knifefish), flesh, raw",Notopterus chitala
+39,AAG207,"Featherback, spotted (knifefish), raw",Notopterus chitala
+40,AAG166,"Flatfish/Turbot, Indian (halibut), raw",Psettodes erumei

@@ -1,0 +1,12 @@
+,0,1
+0,Column title,Description
+1,indicate that fish or shellfish are identical at their taxonomic level,indicate that fish or shellfish are identical at their taxonomic level
+2,ISSCAAPcode,Gives ASFIS classification code(two figure code)
+3,,The ISSCAAP codes for the five main groups presented are
+4,,"given in parenthesis: Freshwater fishes (11-13), diadromous"
+5,,"fishes (21-25), marine fishes (31-38), crustaceans (41-47),"
+6,,molluscs(51-58)
+7,'3_alpha code',Gives ASFIS identification code(three capital letter code
+8,'Scientific name(ASFIS),Gives the scientific name according to the ASFIS list on
+9,,genus/species level
+10,'English name(ASFIS),Gives the scientific name according to the ASFIS list

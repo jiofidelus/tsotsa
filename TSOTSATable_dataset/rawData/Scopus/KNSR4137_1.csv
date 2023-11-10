@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Essential amino acid,Demand in literature,Demand in,Simulation results,Deposition rate
+1,,,mmol-gDW-1h-1,,
+2,Arginine,3.62 % [33],0.2078,0.07,34%
+3,Lysine,2.34% [33],0.1601,0.0664,41%
+4,Methionine,1.12% [33],0.0751,0.0249,33%
+5,Leucine,2.36 % [34],0.1799,0.104,58%
+6,Isoleucine,2.25 % [34],0.1715,0.0504,29%
+7,Histidine,0.864 % [32],0.0557,0.0293,53%
+8,Phenylalanine,1.963%.,0.1188,0.0363,31%
+9,Threonine,1.59 % [32],0.1335,3,-
+10,Tryptophan,0.182 % [32],0.0089,0.0071,80%
+11,Valine,1.504 % [32],0.1284,0.0723,56%

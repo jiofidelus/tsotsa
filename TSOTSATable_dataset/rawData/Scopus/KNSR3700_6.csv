@@ -1,0 +1,14 @@
+,0,1,2,3,4
+0,,,Root system architecture at the flowering growth stage,Root system architecture at the flowering growth stage,
+1,Tillage x traffic,Root volume,Root surface area,Length (z) axis,Root length density
+2,,(mm3),(mm2),(mm3),(mmm-3
+3,DTNT,3900.00,23448,96.1ab,0.000083ab
+4,STNT,2648.00,17350,88.4abc,0.000077ab
+5,ZTNT,3048.00,17907,112.7a,0.000098a
+6,DTCP,2276.00,12114,60.44c,0.000052b
+7,DTLP,3525.00,20269,66.96bc,0.000058b
+8,STCP,2900.00,18052,67abc,0.000058ab
+9,STLP,2358.00,14211,65.39bc,0.000057b
+10,ZTCP,2533.00,15040,69.43abc,0.000060b
+11,ZTLP,4480.00,25104,97.89ab,0.000085ab
+12,P value,NS,NS,0.001,0.001

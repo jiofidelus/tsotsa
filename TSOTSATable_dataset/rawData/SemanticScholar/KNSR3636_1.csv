@@ -1,0 +1,12 @@
+,0,1,2,3
+0,,,Status from manual review,Status from manual review
+1,,,Plausible,Non-plausible
+2,,,match,match
+3,Predicted Predicted plausible,Predicted Predicted plausible,True positives,False positives
+4,status,match,(TP),(FP)
+5,,If score,,
+6,,threshold),,
+7,,Predicted,False negatives True negatives,False negatives True negatives
+8,,non-plausible,(FN),(TN)
+9,,match,,
+10,,(Score<threshold,,

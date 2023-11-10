@@ -1,0 +1,8 @@
+,0,1,2
+0,,ITJ(y),STJ(y2)
+1,Energy,y=0.863x+115,y=0.909x+104
+2,Protein,y=0.791x+5.32,y=0.886x+4.30
+3,Lipid,y=1.005x+2.06,y=1.094x+1.75
+4,Carbohydrate,yi=0.739x+22.5,y=0.732x+23.0
+5,Sodium,yi=1.079x+153,yz=1.108x+158
+6,Potassium,y=0.940x+272,y=0.903x+357

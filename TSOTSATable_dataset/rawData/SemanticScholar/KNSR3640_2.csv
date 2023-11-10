@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,Food groups,Washing,,Way of processing,Freeze drying,Analysis part
+1,Cereals,x,Grinding,,x,Total
+2,Potatoes and starches,,After washing and remove peel,After washing and remove peel,,Seed
+3,Sugars and sweeteners,x,No processing,,x,Total
+4,Pulses,x,Grinding,,,Total
+5,Nuts and seeds,x,"Remove from water, and grinding","Remove from water, and grinding",0,Flesh
+6,Vegetables,,"Remove from water, and edible portion grinding","Remove from water, and edible portion grinding",0,"Leaf, stem"
+7,Mushrooms,,"Remove from water, and edible portion grinding","Remove from water, and edible portion grinding",0,Total
+8,Fruits,0,"Remove from water, and remove from skin, seed and grinding","Remove from water, and remove from skin, seed and grinding",0,Flesh
+9,Seaweeds,x,Grinding,,0,Total
+10,Others,0,Grinding,,0,Total

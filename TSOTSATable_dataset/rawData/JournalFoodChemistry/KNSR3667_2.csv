@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Food mixturesb,Moisturec,Crude protein,Fat,Ash,Crude fibre
+1,Non-germinated,,,,,
+2,Unprocessed food mixture,30.45  0.37,14.83  0.58,1.95  0.20,2.42  0.29,2.14  0.10
+3,Autoclaved food mixture,30.43  0.30,14.76  0.57,1.910.11,2.40  0.05,2.01  0.28
+4,Autoclaved and fermented food mixture,30.30  0.73,13.86  0.23,1.83 0.15,2.34  0.08,1.89  0.12
+5,Germinated,,,,,
+6,Unprocessed germinated food mixture,30.38  0.66,13.86  0.56,1.67 0.17,2.40  0.06,2.10  0.15
+7,Germinated autoclaved food mixture,30.160.05,13.751.17,1.590.11,2.32  0.06,2.02  0.17
+8,"Germinated,autoclaved and fermented food mixture",30.06  0.66,12.18  0.35,1.46 0.18,2.30  0.11,1.88  0.03
+9,CD(P<0.05,NS,1.62,NS,NS,0.26

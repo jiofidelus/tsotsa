@@ -1,0 +1,10 @@
+,0,1,2,3,4,5
+0,PVP,Unit,"SC, Control","SC,Stress","DC,Control","DC, Stress"
+1,"P shoot, L",cm/shoot,142  14.8 a,"127 13.7 a,b","114 12.9 b,c",10115.3
+2,"P shoot,N",#/plant,151.0b,16.50.7b,22.5  2.1 a,253.7 a
+3,"P shoot,FW",g/plant,1083  63 a,"868#7b,c",94587b,821 106 c
+4,P leavesN,#/plant,219 27.5 b,234 72 b,323  15.7 a,337  30.2 a
+5,P leavesFW,g/plant,1488  109 a,1455178 a,1667134 a,1657162 a
+6,"P leaf,A",m2/plant,5.4  0.72 b,"5.3  0.99 a,b",6.2  0.31 a,6.3  0.56 a
+7,"Pleaf,",cm2/shoot,3573  327 a,"3221  461 a,b",2798  395 b,2597  532 b
+8,A/shoot,cm2/shoot,3573  327 a,"3221  461 a,b",2798  395 b,2597  532 b

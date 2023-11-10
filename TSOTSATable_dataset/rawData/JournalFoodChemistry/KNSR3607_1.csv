@@ -1,0 +1,22 @@
+,0,1,2,3,4
+0,,,AMS,ASG,ASY
+1,Physicochemical properties,Physicochemical properties,,,
+2,pH,pH,7.57  0.08a,7.29  0.15b,7.490.03a
+3,L*,L*,85.53  0.77b,88.08  0.70a,88.53  0.29a
+4,a*,a*,1.740.06,-4.06  0.24b,3.89  0.13b
+5,b*,b*,12.01  0.65b,13.02  1.13a,12.76  0.65ab
+6,Overrun (%),Overrun (%),19.27  2.90b,24.33  2.09ab,27.96  2.16a
+7,,Melting rate (g/min),0.64  0.06a,0.550.03a,0.590.04a
+8,,First drop times (min),0.28  0.07a,0.37 0.02a,0.330.10a
+9,TPA,,,,
+10,Hardness (N,Hardness (N,125.40  15.77a,117.37 12.03a,88.94  6.78b
+11,Gomosity (N),Gomosity (N),21.81  4.79a,22.14  4.78a,17.821.68a
+12,Adhesiveness (mJ),Adhesiveness (mJ),3.60  0.00a,5.200.00a,2.10 0.00
+13,Cohesiveness,Cohesiveness,0.21  0.04a,0.19  0.02a,0.20  0.02a
+14,Elasticity (mm),Elasticity (mm),1.45  0.19ab,1.660.36a,1.24  0.24b
+15,Herschel-Bulkley model,Herschel-Bulkley model,,,
+16,R2,R2,0.999,1.000,0.998
+17,To(Pa),To(Pa),2.235  0.087a,1.056  0.369b,2.595 0.677a
+18,k([Pa.s]),k([Pa.s]),0.144  0.037a,0.099  0.037a,0.085 0.037a
+19,n (dimensionless),n (dimensionless),0.8750.026a,0.8840.030a,0.9200.068a
+20,,Hysteresis area (Pa.s,2.840  0.008b,4.193  1.276a,4.588 0.313a

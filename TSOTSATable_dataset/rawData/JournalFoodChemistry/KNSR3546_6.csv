@@ -1,0 +1,15 @@
+,0,1,2,3
+0,Flour,Extrusion,Major findings,References
+1,origin,conditions,,
+2,oat,"100C,21",As screw speed rose,"Brahma et al.,2016"
+3,,%160~,from 160 to 300 rpm,
+4,,300 rpm,RDS+SDS level rose,
+5,,,"from 91 % to 93 %,",
+6,,,while RS level declined,
+7,,,from 9 % to 8 %,
+8,finger,"100C,22",With the increment of,"Liu,Cheng et al.,2020"
+9,millet,%180~,screw speedRDS,
+10,,360 rpm,content increased from,
+11,,,"79.5 % to 81.8 %,while",
+12,,,RS content declined,
+13,,,from 7.0 % to 5.6 %.,

@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6
+0,Amino acid,INFOODS,Unit,Denominator,Sig.,Data,Comment1
+1,Amino acid,tagname,Unit,Denominator,digits,sheet,Comment1
+2,,,,/100 g EP,3,04/05,Calc. from ILE/g N
+3,Isoleucine,ILE,mg,/g N,3,06,
+4,Leucine,LEU,mg,/100 g EP,3,04/05,Calc.from LEU/g N
+5,Leucine,LEU,mg,/g N,3,06,
+6,Lysine,LYS,mg,/100 g EP,3,04/05,Calc. from LYS/g N
+7,Lysine,LYS,mg,/g N,3,06,
+8,Methionine,MET,mg,/100 g EP,3,04/05,Calc.from MET/g N
+9,Methionine,MET,mg,/gN,3,06,
+10,Cystine,CYS,mg,/100 g EP,3,04/05,Calc. from CYS/g N
+11,Cystine,CYS,mg,/g N,3,06,
+12,Phenylalanine,PHE,mg,/100 g EP,3,04/05,Calc. from PHE/g N
+13,Phenylalanine,PHE,mg,/gN,3,06,
+14,Tyrosine,TYR,mg,/100 g EP,3,04/05,Calc.from TYR/g N
+15,Tyrosine,TYR,mg,/g N,3,06,
+16,Threonine,THR,mg,/100 g EP,3,04/05,Calc.from THR/g N
+17,Threonine,THR,mg,/g N,3,06,
+18,Tryptophan,TRP,mg,/100 g EP,3,04/05,Calc.from TRP/g N
+19,Tryptophan,TRP,mg,/gN,3,06,
+20,Valine,VAL,mg,/100 g EP,3,04/05,Calc. from VAL/g N
+21,Valine,VAL,mg,/g N,3,06,
+22,Arginine,ARG,mg,/100 g EP,3,04/05,Calc.from ARG/g N
+23,Arginine,ARG,mg,/g N,3,06,
+24,Histidine,HIS,mg,/100 g EP,3,04/05,Calc.from HIS/g N
+25,Histidine,HIS,mg,/g N,3,06,
+26,Alanine,ALA,mg,/100 g EP,3,04/05,Calc.from ALA/g N
+27,Alanine,ALA,mg,/gN,3,06,
+28,Aspartic acid,ASP,mg,/100g EP,3,04/05,Calc.from ASP/g N
+29,Aspartic acid,ASP,mg,/g N,3,06,
+30,Glutamic acid,GLU,mg,/100 g EP,3,04/05,Calc.from GLU/g N
+31,Glutamic acid,GLU,mg,/g N,3,06,
+32,Glycine,GLY,mg,/100 g EP,3,04/05,Calc.from GLY/g N
+33,Glycine,GLY,mg,/g N,3,06,
+34,Proline,PRO,mg,/100 g EP,3,04/05,Calc. from PRO/g N
+35,Proline,PRO,mg,/g N,3,06,
+36,Serine,SER,mg,/100g EP,3,04/05,Calc. from SER/g N
+37,Serine,SER,mg,/gN,3,06,

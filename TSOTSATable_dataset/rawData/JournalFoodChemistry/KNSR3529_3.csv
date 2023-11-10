@@ -1,0 +1,58 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,Matrix,Extracting,T (C),Pressure,Other,Target compounds,Chemical structure of main,Chemical structure of main,,Chemical structure of main,Chemical structure of main,Chemical structure of main,,Extraction,Antioxidant,References
+1,,solvent,,(MPA),operation,,compounds,compounds,,,,,,recovery/yield,capacity,
+2,,,,,parameters,,,,,,,,,,method),
+3,Grape pomace,Ethanol:,150,1,,"Flavanols, stilbenes,",Gallic acid,Gallic acid,,,,,,~19 higher vs.,0.34 mM TE/,Huaman
+4,,water,,,,"phenolic acids,",,,,,,,,conventional,g(TEAC,Castilla
+5,,32.5:67.5,,,,flavonols,,,,,,,,extraction with,g(TEAC,"et al.,2019"
+6,,(v/v),,,,,,,,,,,,water,,
+7,,,,,,,HO,,,,,,,TPC: 229.48 ,,
+8,,,,,,,,,,,,,OH,18.36 g GAE/g,,
+9,,,,,,,HO,,,,,,,,,
+10,,,,,,,,,,OH,,,,,,
+11,,,,,,,59.92  0.11 g/g DW,59.92  0.11 g/g DW,59.92  0.11 g/g DW,59.92  0.11 g/g DW,59.92  0.11 g/g DW,,,,,
+12,,,,,,,,,,,,OH,,,,
+13,,,,,,,,,,,,,OH,,,
+14,,,,,,,,,,,,,OH,,,
+15,,,,,,,,,,,,OH,,,,
+16,,,,,,,,OH,OH,,,,,,,
+17,,,,,,,Epicatechin,Epicatechin,Epicatechin,,,,,,,
+18,,,,,,,58.99  5.89 g/g DW,58.99  5.89 g/g DW,58.99  5.89 g/g DW,58.99  5.89 g/g DW,58.99  5.89 g/g DW,,,,,
+19,Skin and seeds,Ethanol:,160,1,5 min,"Flavanols, flavonols,",Skin: Caffeic acid,Skin: Caffeic acid,Skin: Caffeic acid,Skin: Caffeic acid,,,,~1.5-2.5,Skin:,Allcca-Alca
+20,of Vitis,water 60:40,,,,phenolic acids,,,,,,,,higher vs.,"36.332.18et al., 2021","36.332.18et al., 2021"
+21,vinifera L. cv.,v/v,,,,,,,,,,,,conventional,MTE/g,
+22,Negra Criolla,,,,,,,,,,,,,extraction with,ORAC,
+23,Pomace,,,,,,HO,,,,,,,acetone,,
+24,,,,,,,HO,,,,,,OH,,Seeds:,
+25,,,,,,,,,,,,,OH,TPC1.98,137.65 ,
+26,,,,,,,,,,,,,,0.12mg GAE/g,15.14MTE/,
+27,,,,,,,HO,,,,,,,Skin),gORAC,
+28,,,,,,,2.531.15g/g DW,2.531.15g/g DW,2.531.15g/g DW,2.531.15g/g DW,2.531.15g/g DW,,,Skin),gORAC,
+29,,,,,,,,,,,,,,TPC:12.54,,
+30,,,,,,,Seeds:,,,,,,,0.25 mg GAE/g,,
+31,,,,,,,,,,,,,,(Seeds,,
+32,,,,,,,,OH,OH,,,,,,,
+33,,,,,,,Catechin,Catechin,,,,,,,,
+34,,,,,,,85.91  6.87 g/g DW,85.91  6.87 g/g DW,85.91  6.87 g/g DW,85.91  6.87 g/g DW,85.91  6.87 g/g DW,,,,,
+35,Grape marc,Ethanol:,40,10,40 min;5 g/,Monomeric,Malvidin 3-glucoside,Malvidin 3-glucoside,Malvidin 3-glucoside,Malvidin 3-glucoside,Malvidin 3-glucoside,,,n.d,571.76 ,Pereira
+36,,acidified,,,min,anthocyanins,,,,,,,,,22.73mol,"et al.,2019"
+37,,water(pH,,,,,,,,,OCH3,,,,TE/gORAC,
+38,,2),,,,,,,,,,OF,,TPC: 28.66 ,,
+39,,,,,,,,,,,,,,0.29 mg GAE/g,,
+40,,50:50 (v/v),,,,,,,,,,,,,478.40 ,
+41,,,,,,,,,,,,,,,FRAP,
+42,,,,,,,,OH,,HO-,,-OH,,,FRAP,
+43,,,,,,,,OH,,,HO,,,,FRAP,
+44,,,,,,,5.144  0.48 mg/g DW,5.144  0.48 mg/g DW,5.144  0.48 mg/g DW,5.144  0.48 mg/g DW,5.144  0.48 mg/g DW,,,,,
+45,Varieties of red,Ethanol:,120,9,90 min; 5 g/,Anthocyanins,n.d,,,,,,,~87%,7.5 to 9.2 g/Otero-,7.5 to 9.2 g/Otero-
+46,grapes,water 50:50,,,min,,,,,,,,,,mL EC5o,"Pareja et al.,"
+47,pomace,(v/v),,,,,,,,,,,,TAC: 107.0 ,(DPPH),2015
+48,,,,,,,,,,,,,,11.3 to 741.9 ,,
+49,,,,,,,,,,,,,,~35%,,
+50,Passion fruit,Ethanol:,60,10,2.4 g/min,Flavones,Isoorientin,Isoorientin,,,,,,~35%,5.75  0.05,Vigano
+51,rinds,water 70:30,,,,,,,,,,,,,mg TE/g,"et al.,2016"
+52,,(v/v),,,,,,,,,,,,,(FRAP),
+53,,,,,,,,,,,,,,TPC:3.18,,
+54,,,,,,,,,,,,,,0.02 mg GAE/g,,
+55,,,,,,,,,OH,,,,,,11210,
+56,,,,,,,1182 g/g DW,,OH,1182 g/g DW,,,,,(ORAC,

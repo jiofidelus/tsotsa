@@ -1,0 +1,50 @@
+,0,1,2,3,4,5,6
+0,Component,INFOODS,Unit,Denominator,Sig.,Data-,Comment
+1,,tagname,,,digits,sheet,
+2,Manganese,MN,mg,/100 g EPDM,3,04/05,
+3,Sodium,NA,mg,/100 g EPDM,3,04/05,
+4,Phosphorus,P,mg,/100 g EPDM,3,04/05,
+5,Zinc,ZN,mg,/100 g EPDM,3,04/05,
+6,Thiamin,THIA,mg,/100 g EPDM,2,04/05,
+7,Riboflavin,RIBF,mg,/100 g EPDM,2,04/05,
+8,Niacin,NIA,mg,/100 g EPDM,2,04/05,
+9,Niacin,NIAQ,mg,/100 g EPDM,2,04/05,Calc.of NIA and NIATRP
+10,equivalents,,,,,,(Equation 7)
+11,Vitamin C,VITC,mg,/100 g EPDM,3,04/05,
+12,Vitamin B6,VITB6C,mg,/100 g EPDM,2,04/05 Not preferred/improper,04/05 Not preferred/improper
+13,,,,,,,"tagnames: VITB6A,"
+14,,,,,,,microbiological assay;VITB6-
+15,,,,,,,unknown expression or
+16,,,,,,,method.
+17,Vitamin B12,VITB12,ug,/100 gEPDM,2,04/05,
+18,Folate,FOL,ug,/100 g EPDM,2,04/05 Not preferred/improper,04/05 Not preferred/improper
+19,,,,,,,"tagnames: FOLSUM, sum of"
+20,,,,,,,vitamers determined by HPLC;
+21,,,,,,,"FOL-,method unknown or"
+22,,,,,,,variable.
+23,Vitamin A (RE),VITA,ug,/100 g EPDM,3,04/05,(Equation 5)
+24,Vitamin A(RAE,VITA_RAE,ug,/100 g EPDM,3,04/05,(Equation 6)
+25,Retinol,RETOL,ug,/100 g EPDM,3,04/05,
+26,Beta-carotene,CARTBEQ,ug,/100 g EPDM,3,04/05,
+27,equivalent,,,,,,
+28,Alpha-carotene,CARTA,ug,/100 g EPDM,3,04/05,
+29,Beta-carotene,CARTB,ug,/100 g EPDM,3,04/05,
+30,Beta-,CRYPXB,ug,/100 g EPDM,3,04/05,
+31,cryptoxanthin,,,,,,
+32,Alpha-,TOCPHA,mg,/100 g EPDM,2,04/05,
+33,Tocopherol,,,,,,
+34,Inositol,IP3,mg,/100 g EPDM,3,04/05,
+35,triphosphate,,,,,,
+36,Inositol,IP4,mg,/100 g EPDM,3,04/05,
+37,tetraphosphate,,,,,,
+38,Inositol,IP5,mg,/100 g EPDM,3,04/05,
+39,pentaphosphate,,,,,,
+40,Inositol,IP6,mg,/100 g EPDM,3,04/05 Not preferred tagnames:,04/05 Not preferred tagnames:
+41,hexaphosphate,,,,,,"PHYTCPPD,phytic acid,"
+42,,,,,,,determined by direct
+43,,,,,,,"preciptation; PHYTCPP, phytic"
+44,,,,,,,"acid,calc. from phytate"
+45,,,,,,,"phosphorus,anion exchange"
+46,,,,,,,"method;PHYTPPI,Phytate"
+47,,,,,,,determined by indirect
+48,,,,,,,preciptation

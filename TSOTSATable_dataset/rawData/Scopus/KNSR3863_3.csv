@@ -1,0 +1,61 @@
+,0,1,2,3,4
+0,,proximate,content (min-max),,
+1,moisture (%),,5.9130.12,,
+2,protein (%),,17.11-30.34,,
+3,ashes%,,1.933.42,,
+4,lipids (%),,1.9511.55,,
+5,carbohydrates (%),,13.0272.23,,
+6,sugars (g/100 g),,,,
+7,fructose,,0.99419.73,,
+8,glucose,,8.8212.40,,
+9,maltose,,0.945-1.244,,
+10,sucrose,,0.8451.492,,
+11,trehalose,,0.544-0.921,,
+12,melezitose,,0.971.15,,
+13,raffinose,,0.961.24,,
+14,polyphenols,,,,
+15,total phenolic content (mg of GAE/g),total phenolic content (mg of GAE/g),2.53-13.75,,
+16,total flavonoid content (mg of QE/g),total flavonoid content (mg of QE/g),1.94-4.51,,
+17,TEAC (umol of Trolox/g),TEAC (umol of Trolox/g),46.13-76.38,,
+18,FRAP (umol of Trolox/g),FRAP (umol of Trolox/g),35.03-70.17,,
+19,amino acids (g/100 g),,,,
+20,essential amino acids,essential amino acids,,non-essential amino acids,
+21,arginine,,0.11-2.76,alanine,0.5-1.7
+22,histidine,,0.821.21,aspartic acid,1.45.2
+23,isoleucine,,0.450.94,glutamic acid,0.2-1.7
+24,leucine,,0.16-2.13,glycine,0.4-1.4
+25,lysine.,,0.53-0.89,proline,1.522.2
+26,methionine,,0.14-0.53,serine,0.6-2.2
+27,phenylalanine,,1.89-3.32,tyrosine,0.6-1.6
+28,threonine,,0.18-2.01,asparagine,2.47-5.89
+29,tryptophan,,0.141.42,glutamine,0.040.34
+30,valine,,0.171.20,,
+31,fatty acids (g/100 g),,,,
+32,C4:0 butyric acid,,0.751.29,C20:1 eicosenoic acid,0.286.28
+33,C6:0 caproic acid,,0.080.35,C21:1 heneicosenoic acid,0.39-0.43
+34,C8:0 caprylic acid,,0.020.34,C20:2 eicosadienoic acid,0.081.73
+35,C10:0 capric acid,,0.02-0.19,C20:3 dihomo-y-linolenic acid,0.022.10
+36,C11:0 undecanoic acid,C11:0 undecanoic acid,0.070.90,C20:3 eicosatrienoic acid,0.47-0.52
+37,C12:0 lauric acid,,0.056.15,C20:4 arachidonic acid,0.02-25.12
+38,C14:0 myristic acid,,0.211.36,C22:0 behenic acid,0.08-2.60
+39,C15:0 pentadecanoic acid,C15:0 pentadecanoic acid,0.140.53,C22:1 erucic acid,0.11-5.43
+40,C16:0 palmitic acid,,10.2138.69,C22:6 docosahexaenoic acid,0.04-0.29
+41,C16:1 palmitoleic acid,C16:1 palmitoleic acid,0.051.14,C23:0 tricosanoic acid,0.585.61
+42,C17:0 heptadecanoic acid,C17:0 heptadecanoic acid,0.20-0.91,C20:5 eicosapentaenoic acid,0.050.64
+43,C17:1 heptadecenoic acid,C17:1 heptadecenoic acid,0.110.49,C24:0 lignoceric acid,0.031.65
+44,C18:0 stearic acid,,1.316.40,C24:1 nervonic acid,0.08-1.21
+45,C18:1 cis-oleic acid,,3.9021.25,SFA,23.15-28.68
+46,C18:2 trans-linoelaidic acid,C18:2 trans-linoelaidic acid,0.030.22,UFA,71.03-77.32
+47,C18:2 cis-linoleic acid,C18:2 cis-linoleic acid,6.2636.96,MUFA,31.11-72.15
+48,C18:3 -linolenic acid,C18:3 -linolenic acid,0.17-40.02,PUFA,45.54-64.70
+49,C20:0 arachidic acid,C20:0 arachidic acid,0.614.7,,
+50,minerals (mg/kg),,,,
+51,macrominerals,,,microminerals,
+52,potassium (K),,3380.217551.54,zinc(Zn),44.91-331.03
+53,calcium (Ca),,1455.211980.21,iron (Fe),119.52-273.61
+54,phosphorus(P),,2510-6577.11,manganese (Mn),37.27-890.20
+55,magnesium (Mg),magnesium (Mg),610.21-2000.20,copper(Cu),6.80-7.20
+56,sodium (Na),,115.70-155.51,selenium (Se),0.18-0.90
+57,vitamins (mg/100 g),,,,
+58,fat soluble,,,water soluble,
+59,tocopherols (vitamin E),tocopherols (vitamin E),10.0111.22,vitamin C,10.87-11.52

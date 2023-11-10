@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,food,Name,Name,Size,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,code,Kiswahili,English,,bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,,,Kidney bean broth with,,,,,,,,,,
+3,874,supu ya maharage na mafuta,oil,Std,400,,200,,,20,60,,
+4,,,Kidney bean broth with,,,,,,,,,,
+5,874,supu ya maharage na mafuta,oil,A,,,,,,,,,60
+6,878,supu ya maboga bila mafuta,Pumpkin leaf broth no oil,Std,400,,200,,,20,60,,
+7,878,supu ya maboga bila mafuta,Pumpkin leaf broth no oil,A,,,,,,,,,60
+8,878,supu ya maboga bila mafuta,Pumpkin leaf broth no oil,Std,400,,200,,,20,60,,
+9,878,supu ya maboga bila mafuta,Pumpkin leaf broth no oil,A,,,,,,,,,60
+10,879,supu ya dagaa na mafuta,Sardines broth with oil,Std,400,,200,,,20,60,,
+11,879,supu ya dagaa na mafuta,Sardines broth with oil,A,,,,,,,,,60
+12,,,Green pea broth with,,,,,,,,,,
+13,880,supu ya njegere na tui la nazi,coconut,Std,400,,200,,,20,60,,
+14,,,Green pea broth with,,,,,,,,,,
+15,880,supu ya njegere na tui la nazi,coconut,A,,,,,,,,,60
+16,,supu ya majani ya kunde na,Cow pea leaf broth with,,,,,,,,,,
+17,881,mafuta,oil,Std,400,,200,,20,,60,,
+18,, supu ya majani ya kunde na,Cow pea leaf broth with,,,,,,,,,,
+19,881,mafuta,oil,A,,,,,,,,,60
+20,951, ndizi zilizopikwa na mafuta,Banana with oil,Std,420,,,500,,,300,,
+21,951,ndizi mbichi na mafuta,Banana with oil,A,,,,,,,,,515
+22,,ndizi zilizopikwa na tui la nazi,Banana with meat and,,,,,,,,,,
+23,952,na nyama,coconut milk,Std,420,,,500,,,300,,
+24,,ndizi zilizopikwa na nazi tui la,Banana with meat and,,,,,,,,,,
+25,952,na nyama,coconut milk,A,,,,,,,,,515
+26,953,ndizi zilizopikwa na nyama,Banana with meat,Std,420,,,500,,,300,,
+27,953,ndizi zilizopikwa na nyama,Banana with meat,A,,,,,,,,,515
+28,954,ndizi zilizopikwa na korosho,Banana with cashewnuts,Std,420,,,500,,,300,,

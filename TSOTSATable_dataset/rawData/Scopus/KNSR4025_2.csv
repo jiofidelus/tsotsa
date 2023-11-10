@@ -1,0 +1,7 @@
+,0,1
+0,Field Name,Description
+1,NDB Not,5-Digit Nutrient Databank number that uniquely identifies a
+2,,food item. Foods in the UsDA Database on the
+3,,Proanthocyanidin content of Foods which do not have
+4,,corresponding entries in SR* are assigned NDB Nos. starting
+5,,with either99'or'97.

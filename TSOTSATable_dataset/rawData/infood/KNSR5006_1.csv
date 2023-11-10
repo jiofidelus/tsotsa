@@ -1,0 +1,53 @@
+,0,1,2,3
+0,,included in the food composition table,,
+1,Constituent,,Unit,
+2,,(per 100 gram edible food),(per 100 gram edible food),(per 100 gram edible food)
+3,Waste,,,gram
+4,Moisture,,,gram
+5,Energy,kiloJoule and kilocalorie,kiloJoule and kilocalorie,kiloJoule and kilocalorie
+6,Protein,,,gram
+7,Fat,,,gram
+8,Total,,,
+9,Saturated fatty acids (SFA),Saturated fatty acids (SFA),,
+10,Mono-unsaturated fatty acids (MUFA),Mono-unsaturated fatty acids (MUFA),,
+11,Polyunsaturated fatty acids (PUFA),Polyunsaturated fatty acids (PUFA),,
+12,Linoleic acid (Lin),Linoleic acid (Lin),,
+13,Cholesterol (Chol),Cholesterol (Chol),,milligram
+14,Carbohydrate,,,gram
+15,Total,,,
+16,Mono- and disaccharides (mono + di),Mono- and disaccharides (mono + di),,
+17,Polysaccharides (poly),Polysaccharides (poly),,
+18,Fibre,,,
+19,Alcohol (alc),,,gram
+20,Ash,,,gram
+21,Minerals,,,milligram
+22,Calcium (Ca),Calcium (Ca),,
+23,Iron,,,
+24,Phosphorus (P),Phosphorus (P),,
+25,Potassium (K),Potassium (K),,
+26,Sodium (Na),Sodium (Na),,
+27,Vitamins,,,
+28,Retinoids and carotenoids,Retinoids and carotenoids,,microgram
+29,Retinol,,,
+30,3-carotene (B),3-carotene (B),,
+31,Other provitamin A carotenoids,Other provitamin A carotenoids,,
+32,"Thiamin (B,)",,,milligram
+33,"Riboflavin (B,)","Riboflavin (B,)",,milligram
+34,Pyridoxin (B.),Pyridoxin (B.),,milligram
+35,"Vitamin B,2",,,microgram
+36,Nicotinic acid (niacin),Nicotinic acid (niacin),,milligram
+37,Folic acid,,,microgram
+38,Ascorbic acid (Vitamin C),Ascorbic acid (Vitamin C),,milligram
+39,Amino acids,,,milligram
+40,Nitrogen,,,gram
+41,Total amino acids,Total amino acids,,milligram
+42,Total essential amino acids,Total essential amino acids,,
+43,Cystine (Cys),Cystine (Cys),,
+44,Isoleucine (lle),Isoleucine (lle),,
+45,Leucine (Leu),Leucine (Leu),,
+46,Lysine (Lys),Lysine (Lys),,
+47,Methionine (Met),Methionine (Met),,
+48,Phenylalanine (Phe),Phenylalanine (Phe),,
+49,Threonine (Thr),Threonine (Thr),,
+50,Tyrosine (Tyr),Tyrosine (Tyr),,
+51,,,,(continued)

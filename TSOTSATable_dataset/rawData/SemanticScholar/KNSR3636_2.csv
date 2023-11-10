@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7
+0,,,,Matching with original name,,,Matching with English-translated name,
+1,arget,Item type,Threshold,Precision (%),Recall (%),Threshold,Precision (%),Recall (%)
+2,recision>=75%,Any,50,88.75,99.49,50,79.11,100.00
+3,recision>=75%,directly mappable,50,97.34,100.00,50,95.53,100.00
+4,recision>=75%,Others,63,76.84,50.00,75,78.49,34.81
+5,recision >= 80%,Any,50,88.75,99.49,50,79.11,100.00
+6,recision >= 80%,directly mappable,50,97.34,100.00,50,95.53,100.00
+7,recision >=80%,Others,65,80.25,44.52,80,89.78,21.73

@@ -1,0 +1,29 @@
+,0,1,2,3,4
+0,Cereal germ,Sorghum,Wheat,Maize,Rice
+1,resource,,,,
+2,SFA (g/100 g lipid),,,,
+3,Palmitic acid,14.0,11.0-17.0,15.6,20.6
+4,16:0,,,,
+5,Stearic acid,1.1,0.6-3.6,1.5,1.9
+6,18:0,,,,
+7,SFA,15.1,17.1,17.1,22.5
+8,USFA (g/100 g lipid,USFA (g/100 g lipid,,,
+9,Palmitoleic,0.30,,,0.2
+10,acid16:1,,,,
+11,Oleic acid,32.2,14.0-25.0,32.3,31.7
+12,18:1,,,,
+13,Linoleic acid,51.1,49.0-60.0,49.6,41.9
+14,"18:2,n-6",,,,
+15,Linolenic acid,1.4,4.0-10.0,0.7,2.0
+16,"18:3,n-3",,,,
+17,EPA and DHA,,,0.6,
+18,20:5 and,,,,
+19,"22:6,n-3",,,,
+20,MUFA,32.5,16.5,32.3,31.9
+21,PUFA,53.1,64.9,50.9,43.9
+22,n-6/n-3 PUFA,36.5,4.9-15.0,38.2,21.0
+23,PUFA/SFA,3.5,3.8,3.0,2.0
+24,Ref.,"(Hadbaoui,","(Ghafoor,","(Saoussem,","(Rondanelli,"
+25,,"Djeridane,","et al.,","Sadok,Habib","et al.,2019"
+26,,YousfiSaidi,2017),&Mayer,
+27,,"Nadjemi,2010",,2009),

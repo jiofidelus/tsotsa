@@ -1,0 +1,17 @@
+,0,1,2,3
+0,Nutrient,Uncertainty of Measurement),Negligible Amount,Nutrition Declaration
+1,Vitamins,+50%*-35%,N/A,N/A
+2,Minerals,+45%-35%,N/A,N/A
+3,"Carbohydrates,",1040 g per 100 g: 20%,No detectable amount is present or concentration,0 g or<0.5 g
+4,"Sugars, Protein",>40 g per 100 g: 8 g,is<0.5 g per 100 g or per 100 mL,0 g or<0.5 g
+5,,<10 g per 100 g:2 g,,
+6,Fibre,10-40 g per 100 g: 20%,N/A,N/A
+7,,>40 g per 100 g: 8 g,,
+8,,<10 g per 100 g: 1.5 g,,
+9,Fat,1040 g per 100 g: 20%,,0 g or<0.5 g
+10,,>40 g per 100 g: 8 g,,
+11,Saturates,>4 g per 100 g: 20%,,0 g or <0.1 g
+12,"Mono-unsaturates,",<4 g per 100 g: 0.8 g,,
+13,Polyunsaturates,>4 g per 100 g: 20%,,
+14,Sodium,>0.5 g per 100 g: 20%,N/A,N/A
+15,Salt,>1.25 g per 100 g: 20%,,0 g or<0.01 g

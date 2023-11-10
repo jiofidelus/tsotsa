@@ -1,0 +1,62 @@
+,0,1,2,3,4
+0,Food,Species,Compounds,Production,References
+1,,,,system,
+2,Rye,Secale cereale,Proteins,,"Magkos,"
+3,,,,Conventional,"Arvaniti, &"
+4,,,,,"Zampelas,"
+5,,,,,2003
+6,Wheat,Triticum,Proteins,1,"Magkos,"
+7,, aestivum L.,,Conventional,"Arvaniti, &"
+8,,,,,"Zampelas,"
+9,,,"Proteins, amino",,"et al.,2014"
+10,,Triticum,acids content,No effects,
+11,, aestivum L.,,,"Mader et al.,"
+12,,,,,2007
+13,Corn,Zea mays,Proteins,1,"Magkos,"
+14,,L.,,Conventional,"Arvaniti,&"
+15,,,,,"Zampelas,"
+16,, Zea mays.,"Proteins, amino",,"2003Rohlig,&"
+17,,,acids content,No effects,"Engel,2010"
+18,Carrots,Daucus,"Proteins, free",No effects,"Magkos,"
+19,, carota subsp.,amino acids,Conventional,"Arvaniti,&"
+20,,sativus,,,2003
+21,Beetroots,Beta vulgaris,"Proteins, free",1,"Magkos,"
+22,,,amino acids,Conventional,"Arvaniti, &"
+23,,,,,2003
+24,Spinach,Spinacia,"Proteins, free",1,"Magkos,"
+25,,oleracea,amino acids,Conventional,"Arvaniti, &"
+26,,,,,2003
+27,Potatoes, Solanum,"Proteins, free",1,"Magkos,"
+28,Potatoes,tuberosum,amino acids,Conventional,"Arvaniti, &"
+29,,L.,,,"Zampelas,"
+30,, Solanum,Essential amino,Organic,2003Maggio
+31,, Solanum,"acids, threonine",Organic,"et al.,"
+32,,tuberosum,,Organic,"2008Carillo,"
+33,,"L., cv. Agria,",Essential amino,,"Cacace,De"
+34,,Merit,"acids, leucine,",,"Pascale,"
+35,,,"phenylalanine,", Organic.,Rapacciuolo
+36,,,tryptophan and,,"Fuggi,"
+37,,Solanum,valine,,2012Dos
+38,,tuberosum,"Proteins, amino",,"Santos et al.,"
+39,,"L., cv. Agria","Proteins, amino",,2019
+40,,,acids content,,
+41,,,,No effects,
+42,,Ipomoea,,,
+43,Tomatoes, Solanum,"Proteins, free",1,"Magkos,"
+44,,lycopersicum,amino acids,Conventional,"Arvaniti,&"
+45,,L.,,,"Zampelas,"
+46,,Lycopersicon,acids content,No effects,"Barrett,2009"
+47,,"esculentum,",acids content,No effects,
+48,,var.AB2,,,
+49,Kiwifruit,Actinidia,"Proteins, amino",No effects,"D'Evoli et al.,"
+50,,"deliciosa, cv.",acids content,,2013
+51,,Hayward,,,
+52,Yellow,Prunus,"Proteins, amino",No effects,Lombardi-
+53,plums," domestica L.,",acids content,,"Boccia,"
+54,,cv. Shiro,,,"Lanzi, Aguzzi,"
+55,,,,,2004
+56,Eggplants, Solanum,"Proteins, amino",No effects,"Raigon,"
+57,, melongena,acids content,,Rodriguez-
+58,, melongena,,,"Burruezo, &"
+59,,,,,"Prohens,2010"
+60,Zucchini,,,No effects,

@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Food,Code,Letter,Name,Calcium,Phos-,Magnes.,Potass-,Iron,Zinc,Carot-,Vitamin,Source of
+1,group,Code,code,Name,Calcium,phorus,ium,ium,Iron,Zinc,ene,c,data
+2,,,,,mg,mg,mg,mg,mg,mg,g,mg,
+3,275,4054,CB,"Milk, fresh and sugar",120,87,11,149,0.1,0.3,80,2,c
+4,275,4056,CD,"Milk, sour and sugar",120,87,11,149,0.1,0.3,80,2,c
+5,276,4072,CT,"Milk,tinned (for example'Peak'brand)",280,220,30,396,0.2,1.1,50,1,L
+6,276,4064,CL,"Milk,tinned and water",126,99,13,160,0.1,0.3,40,1,c
+7,276,4061,CI,"Milk, tinned, and sugar and water",118,86,12,151,0.1,0.3,40,1,c
+8,280,4111,EG,Egg,55,220,12,134,2.0,1.5,0,0,L
+9,14. - Oils and Fats,14. - Oils and Fats,,,,,,,,,,,
+10,279,4557,VK,Groundnut oil,0,0,0,0,0,0,0,0,L
+11,279,4120,EP,Vegetable oil,0,0,0,0,0,0,0,0,L
+12,278,4554,VH,Palm oil,0,0,0,0,0.4,0,65490,0,L
+13,279,4067,co,Butter,15,24,2,18,0.2,0.2,430,0,L
+14,15. - Sugar,15. - Sugar,,,,,,,,,,,
+15,284,4539,US,Sugar,2,0,5,59,0,0,0,0,L
+16,284,4523,UC,Sugar cane,10,6,2,24,0,0,0,0,L
+17,284,4522,UB,Honey,11,4,2,55,0.6,0,0,0,L
+18,16. - Water and Salt,16. - Water and Salt,16. - Water and Salt,,,,,,,,,,
+19,282,4592,WT,Water,1,0,1,0,0,0,0,0,A
+20,282,4581,WI,Water and salt,3,0,18,9,0.1,0,0,0,c
+21,282,4180,GX,"Water, salt and sugar",3,0,17,11,0.0,0,0,0,c
+22,283,4584,WL,"Salt, local",275,5,333,171,1.6,0,0,0,A
+23,283,4598,WZ,Maggi cube,40,240,32,490,1.2,0.8,0,0,L
+24,17. - Drinks,17. - Drinks,,,,,,,,,,,
+25,268,4571,VY,Baobab and water (baobab juice/milk)(Sita jio),47,4,24,134,0.3,0.7,0,58,c
+26,268,4591,WS,Baobab ice/drink,47,4,24,134,0.3,0.7,0,58,c
+27,268,4590,WR,Wonjo (sorrel) ice/drink,58,22,3,0,1.4,0.0,100,5,c
+28,283,4123,ES,Tea and sugar,1,1,1,21,0.0,0.0,0,0,c
+29,283,4124,ET,"Tea, milk and sugar",38,28,4,61,0.0,0.1,0,0,c
+30,283,4122,ER,"Tea, tinned milk and sugar",17,18,3,46,0.0,0.1,10,0,c
+31,283,4125,EU,Coffee.instant(made up).tinned milk and suaa,18,18,8,84,0.0,0.1,10,0,c

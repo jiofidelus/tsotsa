@@ -1,0 +1,8 @@
+,0,1,2,3,4
+0,Analyte,Precursor Ion (m/z),Product Ion (m/z),Cone Voltage (V),Collision Energy (V)
+1,Acetaldehyde,223.1,151.1,18,10
+2,Crotonaldehyde,249.05,172.1,20,14
+3,Formaldehyde,209.05,163.1,14,6
+4,Acetaldehyde-d4,227.15,151.1,18,8
+5,Crotonaldehyde-DNPH-d3,252.05,175.2,18,14
+6,Formaldehyde-d2,210.95,163.1,16,8

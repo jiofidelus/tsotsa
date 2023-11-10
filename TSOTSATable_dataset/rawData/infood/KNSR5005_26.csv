@@ -1,0 +1,37 @@
+,0,1,2
+0,ID/Tagname,,
+1,Niacin,,
+2,NIAEQ(mg),"niacin equivalents, total",mg
+3,NIATRP(mg),niacin equivalents from tryptophan,mg
+4,NIA(mg),"niacin, preformed",mg
+5,NIA-(mg),niacin; method or form unknown,mg
+6,Pantothenic acid,,
+7,PANTAC(mg),pantothenic acid,mg
+8,Vitamin B6,,
+9,VITB6A(mg),"vitamin B-6, total; determined by analysis",mg
+10,VITB6-(mg),"vitamin B-6,method unknown or variable",mg
+11,VITB6C(mg),"vitamin B-6, calculated",mg
+12,PYRXN(mg),pyridoxine,mg
+13,PYRXNHCL(mg),pyridoxine hydrochloride,mg
+14,Vitamin B12,,
+15,VITB12(mcg),vitamin B-12,mcg
+16,Biotin,,
+17,BIOT(mcg),biotin,mcg
+18,Vitamin C,,
+19,VITC(mg),vitamin C,mg
+20,ASCL(mg),L-ascorbic acid,mg
+21,ASCDL(mg),L-dehydroascorbic acid,mg
+22,VITC-(mg),vitamin C;method unknown or variable,mg
+23,Sterols,,
+24,STERT(mg),"sterols, total",mg
+25,Plant sterols,,
+26,BRASTR(mg),brassicasterol,mg
+27,CAMT(mg),"campesterol, total",mg
+28,SAPON(mg),saponins,mg
+29,SITSTR(mg),sitosterol,mg
+30,SQUAL(mg),squalene,mg
+31,STGSTR(mg),"stigmasterol, unspecified",mg
+32,Cholesterol,,
+33,CHOLE(mg),cholesterol; determined by enzymatic or chromatographic method,mg
+34,CHOL-(mg),cholesterol; method unknown or variable,mg
+35,CHOLEST(mg),"cholesteryl-ester, total",mg

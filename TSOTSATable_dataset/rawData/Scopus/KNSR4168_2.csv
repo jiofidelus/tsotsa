@@ -1,0 +1,8 @@
+,0,1,2,3,4,5
+0,Treatment,"Supplemental amino acid, g/100 g diet","Supplemental amino acid, g/100 g diet",,,Total
+1,,L-Isoleucine,L-Leucine,L-Valine,L-Alanine,"nitrogen,"
+2,,L-Isoleucine,L-Leucine,L-Valine,L-Alanine,mmol N/
+3,,,,,,100g
+4,Control,0.00,0.00,0.00,2.149,24.12
+5,1.535% BCAA,0.32,0.82,0.395,1.07,24.12
+6,3.07% BCAA,0.64,1.64,0.79,0.00,24.12

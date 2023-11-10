@@ -1,0 +1,43 @@
+,0,1,2,3,4,5
+0,Plant of spice,Source of SEOs or extraction,Target filamentous fungi species,MIC value,MIC determination/treatment method,References
+1,Clove,Plant,Aspergillus. ochraceus,MIC0.156l/ml,disc diffusion and well diffusion,"Moghadam et al.,2019"
+2,Star anise,Fruit,Penicillium expansum,,Vapor contact assay,"da Rocha Neto et al.,2019"
+3,Star anise,Fruit,Aspergillus flavus,,agar diffusion,"Aly et al.,2016"
+4,,,Aspergillus parasiticus,,,
+5,,,Fusarium verticillioides,,,
+6,Fennel,Fruit and flower,Aspergillus flavus,MIC:0.125l/ml,broth,"Abdurahim et al.,2017"
+7,,,Aspergillus niger,MIC:0.125l/ml,macro-dilution,
+8,,,Microsporum canis,MIC:<0.0625l/ml,,
+9,Cinnamon,Bark,Aspergillus niger,MIC:250 l/L,,
+10,,,Saccharomyces cerevisiae,MIC:31.25 l/L,direct contact assay,"Liu et al.,2021"
+11,Thyme,Plant,Aspergillus niger,MIC:0.20 l/mL,macro-dilution,"Debonne et al.,2018"
+12,,,Penicillium paneum,MIC:0.20 l/mL,,
+13,Coriander,Seeds,Byssochlamys Fulva,,broth,"Zamindar et al.,2016"
+14,,,,,macrodilution,
+15,Caraway,Seeds,Aspergillus ochraceus,,disc diffusion and well diffusion,"Moghadam et al.,2019)"
+16,Dill,Seeds,Aspergillus flavus,MIC:2.0g/mL,poisoned food technique,Tian et al.2011
+17,,,Aspergillus oryzae,MIC: 2.0 g/mL,,
+18,,,Aspergillus niger,MIC:2.0 g/mL,,
+19,,,Alternaria alternata,MIC: 2.0 g/mL,,
+20,Sweet basil,Plant,Fusarium oxysporum,,PDA medium disc technique,"Hassanin et al.,2017"
+21,Laurel,Plant,Aspergillus clavatus,MIC: 0.05 mg/mL,disc diffusion,"Mssillou et al.,2020"
+22,,,Aspergillus niger,MIC: 0.14 mg/mL,,
+23,,,Chaetomium globosum,MIC:0.18 mg/mL,,
+24,,,Cladosporium cladosporioides,MIC:0.25 mg/mL,,
+25,,,Myrothecium verrucaria,MIC:0.29 mg/mL,,
+26,,,Penicillium citrinum,MIC: 0.36 mg/mL,,
+27,,,Trichoderma viride,MIC: 0.46 mg/mL,,
+28,Garlic,Bulb,Aspergillus parasiticus,MIC:0.0086 mg/mL,disc diffusion,"Bocate et al.,2021"
+29,,,Fusarium verticillioides,MIC: 0.0690 mg/mL,,
+30,,,Gibberella zeae,MIC: 0.0086 mg/mL,,
+31,Pepper,Berries,Aspergillus flavus,MIC: 2 mg/mL,Micro-well dilution,"Li et al.,2020"
+32,Assafoetida,Seeds,Aspergillus sp.,MIC:0.12 g/mL,disc diffusion,"Zomorodian et al.,2018"
+33,,,Pseudallescheria boydii,MIC: 0.12 g/mL,,
+34,,,Penicillium marneffei,MIC:1 g/mL,,
+35,,,Exophiala dermatitidis,MIC: 0.25 g/mL,,
+36,Lemongrass,Plant,Fusarium moniliforme,MIC:30 ppm,disc diffusion,"Ishaq et al.,2017"
+37,,,Drechslera indica,MIC:20 ppm,,
+38,,,Drechslera tripogonis,MIC:30 ppm,,
+39,,,Aspergillus fumigates,MIC:30 ppm,,
+40,,,Curvularia lunata,MIC:30 ppm,,
+41,,,Aspergillus flavus,MIC55ppm,,

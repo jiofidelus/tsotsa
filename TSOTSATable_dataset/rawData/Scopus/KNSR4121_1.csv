@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,E. coli Strain,"LAB Species, Strain",Source/Model,Agent/Bioactive,Mode of Action,References
+1,E. coli Strain,"LAB Species, Strain",System,Molecule,Mode of Action,References
+2,,"Lc. casei strain Shirota,",,"Low pH,",Growth inhibitory and,
+3,O157:H7,L.acidophilus YIT 0070,"Yakult, Japan",undissociated,bactericidal activities,[69]
+4,,L.acidophilus YIT 0070,,lactic acid,bactericidal activities,
+5,O157:H7,L.lactis,Raw chicken meat,HO2,Growth inhibition,[72]
+6,,Li.reuteri ATCC PTA 6475,,Adhesins MUB,Mucus layer binding,
+7,O127:H6,ATCC 53608,"Human, pig","CmbA,MapA",adherence decrease,[73]
+8,,,,,Decreased E.coli,
+9,O157H7,Li.reuteri ATCC PTA 6475,Germfree mice,Reuterin,"colonization, amended",[74]
+10,,,,,necrosis of the kidneys,
+11,O157H7,L.acidophilus NP51,Cattle,Reuterin,E.coli in cattle feces,[75]
+12,EDL933,"Lc.casei LCwt,LC CLA",Batch fermentation,linoleic acid,EHEC virulence genes,[76]

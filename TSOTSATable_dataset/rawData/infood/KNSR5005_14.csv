@@ -1,0 +1,46 @@
+,0,1,2
+0,component,componentname,Onit
+1,ID/Tagname,,
+2,F4D0(g),fatty acid 4:0,g
+3,F6DO(g),fatty acid 6:0,g
+4,F8D0(g),fatty acid 8:0,g
+5,F10DO(g),fatty acid 10:0,g
+6,F11DO(g),fatty acid 11:0,g
+7,F12D0(g),fatty acid 12:0,g
+8,F13DO(g),fatty acid 13:0,g
+9,F13DOi(g),fatty acid 13:0 iso,g
+10,F14DO(g),fatty acid 14:0,g
+11,F14DOI(g),fatty acid 14:0 iso,g
+12,F15D0(g),fatty acid 15:0,g
+13,F15DOI(g),fatty acid 15:0 iso,g
+14,F15D0AI(g),fatty acid 15:0 anteiso,g
+15,F16DO(g),fatty acid 16:0,g
+16,F16DOI(g),fatty acid 16:0 iso,g
+17,F16DOAI(g),fatty acid 16:0 anteiso,g
+18,F17DO(g),fatty acid 17:0,g
+19,F17DOI(g),fatty acid 17:0 iso,g
+20,F17DOAIl(g),fatty acid 17:0 anteiso,g
+21,F18DO(g),fatty acid 18:0,g
+22,F18DOI(g),fatty acid 18:0 iso,g
+23,F18DOAI(g),fatty acid 18:0 anteiso,g
+24,F19DO(g),fatty acid 19:0,g
+25,F20DO(g),fatty acid 20:0,g
+26,F21DO(g),fatty acid 21:0,g
+27,F22D0(g),fatty acid 22:0,g
+28,F23D0(g),fatty acid 23:0,g
+29,F24D0(g),fatty acid 24:0,g
+30,F26DO(g),fatty acid 26:0,g
+31,F30D0(g),fatty acid 30:0,g
+32,F1OD1(g),fatty acid 10:1,g
+33,F12D1(g),fatty acid 12:1,g
+34,F14D1N9(g),fatty acid 14:1 n-9,g
+35,F14D1N7(g),fatty acid 14:1 n-7,g
+36,F14D1C(g),fatty acid 14:1 cis,g
+37,F14D1CN5(g),fatty acid 14:1 cis n-5,g
+38,F14D1N5(g),fatty acid 14:1 n-5,g
+39,F14D1T(g),fatty acid 14:1 trans,bo
+40,F14D1(g),fatty acid 14:1,g
+41,F15D1C(g),fatty acid 15:1 cis,g
+42,F15D1N10(g),fatty acid 15:1 n-10,g
+43,F15D1N9(g),fatty acid 15:1 n-9,g
+44,F15D1N8(g),fatty acid 15:1 n-8,g

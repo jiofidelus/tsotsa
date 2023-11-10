@@ -1,0 +1,26 @@
+,0,1,2,3,4
+0,,,B,p,Padj
+1,Protein,Non-processed Meat,0.035,0.300,0.703
+2,,Processed Meat,0.041,0.331,0.703
+3,,Poultry,0.025,0.458,0.734
+4,,Seafood High in w-3,-0.011,0.851,0.928
+5,,Seafood Low in w-3,0.090,0.116,0.629
+6,,Eggs,0.035,0.582,0.764
+7,,Nuts,0.002,0.967,0.969
+8,,Legumes,0.021,0.631,0.764
+9,,Total Protein Foods,0.076,0.168,0.629
+10,Vegetables,Dark Green Vegetables,0.126,0.060,0.629
+11,,Red and Orange Vegetables,0.088,0.360,0.703
+12,,Starchy Vegetables,0.047,0.526,0.764
+13,,Other Vegetables,0.066,0.369,0.703
+14,,Total Vegetables,-0.080,0.210,0.629
+15,Grains,Whole Grains,-0.011,0.147,0.922
+16,,Refined Grains,0.063,0.180,0.629
+17,,Total Grains,0.016,0.807,0.629
+18,Dairy,Milk,0.033,0.637,0.764
+19,,Cheese,-0.051,0.410,0.703
+20,,Yogurt,0.047,0.386,0.703
+21,,Total Dairy,0.038,0.575,0.764
+22,Miscellaneous,Total Choline,0.111,0.208,0.629
+23,,Total Fiber,0.087,0.185,0.629
+24,,HEI Total Score,<0.001,0.969,0.969

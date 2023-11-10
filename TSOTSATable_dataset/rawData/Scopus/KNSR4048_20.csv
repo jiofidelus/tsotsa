@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33
+0,Application,,Objectives,,,,,,,,,,Al technique,Al technique,Al technique,Al technique,,,,,Important outcomes,,,,,,,,,References,,,,
+1,Tea,,To classify the Iranian green and black tea,,,,,,,,,,DT-FL,DT-FL,,,,,,,(i) REP decision tree was shown to be more con-,,,,,,,,,Bakhshipour et al. [251],Bakhshipour et al. [251],Bakhshipour et al. [251],,
+2,,,,,,,,,,,,,,,,,,,,,venient compared to the J48 tree for developing a,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,,,fuzzy classifier system,,,,,,,,,,,,,
+4,,,,,,,,,,,,,,,,,,,,,(iiThe research successfully showed that DT-based,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,,,fuzzy systems can be applied for automated intel-,,,,,,,,,,,,,
+6,,,,,,,,,,,,,,,,,,,,,ligent classification of Iranian green tea and black,,,,,,,,,,,,,
+7,,,,,,,,,,,,,,,,,,,,,rea,,,,,,,,,,,,,
+8,Tomato,,To detect the maturity of the fresh tomato,,,,,,,,,,ANN,ANN,,,,,,,(i) The maturity of the tomato was able to be,,,,,,,,,Wan et al. [252],,,,
+9,,,,,,,,,,,,,,,,,,,,,detected by using the developed system with,,,,,,,an,,,,,,
+10,,,,,,,,,,,,,,,,,,,,,accuracy of 99.31% and 1.2% of standard devia-,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,,,,,,tion,,,,,,,,,,,,,
+12,Vegetable seeds,Vegetable seeds,To classify the vegetable seeds,To classify the vegetable seeds,To classify the vegetable seeds,,,,,,,,FL,,,,,,,,(i) The system can classify the two different types,,,,,,,,,Garcia et al. [253],Garcia et al. [253],,,
+13,,,,,,,,,,,,,,,,,,,,,of seeds that look similar which are cauliflower,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,,,,,,seed and Chinese cabbage seed,seed and Chinese cabbage seed,seed and Chinese cabbage seed,,,,,,,,,,,
+15,next 10 years based on the current trends. Among the rising,increase from 2015 to 2020 and is predicted to rise for the,The overall trend on the application of AI in the food indus.,Industry in the Future,Trends on the Application of Al in the Food, of the AI model in food industry application.,Figure 11 shows the guideline in choosing and developmen,should return to the previous step and reselect the algorithm,"successfully once the validation is accepted; otherwise, user:",of the established model. The AI model has been create,based on R2 and MSE are done to analyze the performance,"with the AI algorithms. Finally, the testing and validatior","rithm has been confirmed, the data available are integratec", algorithm for their studies. Once the selection of the algo,complexity of the research in selecting the most appropriate,algorithms. It is advisable for the users to determine the,of the model makes it less favorable compared to the othe,"has shown to have a higher accuracy, but the complexity","include the FL, ANN, ANFIS, and ML methods. ANFIS",the most common AI algorithms that have been employe,"collecting the data from the samples. Normally, integratior","be made whether sensors such as E-tongue, E-nose, CVS","AI applications in the food industries. Next, decision shoule","terants, and estimation are among the common objectives o","Prediction, classification, quality control, detection of adul", objective of using AI in their research or implementation, selection process is that users should define and finalize th,best performances in a case study. The primary step in the,line given in Fig. 3 is an important asset prior to achieving,Selecting the appropriate algorithm is important wher,Method,Guidelines on Choosing the Appropriate AI,in Table 10.,that each of the algorithm exhibits are explained briefly

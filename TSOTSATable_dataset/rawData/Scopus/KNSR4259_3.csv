@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7
+0,UV-VIS method,,,,,MF-17 (RI 3.5),MF-18 (RI 5.0),MF-19 (RI 2.3)
+1,Folin-Ciocalteu,mg GA/kg,,,,675.4  51.0 a,705.9  20.8 a,793.1  46.5 b
+2,orto-Diphenols,mgGA/kg,,,,196.7  34.8 a,226.5  14.0 a,214.5  14.9 a
+3,Antioxidant,umol Trolox/kg,,,,2678.4  269.1 b,1962.9  73.7 a,1982.3  144.7 a
+4,capacity,umol Trolox/kg,,,,2678.4  269.1 b,1962.9  73.7 a,1982.3  144.7 a
+5,Phenolic profile by LC-MS method,Phenolic profile by LC-MS method,Acronym,[M-H],Rt,MF-17 (RI 3.5),MF-18 (RI 5.0),MF-19 (RI 2.3)
+6,Secoiridoids,Oleuropein,,,,,,
+7,Secoiridoids,derivatives,,,,,,
+8,,Hydroxy oleacein,,,,,,
+9,,decarboxymethyl,Hy-DOA,335,13.8,nda,16.2  0.5 c,2.2  0.4 b
+10,,oleuropein aglycone),,,,,,
+11,,Oleacein,,,,,,
+12,,(decarboxymethyl,DOA,319,14.7,350.5  41.0 b,221.3  12.1 a,542.1  36.5 c
+13,,oleuropein aglycone),,,,,,
+14,,(isomer I),OlAgl (Is I),377,17.5,14.9  2.1 b,17.3  1.2 c,9.95  0.8 a

@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,,,Treatment*,,,
+1,,Basal,,Supplemented,SEM,P-value
+2,Firmicutes,82.265,,93.108,2.976,0.019
+3,Proteobacteria,11.344,,1.687,0.724,<0.001
+4,Actinobacteria,1.027,,1.740,0.373,0.193
+5,Spirochaetes,4.147,,2.851,0.588,0.146
+6,Synergistetes,0.008,,0.189,0.086,0.375
+7,Tenericutes,0.742,,0.205,0.205,0.132

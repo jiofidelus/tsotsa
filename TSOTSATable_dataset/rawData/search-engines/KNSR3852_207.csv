@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Food,Name,Name,Type,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,Code,Kiswahili,English,,bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,966,viazi vitamu vya kukaanga,Sweet potato fried,A,,,,,,,,,200
+3,967,viazi vitamu vya kuchemsha,Boiled sweet potato plain,Std,,,.,400,,,200,,
+4,,viazi vitamu vya kuchemsha,,,,,,,,,,,
+5,967,vitupu,Boiled sweet potato plain,A,,,,,,,,,200
+6,968,ndizi mbichi na maharage,Banana with kidney bean,Std,420,,,500,,,300,,
+7,968, ndizi mbichi na maharage,Banana with kidney bean,A,,,,,,,,,515
+8,969,ndizi mbichi ya kuchemsha,Banana plain -- boiled,Std,,,,290,,,175,,
+9,969,ndizi mbichi ya kuchemsha,Banana plain -- boiled,A,.,,.,,,,,,200
+10,970,maghimbi mchanganyiko,Taro mixed,Std,,,,200,,,100,,
+11,970,maghimbi mchanganyiko, Taro mixed,A,,,,,,,,,200
+12,970, maghimbi ya kuchemsha,Taro plain,A,,,,,,,,,200
+13,970,maghimbi ya kuchemsha,Taro plain,Std,,,,290,,,175,,
+14,970,maghimbi mchanganyiko,Taro mixed,Sta,,,,200,,,100,,
+15,970,maghimbi mchanganyiko,Taro mixed,A,,,,,,,,,200
+16,970,maghimbi ya kuchemsha,Taro plain,Sta,,,,290,,,175,,
+17,,mchuzi wa viazi mviringo na tui,Potato relish with coconut,,,,,,,,,,
+18,972,la nazi,milk,Std,400,,,400,,,225,,
+19,,mchuzi wa viazi mviringo na tui,Potato relish with coconut,,,,,,,,,,
+20,972,la nazi,milk,A,,,,,,,,,450
+21,,ndizi zilizopikwa na nyama na,Banana with meat and,,,,,,,,,,
+22,973,mboga a majani,vegetables,A,,,,,,,,,515
+23,,ndizi zilizopikwa na nyama na,Banana with meat and,,,,,,,,,,
+24,973,mboga za majani,vegetables,Sta,420,,,500,,,300,,
+25,975,mtori,Mtori,Sta,400,,250,,,,,,
+26,975,mtori,Mtori,A,,,,,,,,,350
+27,1001,chai na sukari bila maziwa,Tea with sugar no milk,Std,200,,200,,,,,,
+28,1001,chai na sukari bila maziwa,Tea with sugar no milk,A,,,,,,,,,200
+29,1002,chai na maziwa na sugar,Tea with milk and sugar,Sta,200,,200,,,,,,
+30,1002,chai na maziwa na sugar,Tea with milk and sugar,A,,,,,,,,,200

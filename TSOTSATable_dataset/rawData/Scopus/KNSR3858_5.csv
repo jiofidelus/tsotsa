@@ -1,0 +1,52 @@
+,0,1
+0,miRNA[Sequence],Function [Reference]
+1,,Regulates apoptosis in ovarian granulosa cells [306]; regulates epithelial ovarian cancer
+2,,progression [307]; affects proliferation and apoptosis of keratinocytes [308]; reduces airway
+3,,eosinophilia and CXCL17 expression in asthma [309]; targets CACNA1C and KCNJ5 and alters
+4,hsa-miR-221-3p,"medulloblastoma [311], acts as a tumor suppressor and disease progression marker in prostate"
+5,[AGCUACAUUGUCUGCUGGGUUUC],"cancer [312]; down-modulates KIT receptor, which suggests a potential role in cancer therapy"
+6,,"[313];regulates CDKN1C/p57 and CDKN1B/p27 expression in HCC [314],suppresses"
+7,,"HDAC6 providing a new target for the treatment of liver malignancies [315],targets KIT and"
+8,,ETV1 in gastrointestinal stromal tumors [316].
+9,hsa-miR-151a-5p,"Regulates E-cadherin in NSCLC cells, which promotes partial EMT and thus acts as a"
+10,[UCGAGGAGCUCACAGUCUAGU],therapeutic target[317].
+11,hsa-miR-378c,"Suppresses stomach adenocarcinoma cell proliferation, migration,invasion and"
+12,[ACUGGACUUGGAGUCAGAAGAGUGG],epithelial-mesenchymal transition [318].
+13,,Mature milk-specific miRNAs
+14,,Induces generation of insulin-producing cells from human decidua basalis-derived stromal
+15,hsa-miR-375,"of SHOX2[321],reduces viability of HCC under hypoxic conditions [322],suppresses bladder"
+16,ICCCCGCGACGAGCCCCUCGCA,cancer via the Wnt/beta-catenin pathway [323]; enhances generation of insulin-producing cells
+17,CAAACCGGACCUGAGCGUUUUGU,from human MSCs [324];promotes redifferentiation of adult human  cells [325]; enhances
+18,,infant growth and development [189]; regulates expression of JAK2 [189];activates p21;
+19,, suppresses telomerase activity [326].
+20,hsa-miR-193b-3p,chondrocyte metabolism [329]; acts as tumor suppressor in ovarian carcinoma cells [330]
+21,[AACUGGCCCUCAAAGUCCCGCU],attenuates neuroinflammation in early brain injury after subarachnoid hemorrhage [331]
+22,hsa-miR-345-5p,Acts as anti-osteogenic factor [332].
+23,[GCUGACUCCUAGUCCAGGGCUC],Acts as anti-osteogenic factor [332].
+24,hsa-miR-423-3p,Activates oncogenic autophagy in GC [333] and enhances tumor growth in lung
+25,[AGCUCGGUCUGAGGCCCCUCAGU],adenocarcinoma [334].
+26,,Decreases sensitivity of Treg cells toward IL-6-mediated conversion [332]; suppresses breast
+27,,"cancer by downregulating BAP1[335,336];suppresses bladder cancer by targeting FUT4[97];"
+28,hsa-miR-125a-5p,"suppresses cervical carcinoma [337],HCC [338],GC [339] colon cancer [340], prostate"
+29,[UCCCUGAGACCCUUUAACCUGUGA],"carcinoma [341], bladder cancer [336] and CRC [342]; activates p53 and induces apoptosis in"
+30,,"lung cancer cells [343,344]; contributes to hepatic stellate cell activation [345]; inhibits"
+31,,trophoblast cell migration and proliferation in preeclampsia [346].
+32,,Regulates expression of SOCS-7 [189]; controls ATPase expression [189]; regulates
+33,hsa-miR-148a-5p,triacylglycerol and long-chain acyl-CoA fatty acid synthesis[189]; regulates lactose
+34,[AAAGUUCUGAGACACUCCGACU],synthesis [189]; promotes cartilage production [347]; relieves hepatic fibrosis [348]; regulates
+35,,the stem cell-like side population distribution in ESCC [349].
+36,hsa-miR-29c-3p,"Regulates biological function of CRC [350]; suppresses gallbladder carcinoma [351], T-cell"
+37,[UAGCACCAUUUGAAAUCGGUUA],"acute lymphoblastic leukemia[352],ovarian cancer [353] and melanoma [354]"
+38,,Regulates expression of intercellular junctions at the brain endothelium and controls the
+39,hsa-miR-27a-3p,endothelial barrier permeability [355];suppresses osteoblastogenesis [356]; suppresses
+40,[UUCACAGUGGCUAAGUUCCGC],OSCCs[357] and HCC [358]; inhibits cell proliferation and inflammation of RA in synovial
+41,,"fibroblasts [356,359];mediates of human adipogenesis [360]"
+42,hsa-miR-365a-3p,Suppresses progression of PC [361] and GC [362]
+43,[UAAUGCCCCUAAAAAUCCUUAU],Suppresses progression of PC [361] and GC [362]
+44,hsa-miR-365b-3p,Promotes HCC cell migration and invasion [363]
+45,[UAAUGCCCCUAAAAAUCCUUAU],Promotes HCC cell migration and invasion [363]
+46,hsa-miR-183-5p,implantation [365]; promotes invasion of endometrial stromal cells [366]; regulates myogenic
+47,[UAUGGCACUGGUAGAAUUCACU],differentiation[367].
+48,hsa-miR-148b-3p,Stimulates osteogenesis [368] and suppresses glioma cells [369]
+49,[UCAGUGCAUCACAGAACUUUGU],Stimulates osteogenesis [368] and suppresses glioma cells [369]
+50,hsa-miR-28-3p,Inhibits diffuse large B-Cell lymphoma cell proliferation [370]

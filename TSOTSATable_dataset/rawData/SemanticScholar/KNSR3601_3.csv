@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+0,"(a Millet, sorghum and maize","(a Millet, sorghum and maize","(a Millet, sorghum and maize",,,,,,,,,,,,,,,,
+1,Region,"Millet,flour","Millet,flour",,,,,"Sorghum, flour","Sorghum, flour",,,,,"Maize, flour","Maize, flour",,,,
+2,,Protein,% Diffa,CHO,% Diffa,Fibre,% Diffa,Protein,% Diffa,CHO,% Diffa,Fibre,% Diffa,Protein,% Diffa,CHO,% Diffa,Fibre,% Diffa
+3,Kayes,,,,,,,,,,,,,7.2,6.6,77.8,6.6,4.7,1.4
+4,Segou,8.8,10.0,66.5,1.2,7.8,25.8,9.8,0.0,71.5,4.1,4.7,1.1,7.1,6.6,72.6,0.5,5.5,18.7
+5,Mopti,5.9,26.3,55.3,15.8,4.6,25.8,10.4,0.0,70.5,4.1,4.6,-1.1,6.6,13.2,59.0,19.2,3.7,20.1
+6,Bamako,8.5,6.3,n.a.,14.8,n.a.,,10.0,3.8,n.a.,4.1,n.a.,,7.8,2.6,n.a.,,n.a.,
+7,Timbuktu,8.7,8.7,75.4,14.8,n.a.,,11.3,8.7,78.6,6.9,n.a.,,9.4,23.7,82.5,13.0,n.a.,
+8,Mean,8.0,n.r.,65.7,n.r.,6.2,n.r.,10.4,n.r.,73.5,n.r.,4.7,n.r.,7.6,n.r.,73.0,n.r.,4.6,n.r.
+9,S.D.,1.4,,10.1,,2.3,,0.7,,4.4,,0.1,,1.2,,11.8,,1.3,
+10,"(b) Rice, wheat and fonio","(b) Rice, wheat and fonio","(b) Rice, wheat and fonio",,,,,,,,,,,,,,,,
+11,Region,Rice,,,,,,"Wheat, flour","Wheat, flour",,,,,Fonio,,,,,
+12,,Protein,% Diffa,CHO,% Diffa,Fibre,% Diffa,Protein,% Diffa,CHO,% Diffa,Fibre,% Diffa,Protein,% Diffa,CHO,% Diffa,Fibre,% Diffa
+13,Kayes,,,,,,,,,,,,,,,74.3,,,
+14,Segou,6.3,3.3,77.1,7.9,1.1,0.0,9.8,4.9,73.7,-1.9,3.0,0.0,7.4,2.8,74.3,0.0,1.9,13.6
+15,Mopti,6.2,1.6,n.a.,7.9,1.1,0.0,10.2,1.0,74.4,0.9,3.0,0.0,7.5,4.2,74.4,0.1,2.6,18.2
+16,Bamako,6.6,4.9,n.a.,10.3,n.a.,,11.8,14.6,n.a.,2.8,n.a.,,6.7,6.9,n.a.,,n.a.,
+17,Timbuktu,5.8,4.9,92.3,10.3,n.a.,,11.8,14.6,77.2,2.8,n.a.,,,,74.3,,,
+18,Mean,6.1,n.r.,83.7,n.r.,1.1,n.r.,1.1,n.r.,75.1,n.r.,3.0,n.r.,7.2,n.r,74.3,n.r.,2.2,n.r.
+19,S.D.,0.3,,7.8,,0.0,,1.1,,1.8,,0.0,,0.4,,0.1,,0.3,

@@ -1,0 +1,66 @@
+,0,1,2,3,4,5,6,7,8,9
+0,NDB NO.,Deschptol,,Mean,,, Mn,I Max,,
+1,09307,"Rhubarb, raw (Rheum rhaponticum)",Dimers,1.70,1,,,,c,26
+2,,,Trimers,1.80,1,,,,,26
+3,,,4-6mers,3.40,1,,,,c,26
+4,,,7-10mers,1.90,1,,,,c,26
+5,,, Polymers,79.00,1,,,,c,26
+6,99675,Rose hips (Rosa rugosa),Dimers,24.20,1,,,,0,26
+7,,,Trimers,9.20,1,,,,0,26
+8,,,4-6mers,77.70,1,,,,c,26
+9,,,7-10mers,12.90,1,,,,c,26
+10,,,Polymers,404.00,1,,,,,26
+11,99335,"Rowanberries, raw",Dimers,2.80,2,,1.50,4.10,c,26
+12,,(Crataegosorbusmitschurinii),4-6mers,2.65,22,,1.40,3.90,,26
+13,,,4-6mers,5.75,22,,3.80,7.70,,26
+14,,,7-10mers,3.15,2,,2.50,3.80,,26
+15,,,Polymers,281.00,2,,248.00,314.00,c,26
+16,99037,Sea buckthorn berries(Hippophae,Dimers,5.10,1,,,,c,26
+17,99037,rhamnoides),Trimers,3.60,1,,,,c,26
+18,,,4-6mers,11.00,1,,,,c,26
+19,,,7-10mers,0.00,1,,,,c,26
+20,,,Polymers,24.00,1,,,,,26
+21,99616,Service (Saskatoon) berries,Dimers,20.20,1,,,,, 26
+22,,Amelanchier alnifolia,Trimers,21.70,11,,,,,26
+23,,,4-6mers,46.10,1,,,,c,26
+24,,,7-10mers,21.00,1,,,,c,26
+25,,,Polymers,44.60,1,,,,,26
+26,09316,"Strawberries, raw (Fragaria",Dimers,5.21,16,2.27,0.00,8.70,A,"14,23,26,35"
+27,,ananassa),Trimers,5.66,15,2.23,0.50,9.40,A,"14, 23, 26"
+28,,,4-6mers,23.32,12,8.94,10.50,38.95,,"23, 26"
+29,,,7-10mers,16.86,12,10.83,0.55,28.84,,"23, 26"
+30,,,Polymers,54.18,12,33.83,3.80,97.81,A,"23, 26"
+31,97007,"Strawberry tree fruit [arbutus], raw",Dimers,6.60,3,0.00,6.60,6.60,c,14
+32,,(Fragaria ananassa),Trimers,3.69,3,0.00,3.69,3.69,,14
+33,09218,"Tangerines, (mandarin oranges),",Dimers,0.00,2,,0.00,0.00,B,"24, 26"
+34,,raw (Citrus reticulata),Trimers,0.00,222,,0.00,0.00,B,"24, 26"
+35,,,4-6mers,0.00,222,,0.00,0.00,,"24, 26"
+36,,,7-10mers,0.00,222,,0.00,0.00,,"24, 26"
+37,,,Polymers,0.00,2,,0.00,0.00,B,"24, 26"
+38,09326,"Watermelon,raw(Citrullus lanatus)",Dimers,0.00,2,,0.00,0.00,B,"24, 26"
+39,,,Trimers,0.00,22,,0.00,0.00,B,"24, 26"
+40,,,4-6mers,0.00,22,,0.00,0.00,B,"24, 26"
+41,,,7-10mers,0.00,22,,0.00,0.00,B,"24, 26"
+42,,,Polymers,0.00,22,,0.00,0.00,B,"24, 26"
+43, 11 -- Vegetables and Vegetable Products, 11 -- Vegetables and Vegetable Products,,,,,,,,
+44,11008,"Artichokes,globe or french",Dimers,0.00,,,,,B,24
+45,,"cooked,boiled,drained,without salt",Trimers,0.00,11,,,,B,24
+46,,,4-6mers,0.00,1,,,,,24
+47,,,7-10mers,0.00,11,,,,B,24
+48,,,Polymers,0.00,1,,,,,24
+49,11012,"Asparagus,cooked,boiled,drained",Dimers,0.00,1,,,,,24
+50,,,Trimers,0.00,1,,,,B,24
+51,,,4-6mers,0.00,1,,,,B,24
+52,,,7-10mers,0.00,1,,,,,24
+53,,,Polymers,0.00,1,,,,B,24
+54,11052,"Beans, snap, green, raw (Phaseolus",Dimers,0.00,3,,,,,14
+55,,vulgaris),Trimers,0.00,3,,,,,14
+56,11080,"Beets, raw (Beta vulgaris)",Dimers,0.00,1,,,,,26
+57,,,Trimers,0.00,1,,,,c,26
+58,,,4-6mers,0.00,1,,,,c,26
+59,,,7-10mers,0.00,11,,,,, 26
+60,,,Polymers,0.00,1,,,,,26
+61,11088,"Broadbeans, immature seeds, raw",Dimers,91.81,33,33.79,17.89,205.17,B,"2, 14"
+62,,(Vicia faba L.),Trimers,21.73,33,14.37,0.00,78.20,,"2, 14"
+63,11097,"Broccoli raab, cooked",Dimers,0.00,1,,,,,24
+64,,,Trimers,0.00,1,,,,B,24

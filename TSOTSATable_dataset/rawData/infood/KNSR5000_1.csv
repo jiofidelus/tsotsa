@@ -1,0 +1,33 @@
+,0,1,2
+0,Food name and description,Density in,Source
+1,,g/ml,
+2,"Beverages, non alcoholic (including soft drinks",,
+3,and juices),,
+4,"Fruit drinks,low calories,undiluted",1.01-1.03,UK 6th
+5,"Fruit drinks, undiluted",1.09-1.12,UK 6th
+6,Fruit juice,1.06,FNDDS 4.1
+7,Fruit juice drinks,1.04,UK 6th
+8,"Fruit juice drinks, ready to drink",1.03-1.04,UK 6th
+9,Grape juice,1.054,S&W
+10,"Lime juice cordial, undiluted",1.102,UK 6th
+11,Orange juice,1.038,S&W
+12,Orange juice with calcium,1.038,S&W
+13,Orange soda (sweetened with sugar),1.029,S&W
+14,"Soft drinks, cola type",1.04,UK 6th
+15,"Soft drinks,diet soda",0.988,S&W
+16,"Soft drinks,lemonade type",1.02,UK 6th
+17,"Soft drinks,lucozade type",1.07,UK 6th
+18,Soy drink,1.08,FNDDS 4.1
+19,Water,0.988,S&W
+20,"Water,ice,0",0.916,TB
+21,"Water,ice,4C",0.999,TB
+22,"Water, liquid,20",0.998,TB
+23,"Water, mineralwater",1.035-1.04,DK
+24,Tea and Coffee and drinking powders,,
+25,"Tea,liquid",1,FNDDS4.1
+26,"Coffee,brewed",1,FNDDS 4.1
+27,"Coffee,expresso",1,FNDDS 4.1
+28,"Coffee, powder (nescafe)",0.25,RC
+29,Powders,0.2-0.25,
+30,Chocolate drinking powder,0.5-0.55,RC
+31,"Miso, broth,ready to drink",1.06,FNDDS 4.1

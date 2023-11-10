@@ -1,0 +1,17 @@
+,0,1,2,3,4
+0,Target Toxin,LAB Strain,Mechanism of Action,Maximum effectiveness,References
+1,Fumonisins,,,,
+2,,L.delbrueckii,cell surface,maize meal after 4 days,[227]
+3,,Lp. paraplantarum CNRZ 1885,Toxin binding was assumed;,"19-37% bound FB1, 65-76%",
+4,,Str. thermophilus RAR1,the role of,"FB2,both after TCA treatment",[228]
+5,,Str. thermophilus RAR1,peptidoglycan confirmed,,
+6,Zearalenone,,,,
+7,,L.delbrueckii,Toxin binding assumed,maize meal after 4 days,[227]
+8,,Lp. plantarum A1,cell surface,after 72 h,[229]
+9,,Lb.kefiri KFLM3,Toxin-binding on the,"100% decrease in milk, 60%",[213]
+10,,Lb.kefiri KFLM3,cell surface,in MRS,[213]
+11,,,"Surface adsorption assumed,",,
+12,,Lactococcus lactis,proteins and,90% bound in the first 20 min,[230]
+13,,,intracellular uptake,,
+14,,Lp.plantarum 3QB361,Toxin-binding on the,70-80% amount reduction by,[215]
+15,,Lp.plantarum 3QB361,cell surface,inactivated strain in PPB,[215]

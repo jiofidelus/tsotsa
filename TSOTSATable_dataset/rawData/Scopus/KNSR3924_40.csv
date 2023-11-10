@@ -1,0 +1,34 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,,,,,
+1,Investigated,"Extract,",Groups,Animal,, Method for,Microbiome,Method for,,
+2,"Plant, Plant",Preparation,(n = Number of,"Species,",Conditions,Microbiome,Changes,Metabolite,Metabolites,Reference
+3,Part,Preparation,Analyzed,Volunteers,,Analysis,Changes,Detection,,
+4,,,Individuals),,,,,,,
+5,,,3 groups:,,,,,,GSP vs. control:,
+6,,grape seed,control group,,,,,,increase in total,
+7,,tannins:,"(standard diet),",,treated for,,,,"VFAs, acetate,",
+8,,monomer,GSM group, male Sprague,12 weeks; cecal,,,cecal volatile,"propionate, and",
+9,,fraction,(standard diet +,Dawley rats,contents were,,,fatty acid,butyrate,[184]
+10,,(GSM);,"diet), GSP (standard",(145 g),collected after,,,by GC,increase in,
+11,,polymer,diet+GSP,,sacrifice,,,by GC,"acetate,",
+12,,fraction (GSP),71 mg/kg diet),,,,,,decrease in,
+13,,,(n = 6 per group),,,,,,butyrate,
+14,,,,,duration,,before vs. during GSE:,,before vs.,
+15,,,1 group:,,12 days; SD for,,increase in,,during GSE:,
+16,,,"standard diet (SD,",crossbred,"3 days,SD+GSE",V3-V4 region of,"Lachnospiraceae,",phenolic,increase in,
+17,"Vitis vinifera,",grape seed,"2 kg per day),",female pigs," for 6 days,",16S rRNA gene,unclassified,metabolite,4-hydroxy-,[185]
+18,semen,extract (GSE),treatment diet (SD,(130-150 kg),post-treatment,NGS (Illumina),"Clostridales,",analysis by,phenylvaleric,[185]
+19,semen,,plus 1% w/w GSE),(130-150 kg),SD for 3 days;,NGS (Illumina),"Lactobacillus, and",HPLC-MS,acid and 3-,
+20,,,n=6,,fecal samples,,Ruminococcus,,hydroxybenzoic,
+21,,,,,collected daily,,Ruminococcus,,acid,
+22,,,4 groups:,,,,GS vs. control:,,,
+23,,,control group,,,,rel. increase in,,,
+24,,,"(standard diet, SD);",,,,"Bacteroidetes,",,,
+25,,,AFB1 group (SD +,healthy weaned,treated for,,"Proteobacteria,",,,
+26,,grape seed,"B1,AFB1);GSM",crossbred,30 days; colon,V3-V4 region of,"Megasphaera,",,,
+27,,meal (GSM),group (SD+ 8%,TOPIGS-40,contents,16S rRNA gene,"Clostridiales, and",,,[186]
+28,,meal (GSM),GSM); AFB1 + GSM,hybrid piglets,collected after,NGS,Anaerovibrio; rel.,,,
+29,,,group (SD + 32,(9.13  0.03 kg),sacrifice,,decrease in,,,
+30,,,g/kg AFB1 +8%,,,,"Firmicutes,",,,
+31,,,GSM)(n=6 per,,,,"Lactobacillus, and",,,
+32,,,group),,,,Lachnospiraceae,,,

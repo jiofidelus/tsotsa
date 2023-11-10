@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Strata,Altitude range for,Total area (forest,Total village areas,Total net forest,Proportion of forest,Total number of plot
+1,No.,"each strata (m,asl) and village of each","each strata (m,asl) and village of each",in each strata (Ha),areas in each strata,areas in each strata,allocated to each
+2,,,strata (ha),,(Ha),(%),strata
+3,tratum12182-2448,tratum12182-2448,"18,490.44",117.35,"18,373.08",12.22,11
+4,tratum 2 1994-2181,tratum 2 1994-2181,"42,025.49",5279.31,"36,746.17",24.44,22
+5,tratum 3 1646-1993,tratum 3 1646-1993,"45,673.67",8927.49,"36,746.17",24.44,22
+6,tratum4 1378-1645,tratum4 1378-1645,"33,827.22",421.61,"33,405.61",22.22,20
+7,tratum 5 1109-1377,tratum 5 1109-1377,"23,637.48",253.55,"23,383.93",15.55,14
+8,tratum 6 840-1108,tratum 6 840-1108,1670.28,0,1670.28,1.11,1
+9,Total,840-2448,"165,324.60","14,999.33","150,325.27",100,90

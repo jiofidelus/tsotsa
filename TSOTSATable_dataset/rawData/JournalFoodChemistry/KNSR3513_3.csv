@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Method,Analyte,Sample,Linearity,LOD,LOQ,%RSD,%Recovery,EF,PF,Ref.
+1,,,,mgL-1,(mg L-1,mgL-1,,,,,
+2,emulsion breaking-HR-CS,Pb,gasoline,,0.014,0.048,5.0,,,2.0,"(Leite et al.,"
+3,FAAS,,,,,,,,,,2018
+4,-FAAS,Cd,fish oil syrup,0.100-2.00,0.03,0.1003,4.3-6.7,,,-,(Ozzeybek
+5,--RP-DLLME-SQT-FAAS,,,0.00377-0.1620,0.00075,0.00248,,,,,"et al.,2020)"
+6,SS-HR-CS-GFAAS,Pb,rice grains,,2.3 g,-,15,,-,,(Gunduz
+7,,,,,kg-i,,,,,,"et al.,2013"
+8,Spectrophotometric,Pb,Honey,0.0500-0.167,0.0135,0.0451,1.2-4.2,-,-,-,"(Bittar et al.,"
+9,associated with silver,,,,,,,,,,2018
+10,nanoparticle,,,,,,,,,,
+11,SPs-LPME-S-FAAS,Cd,"water,vegetable,",0.00053-0.157,0.00016,0.00053,5.4,99-105,28.1,-,(Yilmaz
+12,,,"fruit, and",,,,,,,,"et al.,2015"
+13,,,cigarette,,,,,,,,
+14,VA-SHS-LPME-GFAAS,Pb,"water, tea and",0.000040-0.00200,0.0000160,0.000045,4.2,94.9-110,49,-,"Zhang et al.,"
+15,,Cd, human hair,0.000010-0.000025,0.0000039,0.000010,6.2,98.5-106,52,,2018)
+16,EA-SS-LPME-HR-CS-FAAS,Pb,water and canned,0.06-10.00,0.0195,0.0649,1.25-1.69,82-30-,1.4,3.3,This work
+17,,Cd,food,0.02-1.50,0.0068,0.0228,1.07-1.64,119.0,2.6,,
+18,,,,,,,,81.67-120.0,,,

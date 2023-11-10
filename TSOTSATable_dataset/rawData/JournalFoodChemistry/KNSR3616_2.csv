@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6
+0,Sample,Research type,Measuring mode,Data selection,Data analysis,Supplementary methods,Reference
+1,Tomato,Release kinetics,Continuous,Untargeted,PCA,GCMS,"Farneti et al.,2013)"
+2,,,,,PLS,Sensory test,
+3,,,,,,Colour analysis,
+4,Mango fruit,Ripening,Continuous,Untargeted,PCA,GCMS,"White et al.,2016"
+5,,,,,,Colour analysis,
+6,Grape must,Cooking,Discrete,Targeted,PCA,none,"Dimitri et al.,2013"
+7,Yeast,Volatilome profiling,Discrete,Untargeted,ANOVA,Microbiological analysis,"Khomenko et al.,2017"
+8,,,,,PCA,Fast GCPTRMS,
+9,,,,,HCA,,
+10,Wine model systems,VOCs profiling,Continuous,Targeted,None,none,"Semon et al.,2018"
+11,Milk,Microbial spoilage,Discrete,Untargeted,ANOVAPCA,GCMS,"Alothman et al.,2017"
+12,,,,,,Microbiological analysis,
+13,Beef meat,Microbial spoilage,Discrete,Targeted,none,MALDI-MS,"Franke et al.,2019"
+14,,,,,,GCMS,
+15,,,,,,Microbiological analysis,
+16,Chicken meat,Microbial spoilage,Discrete,Untargeted,PCA,Microbiological analysis,"Wojnowski et al.,2018"
+17,,,,,SVM,,
+18,Rapeseed oil,Frying process control,Continuous,Untargeted,RelieFF,Rancimat test,"Majchrzak et al.,2018b)"
+19,,,,,,GCMS,
+20,Rapeseed oil,Frying process control,Continuous,Targeted,none,Standard quality methods,"Majchrzak et al.,2021"
+21,Beer,Fermentation,Discrete,Targeted,ANOVAPCA,none,"Richter et al.,2018"
+22,Coffee beans,Roasting,Continuous,Untargeted,none,GCMS,"Gloess et al.,2014"
+23,,,,,,Standard quality methods,
+24,Coffee brew,Coffee extraction process,Continuous,Untargeted,ANOVASOTA,none,"Lopez et al., 2016)"
+25,,,,,HCA,,
+26,Coffee brew,Nose-space analysis,Continuous,Untargeted,none,Sensory test,"Charles et al.,2015"
+27,Chocolates,Nose-space analysis,Continuous,Untargeted,ANOVAPCA,none,"Acierno,Liu,et al.,2019)"
+28,Egg albumen foams,Nose-space analysis,Continuous,Targeted,none,Texture analysis,"Tyapkova et al.,2016)"

@@ -1,0 +1,32 @@
+,0,1,2
+0,,n,%
+1,Sex,,
+2,Men,2013,47.6
+3,Women,2212,52.4
+4,Age(years),,
+5,18-25,326,7.7
+6,26-45,1465,34.7
+7,46-65,1610,38.1
+8,>65,824,19.5
+9,Educational level,,
+10,<12years,2482,58.7
+11,12 years (high school graduation),682,16.1
+12,13-15years,509,12.0
+13,>15 years,552,13.1
+14,Marital status,,
+15,Married,3053,72.3
+16,Single/divorced/widowed,1171,27.7
+17,Income(E/month),,
+18,900,595,14.1
+19,900-2700,2813,66.6
+20,>2700,817,19.3
+21,Smoking status,,
+22,Regular smoker,522,12.4
+23,Occasional smoker,166,3.9
+24,Former smoker,1662,39.3
+25,Never smoker,1875,44.4
+26,BMI category (kg/m2),,
+27,<18.5,126,3.0
+28,18.5-25,2356,55.8
+29,25-30,1225,29.0
+30,30,518,12.3

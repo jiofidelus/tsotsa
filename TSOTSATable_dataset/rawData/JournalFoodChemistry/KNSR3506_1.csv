@@ -1,0 +1,74 @@
+,0,1,2,3,4,5
+0,,,TECHNIQUE,CHEMOMETRIC,,
+1,,,,MODEL,,
+2,MULTIVARIATE CALIBRATION,MULTIVARIATE CALIBRATION,,,,
+3, Sugar determination in plant milk, Sugar determination in plant milk,NIR,iPLS,"In comparison with full-PLS, iPLS improved the","Marrubini,Papetti,"
+4,,,,,RMSEP from 1.49 to 0.98 g/100 mL and R2pred from,"Genorini,and Ulrici"
+5,,,,,0.63 to 0.84.,(2017)
+6,,"C. sativus stamens, calendula, safflower,",DRIFTS,siPLS,"In general, siPLS improved RMSEP (in % w/w) when","Petrakis, and Polissiou"
+7,,"turmeric, buddleja, and gardenia",,,compared with PLS: from 2.38 (full PLS) to 1.75,(2017)
+8,determination in saffron,determination in saffron,,,(siPLS for C.sativus stamens;1.53 to 0.94 for,
+9,,,,,calendula;1.69 to 1.11 for safflower;1.39 to 1.26 for,
+10,,,,,turmeric;1.29 to 1.23 for buddleja;but 0.97 to 1.11,
+11,,,,,for gardenia.,
+12,Thiobarbituric acid and pH,Thiobarbituric acid and pH,Hyperspectral imaging,SW-MLR,SW selected only 18 and 10 from 180 wavelengths,XuRiccioli and Sun
+13,determination in salmon fillet,determination in salmon fillet,,,"for TBA and pH prediction,respectively. RMSEP (in",(2016)
+14,,,,,mol MDA/kg) was improved from 2.369 to 2.081,
+15,,,,,for TBA and from 0.0709 to 0.0483 for pH by using,
+16,,,,,"SW-MLR and full-PLS, respectively.",
+17,Tartrazine determination in tea,Tartrazine determination in tea,FT-IR,GA-PLS,GA-PLS improved the RMSEP (in mg/g) of full-PLS,"Amsaraj, and Mutturi"
+18,,,,,from 1.4114 to 0.9230 by selecting only 30,(2021)
+19,,,,,wavenumbers.,
+20,Total phenols determination in aged,Total phenols determination in aged,2D Fluorescence and,ACO-PLS,Local ACO-PLS models improved the RMSEP (in mg,"Carvalho, Ranzan,"
+21,cachaca,cachaca,FTIR-MIR,,"GAE/L) of full-PLS from 3.93 to 2.55,11.6 to 4.08,","Trierweiler,and"
+22,,,,,"and 77.71 to 37.46 using 2D-fluorescence,and from",Trierweiler (2020)
+23,,,,,"34.88 to 17.71, 32.55 to 9.07, and 195.14 to 194.35",
+24,,,,,for FTIR-MIR.,
+25,Cholesterol determination in egg yolk,Cholesterol determination in egg yolk,UV-Vis-NIR,ANN,Validation results obtained a R2val close to 0.70 and a,"Puertas,and Vazquez"
+26,,,,,low RMSEP around 1.70 mg/g.,(2020
+27,,Rice and soybean flour determination in,FT-MIR,"SPA-PLS, SPA-ELM,","RMSEP obtained for full and SPA-based PLS,SVM","Feng, Zhu, Chen, Bao,"
+28,milk powder,milk powder,,and SVM-PLS,and ELM models wererespectivelyimproved from,and He(2019
+29,,,,,"2.719,3.060,and 2.424 to 2.514,2.577,and 2.525",
+30,,,,,"for rice flour determination and from 2.350,2.523,",
+31,,,,,"and 1.129 to 2.366,2.117,and 0.876 for soybean",
+32,,,,,flour determination.,
+33,"Amino acid nitrogen, salt, total acid","Amino acid nitrogen, salt, total acid",Vis-NIR,PSO-SVM,PSO-SVM (versus full-SVM) obtained RMSEP (in %,Hu YinMa and Liu
+34,,"content, and color determination in soy",,,"w/w) of 0.0075 (0.0361), 0.2176 (0.3020), 0.0077",(2019)
+35,sauce,sauce,,,"0.0695),and 0.0506(0.1826 for amino acid",
+36,,,,,"nitrogen, salt, total acid, and color ratio,",
+37,,,,,respectively.,
+38,,Photosynthetic pigment determination in,Hyperspectral imaging,UVE-PLS,UVE-PLS based on continuous wavelet transform,Wang et al. (2019)
+39,maize,maize,,,achieved R2pred and RMSEP (in g/m2) of 0.8534 and,
+40,,,,,"0.1773 for chlorophyll, and 0.8299 and 0.0187 for",
+41,,,,,carotenoids.,
+42,"Soluble solid content, vitamin C,","Soluble solid content, vitamin C,",NIR,CARS-PLS,"RMSEP values were of 0.668Brix,0.136%,2.330",Guo et al.(2020
+43,"titratable acid,and firmness","titratable acid,and firmness",,,"mg/100 g,and 0.115 kg for soluble solid content,",
+44,determination in apples,determination in apples,,,"titratable acid, vitamin C, and firmness, respectively.",
+45,,Caffeine determination in coffee beans,Hyperspectral imaging,RF-PLS,"In comparison with full-PLS,RF-PLS improved the","Zhang, Jiang,Liu,and He"
+46,,,,,RMSEP from 131.904 to 116.327 g/g and R-pred,(2017
+47,,,,,from 0.843 to 0.878.,
+48,,"Ethanol, total acid, pH, lactic acid,",IR,FD-VS-PLS,"Considering full-PLS and FD-VS-PLS, respectively,","Ma, Pang, Dong, Tang,"
+49,"density, total polyphenol index,","density, total polyphenol index,",,,RMSEP were improved from 0.1221 to 0.1179% for,"Shu, and Li (2020)"
+50,,"glycerol, methanol, and tartaric acid",,,"ethanol, 0.4393 to 0.1556 g/L for total acid, 0.0682",
+51,determination in red wine,determination in red wine,,,"to 0.0744 for pH,0.1983 to 0.1899 g/L for lactic",
+52,,,,,"acid,0.0094 to 0.0085 g/mL for density,9.0827 to",
+53,,,,,"8.8965 for total polyphenol index,0.8960 to 0.6850",
+54,,,,,"g/L for glycerol, 0.0409 to 0.0408% for methanol,",
+55,,,,,and 0.4106 to 0.4100 g/L for tartaric acid.,
+56,,"Gallic, caffeic, L-epicatechin,phloridzin",NIR,ACO-siPLS,"In comparison with full-PLS,ACO-siPLS improved",Arslan et al.2020
+57,,and cianidanol determination in puff,,,"the RMSEP(in g/gfrom 3.40 to 3.06 for gallic acid,",
+58,dried Ziziphus jujuba Mill.,dried Ziziphus jujuba Mill.,,,"6.79 to 6.04 caffeic acid,17.50 to 16.30 for L-",
+59,,,,,"epicatechin), 1.10 to 0.84 for phloridzin, and 16.32",
+60,,,,,to 16.01 for cianidanol.,
+61,,Total fungi count determination in cocoa,FT-NIR,GA-siPLS,RMSEP (in CFU/mL) were improved in the following,"Kutsanedzie, Chen,"
+62,beans neat solution,beans neat solution,,,"order: 0.527 for PLS,0.401 for CARS-PLS,0.398 for","Hassan, Yang, Sun, and"
+63,,,,,"ACO-PLS,0.394 for si-PLS,and 0.384 for GA-siPLS.",Rahman (2018)
+64,,Total theaflavin determination in black,Ciclic Voltammetry,CARS-siPLS,RMSEP (in % w/w) were improved in the following,Ouyang et al. (2019)
+65,tea,,,,"order: 0.312 for iPLS, 0.285 for PLS, 0.268 for si-PLS,",
+66,,,,,"0.265 for CARS-PLS,and 0.257 for CARS-siPLS.",
+67,Soluble solid content determination in,Soluble solid content determination in,Vis-NIR,UVE-PLS,RMSEP (in Brix) were improved in the following,"Yuan Cai, Sun Han and"
+68,apples,apples,,,"order:0.503 for SMLR,0.486 for PLS,0.409 for GA-",Ernest (2016
+69,,,,,"PLS,0.404 for SPA-MLR,0.395 for UVE-GA-PLS",
+70,,,,,"0.390 for UVE-SPA-MLR,and 0.387 for UVE-PLS",
+71,Drip loss value determination in,Drip loss value determination in,Hyperspectral imaging,GA-SPA-MLR,RMSEP (in % w/w) were improved in the following,"Cheng, Sun, and Pu"
+72,frozen-thawed fish muscle,frozen-thawed fish muscle,,,"order1.41 for SPA-LS-SVM,1.34 for GA-SPA-LS",(2016

@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7
+0,Species,Maltose,Glucose,Fructose,Sucrose,POF,Flocculation (%),References
+1,Saccharomycodes ludwigi,-,+,+,+,,27.160,*
+2,Saccharomyces cerevisiae ERS1,-,+,+,+,+,18.5,[87]
+3,Mrakia gelida,-,+,+,+,U,U,[36]
+4,Trigonopsis cantarellii P-69,,U,+,U,U,U,[92]***
+5,Candida sojae T-39,,U,+,U,U,U,[92] ****
+6,Candida shehatae,V,+,U,+,U,U,[97-99]
+7,Candida zemplinina,-,U,U,U,U,U,"[100,101]"
+8,Wickerhamomyces anomalus P-2.4,W,U,+,U,U,U,[92]****
+9,Kazachstania servazzi VTT C-191027,-,U,U,U,U,4,[6]
+10,Pichia fermentans VTTC-191032,,U,U,U,U,0,[6]
+11,Pichia kluvyeri CBS 188,-,+,U,,U,U,[99]
+12,Pichia kudriavzevii,V ***,+,U,U,U,U,[102]
+13,Cyberlindnera subsufficiens strain C6.1,,+,U,+,,32  1,[5]
+14,CBS 5763 **,,+,U,+,,514,[5]
+15,Cyberlindnera misumaiensis 837A,-,+,U,-,,783,[5]
+16,Hanseniaspora valbyensis KBI 22.1,,+,+,+,,118,[10]
+17,Hanseniaspora vineae KBI 7.1,,+,+,,,41  4,[10]
+18,Torulaspora delbrueckii EGT1,,+,+,+,,96.2,[87]
+19,KBI 22.2,,+,+,+,,170,[10]
+20,Zygosaccharomyces bailii KBI 25.2,,+,+,+,,450,[10]
+21,KBI 5.4,,+,+,,,44  3,[10]
+22,"4084,6187,6424,6463,6921",+/W,+,V,,U,U,[89]
+23,Zygosaccharomyces rouxi CBS732,W,+,U,V,U,U,[99]
+24,"BC07,BC11",-,+,U,,+,U,[103]
+25,Brettanomyces bruxellensis,V,+,U,+,+,U,"[99,104]"

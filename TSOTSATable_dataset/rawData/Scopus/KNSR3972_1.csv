@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,tion/Topic,Item,CONSORT*Checklist Item,EHEALTH Extensions,Importance
+1,,No.,,"(additions to,or clarification of the CONSORT item)",
+2, &,1a,Identification as a randomized,"i) Identify the mode of delivery in the title.Preferably use ""web-based'",Essential
+3,TRACT,,trial in the title,"and/or ""mobile"" and/or ""electronic game"" in the title. Avoid ambiguous",
+4,,,,"terms like ""online"", ""virtual"", ""interactive"". Use ""Internet-based"" only if",
+5,,,,"Intervention includes non-web-based Internet components (e.g., email),",
+6,,,,"use ""computer-based""or""electroniconly if offline products are used. Use",
+7,,,,"""virtual"" only in the context of ""virtual reality"" (3-D worlds). Use ""online""",
+8,,,,"only in the context of ""online support groups"". Complement or substitute",
+9,,,,product names with broader terms for the class of products (such as,
+10,,,,"""mobile"" or ""smart phone"" instead of ""iphone""), especially if the application",
+11,,,,runs on different platforms.,
+12,,,,ii) Mention non-web-based components or important co-interventions,Highly
+13,,,,"in the title, if any (e.g., ""with telephone support"").",Recommended
+14,,,,"ili) Mention primary condition or target group in the title, if any (e.g., ""for",Essential
+15,,,,"children with Type I Diabetes"")",
+16,,,,Example: A Web-based and Mobile Intervention with Telephone Support,
+17,,,,for Children with Type I Diabetes: Randomized Controlled Trial,
+18,,1b,Structured summary of trial,Methods (in Abstract),Essential
+19,,,"design, methods, results, and",i) Mention key features/functionalities/components of the intervention,
+20,,,conclusions,"and comparator in the abstract. If possible, also mention theories and",
+21,,,NPT** extension: Description of,principles used for designing the site. Keep in mind the needs of,
+22,,,"experimental treatment,",systematic reviewers and indexers by including important synonyms.,

@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,,,,Number of,Number of,Number of
+1,,Number of ripe,Weight of ripe,Number of,Weight of unripe,Number of,cracked fruits/,sunburn fruits/,worm-eaten
+2,Mutant clone no,fruits/tree,fruits(kg/tree),unripe fruits/tree,fruits(kg/tree),unripe/ripe fruits,tree,tree,fruits/tree
+3,Control,15.67 b,2.86 e,23.67 b,1.42c,1.52 cd,17.00 a,0.33 f,0.33 ef
+4,Mutl,6.66 g,1.96 h,8.33 e,0.38 f,1.25 cd,1.33 e,4.33 e,1.00 de
+5,Mut2,7.33 fg,2.33 g,5.67 f,0.60 e,0.79 cd,5.67 cd,4.67 e,1.67 d
+6,Mut3,3.66 h,3.14 d,45.00 a,1.72 b,12.96 a,5.33 d,7.67 d,0.00 f
+7,Mut4,4.33 h,2.35 g,15.67 c,1.72 b,3.94 b,7.67 b,9.67 c,2.67 c
+8,Mut5,13.33 c,4.05b,14.67 c,0.59 e,1.10 cd,16.33 a,7.67 d,0.00 f
+9,Mut6,10.00 de,3.25 d,24.00 b,2.15 a,2.40 bc,5.00 d,12.67 b,2.67 c
+10,Mut7,12.00 cd,3.51 c,1.00 h,0.13 h,0.08 d,5.00 d,9.67 c,4.67 a
+11,Mut8,20.00 a,5.05a,10.33 d,0.64 e,0.52 d,6.67 bc,14.00 a,3.67b
+12,Mut9,9.00 ef,2.56 f,6.67 f,0.38 f,0.74 cd,5.67 cd,9.67 c,0.67 ef
+13,Mut10,9.00 ef,4.06 b,10.67 d,0.84 d,1.19 cd,7.67 b,10.67 c,4.67 a
+14,Mutl1,10.33 de,2.37 g,2.67 g,0.26 g,0.25 d,5.67 cd,10.67 c,0.00 f

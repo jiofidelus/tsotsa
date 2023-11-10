@@ -1,0 +1,41 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,,Residence,,,,
+1,,,"Urban, n 340","Urban, n 340",,"Rural, n 334","Rural, n 334",,Total N 674
+2,Variable,Categories,n,%,,n,%,N,%
+3,Age of mother/caregiver in years,15-24,91,13.5,104,104,15.4,195,28.9
+4,,25-34,205,30.4,174,174,25.8,379,56-2
+5,,35-44,44,6.5,6.5,56,8.3,100,14.8
+6,Religion of mother/caregiver,Orthodox,269,39.9,219,219,32.5,488,72.4
+7,,Protestant,33,4.9,4.9,89,13.2,122,18.1
+8,,Muslim,38,5.6,5.6,17,2.5,55,8.2
+9,,Others,,,,9,1.3,9,1-3
+10,Current marital status of mother/caregiver,Single,25,3.7,3.7,8,1.2,33,4.9
+11,,Married,277,41.1,284,284,42-1,561,83.2
+12,,Divorced,38,5.6,5.6,35,5.2,73,10.8
+13,,Widowed,,,,7,1.0,7,1.0
+14,Educational status of mother or caregiver,No formal education,158,46.47,168,168,52-30,326,48.37
+15,,Primary (1-8),60,17.63,17.63,94,28.14,154,22.84
+16,,Secondary (9-12),49,14.42,14.42,46,13.77,95,14-10
+17,,Attended college/university,73,21.47,21.47,26,7.8,99,14.7
+18,Educational status of father or caregiver,No formal education,153,45.0,114,114,34-13,267,39.61
+19,,Primary (18),23,6.76,107,107,32-04,130,19.29
+20,,Secondary (9-12),69,20-30,20-30,63,18.9,132,19.6
+21,,Attended college/university,95,27.9,27.9,50,15.0,145,21.5
+22,Occupation of mother/caregiver,House wife,222,65.3,251,251,75.1,473,70-2
+23,,Government employee,47,13.8,13.8,17,5.1,64,9.5
+24,,Merchant,50,14.7,14.7,43,12.9,93,13.8
+25,,Private employee,21,6.2,6.2,23,6.9,44,6.5
+26,Occupation of father/caregiver,Farmer,125,36.5,195,195,58.4,320,47.5
+27,,Government employee,67,19.7,19.7,46,13.8,113,16.8
+28,,Merchant,35,10.3,10.3,38,11.4,73,10.8
+29,,Private employee,113,33.2,33.2,55,16.5,168,24.9
+30,Own farmland/garden,Yes,119,35.0,150,150,44.9,269,39.9
+31,,No,221,65.0,184,184,55-1,405,60-1
+32,Owned livestock,Yes,109,32.1,189,189,56.6,298,44.2
+33,,No,231,67.9,145,145,43.4,376,55.8
+34,Decision maker in the house,Mother only,63,18.5,18.5,78,23.4,141,20.9
+35,,Father only,137,40.3,40.3,86,25.7,223,33.1
+36,,Both mother and father,121,35.6,164,164,49.1,285,42.3
+37,,Caregiver only,19,5.6,5.6,6,1.8,25,3.7
+38,Family size,<5,292,85.9,225,225,67.4,517,76.7
+39,,5,48,14.1,109,109,32-6,157,23.3

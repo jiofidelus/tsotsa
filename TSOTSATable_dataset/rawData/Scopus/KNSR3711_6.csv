@@ -1,0 +1,47 @@
+,0,1,2,3,4,5
+0,Sponsor(s)/Name,Virus type (Administration route),Antigen type,,Phase ldentifier,Status
+1,"ModernaTX,Inc./mRNA-1647",CMV (i.m),CMV pentamer and III,,NCT05085366 Recruiting,NCT05085366 Recruiting
+2,,,glycoprotein B,,NCT04975893 Enrolling by,NCT04975893 Enrolling by
+3,,,,,,invitation
+4,,,,,"NCT04232280 Active,not","NCT04232280 Active,not"
+5,,,,,,recruiting
+6,,,,1,NCT05105048 Not yet,NCT05105048 Not yet
+7,,,,,,recruiting
+8,,,,1,NCT03382405 Completed,NCT03382405 Completed
+9,"ModernaTX,Inc./mRNA-1443",CMV (i.m),CMV-associated,1,NCT03382405 Completed,NCT03382405 Completed
+10,"Massachusetts General Hospital,HIVDC loaded,i.d","Massachusetts General Hospital,HIVDC loaded,i.d",HIV-associated,I/I,NCT00833781 Completed,NCT00833781 Completed
+11,NIAID/Undefined,,,,,
+12,Fundacion Clinic per a la Recerca HIV(DC loaded;i.nod,Fundacion Clinic per a la Recerca HIV(DC loaded;i.nod,HIV-associated,I1,NCT02888756 Terminated,NCT02888756 Terminated
+13,Biomedica/iHIVARNA-01,HIV (NA),with TriMix,1,NCT02413645 Completed,NCT02413645 Completed
+14,Argos Therapeutics/AGS-004,HIV(DCEP;i.d,HIV-associated Ag,1I,NCT00672191 Completed,NCT00672191 Completed
+15,,,and CD40L,,NCT01069809 Completed,NCT01069809 Completed
+16,,,,I/I,NCT00381212 Completed,NCT00381212 Completed
+17,,,,1,NCT02042248 Completed,NCT02042248 Completed
+18,,,,1,NCT02707900 Terminated,NCT02707900 Terminated
+19,"ModernaTX,Inc./mRNA-1893",Zika virus (i.m),PrM-E,,NCT04917861 Recruiting,NCT04917861 Recruiting
+20,,,,1,NCT04064905 Completed,NCT04064905 Completed
+21,"ModernaTX,Inc./mRNA-1325",Zika virus (i.m),PrM-E,1,NCT03014089 Completed,NCT03014089 Completed
+22,"ModernaTX,Inc./mRNA-1010","Influenza A virus(H1N1 and H3N2 subtypes),Influenza B NA",,I/II,NCT04956575 Recruiting,NCT04956575 Recruiting
+23,,"virus (Yamagata lineage,Victoria lineage)(i.m)",,,,
+24,"ModernaTX,Inc./mRNA-1851",Influenza A virus (H7N9 subtype) (i.m),H7N9 HA,1,NCT03345043 Completed,NCT03345043 Completed
+25,(VAL-339851),,,,,
+26,"ModernaTX, Inc./mRNA-1440",Influenza A virus(H10N8 subtype)(i.m),H10N8 HA,1,NCT03076385 Completed,NCT03076385 Completed
+27,(VAL-506440),,,,,
+28,"Translate Bio,Sanofi/MRT-5400",Influenza A virus (H3N2 subtype)(i.m),H3N2 HA,1,Unregistered Unregistered,Unregistered Unregistered
+29,"Translate Bio,Sanofi/MRT-5401",Influenza A virus(H3N2 subtype)(i.m),H3N2 HA,1,Unregistered Unregistered,Unregistered Unregistered
+30,CureVac/CV7201,"Rabies virus (i.d, i.m)",Rabies G protein,1,NCT02241135 Completed,NCT02241135 Completed
+31,CureVac/CV7202,Rabies virus (i.m),Rabies G protein,1,"NCT03713086 Active,not","NCT03713086 Active,not"
+32,,,,,,recruiting
+33,GSK/GSK3903133A,Rabies virus (i.m),Rabies G protein,1,"NCT04062669 Active,not","NCT04062669 Active,not"
+34,,,,,,recruiting
+35,"ModernaTX,Inc./mRNA-1345",RSV (i.m),Stabilized prefusion I,,NCT04528719 Recruiting,NCT04528719 Recruiting
+36,,,F glycoprotein,,,
+37,"ModernaTX,Inc./mRNA-1777",RSV (i.m),Stabilized prefusionI,,Unregistered Unregistered,Unregistered Unregistered
+38,(V171),,F glycoprotein,,,
+39,"ModernaTX, Inc./mRNA-1172",RSV (i.m),Stabilized prefusion I,,Unregistered Unregistered,Unregistered Unregistered
+40,(V172),,F glycoprotein,,,
+41,"ModernaTX,Inc./mRNA-1944",Chikungunya virus (i.m),Chikungunya mAb I,,NCT03829384 Completed,NCT03829384 Completed
+42,"ModernaTX,Inc./mRNA-1388",Chikungunya virus (i.m),NA,1,NCT03325075 Completed,NCT03325075 Completed
+43,(VAL-181388),,,,,
+44,"ModernaTX,Inc./mRNA-1653",hMPV (i.m),Fusion proteins of,,NCT04144348 Recruiting,NCT04144348 Recruiting
+45,,,hMPV and PIV3,1,NCT03392389 Completed,NCT03392389 Completed

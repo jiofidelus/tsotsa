@@ -1,0 +1,46 @@
+,0,1,2,3,4
+0,,,Qwhuuu,Component name in English,Uuunuuniptph wuuuuniuutp
+1,,,thuinpp,,
+2,EDIBLE,,,Edible coefficient factor,Nutihhnjuultpuuuu
+3,,,,,qnpouyhg
+4,ENERG,42.,42.,Energy(kJ),Futpqluhl updupp
+5,,,,,hu2[uplqud q9-nq
+6,ENERG,yhu.,yhu.,Energy (kcal),Eulpqlnhl updupp
+7,,,,,hu2yuplyudyluj-ny
+8,WATER,q.,,Water(g),anip
+9,PROTCNT,q.,,"Protein (g),",punhuunip uuhunulnig
+10,,,,calculated from total,huniupqyud punhuunip
+11,,,,nitrogen,hbnunn
+12,CHOL,q.,,Cholesterol (mg),Junjluntphu
+13,FAT,q.,,Fat(g),"&upu, punhuunip"
+14,FASAT,q.,,"Fatty acids, total saturated (g)","Aupuuppniulp,punhuunip"
+15,,,,,huqlgud
+16,FAMS,q.,,"Fatty acids,total","dupuuppniutp,punhuunip"
+17,,,,monounsaturated (g),Unun huqlgud
+18,FAPU,q.,,"Fatty acids, total","dupuuppniulp,punhuunip"
+19,,,,polyunsaturated (g),wnih huqlgud
+20,FATRN,q.,,"Fatty acids, total trans (g)","dupiuppniulp,punhuunip"
+21,,,,,mpulu
+22,CHOAVLDF,q.,,"Carbohydrate available,",uduuapunulp uun lh.
+23,,,,calculated by difference (g),huniupqyud pun
+24,FIBTG,q.,,"Fibre, total dietary (g)","$hpnhuuhu phhyudp,"
+25,,,,(Prosky method),"punhuunip uuunughu, (Tpnulhh"
+26,,,,,tnuuul)
+27,ASH,q.,,Ash (g),Unjuhp
+28,Ca,uq.,uq.,Calcium (mg),muighniu
+29,Fe,uq.,uq.,Iron (mg),upqup
+30,Mg,uq.,uq.,Magnesium (mg),uuqutqhniu
+31,P,uq.,uq.,Phosphorus (mg),$nu$np
+32,K,uq.,uq.,Potassium (mg),
+33,Na,uq.,uq.,Sodium (mg),uunphniu
+34,Zn,uq.,uq.,Zinc(mg),ghul
+35,Cu,uq.,uq.,Copper (mg),Pnhun
+36,Se,ulq.,ulq.,Selen (mcg),ulilu
+37,ID,ulq.,ulq.,Iodine (mcg),jnn
+38,Mn,uq.,uq.,Manganese (mg),uuuqul
+39,VITA_RAE,ulq.,ulq.,"Vit A, retinol activity","qhnuunu A,ntnunjuhu"
+40,,,,equivalent (RAE)(mcg),wluhynipjuu huuundtp
+41,RETOL,ulq.,ulq.,Retinol (mcg),ntuhun)
+42,CARTBEQ,ulq.,ulq.,f-carotene equivalent (mcg),f-qupnuhuujhu huuupdlp
+43,VITDEQ,,,"Vit D (mcg),","yhnuuhu D,upnuhujnyud"
+44,,,,expressed as,Uhuuuhu D3+D2 +5 x 25

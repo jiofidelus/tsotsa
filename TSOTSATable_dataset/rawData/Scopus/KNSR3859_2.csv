@@ -1,0 +1,32 @@
+,0,1,2,3,4,5
+0,,T2DM group (n 384),T2DM group (n 384),Control group (n 768),Control group (n 768),
+1,Daily average intake,Mean,SD,Mean,SD,P*
+2,Main food categories,,,,,
+3,"Total intake of grains, g",228.3,71.9,238.1,75.1,0.025
+4,"Total intake of soyabeans and related products, g",4.7,6.3,4.7,10.4,0.905
+5,"Total intake of vegetables, g",386,282,356,165,0.024
+6,"Total intake of fruits, g",109,90,145,108,<0.001
+7,"Total intake of animal foods, g",243,129,229,95,0.047
+8,"Total intake of eggs, g",26.9,19.6,26.4,18.6,0.663
+9,"Total intake of milk, g",126,138,127,142,0.924
+10,"Total intake of fungi and seaweeds, g",11.8,34.9,9.5,11.3,0.095
+11,"Total intake of nuts, g",13.8,26.7,16.8,26.7,0.082
+12,"Total intake of cooking oil, g",26.1,12,17.8,11.6,<0.001
+13,Nutrients,,,,,
+14,"Energy, kJ",9075,2675,7965,2345,<0.001
+15,"Carbohydrate,g",284.7,90.9,277.3,85.4,0.261
+16,"Total protein, g",92.5,33.1,82.7,28.2,<0.001
+17,"Animal protein,g",51.9,28,44.2,22.1,<0.001
+18,"Vegetable protein, g",38.5,11.9,37.9,7.8,0-273
+19,"Soyabean protein, g",2.2,2.5,2.4,2.9,0.384
+20,"Fat,g",78.6,19.9,57.2,16.7,<0.001
+21,"Dietary fibre, g",12.2,3.5,11.4,3.3,<0.001
+22,"Total isoflavone,mg",10.3,10.6,10.6,10.7,0.316
+23,"Daidzein, mg",4.3,4.4,4.4,4.5,0.408
+24,"Genistein, mg",5.8,6.1,6.9,6.0,0.202
+25,"Glycitein,mg",0.56,0.67,0.6,0.8,0.812
+26,"VitC, mg",176.2,81,182.6,70.8,0.074
+27,Carotene,5814,3030,5625,2720,0.041
+28,"Mg,mg",341.2,114.2,339.3,94.2,0.001
+29,"Zn,mg",17.6,7.5,17.3,5.4,<0.001
+30,"Se,mg",64.7,36.9,65.2,31.9,0.007

@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Variability,Food,Used,Estimate,Results
+1,Coefficient of,Sunflower oil,12.0,5.7,High precision
+2,variation (%),Whole milk,4.7,8.8,
+3,,Partially,3.6,6.2,
+4,,skimmed milk,,,
+5,Estimation error(%,Sunflower oil,4.5,2.1,Acceptable
+6,,Whole milk,3.0,5.8,accuracy
+7,,Partially,2.0,3.6,
+8,,skimmed milk,,,

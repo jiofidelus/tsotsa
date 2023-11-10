@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6
+0,Foodborne pathogen,Laurel,,Pure laurel,,Tween 80,
+1,and isolated fish,nanoemulsion,nanoemulsion,essential oil,,,
+2,,MIC,MBC,MIC,MBC,MIC,MBC
+3,,(mg/,(mg/,(mg/,(mg/,(mg/,(mg/
+4,,mL),mL),mL),mL),mL),mL)
+5,Staphylococcus,>25,>25,12.50,>25,>25,>25
+6,aureus ATCC,,,,,,
+7,"29,213",,,,,,
+8,Enterococcus faecalis,25,>25,25,>25,>25,>25
+9,"ATCC 29,212",,,,,,
+10,Salmonella paratyphi,6.25,25,3.13,12.50,>25,>25
+11,A,,,,,,
+12,NCTC13,,,,,,
+13,Klebsiella pneumoniae,25,>25,12.50,>25,>25,>25
+14,"ATCC 700,603",,,,,,
+15,Photobacterium,25,>25,12.50,>25,>25,>25
+16,damselae,,,,,,
+17,Enterococcus faecalis,>25,>25,>25,>25,>25,>25
+18,Vibrio vulnificus,>25,>25,>25,>25,>25,>25
+19,Proteus mirabilis,25,>25,25,>25,>25,>25
+20,Serratia liquefaciens,6.25,>25,25,25,>25,>25
+21,Pseudomonas luteola,6.25,12.50,1.56,6.25,>25,>25

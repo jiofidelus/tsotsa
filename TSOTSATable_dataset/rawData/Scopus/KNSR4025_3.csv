@@ -1,0 +1,6 @@
+,0,1
+0,Field Name,Description
+1,NDB No.*,5-Digit Nutrient Databank number
+2,Nutr No*,Unique 3-digit identifier code for each proanthocyanidin
+3,,compound
+4,PA Val,The proanthocyanidin mean value (mg/100 g) edible portion

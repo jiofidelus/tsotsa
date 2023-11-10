@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+0,,,,,,,,,,,,Diet,,,,,,
+1,,,,Statistics,,,Poultry Feed (PF),Poultry Feed (PF),,,Food Waste (FW),Food Waste (FW),Food Waste (FW),,,Poultry Manure (PM),Poultry Manure (PM),
+2,Parameter,Model;,Strain,Diet,SxD,Strain,Strain,Strain,Strain,Strain,Strain,,Strain,Strain,Strain,Strain,Strain,Strain
+3,Parameter,Test,DF=3),DF=2,(DF = 6),S1,S2,S3,S4,S1,S2,,S3,S4,S1,S2,S3,S4
+4,reduction(g/kg diet),1;F,533.7 ***,2118.8 ***,(0),593,598,599,585,833,814,,840,832,189 ij,175ij,233 i,166i
+5,reduction(g/kg diet),ii;F,48.9 ***,368.6***,(0,479,456,499,461,531,525,,552,587,146,154,215,179
+6,Hemicellulose (HC) reduction (g/kg,1;F,255.0***,2469.0 ***,(8),684,710,678,683,976 ef,952 f,,977 e,960 ef,316i,237 i,285 i,128i
+7,(g emissions/kg diet),"iv,2:",297.7 ***,5986.1 ***,(7),294 c,270 d,381 a,353 b,546g,545g,,582 f,610e,274 k,278 jk,297 ij,307i

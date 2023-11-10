@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8
+0,,'Bialobrzeskie','Carmagnola',Fedora 17,Felina 32',KC Dora','Kompolti',Santhica 27,"""Tiborszallasi'"
+1,Proximate composition (g/100 g),Proximate composition (g/100 g),,,,,,,
+2,Moisture,4.53  0.06f,"5.2  0.2a,b,c,d,e,f",5.67  0.03e,6.72  0.02b,6.04  0.04c,7.06 0.01a,"5.94  0.04c,d","5.73  0.05d,e"
+3,Protein,23.0  0.5a,"21.9  0.3a,b","19.8  0.8c,d",18.3  0.8d,"21.2  0.5b,c",18.8  0.2d,18.3  0.9d,"22.3  0.6a,b"
+4,Fat,32.66  0.01a,32.3  0.2a,"31.3  0.3a,b,c","29.8  0.9c,d","31.5  0.2a,b",31.70.2a,"29.9  0.9b,c,d",29.1  0.8d
+5,ACH,10.28  0.04a,9.1  0.5b,"9.3  0.2a,b","9.4  0.5a,b",8.7  0.5b,"9.4  0.4a,b",10.4  0.3a,"9.6  0.5a,b"
+6,NDF,32.5  0.5d,"39.5  0.2a,b,c",36.6  0.3c,"382a,b,c","37  2b,c",40.4  0.8a,"37.44  0.02a,b,c","40.0  1.2a,b"
+7,TMC,4.56  0.08f,"5.46  0.02b,c",4.84  0.01e,5.1  0.1d,"5.29  0.07c,d",6.32  0.09a,4.2  0.1 g,5.69  0.08b
+8,Energy value (kcal/100 g) and its distribution by nutrient (%),Energy value (kcal/100 g) and its distribution by nutrient (%),Energy value (kcal/100 g) and its distribution by nutrient (%),,,,,,
+9,Energy value,492  2a,"4945a,b","471  4a,b","456  10a,b","476  3a,b",479  2b,"459  9a,b","469  8a,b"
+10,Protein,18.7  0.3a,"21.9  0.3a,b","16.8  0.6b,c",161c,"17.8  0.4a,b",15.70.2,16.00.6,19.0  0.4a
+11,Fat,59.8  0.2a,58.8  0.3a,59.8  0.6a,58.9  0.6a,59.4  0.6a,59.6  0.3a,58.7  0.8a,55.8 0.6b
+12,ACH,"8.36  0.04a,b","7.4  0.4c,d","7.9  0.1b.c,d","8.3  0.4a,b,c",7.3  0.4d,"7.9  0.4b,c,d",9.0  0.4a,"8.2  0.3a,b,c,d"
+13,NDF,13.2  0.2d,"16.0  0.1a,b,c","15.6 0.2b,c","16.8  0.5a,b,c",15.5  0.9c,"16.9  0.3a,b","16.3  0.3a,b,c",17.1  0.7a
+14,Soluble sugars (g/100 g),Soluble sugars (g/100 g),,,,,,,
+15,Fructose,0.60  0.01a,0.113  0.002b,nd,0.113 0.003b,nd,nd,nd,nd
+16,Glucose,0.780.01,0.232 0.006b,nd,0.1210.003,nd,nd,nd,nd
+17,Sucrose,1.69  0.03 h,2.99  0.03d,3.62  0.04b,2.62  0.03e,2.32  0.06 g,2.47  0.02f,3.87  0.05a,3.16  0.01c
+18,Raffinose,0.65  0.01d,0.548  0.009e,0.99  0.04a,0.97  0.03a,0.82  0.02b,"0.81  0.02b,c",0.752  0.004,0.49  0.02f
+19,Total,"3.73  0.07c,d",3.88 0.01b,4.61  0.01a,"3.82  0.05b,c",3.14  0.08f,3.28  0.05e,4.62  0.05a,3.64  0.03d
+20,Organic acids (mg/100 g),Organic acids (mg/100 g),,,,,,,
+21,Oxalic acid,1285c,94  2d,87.1  0.8d,514f,64  1e,18.5  0.3 g,155.0  0.2b,191 2a
+22,Citric acid,2132b,853e,186  4c,1197d,218  10b,128  6d,353  4a,186 8c
+23,Fumaric acid,tr,tr,tr,tr,tr,tr,tr,tr

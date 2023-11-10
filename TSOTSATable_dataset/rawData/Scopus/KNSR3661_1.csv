@@ -1,0 +1,43 @@
+,0,1,2
+0,Variable,n,(%)
+1,"Age,y",,
+2,<25,3361,(7.0)
+3,25 to<30,11312,(23.5)
+4,30 to<35,15 779,(32.8)
+5,>35,17 614,(36.6)
+6,"Body mass index, kg/m2",,
+7,<18.5,1760,(3.7)
+8,18.5 to <25,33 184,(69.0)
+9,25,13 121,(27.3)
+10,"Highest education level, y",,
+11,<12,20 296,(42.2)
+12,>12 to <16,11355,(23.6)
+13,>16,16414,(34.2)
+14,Full-time work,,
+15,No,7824,(16.3)
+16,Yes,40241,(83.7)
+17,"Annual household income, million JPY",,
+18,<4,18 915,(39.4)
+19,4 to <6,16 143,(33.6)
+20,>6,13 007,(27.1)
+21,Smoking status,,
+22,Never,13 945,(29.0)
+23,Former,13 625,(28.3)
+24,Current,20496,(42.6)
+25,Alcohol intake,,
+26,Never,10 204,(21.2)
+27,Former,1809,(3.8)
+28,Current,36 052,(75.0)
+29,Number of children,,
+30,0,22 335,(46.5)
+31,>1,25 730,(53.5)
+32,Marital status,,
+33,Married,46 596,(96.9)
+34,Single,1264,(2.6)
+35,Divorced or widowed,205,(0.4)
+36,"History of depression, anxiety or schizophrenia","History of depression, anxiety or schizophrenia",
+37,No,46 528,(96.8)
+38,Yes,1537,(3.2)
+39,Kessler Psychological Distress Scale (K6) score,,
+40,0-12,47 124,(98.0)
+41,>13,941,(2.0)

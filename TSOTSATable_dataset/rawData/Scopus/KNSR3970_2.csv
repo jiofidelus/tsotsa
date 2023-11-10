@@ -1,0 +1,40 @@
+,0,1,2,3
+0,Variable,kJ/d,kcal/d,%total energy intake
+1,"Fresh, minimally processed, culinary preparations or culinary ingredients",5012.7,1197.5,62.4
+2,Rice,1164.1,278.1,14.8
+3,Meat,839.7,200.6,10.4
+4,Chicken,572.2,136.7,7.3
+5,Milk,407.3,97.3,4.9
+6,Other cereals and preparations*,285.5,68.2,3.5
+7,Beans,232.3,55.5,2.9
+8,Fish,232.3,55.5,3.0
+9,Cassava flour,220.2,52.6,2.5
+10,Fruits,203.4,48.6,2.4
+11,Coffee and teas,142.7,34.1,1.9
+12,Juices and smoothies,159.7,36.0,'1.8
+13,Other food and mixed preparationst,141.1,33.7,1.8
+14,Eggs,126.4,30.2,1.6
+15,Roots and tubers,47.3,11.3,0.6
+16,Vegetables and legumes,20.9,5.0,0.3
+17,Sugar,217.2,51.9,2.6
+18,Oils,9.2,2.2,0-1
+19,Otherst,0.0,0.0,0.0
+20,Processed foods,895.0,213.8,11.4
+21,Breads,815.9,194.9,10.2
+22,Canned fish and fruit,34.3,8.2,0.6
+23,Cheese,33.5,8.0,0.4
+24,Processed meat,11.3,2.7,0.2
+25,Ultra-processed food,2122.2,507.7,26.2
+26,"Cakes,pies and cookies",477.2,114.0,5.6
+27,Salty crackers and snacks,360.7,86.7,4.4
+28,Fast food meals,239.1,57.2,3.6
+29,Ready and semi-ready meals,224.8,53.7,2.8
+30,Soft drinks and processed juices,206.9,49.5,2.4
+31,Charcuterie,164.7,39.4,2.1
+32,"Desserts,chocolates, candy",142.5,34.1,1.8
+33,Dairy beverages,129.3,30.9,1.6
+34,"White bread**,hot dog, hamburger",128.1,30.6,1.5
+35,Other productstt,23.9,5.7,0.2
+36,Margarine and sauces/salsas,21.3,5.1,0.2
+37,Morning cereals,3.3,0.8,0.0
+38,Total,8032.9,1919.0,100.0

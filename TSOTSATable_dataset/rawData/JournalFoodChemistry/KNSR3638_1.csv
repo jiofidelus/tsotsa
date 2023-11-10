@@ -1,0 +1,17 @@
+,0,1,2,3
+0,Microorganism,Microbial strains,MIC,MBC/MFC
+1,,,(mg/ml),(mg/ml)
+2,Bacteria,Escherichia coli DH5,4.5,9
+3,,Escherichia coli ATCC 25922,4.5,9
+4,,Pseudomonas aeruginosa,9,18
+5,,Pseudomonas fluorescens,9,18
+6,,Bacillus subtilis,2.25,4.5
+7,,Staphylococcus aureus,2.25,4.5
+8,Fungi,Penicillium digitatum,9,18
+9,,Aspergillus flavus,4.5,9
+10,,Aspergillus niger,9,18
+11,,Mucor spp.,2.25,4.5
+12,,Rhizopus nigricans,4.5,9
+13,,Fusarium oxysporum,4.5,9
+14,Yeasts,Candida albicans,2.25,4.5
+15,,Sacchromyces cerevisiae,1.13,2.25

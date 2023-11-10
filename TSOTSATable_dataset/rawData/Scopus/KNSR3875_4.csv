@@ -1,0 +1,32 @@
+,0,1,2
+0,,Curve variables,Curve smoothing procedures
+1,Weight-for-age,,"3 parameter linear model fit to empirical percentile points for weight at midpoints of age intervals, and anchored"
+2,Birth to 36 months,Birth to 36 months,"i.e.,forced) at birth."
+3,2-20 years,,Locally weighted regression based on 15 point smoothing for boys and 17 point smoothing for girls.Fit to
+4,,,empirical percentile points for weight at midpoints of age intervals.
+5,Birth to 20years,Birth to 20years,Merged infant and older child curves from birth to 20 years by combining weighted averages of empirical
+6,,,percentiles at ages 24.00-29.99 and 30.00-35.99 months. Further smoothed combined data with a family of 10
+7,,,"parameter polynomial regression models for boys and 9 parameter polynomial regression models for girls,fit to"
+8,,,smoothed percentile points for weight at midpoints of age intervals.
+9,Length-for-age,,3 parameter linear model fit to empirical percentile points for length at midpoints of age intervals and to birth data
+10,Birth to 36 months,Birth to 36 months,
+11,Stature-for-age,,10 parameter nonlinear model fit to empirical points for stature at midpoints of age intervals. Nonlinear model use
+12,220 years,,"to ensure a monotonic increase in stature during pre-pubertal, pubertal, and post-pubertal growth periods."
+13,Length-for-age and stature-for-age,Length-for-age and stature-for-age,"Adjusted length-for-age curves, smoothed with a 3 parameter linear model, by subtracting 0.8 cm from length to"
+14,Birth to 20 years,Birth to 20 years,make length continuous with stature in the overlapping age interval of 24 to 36 months. Averaged percentiles in
+15,,,"the overlap period by assigning weights of 1, 11/12, ..,1/12, 0 at 24, 25, ..., 35, 36 months, respectively, to"
+16,,,"length-for-age. Assigned opposite weights of 0,1/12,...,11/12, 12/12 at 24,25,....35,36 months,respectively,to"
+17,,,stature-for-age smoothed with a 10 parameter nonlinear model.The modified LMS smoothing procedure was
+18,,,"applied to the combined data,and length-for-age was readjusted by adding back 0.8 cm to length, producing"
+19,,,separate length-for-age and stature-for-age curves.
+20,Head circumference-for-age,Head circumference-for-age,3 parameter linear model fit to empirical percentile points for head circumference at midpoints of age intervals anc
+21,Birth to 36 months,Birth to 36 months,to birth data.
+22,Weight-for-length and weight-for-stature,Weight-for-length and weight-for-stature,Adjusted empirical weight-for-length data by subtracting 0.8 cm from length to make length continuous with statur
+23,45-121 cm,,in the overlapping age interval of 24-36 months. Merged empirical weight-for-length and weight-for-stature data.
+24,,,"Smoothed combined data with a 5 parameter polynomial regression model, fit to empirical percentile points for"
+25,,,weight at midpoints of 2 cm intervals for length and stature.Readjusted weight-for-length curves by adding 0.8 cn
+26,,,"back to length, producing separate weight-for-length and weight-for-stature curves."
+27,BMI-for-age,,Locally weighted regression model based on a 5 point smoothing at midpoints of age intervals for ages 2-12.5
+28,2-20years,,"years,and a 25 point smoothing for boys and a 27 point smoothing for girls for ages 13-20 years.Further"
+29,,,smoothed with a 4 parameter polynomial regression model fit to smoothed percentile points for BMI at midpoints
+30,,,of age intervals.

@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6
+0,,m/z Exp,Suggested Molecule,MF,RDB eq,VIP,Group
+1,Ur1,178.0512,Hippuric acid,CgH9O3N,6.5,20.3404,HT
+2,Ur2,194.0462,Hydroxyhippuric acid,CgH9O4N,6.5,6.30864,Placebo
+3,Ur3,367.1586,Epitestosterone sulfate,C19H28O5S,6.5,5.59170,Placebo
+4,Ur4,369.1733,5a-Dihydrotestosterone sulfate,C19H3oO5S,5.5,5.29357,Placebo
+5,Ur5,181.0505,Homovanillic acid,CgH1oO4,5.5,5.20725,Placebo
+6,Ur6,145.0616,Glutamine,CH1oON2,2.5,5.08479,HT
+7,Ur7,261.0079,Homovanillic acid sulfate,CgH1oO7S,5.5,4.62802,Placebo
+8,Ur8,187.0073,p-cresol sulfate,C7HgO4S,4.5,4.15471,HT
+9,Ur9,195.0523,"1,3-Dimethyluric acid",C?HgO3N4,6.5,4.05979,Placebo
+10,Ur10,245.0128,Homovanillic aldehyde sulfate,C9H1oO6S,5.5,3.97235,Placebo

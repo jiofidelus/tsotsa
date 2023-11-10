@@ -1,0 +1,58 @@
+,0,1
+0,miRNA[Sequence],Function[Reference]
+1,,Common miRNAs
+2,,"Suppresses ameloblastoma cell migration [371]; suppresses osteosarcoma cells [372], GC[373]"
+3,hsa-miR-141-3p,and CRC [374];promotes endothelial cell angiogenesis [375];regulates myogenic
+4,[UAACACUGUCUGGUAAAGAUGG],differentiation in myoblasts [376]; regulates IL-13-induced airway mucus production [377];
+5,,regulates mesenchymal stem cell aging [378]
+6,hsa-miR-22-3p,Suppresses endothelial progenitor cell proliferation and migration in venous thrombosis [379];
+7,[AAGCUGCCAGUUGAAGAACUGU],suppresses T-cells in ALL [380]; suppresses sepsis-induced acute kidney injury [381].
+8,hsa-miR-181a-5p,several cancer genes [384]; regulates multiple malignant processes of breast cancer [385];
+9,[AACAUUCAACGCUGUCGGUGAGU],suppresses invasion and migration of HTR-8/SVneo in pre-eclampsia [386]
+10,,Regulates the glutamate transporter in multiple sclerosis [387]; regulates fatty acid and sterol
+11,hsa-miR-26a-5p,metabolism in nonalcoholic fatty liver disease; regulates the expression of inducible nitric oxide
+12,[UUCAAGUAAUCCAGGAUAGGCU],synthase in human osteoarthritis chondrocytes [388]; suppresses breast cancer [389] and
+13,,prostate cancer [390].
+14,hsa-miR-30a-5p,"Suppresses CRC [391], lung squamous cell carcinoma [392], and renal cell carcinoma [393]"
+15,[UGUAAACAUCCUCGACUGGAAG],"Suppresses CRC [391], lung squamous cell carcinoma [392], and renal cell carcinoma [393]"
+16,hsa-let-7a-5p,Decreases cell proliferation and inhibits the expression of Bel-2 in ovarian cancer cells [394]
+17,[UGAGGUAGUAGGUUGUAUAGUU],Decreases cell proliferation and inhibits the expression of Bel-2 in ovarian cancer cells [394]
+18,hsa-miR-148a-3p,Suppresses GC [395];promotes ADH4 expression [396];regulates angiogenesis [397]
+19,[UCAGUGCACUACAGAACUUUGU],Suppresses GC [395];promotes ADH4 expression [396];regulates angiogenesis [397]
+20,hsa-miR-27b-3p,migration in Kawasaki Disease [401]; suppresses Osteogenic differentiation of maxillary sinus
+21,[UUCACAGUGGCUAAGUUCUGC],membrane stem cells by targeting Sp7 [402]
+22,hsa-miR-146b-5p,"Suppresses NSCLC[403], and glioma [404]; down-regulates BRCA1 expression in TNBC[405];"
+23,[UGAGAACUGAAUUCCAUAGGCUG],induces IL-6 [406]
+24,[UGAGGUAGUAGAUUGUAUAGUU],Promotes bone marrow MSCs survival in AD [407] and suppresses NSCLC [408].
+25,hsa-miR-21-5p,expression [411]; promotes ThP-1 cell proliferation [412]; links EMT in keloid
+26,[UAGCUUAUCAGACUGAUGUUGA],expression [411]; promotes ThP-1 cell proliferation [412]; links EMT in keloid
+27,,"Suppresses lymphoma [414]; promotes cell proliferation, invasion and metastasis, inhibiting"
+28,, cell apoptosis and serving as predictive biomarkers for tumor diagnosis or
+29,hsa-miR-92a-3p,chemoresistance [415]; regulates angiogenesis in stromal cells [416]; relates to activated partial
+30,[UAUUGCACUUGUCCCGGCCUGU],"thromboplastin time, prothrombin activity and plasma lipocalin-2 level [417]; regulates"
+31,,cartilage-specific gene expression in chondrogenesis [418]; regulates aggrecanase-1 and 2
+32,,expressions in human articular chondrocytes [419].
+33,,"Suppresses CRC [420], chordoma [421], neuroblastoma [422] and breast cancer [423]; involved"
+34,,in dilation of ischemic cardiomyopathy [424]; enhances radiosensitivity in prostate cancer [425];
+35,hsa-miR-16-5p,of hippocampal neurons in AD [427];controls development of osteoarthritis in
+36,[UAGCAGCACGUAAAUAUUGGCG],chondrocytes [428]; suppresses myofibroblast activation in systemic sclerosis [429]; regulates
+37,,the p53 signaling pathway in myoblast differentiation [430]; regulates
+38,,postmenopausal osteoporosis [431].
+39,,"Suppresses HER2-positive BC [432], HCC [433,434], glioblastoma [435], endometrial"
+40,hsa-miR-101-3p,"carcinoma [436], NSCLC [437], renal cell carcinoma [438] and melanoma [439]; regulates cancer"
+41,[UACAGUACUGUGAUAACUGAA],proliferation [440]; regulates mitochondrial metabolic function [440]; induces vascular
+42,,endothelial cell dysfunction [441]; regulates osteogenesis [442]
+43,hsa-miR-30d-5p,"cancer [446], ESCC [447], renal carcinoma [448], PC [449], HCC [450], THCA [451], LSCC [452]"
+44,[UGUAAACAUCCCCGACUGGAAG],"cancer [446], ESCC [447], renal carcinoma [448], PC [449], HCC [450], THCA [451], LSCC [452]"
+45,hsa-miR-378a-3p,glioblastoma [457] and HCC [458]; protects against intestinal injury [459]; modulates
+46,[ACUGGACUUGGAGUCAGAAGGC],keratinocytes cell cycle arrest in psoriasis keratinocytes [460].
+47,hsa-miR-191-5p,Inhibits replication of human immunodeficiency virus type 1 (HIV-1) [461]
+48,[CAACGGAAUCCCAAAAGCAGCUG],Inhibits replication of human immunodeficiency virus type 1 (HIV-1) [461]
+49,,Inhibits osteogenic differentiation [462]; inhibits keratinocyte proliferation in atopic
+50,hsa-miR-10a-5p,expression in follicular fluid [465]; suppresses renal cell carcinoma [466]; mitigates Ca2+ entry
+51,[UACCCUGUAGAUCCGAAUUUGUG],in T cells through gut bacterial metabolite urolithin [467]; enhances viability and migration of
+52,,human umbilical vein endothelial cells [468].
+53,hsa-let-7b-5p,promotes angiogenesis [470]; inhibits proliferation of leukemia [471]; inhibits proliferation of
+54,[UGAGGUAGUAGGUUGUGUGGUU],leukemia THP-1 Cells [471].
+55,hsa-miR-200a-3p,Prevents MPP+-induced apoptotic cell death [472]
+56,[UAACACUGUCUGGUAACGAUGU],Prevents MPP+-induced apoptotic cell death [472]

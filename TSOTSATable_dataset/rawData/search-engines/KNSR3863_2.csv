@@ -1,0 +1,37 @@
+,0,1,2
+0,,Differences in National FCDBs,ENDB objectives
+1,At food level,"Between 60 and 11,000 foods,some in",At least 1000 foods per country
+2,,local language only,"in local language,English and"
+3,,,taxonomic names
+4,,Incomparable food classification and,Common food classification
+5,,description,and description
+6,,"Some with mainly raw foods,others with",Foods as consumed
+7,,foods as consumed,
+8,,Coverage of frequently consumed,Sufficient coverage of frequently
+9,,"foods sometimes insufficient, especially",consumed foods.Nutrient
+10,,for meat and manufactured products,values also from other sources
+11,,,"e.g.,food industry,other databases"
+12,At nutrient level,Different definitions and analytical methods,Different definitions and
+13,,,analytical methods to be
+14,,,separated on nutrient level
+15,,Different modes of expression and units,Standardized modes of
+16,,,expression and units
+17,,Missing nutrient values and outdated values,Calculation or estimation
+18,,,of missing nutrient values
+19,,,and replacement of outdated
+20,,,values by data from other sources
+21,Documentation,Lacking in most FCDBs for,Documentation provided as
+22,of nutrient values,,far as possible:
+23,,"Definitions, analytical methods","At the nutrient level definitions,"
+24,,source of value at nutrient,"analytical methods, and"
+25,,"level e.g.,if analysed,calculated,copied)",sources to evaluate quality and
+26,,,comparability of values
+27,,Food sampling methods usually not,Food sampling methods if existing
+28,,available,
+29,,"Algorithms, coefficients or recipes","Algorithms,coefficients or"
+30,,used to calculate,recipes used to calculate
+31,,missing values are lacking in most FCDBs,missing values
+32,At compilation,Different treatment of missing values,"No missing values, to avoid"
+33,level,,underestimation of nutrient intake
+34,,"Different calculation procedures, e.g.recipe",Common calculation procedures
+35,,"algorithm calculations,retention factors",algorithms and coefficients

@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7
+0,,,Anthocyanins,Anthocyanins,Phenolic Acid,Flavonoids,Stilbenes,TOTAL
+1,,Samples,(mg/kg Dry,(mg/kg Dry,(mg/kg Dry,(mg/kg Dry,(mg/kg Dry,(mg/kg Dry
+2,,,Weight),Weight),Weight),Weight),Weight),Weight)
+3,,ACW,1109.9  2.8 j,1109.9  2.8 j,65.7  10.1 hij,1.3  0.2 g,/,1176.9  13.1 j
+4,,AQW,753.1  37.8 jk,753.1  37.8 jk,43.7  0.2 mn,2.8  0.2 g,/,799.6  38.2 ij
+5,Undigested,AQS,"30,512.8  108.5 b",,604.7  13.7 d,235.7 0.5 c,42.4  0.2 b,"31,395.6  95.6 b"
+6,,NCS,"23,108.3  240.1 c","23,108.3  240.1 c",1160.5  13.8 a,347.3  28.9 b,33.9  0.2 bc,"24,650.0  255.4 c"
+7,,NQS,"21,631.6  1140.9 d",,1119.51.8 b,486.3  12 a,26.4  0.9 c,"23,263.7  1151.1 d"
+8,,ACgW,3783.6  54.1 h,3783.6  54.1 h,19.8  3.5 qr,8.4  1.1 fg,/,3811.7  56.5 h
+9,Gastric-digested (-g),AQgW,1826.0  138.5 i,1826.0  138.5 i,110.6  6.9 f,8.8  0.8 fg,/,1945.4  146.2 i
+10,Gastric-digested (-g),NCgW,743.8  4.3 jk,743.8  4.3 jk,69.3  0.7 hi,/,/,813.1  3.6 jk
+11,Gastric-digested (-g),NQgW,269.6  22.5 klm,269.6  22.5 klm,36.0  0.8 nop,/,/,305.6  23.3 lmn
+12,Gastric-digested (-g),ACgS,"16,308.3  24.4 e","16,308.3  24.4 e",30.4  6.4 opq,55.5  17.9 d,/,"16,394.2  48.7 e"
+13,Gastric-digested (-g),AQgS,5502.1  109.1 f,5502.1  109.1 f,42.1  1.9 mno,31.1  1.6 e,/,5575.3  105.7 f
+14,Gastric-digested (-g),NCgS,1725.8  0.04 i,1725.8  0.04 i,16.2  2.9 r,5.1 1.1g,/,1747.2  4.1 i
+15,,NQgS,4918.8  396.5 g,4918.8  396.5 g,56.1  3.2 jkl,22.8  1.5 ef,/,4997.8  401.2 g
+16,Intestinal-digested (,ACiW,409.2  36.3 klm,409.2  36.3 klm,204.5  1.4 e,16.4  1.0 efg,/,630.0  38.7 klm
+17,Intestinal-digested (,AQiW,68.5  1.1 m,68.5  1.1 m,46.8  0.3 lmn,4.1  0.02g,/,119.4  0.9 n
+18,Intestinal-digested (,NCiW,/,/,73.5  6.3 h,/,/,73.5  6.3 n
+19,Intestinal-digested (,NQiW,,/,58.7  9.3 ijkl,/,/,58.7  9.3 n
+20,,ACiS,586.4  18.0 kl,586.4  18.0 kl,86.0  4.6 g,14.9  1.0 efg,/,687.2  23.6 kl
+21,Intestinal-digested (,AQiS,148.5  1.8 lm,148.5  1.8 lm,30.9  5.4 opq,6.5  0.2 fg,/,185.9  3.4 mn
+22,,NCiS,101.5  1.7 lm,101.5  1.7 lm,52.1  2.0 hijklm,/,/,153.7  3.7 mn
+23,,NQiS,/,/,28.4  0.4 pqr,/,,28.4  0.4 n

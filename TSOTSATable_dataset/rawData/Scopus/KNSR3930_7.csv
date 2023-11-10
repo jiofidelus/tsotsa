@@ -1,0 +1,44 @@
+,0,1,2,3,4,5,6,7
+0,Subject ID,Symptom,in 2021,in 2021,Severity,Treatment,outcome,Causality
+1,,,,Placebo group,,,,
+2,54839,Eczema,April 11,April 12,Mild,Medication,Recovery/disappearance,No association
+3,56020,Common cold,April15,April 16,Mild,Medication,Recovery/disappearance,No association
+4,,,April11,April 15,Mild,Medication,Recovery/disappearance,No association
+5,56033,Headache,,April 15,,,,
+6,,,April21,April 23,Mild,Medication,Recovery/disappearance,No association
+7,,Allergic rhinitis,April2,May2,Mild,Medication,Recovery/disappearance,No association
+8,56285,,April2,,,Medication,,
+9,,Cough,April2,April 23,Mild,Medication,Recovery/disappearance,No association
+10,,Eye strain,May 8,May 17,Mild,Medication,Recovery/disappearance,No association
+11,56317,Hemostasis,May 8,May 13,Mild,Medication,Recovery/disappearance,No association
+12,,Mydriasis,May 8,May 15,Mild,Medication,Recovery/disappearance,No association
+13,57248,Back pain,April6,April7,Mild,Medication,Recovery/disappearance,No association
+14,57823,Muscle pain,April1,May 12,Mild,Medication,Recovery/disappearance,No association
+15,57829,Allergic rhinitis,March 29,April11,Mild,Medication,Recovery/disappearance,No association
+16,,,,Intervention group,,,,
+17,,,April 10,April11,Mild,Medication,Recovery/disappearance,No association
+18,,Headache,April13,April 14,Mild,Medication,Recovery/disappearance,No association
+19,,,April 15,April 16,Mild,Medication,Recovery/disappearance,No association
+20,,Dysmenorrhea,May9,May 11,Mild,Medication,Recovery/disappearance,No association
+21,56037,Joint pain,May 2,May5,Mild,Medication,Recovery/disappearance,No association
+22,56829,Headache,April 27,April 28,Mild,Medication,Recovery/disappearance,No association
+23,56868,Diarrhea,May 8,May9,Mild,Medication,Recovery/disappearance,No association
+24,,,April15,April 18,Mild,Medication,Recovery/disappearance,No association
+25,57336,Dysmenorrhea,,April 18,,,,
+26,,,May7,May 9,Mild,Medication,Recovery/disappearance,No association
+27,57850,Common cold,April 27,April 30,Mild,Medication,Recovery/disappearance,No association
+28,,,April5,April9,Mild,Medication,Recovery/disappearance,No association
+29,,,April 12,April 23,Mild,Medication,Recovery/disappearance,No association
+30,,,April27,May1,Mild,Medication,Recovery/disappearance,No association
+31,,Constipation,,,,,,
+32,,,May 1,May5,Mild,Medication,Recovery/disappearance,No association
+33,,,May 10,May 11,Mild,Medication,Recovery/disappearance,No association
+34,58000,,,,,,,
+35,,,May 13,May 14,Mild,Medication,Recovery/disappearance,No association
+36,,Oral mucositis,April6,April11,Mild,Medication,Recovery/disappearance,No association
+37,,,April21,April 24,Mild,Medication,Recovery/disappearance,No association
+38,,Intestines,April 25,May1,Mild,Medication,Recovery/disappearance,No association
+39,,,May 3,May8,Mild,Medication,Recovery/disappearance,No association
+40,,Hay fever,April 10,April 12,Mild,Medication,Recovery/disappearance,No association
+41,58102,Hay fever,,,,Medication,,
+42,,Castroenteritis,April10,April12,Mild,Medication,Recoverv/disappearance,No association

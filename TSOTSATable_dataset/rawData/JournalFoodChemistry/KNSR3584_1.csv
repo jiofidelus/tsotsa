@@ -1,0 +1,32 @@
+,0,1,2,3,4
+0,Product type,n,Meat cuts,Production,Origin
+1,,,included,method,
+2,Camel(Camelus,,,Wild,Central Australia
+3,dromedarius),,,,
+4,Meat,6,"Fillet,mince",,
+5,,,dicedaeye,,
+6,,,"fillet,rump,",,
+7,,,knuckle,,
+8,Hump fat/meat,4,Hump,,
+9,Crocodile meat,8,"Tail fillet,",Farmed,Queensland
+10,(Crocodylus,,"mincea,",,
+11,porosus),,"striploin, sweet",,
+12,,,cut(cheek,,
+13,,,body trimb,,
+14,Emu (Dromaius,,,Farmed,
+15,novaehollandiae),,,,
+16,Meat,6,"Fan fillet,flat",,Victoria
+17,,,"fillet,mince",,
+18,Heart,4,Heart,,Victoria
+19,Eggs,8,,,New South
+20,,,,,"Wales, Victoria"
+21,,,,,Western
+22,,,,,Australia
+23,Oil,6,,,New South
+24,,,,,"Wales,Victoria"
+25,,,,,Western
+26,,,,,Australia
+27,Kangaroo meat,8,"Fillet, rump,",Wild,"Queensland,"
+28,(Macropus giganteus,,"mincea,",,New South Wales
+29,and Macropus,,"striploin, tail",,
+30,rufus),,"butt,tail",,

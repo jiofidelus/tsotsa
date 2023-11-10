@@ -1,0 +1,48 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,,,,Raw data,,Aggregated data*,Aggregated data*,
+1,Food description,,Processing,Mean,,,Reference,(mg/100g),(mg/100 g),
+2,Food description,Scientific name,Processing,(mg/100 g),No of samples,No of samples,Reference,(mg/100g),(mg/100 g),
+3,Broccoli,Brassica oleracea var. italica,Raw,40.80,2,,Yen & Wei (1993),61.7,19.3-127.5,
+4,Broccoli,,,127.49,2,,Carlson et al. (1987),,,
+5,,,,19.28,NR,,Hrncirik & Velisek (1997),,,
+6,,,,61-10,NR,,Sones et al. (1984a),,,
+7,,,,62.30,25,,Lewis & Fenwick (1987),,,
+8,Broccoli,,Cooked,37.20,NR,,Sones et al. (1984a),50.7,,
+9,"Broccoli, frozen",,Raw,50.70,NR,,Sones et al. (1984a),20.7,,
+10,"Broccoli,frozen",,Cooked,20.70,NR,,Sones et al. (1984a),20.7,80.1-445.5,
+11,Brussels sprouts,Brassica oleracea var. gemmifera,Raw,252.72,2,,Goodrich et al.1988,236.6,80.1-445.5,
+12,,,,252.72,6,,Carlson et al. (1987),,,
+13,,,,126.61,40,,Ciska et al. (1994),,,Glucosinolate 
+14,,,,200-20,109,,Heaney & Fenwick (1980),,,Glucosinolate 
+15,,,,80.12,NR,,Hrncirik & Velisek (1997),,,Glucosinolate 
+16,,,,226.20,44,,Sones et al. (1984a),,,Glucosinolate 
+17,,,,292.00,10,,Van Doorn et al.(1999),,,Glucosinolate 
+18,,,,247.00,2,,McMillan et al. (1986),,,Glucosinolate 
+19,"Brussels sprouts, frozen",,Cooked,90.50,NR,,Sones et al. (1984a),90.5,,content
+20,"Brussels sprouts, frozen",,Cooked,61.30,NR,,Sones et al. (1984a),61.3,,2
+21,"Cabbage, unspecified",Brassica oleracea var. capitata,Raw,58.90,2,,Kassahun et al. (1995),58.9,42.7-108.9,cruciferous
+22,,,,108.90,43,,Sones et al. (1984a),,,cruciferous
+23,,,,42.66,2,,Goodrich et al. (1988),,,cruciferous
+24,"Cabbage, unspecified",,Boiled,78.60,3,,Sones et al. (1984a),78.6,17.3-54.8,cruciferous
+25,"Cabbage, Chinese, pak-choi",Brassica chinensis,Raw,53.37,3,,Lewis & Fenwick (1988),54.1,17.3-54.8,cruciferous
+26,,,,57.20,NR,,Hrncirik & Velisek (1997),,,vegetables
+27,,,,57.20,2,,Yen & Wei (1993),,,vegetables
+28,"Cabbage, Chinese, pe-tsai",Brassica pekinensis,Raw,19.84,19,,Hill et al. 1987),20.6,8.9-54.1,vegetables
+29,,,,21.34,56,,Hill et al. 1987),,,vegetables
+30,,,,8.90,2,,Yen & Wei (1993),,,
+31,,,,54-11,18,,Daxenbichler et al.(1979,,26.5-76.6,
+32,"Cabbage, red",Brassica oleracea var. capitata,Raw,18.79,1,,VanEtten et al. (1980),64.2,26.5-76.6,
+33,,,,18.79,1,,Kassahun et al. (1995),,,
+34,,,,26.50,17,,Ciska et al. (1994),,,
+35,,,,64.20,2,,Yen & Wei (1993),,,
+36,,,,66.90,NR,,Sones et al. (1984a),,,
+37,"Cabbage, red",,Cooked,54.80,NR,,Sones et al. (1984a),54.8,59.5-209.0,
+38,"Cabbage, savoy",Brassica oleracea var. sabauda,Raw,59.47,4,,VanEtten et al. (1980),77.0,59.5-209.0,
+39,,,,59.47,17,,Ciska et al. (1994),,,
+40,,,,209.00,11,,(Sones et al. (1984b),,,
+41,"Cabbage, white",Brassica oleracea var.capitata,Raw,51.10,67,,VanEtten et al.(1980),37.7,8.4-90.0,
+42,,,,90.00,32,,Sones et al. (1984b),,,
+43,,,,37.70,17,,Yen & Wei (1993),,,
+44,,,,8.37,NR,,Yen & Wei (1993),,,
+45,,,,8.37,NR,,Hrncirik & Velisek (1997),,11.7-78.6,
+46,Cauliflower,Brassica oleracea var. botrytis,Raw,11.70,2,,Yen & Wei (1993),43.2,11.7-78.6,693

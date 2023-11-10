@@ -1,0 +1,75 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,,,,Quantitative,Standard,R2
+1,No.,Volatiles,CAS,RTz,RIY,Identification,standards,curvesw,R2
+2,1,Methyl acetate,000079-20-9,5.62,874,A,Methyl acetate,y=13354.40x -4.77,0.999
+3,2,Ethyl acetate,000141-78-6,6.38,908,A,Ethyl acetate,y=4041.08x-0.55,0.996
+4,3,3-Methyl-butanal,000590-86-3,6.93,932,A,3-Methyl-butanal,y = 549386.99x - 23.83,0.997
+5,4,2-Propanol,000067-63-0,7.09,939,A,2-Propanol,y=131715.25x +12.36,0.997
+6,5,2-Ethylfuran,003208-16-0,7.70,962,A,2-Ethylfuran,y = 6640.52x + 0.29,0.999
+7,6,Ethyl propionate,000105-37-3,7.70,981,A,Ethyl propionate,y=1727.58x-5.97,0.999
+8,7,"2,3-Butanedione",000431-03-8,8.07,981,B,Ethyl propionate,*y = 2034x,
+9,8,Propyl acetate,000109-60-4,8.22,982,A,Propyl acetate,y=1148.46x-0.04,0.998
+10,9,Pentanal,000110-62-3,8.22,988,B,Hexanal,y=1205.48x-3.51,0.999
+11,10,Methyl butanoate,000623-42-7,8.35,993,A,Methyl butanoate,y =935.52x +0.76,0.990
+12,11,4-Methyl-2-pentanone,000108-10-1,8.94,1011,B,,*y=2034x,
+13,12,1-Penten-3-one,001629-58-9,9.43,1022,B,,*y=2034x,
+14,13,-Pinene,000080-56-8,9.43,1034,B,,*y=2034x,
+15,14,Ethyl butanoate,000105-54-4,9.72,1034,A,Ethyl butanoate,y=752.83x+4.12,0.994
+16,15,2-Methyl-3-buten-2-ol,000115-18-4,9.78,1035,B,,*y = 2034x,
+17,16,Isopropyl butanoate,000638-11-9,9.80,1036,B,,*y = 2034x,
+18,17,Toluene,000108-88-3,9.92,1040,B,p-Cymene,y=4174.67x+4.91,0.997
+19,18,Ethyl 2-methylbutanoate,007452-79-1,10.21,1049,A,Ethyl 2-methylbutanoate,y =773.09x +5.44,0.998
+20,19,Butyl acetate,000108-64-5,10.81,1066,A,Butyl acetate,y=674.87x+0.31,0.969
+21,20,Butyl acetate,000123-86-4,10.81,1066,A,Butyl acetate,y=733.13x+1.87,0.997
+22,21,Hexanal,000066-25-1,11.16,1079,A,Hexanal,y=1205.48x-3.51,0.999
+23,22,2-pentanol,006032-29-7,12.46,1115,B,3-Methyl-1-butanol,y=4120.79x-1.85,0.999
+24,24,Ethyl valerate,000625-33-2,12.78,1125,B,,*y=2034x,
+25,25,Ethyl valerate,000539-82-2,13.01,1132,A,Ethyl valerate,y=737.43x+1.64,0.998
+26,25,(Z-3-Hexenal,004440-65-7,13.30,1140,B,Hexanal,y=1205.48x-3.51,0.999
+27,26,Ethyl (E)-2-butenoate,000623-70-1,14.14,1165,B,Ethyl butanoate,y=752.83x+4.12,0.994
+28,27,2-Heptanone,000110-43-0,14.98,1190,B,,*y = 2034x,
+29,28,Heptanal,000111-71-7,14.98,1190,A,Heptanal,y=782.16x+6.07,0.997
+30,29,o-Xylene,000095-47-6,15.03,1191,B,p-Cymene,y =4174.67x +4.91,0.997
+31,30,3-Methyl-1-butanol,000123-51-3,15.92,1214,A,3-Methyl-1-butanol,y=4120.79x-1.85,0.999
+32,31,Eucalyptol,000470-82-6,16.17,1220,B,,*y=2034x,
+33,32,(E)-2-Hexenal,006728-26-3,16.52,1229,B,Ethyl hexanoate,y=1205.48x-3.51,0.996
+34,33,Ethyl hexanoate,000123-66-0,17.63,1239,A,Ethyl hexanoate,y=1415.88x+2.30,0.996
+35,34,3-Methyl-3-buten-1-ol,000100-42-5,17.63,1255,A,3-Methyl-3-buten-1-ol,y =3336.14x +6.03,0.988
+36,35,Styrene,000100-42-5,17.99,1263,A,Styrene,y=9310.03x+0.18,0.988
+37,36,p-Cymene,000099-87-6,18.56,1277,A,p-Cymene,y=4174.67x+4.91,0.997
+38,37,Terpinolene,000586-62-9,19.12,1290,B,,*y = 2034x,
+39,38,Octanal,000124-13-0,19.30,1294,B,Heptanal,y=782.16x+6.07,0.999
+40,39,Ethyl 3-hexenoate,002396-83-0,20.47,1322,B,Ethyl hexanoate,y=1415.88x+2.30,0.996
+41,40,(Z)-3-Hexenyl acetate,003681-71-8,20.47,1322,B,,*y=2034x,
+42,41,(Z)-2-Penten-1-ol,001576-95-0,20.61,1326,B,(Z)-2-Hexen-1-ol,y =1426.74x+11.50,0.998
+43,42,3-Methyl-2-buten-1-ol,000556-82-1,20.71,1328,B,3-Methyl-3-buten-1-ol,y =3336.14x+6.03,0.998
+44,43,(E-2-Heptenal,018829-55-5,20.87,1332,B,Heptanal,y=782.16x+6.07,0.999
+45,44,Ethyl heptanoate,000106-30-9,21.17,1339,A,Ethyl heptanoate,y =3730.19x-2.30,0.980
+46,45,6-Methyl-5-hepten-2-,000110-93-0,21.39,1344,A,6-Methyl-5-hepten-2-one,y=163.20x+0.15,0.999
+47,,one,001552-67-6,,,,,,
+48,46,Ethyl 2-hexenoate,001552-67-6,21.73,1352,B,Ethyl hexanoate,y = 1415.88x +2.30,0.996
+49,47,1-Hexanol,000111-27-3,22.04,1359,A,1-Hexanol,y=524.82x-0.17,0.999
+50,49,Ethyl (E)-4-heptenoate,054340-70-4,23.12,1392,B,Ethyl heptanoate,y =3730.19x - 2.30,0.980
+51,49,E-3-Hexen-1-ol,000928-96-1,23.76,1392,A,E)-3-Hexen-1-ol,y=1524.25x+4.03,0.999
+52,50,Nonanal,000124-19-6,23.76,1411,A,Nonanal,y = 5996.88x + 32.97,0.999
+53,51,"E,E)-2,4-Hexadienal",000142-83-6,24.22,1411,B,Hexanal,y=1205.48x-3.51,0.999
+54,52,E-2-Hexen-1-ol,000928-95-0,24.31,1414,A,E)-2-Hexen-1-ol,y=1099.76x-0.70,0.999
+55,53,Ethyl octanoate,000106-32-1,25.47,1442,A,Ethyl octanoate,y=3657.96x+1.74,0.997
+56,54,trans-Linalool oxide,034995-77-2,26.01,1455,B,Ethyl octanoate,*y = 2034x,0.997
+57,,(furanoid),,,,,,,
+58,55,1-Octen-3-ol,003391-86-4,26.11,1457,A,1-Octen-3-ol,y = 163.31 + 4.92,0.999
+59,56,1-Heptanol,000111-70-6,26.40,1464,A,1-Heptanol,y=200.40x-0.18,0.999
+60,57,6-Methyl-5-hepten-2-ol,001569-60-4,27.25,1485,B,Ethyl octanoate,*y = 2034x,0.997
+61,58,Ethyl (Z)-4-octenoate,034495-71-1,27.25,1485,B,Ethyl octanoate,y=3657.96x+1.74,0.997
+62,59,Methyl 3-,001487-49-6,27.57,1493,B,Methyl butanoate,y=935.52x+0.76,0.990
+63,,hydroxybutanoate,,,,,,,
+64,60,2-Ethyl-1-hexanol,000104-76-7,27.82,1498,A,2-Ethyl-1-hexanol,y=131.68x+0.98,0.999
+65,61,"(E,E)-2,4-Heptadienal",004313-03-5,28.05,1504,B,Heptanal,y=782.16x+6.07,0.999
+66,62,3-Nonen-2-one,036431-72-8,28.62,1518,B,,*y=2034x,
+67,63,3-Nonen-2-one,014309-57-0,28.81,1523,B,,*y = 2034x,
+68,64,Ethyl 3-,005405-41-4,29.09,1530,B,Ethyl butanoate,y =752.83x + 4.12,0.994
+69,,hydroxybutanoate,,,,,,,
+70,65,Benzaldehyde,000100-52-7,29.33,1536,A,Benzaldehyde,y =185.13x +2.44,0.998
+71,66,Linalool,000078-70-6,30.45,1554,A,Linalool,y =116.41x +5.26,0.994
+72,67,Ethyl 2-octenoate,002351-90-8,30.45,1563,B,Ethyl octanoate,y=3657.96x+1.74,0.997
+73,68,1-Octanol,000111-87-5,30.62,1567,B,,*y=2034x,

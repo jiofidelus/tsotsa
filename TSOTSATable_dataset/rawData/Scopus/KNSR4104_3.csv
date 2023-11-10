@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8
+0,No,CAS,Compounds,RT,RIA,IDB,Formula,Source,Aroma descriptionc
+1,1,66-25-1,Hexanal,6.123,851,"RI,MS",C6H12O,Aldehydes,"Green, grassya, b, c"
+2,2,57266-86-1,2-Heptenal,11.863,941,"RI,MS","C,H12O",Aldehydes,"Oxidized, tallowy, pungentd"
+3,3,2548-87-0,2-Octenal,14.281,972,"RI,MS",CgH14O,Aldehydes,"Green,fat,nuta,c"
+4,4,4313-03-5,"2,4-Heptadienal",15.06,982,"RI,MS",CH1oO,Aldehydes,"Fat, haya,f"
+5,5,5910-87-2,"(E,E)-2,4-Nonadienal",15.696,990,"RI,MS",CgH14O,Aldehydes,"Fat, oilya,f"
+6,6,25152-84-5,"(E,E)-2,4-Decadienal",21.103,1071,"RI,MS",C1oH16O,Aldehydes,"Rancid, fate,d"
+7,7,2363-88-4,"2,4-Decadienal",21.95,1084,"RI,MS",C1oH16O,Aldehydes,"Rancid, fate,d"
+8,8,1669-44-9,3-Octen-2-one,13.784,966,"RI,MS",CgH14O,Ketones,"Green, fruita,f"
+9,9,38284-27-4,"(E,E)-3,5-Octadiene-2-one",16.233,996,"RI,MS",CgH12O,Ketones,Fruite
+10,10,30086-02-3,"3,5-Octadiene-2-one",17.291,1012,"RI,MS",CgH12O,Ketones,Melone
+11,11,3391-86-4,1-Octen-3-ol,14.742,978,"RI,MS",CgH16O,Alcohol,"Mushroom, fruita.e,f"
+12,12,142-62-1,Hexanoic acid,22.451,1092,"RI,MS",C6H12O2,Acid,"Raincid, Chees, Fata,c"

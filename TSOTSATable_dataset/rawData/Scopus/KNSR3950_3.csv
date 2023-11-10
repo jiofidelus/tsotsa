@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7,8
+0,Gender (%),Gender (%),Height,Weight,Average,,Weight status (%) *,,PA **
+1,,,(cm),(kg),of BMI,Under Weight,Normal Weight,Over-Weight,
+2,Men,61.5,169.5  4.4,67.2  14.2,23.2  4.3,18.8,43.8,37.5,5.9
+3,Women,38.5,157.7  6.0,52.4  5.8,21.1  2.4,10.0,90.0,0.0,3.9
+4,All,,165.0  7.5,61.5  13.4,22.4  3.6,15.4,61.5,23.1,5.1

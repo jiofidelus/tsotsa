@@ -1,0 +1,30 @@
+,0,1,2,3,4
+0,Species,Agents type,Selection agents,Compatible,References
+1,Andrallus spinidens,Bioinsecticide,Beauveria bassiana,No,Firouzbakht et al.(2015
+2,,Plant resistant and GM,Bt-rice,Yes,Qarah Yazi et al.(2009
+3,,Chemical insecticides,Chlorpyrifos,No,Gholamzadeh-Chitgar et al.2015
+4,,,Fipronil,No,Yousefi-Porshokouh et al.2019
+5,Eucanthecona furcellata,Bioinsecticide,Nuclear Polyhedrosis Virus,Yes,Gupta et al. (2013)
+6,Perillus bioculatus,Bioinsecticide,Beauveria bassiana,No,Popraswki et al. (1997)
+7,,,Bacillus thuringiensis,Yes,Cloutier and Jean (1998
+8,,Plant resistant and GM,Potato plant resistant,No,Ashouri et al. (1998)
+9,,Chemical insecticides,Endosulfan,No,Hough-Goldstein and Keil (1991)
+10,,,Esfenvaralate,No,Hough-Goldstein and Keil(1991)
+11,,,Rotenone,No,Hough-Goldstein and Keil(1991)
+12,Podisus maculiventris,Bioinsecticides,Beauveria bassiana,Yes,Ahirwar et al. (2015)
+13,,,Bacillus thuringiensis,Yes,Mohaghegh et al.2000
+14,,Plant resistant and GM,Bt-cotton,Yes,Torres and Ruberson (2008
+15,,,Potato plant resistant,Yes,Alvarez et al.(2007)
+16,,,Tomato plant resistant,Yes,Kaplan and Thaler (2010)
+17,,Chemical insecticides,Acetamiprid,Yes,Tillman and Mullinix (2004
+18,,,Indoxacarb,No,Tillman and Mullinix (2004)
+19,,,Teflubenzuron,No,Mohaghegh et al. (2000)
+20,Podisus nigrispinus,Bioinsecticides,Nuclear Polyhedrosis Virus,Yes,De Nardo et al.(2001)
+21,,,Metharhizium anisopliae,No,Franca et al. (2006)
+22,,,Bacillus thuringiensis,No,Carvalho et al. (2012)
+23,,Plant resistant and GM,Cotton cultivars,Yes,"de Jesus et al. (2014a, b)"
+24,,Chemical insecticides,Tomato resistant,Yes,Bottega et al. (2017)
+25,,,Bt-soybean,Yes,Matos Neto et al.2002
+26,,,Permethrin,No,Martinez et al.2018
+27,,,Spinosad,No,Santos Junior et al.2019
+28,,,Tebufenozide,Yes,Silva et al. (2021)

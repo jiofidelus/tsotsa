@@ -1,0 +1,32 @@
+,0,1,2,3,4,5
+0,,,,Annual WDDS-10,,
+1,Model,1,2,3,4,5
+2,Farm characteristics,,,,,
+3,Agricultural production diversity: PDI2,0.100*,,,,
+4,Agricultural production diversity: SDI2,,0.847,,,
+5,Agricultural production diversity: GPDI2,,,0.272*,,
+6,Agricultural production diversity: GSDI2,,,,2.081*,
+7,Agricultural production diversity: NFD2,,,,,0.024*
+8,Women's characteristics,,,,,
+9,Age of woman,-0.005,-0.010,-0.004,-0.007,-0.005
+10,Level of education,,,,,
+11,No educational background(reference),,,,,
+12,Primary,0.331**,0.304*,0.352**,0.290*,0.321*
+13,Secondary,0.527***,0.455**,0.590***,0.507***,0.529***
+14,Superior,0.960***,0.891***,0.993***,0.902***,0.942***
+15,Domestic work-time,-0.007,-0.005,-0.007,-0.005,-0.007
+16,Responsibility for household expenditure,0.088,0.105,0.096,0.057,0.093
+17,Presence of non-farm income,-0.216*,-0.178,-0.244*,-0.189,-0.227*
+18,Presence of agricultural income(off-farm),-0.097,-0.099,-0.088,0.041,-0.095
+19,Participation in on-farm activities,-0.019,0.010,-0.081,-0.108,-0.011
+20,Household characteristics,,,,,
+21,Age of household head,-0.007,-0.006,-0.006,-0.006,-0.007*
+22,Size of household,0.104***,0.101***,0.104***,0.112***,0.099***
+23,Wealth score,0.025***,0.026***,0.023***,0.022***,0.025***
+24,Market characteristics,,,,,
+25,HAMDI,0.923,1.075,0.586,0.612,0.805
+26,Distance to closer market,-0.039,0.245,-0.183,-0.016,-0.229
+27,Constant,4.441***,4.309***,4.859***,5.208***,4.422***
+28,Underidentification test,p=0.000,"p=0,005",p=0.004,p=0.000,p=0.000
+29,Weak identification test (Cragg-Donald Wald F),19.15,4.578,5.523,5.653,10.756
+30,Overidentifying restriction,p=0.754,p=0.587,p=0.939,p=0.929,p=0.813

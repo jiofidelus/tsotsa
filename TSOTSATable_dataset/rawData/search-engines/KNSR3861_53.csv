@@ -1,0 +1,40 @@
+,0,1,2,3
+0,Food ID,,English name and description,Scientific name
+1,G,"Finfish, shellfish, other aquatic animals and products (continued)","Finfish, shellfish, other aquatic animals and products (continued)",
+2,AAG239,"Tuna,Skipiack or Yellow Fin, canned in oil,drained","Tuna,Skipiack or Yellow Fin, canned in oil,drained",albacares
+3,AAG241,"Tuna, Skipjack or Yellow Fin, canned in water, drained","Tuna, Skipjack or Yellow Fin, canned in water, drained",albacares
+4,AAG171,"Wedge shell, bean clam (Donax), fermented","Wedge shell, bean clam (Donax), fermented",Donax faba
+5,AAG172,"Whiting, common/silver, raw","Whiting, common/silver, raw",Sillago sihama
+6,H,Eggs and Products,,
+7,AAH3,"Egg, duck, boiled",,Anas domesticus
+8,AAH7,"Egg, duck, salted",,Anasdomesticus
+9,AAH8,"Egg, duck, white",,Anas domesticus
+10,AAH9,"Egg, duck, whole",,Anasdomesticus
+11,AAH10,"Egg, duck, yolk",,Anas domesticus
+12,AAH11,"Egg, hen, omelet",,Gallus domesticus
+13,AAH13,"Egg, hen, steamed",,Gallus domesticus
+14,AAH14,"Egg, hen, white",,Gallus domesticus
+15,AAH12,"Egg, hen, whole",,Gallus domesticus
+16,AAH15,"Egg, hen, whole, boiled",,Gallus domesticus
+17,AAH16,"Egg, hen, yolk",,Gallus domesticus
+18,AAH17,"Egg, quail, in brine",,Coturnix communis
+19,AAH19,"Egg, quail, whole, boiled",,Coturnix communis
+20,AAH23,"Egg, turtle, whole",,Chelonia mydas
+21,AAH24,"Roe, bluespot grey mullet, salted","Roe, bluespot grey mullet, salted",Valamugil siheli
+22,K,Fats and oils,,
+23,AAK3,Coconut cream,,Cocos nucifera
+24,AAK4,"Coconut milk, canned,per 100 ml","Coconut milk, canned,per 100 ml",Cocos nucifera
+25,AAK5,"Coconut milk, powder, instant","Coconut milk, powder, instant",Cocos nucifera
+26,AAK6,"Coconut, mature kernel",,Cocos nucifera
+27,N,Spices and Condiments,Spices and Condiments,
+28,AAN3,"Bird chilli, small, dried",,Capsicum minimum
+29,AAN4,"Bird chilli, small, fresh",,Capsicum minimum
+30,AAN10,"Cardamon,leaf",,Electaria cardamomum
+31,AAN93,"Chilli pepper, green, raw",,Capsicum annuum.
+32,AAN19,Cinnamon,,"Cinnamomum zeylanicum, C. bejolghota"
+33,AAN22,"Coriander,seed",,Coriandrum sativum
+34,AAN24,"Cumin, seed",,Cuminum cyminum
+35,AAN34,Galangal,,Alpinia galanga
+36,AAN35,"Garlic, fresh",,Allium sativum
+37,AAN36,"Ginger, root, fresh",,Zingiber officinale
+38,AAN39,"Holy basil, leaf, fresh",,Ocimum sanctum

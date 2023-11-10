@@ -1,0 +1,75 @@
+,0,1,2,3,4,5
+0,,MS technique,Research aim,Research aim,Peptide/protein biomarker*,Reference
+1,Milk and dairy,MALDI-TOF,"Adulteration of donkey/goat milk with cow, ewe","Adulteration of donkey/goat milk with cow, ewe",Low MW proteins (less than25 kDa,"Di Girolamo et al.,2014"
+2,products,,and buffalo milk,and buffalo milk,,
+3,,,"Adulteration of ovine,caprine and buffalo milk with",,CNs and whey proteins/peptides,"Sassi et al.,2015"
+4,,,bovine milk,bovine milk,,
+5,,,"Adulteration of cheese with bovine,ovine, buffalo",,-s1-CN peptides,"Cuollo et al.,2010"
+6,,,and caprine milk,and caprine milk,,
+7,,,Adulteration of sheep and goat milk with bovine,,CNs and -LGB peptides,"Calvano et al.,2012"
+8,,,,milk,,
+9,,,Addition of frozen buffalo milk to fresh buffalo milk,,"CNs;-LAC,-LGB peptides","Arena et al., 2016"
+10,,,Adulteration of buffalo Mozzarella milk/curd with,,-CN and -s1-CN peptides,"Caira et al.,2016"
+11,,,bovine milk,bovine milk,,
+12,,,Effects of thermal treatments on milk,Effects of thermal treatments on milk,-s2-CN and -CN peptides,"Pinto et al.,2012"
+13,,,Effects of thermal treatments on milk,Effects of thermal treatments on milk,PyroQ modified -CN peptide,"Dalabasmaz et al., 2017"
+14,,,Adulteration of PDO buffalo ricotta with bovine milk,,-LGB peptide,"Russo et al., 2016"
+15,,2-DE MALDI-TOF,Adulteration of milk with plant proteins,Adulteration of milk with plant proteins,"Soy, pea and wheat proteins","Yang et al.,2018"
+16,,,Adulteration of fresh milk with powdered milk,Adulteration of fresh milk with powdered milk,Whey proteins and/or CNs peptides,"Calvano et al.,2013"
+17,,LC-MS,Adulteration of milk with plant proteins,Adulteration of milk with plant proteins,Soy and pea proteins,"Lu et al.,2017"
+18,,,Detection of milk powder in liquid whole milk,Detection of milk powder in liquid whole milk,Caseins and whey milk proteins,"Du et al.,2020"
+19,,,Cheese authenticity,Cheese authenticity,CNs peptides,"Kuckova et al., 2019"
+20,,LC-MS/MS,Adulteration of milk with plant proteins,Adulteration of milk with plant proteins,"Soy, pea, wheat and rice proteins","Yang et al.,2019"
+21,,,Milk authenticity,Milk authenticity,-LGB and -s1-CN peptides,"Nardiello et al., 2018"
+22,,,Characterization of buffalo and bovine whey starter,,Ribosomal proteins of lactic acid,"Russo et al.,2019"
+23,,,cultures,cultures,bacteria,
+24,,,Adulteration of goat and sheep cheeses with sheep,,Peptides from plasmin digestion of,"Guarino et al.,2010"
+25,,,and cow milk,and cow milk,CNs,
+26,,,Detection of milk allergens in foods,Detection of milk allergens in foods,"-CN-CN,-LAC and-LGB","Ansari et al.,2011"
+27,,,Detection of milk allergens in foods,Detection of milk allergens in foods,"-LGB, -CN, -s2-CN and -CN","Lutter et al.,2011"
+28,,,Adulteration of PDO buffalo mozzarella with bovine,,-CN,"Russo et al.,2012"
+29,,,milk,milk,,
+30,,,Adulteration of milk adulteration with cheese whey,,Caseinomacropeptide,"Motta et al., 2014"
+31,Meat,2-DE MALDI-TOF,"Detection of cattle, pork, chicken, turkey, duck and",,Myosin light chains,"Montowska et al.,2012"
+32,,,goose meats,goose meats,,2013
+33,,,"Detection of buffalo,sheep and goat meats","Detection of buffalo,sheep and goat meats",Myosin light chains peptides,"Naveena et al., 2018"
+34,,LC-MS/MS,Detection of chicken meat,Detection of chicken meat,Myosin light chains peptides,"Sentandreu et al.,2010"
+35,,,Detection of non-meat proteins in beef burgers,Detection of non-meat proteins in beef burgers,"Soy, pea, beetroot and milk peptides","Mikolajczak et al.,2018"
+36,,,"Detection of allergenic proteins in sausages,","Detection of allergenic proteins in sausages,","Soy, milk and egg white peptides","Montowsa & Fornal,"
+37,,,frankfurters and pates,frankfurters and pates,,2018
+38,,,"Detection of pork, beef, chicken,duck and goose",,Peptide markers from meat,"Montowska & Fornal,"
+39,,,meats,meats,,2017
+40,,,"Detection of horse, pork and beef meats","Detection of horse, pork and beef meats",Myosin and myoglobin peptides,"Montowska & Spychaj,"
+41,,,,,,2018
+42,,,"Detection of beef, horsepork and lamb meats","Detection of beef, horsepork and lamb meats","Myosin,myoglobin, haemoglobin","Orduna et al.,2015;"
+43,,,,,peptides,2017
+44,,,"Detection of chicken, pork, beef, duck, goose meats",,"Meat,soy,milk and egg white","Montowska & Fornal,"
+45,,,and allergens,and allergens,peptides,2019
+46,,,Detection of allergenic proteins in sausages,Detection of allergenic proteins in sausages,"Barley,maize,oats,rice,rye","Jira & Munch, 2019"
+47,,,,,peptides,
+48,,,Detection of allergenic proteins in sausages,Detection of allergenic proteins in sausages,"Lupine,pea and soy peptides","Hoffmann et al., 2017"
+49,,LC-MS/MS,"Detection of soy, milk and egg white in meat",,"Meat, soy, milk and egg peptides","Montowska et al.,2019"
+50,,,products,products,,
+51,,,Detection of meat species in Bolognese sauce,Detection of meat species in Bolognese sauce,Peptide markers from meat proteins,"Prandi et al., 2019"
+52,,,Detection of horse and pork meats in halal beef,,Peptide markers from meat proteins,"Von Bargen et al.,2013;"
+53,,,,,,2014
+54,,,"Detection of pork in beef,chevron and chicken meats",,Peptide markers from meat proteins,"Sarah et al.,2016"
+55,,,"Detection of beef,pork,horse, and lamb meats",,Myoglobin peptides,"Watson et al.,2015"
+56,,,"Detection of pork,beef, lamb,chicken,duck meats",,"Soy, peanut, pea and meat peptides","Li et al.,2018"
+57,,,and allergens,and allergens,,
+58,,,"Detection of pork,chicken, duck, beef,sheep meats",,Peptide markers from meat proteins,"Wang et al.,2018"
+59,,,"Detection of duck, goose, chicken, pork and beef","Detection of duck, goose, chicken, pork and beef",Peptide markers from meat proteins,"Fornal& Montowska,"
+60,,,meats,meats,,2019
+61,,,Authentication of raw pork cuts and processed,Authentication of raw pork cuts and processed,Myoglobin peptides," Nalazek-Rudnicka et al.,"
+62,,,products,products,,2019
+63,Fish and seafood,IEF+LC-MS/MS,Identification of closely related shrimp and prawn,,Sarcoplasmic calcium-binding,"Ortea et al.,2010"
+64,,,species,species,proteins,
+65,,2-DE MALDI-TOF and/or LC-, Discrimination between Sperata seenghala and, Discrimination between Sperata seenghala and,Peptides from TIM,"Barik et al.,2013"
+66,,MS/MS,Sperata aor,Sperata aor,,
+67,,,Differentiation of Pandalus borealis from other,Differentiation of Pandalus borealis from other,Peptides from arginine kinase,"Pascoal et al., 2012"
+68,,,crustaceans,crustaceans,,
+69,,,Differentiation of tuna species,Differentiation of tuna species,Muscle proteins,"Pepe et al., 2010; 2012"
+70,,,Detection of pufferfish Takifugu rubripes,Detection of pufferfish Takifugu rubripes,Muscle proteins,"Lu et al.,2010"
+71,,,Discrimination of two scallop populations,,Mantle proteins,"Artigaud et al., 2014"
+72,,MS coupled to spectral library,Differentiation of shrimp species,Differentiation of shrimp species,Muscle proteins,"Salla& Murray,2013"
+73,,matching,Identification of scallop species,Identification of scallop species,Muscle proteins,"Stephan et al., 2014"

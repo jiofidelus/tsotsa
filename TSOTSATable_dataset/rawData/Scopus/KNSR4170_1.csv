@@ -1,0 +1,56 @@
+,0,1,2,3,4,5,6,7,8
+0,S.N.,Crop Species,Gene Editing Tool,Transformation Method,Transformation Method,Target Gene,Target Gene,Outcome,Reference
+1,,,,,Shelf life,,,,
+2,,,,,,,Inhibit ethylene,,
+3,,,,Agrobacterium,,,synthesis,Mutants with,
+4,1.,Tomato,CRISPR/Cas9,tumefaciens-mediated,,ALC,of an actual,as compared to,[57]
+5,,,,transformation,,,inhibitor,wild type,
+6,,,,,,,gene ALC),,
+7,,,,,,,synthesis and,Mutant lines,
+8,2.,Tomato,CRISPR/Cas9,tumefaciens-mediated,,RIN,specific,ethylene contents,[58]
+9,2.,Tomato,(SDN1),transformation,,RIN,biochemical,and delayed,[58]
+10,,,,,,,fruit ripening,fruit ripening,
+11,,,,Agrobacterium,,,synthesis,Mutants with,
+12,3.,Tomato,CRISPR/Cas9,tumefaciens-mediated,,ALC,(SN2 seems to be a,longer shelf life,[59]
+13,3.,Tomato,(SDN2),transformation,,ALC,knockout mutant,as compared to,[59]
+14,,,,transformation,,,of the RIN gene),wild type,
+15,,,,,,,,Mutants,
+16,4.,Tomato,CRISPR/Cas9,Not mentioned,,SBP-CNR,Transcription factor,displayedpartial,[60]
+17,4.,Tomato,(SDN1),Not mentioned,,&NAC-NOR,of ripening genes,non-ripening,[60]
+18,,,,,,,,phenotypes,
+19,,,,,,,Hydrolyzes the,,
+20,,,,,,,sucrose produced,Mutant lines,
+21,,,,Protoplast transfection,Protoplast transfection,,from starch,with improved,
+22,5.,Potato,TALEN (SDN1),transformation system,,Vinv,one molecule of,cold storage and,[61]
+23,,,,transformation system,,, glucose and one,processing traits,
+24,,,,,,,of fructose,,
+25,,,,,,,Catalyzes the,Mutant lines,
+26,,,,Protoplast transfection,,,oxidation of,exhibited,
+27,6.,Potato,(SDN1),with RNPs using,,StPPO2,compounds into,reduction in,[62]
+28,6.,Potato,(SDN1),PEG mediated,,StPPO2,compounds into,enzymatic,[62]
+29,,,,transformation system,transformation system,,quinones (highly,browning and,
+30,,,,,,,reactive form),PPO gene.,
+31,,,,,,,,Mutants lines,
+32,,,,,,,Catalyzes the,showed 30%,
+33,,,,Protoplast transfection,,,oxidation of,reduction in,
+34,7.,White button,CRISPR/Cas9,using PEG mediated,,StPPO2,phenolic,enzymatic,[63]
+35,7.,mushroom,(SDN1),transformation system,,StPPO2,compounds into,browning with,[63]
+36,,,,transformation system,,,quinones (highly,improved,
+37,,,,,,,reactive form),appearance and,
+38,,,,,,,,shelf life,
+39,,,,,,,,Mutant lines,
+40,,,,,,,,exhibited,
+41,,,,,,,Catalyzes,significant,
+42,,,,Agrobacterium,,,aminocyclopropane-,reduction in,
+43,8.,Petunia,CRISPR/Cas9,tumefaciens-mediated,,PhACO,1-carboxylic acid to,ethylene,[64]
+44,8.,Petunia,(SDN1),transformation,,PhACO,ethylene in,production and,[64]
+45,,,,transformation,,,ethylene biosynthe-,enhanced flower,
+46,,,,,,,sis pathway,longevity as,
+47,,,,,,,,compared to,
+48,,,,,,,,wild-type,
+49,,,,,Texture,,,,
+50,,,,,,,,Higher fruit,
+51,9.,Tomato,CRISPR/Cas9,Not mentioned,,PL,cell wall,efficiency were,[65]
+52,,,(SDN1),,,,degradation,found in,
+53,,,,,,,,mutants plants,
+54,,,,Post-harvest pathogen resistance,Post-harvest pathogen resistance,Post-harvest pathogen resistance,,,

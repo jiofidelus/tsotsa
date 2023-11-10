@@ -1,0 +1,28 @@
+,0,1,2,3
+0,Sample(s),Operating conditions,Findings,Reference
+1,Chitosan,"PAS;1.6 kV,15 kHz;2 s pulse width;0-300 min",The treatment for 15-60 min significantly decreased viscosity and molecular,Prasertsung
+2,,,weight while longer treatment times(180 min) showed no influence on both,et al.2012
+3,,,properties; plasma treatment did not influence the chemical structure.,
+4,Rice starch,Electrodes capacitively coupled to 13.56 MHz radio,"Turbidity, amylose content and pH decreased;water absorption index,%",Thirumdas et al.
+5,,frequency power supply with air; 40W and 60W power,"solubility, swelling power increased; peak gelatinization temperature and",2017
+6,,"levels,0.15 mbar;5 and 10 min","pasting temperature decreased; peak, trough and final viscosity increased; G",
+7,,,"and Gdecreased except 60 W-5 min group,accompanied by a decrease in",
+8,,,retrogradation tendency.,
+9,Xanthan gum,Electrodes capacitively coupled to 13.56 MHz radio,"No significant changes in the proximate composition; bulk, tapped density",Bulbul et al
+10,,frequency power supply with air;50W and 60 W power,"and compressibility index decreased while porosity, Hausner's ratio and angle",(2019)
+11,,"levels,0.05 mbar15-20 min",of repose increased;a decrease in hydroxyl and pH values;a slight increase in,
+12,,,oil&water holding capacity; an increase in viscosity due to cross-linkingno,
+13,,,effect on thermal properties.,
+14,Gum arabic,"DBD plasma with air1.5L min-1;28 kV,10 kHz,17.5 W;","Oxygen and nitrogen content increased time-dependently, showing oxidation",Amirabadi et al.
+15,,"28 mm of distance between electrodes;20,40,and 60 min",and nitration occurred;no significant effect on the amorphous nature;,(2020)
+16,,,hydrophilic nature changed to hydrophobic as confirmed by an increase in the,
+17,,,water contact angle; surface roughness increased depending on etching time;,
+18,,,"molecular weight, solubility,and moisture content decreased; surface and",
+19,,,interfacial tension significantly decreased; thermal properties and color,
+20,,,changed.,
+21,Red adzuki,"DBD plasma with air40 V;1,5,and 10 min","The amylose content, crystallinity, molecular weight, short-range order, the",Ge et al.2021
+22,bean starch,,"long chain of amylopectin, enthalpy value, swelling power, digestibility",
+23,,,"decreased; gelatinization temperatures, the short chain of amylopectin and",
+24,,,solubility increased;a combination of CP with dry heating showed synergistic,
+25,,,effects and improved above-mentioned properties more effectively than a,
+26,,,single application.,

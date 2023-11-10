@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,food,Name,Name,Size,u1,u2,u3,,u4,u5,u6,u7,u7,u8,u8,10
+1,code,Kiswahili,English,,bowl,glass,cup,,plate,tbsp,tsp,saucer,,unit,unit,Average
+2,206,maini ya kuku,Chicken liver,Std,,,,,,,,,,,60,
+3,206,maini ya kuku,Chicken liver,A,,,,,,,,,,,,60
+4,207, kuku wa kukaanga,Chicken fried,S,,,,,,,,,,,50,
+5,207, kuku wa kukaanga,Chicken fried,M,,,,,,,,,,,100,
+6,207, kuku wa kukaanga,Chicken fried,L,,,,,,,,,,,200,
+7,207, kuku wa kukaanga,Chicken fried,A,,,,,,,,,,,,120
+8,251,aiskrimu,Icecream,Std,,,,,,,,,,100,100,
+9,251,aiskrimu,Icecream,A,,,,,,,,,,,,100
+10,,maziwa mazito ya kopo yenye,,,,,,,,,,,,,,
+11,253,sukari,Milk condensed,A,,,,,,,,,,,,15
+12,254,maziwa ya unga,Milk powder,A,,,,,,,,,,,,10
+13,255,maziwa yasiyoenguliwa, Whole Milk,Std,200,,,150,,,,,,.,,
+14,255,maziwa yasiyoenguliwa, Whole Milk,A,,,,,,,,,,,,150
+15,307,mayai,Egg,Std,,.,.,,,,,,.,,70,
+16,307,mayai,Egg,A,,,,,,,,,,,,70
+17,308,samaki wa kukausha,Fish dried,A,,,,,,,,,,,,200
+18,313,dagaa,Small dried fish,Std,200,,,100,,,,70,,,,
+19,313,dagaa,Small dried fish,A,,,,,,,,,,,,70
+20,315,nyama ya mbuzi,Goat meat,S,,,,,,,,,,,12,
+21,315,nyama ya mbuzi,Goat meat,M,,,,,.,.,,.,.,,25,
+22,315,nyama ya mbuzi,Goat meat,L,,,,,,,,,.,,50,
+23,315, nyama ya mbuzi,Goat meat,A,,,,,,,,,,,,150
+24,317,nyama ya nguruwe,Pork,S,,,,,,,,,,,12,
+25,317,nyama ya nguruwe,Pork,M,,,,,,,,,.,,25,
+26,317,nyama ya nguruwe,Pork,L,,,,,,,,,.,,50,
+27,318,soseji,Sausage,A,,,,,,,,,,,,100

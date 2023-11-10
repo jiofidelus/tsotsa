@@ -1,0 +1,71 @@
+,0,1,2,3,4,5,6,7
+0,,,,,Users of dietary,Non-users of dietary,Non-users of dietary,
+1,,,,,supplements (n 80),supplements (n 830),supplements (n 830),
+2,Characteristic,Characteristic,Characteristic,,,,,
+3,,,,n,(%),n,(%),Pt
+4,Age,,,,,,,0.023
+5,,8-9 years old (3rd grade),8-9 years old (3rd grade),22,(27.5),287,(34-6),
+6,,10-11 years old (5th grade),10-11 years old (5th grade),23,(43.8),245,29.5,
+7,,13-14 years old (8th grade),13-14 years old (8th grade),35,(43.8),245,29.5,0.060
+8,Sex,,,,(43.8),245,29.5,0.060
+9,Female,Female,Female,34,(42.5),444,(53.5,
+10,Male,Male,Male,46,(57.5),386,(46.5),
+11,3MI category,3MI category,3MI category,,,,,0.264
+12,Underweight,Underweight,Underweight,15,(18.8),164,(19.8),
+13,Normal-weight,Normal-weight,Normal-weight,61,(76-3),611,(73.6),
+14,Overweight/obese,Overweight/obese,Overweight/obese,4,(5.0),55,(6.6),0.000
+15,Frequency of sports participation,Frequency of sports participation,Frequency of sports participation,,,,,0.000
+16,Never,Never,Never,31,(38.8),191,(23.0),
+17,Once a week,Once a week,Once a week,16,(20-0),159,(19.2),
+18,2-3 per week,2-3 per week,2-3 per week,18,(22.5),192,14.7,
+19,4-6per week,4-6per week,4-6per week,4,(5.0),122,14.7,
+20,Every day,Every day,Every day,9,(11-3),146,(17.6,
+21,Missing data,Missing data,Missing data,2,(2.5),20,(2.4),
+22,Guardian's employment status,Guardian's employment status,Guardian's employment status,,,,,0.283
+23,Unemployed,Unemployed,Unemployed,10,(12.5),160,(19.3),
+24,Part-time worker,Part-time worker,Part-time worker,37,(46.3),345,41.6,
+25,Full-time worker,Full-time worker,Full-time worker,29,(36-3),283,(341),
+26,Missing data,Missing data,Missing data,4,(5.0),42,(5.1),
+27,ncome per capita,ncome per capita,ncome per capita,,,,,0.002
+28,First quartile,First quartile,First quartile,12,(13.8),181,(27.8),
+29,Second quartile,Second quartile,Second quartile,11,(40.0),181,(21.8),
+30,Third quartile,Third quartile,Third quartile,32,(40.0),213,(25.7,
+31,Fourth quartile,Fourth quartile,Fourth quartile,25,(31.3),205,(24.7),
+32,,Population size of residence area at municipality levels,,,,,,0.073
+33,<50000,<50000,<50000,31,(38.8),402,(10.1,
+34,50000-150000,50000-150000,50000-150000,14,17.5),84,(10.1,
+35,150000,150000,150000,35,(43.8),344,41.5,
+36,,Guardian's concerns about child's health and nutrition,,,,,,
+37,Picky eater,Picky eater,Yes,,,,,0.579
+38,,,Yes,27,(33.8),271,(32.7),
+39,,,No,45,(10.0),520,(62-7),
+40,,Missing data,Missing data,8,(10.0),39,(4.7),0.312
+41,Small appetite,Small appetite,Small appetite,,,,,0.312
+42,,,Yes,15,(18.8),131,(15.8,
+43,,,No,55,(68.8),654,(5.4),
+44,,Missing data,Missing data,10,(12.5),45,(5.4),
+45,Overeating,Overeating,Overeating,,(12.5),,(5.4),0.337
+46,,,Yes,7,(8.8),670,(13.5,
+47,,,No,62,(77.5),670,(80.7),
+48,,Missing data,Missing data,11,(13.8),48,(5.8),
+49,,Guardian's intention to provide children with fruits and vegetables,,,,,,0.529
+50,Agree,Agree,Agree,77,(100-0),806,(99.1),
+51,Do not agree,Do not agree,Do not agree,0,(0.0),7,(0.9),
+52,Missing data,Missing data,Missing data,3,(3.8),17,(2-1),
+53,,Guardian's perception of home food environments,,,,,,
+54,,Accessibility to fruits and vegetables,Accessibility to fruits and vegetables,,(64-5),689,(84-3),<0.00
+55,,Agree,Agree,49,(64-5),689,(84-3),
+56,,Do not agree,Do not agree,27,(35.5),128,(15.7),
+57,,Missing data,Missing data,4,(5.0),13,(1.6),
+58,,Satisfaction with the quality of fruits and vegetables available,,,,,,0.033
+59,,Agree,Agree,54,(70-1),656,(80.4),
+60,,Do not agree,Do not agree,23,(29.9),160,(19.6),
+61,,Missing data,Missing data,3,(3.8),14,(1.7),
+62,,Satisfaction with the variety of fruits and vegetables available,,,,,,0-362
+63,,Agree,Agree,55,(72.4),629,(77.0),
+64,,Do not agree,Do not agree,21,(27.6),188,(23.0),
+65,,Missing data,Missing data,4,(5.0),13,(1.6),
+66,,Affordability of fruits and vegetables,Affordability of fruits and vegetables,,,,,0.554
+67,,Agree,Agree,55,(71.4),608,(74.5),
+68,,Do not agree,Do not agree,22,(28.6),208,(25.5),
+69,,Missing data,Missing data,3,(3.8),14,(1.7),

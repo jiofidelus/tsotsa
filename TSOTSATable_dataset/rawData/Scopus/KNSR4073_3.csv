@@ -1,0 +1,28 @@
+,0,1,2
+0,Dose(g/day,Duration (months),Reference
+1,0.1-0.2,36,Parry and Bredersen(1985
+2,0.1-2.5,9,Parry and Bredersen(1985
+3,0.1-4.0,72,Parry and Bredersen1985
+4,0.2-0.5,24,Berger and Schaumburg(1984
+5,0.5,8,Parry and Bredersen (1985
+6,0.5,24,Parry and Bredersen (1985)
+7,0.5-2.0,3,Parry and Bredersen(1985
+8,1.0,12,Waterson and Gilligan(1987
+9,1.0-2.0,36,Parry and Bredersen 1985
+10,1.5-2.0,24,Parry and Bredersen(1985
+11,1.5-2.5,>12,Parry and Bredersen(1985
+12,2.0,24,Friedman et al(1986)
+13,2.0,12,Parry and Bredersen(1985
+14,2.0,12,Parry and Bredersen(1985
+15,2.0,4,Schaumburg et al(1983
+16,2.0,34,Schaumburg et al (1983)
+17,2.0,40,Schaumburg et al1983
+18,2.0-3.5,10,Parry and Bredersen(1985
+19,2.0-4.5,>12,Parry and Bredersen(1985
+20,2.0-5.0,2,Parry and Bredersen(1985
+21,2.0-5.0,4,Parry and Bredersen(1985
+22,3.0,4,Schaumburg et al(1983
+23,3.5,1,Parry and Bredersen (1985
+24,4.0,10,Schaumburg et al(1983)
+25,5.0,2,Schaumburg et al(1983)
+26,6.0,3,Schaumburg et al(1983)

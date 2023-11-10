@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7
+0,Storage Period,,Total Phenols (mg L-1),,TEAC,,Ethanol,Acetaldehyde
+1,Storage Period,,Total Phenols (mg L-1),,(mmol Trolox eq. L-1),(mmol Trolox eq. L-1),(mg L-1),(mg L-1)
+2,Harvest,,520.6  19.7,,25.20.09,,39.22.53,2.80.30
+3,,7 d at5C,7 d at5C,,,,,
+4,Unwrapped,,529.2  26.6 a 1,,24.80.83b,,42.82.68 b,3.230.47b
+5,Omni film,,526.6  18.2 a,,"25.4  0.62 a,b",,42.32.34b,3.63 0.40 b
+6,Coralife film,,523.5  22.7 a,,25.9 0.76 a,,47.45.59 a,4.350.70 a
+7,,,7 d at5Cplus7 d at20C,,,,,
+8,Unwrapped,,538.4  27.2 a,,24.2  0.54 a,,62.411.5b,4.43  0.77 b
+9,Omni film,,532.3  9.61 a,,24.80.75 a,,66.05.96b,4.350.54b
+10,Coralife film,,526.6  28.6 a,,23.6 0.98 a,,75.24.74 a,7.780.99a
+11,,,7 d at 5C plus 14 d at 20C,,,,,
+12,Unwrapped,,568.7  22.3 a,,23.9  2.98 a,,80.86.46b,7.580.68b
+13,Omni film,,565.4  12.1 a,,22.1  1.28 a,,69.3 26.2 b,6.900.77b
+14,Coralife film,,532.632.2 a,,20.32.12 a,,102.811.4 a,9.181.21 a
+15,,,,,,ANOVA,,
+16,Source,df,,F-ratio,F-ratio,,F-ratio,F-ratio
+17,Period (P),3,,15.9 ***,18.1 ***,,114.6 ***,236.1 ***
+18,Treatment (T),2,,0.01 ns,0.10 ns,,0.16 ns,0.82 ns
+19,Film (F),2,,0.44 ns,0.58 ns,,13.9 ***,51.2 ***
+20,PT,6,,0.01 ns,0.10 ns,,0.86 ns,0.16 ns
+21,PF,6,,0.09 ns,1.04 ns,,5.11**,11.8***
+22,TF,4,,0.003 ns,0.03 ns,,0.66 ns,0.28 ns
+23,PTF,12,,0.002 ns,0.12 ns,,0.42 ns,0.11 ns

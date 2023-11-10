@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,,False negative (%* SD (%,False negative (%* SD (%,,,
+1,,Concentration (mg.kg-1,Concentration (mg.kg-1,,,
+2,,,0.01(MRL,,0.1,
+3,MS/MS,Similarity,Method,Method,Method,Method
+4,Algorithm,score,A,B,A,B
+5,PUR,>50%,528,36 7,274,141
+6,PUR,>70%,558,428,284,172
+7,FIT,>50%,508,33 7,264,141
+8,FIT,>70%,518,378,27  4,152
+9,RFIT,>50%,509,29  6,264,131
+10,RFIT,>70%,528,32  6,264,141

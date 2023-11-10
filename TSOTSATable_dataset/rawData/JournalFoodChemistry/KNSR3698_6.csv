@@ -1,0 +1,40 @@
+,0,1,2,3,4,5,6
+0,Pharmaceutical effect,Part,Solvent,Assay,,Experimental,References
+1,,,,,,dose,
+2,Antioxidant activity,Leaves,Ethanol,TPC;TFC;DPPH;ABTS;FRAP,TPC;TFC;DPPH;ABTS;FRAP,0.5mg/mL,"Sim et al.,2019a"
+3,,Leaves/,Water,TPC;TFC;DPPH;SOD,TPC;TFC;DPPH;SOD,0.2 g/mL,"Ryu et al.,2017"
+4,,Seed,,,,,
+5,,Seed,80% Ethanol,,TPC;TFC;DPPH;ABTS;FRAP;-Carotene bleaching,,"Wong et al., 2014"
+6,,Seed,Hexane,,TPC;TFC; DPPH; Hydroxyl radical;-Carotene bleaching;Metal,1-10 mg/mL,"Yusri et al.,2012"
+7,,,,chelating;FTC;TBARS,chelating;FTC;TBARS,,
+8,,Seed,Hexane,TPC; DPPH; ABTS,TPC; DPPH; ABTS,,"Chew,Tan & Nyam"
+9,,,,,,,2017c
+10,Antimicrobial activity,Leaves,Ethanol,MIC(micro plate);MBC,MIC(micro plate);MBC,39.06-10000g/,"Sim et al.,2019a"
+11,,,,,,mL,
+12,,Leaves,Water,MICdisc diffusion;MBC,MICdisc diffusion;MBC,12-12000g/mL,"Nilugal et al.,2016"
+13,,Leaves,Water,MIC(disc diffusion;MBC,MIC(disc diffusion;MBC,0.98-250 mg/mL,"Zakaria et al.,2011"
+14,Antityrosinase activity,Leaves,Ethanol,Mushroom tyrosinase (l-tyrosine),Mushroom tyrosinase (l-tyrosine),5 mg/mL,"Sim et al., 2019a"
+15,,Leaves,Ethanol,Mushroom tyrosinase (L-tyrosine),Mushroom tyrosinase (L-tyrosine),IC5o: 3.5 mg/mL,"Rho et al.,2010"
+16,Anticancer activity,Seed,80% Ethanol.,"MTT;SRB (HeLa,MCF-7,HCT-116,SK-LU1)","MTT;SRB (HeLa,MCF-7,HCT-116,SK-LU1)",15.63-1000 g/,"Wong et al.,2014"
+17,,,Hexane,,,mL,
+18,,Seed,Hexane,MTT;Trypan blue dye exclusion method (CaOV),MTT;Trypan blue dye exclusion method (CaOV),50-300 g/mL,"Yazan et al.,2011"
+19,,Seed,CO2,In vivo-mice,In vivo-mice,1-5g/kg,"Foo et al.,2012"
+20,,,,Immunofluorescence staining; Histopathological evaluation,Immunofluorescence staining; Histopathological evaluation,,
+21,Antihyperlipidemia,Seed,Hexane,,In vivo-ratsBody and liver weight;Serum lipid profile;AI;CRI;GSH,1 mL/kg;10 mL/,"Cheong et al.,2018a"
+22,activity,,,MDA;TBA;Histopathological evaluation,MDA;TBA;Histopathological evaluation,kg,
+23,,Seed,80%,In vivo-rats,In vivo-rats,400 mg/kg,"Kai et al.,2015"
+24,,,Ethanol,Body and liver weight;Serum lipid profile; AI;CRI; MDA;,Body and liver weight;Serum lipid profile; AI;CRI; MDA;,,
+25,,,,Histopathological evaluation,Histopathological evaluation,,
+26,Antiulcer activity,Leaves,Methanol,In vivo-rats,In vivo-rats,1.6g/kg3.2g/,"Silambujanaki et al.,"
+27,,,,Gastric juice acidity; Histopathological evaluation,Gastric juice acidity; Histopathological evaluation,kg,2010
+28,,Seed,Hexane,In vivo-rats,In vivo-rats,1000 mg/kg,"Cheong et al.,2018b"
+29,,,,Ulcer index;SOD;GSH;MDA;Histopathological evaluation,Ulcer index;SOD;GSH;MDA;Histopathological evaluation,,
+30,,Seed,Hexane,In vivo-rats,In vivo-rats,500 mg/kg,"Nyam et al.,2016"
+31,,,,Ulcer index;Gastric juice pH;Histopathological evaluation,Ulcer index;Gastric juice pH;Histopathological evaluation,,
+32,Anti-inflammation,Leaves,90% Methanol;,In vivo-rats,In vivo-rats,200/400 mg/kg,"Shaikh et al.,2016"
+33,activity,,Water,Paw volume,Paw volume,,
+34,,Seed,Hexane; 80%,In vivo- rats,In vivo- rats,500 mg/kg,"Nyam et al.,2015"
+35,,,Ethanol,Paw diameter,Paw diameter,,
+36,Hepatoprotective,Leaves,Water,In vivo- rats,In vivo- rats,1.6 g/kg,"Agbor et al.,2005"
+37,activity,,,,AST;ALT;bilirubin level; lipid peroxidation;Histopathological,,
+38,,,,evaluation,evaluation,,

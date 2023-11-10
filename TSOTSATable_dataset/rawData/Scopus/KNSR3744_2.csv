@@ -1,0 +1,25 @@
+,0,1,2,3,4
+0,,,Adjusted,,
+1,,,difference,,
+2,,,(% kcal/d),95%CI,Pvalue
+3,Screen time (h/d),,,,
+4,T1,0,Ref.,,
+5,T2,1.69,1.69,"0.17,3.21",0.02
+6,T3,3.29,3.29,"1.81,4.77",<0.001
+7,Number of children,,,,
+8,1-2 children,0,Ref.,,
+9,3 children,1.04,1.04,"0.43,2.52",0.16
+10,4 or more children,3.12,3.12,"1.47,4.78",<0.001
+11,Attitudes towards child's dietary habits,,Attitudes towards child's dietary habits,,
+12,Unhealthy,0,Ref.,,
+13,Average,-0.10,-0.10,"-2.93,2.72",0.94
+14,Healthy,-2.85,-2.85,"5.59,-0.11",0.04
+15,,,Knowledge about child's nutritional recommendations,Knowledge about child's nutritional recommendations,
+16,Low,0,Ref.,,
+17,Average,-3.29,-3.29,4.88.1.71,<0.001
+18,High,-5.95,-5.95,"-805,-384",<0.001
+19,Breastfeeding duration,,,,
+20,No breastfeeding,0,Ref.,,
+21,<6months,-1.92,-1.92,"3.81,0.04",0.07
+22,6-12 months,-2.44,-2.44,"4.38,0.51",0.02
+23,>12 months,-4.98,-4.98,"702,-2.94",<0.001

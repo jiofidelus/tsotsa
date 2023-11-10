@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6
+0,,T WS-NSP,B.breve,E.coli,IL-8 Reduction,K. oxytoca,IL-8 Reduction
+1,,,(CFU/mL),(CFU/mL),(%),(CFU/mL),(%)
+2,CE,Undigested,,,"51.7  3.7 ABC,L,Q,X",,"38.2  2.7 E,L,Q,X"
+3,,Digested,3.7 x 105,,"51.5  1.9 ABCD,L,Q,X",,"39.3  2.6 E,L,Q,X"
+4,ICE,Undigested,,,"51.4  2.6 ABCD,L,Q,X",,
+5,,Digested,,4.3  106,"52.3  3.1 AB,L,Q,X",4.0 x 106,"39.2  4.1 E,L,Q,X"
+6,CE,Undigested,,4.3  106,"54.4  2.6 A,L,Q,X",,"40.3  3.3 E,L,Q,X"
+7,,Digested,2.7  108,,"55.2  3.0 A,L,Q,X",,"41.5  2.3 E,L,Q,X"
+8,ICE,Undigested,2.7  108,,"54.5  2.1 A,L,Q,X",,"42.0  1.9 E,L,Q,X"
+9,,Digested,,,"55.2  2.3 A,L,Q,X",,"43.2  2.5 DE,L,Q,X"
+10,CE,Undigested,,,"54.0  2.1 A,L,Q,X",,"41.4  4.1 E,L,Q,X"
+11,,Digested,3.7  105,,"54.4  2.4 A,L,Q,X",,"41.9  5.9 E,L,Q,X"
+12,ICE,Undigested,3.7  105,,"54.3  2.4 A,L,Q,X",,"41.4  3.8 E,L,Q,X"
+13,ICE,Digested,,1.3 x 107,"55.0  1.9 A,L,Q,X",2.1  107,"42.0  4.7 E,L,Q,X"
+14,CE,Undigested,,1.3 x 107,"56.0  2.1 A,L,Q,X",2.1  107,"43.3  2.1 CDE,L,Q,X"
+15,,Digested,2.7  108,,"57.1  2.4 A,L,Q,X",,"44.2  1.6 BCDE,L,Q,X"
+16,ICE,Undigested,,,"56.1  2.6 A,L,Q,X",,
+17,,Digested,,,"58.1  2.3 A,L,Q,X",,"45.0  2.5 BCDE,L,Q,X"

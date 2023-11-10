@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,,,,,,Performance
+1,Stage,Accuracy,Samples,Accuracy,Error,Model2:
+2,,,,,,Cross-Entropy)
+3,,Model 1 Inputs: Near-infrared absorbance values (Classification),,,,
+4,Training,,107,100%,0.0%,<0.01
+5,Testing,,46,91.3%,8.7%,0.01
+6,Overall,,153,97.4%,2.6%,
+7,,Model 2 Inputs: electronic nose voltage values (Classification),,Model 2 Inputs: electronic nose voltage values (Classification),,
+8,Training,,356,89.0%,11.0%,0.02
+9,Validation,20.8%,77,79.2%,20.8%,0.04
+10,Testing,,77,81.8%,18.2%,0.04
+11,Overall,,510,86.5%,13.5%,

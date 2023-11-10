@@ -1,0 +1,45 @@
+,0,1,2,3
+0,GOI/phenotype/intention,Reporter/selection gene,Explant,Reference
+1,Stable transformation,"nptII, hpt",shoot cultures,Puonti-Kaerlas et al.
+2,Stable transformation,"nptII, hpt",and seedling epicotyl,(1990)
+3,Stable transformation,"uidA, nptII",epicotyl segments,de Kathen and Jacobsen
+4,Stable transformation,"uidA, nptII",and nodes,(1990)
+5,GUS assay,uidA,tin cell layers from nodes,Nauerby et al. (1991)
+6,Stable transformation,"uidA,hpt",protoplast,Puonti-Kaerlas et al. (1992)
+7,Stable transformation,"nptII, bar",embryonic axis,Schroeder et al. (1993)
+8,Stable transformation,"uidA, bar, nptII",cotyledonary meristems,Davies et al. (1993)
+9,Resistance to Bruchus pisorum,"uidA,bar",embryonic axis,Shade et al. (1994)
+10,Stable inheritance and,"bar,nptII", immature cotyledons,Grant et al. (1995)
+11,expression of transgenes,"bar,nptII", immature cotyledons,Grant et al. (1995)
+12,Resistance to Bruchus pisorum,bar,embryonic axis,Schroeder et al. (1995)
+13,Stable transformation,"bar,nptII",cotyledonary meristem,Bean et al. (1997)
+14,Resistance to PEMV,not listed,axillary meristems,Chowrira et al. (1998)
+15,Resistance to Alfalfa mosaic virus,nptIl,immature cotyledons,Grant et al. (1998)
+16,Resistance to PSbMV,bar,cotyledonary meristem,Jones et al. (1998)
+17,Protease inhibitors,bar,embryonic axis,Charity et al. (1999)
+18,transformation efficiency,"uidA, nptII, hpt, dhfr, bar",immature cotyledons,and Orczyk (2000)
+19,Different genotypes and vectors,"uidA, nptII, pat",embryogenic axis segments,Polowick et al. (2000)
+20,Testing of trypsin/,,cotyledonary meristems,Welham and Domoney
+21,chymotrypsin promoters,,cotyledonary meristems,(2000)
+22,Coat protein from Alfalfa,nptIl,immature cotyledons,Timmerman-Vaughan
+23,mosaic virus,nptIl,immature cotyledons,et al. (2001)
+24,,,slice of an immature,
+25,Transformation efficiency,"uidA,bar,nptII","embryo, including",Pniewski and Kapusta
+26,of Polish cultivars,"uidA,bar,nptII",embryonic axis and basal,(2005)
+27,,,part of the cotyledon,
+28,"Improved nitrogen status,",,embryonic axis,Rolletschek et al.
+29,higher seed protein,,embryonic axis,(2005)
+30,Two regeneration systems:,"uidA,nptII","cotyledonary nodes, seeds",Svabova et al.
+31,in vitro and in vivo,"uidA,nptII","cotyledonary nodes, seeds","(2005, 2008)"
+32,Resistance to fungal pathogens,bar,sliced embryo axis,Richter et al. (2006)
+33,Comparison of different,"uidAbar,nptIl","stem segments, axillary",Krejci et al. (2007)
+34,types of explants,"uidAbar,nptIl","buds, embryonic segments",Krejci et al. (2007)
+35,Resistance to pea weevil larvae,bar,embryonic axis,de Sousa-Majer et al. (2007)
+36,Testing of cocultivation treatments,"uidA,bar,nptII",cotyledonary nodes,Svabova and Griga (2008)
+37,Vaccine against rabbit bleeding virus,nptII,embryogenic axis segments,Mikschofsky et al. (2009)
+38,Vaccine against chicken coccidiosis,,epicotyl segments and,Zimmerman et al. (2009)
+39,,,apical meristem,
+40,fibroblast in pea plants,gfp,germinating pea seeds,Fan et al. (2011)
+41,crylAc gene,bar,sliced embryo axis,Negawo (2015)
+42,Tolerance to salt stress,"bar, luc",immature embryos,"Ali et al. (2015, 2018)"
+43,Increased transformation efficiency,bar,embryonic segments,Aftabi et al. (2018)

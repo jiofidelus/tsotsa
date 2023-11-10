@@ -1,0 +1,73 @@
+,0,1,2,3,4,5,6
+0,No.,,Volatiles,2018 RS,2018 OF,2019 RS,2019 OF
+1,,,,Isoprenoid-derived volatiles,Isoprenoid-derived volatiles,,
+2,,Terpenoids,,,,,
+3,al,-Pinene,,0.36  0.06,0.45  0.08,ND,ND
+4,a2,Eucalyptol,,Other,Other,Other,Other
+5,a3,Terpinolene,,4.56  0.50,5.03 0.32,3.68  0.49,4.19  0.26
+6,a4,trans-Linalool oxide (furanoid),trans-Linalool oxide (furanoid),1.90  0.23,2.04  0.19,4.77  0.53,5.16  0.16
+7,a5,Linalool,,6.96  0.49,7.25  0.39,5.31  0.09,5.72  0.15
+8,a6,Hotrienol,,2.35  0.02,2.67  0.01,1.92 0.12,1.99  0.06
+9,a7,-Terpineol,,2.64  0.02,2.86  0.01,2.15 0.10,2.48  0.40
+10,a8,Nerol,,ND,ND,1.030.01,1.03  0.00
+11,,Norisoprenoids,,,,,
+12,b1,6-Methyl-5-hepten-2-one,6-Methyl-5-hepten-2-one,0.140.01,0.16 0.01,0.24  0.05,0.34  0.02
+13,b2,6-Methyl-5-hepten-2-ol,6-Methyl-5-hepten-2-ol,ND,ND,1.53  0.05,1.68  0.10
+14,b3,Theaspirane,,ND,ND,3.52  0.32,3.09  0.44
+15,b4,-Cyclocitral,,TR,TR,0.150.14,0.69  0.45
+16,b5,(E)--Damascenone,(E)--Damascenone,6.41  0.27,6.69  1.26,4.83  0.46,4.60  0.43
+17,b6,-Ionone,,Other,27.15  1.41,Other,Other
+18,, Isoprenoid-derived volatiles, Isoprenoid-derived volatiles,25.29  1.47,27.15  1.41,29.14  1.51,30.97  1.41
+19,,,,Fatty acid-derived volatiles,Fatty acid-derived volatiles,,
+20,,C6/C9 compounds and their derivatives,C6/C9 compounds and their derivatives,,,,
+21,cl,Hexanal,,1174.92  26.05,1579.51  71.80,770.11  179.73,1415.17  283.50
+22,c2,Z-3-Hexenal,,0.56  0.28,6.86  0.27,0.86 0.19,1.53  0.68
+23,c3,E-2-Hexenal,,1847.71  48.60,2476.28  19.65,2047.65  55.97,2626.92  167.46
+24,c4,Ethyl hexanoate,,173.73 45.53,108.53  28.04,93.91  41.89,124.44  20.44
+25,c5,Ethyl 3-hexenoate,,43.41  9.19,27.08  5.64,39.12  8.41,43.48  8.58
+26,c6,(Z)-3-Hexenyl acetate,(Z)-3-Hexenyl acetate,Other,Other,Other,Other
+27,c7,Ethyl 2-hexenoate,,28.327.38,23.73  6.43,33.40  6.92,44.09  9.15
+28,c8,1-Hexanol,,1.24  0.10,2.22  0.17,3.49  1.16,2.81 0.28
+29,c9,E-3-Hexen-1-ol,,3.54  0.22,4.91  0.07,3.37  0.60,3.170.15
+30,c10,Nonanal,,19.70  1.48,23.85  1.00,44.33  7.73,49.18  4.56
+31,cl1,"(E,E)-2,4-Hexadienal","(E,E)-2,4-Hexadienal",3.12  0.52,4.09  0.08,5.76 1.71,5.36  0.20
+32,c12,(E)-2-Hexen-1-ol,,1.30  0.21,2.23  0.07,5.88  1.54,2.84  0.09
+33,c13,3-Nonen-2-one,,12.22  1.60,1.64  0.19,2.54  0.43,1.06  0.10
+34,c14,1-Nonanol,,Other,Other,Other,Other
+35,c15,Hexanoic acid,,76.69  9.74,124.26  8.22,836.22  176.21,782.18  32.23
+36,,Other strain-chain aliphatics,Other strain-chain aliphatics,,,,
+37,d1,Ethyl acetate,,100.13 7.66,129.67  9.14,120.35  45.48,106.07 5.31
+38,d2,Ethyl acetate,,4738.32  705.98,6840.56  227.51,13.72  3.72,6825.38  713.84
+39,d3,Ethyl propionate,,10.811.95,15.401.10,13.72  3.72,11.93 0.44
+40,d4,"2,3-Butanedione",,Other,Other,Other,Other
+41,d5,Propyl acetate,,4.24  0.60,6.15  0.21,8.09  1.80,8.11  0.13
+42,d6,Pentanal,,TR,TR,TR,TR
+43,d7,Methyl butanoate,,1.04  0.13,1.12  0.02,1.01  0.25,0.89  0.19
+44,d8,1-Penten-3-one,,0.90  0.11,1.60  0.10,1.340.57,1.49  0.16
+45,d9,Ethyl butanoate,,136.17  25.29,88.76  9.26,91.94  22.46,98.83  10.65
+46,d10,Butyl acetate,,1.480.13,1.39  0.09,3.22  0.13,1.94  0.14
+47,dl1,3-Penten-2-one,,ND,2.15  0.22,2.63  0.14,3.03  0.81
+48,d12,3-Penten-2-one,,3.48  0.47,2.15  0.22,ND,ND
+49,d13,Ethyl valerate,,4.50  0.82,2.56  0.35,3.25  0.64,4.68  1.67
+50,d14,Ethyl (E)-2-butenoate,Ethyl (E)-2-butenoate,ND,ND,67.85  3.20,71.67  18.25
+51,d15,2-Heptanone,,Other,Other,Other,Other
+52,d16,Heptanal,,5.39  0.65,4.72  0.43,3.96  0.31,3.38  0.25
+53,d17,Octanal,,2.72  0.06,2.81  0.08,2.68  0.23,3.73  0.55
+54,d18,(Z)-2-Penten-1-ol,,5.650.17,5.99  0.15,5.67 0.77,4.92  0.33
+55,d19,(E)-2-Heptenal,,ND,ND,3.15 0.27,3.20  0.10
+56,d20,Ethyl heptanoate,,4.18  1.32,3.41  0.86,5.76  1.99,12.11  4.57
+57,d21,Ethyl (E)-4-heptenoate,Ethyl (E)-4-heptenoate,0.93  0.37,0.46  0.26,TR,0.95  0.33
+58,d22,Ethyl octanoate,,23.86  2.24,2.16  0.01,13.52  2.24,32.05  14.10
+59,d23,1-Octen-3-ol,,2.08  0.02,2.16  0.01,1.790.10,1.82 0.03
+60,d24,1-Heptanol,,ND,ND,0.19  0.06,0.19 0.03
+61,d25,Ethyl (Z)-4-octenoate,Ethyl (Z)-4-octenoate,14.26  2.66,11.12  1.75,11.76  2.71,19.55  5.26
+62,d26,Methyl 3-hydroxybutanoate,Methyl 3-hydroxybutanoate,6.18  0.60,3.45  0.10,10.52  2.41,7.76  0.32
+63,d27,"E,E)-2,4-Heptadienal","E,E)-2,4-Heptadienal",3.42  0.17,3.710.00,2.790.15,2.64  0.15
+64,d28,Ethyl 3-hydroxybutanoate,Ethyl 3-hydroxybutanoate,30.48 3.95,28.62  0.58,50.90  12.01,42.83  2.13
+65,d29,Ethyl 2-octenoate,,ND,ND,5.28  1.20,10.12  1.60
+66,d30,1-Octanol,,2.89  0.60,2.88  0.34,ND,ND
+67,d31,"2R,3S-Butanediol",,1256.80  119.69,2707.31  277.23,21.75  1.49,2009.10  240.23
+68,d32,Ethyl decanoate,,ND,ND,21.75  1.49,29.44  3.05
+69,d33,Ethyl (E)-4-decenoate,Ethyl (E)-4-decenoate,ND,ND,ND,37.75  1.64
+70,d34,"Ethyl (E,Z)-2,4-decadienoate","Ethyl (E,Z)-2,4-decadienoate",ND,ND,30.13  3.67,53.99  3.61
+71,, Fatty acid-derived volatiles, Fatty acid-derived volatiles,9746.38  854.56,14276.76  383.30,11497.39  517.60,14511.77  1188.32

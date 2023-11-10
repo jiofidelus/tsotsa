@@ -1,0 +1,57 @@
+,0,1,2,3,4,5,6,7
+0,S.N.,Crop Species,Gene Editing Tool,Transformation Method,Target Gene,Target Gene,Outcome,Reference
+1,,,,,,,Mutant lines,
+2,,,,,,,showed lower,
+3,,,,,,Disease,host pustule,
+4,10.,Citrus,CRISPR/Cas9,tumefaciens-mediated,CsLOB1,susceptibility gene,with improved,[66]
+5,,,(SDN1),transformation,,bacterial canker,fungal resistance,
+6,,,,,,bacterial canker,against,
+7,,,,,,,Xanthomonas citri,
+8,,,,,,,subsp.citri.,
+9,,,,,,Disease,Improved fungal,
+10,,,CRISPR/Cas9,Agrobacterium,CsLOB1,susceptibility gene,resistance against,
+11,11.,Citrus,(SDN1),transformation,CsLOB1,for citrus,canker in,[67]
+12,,,,,,bacterial canker,mutant plants,
+13,,,,,,,Mutants lines,
+14,,,,,,MAPKs genes play,were prepared by,
+15,,,CRISPR/Cas9,,,an important role,knocking out,
+16,12.,Tomato,(SDN1),Not mentioned,SIMAPK3,in defense,SIMAPK3 gene,[68]
+17,,,(SDN1),,,responses to biotic,that showed,
+18,,,,,,and abiotic stresses,resistance to,
+19,,,,,,,Botrytis cinerea,
+20,,,,,,,Mutants lines,
+21,,,,Agrobacterium,,Important in,with knocked out,
+22,13.,Grape,CRISPR/Cas9,tumefaciens-mediated,VoWRKY52,plant biotic,VvWRKY52 gene,[69]
+23,13.,Grape,(SDN1),transformation,VoWRKY52,stresses responses,showed higher,[69]
+24,,,,transformation,,stresses responses,resistance to,
+25,,,,,,,Botrytis cinerea,
+26,,,,Agrobacterium,,Susceptibility,Mutant lines,
+27,14.,Chili pepper,CRISPR/Cas9,tumefaciens-mediated,CaERF28, gene for,showed higher,[70]
+28,14.,,(SDN1),transformation,CaERF28,anthracnose disease,resistance to-,[70]
+29,,,,transformation,,anthracnose disease,ward anthracnose,
+30,,,,Nutritional and flavor quality,Nutritional and flavor quality,,,
+31,,,,,,Responsible for,varied metabolite,
+32,,,,,"NF-Y, L1L4,",biosynthesis for,profiles and high,
+33,15.,Tomato,ZFNs (SDN1),Not mentioned,NF-YB6,seed storage,amounts of OA,[71]
+34,,,,,NF-YB6,proteins and,as compared to,
+35,,,,,,SBE1 enzymes are,wild type,
+36,,,,,,responsible,,
+37,,,,,,forformation of,,
+38,,,,Agrobacterium,,INV2 catalyze the,Improved,
+39,16.,Potato,TALEN,tumefaciens-mediated,SBE1 and,INV2 catalyze the,amylopectin,[72]
+40,16.,Potato,(SDN1),transformation,INV2,irreversible,content and,[72]
+41,,,,transformation,,hydrolysis of,cold sweetening,
+42,,,,,,sucrose into,,
+43,,,,,,glucose,,
+44,,,,,,and fructose,,
+45,,,,Agrobacterium,,Important enzyme in,Significant,
+46,17.,Grape,CRISPR/Cas9,tumefaciens-mediated,IdnDH,tartaric acid (TA),accumulation of,[73]
+47,17.,Grape,(SDN1),transformation,IdnDH,biosynthetic pathway,tartaric acid (TA),[73]
+48,,,,transformation,,biosynthetic pathway,in mutants lines,
+49,,,,Agrobacterium,,Important enzyme,Stable,
+50,18.,Apple,CRISPR/Cas9,transformation and PEG,IdnDH, in TA biosyn-,of TA in,[74]
+51,,,,transformation system,,thetic pathway,mutant plants,
+52,,,,,,,Mutant lines,
+53,19.,Potato,CRISPR/Cas9,using PEG mediated,StGBSS,Responsible for,amylopectin,[75]
+54,19.,Potato,(SDN1),transformation system,StGBSS,amylase synthesis,content than,[75]
+55,,,,,,,wild type,

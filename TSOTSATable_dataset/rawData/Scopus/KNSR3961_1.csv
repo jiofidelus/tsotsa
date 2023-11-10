@@ -1,0 +1,49 @@
+,0,1,2
+0,Compound,Main Feature,Molecular/cellular target*
+1,Omega-3 fatty acids,Anti-inflammatory,"COX,LOX,BDNF"
+2,Selenium,Reinforcing endogenous antioxidant systems,"seleno-protein T, seleno-protein"
+3,,,"P,glutathione peroxidase 1,and"
+4,,,glutathione peroxidase 4
+5,Creatine,increasing ATP level,"Phosphocreatine, mitochondria"
+6,Coenzyme Q10,"inhibiting apoptotic process, reinforcing mitochondrial function,",Mitochondrial electron transport
+7,,increase the production of dopamine,chain
+8,Curcumin,"Antioxidant,","GSH,SODWnt/-catenin"
+9,,anti-apoptotic,"signaling pathwayJNKs,NF-kB"
+10,,,Bax
+11,Thymoquinone,"anti-oxidant,","GSH,SODBcl-2"
+12,,"anti-inflammatory,",
+13,,anti-apoptotic,
+14,Resveratrol,"antioxidant,inducing autophagy,anti-inflammatory","GSH,SOD,AMPK,SIRT1"
+15,,,"COX-2, TNF-"
+16,N-acetylcysteine,"Anti-oxidant,","GSH,Parkin,Drp1,TNF-"
+17,,anti-inflammatory,
+18,Vitamin E,"Anti-oxidant,","GSH,PINK1,Mitochondria"
+19,,"anti-inflammatory, improving neuronal plasticity",
+20,Vitamin D,Anti-inflammatory,microglial cytokines
+21,-Caryophyllene,"Antioxidant,","NQO1,IL-1,IL-6,CB2-R"
+22,,anti-inflammatory,
+23,Lycopene,"Antioxidant,","GSH,SOD,CAT,Bcl-2,cyt-c"
+24,,anti-apoptotic,"Bax,caspase 3"
+25,Piperine,"anti-oxidant,","GSH, SOD, cyt-c, caspase-3,"
+26,," anti-inflammatory,","caspase-9, Bax, TNF-, IL-1"
+27,,anti-apoptotic,MAO-B
+28,Quercetin,"anti-oxidant,reinforcing mitochondrial function","Mitochondria,PKD1,Akt"
+29,,iron-chelator,"SOD,CAT,GSH-px,MAO-B"
+30,,,a-synuclein
+31,Tanshinone,"anti-oxidant,","Bax,Bcl2,cyt-c,SOD,GSH-Px"
+32,," anti-inflammatory,","CAT, inflammatory cytokines"
+33,,anti-apoptotic,
+34,Arbutin,"reinforcing mitochondrial function,regulating the","Mitochondria,endogenous"
+35,,autophagy pathway,"antioxidant systems,"
+36,,,A2Areceptors
+37,Taurine,"anti-oxidant,","Inflammatory cytokines, endog."
+38,,"anti-inflammatory,","enous antioxidant systems,Bcl-2"
+39,,"anti-apoptotic,",
+40,,"osmoregulation,",
+41,,"membrane stabilization,",
+42,Sesamin,"anti-oxidant,","caspase 3,a-synuclein,GFAP"
+43,,"anti-inflammatory,","ERK,p38MAPK,JNK1/2"
+44,,anti-apoptotic,"Inflammatory cytokines, endog."
+45,,,enous antioxidant systems
+46,Sesamol,anti-oxidant,"SOD, CAT, GSH-px, parkin, DJ-1"
+47,,,LRRK2

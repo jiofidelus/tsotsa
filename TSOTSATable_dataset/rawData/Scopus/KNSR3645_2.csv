@@ -1,0 +1,30 @@
+,0,1,2,3,4
+0,Cut (C),Growing,Heat Treatment,TPC,AA
+1,Cut (C),Season (GS),(HT),(mg GAE g-1 DW),(mg TE g-1 DW)
+2,,Winter,Raw,5.31,10.21 cd
+3,C1,Winter,Boiled,0.99,4.43 d
+4,,Spring,Boiled,7.91,12.98 bcd
+5,,Winter,Raw,9.71,28.24 a
+6,C2,Winter,Boiled,1.65,4.34 d
+7,C2,Spring,Raw,13.85,7.91 cd
+8,,Spring,Boiled,11.43,17.70 abc
+9,,Winter,Raw,28.37,17.77 abc
+10,C3,Winter,Boiled,8.41,9.15 cd
+11,C3,Spring,Raw,17.00,22.66 ab
+12,,Spring,Boiled,8.21,11.56 bcd
+13,,,MEAN EFFECT,,
+14,C1,,,5.37c,8.76 b
+15,C2,,,9.16 b,14.55a
+16,C3,,,15.50 a,15.29 a
+17,,Winter,,9.07b,12.36
+18,,Spring,,10.95 a,13.37
+19,,,Raw,13.59 a,15.70 a
+20,,,Boiled,6.43 b,10.03 b
+21,C1,Winter,,3.15 d,7.32
+22,C1,Spring,,7.60c,10.20
+23,C2,Winter,,5.68 cd,16.29
+24,C2,Spring,,12.64 b,12.81
+25,C3,Winter,,18.39 a,13.46
+26,C3,Spring,,12.61 b,17.11
+27,C1,,Raw,6.30 cd,8.82 b
+28,C1,,Boiled,4.45 d,8.71 b

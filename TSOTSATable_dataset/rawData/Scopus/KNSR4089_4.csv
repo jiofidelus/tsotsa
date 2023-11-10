@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,Study,Study details,,,,,Participant details,Participant details,,,,,,,Outcomes,,
+1,Author:,Study,Probiotic,Duration,Conc.of,Outcome,Model,,,Probiotic Placebo Mean age,Sex ratio,BMI,,Ethnicity Effect,Ethnicity Effect,Compli-,Level of
+2,,design,,of Tx,probiotic,measures,,,,,M:F,,,,,cations,Evidence
+3,,,,(weeks),(CFU/,,,,,,,,,,,,
+4,,,,,day),,,,,,,,,,,,
+5,Kob-,RCT,B. breve,12,2x 1010,"MMSE,",Elders,58,59,61.56.83,30:31,23.13.4,,Japanese MMSE,Japanese MMSE,/,II
+6,ayashi,,Al,,,"RBANS,",with,,,,,,,,"scores,",,
+7,et al.,,,,,blood,mem-,,,,,,,,RBANS,,
+8,[47],,,,,test,ory,,,,,,,,scores,,
+9,,,,,,,com-,,,,,,,,were unaf-,,
+10,,,,,,,plaints,,,,,,,,fected by,,
+11,,,,,,,,,,,,,,,treatment,,
+12,Lebl-,Interven-,Omnibi-,28,7.5109,Biomarkers AD,Biomarkers AD,20,Same,76.79.7,11:9,,,Austrian,Kynurenine,None,IV
+13,huber,tion,otic,,,,,,,,,,,,serum,,
+14,et al.,study,Stress,,,,,,,,,,,,"levels, gut",,
+15,[48],,Repair,,,,,,,,,,,,microbi-,,
+16,,,(L.,,,,,,,,,,,,ome were,,
+17,,,"casei, L.",,,,,,,,,,,,improved;,,
+18,,,"lactis,",,,,,,,,,,,,Cognitive,,
+19,,,L.aci-,,,,,,,,,,,,param-,,
+20,,,dophi-,,,,,,,,,,,,"eters,",,
+21,,,"lus,B.",,,,,,,,,,,,tryptophan,,
+22,,,"lactis,",,,,,,,,,,,,pheny-,,
+23,,,L.para,,,,,,,,,,,,lalanine,,
+24,,,"casei, L.",,,,,,,,,,,,tyrosine,,
+25,,,plan-,,,,,,,,,,,,concentra-,,
+26,,,"tarum,",,,,,,,,,,,,tions and,,
+27,,,B.lac-,,,,,,,,,,,,Kyn/Trp,,
+28,,,"tis,B.",,,,,,,,,,,,concentra-,,
+29,,,"bifidum,",,,,,,,,,,,,tions were,,
+30,,,L. sali-,,,,,,,,,,,,unaffected,,
+31,,,varius),,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+,0,1,2,3
+0,,Regression equation,Adjusted R2,RMSEa
+1,Soybean meal,y=61.7-0.210x,0.893,1.517
+2,Tenebrio molitor,y=35.7-0.136 x,0.927,1.105
+3,Zophobas morio,y=38.6-0.134x,0.933,0.994
+4,Alphitobius diaperinus,y=51.7-0.092x,0.768,1.747
+5,Acheta domesticus,y=55.7-0.133 x,0.905,1.449

@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,,,,,
+1,Investigated,"Extract,",Groups,"Species,",Conditions,Method for,Microbiome,Metabolite,,
+2,Part,Preparation,Analyzed,Volunteers,Conditions,Analysis,Changes,Detection,Metabolites,Reference
+3,,,Individuals),,,,,,,
+4,,,,,,terminal-,,,,
+5,,,"control,",,,restriction,,,,
+6,,,"control,",,,fragment length,,,,
+7,,,azoxymethane/DSS-,,treated from day,polymorphism,AGE vs. model group:,,major,
+8,,ethanolic,induced colitis,male A/J mice,1 to week 13;,(T-RFLP) with,increased rel. levels,,metabolites:,
+9,,extract (70%),"model group, AGE",(6 weeks old,fecal samples,broad-range,"of Firmicutes,",untargeted,"compound K,",[152]
+10,,AGE,low dose,with 18-22 g),collected during,primers for,decreased rel. levels,GC/TOF-MS," ginsenoside Rg3,",[152]
+11,,AGE,"(15 mg/kg/day),",with 18-22 g),"weeks 1, 2, 5, 8,",bacterial,of Bacteroidetes and,,and pro-,
+12,,,AGE high dose,,and 13,"domain,",Verrucomicrobia,, topanaxadiol,
+13,,,(30 mg/kg/day),,,followed by,,,,
+14,,,(n =10 per group),,,16S rRNA gene,,,,
+15,,,,,,NGS Illumina),,,,
+16,,,,,,,rel. decrease in,,,
+17,,,,,,,Bacteroidetes and,,,
+18,,,3 groups:,,,,"Prevotella,",,,
+19,,,guarana,,,,rel. increase in,,,
+20,,,0.021 g/kg);,,treated for,"16S rRNA gene,",cyanobacteria in,,,
+21,,guarana seed,caffeine,(250-300 g),21 days; fecal,NGS (Ion PGM,guarana group,,,[156]
+22,,powder,(0.0007 g/kg); saline,(250-300 g), samples were,System), compared to caffeine,,,[156]
+23,,,(1.0 mL/kg) (n=10,,collected,System),and saline group;,,,
+24,,,per group),,,,Lactobacillus in,,,
+25,Paullinia,,,,,,caffeine and guarana,,,
+26,"cupana,semen",,,,,,group,,,
+27,,,4 groups:,,,,WD + 0.5% Gua,,,
+28,,,"control diet (low-fat,",,treated for,,compared to WD:,,,
+29,,guarana seed,CD);CD + 0.5%,male Wistar rats,18 weeks; fecal,V1-V3 region of,increase in,,,
+30,,powder (Gua),Gua; Western diet,(8 weeks old),samples were,"16S rRNA gene,",Butyricicoccus and,,,[157]
+31,,powder (Gua),(WD; high fat); WD,(8 weeks old),collected during,NGS (Illumina),"Streptococcus,",,,
+32,,,+ 0.5% Gua (n =12,,week 16,,decrease in,,,
+33,,,per group),,,,Holdemania,,,

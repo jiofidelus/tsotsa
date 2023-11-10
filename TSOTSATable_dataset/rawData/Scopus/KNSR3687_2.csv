@@ -1,0 +1,26 @@
+,0,1,2,3
+0,Variable,,IF1-Pn=10,IF2-Pn=10
+1,Energy(kcals/day),Pre,2452166,2483149
+2,,Post a,1458113,145987
+3,Energy (kcals/week),Pre,"17,1661165","17,3841046"
+4,,Post a,9058692,8389438
+5,Protein (%),Pre,151,171
+6,,Posta,342,353
+7,Protein (g),Pre,948,10511
+8,,Post a,11910,12612
+9,Fat (%),Pre,393,393
+10,,Posta,341,282
+11,Fat (g),Pre,1048,11010
+12,,Posta,546,474
+13,Carbohydrate(%,Pre,422,433
+14,,Posta,321,375
+15,Carbohydrates (g),Pre,25724,26826
+16,,Post a,11917,11611
+17,Sodium (mg),Pre,3456344,3197440
+18,,Posta,140271,1655243
+19,Fiber (g),Pre,203,193
+20,,Posta,323,272
+21,Sugars (g),Pre,10017,10715
+22,,Posta,4310,294
+23,Physical Activity (kcals/day,Pre,28587,29557
+24,,Post,20731,29947

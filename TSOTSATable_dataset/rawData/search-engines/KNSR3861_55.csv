@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Nutrient,Indonesia,,Malaysia,,Philippines,Singapore,,Thailand,Vietnam
+1,Moisture,"oven drying, 100-","oven drying, 100-","oven drying, 100-","vacuum oven, 60-","vacuum oven, 60-",air-oven method,air oven at 100-102'C,air oven at 100-102'C,vacuum oven at 95-
+2,,105'c (vacuum oven,105C till constant,105C till constant,70C,,,for most foods;,for most foods;,100C
+3,,for samples with high,weight,,,,,vacuum oven at 89-,vacuum oven at 89-,
+4,,sugar or fat content),,,,,,100'c for meat and,100'c for meat and,
+5,,,,,,,,meat products;,meat products;,
+6,,,,,,,,vacuum oven at 70'c,vacuum oven at 70'c,
+7,,,,,,,,for samples with high,for samples with high,
+8,,,,,,,,fat and/or sugar;,fat and/or sugar;,
+9,,,,,,,,"spices and condiment,","spices and condiment,",
+10,,,,,,,,distillation with organic,distillation with organic,
+11,,,,,,,,solvent,,
+12,Protein,Kjeldahl: digestion,Kjeldahl: digestion,Kjeldahl: digestion,Kjeltec method:,Kjeltec method:,Kjeldahl method,Kjeldahl: digestion,Kjeldahl: digestion,"Kjeldahl method,"
+13,,with sulphuric acid +,with sulphuric acid +,with sulphuric acid +,digestion with,digestion with,,with sulphuric acid +,with sulphuric acid +,"AOAC 15th ed,1990;"
+14,,pot sulphate +,pot sulphate+,pot sulphate+,sulphuric acid +,sulphuric acid +,,pot sulphate + Cu,pot sulphate + Cu,different factors for N
+15,,mercuric oxide;trap N,mercuric oxide; trap N,mercuric oxide; trap N,Kjeltab tablet +,Kjeltab tablet +,,sulphate; trap N in,sulphate; trap N in,conversion
+16,,in boric acid +,in boric acid +,in boric acid +,peroxide;trap in boric,peroxide;trap in boric,,boric acid + indicator;,boric acid + indicator;,
+17,,indicator; titrate with,Tashiro; titrate with,Tashiro; titrate with,acid; titrate with HCI;,acid; titrate with HCI;,,titrate with sulphuric,titrate with sulphuric,
+18,,HCI; different factors,HCI; different factors,HCI; different factors,,,,acid; colorimetric,acid; colorimetric,
+19,,for N conversion,for N conversion,for N conversion,,,,method: feedstuff;,method: feedstuff;,
+20,,"(FAO/WHO,1973)","(FAO/WHO,1973)","(FAO/WHO,1973)",,,,Kjeldahl-type,Kjeldahl-type,
+21,,,,,,,,oxidation; digest,oxidation; digest,
+22,,,,,,,,reacted with,reacted with,
+23,,,,,,,,Nessler's; OD @ 500,Nessler's; OD @ 500,
+24,,,,,,,,nm,,
+25,Total,sugars in sample,by difference:,by difference:,by difference:,by difference:,sum values of starch,by difference:,by difference:,
+26,carbohydrate,extracted with 85%,100g - (total g of,100g - (total g of,100g -- (total g of,100g -- (total g of,and total sugars,100g - (total g of,100g - (total g of,
+27,,"ethanol, analysed by",water + protien + fat +,water + protien + fat +,100g -- (total g of,water + protien + fat +,,water + protien + fat +,water + protien + fat +,
+28,,hydrolysed with,fibre + ash),fibre + ash),ash),,,ash),,
+29,,"amyloglucosidase,",,,,,,,,
+30,,sugars released,,,,,,,,
+31,,analysed by HPLC,,,,,,,,

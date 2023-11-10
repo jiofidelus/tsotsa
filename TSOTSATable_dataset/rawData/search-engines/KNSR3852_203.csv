@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,food,Name,Name,Size,Size,u1,u2,u3,,u4,u5,,u6,u7,,u8,10
+1,code,Kiswahili,English,.,,bowl,glass,cup,,plate,tbsp,,tsp,saucer,saucer,unit,Average
+2,,mchuzi wa mchicha bila,,,,,,,,,,,,,,,
+3,851,mafuta,Spinach broth no oil,,A,,,,,,,,,,,,60
+4,,mchuzi wa mchicha na,,,,,,,,,,,,,,,
+5,852,mafuta,Spinach broth+ oil,,Sta,400,,,200,,,20,,,60,,
+6,852,mchuzi wa mchicha namafuta,Spinach broth+ oil,,A,,,,,,,,,,,,60
+7,853,mchuzi wa nyama bila mafuta,Beef broth no oil,,Std,400,,,200,,,20,,,60,,
+8,853,mchuzi wa nyama bila mafuta,Beef broth no oil,,A,,,,,,,,,,,,60
+9,854,mchuzi wa nyama na mafuta,Beef broth with oil,,Std,400,,,200,,,20,,,60,,
+10,854,mchuzi wa nyama na mafuta,Beef broth with oil,,A,,,,,,,,,,,,60
+11,855,mchuzi wa kabichi bila mafuta,Cabbage broth no oil,,Std,400,,,200,,,20,,,60,,
+12,855,mchuzi wa kabichi bila mafuta,Cabbage broth no oil,,A,,,,,,,,,,,,60
+13,856,mchuzi wa kabichi na mafuta,Cabbage broth w oil,,Std,400,,,200,,,20,,,60,,
+14,856,mchuzi wa kabichi na mafuta,Cabbage broth w oil,,A,,,,,,,,,,,,60
+15,,mchuzi wa kisamvu na tui,Cassava leaf broth with,,,,,,,,,,,,,,
+16,858, la nazi,coconut milk,,Std,400,,,200,,,20,,,60,,
+17,,mchuzi wa kisamvu na tui,Cassava leaf broth with,,,,,,,,,,,,,,
+18,858,la nazi,coconut milk,,A,,,,,,,,,,,,60
+19,,mchuzi wa kisamvu na,Cassava leaf broth,,,,,,,,,,,,,,
+20,860,mafuta,with oil,,Std,400,,,200,,,20,,,60,,
+21,,mchuzi wa kisamvu na,Cassava leaf broth,,,,,,,,,,,,,,
+22,860,mafuta,with oil,,A,,,,,,,,,,,,60
+23,861,mchuzi wa kuku bila mafuta,Chicken broth no oil,,Std,400,,,200,,,20,,,60,,
+24,861,Mchuzi wa kuku bila mafuta,Chicken broth no oil,,A,,,,,,,,,,,,60
+25,862,mchuzi wa kuku na mafuta,Chicken broth w oil,,Std,400,,,,,20,,,60,,,
+26,862,mchuzi wa kuku na mafuta,Chicken broth w oil,,A,,,,,,,,,,,,60
+27,,,Cow pea broth with,,,,,,,,,,,,,,
+28,863,supu ya kunde na tui la nazi,coconut milk,,Sta,400,,,200,,,20,,,60,,
+29,,,Cow pea broth with,,,,,,,,,,,,,,
+30,863, supu ya kunde na tui la nazi,coconut milk,,A,,,,,,,,,,,,60

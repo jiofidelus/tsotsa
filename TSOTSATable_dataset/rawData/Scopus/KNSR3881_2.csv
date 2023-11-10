@@ -1,0 +1,36 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,,,,,Marginally food,Marginally food,Marginally food,Moderately,Moderately,Severely food,Severely food,Severely food,
+1,,,Food-secure,Food-secure,,insecure,,food insecure,food insecure,,insecure,,
+2,,,%,SE,%,,SE,%,SE,%,,SE,P>x2
+3,"Younger Children, 1-8 years",,,,,,,,,,,,
+4,Household education,,,,,,,,,,,,
+5,High school or below,,9.1,1.01,31.3,,8.69,36.9,5.38,47.2,,8.17,<0.001
+6,Some postsecondary*,,39.4,1.82,33.1,7.64,7.64,43.2,5.58,39.2,39.2,8.31,
+7,Bachelor's degree or higher,,51.4,1.95,35.7,,8.70,19.9,4.61,13.6,13.6,5.53,
+8,Income quintile,Income quintile,,,,,,,,,,,
+9,,1,14.0,1.31,50-6,,8.77,59.9,5.44,70.3,70.3,7.83,<0.001
+10,2to5,2to5,86.0,1.31,49.4,49.4,8.77,40.1,5.44,29.7,29.7,7.83,
+11,"Older Children,9-18years",,,,,,,,,,,,
+12,Household education,,,,,,,,,,,,
+13,High school or below,,15.4,1.13,25.2,25.2,5.01,36.9,3.98,36.1,6.43,6.43,<0.001
+14,Some postsecondary*,,38.2,1.41,46.7,46.7,5.86,38.6,3.99,58.5,6.68,6.68,
+15,Bachelor's degree or higher,,46.5,1.63,28.1,,5.38,24.6,3.84,5.5,2.58,2.58,
+16,Income quintile,Income quintile,,,,,,,,,,,
+17,,1,13.6,1.03,39.9,,5.86,55.7,4.37,76.4,76.4,5.71,<0.001
+18,2to5,2to5,86.4,1.03,60-1,5.86,5.86,44.3,4.37,23.6,23.6,5.71,
+19,"Women, 19-64 years",,,,,,,,,,,,
+20,Household education,,,,,,,,,,,,
+21,High school or below,,16.7,1.09,20.4,4.93,4.93,39.7,4.54,40.5,7.03,7.03,<0.001
+22,Some postsecondary*,,37.1,1.44,55.8,,6.52,42.8,4.39,43.1,,8.51,
+23,Bachelor's degree or higher,,46.2,1.55,23.8,23.8,5.11,17.6,4.39,16.4,5.45,5.45,
+24,Income quintile,Income quintile,,,,,,,,,,,
+25,,1,11.2,0.88,31.4,,6.08,45.4,4.77,76.9,76.9,5.07,<0.001
+26,2to 5,2to 5,88.8,0.88,68.6,,6.08,54.6,4.77,23.1,5.07,5.07,
+27,"Men,19-64 years","Men,19-64 years",,,,,,,,,,,
+28,Household education,,,,,,,,,,,,
+29,High school or below,,16.3,1.16,30.3,,6.40,37.0,4.76,58.7,58.7,9.03,<0.001
+30,Some postsecondary*,,40.5,1.67,55.0,,7.04,38.1,4.88,28.8,,7.72,
+31,Bachelor's degree or higher,,43.2,1.64,14.7,,3.90,24.9,4.56,12.5,6.47,6.47,
+32,Income quintile,Income quintile,,,,,,,,,,,
+33,,1,11.3,1.28,23.8,23.8,5.84,47.3,4.87,62.2,8.62,8.62,<0.001
+34,2 to 5,2 to 5,88.7,1.28,76.2,76.2,5.84,52.7,4.87,37.8,8.62,8.62,

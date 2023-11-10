@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7
+0,Cultivar,Treatment,Leaf area,Dry biomass,Plant water,"WUE,",g13C,Specific
+1,,,(cmpot-g pot-1,(cmpot-g pot-1,use(L,(g L-f),(%0),leaf N
+2,,,,,plant-1),,,content
+3,,,,,,,,(mg cm-2)
+4,Heng0628,NPSO,1473.5a,67.7ab,55.94a,1.21b,32.03a,1.30a
+5,,DPSO,1131.5b,65.8b,51.18ab,1.29b,- 32.28ab,1.29a
+6,,NPS1,1220.0b,65.2b,50.42b,1.26b,-32.51b,1.07b
+7,,DPS1,1245.5ab,70.4a,52.40ab,1.35a, 32.09a,1.26a
+8,XR4347,NPSO,1264.8a,48.0a,49.39a,0.97ab,-31.76a,1.53a
+9,,DPSO,1051.3b,51.6a,48.13ab,1.07a,-32.17bc,1.41ab
+10,,NPS1,877.3c,36.1b,44.46c,0.81b,32.25c,1.31b
+11,,DPS1,1203.0a,49.4a,46.59b,1.06a,-31.91ab,1.61a

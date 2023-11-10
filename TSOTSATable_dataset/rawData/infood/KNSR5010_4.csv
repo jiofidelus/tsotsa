@@ -1,0 +1,9 @@
+,0,1,2,3
+0,,ITDLL,,
+1,,FOOD STATES AND CODES,,FOOD STATES AND CODES
+2,Food State Description,,,Food State Code
+3,Raw,,1,
+4,Boiled,,2,
+5,Steamed,,3,
+6,Fried,,4,
+7,Roasted,,5,

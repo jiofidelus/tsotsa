@@ -1,0 +1,46 @@
+,0,1,2,3,4
+0,Technique,Sensitivity(nM if not,Advantages,Disadvantages,References
+1,,specified otherwise),,,
+2,LC-PDA/UV,K: 67-89a,Commonly available,Complicated sample,Zhang et al (2019)169.
+3,,MK-4: 742a,technique,treatment,Chatzimichalakis et
+4,,,,Low sensitivity,al (2004)168
+5,LC-FLD,Ky: 0.07b-0.22a,Commonly available,Pre-or post-column,Ahmed et al (2015)12.
+6,,MK-4: 0.09b-0.45a,technique,reduction,Kishikawa and
+7,,MK-7: 0.05b-0.26a,Sensitivity,Complicated sample,Kuroda (2014)170.
+8,,,,treatment,2018171: Zhang et
+9,,,,,al (2019) 169
+10,LC-EC,K:0.11a,Low limits of detection,Long analysis times (up,Zhang et al (2019)169.
+11,,MK-4: 0.22a,,to 80 min),Harrington et al
+12,,MK-7:0.16a,,Complicated sample,(2005)173; Kamao et
+13,,Metabolites in urine: 3.5,,treatment,al (2005)174
+14,,fMa,,,
+15,LC-CL,K1: 0.07a,Wide working range,Reaction with CL,Ahmed et al (2011)177;
+16,,MK-4: 0.09a,Sensitivity,reagents,Zhang et al (2019)169
+17,,MK-7:0.16a,,Long analysis times (up,
+18,,K2: 6.4a,,to 50 min),
+19,,,,Complicated sample,
+20,,,,treatment,
+21,LC-MS,K:0.07-0.44 or1 pmol/,Selectivity,Financial investment,Gentili et al (2014)176.
+22,,gb,Sensitivity,Highly skilled personnel,Dunovska et al
+23,,MK-4:0.07-0.47,,Matrix effects,2019179; Abro et al
+24,,MK-7:0.05-1.55,,Complicated sample,(2014)183; Kamao et
+25,,MK4-13: 1-30 pmol/gb,,treatment,al (2007)175; Karl et al
+26,,,,,al (2019)182; Hu et al
+27,,,,,(2018)180
+28,SFC-MS,"K1: 0.22a,b",Short analysis time (4,Matrix effects,Gorska (2019)184.
+29,,,min),Not commonly used,Sandvik et al
+30,,,Selectivity,Complicated sample,2017)178
+31,,,,treatment,
+32,Immunochemical assays,"K: 0.11-44a,b",Commonly available,Cross-reactions,MyBioSource185-187
+33,,"K: 0.56-17.98a,b",technique,Impossible to differenti-,
+34,,,Low operational cost,ate individual forms of,
+35,,,Small amount of sample,vitamin K2,
+36,,,and solvents,,
+37,Electrochemical sensors,K2: 9 pg/mLa (0.02)d,"Simplicity, cost effective-",Not commonly used,Jedlinska et al (2018)181
+38,,,"ness, reproducibility,",Application till now only,
+39,,,"easy handling, minia-","in microbiological, food",
+40,,,turization and high,and pharmaceutical,
+41,,,sensitivity,samples,
+42,,,,Impossible to differenti-,
+43,,,,ate individual forms of,
+44,,,,"vitamin K,",

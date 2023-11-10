@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,Food,,,,,,,,,,,,,,,,
+1,code,Name,Name,Size,u1,u2,u3,,u4,,u5,u6,u7,,u8,,10
+2,,Kiswahili,English,,bowl,glass,cup,,plate,plate,tbsp,tsp,saucer,saucer,unit,unit,Average
+3,10,mahindi yaliyokobolewa,Maize dehulled,Std,,,,,,450,,,,150,,,
+4,13,mahindi mabichi, Maize green,S,,,.,,,,,,,,,100,
+5,13,mahindi mabichi,Maize green,M,,,.,,.,,,,,,,350,
+6,13,mahindi mabichi,Maize green,A,,,,,,,,,,,,,225
+7,14,mahindi kwenye gunzi, Maize on cob,S,,,,,,,,,.,,,100,
+8,14,mahindi kwenye gunzi,Maize on cob,M,,,,,,,,,,,,350,
+9,14,mahindi kwneye gunzi, Maize on cob,A,,,,,,,,,,,,,225
+10,21,wali,Rice cooked,Std,,,,,,450,,,,175,,,.
+11,21,wali,Rice cooked,A,,,,,,,,,,,,,315
+12,101,parachichi,Avocado,S,,,,,.,,,,,,,150,
+13,101,parachichi,Avocado,M,,,:,,:,,,:,:,,,200,
+14,101,parachichi,Avocado,L,,,,,,,,,,,,500,
+15,101,parachichi,Avocado,A,,,,,,,,,,,,,150
+16,102,ndizimbivu,Banana ripe,S,,,,,.,,.,,.,,,50,
+17,102,ndizimbivu,Banana ripe,M,,,:,,,,.,.,,,,115,
+18,102,ndizimbivu,Banana ripe,L,,,,,:,,,:,:,,,175,
+19,102,ndizimbivu,Banana ripe,A,,,,,,,,,,,,,100
+20,103,ubuyu,Baobab fruit,Std,,:,,150,,,.,,,10,,,
+21,103,ubuyu,Baobab fruit,A,,,,,,,,,,,,,50
+22,104,zabibu,Grape,A,,,,,,,,,,,,,150
+23,106,mapera,Guava,S,,,:,,.,,.,,,,,60,
+24,106,mapera,Guava,M,.,:,:,,:,,,,,,,100,
+25,106,mapera,Guava,L,,,,,,,,,,,,150,

@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6,7
+0,Evaluation Methods,Author,Year,Definition,Program Evaluated,Computing Method,Components,Quality Index
+1,,,,A score used to evaluate the,,AAS = amino acid content in sample protein,,
+2,,,,proximity of an essential amino,,(mg/g)/corresponding essential amino acid,,
+3,Amino acid score (AAS),Bano et al. [34],1982,the corresponding essential amino,Protein quality,content in the FAO or WHO scoring standard,of protein,Amino acid score
+4,,,,acid in the reference protein,,model (mg/g),,
+5,,,,model.,,,,
+6,,,,Based on the ratio of the amount,,,,
+7,,,,of the first-limiting dietary,,,,
+8,,,,indispensable amino acid in the,,,,
+9,Protein-digestibility-,,,protein source to the amino acid,,,,
+10,corrected amino acid score,Eggum et al. [35],1991,child corrected for protein,Protein quality,,,
+11,(PDCAAS),,,digestibility based on true fecal,,,,
+12,,,,nitrogen digestibility and using a,,,,
+13,,,,growing rat as a model for the,,,,
+14,,,,adult human.,,,,
+15,,,,,,,The amount and profile of,
+16,,,,Based on the relative digestible,,DIAAS (%) = 100  (mg of digestible dietary,"isoleucine (Ile), leucine (Leu),",
+17,Digestible indispensable,Wolfe et al. [36],2016,content of indispensable amino,Protein quality,IAA in 1 g of the dietary test protein)/(mg of the,"valine Val, lysine Lys,",DIAAS score
+18,amino acid score (DIAAS),Wolfe et al. [36],2016,acids (IAAs) and the amino acid,Protein quality,same amino acid in 1 g of the reference protein),"threonine (Thr), phenylalanine",DIAAS score
+19,,,,requirement pattern.,,same amino acid in 1 g of the reference protein),"(Phe), methionine (Met), and",
+20,,,,,,,tryptophan (Trp),
+21,,,,A geometric mean for calculating,,,,
+22,,,,an overall comparison between all,,,,
+23,Index (EAAI),Oser et al. [37],1951,protein to be tested and all,Amino acid quality,,All essential amino acids,EAAI
+24,,,,essential amino acids in the,,,,
+25,,,,reference protein model.,,,"Vitamin A, vitamin C, iron,",
+26,,Sorenson et al. [38];,, qualitatively analyzing single,,,"vitamin D, vitamin E, thiamin,",
+27,(INQ),et al. [39],"1976,2021",special significance for assessing,Nutrient amount,a food or diet divided by its RDA in 1000 kcal,"acid, vitamin B6, folate, vitamin",INQ scores
+28,,et al. [39],,clinical nutritional issues,,,"calcium,and selenium",
+29,,,,,,,"Protein, calcium, iron, vitamin",
+30,Naturally nutrient rich,Drewnowski et al,,Mean percentage daily values,,,"riboflavin, vitamin B12, folate,",
+31,(NNR),[40],2005,(DVS) for 14 nutrients in 2000 kcal,Nutrient density,NNR = E%DV2000 kcal/14,"vitamin D, vitamin E,",NNR score
+32,,,,of food.,,,"monounsaturated fat,",
+33,,,,,,,"Protein, calcium, iron, vitamin",
+34,Calories-for-nutrients,Drewnowski et al.,,The cost in calories required to,,,"A, vitamin C, thiamine,",
+35,(CFN),[40],2005,obtain an additional 1% DV for a,Energy density,CFN=ED/%DV100 g/13,"riboflavinvitamin B6,vitamin",CFN score
+36,(CFN),[40],,range of key nutrients.,,,"B12, niacin, folic acid,",
+37,,,,,,,"magnesium, and zinc",

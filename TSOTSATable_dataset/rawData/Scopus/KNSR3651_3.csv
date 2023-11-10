@@ -1,0 +1,5 @@
+,0,1,2,3
+0,Predictor I,Predictor II,Pearson's r,p
+1,tendency,exposure,0.168,0.164
+2,tendency,insect aversion,0.034,0.779
+3,exposure,Insect aversion,0.166,0.17

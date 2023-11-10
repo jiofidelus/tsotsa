@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,Time of application,Samples,Tasters,Correct,,Preferred sample
+1,,,,,Control,Treatment
+2,Veraison,Control vs MeJ,8,5,3,2
+3,,Control vs BTH,8,4,1,3
+4,,Control vs MeJ+BTH,8,4,2,2
+5,Mid-Ripening,Control vs MeJ,8,4,2,2
+6,,Control vs BTH,8,5,2,3
+7,,Control vs MeJ+BTH,8,4,2,2

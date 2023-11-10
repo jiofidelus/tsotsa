@@ -1,0 +1,21 @@
+,0,1,2,3
+0,Environmental out-,Difference in change from base-,95% CI,Pvalue
+1,comes,line to 6 monthsa,,
+2,"Greenhouse gas emissions (kg CO,-eq/d)","Greenhouse gas emissions (kg CO,-eq/d)",,
+3,Model 1b,0.66,0.29-1.02,<0.001
+4,Model2c,0.40,0.09-0.71,0.010
+5,Land use (m2*y/d),,,
+6,Model1,0.46,0.24-0.67,<0.001
+7,Model 2,0.30,0.14-0.47,<0.001
+8,"Terrestrial acidification (kg SO,-eq/d","Terrestrial acidification (kg SO,-eq/d",,
+9,Model1,0.01,0.002-0.01,0.010
+10,Model 2,0.01,8.69  10-6  0.01,0.050
+11,Eutrophication-Freshwater(kg P-eq/d,Eutrophication-Freshwater(kg P-eq/d,,
+12,Model1,3.5710-s,-3.3710-6-7.4710-6,0.073
+13,Model 2,1.62  10-s,-1.77 10-5- 5.01 10-5,0.349
+14,Eutrophication-Marine(kg N-eq/d),Eutrophication-Marine(kg N-eq/d),,
+15,Model1,1.0410-3,7.2710-5- 2.0110-3,0.035
+16,Model 2,7.11  10 4,2.19  10-4- 1.64 10-3,0.134
+17,Blue water use (m3/d),,,
+18,Model1,-0.01,-0.03 to 0.01,0.329
+19,Model 2,0.02,0.03 to 0.01,0.065

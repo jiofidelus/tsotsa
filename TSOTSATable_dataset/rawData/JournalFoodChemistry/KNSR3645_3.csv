@@ -1,0 +1,20 @@
+,0,1,2,3
+0,Peak,Carotenoid,Aphanotece,Phormidium
+1,,,microscopica,autumnale
+2,1,cis-violaxanthin,0.82,0.67
+3,2,cis-neoxanthin,0.69,0.66
+4,3,all-trans-zeaxanthin,4.35,3.70
+5,4,"5,6-epoxy--cryptoxanthin",1.37,
+6,5,all-trans-zeinoxanthin,,0.41
+7,6,2'-linolenoyl-myxol ester,0.91,
+8,7,all-trans-echinenone,7.96,6.00
+9,8,"cis-5,8-epoxy-",0.72,
+10,,cryptoxanthin,,
+11,9,cis-echinenone,10.1,9.52
+12,10,myristoyl-zeinoxanthin,,0.79
+13,,ester,,
+14,11,myristoyl--cryptoxanthin,1.46,
+15,,ester,,
+16,12,9-cis-a-carotene,0.70,0.22
+17,13,all-trans--carotene,67.5,69.4
+18,14,9-cis--carotene,3.42,8.63

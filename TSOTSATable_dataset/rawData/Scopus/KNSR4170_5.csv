@@ -1,0 +1,30 @@
+,0,1,2,3
+0,Crop,Disease,Causal Pathogen,Reference
+1,,Bacterial soft rots,"Various Erwinia spp., Bacillus polymgyxa",
+2,,Graymold,Botrytis cinerea,
+3,Cucurbits,Alternaria rot,Fusarium spp.,[96]
+4,Cucurbits,Charcoal rot,Alternaria spp.,[96]
+5,,Cottony leak,Pythium spp,
+6,,Rhizopus rot,Rhizopus spp.,
+7,,Bacterial soft rots,"Various Erwinia spp., Bacillus polymyxa",
+8,,Graymold,"Pseudomonas spp., and Xanthomonas campestris",
+9,,Fusarium rot,Botrytis cinerea,
+10,"Tomato,",Alternaria rot,Fusarium spp.,
+11,"Eggplant,",Cladosporium rot,Alternaria spp.,[96]
+12,Capsicum,Rhizopus rot,Rhizopus spp.,
+13,Capsicum,Watery soft rot,Sclerotinia spp,
+14,,Sclerotium rot,Pythium spp.,
+15,,Sclerotium rot,Sclerotium rolfsii,
+16,,Bacterial soft rots,"Various Erwinia spp., Bacillus polymyxa",
+17,"Brassicas,",Graymold,"Pseudomonas spp., and Xanthomonas campestris",
+18,Leafy,Alternaria rot,Botrytis cinerea,[96]
+19,Vegetables,Watery soft rot,Alternaria spp.,[96]
+20,Vegetables,Phytophthora rot,Sclerotiniaspp.,
+21,,Phytophthora rot,Phytophthora porri,
+22,,Bacterial soft rots,"Various Erwinia spp., Lactobacillus spp., and",
+23,,Black mold rot,Pseudomonas spp,
+24,Onion,Fusarium basal rot,Aspergillus niger,[101]
+25,,Smudge,Colletotrichum circinans,
+26,,Bacterial soft rot,Erwinia spp.,
+27,Potato,Dry rot,Fusarium spp.,[102]
+28,,Silver scurf,Helminthosporium solani,

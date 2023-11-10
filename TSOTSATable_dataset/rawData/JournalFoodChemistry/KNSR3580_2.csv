@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+0,,Source,INFOODS FCDB,German FCT,Spanish FCT,Portuguese FCT
+1,,,(aFiSh)a,(G-FCT,(S-FCT),P-FCT)
+2,,Scientific name,Trachurus trachurus,Trachurus trachurus,,
+3,,English name(s),Atlantic horse mackerel,"Horse mackerel,Jack mackerel",Horse,
+4,,,,Scad,mackerel,
+5,,Common name(s in own,Atlantic horse mackerel,"Stocker,Schildmakrele",Jurel,Carapau
+6,,language,(HOM),,,
+7,,Food description,"wild, skinless fillet",edible portion,edible portion,"skinon fillet, incl."
+8,,,,,,bones
+9,Water (g),MeanSD,73.1  4.2,75.1,78.3,75.6
+10,,(min-max),(66.079),,,
+11,,,21,,,
+12,Protein (g),MeanSD,18.6  1.62,19.8,15.4,19.7
+13,,(min-max),15.7-21.2),(19.520),,
+14,,n,19,,,
+15,Fat (g),MeanSD,5.44  3.87,3.85,5.2,2.9
+16,,(min-max),(0.4-14.5),(2.50-5.20),,
+17,,,36,,,
+18,Ash(g),Mean  SD,1.610.34,1.29,,1.4
+19,,(min-max),1-2.17,1.20-1.60,,
+20,,n,17,,,
+21,Calcium (mg,MeanSD,239106,65,17,69
+22,(Ca),(min-max),106-413),,,
+23,,,11,,,
+24,Selenium(mcg,MeanSD,3617,47,37,
+25,(Se),(min-max),(8.977),(43-49),,
+26,,n,11,,,
+27,Iodinemcg,Mean  SD,28  22,48,10,
+28,(1),(min-max),11-66,,,
+29,,n,11,,,
+30,FASAT(g,MeanSD,1.13  1.08,,2,0.7
+31,,(min-max),(0.11-4.84,,,
+32,,n,20,,,
+33,FAMS(g),Mean SD,0.88  0.65,,1.4,0.8
+34,,(min-max),(0.06-2.10,,,
+35,,n,19,,,
+36,FAPU (g),MeanSD,1.010.76,,1.3,0.9
+37,,(min-max),(0.07-2.36),,,
+38,,n,18,,,
+39,FAPU n-3(g),MeanSD,1.011.05,,,
+40,,(min-max),0.06-2.75,,,
+41,,n,8,,,
+42,FAPU n-6(g),MeanSD,0.120.11,,,
+43,,(min-max),(0.01-0.31),,,
+44,,n,8,,,
+45,FA C20:5 n-3g,Mean SD,0.3160.287,0.17,,
+46,(EPA),(min-max),(0.015-1.08),,,
+47,,n,20,,,
+48,FA C22:6 n-3(g,MeanSD,0.5790.439,0.29,,
+49,(DHA),(min-max),(0.040-1.85),,,
+50,,,20,,,

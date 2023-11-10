@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Paper Plate A,,Paper Plate B,,Paper Plate C,,Muffin Cup A,Muffin Cup B,Muffin Cup C
+1,,50% Ethanol,20% Ethanol,50% Ethanol,20% Ethanol,50% Ethanol,20% Ethanol,50% Ethanol,50% Ethanol,50% Ethanol
+2,,[ng/g food],[ng/g food],[ng/g food],,[ng/g food],,[ng/g food],,
+3,,,,,[ng/g food],,[ng/g food],,[ng/g food],[ng/g food]
+4,PFHxA,3.03  0.86,2.24  0.71,2.78  0.35,2.78  0.46,5.00  0.29,5.58  0.66,<LOQ,LOQ,N.d.
+5,PFHxA,31.1  10.4,27.1  9.51,37.3  2.56,35.7  4.56,36.0  2.01,36.7  6.87,<LOQ,0.30  0.05,N.d.
+6,PFOA,0.81  0.31,0.62  0.27,0.89  0.07,0.30  0.03,0.48  0.06,0.58  0.15,0.54  0.06,<LOQ,N.d.
+7,PFOA,<LOQ,<LOQ,0.33  0.03,0.30  0.03,<LOQ,<LOQ,0.54  0.06,0.69  0.07,N.d.
+8,PFNA,LOQ,LOQ,<LOQ,<LOQ,<LOQ,N.d.,<LOQ,<LOQ,N.d.
+9,PFDeA,LOQ,N.d.,<LOQ,N.d.,N.d.,N.d.,0.54  0.10,0.57  0.08,N.d.
+10,PFUnA,N.d.,N.d.,N.d.,N.d.,N.d.,N.d.,<LOQ,<LOQ,N.d.
+11,PFDoDA,N.d.,N.d.,N.d.,N.d.,N.d.,N.d.,0.32  0.04,0.47  0.06,N.d.
+12,PFTrDA,N.d.,N.d.,N.d.,N.d.,N.d.,N.d.,<LOQ,<LOQ,N.d.
+13,PFTeDA,N.d.,N.d.,N.d.,N.d.,N.d.,N.d.,<LOQ,0.19  0.02,N.d.
+14,6:2 FTOH,27.3  8.55,LOQ,N.d.,N.d.,N.d.,N.d.,N.d.,N.d.,N.d.
+15,8:2 FTOH,N.d.,N.d.,N.d.,N.d.,N.d.,N.d.,19.2  4.48,21.9  6.07,N.d.
+16,10:2 FTOH,N.d.,N.d.,N.d.,N.d.,N.d.,N.d.,50.9 1.71,37.1  11.8,N.d.

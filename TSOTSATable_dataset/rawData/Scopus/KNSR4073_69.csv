@@ -1,0 +1,24 @@
+,0,1,2
+0,Food GroupTDS,,(mg/day)
+1,,(mg/kg fresh weight),(mg/day)
+2,Bread,0.025,0.003
+3,Misc.cereals,0.771,0.078
+4,Carcass meat,0.007,0.00015
+5,Offal,0.014,0.00001
+6,Meat products,0.18,0.008
+7,Poultry,0.006,0.00011
+8,Fish,0.032,0.00045
+9,Oils&fats,0.011,0.00030
+10,Eggs,0.003,0.00004
+11,Sugars and preserves,0.046,0.003
+12,Green vegetables,0.003,0.0001
+13,Potatoes,0.004,0.00049
+14,Other vegetables,0.05,0.004
+15,Canned vegetables,411,1.353
+16,Fresh fruit,0.019,0.001
+17,Fruit products,7.211,0.317
+18,Beverages,0.002,0.002
+19,Milk,0.003,0.001
+20,Dairy produce,0.297,0.018
+21,Nuts,0.029,0.00006
+22,Total Intake (mg/day),,1.8 mg/day

@@ -1,0 +1,53 @@
+,0,1
+0,Characteristic,No. of papers (%)
+1,Country,
+2,United States,33 (46)
+3,Australia,8(11)
+4,New Zealand,6 (8)
+5,Denmark,4 (6)
+6,Finland,4 (6)
+7,South Africa,4 (6)
+8,United Kingdom,3 (4)
+9,France,2 (3)
+10,Italy,2(3)
+11,Netherlands,2 (3)
+12,Barbados,11)
+13,Belgium,11)
+14,Canada,11
+15,Switzerland,11)
+16,"Year of publication, range",
+17,1996-2000,1115
+18,20012004,11
+19,2005-2008,2 (3)
+20,2009-2012,9(13
+21,2013-2016,24 (33)
+22,2017-2020,25 (35)
+23,Study design,
+24,Policy evaluation,12(17)
+25,In-store choice architecture,16 (22)
+26,Financial intervention,17 (24)
+27,Feasibility,3(4)
+28,Dietary surveillance,2(3)
+29,Comparison with intake,2(3)
+30,Community intervention,6(8)
+31,Data aggregation level,
+32,Country/area,2(3
+33,Store,25 (35)
+34,Customer,42 (58)
+35,Transaction,3 (4)
+36,Socioeconomic status,
+37,High,6(8)
+38,Mixed,8(11)
+39,Low,21 (29)
+40,Not reported,37(51)
+41,Nutrient data source,
+42,National FCDB,4 (6)
+43,Commercial FCDB,11
+44,Retailer (back of pack),4 (6)
+45,Combined,10 (14)
+46,None,53 (74)
+47,Duration of transaction data (months,
+48,0-12,46 (64)
+49,13-24,15 (21)
+50,25-36,6 (8)
+51,37,5 (7)

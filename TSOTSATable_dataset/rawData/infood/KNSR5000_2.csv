@@ -1,0 +1,48 @@
+,0,1,2
+0,Food name and description,Density in,Source
+1,"Beverages, alcoholic",g/ml,
+2,"Alcohol, ethyl",0.789,TB
+3,"Beer, type bitter or brown ale",1.008,UK 6th
+4,"Beer, type draught",1.004,UK 6th
+5,"Beer, type Keg",1.001,UK 6th
+6,"Beer, type mild, draught",1.009,UK 6th
+7,"Beer, lager",1.005,UK 6th
+8,"Beer, pale ale",1.003,UK 6th
+9,"Beer, stout, bottled",1.014,UK 6th
+10,"Beer,stout,extra",1.002,UK 6th
+11,"Beer,strong ale",1.018,UK 6th
+12,"Beer,pilsner4",1.008,TB
+13,"Beer, pilsner",1.007,DK
+14,"Cider, dry",1.007,UK 6th
+15,"Cider, sweet",1.012,UK 6th
+16,"Cider, vintage",1.017,UK 6th
+17,"Wine, red",0.998,UK 6th
+18,"Wine, rose, medium",1.003,UK 6th
+19,"Wine, white, dry or sparkling",0.995,UK 6th
+20,"Wine, white, medium",1.005,UK 6th
+21,"Wine,white, sweet",1.016,UK 6th
+22,"Wine, white",1-1.04,DK
+23,Port,1.026,UK 6th
+24,"Sherry, dry",0.988,UK 6th
+25,"Sherry, medium",0.998,UK 6th
+26,"Sherry, sweet",1.009,UK 6th
+27,"Vermouth, dry",1.005,UK 6th
+28,"Vermouth, sweet",1.046,UK 6th
+29,"Liqueur, type advocaat",1.093,UK 6th
+30,"Liqueur,type cherry brandy",1.093,UK 6th
+31,"Liqueur, type curacao",1.052,UK 6th
+32,Liqueur,1.03-1.150,DK
+33,"Spirits, 38% alcohol",0.953,UK 6th
+34,"Spirits, 40% alcohol",0.948,UK 6th
+35,"Spirits,45% alcohol (whiskey",0.939,DK
+36,Spirits.70% alcohol,0.885,DK
+37,"Spirits,75% alcohol",0.873,DK
+38,Milk and dairy products,,
+39,"Milk, liguid (whole, semi-skimmed,skimmed)",1.03,UK 6th
+40,"Milk, liquid, whole",1.03,TB
+41,"Milk, liquid,whole",1.031,DK
+42,"Milk, acidophilus cultured",1.01,DK
+43,"Milk, liquid, skimmed",1.033,TB
+44,"Milk, liquid, skimmed",1.036,DK
+45,"Milk,liquid, partially skimmed",1.034,DK
+46,"Milk shake, fruit and other",1,FNDDS

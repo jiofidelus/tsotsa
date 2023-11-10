@@ -1,0 +1,41 @@
+,0,1,2,3
+0,Food ID,,English name and description,
+1,A,Cereals and products,Cereals and products,
+2,AAA38,"Corn, whole-kernel, raw","Corn, whole-kernel, raw",Zea mays
+3,AAA37,"Corn, yellow, on the cob, boiled","Corn, yellow, on the cob, boiled",Zea mays
+4,AAA61,"Rice, flour, glutinous, white","Rice, flour, glutinous, white",Oryza glutinosa
+5,AAA59,"Rice, glutinous, black, polished, raw","Rice, glutinous, black, polished, raw",Oryza glutinosa
+6,AAA60,"Rice, glutinous, white, polished, raw","Rice, glutinous, white, polished, raw",Oryza glutinosa
+7,AAA62,"Rice,parboiled",,Oryza sativa
+8,AAA63,"Rice, white, polished, cooked","Rice, white, polished, cooked",Oryza sativa
+9,AAA65,"Rice, white, polished, raw","Rice, white, polished, raw",Oryza sativa
+10,AAA64,"Rice, white, polished, raw, jasmine variety","Rice, white, polished, raw, jasmine variety",Oryza sativa
+11,AAA67,"Rice, whole-grain, milled by machine, raw","Rice, whole-grain, milled by machine, raw",Oryza sativa
+12,AAA74,"Wheat, flour, all purpose","Wheat, flour, all purpose",Triticum aestivum T. vulgare
+13,B,"Starchy roots, tubers and products","Starchy roots, tubers and products",
+14,AAB6,"Cassava, tuber, raw",,Manihot esculenta
+15,AAB8,"Coleus, tuber",,Coleus tuberosus
+16,AAB10,"Potato, raw",,Solanum tuberosum
+17,AAB12,"Sago, flour",,Metroxylon sp.
+18,AAB14,"Sweet potato, purple,raw","Sweet potato, purple,raw",Ipomeo batatas
+19,AAB16,"Sweet potato, white, raw","Sweet potato, white, raw",Ipomeo batatas
+20,AAB18,"Sweet potato,yellow,raw","Sweet potato,yellow,raw",Ipomeo batatas
+21,AAB20,"Tapioca,flour",,Manihot esculenta
+22,AAB21,"Taro,raw",,Colocasia esculenta
+23,AAB22,"Water chestnut, Kra-jub, boiled","Water chestnut, Kra-jub, boiled",Trapa bisphinosa
+24,AAB26,"Yam, spiny,raw",,Dioscorea esculenta
+25,c,"Legumes, nuts, seeds and products","Legumes, nuts, seeds and products",
+26,AAC3,"Bambara groundnut, boiled","Bambara groundnut, boiled",Voandezia subterranea
+27,AAC2,"Bambara groundnut, raw","Bambara groundnut, raw",Voandezia subterranea
+28,AAC4,"Bean, black, dried, raw",,Vigna unguiculata
+29,AAC6,"Bean, hyacinth, dried, raw","Bean, hyacinth, dried, raw",Dolichos lablab / Lablab Purpureus
+30,AAC10,"Broad bean,seed,dried, raw","Broad bean,seed,dried, raw",Vicia faba
+31,AAC117,"Cashew nut, baked",,Anacardium occidentale
+32,AAC16,"Cashew nut, fresh",,Anacardium occidentale
+33,AAC19,"Chickpea, dried, raw",,Cicer arietinum
+34,AAC27,"Cowpea, seed, mixed colour,dried, raw","Cowpea, seed, mixed colour,dried, raw",Vigna sinensis
+35,AAC118,"Jackfruit,seed",,Artocarpus heterophylla
+36,AAC47,"Job's tears, seed,whole","Job's tears, seed,whole",Coix lachryma-jobi
+37,AAC48,"Kidney bean, red, dried, raw","Kidney bean, red, dried, raw",Phaseolus vulgaris
+38,AAC53,"Mungbean noodle, dried, raw","Mungbean noodle, dried, raw",Vigna radiata
+39,AAC55,"Mungbean, seed, green, dried, raw","Mungbean, seed, green, dried, raw",Phaseolus aureus

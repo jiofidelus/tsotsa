@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,No,Project,Year,Picking method,Num-,Number,3D,Environment,,Harvest rate,Speed,,Damage rate,Issues,Note
+1,,,,,ber,of cam-,imaging,Modi-,Description,,Single,Overall,,to be,
+2,,,,,of,eras,tech-,Description,Description,,Single,Overall,,improved,
+3,,,,,arms,,niques,fied,,,arm,,,,
+4,11,Harvest,2020,Isolate +grasp+ twist,16,32,Stereo,Open field,Open field,>50%,2.7 s/,0.2s/,N/A,Not,*3berries
+5,,Croo-,,,,,,(plant,(plant,,fruit*,fruit*,,speci-,every 8 s
+6,,Strawberry,,,,,,,density,,,,,fied,for single
+7,,(Harvest,,,,,,,reduced),,,,,,"unit,16*3"
+8,,"Croo,",,,,,,,,,,,,,berries per 8 s
+9,,"Charles,",,,,,,,,,,,,,
+10,,Klooster-,,,,,,,,,,,,,
+11,,"man,",,,,,,,,,,,,,
+12,12,Advanced-,2020,Suck+grasp+twist,6,N/A,N/A,Open field,Open field,N/A,N/A,,N/A,Not,* Not as fast as
+13,,Farm-,,,,,,,,,,,,speci-, human yet
+14,,Strawberry,,,,,,,,,,,,fied,
+15,,(Advanced,,,,,,,,,,,,,
+16,,"Farm,",,,,,,,,,,,,,
+17,3,Tortuga-,2020,Stem pinch+cut,1,N/A,N/A,Customized,Customized,N/A,N/A,,N/A,Not,Applied robot
+18,,Strawberry,,,,,,green-,green-,,,,,speci-,fleet to boost
+19,,(TortugaA-,,,,,,house,house,,,,,fied,productivity
+20,,"gTech,",,,,,,,,,,,,,
+21,,2020),,,,,,,,,,,,,
+22,4,P.Ling-,2004,Suck+grasp+twist,1,1*,N/A,Greenhouse,Greenhouse,85%,227 s/fruit,,N/A,Effi-,*1 SONY DXC
+23,,Tomato,,,,,,,,,,,,ciency,LS1 camera
+24,,"(Ling et al.,",,,,,,,,,,,,End-,
+25,,2004),,,,,,,,,,,,effector,
+26,,,,,,,,,,,,,,adapt-,
+27,,,,,,,,,,,,,,ability,

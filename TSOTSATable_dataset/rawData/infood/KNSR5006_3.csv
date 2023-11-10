@@ -1,0 +1,55 @@
+,0
+0,Valine (Val)
+1,Alanine (Ala)
+2,Arginine(Arg)
+3,Aspartic Acid (Asp)
+4,Glutamic Acid (Glu)
+5,Glycine (Gly)
+6,Histidine (His)
+7,Proline (Pro)
+8,Serine (Ser)
+9,so for foods with a high moisture content such as fruits and
+10,vegetables.Reported differences in nutrient content are often due
+11,largely to differences in moisture content rather than to
+12,differences in the nutrient content of the dry matter of the food
+13,"Thus, when data for foods with a high moisture content were"
+14,"derived from a number of sources,correction was made for the"
+15,"moisture content. For example,for onions most of the data are"
+16,taken from the FAO food composition table for Africa so such data
+17,are recorded without adjustment.The water content of onions in
+18,"the FAO table is given as 89%.However,some of the data for"
+19,onions are derived from the McCance and Widdowson table in
+20,"which the moisture content is given as 93% (Paul & Southgate,"
+21,1978) Therefore data derived from the McCance and Widdowson
+22,table are multiplied by the factor (100-89)-(100-93).
+23,(iii) Ash. Values for ash have been taken from various sources.
+24,"(iv) Protein and amino acids.In the FAO tables,different factors have"
+25,been used for the conversion of nitrogen to protein in foods (see
+26,Table 2).These factors have been calculated from the nitrogen
+27,content of proteins isolated from individual foods. When the
+28,protein value has been taken from another source where a
+29,"different conversion factor has been used,this difference has not"
+30,been taken into account because the error involved is generally
+31,"quite small. In many cases, the values for the content of amino"
+32,acids and nitrogen presented in Section 3 are derived from
+33,different sources then those used for the protein content in
+34,"Section 2. If the values for protein (ie, nitrogen multiplied by the"
+35,"conversion factor) were different for the same food, the values in"
+36,Section 3 were adjusted to bring them in line with those quoted in
+37,"Section 2. The term ""total essential amino acids""refers to the"
+38,"sum of the amino acids cystine, isoleucine, leucine, lysine,"
+39,"methionine,phenyialanine, threonine, tyrosine, tryptophan and"
+40,valine.
+41,(v) Fat. Most sources provide data only on the total fat content.
+42,"Values for saturated, mono-unsaturated and polyunsaturated"
+43,"fatty acids and linileic acid were calculated,where possible, from"
+44,values available in other sources.
+45,"(vi) Fibre. The values given are for unavailable carbohydrate, that is"
+46,"""crude fibre""."
+47,"(vii) Carbohydrate. The values for total carbohydrate are given ""by"
+48,"difference"": that is 100 minus the sum of protein, fat, moisture,"
+49,"fibre, and ash. Most of the sources used give carbohydrate by"
+50,"difference including the unavailable carbohydrate (that is, crude"
+51,fibre).However energy values were calculated using
+52,carbohydrate by difference less fibre.For total carbohydrate
+53,"values taken from Platt(1962),crude fibre has already been"

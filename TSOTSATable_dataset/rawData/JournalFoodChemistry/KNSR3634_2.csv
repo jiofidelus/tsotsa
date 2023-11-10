@@ -1,0 +1,73 @@
+,0,1,2,3,4
+0,Techniques,Advantages,Drawbacks,An example where this technique is,affirmed by
+1,,,,used,affirmed by
+2,Scanning electron,Helps to confirm morphological,: Inapposite to assess inclusion,,"Mura,2015"
+3,microscopy (SEM),variations that can be related to the,complex formation,,
+4,,components interactions and the,,,
+5,,existence of a single component,,,
+6,,,,Characterization of host-guest,(Rajbanshi
+7,,,,inclusion complexes formed by -,et al.2018
+8,,,,and -CDs and phenylephrine,
+9,,,,hydrochloride and synephrine,
+10,Fourier-transform infrared,Broad dissemination,Sample preparation,,"Mura,2015"
+11,spectroscopy (FTIR),High selectivity and sensibility,,,
+12,,Easy and reasonable fast to obtain data,,,
+13,,Limited cost,,,
+14,,,,Characterization of host-guest,(Sivakumar
+15,,,,inclusion complex formed by -CD,et al.2016
+16,,,,and 2-hydroxy-1-naphthoic acid,
+17,Powder X-ray diffraction, Any pre-treatment of the sample is not,Not suitable to provide structural,,"Mura,2015"
+18,(PXRD),required,information when putative complexes,,
+19,,Sample does not suffer chemical-physical,are as an amorphous powder (fact,,
+20,,modifications,"that can happen, for example using",,
+21,, Sample can be reused,the spray-drying method),,"(Sala et al.,"
+22,,,,Characterization of host-guest,"(Sala et al.,"
+23,,,,inclusion complex formed by -CD,2021
+24,,,,and the antifungal active,
+25,,,,pharmaceutical ingredient,
+26,,,,fluconazole,
+27,Raman spectroscopy,"- No sample preparation, or little, is",,,"Mura,2015"
+28,,required,,,
+29,, This technique is insensitive to the water,,,
+30,,absorption bands,,,
+31,,,,Study the interaction of limaprost,Inoue et al.
+32,,,,with - and -CD,2016
+33,Thermogravimetric analysis,Wide spread technique,,,"Mura,2015"
+34,(TGA) and differential,Simplicityreliability and relative speed,,,
+35,scanning calorimetry (DSC),,,Characterization of host-guest,"Abarca et al.,"
+36,,,,inclusion complex formed by -CD,2016)
+37,,,,and 2-nonanone,
+38,Ultraviolet/visible,"Technique characterized by its simplicity,",,,Mura2014
+39,spectroscopy (UV-vis),"economy, speed and usefulness",,,"(Kiss et al.,"
+40,,,: The information that can be obtained,,"(Kiss et al.,"
+41,,,about the complex structure is very,,2019
+42,,,little using UV spectroscopy,,
+43,,,Low material required by UV,,
+44,,,,Study the association constants and,"(Saha et al.,"
+45,,,,thermodynamic parameters of,2016
+46,,,,host-guest inclusion complex,
+47,,,,formed by -CD and vitamins,
+48, Nuclear magnetic resonance,Stands out for being one of the most,,,"Mura,2014"
+49,(NMRspectroscopy,useful and complete techniques to study,,,
+50,,interactions between guest and host,,,
+51,,Provide information about the complex,,,
+52,,structure (orientation of the guest inside,,,
+53,,the CD's cavity),,,
+54,,,The formation constant values,,"Kfoury et al.,"
+55,,,attained in the deuterated solvents,,2018
+56,,,are a little different than obtained,,
+57,,,value in water,,
+58,,,,Study on the inclusion complexes,"(Zhao,"
+59,,,,of -CD with isoflavones (daidzin,"Sandstrom,"
+60,,,,and daidzein),"Zhang, & Tan,"
+61,,,,,2016)
+62,Fluorescence,"Technique characterized by its simplicity,",,,"Mura,2014"
+63,,speed and sensitivity,,,
+64,,,,Characterization of host-guest,(Sivakumar
+65,,,,inclusion formed by -CD and,et al.2018
+66,,,,benzoguanamine,
+67,Circular dichroism,A powerful method to prove cyclodextrin,,,Mura2014
+68,,inclusion complexation,,,
+69,, This technique is characterized by having,,,Kiss et al.
+70,,sensitivity and material requirements,,,2019
+71,,similar to those required by the UV,,,

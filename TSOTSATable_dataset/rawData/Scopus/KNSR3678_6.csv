@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,No,Project,Year,Picking method,Num-,Number,3D,Environment,Environment,Harvest rate,Speed,,Damage rate,Issues,Note
+1,,,,,ber,of cam-,imaging,,,,Single,Overall,,to be,
+2,,,,,of,eras,tech-,Modi-,Description,,Single,Overall,,improved,
+3,,,,,arms,,niques,fied,,,arm,,,,
+4,17,Wang-,2017,Grasp+stem cut,1,2,Stereo,-,Not specified 86%,Not specified 86%,15 s+/fruit*,15 s+/fruit*,N/A,Obstacle,* 15 s is from
+5,,Tomato,,,,,,,,,,,,avoid-,recognition to
+6,,2017),,,,,,,,,,,,ance,pinching
+7,,2017),,,,,,,,,,,,Vision,
+8,,,,,,,,,,,,,,detec-,
+9,,,,,,,,,,,,,,tion,
+10,,,,,,,,,,,,,,under,
+11,,,,,,,,,,,,,,occlu-,
+12,,,,,,,,,,,,,,sion,
+13,18,Feng-Cherry,2018,Stem cut,1,1*,Stereo,V,Leaves,83%*,8 s/fruit,,N/A,Obstacle,*1 camera+1
+14,,tomato,,,,,,,had been,,,,,avoid-,laser sensor
+15,,"Feng et al.,",,,,,,,removed,,,,,ance,* Each successful
+16,,2018),,,,,,,Overlap fruit,,,,,Effi-,harvest need
+17,,,,,,,,,ignored,,,,,ciency,1.4 times
+18,,,,,,,,,,,,,,Reliabil-,attempt on
+19,,,,,,,,,,,,,,ity,average
+20,19,X.Ling-,2019,Suck(right hand+,2*,1,Stereo,V,Potted,87.5%,30 s/fruit,,N/A,Harvest,*Dual arm
+21,,Tomato,,Stem cut(left hand),,,,,tomatoes,,,,,success,cooperation
+22,,"(Ling et al.,",,,,,,,in green-,,,,,rate,* 1 Bumblebee2
+23,,2019),,,,,,,house,,,,,,stereo camera
+24,20,Panasonic-,2018,Stem anlged pull,1,2,Stereo,,Greenhouse,N/A,6 s/fruit,,N/A*,Not,* Blade free end-
+25,,Cherry,,,,,Stereo,,,,,,,speci-,effector with
+26,,tomato,,,,,,,,,,,,fied,contactless
+27,,"(Panasonic,",,,,,,,,,,,,,picking method
+28,,2018),,,,,,,,,,,,,tend to achieve
+29,,,,,,,,,,,,,,,low damage
+30,,,,,,,,,,,,,,,rate

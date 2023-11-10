@@ -1,0 +1,23 @@
+,0,1,2,3
+0,GWD,Allele count,Allele,Possible sources
+1,haplo-,,frequency,
+2,type,,(%),
+3,A,46,3.00,Observed in descendants of S. andigena clone CPC 1673 used as donor of resistance against Globodera
+4,,,,rostochiensis
+5,A2,49,3.50,Observed in S. phureja genotype DM1-3 516R44
+6,A3,464,31.80,
+7,A4,33,2.30,
+8,As,2,0.10,Observed only in Lenape and Golden Wonder
+9,B,331,20.80,
+10,c,117,7.30,
+11,D,139,8.90,
+12,E,121,7.60,
+13,F,129,8.30,
+14,G,6,0.40,Observed in heirloom cultivars
+15,H,43,2.70,Observed in progeny of S. demissum introgression clone USDA 96-56 used as donor for R1 resistance
+16,,,,against Phytophthora infestans
+17,,3,0.20,Observed in Astarte and its descendants
+18,1,8,0.50,Observed in progeny of S. vernei introgression clone VE 66-295
+19,K,39,2.40,"Observed in progeny of S. vernei introgression clone VTN 62-33-3, donor of resistance against Globodera"
+20,,,,pallida Pa2
+21,L,1,0.10,Observed only in Hindenburg

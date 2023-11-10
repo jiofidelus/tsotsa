@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Pesticide,LAB Species/Strain,Sample/Food,Mode of Action,References
+1,Organochlorine,,,,
+2,DDT,Lactobacillus spp.,Cereals,Phosphotriesterase,[13]
+3,DDT,"Streptococcus, Lactobacillus",Ras cheese,Biodegradation,[235]
+4,DDT,La. sakei,Soil,Biodegradation,[236]
+5,Organophosphorus,,,,
+6,"Chlorpyrifos, coumaphos","Lev.brevis WCP902,",,,
+7,"diazinon, parathion,","Lp. plantarum WCP931,",Kimchi,Biodegradation,[237]
+8,methyl parathion,La. sakei WCP904,,,
+9,"Chlorpyrifos, coumaphos,",,,Organophosphorus,
+10,"diazinon, parathion,",Lev.brevis WCP902,Kimchi,hydrolase OpdB,[238]
+11,methyl parathion,,,hydrolase OpdB,
+12,chlorpyrifos-methyl,Lp. plantarum 112,Sauerkraut,Low pH,[239]
+13,"Deltamethrin, dimethoate,","Lp. plantarum 112,Lp.",Black olives,Biodegradation,[240]
+14,imidacloprid,plantarum 123,Black olives,Biodegradation,[240]
+15,Pirimiphos-methyl,Lp. plantarum,Wheat,"hydrolase, low pH",[243]
+16,"phorate, trichlorphon",Lp. plantarum,"cabbage, Tofu",Biodegradation,[244]
+17,"Dimethoate,parathion",Lp. plantarum subsp.,Batch process,Phosphatase and,[245]
+18,"methyl, trichlorfon",plantarum CICC 20261,Batch process,Antioxydation,[245]
+19,Phorate,Lp.plantarum,Corn silage,Enzyme hydrolysis,[246]
+20,Diazinon,L. acidophilus,Apple juice,Enzyme hydrolysis,[247]
+21,"Diazinon, chlorpyrifos,",Lev.brevis 1.0209,Milk,Enzyme hydrolysis,[248]
+22,"fenitrothion, malathion",Lev.brevis 1.0209,Milk,Enzyme hydrolysis,[248]

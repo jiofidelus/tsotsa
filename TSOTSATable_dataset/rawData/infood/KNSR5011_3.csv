@@ -1,0 +1,51 @@
+,0,1,2,3,4,5,6
+0,,Component,INFOODS tagname,Unit,,,Comment
+1,Water,,WATER,g,-,,
+2,Iron,,FE,mg,-,,
+3,Zinc,,ZN,mg,-,,
+4,Calcium,,CA,mg,,,
+5,"Phytic acid,determined by","Phytic acid,determined by",PHYTCPPI,mg,,"Phytic acid,based on phytate phosphorus estimated by","Phytic acid,based on phytate phosphorus estimated by"
+6,indirect precipitation,indirect precipitation,,,,indirect ferric precipitation,
+7,"Phytic acid, determined by","Phytic acid, determined by",PHYTCPPD,mg,,"Phytic acid, based on phytate phosphorus estimated by","Phytic acid, based on phytate phosphorus estimated by"
+8,direct precipitation,direct precipitation,,,,direct ferric precipitation,
+9,"Phytic acid, determined by","Phytic acid, determined by",PHYTCA,mg,,"Phytic acid, based on phosphate estimated after an","Phytic acid, based on phosphate estimated after an"
+10,colorimetry after an alkaline,colorimetry after an alkaline,,,,alkaline phosphatase treatment(K-PHYT kit developed by,alkaline phosphatase treatment(K-PHYT kit developed by
+11,phosphatase hydrolyzation,phosphatase hydrolyzation,,,,Megazyme),
+12,"Phytic acid, determined by","Phytic acid, determined by",PHYTCPP,mg,,"Phytic acid,based on phytate phosphorus estimated by","Phytic acid,based on phytate phosphorus estimated by"
+13,anion exchange,anion exchange,,,,ferric precipitation with an additional anion-exchange,ferric precipitation with an additional anion-exchange
+14,,,,,,purification step,
+15,"Phytic acid,determined by","Phytic acid,determined by",PHYTC-,mg,,"Phytic acid, based on phytate phosphorus estimated","Phytic acid, based on phytate phosphorus estimated"
+16,colorimetry (unknown),colorimetry (unknown),,,,by unknown ferric precipitation type or additional,by unknown ferric precipitation type or additional
+17,,,,,,purification steps,
+18,"Phytate phosphorus,","Phytate phosphorus,",PPI,mg,,,
+19,determined by indirect,determined by indirect,,,,,
+20,precipitation,precipitation,,,,,
+21,Phytate phosphorus,Phytate phosphorus,PPD,mg,,,
+22,determined by direct,determined by direct,,,,,
+23,precipitation,precipitation,,,,,
+24,"Phytate phosphorus,","Phytate phosphorus,",PP-,mg,,,
+25,determined by colorimetry,determined by colorimetry,,,,,
+26,(unknown),(unknown),,,,,
+27,Conversion factor for phytate,Conversion factor for phytate,XP,,,Conversion factor used to convert phytate phosphorus to,Conversion factor used to convert phytate phosphorus to
+28,phosphorus,phosphorus,,,,phytic acid,
+29,Inositol triphosphate,Inositol triphosphate,IP3,mg,,Analyzed and expressed as inositol triphosphate,Analyzed and expressed as inositol triphosphate
+30,Inositol tetraphosphate,Inositol tetraphosphate,IP4,mg,,Analyzed and expressed as inositol tetraphosphate,Analyzed and expressed as inositol tetraphosphate
+31,Inositol pentaphosphate,Inositol pentaphosphate,IP5,mg,,Analyzed and expressed as inositol pentaphosphate,Analyzed and expressed as inositol pentaphosphate
+32,Inositol hexaphosphate,Inositol hexaphosphate,IP6,mg,,Analyzed and expressed as inositol hexaphosphate,Analyzed and expressed as inositol hexaphosphate
+33,Inositol penta+,Inositol penta+,IP5_A_IP6,mg,,SUM of IP5and IP6 forms,
+34,hexaphosphate,hexaphosphate,,,,,
+35,Inositol tetra+ penta+,Inositol tetra+ penta+,IP4_A_IP5_A_IP6,mg,,"SUM of IP4,IP5 and IP6 forms","SUM of IP4,IP5 and IP6 forms"
+36,hexaphosphate,hexaphosphate,,,,,
+37,Total inositol phosphates (SUM,Total inositol phosphates (SUM,IPSUM,mg,,"SUM of IP3,IP4,IP5 and IP6 forms","SUM of IP3,IP4,IP5 and IP6 forms"
+38,of all IP forms),of all IP forms),,,,,
+39,"Phytic acid, unknown or","Phytic acid, unknown or",PHYT-,mg,,,
+40,variable method,variable method,,,,,
+41,Phytic acid (by indirect,Phytic acid (by indirect,PHYTCPPI:FE,,,Phytatelron ratio calculated using phytic acid analyzed by,Phytatelron ratio calculated using phytic acid analyzed by
+42,precipitationIron ratio,precipitationIron ratio,,,,indirect ferric precipitation(PHYTCPPI)-See equation 2,indirect ferric precipitation(PHYTCPPI)-See equation 2
+43,Phytic acid (by indirect,Phytic acid (by indirect,PHYTCPPI:ZN,,,Phytate:Zinc ratio calculated using phytic acid analyzed by,Phytate:Zinc ratio calculated using phytic acid analyzed by
+44,precipitationZinc ratio,precipitationZinc ratio,,,,indirect ferric precipitation(PHYTCPPI)-See equation 1,indirect ferric precipitation(PHYTCPPI)-See equation 1
+45,Phytic acid (by direct,Phytic acid (by direct,PHYTCPPD:FE,,,Phytate:lron ratio calculated using phytic acid analyzed by,Phytate:lron ratio calculated using phytic acid analyzed by
+46,precipitation)Iron ratio,precipitation)Iron ratio,,,,direct ferric precipitation(PHYTCPPD)-See equation 2,direct ferric precipitation(PHYTCPPD)-See equation 2
+47,Phytic acid (by direct,Phytic acid (by direct,PHYTCPPD:ZN,,,Phytate:Zinc ratio calculated using phytic acid analyzed,Phytate:Zinc ratio calculated using phytic acid analyzed
+48,precipitationZinc ratio,precipitationZinc ratio,,,,by direct ferric precipitation(PHYTCPPD-See equation 1,by direct ferric precipitation(PHYTCPPD-See equation 1
+49,Phytic acid (by K-PHYT kit):,Phytic acid (by K-PHYT kit):,PHYTCA:FE,,,Phytatelron ratio calculated using phytic acid analyzed by,Phytatelron ratio calculated using phytic acid analyzed by

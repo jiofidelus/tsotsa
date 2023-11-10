@@ -1,0 +1,15 @@
+,0,1
+0,Field Name,Description
+1,DataSrc ID*,Unigue number identifying the reference/source
+2,,This is the reference number from the Sources of
+3,,"Data, preceded with an ""R"""
+4,Authors,List of authors for a journal article or name of
+5,,sponsoring organization for other documents
+6,Title,"Title of article or name of document, such as a report"
+7,,from a company or trade association
+8,Year,Year article or document was published
+9,Journal,Name of the iournal in which the article was
+10,,published
+11,Vol,"Volume number for journal articles, books, or reports"
+12,Start_Page,Starting page number of article/document
+13,End_Page,Ending page number of article/document

@@ -1,0 +1,24 @@
+,0,1,2,3
+0,,Variables,n=97,
+1,LDL-C (mg/dL),LDL-C (mg/dL),130.3  39.9,<99
+2,HDL-C (mg/dL),HDL-C (mg/dL),57.017.6,>39
+3,TC/HDL-C ratio,TC/HDL-C ratio,4.1  1.4,3.5-5
+4,Leptin (ng/mL),Leptin (ng/mL),38.9  26.0,3-18
+5,Adiponectin (g/mL),Adiponectin (g/mL),12.16.0,5-30
+6,ApoA1(mg/dL),ApoA1(mg/dL),85.4  69.3,100-205
+7,ApoB (mg/dL),ApoB (mg/dL),114.2 49.1,<100
+8,ApoB/ApoA1,ApoB/ApoA1,1.30.7,0.8-0.9
+9,hs-CRP (mg/L),hs-CRP (mg/L),4.75.0,1-3
+10,25(OH)D (nmol/L),25(OH)D (nmol/L),65.6 28.0,50-125
+11,Parathyroid hormone (pmol/L,Parathyroid hormone (pmol/L,3.1  1.6,1.6-6.9
+12,Energy and Selected Nutrients,Energy and Selected Nutrients,,DRI
+13,Energy (kcal/day),Energy (kcal/day),1769.2  426.1,
+14,Protein (g/day),Protein (g/day),73.9  20.0,
+15,Protein (g/kg/day),Protein (g/kg/day),0.90  1.6,0.8
+16,Carbohydrates (g/day),Carbohydrates (g/day),209.0  60.3,
+17,Fat(g/day),,68.7  23.2,
+18,Total calcium (mg/day) *,Total calcium (mg/day) *,905.6 383.9,1200
+19,Total vitamin D(IU/day*,Total vitamin D(IU/day*,343.6  288.2,600-800
+20,Physical Activity,Physical Activity,,
+21,Total activity (h/week) **,Total activity (h/week) **,7.9  6.8,
+22,MET,,44.15.3,

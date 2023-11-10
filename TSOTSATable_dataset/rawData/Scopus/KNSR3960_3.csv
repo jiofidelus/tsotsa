@@ -1,0 +1,50 @@
+,0,1,2,3,4,5,6,7
+0,,Country,As standard (g),Year ofGDP/Capita (2019,Year ofGDP/Capita (2019,WB Income Class (2019),Regulatory,Regulation
+1,,,L),publication[20],,[31],Link,typea
+2,Armenia [139-141],Armenia [139-141],50,2005,"$4,623",UM,,Law/Decree
+3,"Azerbaijan [142, 143]","Azerbaijan [142, 143]",50,1985,"$4,794",UM,CIS,Standards Org.
+4,"Bahrain [144, 145]","Bahrain [144, 145]",10,2012,"$23,504",High,GCC,Standards Org.
+5,Bangladesh [146],Bangladesh [146],50,2019,"$1,856",LM,,Gov. Org.
+6,Bhutan [147],,10,2018,"$3,316",LM,,Gov.Org.
+7,"Brunei [17, 148]",,10,1993,"$31,087",High,WHO:1993,Gov.Org.
+8,Cambodia [149],Cambodia [149],50,2004,"$1,643",LM,,Gov.Org.
+9,China [150],,50,2006,"$10,217",UM,,Standards Org.
+10,Georgia [151],,10,2014,"$4,698",UM,,Law/Decree
+11,India [152]h,,10,2012,"$2,100",LM,,Standards Org.
+12,Indonesia [153],,10,2010,"$4,142",UM,,Gov. Org.
+13,Iran [154],,10,2010,NA,UM,, Standards Org.
+14,"Iraq [155, 156]",,10,2009,"$5,955",UM,,Standards Org.
+15,Israe] [157],,10,2016,"$43,592",High,,Law/Decree
+16,Japan [158],,10,2015,"$40,247",High,,Gov. Org.
+17,Jordan [159],,10,2015,"$4,405",UM,,Standards Org.
+18,Kazakhstan [160],Kazakhstan [160],50,2015,"$9,812",UM,,Law/Decree
+19,"Kuwait [145, 161]","Kuwait [145, 161]",10,2011,"$32,000",High,GCC,Gov. Org.
+20,Kyrgyzstan [162],Kyrgyzstan [162],50,2004,"$1,309",LM,,Law/Decree
+21,Laos [163],,50,2009,"$2,535",LM,,Gov.Org.
+22,Lebanon [16],,50,1999,"$7,584",UM,,Standards Org.
+23,Malaysia [165],,10,2004,"$11,414",UM,,Gov. Org.
+24,Maldives [166],,10,2017,"$10,627",UM,,Gov.Org.
+25,Mongolia [167-169],Mongolia [167-169],10,2018,"$4,340",LM,,Standards Org.
+26,Myanmar [170-172],Myanmar [170-172],50,2014,"$1,408",LM,,Gov. Org.
+27,Nepal [173],,50,2005,"$1,071",LM,,Gov.Org.
+28,North Korea,,NA,,NA,Low,,
+29,"Oman [145,174]",,10,2012,"$15,343",High,GCC,Standards Org.
+30,Pakistan [175],,50,2010,"$1,285",LM,,Gov.Org.
+31,Philippines [176],Philippines [176],10,2016,"$3,485",LM,,Gov. Org.
+32,"Qatar [145, 177]",,10,2014,"$62,088",High,GCC,Gov. Org.
+33,"Saudi Arabia [145, 178]","Saudi Arabia [145, 178]",10,2015,"$23,140",High,GCC,Gov. Org.
+34,Singapore [179],,10,2019,"$65,233",High,,Law/Decree
+35,"South Korea [180, 181]","South Korea [180, 181]",10,2015,"$31,846",High,,Gov.Org.
+36,Sri Lanka [182],,50,2019,"$3,853",LM,,Law/Decree
+37,Syria [183-185],,50,2007,NA,Low,,Standards Org.
+38,Taiwan [186],,10,2017,NA,High,,Gov.Org.
+39,"Tajikistan [143, 187]","Tajikistan [143, 187]",50,1985,$871,LM,CIS,Standards Org.
+40,"Thailand [188, 189]","Thailand [188, 189]",50,2008,"$7,807",UM,,Gov.Org.
+41,"Timor-Leste [18, 190):","Timor-Leste [18, 190):",10,2017,$577,LM,WHO,Gov.Org.
+42,"Turkey [191, 192]","Turkey [191, 192]",10,2019,"$9,127",UM,,Law/Decree
+43,Turkmenistan (193-195],Turkmenistan (193-195],NA,,NA,UM,,
+44,,,10,2014,"$43,103",High,GCC,Gov.Org.
+45,Uzbekistan [197],Uzbekistan [197],50,2006,"$1,725",LM,,Law/Decree
+46,Vietnam [198],,10,2009,"$2,715",LM,,Gov.Org.
+47,Yemen [199],,10,1999,$774,Low,,Gov.Org.
+48,Australia and Oceania,Australia and Oceania,,,,,,

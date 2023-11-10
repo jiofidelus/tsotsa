@@ -1,0 +1,54 @@
+,0,1,2,3,4,5
+0,Vacine name/,Antigen/Delivery Route of,Antigen/Delivery Route of,,Phase Identifier (Number of participants;,Outcomes
+1,Developer(s),vehicles,administration/,,Location),
+2,,,Schedule/Dose,,,
+3,,,,,"ISRCTN73765130(2,886 participants;UK)",
+4,,,,,"NCT04515147,PER-054-20 (674",
+5,,,,,"participants; Panama, Peru)",
+6,,,,,"NCT04449276 (280 participants; Belgium,",
+7,,,,,Germany),
+8,"ARCoV/Abogen,",Secreted spike,IM/Day0+28/ III,IM/Day0+28/ III,"NCT04847102 (28,000 participants; China, 2-fold neutralizing GMTs compared to","NCT04847102 (28,000 participants; China, 2-fold neutralizing GMTs compared to"
+9,Walvax,RBD/LNP,15g,,Mexico),convalescent panel.439
+10,"Biotechnology, PLA",,,,ChiCTR2100041855(420,
+11,,,,,participants;China),
+12,,,,1,ChiCTR2000034112(568,
+13,,,,,participants; China),
+14,BNT162a1/,Secreted spike,IM/NA/NA,I/II,"EudraCT 2020-001038-36,NCT04380701",Unknown
+15,"BioNTech,Pfizer",RBD/LNP,,,(476 participants;Germany),
+16,"MRT5500/Sanofi,",Transmembrane,IM/DayO+21/I/II,IM/DayO+21/I/II,NCT04798027 (333 participants;,"Terminated436,; 91-100% seroconversion"
+17,Translate Bio,prefusion spike/,NA,,"Honduras,USA)",rate437
+18,,LNP,,,,
+19,mRNA-type: self-amplifying RNA,mRNA-type: self-amplifying RNA,,,,
+20,ARCT-021/Arcturus Transmembrane,ARCT-021/Arcturus Transmembrane,IM/Day0+28/II,IM/Day0+28/II,NCT04668339 (600 participants;,Seroconversion in most participants441
+21,Therapeutics,prefusion spike/,5.0g or 7.5g,,"Singapore,USA)",
+22,,LNP,,,NCT04728347 (106 participants;,
+23,,,,,Singapore),
+24,,,,1/II,NCT04480957 (92 participants; Singapore),
+25,ARCT-165/Arcturus NA/LNP,ARCT-165/Arcturus NA/LNP,IM/Day0+29/,1/II,NCT05037097 (72 participants;,Unknown
+26,Therapeutics,,NA,,SingaporeUSA),
+27,ARCT-154/ArcturusNA,ARCT-154/ArcturusNA,IM/Day0+29/,SI/II/III,"NCT05012943 (2,1000 participants;",Unknown
+28,Therapeutics,,5g,,Vietnam),
+29,BNT162c2/,Transmembrane,IM/Day0+21/I/II,IM/Day0+21/I/II,"EudraCT 2020-001038-36,NCT04380701",Unknown
+30,BioNTechPfizer,prefusion spike/,NA,,(476 participants; Germany),
+31,,LNP,,,,
+32,LNP-nCoV saRNA/,Transmembrane,IM/NA/,,ISRCTN17072692 (320 participants;UK),39-61% seroconversion rate212
+33,Imperial College,prefusion spike/,0.1~10g,,,
+34,"London, Acuitas",LNP,,,,
+35,Therapeutics,,,,,
+36,EXG-5003/lixirgen,NA/LNP,ID/Day0/NA,1/II,NCT04863131 (60 participants;Japan),Unknown
+37,Therapeutics/,,,,,
+38,Fujita Health,,,,,
+39,University,,,,,
+40,HDT-301/SENAI,NA/LION,IM/Day0+28/,,NCT04844268 (90 participants; NA),Unknown
+41,CIMATEC;HDT,,"1g,5g or",,,
+42,,,25g,,,
+43,LNP-nCOV,NA/LNP,IM/Day 0+28/I,,NCT04934111(42 participants;Uganda),Unknown
+44,saRNA02/RC/ UVRI,,5.0g,,,
+45,and LSHTM,,,,,
+46,Uganda,,,,,
+47,Research Unit,,,,,
+48,SAM-LNP-S/,TransmembraneIM/Day0+30,TransmembraneIM/Day0+30,,NCT04776317 (147 participants;USA),Unknown
+49,Gristone,spike/LNP,85~130/30g,,,
+50,"Oncology, NIAID",,or 3 g,,,
+51,CoV2 SAM (LNP)/,Transmembrane,IM/Day0+30/I,,NCT04758962(10 participants;USA),Unknown
+52,GlaxoSmithKline,spike/LNP,1.0g,,,

@@ -1,0 +1,60 @@
+,0,1,2,3,4
+0,Beneficial,Crosstalk,Function,Mechanism,References
+1,element,with,,,
+2,Se,As,Antagonist of As,Expression of As transporters and expression of regulatory elements such as,Chauhan et al.
+3,,,toxicity,WRKY,2020
+4,Al,"Ca,Mg",Antagonise essential,Restrict root growth and microbial mechanism essential for absorption of,Singh et al.
+5,,"P,K,Mo",elements,nutrients,2017
+6,,and B,,,
+7,Al,"Ca,Mg",Antagonise each other,Compete for the cation exchange sites on the plant roots,Liu and Xu
+8,,,absorption and uptake,,2015
+9,Al,P,Antagonise each other,Formation of nontoxic Al-P complexes in soil,Hodson and
+10,,,absorption and uptake,,Evans 2020
+11,Al,Si,Antagonise each otherf, formation of stable Al-Si complexes,Kopittke et al.
+12,,,absorption,,2017
+13,Al,B,"Antagonise each otherHelps in enhancing root elongation, decreasing Al content in root apoplast","Antagonise each otherHelps in enhancing root elongation, decreasing Al content in root apoplast",Zhu et al.
+14,,,absorption,,2019
+15,Al,S,Antagonise each other, Decreasing the transport of Al from roots to shoots and increasing the Al-,Guo et al.
+16,,,absorption,induced secretion of citrate by roots.,2017
+17,Ce,Mo,Ce antagonise Mo,Competition for binding site,Peralta-Videa
+18,,,absorption,,et al.2014
+19,Ce,N,Decrease nitrogen,Mo is cofactor in nitrate reductase enzyme. Ce affect Mo absorption in turn,Hille et al.
+20,,,assimilation,decrease nitrogen assimilation.,2011
+21,Ce,Fe,Antagonise Fe,Interfere with Fe absorption in soil,Ramirez et al.
+22,,,absorption,,2018
+23,Co,Cd,Increases Cd toxicity,Cobalt affects cell viability and expression of Cd-induced genes associated,Chmielowska-
+24,,,in plants,with plant signaling pathways.,Bak et al.
+25,,,,,2014
+26,Co,"P,S,Cu",Interfere with their,"Reduces the translocation of P, S and Cu and drops the transpiration rate and",Nagajyoti et
+27,,,metabolism,water potential in the leaves of cauliflower,al.2010
+28,1,"Cu,Fe,Mn",Synergistic effect,Ability of copper oxidases to oxidize I -to Ior HOI. It is possible that a,Schlorke et al.
+29,,,,greater amount of iodine present in plant tissues induces increased activity in,2016
+30,,,,"the systems that dissipate the element, such as copper oxidases and possibly",
+31,,,,other oxidases with Fe and Mn,
+32,1,Se,Antagonistic effect,Competition for absorption site,Smolen 'et al.
+33,,,,,2016
+34,Na,K,Synergistic effect,Because in hydrated form Na and K both are chemically and structurally very,Maathuis
+35,,,,similar,2009
+36,Na,"Ca,N,K",Antagonistic effect,Both at cellular and molecular level it interferes in absorption and,Maathuis
+37,,,,assimilation,2014
+38,Se,Cd,Inhibit Cd toxicity,Se treatments increase glutathione and phytochelatin levels and induce Cd-,Li et al.2016
+39,,,,stress tolerance,
+40,Se,N,Promotes N,"Physiological process more strongly, because it prompts a stronger activa-",Rios et al.
+41,,,metabolism,"tion of NR, GS and GOGAT, as well as producing a greater total reduced N",2010
+42,,,,concentration,
+43,Se,P,Antagonistic effect,An increase in the P supply significantly inhibits Se accumulation in the root,Liu et al.2018
+44,,,,"cell wall, but enhances the Se distribution in the organelles and soluble frac-",
+45,,,,tions of root cells,
+46,La,Ca,Antagonistic,"La inhibits Ca transport from the apoplast into the cytoplasm, blocks trans-",Xie et al.
+47,,,effect at higher La,"port from the root to the straw and grain, replaces and competes for binding",2002
+48,,,concentration,"sites, and so results in the decrease of straw and grain Ca.",
+49,La,"FeK,Ca",At low dose of Lait,"Entered into the leaf cells via the endocytosis activated by low-dose La(III),",Ben et al.
+50,,Mg,promotes uptake of,disrupting the homeostasis of essential elements in edible plant leave,2021
+51,,,essential elements,,
+52,La,Cd,Antagonistic effect,Reduces the cadmium accumulation by suppressing expression of transporter,Yang et al.
+53,,,,genes involved in cadmium uptake and translocation,2019
+54,Ti,Fe,Both synergistic and,"Under Fe deficiency, Ti helps induce the expression of genes related to Fe",Lyu et al.
+55,,,antagonistic effect,"acquisition, thereby enhancing Fe uptake and utilization. At Ti concentration,",2017
+56,,,,and Ti competes with Fe for ligands or proteins,
+57,Ti,Cd,Helps in alleviating,improved the chlorophyll and gas exchange parameters in leaves ultimately,Rizwan et al.
+58,,,Cd toxicity in plants,enhancing overall photosynthetic rate,2019

@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Food,Code,Letter,,Name,Energy,Energy,Protein,Fat,Carbo-,Fibre,Phytate,Water
+1,group,Code,code,,Name,Energy,Energy,Protein,Fat,hydrate,Fibre,Phytate,Water
+2,,,,,,kcal,kJ,g,g,9,g,g,g
+3,275,4054,CB,"Milk, fresh and sugar","Milk, fresh and sugar",100,420,3.0,3.8,12.7,0,0,80
+4,275,4056,CD,"Milk, sour and sugar","Milk, sour and sugar",100,420,3.0,3.8,12.7,0,0,80
+5,276,4072,CT,"Milk,tinned (for example 'Peak'brand)","Milk,tinned (for example 'Peak'brand)",158,664,8.6,9.0,11.3,0,0,69
+6,276,4064,CL,"Milk, tinned and water","Milk, tinned and water",64,268,3.3,3.8,4.7,0,0,88
+7,276,4061,CI,"Milk, tinned, and sugar and water","Milk, tinned, and sugar and water",100,420,3.0,3.8,12.7,0,0,80
+8,280,4111,EG,,Egg,158,664,13.0,11.5,0.5,0,0,74
+9,14. - Oils and Fats,14. - Oils and Fats,,,,,,,,,,,
+10,279,4557,VK,Groundnut oil,Groundnut oil,900,3766,0,99.9,0,0,0,0
+11,279,4120,EP,Vegetable oil,Vegetable oil,900,3766,0,99.9,0,0,0,0
+12,278,4554,VH,Palm oil,Palm oil,900,3766,0,99.9,0,0,0,0
+13,279,4067,co,Butter,Butter,740,3096,0.4,82.0,0,0,0,15
+14,284,4539,US,Sugar,Sugar,394,1648,0,0,105.0,0,0,0
+15,284,4523,UC,Sugar cane,Sugar cane,60,251,1.0,0,14.0,2.0,0,82
+16,284,4522,UB,Honey,Honey,301,1259,0.4,0,79.8,0,0,19
+17,16. - Water and Salt,16. - Water and Salt,16. - Water and Salt,,,,,,,,,,
+18,282,4592,WT,Water,Water,0,0,0,0,0,0,0,100
+19,282,4581,WI,Water and salt,Water and salt,0,0,0,0,0,0,0,99
+20,282,4180,GX,"Water, salt and sugar","Water, salt and sugar",19,78,0,,5.2,0,0,94
+21,283,4598,WL,"Salt, local","Salt, local",0,0,0,0,0,0,0,0
+22,283,4598,WZ,Maggi cube,Maggi cube,237,990,16.8,9.2,0.0,0,0,6
+23,268,4571,VY,Baobab and water (baobab juice/milk) (Sita jio),,30,126,0.3,0,7.8,3.6,0.03,88
+24,268,4591,WS,Baobab ice/drink,Baobab ice/drink,30,126,0.3,0,7.8,3.6,0.03,88
+25,268,4590,WR,Wonjo (sorrel) ice/drink,Wonjo (sorrel) ice/drink,18,75,0,,4.7,0.9,0,95
+26,283,4123,ES,Tea and sugar,Tea and sugar,38,159,0,0,10.5,0.9,0,90
+27,283,4124,ET,"Tea, milk and sugar","Tea, milk and sugar",46,192,1.0,0.6,8.8,0,0,89
+28,283,4122,ER,"Tea, tinned milk and sugar","Tea, tinned milk and sugar",17,73,0.6,0.6,2.6,0,0,96
+29,283,4125,EU,"Coffee, instant (made up), tinned milk and sugar",,17,73,0.5,0.6,2.6,0,0,95

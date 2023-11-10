@@ -1,0 +1,26 @@
+,0,1,2,3,4,5
+0,,S1,S2,S3,S4,p-value
+1,Yield (% w/w),42  6a,35  3b,516c,89 1d,<0.0000
+2,Saponification,1994a,197  7a,194  7a,194  7a,0.7997
+3,index (mg KOH/,,,,,
+4,g oil),,,,,
+5,Iodine index gl/,92  3a,995 a,879 a,882 a,0.4923
+6,100g oil),,,,,
+7,Peroxide value,0.9,1.0,4.8 ,5.6,<0.0000
+8,(meq O2/Kg),0.4a,0.4a,0.2b,0.8b,
+9,Conjugated dienes,1.3,0.6,2.3 ,2.30 ,0.0004
+10,(Abs234nm/(g/,0.2a,0.5b,0.3c,0.03c,
+11,100 mL,,,,,
+12,p-anisidine value,ND,ND,ND,ND,
+13,Kreiss index,negative,negative,negative,negative,
+14,Conjugated trienes,0.23,0.26,0.36,0.35,0.0075
+15,(Abs270nm/g/,0.05a,0.01a,0.03b,0.06b,
+16,100mL),,,,,
+17,Acid value,1.30.4,2.0  0.9,1.04,1.40.2,0.2412
+18,(mg KOH/g oil),a,a,0.07a,a,
+19,Antioxidant,26  3a,19 2b,253a,284a,0.0222
+20,capacity(mol,,,,,
+21,trolox/100 g),,,,,
+22,Reducing,0.6 ,0.08 ,1.8,2.1 ,<0.0000
+23,substances (mg,0.1a,0.04b,0.3c,0.4c,
+24,GA/100 g),,,,,

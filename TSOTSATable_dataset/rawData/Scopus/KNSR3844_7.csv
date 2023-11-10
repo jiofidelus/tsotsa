@@ -1,0 +1,21 @@
+,0,1,2,3,4
+0,Health outcomes,,Authors(Year),RoB,Overall SoE
+1,Cardiovascular disease,"Bertoia et al.2014[57],Cook et al.2014[49],Horikawa et al.2014[58]","Bertoia et al.2014[57],Cook et al.2014[49],Horikawa et al.2014[58]",Low:8,Moderate
+2,,"Kalogeropoulos et al.2015[46],Okayama et al.2016[47],Merino et al.2015[45]","Kalogeropoulos et al.2015[46],Okayama et al.2016[47],Merino et al.2015[45]",,
+3,,"Prentice et al.2017[50],Lee et al.2018[62],Mente et al.2018[48]","Prentice et al.2017[50],Lee et al.2018[62],Mente et al.2018[48]",,
+4,Cerebrovascular disease,"Okayama et al.2016[47],Prentice et al.2017[50],Voortman et al.2017[53]","Okayama et al.2016[47],Prentice et al.2017[50],Voortman et al.2017[53]",Low:6,Moderate
+5,,"Willey et al.2017[36],Li et al.2018[51],Mente et al.2018[48]","Willey et al.2017[36],Li et al.2018[51],Mente et al.2018[48]",,
+6,Coronary heart disease,"Joosten et al.2014[52],Kalogeropoulos et al.2015[46],Prentice et al.2017[50]","Joosten et al.2014[52],Kalogeropoulos et al.2015[46],Prentice et al.2017[50]",Low:4,Limited
+7,,Voortman et al.2017[53],,,
+8,Hypertension,"Diaz et al.2014[39],Kim et al.2014[65],Xu et al.2014[68],Buendia et al.2015","Diaz et al.2014[39],Kim et al.2014[65],Xu et al.2014[68],Buendia et al.2015",Low:14,Strong
+9,,"[55],Jenkins et al.2015[38],Noh et al.2015[67],Reidlinger et al.2015[40]","[55],Jenkins et al.2015[38],Noh et al.2015[67],Reidlinger et al.2015[40]",Some concerns:,
+10,,"Tabara et al.2015[66],Takase et al.2015[54],Timpka et al.2015[56],Park et","Tabara et al.2015[66],Takase et al.2015[54],Timpka et al.2015[56],Park et",,
+11,,"al.2016[70],Zhou et al.2016[41],Hu et al.2017[69],Muth et al.2017[43]","al.2016[70],Zhou et al.2016[41],Hu et al.2017[69],Muth et al.2017[43]",,
+12,,Juraschek et al.2017[42],,,
+13,Gastric cancer,"Umesawa et al.2016)[59],Wang et al.2017[60]","Umesawa et al.2016)[59],Wang et al.2017[60]",Low:2,Limited
+14,Renal cancer,"Deckers et al.2014[63],Deckers et al.2017[64]","Deckers et al.2014[63],Deckers et al.2017[64]",Low:2,Limited
+15,Bone mineral density,Carbone et al.2016[61],,High: 1,Grade not assignable
+16,RAAS,Nielsen et al.2016[44],,Some concerns:1,Grade not assignable
+17,Obesity,"Navia et al.2014[71],Ge et al.2016[72],Huh et al.2015[73],Ma et al.2015","Navia et al.2014[71],Ge et al.2016[72],Huh et al.2015[73],Ma et al.2015",Low:8,Limited
+18,,"[75],Murakami et al.2015[74],Grimes et al.2016[76],Nam et al.2017[78],Oh","[75],Murakami et al.2015[74],Grimes et al.2016[76],Nam et al.2017[78],Oh",Some concerns:1,
+19,,"et al.2017[77],Zhanget al.2018[79]","et al.2017[77],Zhanget al.2018[79]",,

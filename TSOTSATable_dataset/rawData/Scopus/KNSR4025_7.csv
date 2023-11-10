@@ -1,0 +1,9 @@
+,0,1
+0,SD,Standard deviation of the mean: null if could not be
+1,,calculated
+2,n,Number of data points used in calculating the mean value
+3,,and SD
+4,Min,Minimum value (mg/100 g) from data points used
+5,Max,Maximum value (mg/100 g) from data points used
+6,CC,"Confidence Code,designated as A,B,C,or D as"
+7,,determined through the DQES

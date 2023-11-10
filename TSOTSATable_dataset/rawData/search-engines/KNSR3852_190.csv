@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,Food,Name,Name,Size,u1,u2,u3,u4,,u5,u6,u7,,u8,10
+1,code,Kiswahili,English,,bowl,glass,cup,plate,plate,tbsp,tsp,saucer,saucer,unit,Average
+2,,samaki wa kukausha kwa,,,,,,,,,,,,,
+3,319,moshi,Fish smoked,A,,,,,,,,,,,200
+4,353,viazi mviringo,Potato,S,,,,,300,,,,150,,
+5,353,viazi mviringo,Potato,M,,,,,,,,,,25,
+6,353,viazi mviringo,Potato,,,,,,,,,,,50,
+7,353,viazi mviringo,Potato,VL,,,,,,,,,,100,
+8,353,viazi mviringo,Potato,A,,,,,,,,,,,150
+9,356,maghimbi,Taro,Std,,,,,400,,,,200,,
+10,356,maghimbi,Taro,A,,,,,,,,,,,150
+11,361, viazi vitamu,Sweet potato,Std,,,,,400,,,,200,,
+12,361,viazi vitamu,Sweet potato,A,,,.,,,,.,,,,150
+13,403,kabichi nyeupe,Cabbage raw white,Std,,,,,,,,,,60,
+14,403,kabichi nyeupe,Cabbage raw white,A,,,,,,,,,,,60
+15,404,karoti,Carrot,S,,.,,.,,.,,:,,70,
+16,404,karoti,Carrot,M,,,,,,,,,,85,
+17,404,karoti,Carrot,L,,,.,,,,,.,,110,
+18,404,karoti,Carrot,A,,,,,,,,,,,50
+19,407,matango,Cucumber,S,,.,,,,,,,,50,
+20,407,matango,Cucumber,M,,,,,,,,,,100,
+21,407,matango,Cucumber,L,,,,,,,,,,150,
+22,407,matango,Cucumber,A,,,,,,,,,,,100
+23,408,biringanya,Egg plant,Std,250,,,,,,,,125,,
+24,408, biringanya,Egg plant,A,,,,,,,,,,,125
+25,415,uyoga,Mushroom,Std,,,,,,,,,20,,
+26,415,uvoaa,Mushroom,A,,,,,,,,,,,20

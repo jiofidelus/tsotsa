@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Dish,Ingredient,Cooking,B1,B2,Niacin,Vit B6,Vit B2,Folate,Pantothenate,Biotin,Vit C,Vit E
+1,,,method,%loss,%loss,%loss,%loss),(%loss),%loss,% loss,%loss),%loss),(%loss
+2,Puri (white),"Chapatti flour,white",Boiled,40,40,40,40,ND,50,40,40,ND,ND
+3,Puri(brown),"Chapatti flour,brown",Boiled,40,40,40,40,ND,50,40,40,ND,ND
+4,Aloo palak,"Vegetables [potato,spinach,",Fried,20,0,0,25,ND,55,ND,ND,30,0
+5,,"onion, chilli]",,,,,,,,,,,
+6,Bengali chicken and,Meat [chicken],Grilled or fried,20,20,20,20,20,ND,20,10,ND,20
+7,potato curry,"Vegetables [potatoonion,chilli]",Fried,20,0,0,25,ND,55,ND,ND,30,0
+8,Bengali prawn,Fish [prawns],Fried,20,20,20,20,0,0,20,10,ND,0
+9,bhuna,Vegetables [tomatoes & onion],Fried,20,0,0,25,ND,55,ND,ND,30,0
+10,Pakistani zarda,Cereal [rice],Boiled,40,40,40,40,ND,50,40,40,ND,ND
+11,,Fruit[sultanas & coconut],Stewed,25,25,25,20,ND,80,25,25,25,ND
+12,Rasmalai,Milk,Boiled,10,10,0,10,5,20,10,ND,50,20
+13,,Eggs,Baked,15,15,5,25,ND,50,25,ND,ND,ND
+14,Chicken bhuna,Meat[chicken],Grilled or fried,20,20,20,20,20,ND,20,10,ND,20
+15,,"Vegetables [onion,garlic,ginger,",Fried,20,0,0,25,ND,55,ND,ND,30,0
+16,,coriander],,,,,,,,,,,
+17,Aloo Bombay,"Vegetables [potatoes,onions",Fried,20,0,0,25,ND,55,ND,ND,30,0
+18,,tomatoes],,,,,,,,,,,
+19,Lamb kebab,Meat [lamb],Grilled or fried,20,20,20,20,20,ND,20,10,ND,20
+20,,"Vegetables [onion, chillis,",Fried,20,0,0,25,ND,55,ND,ND,30,0
+21,,coriander],,,,,,,,,,,
+22,,Eggs,Omelette,5,20,5,15,ND,30,15,ND,ND,ND

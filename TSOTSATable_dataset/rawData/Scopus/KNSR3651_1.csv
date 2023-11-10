@@ -1,0 +1,35 @@
+,0,1,2,3,4
+0,Section,Question,Reasoning,Possible Responses,Score
+1,,,Ground level rooms tend to have,floor,3
+2,,Type of home,a higher diversity of insects than,An apartment on the,
+3,,,higher floors [1].,2nd floor or higher,0
+4,,,,No,2
+5,,windows?,entering through windows.,"Yes,on some windows",1
+6,a(Exposure-the,,,"Yes,on all windows",0
+7,level of indoor,,,Very high frequency,4
+8,exposure to insects),"During spring and summer,",The frequency of insect sightings,High frequency,3
+9,,how frequently do you see,is a major component of a,Medium frequency,2
+10,,insects inside your home?,infestation levels.,Low frequency,1
+11,,,,Almost never,0
+12,,If you do not use pesticides.,No need to use pesticides,No need,-3
+13,,what is the reason? *,indicates a low infestation level,Irrelevant (because,0
+14,,,,there is insecticide use,0
+15,,,,Irrelevant(because,
+16,,,,there is no pesticide,0
+17,,,Households that add,use),
+18,,If pesticides are used in,professional extermination to,Family members,1
+19,,extermination?,HPP use likely have an overall,Professional,1
+20,,,higher level of pesticide use,exterminator,1
+21,,,,Both,2
+22,b(Pesticide,,,Irrelevant (or no more,0
+23,use-the extent of,If family members do the,Frequency of HPP use directly,than once a year),
+24,pesticide use in the,"extermination,what is the",Frequency of HPP use directly,Once in several months,1
+25,home),frequency of treatments?,affects the level of pesticide use.,Once a month or more,1
+26,,,,frequent,2
+27,,,,Irrelevant(no,
+28,,If extermination is done by,Frequency of professional,professional,0
+29,,"a professional exterminator,",extermination directly affects the,extermination,
+30,,what is the frequency of,level of pesticide use.,Once every two years,1
+31,,treatments?,,Once every two years,1
+32,,,,Once a year or more,2
+33,,,,frequently,2

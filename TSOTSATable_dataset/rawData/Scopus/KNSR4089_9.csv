@@ -1,0 +1,46 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Study,Species,Probiotic,Model,Probiotic conc.,Duration,Outcome measures,Pro,Crt,Effect
+1,,,,,(CFU/day),of Tx,,,,
+2,,,,,,(Days),,,,
+3,Abraham et al. [52],APP/PS1 mice,Framelim (B,AD (Transgenic;,3.81 108,140,"MWM, open field,",8,8,"MWM improved,"
+4,,,"longum, L. acido-",APP/PS1),,,"Y-Maze, histology,",,,improved A plaques
+5,,,philus),,,,gut microbiome,,,in brain
+6,,,,,,,analysis,,,
+7,Athari et al. [53],Wistar rats,"L. acidophilus, L. fer-",AD (intrahippocam-,2x1010,56,"MWM, histology.",12,12,"MWM improved,"
+8,,,"mentum, B. lactis,", pal injection of,,,biomarkers,,,oxidative stress
+9,,,B longum,A1-42),,,,,,improved
+10,Bonfili et al. [54],3xTg-ADmice,SLAB51 (S. thermo-,AD (Transgenic;,4109,120,"Open field test,NOR,8",,8,Improved cognitive
+11,,(Male),"philus, B. lactis, B.",3xTg),,,"Elevated plus maze,",,,"testing, inflammatory"
+12,,,"lactis, L. acidophi-",,,,Gut microbiome,,,"state, A plaques in"
+13,,,"lus, L. helveticus, L",,,,analysis,,,brain
+14,,," paracasei, L. plan-",,,,,,,
+15,,,"tarum,L. brevis)",,,,,,,
+16,Bonfili et al. [55],3xTg-ADmice,SLAB51 (S. thermo-,AD (Transgenic;,4109,112,"Biomarkers, histol-",32,32,SIRT 1-depend-
+17,,(Male),"philus, B. lactis, B.",3xTg),,,ogy,,,ent mechanisms
+18,,,"lactis,L. acidophi-",,,,,,,"activated, oxidative"
+19,,,"lus, L. helveticus, L.",,,,,,,stress reduced
+20,,,"paracasei, L. plan-",,,,,,,
+21,,,"tarum, L. brevis)",,,,,,,
+22,Bonfili et al. [56],3xTg-AD mice,SLAB51 (S. thermo-,AD (Transgenic;,2x 1011 cells/kg,336,"Biomarkers, histol-",24,24,Improved glucose
+23,,Male,"philus, B. lactis, B.",3xTg),,,ogy,,,"metabolism,"
+24,,,"lactis, L. acidophi",,,,,,,decreased phospho-
+25,,,"lus, L. helveticus, L",,,,,,,rylate tau
+26,,,"paracasei, L. plan-",,,,,,,
+27,,,"tarum, L. brevis)",,,,,,,
+28,Cao et al. [57],APP/PS1 mice,B. Lactis,AD (Transgenic;,2x109 CFU/g,45,"Y-maze, gut-micro-",5,8,Improved Y-maze per-
+29,,,,APP/PS1),,,"biome analysis,",,,"formance, altered gut"
+30,,,,,,,histology,,,"microbiome, reduced"
+31,,,,,,,,,,A plaques in brain
+32,Cogliati et al. [58],C.Elegans,B. subtilis,AD,1105 cells/plate,/,"Octanol, diactyl time 75","Octanol, diactyl time 75",75,Alleviated AD-related
+33,,,,,,,"response, CI, Paral-",,,"paralysis, behav-"
+34,,,,,,,"ysis, Behavioural,",,,ioural deficits related
+35,,,,,,,lifespan assays,,,to A. restored
+36,,,,,,,,,,lifespan levels
+37,Distrutti et al. [59]," Sprague-Dawley ratsVSL#3 (B. longum,"," Sprague-Dawley ratsVSL#3 (B. longum,",Aged (20,7.396  109,42,Gut microbiome,N/A,N/A,Gut microbiome
+38,,Male,"B. infantis, B.",22 months),,,"analysis, biomark-",,,"modulated, improved"
+39,,,"breve, L. acidophi-",,,,ers,,,brain gene expres-
+40,,,"lus, L. paracasei,",,,,,,,"sion, increased neu-"
+41,,,"L. bulgaricus, L.",,,,,,,rotrophic factors and
+42,,,"plantarum, Strep-",,,,,,,lowered microglial
+43,,,tococcus salivarius,,,,,,,activation
+44,,,thermophilus),,,,,,,

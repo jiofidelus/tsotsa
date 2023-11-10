@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Drugs in milk,Raw milk,UHT milk,Pasteurized milk,Bulk tank milk,Gawala's milk
+1,Highest penicillin,13.93,13.95,13.94,13.66,13.85
+2,Lowest penicillin,6.77,7.75,8.75,7.19,7.79
+3,Average penicillin,10.27,10.85,10.99,10.68,10.53
+4,Highest oxytetracycline,310.39,313.13,311.01,311.74,308.87
+5,Lowest oxytetracycline,181.81,198.32,183.97,194.47,187.82
+6,Average oxytetracycline,241.47,246.08,246.67,257.94,237.33
+7,Highest both penicillin,11.38 and 279.36,10.44 and 266.61,11.88 and 273.84,11.97 and 286.06,10.98 and 292.21
+8,and oxytetracycline,,,,,
+9,Lowest both penicillin,9.33 and 187.33,10.44 and 266.61,10.34 and 251.54,8.66 and 221.74,7.37 and 187.67
+10,and oxytetracycline,,,,,
+11,Average both penicillin,10.48 and 238.55,10.44 and 266.61,11.11 and 262.69,10.05 and 245.41,9.69 and 251.565
+12,and oxytetracycline,,,,,

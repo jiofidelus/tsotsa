@@ -1,0 +1,36 @@
+,0,1,2,3,4,5,6
+0,Fatty acid,,Samples,,,,
+1,Name,Code,WF,SF,LF,p-value*,Identification
+2,Hexanoic acid,06:0,nd,nd,0.060.00,na,"ST,MS"
+3,Octanoic acid,08:0,nd,nd,0.100.02,na,"ST,MS"
+4,Decanoic acid,10:0,nd,nd,0.24  0.06,na,"ST,MS"
+5,Dodecanoic acid,12:0,0.150.07,0.00a,0.03 0.02a,0.268,"ST,MS"
+6,Tetradecanoic acid,14:0,3.86  0.23b,0.00a,1.07  0.08b,0.005**,"ST,MS"
+7,Pentadecanoic acid,15:0,0.48  0.06a,1.71  1.31a,0.19  0.04a,0.587,"ST,MS"
+8,7-Hexadecenoic acid,16:1n-9,0.53  0.22a,0.00  0.00a,0.00  0.00a,0.185,MS
+9,9-Hexadecenoic acid,16:1n-7,12.25  1.47b,4.87  0.77a,3.47  0.48 a,0.053**,"ST,MS"
+10,Hexadecenoic acid,16:0,22.09  2.17a,23.02  0.22a,21.49  0.72a,0.858,"ST,MS"
+11,Heptadecanoic acid,17:0,nd,Nd,0.34  0.06a,na,"ST,MS"
+12,(Z)-9-Octadecenoic acid,18:1n-9,26.43  1.87a,30.43  0.44a,26.55  0.62a,0.234,"ST,MS"
+13,"10,13-Octadecadienoic acid",18:2n-5,14.53  1.02b,0.00a,19.48  0.64c,0.005**,MS
+14,"6,9,12-Octadecatrienoic acid",18.3n-6,nd,Nd,3.51  0.19,na,MS
+15,"9,12,15-Octadecatrienoic acid,",18:3n-3,1.56  0.89,Nd,nd,0.303,"ST,MS"
+16,"cis-9,12-Octadecadienoic acid",18:2n-6,0.49  0.09a,19.64  0.11c,1.14  0.03b,0.000***,"ST,MS"
+17,Octadecanoic acid,18:0,5.120.13a,6.96  0.29b,8.47  0.19a,0.016*,"ST,MS"
+18,Nonadecanoic acid,19:0,nd,Nd,0.800.16,na,"ST,MS"
+19,"11,14-Eicosadienoic acid",20:2n-6,nd,Nd,0.65  0.12,na,"ST,MS"
+20,"5,8,11,14-Eicosatetraenoic acid",20:4n-6,5.43  0.43b,3.54  0.29a,3.14  0.17a,0.024*,"ST,MS"
+21,"7.10,13-Eicosatrienoic acid",20:3n-7,0.27  0.00b,0.00  0.00a,0.00  0.00a,0.000***,MS
+22,"8,11-Eicosadienoic acid",20:2n-9,0.41  0.27a,0.00  0.00a,0.00  0.00a,0.367,MS
+23,"cis-5,8,11,14,17-Eicosapentaenoic acid",20:5n-3,0.17  0.09a,5.36  0.31b,0.00  0.00a,0.005**,"ST,MS"
+24,Eicosenoic Acid,20:1n-9,1.69  0.33b,0.00 0.00a,3.15 0.11,0.023*,"ST,MS"
+25,Heneicosanoic acid,21:0,nd,nd,0.25  0.01,na,"ST,MS"
+26,"4,7,10,13,16,19-Docosahexaenoic acid",22:6n-3,4.54  0.22b,4.47  0.23b,2.51 0.08a,0.047*,"ST,MS"
+27,Docosanoic acid,22:0,nd,nd,2.070.12,na,"ST,MS"
+28,Tricosanoic acid,23:0,nd,nd,0.580.06,na,"ST,MS"
+29,Tetracosanoic acid,24:0,nd,nd,0.750.04,na,"ST,MS"
+30,SAT+,,33.38  1.47ab,31.68  1.36a,39.59 0.51b,0.125,
+31,MUFAs+,-,27.40  2.08a,33.01 0.15a,30.44  0.69a,0.177,
+32,PUFAs+,-,39.210.62a,35.31  1.21a,30.02  0.23b,0.047*,
+33,n--6,-,5.92  0.52a,23.18  0.40c,8.45  0.51b,na,
+34,n--3,-,6.27  1.2b,9.83  0.54a,2.51  0.08b,na,

@@ -1,0 +1,18 @@
+,0,1,2,3,4,5
+0,Code of food group,Name of food groups and subgroups,Name of food groups and subgroups,Version 1.0,Version 1.1,Version 2.0
+1,01,Cereals,Cereals,13,111,111
+2,02,Starchy roots and tubers,Starchy roots and tubers,0,53,53
+3,03,Legumes,Legumes,0,7,504
+4,04,Nuts and seeds,Nuts and seeds,0,2,2
+5,05,Vegetables,Vegetables,248,267,267
+6,06,Fruits,Fruits,0,11,11
+7,07,Meat and poultry,Meat and poultry,0,2,2
+8,08,Eggs,,0,1,1
+9,09,Fish and shellfish,Fish and shellfish,878,900,983
+10,,,Finfish,648,669,740
+11,,,Crustaceans,71,72,78
+12,,,Molluscs,159,159,165
+13,10,Milk,,0,0,0
+14,11,Herbs and spices,Herbs and spices,0,0,0
+15,12,Miscellaneous,Miscellaneous,0,6,6
+16,Total number of food entries,Total number of food entries,,1139,1360,1940

@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+0,,,,,,,,,,Main nutrients,,,,,,,Minerals,,,,,,,Vitamins,,,
+1,,,,,,DEN,(ENERC),WATER,PROCNT,FAT,CHOAVLDF,FIBTG,ASH,CA,P,NA,K,FE,CU,ZN,RETOL,CARTB,VITA_RAE,THIA,RIBF,NIA,VITC
+2,ASEAN,,Origin,Food and description,Alternate name,g/mL,kcal,g,g,,g,g,,mg,mg,mg,mg,mg,mg,mg,mcg,mcg,mcg,mg,mg,mg,mg
+3,Food ID,,Origin,Food and description,Alternate name,,,,,,,,,mg,mg,,mg,mg,mg,mg,mcg,,,,,,mg
+4,,,,,,,,,,,,,,,,,,oeoe,,,,,,,1,aiim,
+5,S,Fast foods: franchise foods,Fast foods: franchise foods,Fast foods: franchise foods,,,,,,,,,,,,,,,,,,,,,,,
+6,AS1,"THS20,PHR008","THS20,PHR008","Burger,beef","LUasnas,Lua(TH)",,275,47.2,13.4,14.8,21.4,1.4,1.8,60,118,,,2.2,,,10,10,11,0.16,0.15,2.60,0
+7,AS3,THS17,THS17,"Burger, ciken","asinas, Iri(TH)",,294,43.6,13.3,16.0,23.1,2.3,1.7,53,93,515,202,0.8,0.06,0.9,10,5,10,0.09,0.04,-,nd
+8,AS4,THS23,THS23,"urger, Fish",ainaTH),,289,44.2,11.6,15.6,24.6,2.0,2.0,68,139,562,187,1.0,,1.0,,,,,,,
+9,AS6,"THS37,PHB034","THS37,PHB034",French fies,,-,336,34.8,3.9,18.1,37.2,4.2,1.8,16,133,,-,0.0,-,-,0,0,0,0.16,0.06,2.40,0
+10,AST,THS38,THS38,Hot Dog,2MRan(TH),-,268,45.0,9.9,12.3,28.1,2.7,2.0,,,,,,-,-,-,,,,,,-
+11,AAS9,THS27,THS27,"lizza, seafood, thin crust",TH),,232,47.9,15.2,7.9,23.4,3.4,2.2,-,,,,-,-,.,,-,,-,,,-
+12,AS10,THS6,,"andwich, chicken","u2, 1(TH)",,286,45.5,12.0,15.6,23.5,1.6,1.8,,,,,,,,,,,,,,
+13,AAS11,THS9,,"Sandwich, ham",aTH),,220,54.6,9.3,10.2,22.2,0.9,2.8,26,129,589,142,0.7,-,0.6,,,,-,,,

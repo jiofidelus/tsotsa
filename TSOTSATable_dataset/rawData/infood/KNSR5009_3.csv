@@ -1,0 +1,42 @@
+,0,1,2
+0,Column title,Description,Description
+1,,powder: d,powder: d
+2,,dried and processed:p,dried and processed:p
+3,,smoked and dried: p,smoked and dried: p
+4,,fresh and frozen: r,fresh and frozen: r
+5,,dried and raw:d,dried and raw:d
+6,'Species/Subspecies,Gives the scientific name as stated in the original source,
+7,'Season',Indicates the sampling season;,Indicates the sampling season;
+8,,Months are abbreviated with the3 first letters in English,
+9,,Ianguage (e.g. Mar 2012). If the season is reported as,
+10,,"""raining season"" or other, it is reported as stated in the",
+11,,paper,paper
+12,'Other',Gives additional information on factors influencing the,
+13,,"nutrient composition (e.g.slaughter weight,size, sex,feeding",
+14,,"practices, maturity stage, soil conditions, storage time,",
+15,,cooking and preserving methods),cooking and preserving methods)
+16,'n',Gives the number of independent analytical samples(often,
+17,,composite samples) and should not be confused with the,
+18,,number of replicates,number of replicates
+19,Comments on data,Gives information on value conversion (e.g. conversion from,
+20,processing/methods',"dry matter to fresh weight, conversion of denominator to",
+21,,"per 100 g EP), information on analytical methods and/or",
+22,,assumptions made on data expression,
+23,'Publication year',Publication year of source,Publication year of source
+24,'BibliolD',Indicates the reference as ID to link the table with,
+25,,bibliography;,bibliography;
+26,,The ID starts with one (or more) lower case letter(s),
+27,,"followed by a number (e.g. fr1, fr2, ..., fr169,...; i1, i2, i3, ...;)",
+28,'Compiler ID',Gives the identification of the compiler (two or three capital,
+29,,letters of initials);,letters of initials);
+30,,"Compilers,who revise and change data of a food entry,add",
+31,,their acronym to the former ID (separated by a comma),
+32,Latest revision in version',"Indicates,when the last revision at the food level was carried",
+33,,,out
+34,In food group fish and shellfish(o9) only:,In food group fish and shellfish(o9) only:,
+35,By using the ASFIS List of Species for Fishery Statistics Purposes,By using the ASFIS List of Species for Fishery Statistics Purposes,
+36,"(http://www.fao.org/fishery/collection/asfis), the scientific name of all fish and shellfish of","(http://www.fao.org/fishery/collection/asfis), the scientific name of all fish and shellfish of",
+37,the different sources were identified.Two codes are assigned for each aguatic animal:,the different sources were identified.Two codes are assigned for each aguatic animal:,
+38,Commercial species are grouped by the ISSCAAP code (a two figure number) according to,Commercial species are grouped by the ISSCAAP code (a two figure number) according to,
+39,"their taxonomy, ecology and economy while the 3-alpha code (a 3-letter code) is unique for","their taxonomy, ecology and economy while the 3-alpha code (a 3-letter code) is unique for",
+40,each fish and shellfish on species level.The same ASFiS codes for different food entries,each fish and shellfish on species level.The same ASFiS codes for different food entries,

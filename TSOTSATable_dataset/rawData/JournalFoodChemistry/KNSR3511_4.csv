@@ -1,0 +1,20 @@
+,0,1,2,3,4,5
+0,Biosensorsa,Supplement,Sensing range,Samples,Recovery or finally content,References
+1,,concentration,(mM),,,
+2,HN-RGO/AuNPs,0.5M,0.01-20,Milk,102%,Thirumalraj et al.(2016
+3,Pt/MRGO/chit/HRP,"60,80,100M",0.01-1,Orange juice,"99.46%, 99.21%, and",Waifalkar et al.2018)
+4,,,,,98.83%,
+5,Cyt.c/TPP-HA[TFSI]/MWCNT/,20 M,0.020-0.892,Milk,101.5%,"Manoharan, et al.2019"
+6,GCE,80 uM,,Apple juice,99.8%,
+7,HRP-MONFs/Chit/GCE,"12.5,25,50M",0.012-0.675,Milk,"94.2%, 104.2% and 106.8%",Cheng et al.2019)
+8,,"12.5,25,50M",,Chicken feet,"97.7%, 101.2% and 99.5%",
+9,FeCo/Au,"100,1000,3000M",0.08-5.64,Milk,"97.0%,99.0% and 100.5%",Xu et al.2020
+10,,0,,Dried beancurd,93M,
+11,,,,sticks,,
+12,,0,,Beef tripe,153M,
+13,Pt NPs/RGO-CS-Fc,,20-3000,Living cells,,Bai et al.2016
+14,HRP@PGA-C/Ag,,0.001-0.5,milk,98.33 %~103.67%,Xu et al.2019
+15,,,,human urine,95.30 %~104.49%,
+16,NiCoN/NG/GCE,"0.5,1.0,1.5 mM",0.0027.15,human serum,91.7%,"Deepalakshmi,et al."
+17,,,,,,(2018)
+18,Pt/HCSs,20M,0.0003-2.388,human serum,98.95~102.8%,Zhang et al.(2018

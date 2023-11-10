@@ -1,0 +1,40 @@
+,0,1,2
+0,Characteristics,800 IU group,400 IU group
+1,,n=51,n=51
+2,Maternal,,
+3," Maternal age, yearsa",26.4  3.6,26.5  4.2
+4," Pre-pregnancy weight, kilogramsa",56.8  9.9,59.3  10.3
+5," Maternal height, cma",1605.5,1615.0
+6," Pre-pregnancy BMIa, kilogram/m2",22.3 3.8,23.03.9
+7," Educational status, n (%)",,
+8,- Professional,17 (33.3),20 (39.2)
+9,-Diploma,13 (25.5),16 (31.4)
+10,-High class,13 (25.5),16 (31.4)
+11,-Middle class,5 (11.8),7 (13.7)
+12,-Uneducated,2 (3.9),0
+13," Gravida,median IQR","2 (1, 2)","11,2)"
+14,"Booked/Supervised,n%",49 (96),50 (98)
+15," Vegetarian, n (%)",41 (80.4),40 (78.4)
+16,"- Gestational hypertension, n (%)",3 (5.9),2 (3.9)
+17,"GDM,n(%)",7 (13.7),9 (17.6)
+18,"Intake of vitamin D in antenatal period,n%",47 (92.2),47 (92.2)
+19," Cumulative dose of vitamin D intake in antenatal periodb, IU","50,000","45,000"
+20,,"28,125,60,000","(30,000, 52,500)"
+21," Maternal intake of vitamin D in post-partum period, n (%)",47 (94),45 (91.8)
+22," Cumulative dose of maternal vitamin D intake in postpartum periodb, IU","15,000","15,000"
+23,,"7650,21,500)","(12,000, 26,000)"
+24,LSCSn%,17 (33.3),20 (39.2)
+25,Neonatal,,
+26," Gestation, weeksa",39.0 2.3,39.01.1
+27," Birth weight, gramsa",3133292,3224 335
+28,Malen%,25 (49),27 (52.9)
+29, Length at birth (cm)a,50.2  1.2,50.3 1.4
+30, Age at enrollment (hours)a,62 10.6,64 15.4
+31,Biochemical parameters in cord blood,,
+32," Serum 25-OH-D, ng/mla",13.05.5,14.2 8.0
+33," Calcium, mg/dia",10.40.5,10.40.5
+34," Phosphorous, mg/dia",6.00.8,6.1 0.9
+35," ALP,IU/Lb","168 (148,204)","166 (149,202)"
+36," Intact PTH, pg/mlb","3.0 (1.7,4.3)","3.0 (1.8,3.6)"
+37,"Vitamin D insufficiency at birth, n (%)",43 (84.3),39 (76.5)
+38,"Vitamin D deficiency at birth, n (%)",24 (47),25 (49)

@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Food,Code,Letter,Name,Calcium,Phos- Magnes.,Phos- Magnes.,Potass-,Iron,Zinc,Carot-,Vitamin,Source of
+1,group,Code,code,Name,,phorus,ium,ium,Iron,Zinc,ene,c,data
+2,,,,,mg,mg,mg,mg,mg,mg,ug,mg,
+3,9.8. - Dajiwo Sauces (thin sauces),9.8. - Dajiwo Sauces (thin sauces),9.8. - Dajiwo Sauces (thin sauces),9.8. - Dajiwo Sauces (thin sauces),,,,,,,,,
+4,234,4356,NR,Cassava dajiwo,4,1,18,42,0.0,0.0,0,1,R
+5,249,4511,TQ,Tia dajiwo,2,62,23,42,0.2,0.2,0,0,c
+6,255,4572,VZ,Tia dajiwo and pumpkin,10,46,22,54,0.3,0.2,220,2,R
+7,250,4188,HF,Tia dajiwo and fresh fish (unspecified),9,74,24,77,0.3,0.2,0,0,R
+8,250,4186,HD,Tia dajiwo and shellfish,20,82,33,62,0.6,0.4,640,0,R
+9,256,4057,CE,Jambanduro dajiwo,38,6,22,22,0.5,0.1,640,3,R
+10,252,4077,CY,Jambanduro dajiwo and groundnuts,40,24,26,56,1.2,0.1,640,3,R
+11,251,4078,CZ,"Jambanduro dajiwo, groundnuts and fresh fish",47,43,17,95,1.3,0.1,640,3,R
+12,262,4569,VW,Pumpkin dajiwo,4,1,17,22,0.1,0.0,20,0,R
+13,262,4214,IF,Pumpkin dajiwo and dried fish,36,42,18,37,0.4,0.3,20,0,R
+14,262,4213,IE,"Pumpkin dajiwo, groundnuts and dried fish",38,56,22,37,0.6,0.5,20,0,R
+15,263,4593,WU,Soso dajiwo,11,24,17,37,0.6,0.2,80,0,R
+16,270,4006,AF,Fish dajiwo,9,75,19,25,0.2,0.3,3,0,c
+17,270,4011,AK,Shellfish plus dajiwo,50,75,23,18,0.2,0.8,0,0,c
+18,272,4018,AR,Meat plus dajiwo,17,19,18,84,0.7,1.3,0,0,c
+19,272,4121,EQ,Meat dajiwo,3,10,18,24,0.1,0.3,0,0,R
+20,10. - Fruit and Nuts,10. - Fruit and Nuts,10. - Fruit and Nuts,,,,,,,,,,
+21,10.1 - Mangoes,10.1 - Mangoes,,,,,,,,,,,
+22,266,4314,MB,Mangoes,10,13,10,179,1.5,0.1,2380,40,L
+23,266,4321,MI,"Mangoes, boiled",10,13,10,179,1.4,0.1,2380,20,E
+24,266,4323,MK,"Mangoes, green, unripe",17,8,9,169,1.4,0.1,60,80,L
+25,266,4324,ML,"Mangoes, bush",29,142,12,211,1.8,0.1,310,74,L
+26,266,4336,MX,"Mango, dried",116,107,48,865,5.8,0.5,2740,30,c
+27,10.2 - Other Fruit,10.2 - Other Fruit,,,,,,,,,,,
+28,268,4568,V,Banana,7,28,30,277,0.8,0.2,200,10,L
+29,268,4550,VD,Baobab fruit,390,35,149,891,2.1,4.2,0,370,L
+30,268,4545,UY,Cashew fruit,12,45,269,647,0.5,0.1,760,252,L
+31,268,4553,VG,Guava,15,30,15,302,1.3,0.1,290,230,L
+32,268,4558,VL,Lime,22,19,10,142,0.7,0.1,50,29,L
+33,267,4561,vo,Oranges,30,18,10,166,0.5,0.1,50,45,L

@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6
+0,Type of assay,Type of biolabel,"LOD,ng/","Time,","Linear dynamic range,","Analytical signal range,",Ref.
+1,,,mL,min,orders,orders,
+2,LFA,Magnetic biolabels,0.011,20,4.5,2.9,This work
+3,LFA,Europium nanoparticles,0.05,8,2,0.7,"Majdinasab et al.,2015"
+4,LFA,Upconversion nanoparticles,3,30,3.7,0.72,"Jin et al.,2018"
+5,LFA,Deposition of silver on gold,0.8 (IC50),20,<2,0.35,"Anfossi et al.,2013)"
+6,,nanoparticles,,,,,
+7,LFA,Quantum dots/microbeads,0.5,10,N/A (semi-quantitative),,"Yan et al., 2020)"
+8,LFA,Upconversion nanoparticles,1.86,15,1.5,0.7,Wu et al.2018
+9,LFA,Gold nanoparticles,1,15,N/A (qualitative),,"Zhou et al.,2016"
+10,LFA,Gold nanoparticles,0.19,15,<2,1.1,"Chen et al.,2016)"
+11,LFA,Quantum dots,0.07,15,2.3,1.4,"Zhou et al.,2021)"
+12,LFA,Magneto-gold particles,0.094,30,2.1,1.5,"Hao et al.,2021"
+13,UHPLC-MS/,N/A,0.01,20,greater than 2.5,N/A,"Campone et al.,2018)"
+14,MS,,,,,,
+15,ELISA,Enzyme (HRP) substrate (TMB),0.008,75,<2,<2,"(Lopez-Puertollano et al,"
+16,,,,,,,2021

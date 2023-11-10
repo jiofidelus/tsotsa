@@ -1,0 +1,18 @@
+,0,1,2
+0,Characteristic,n,%
+1,Primary statistical method,,
+2,Standard statistical methods a,8,33.3
+3,Regression methods,3,12.5
+4,Clustering,7,29.1
+5,Dimension reduction techniques,2,8.3
+6,Other b,4,16.7
+7,Aims c,,
+8,To evaluate changes in nutrient content over time,4,16.7
+9,To determine associations between nutrient content and known food features,6,25.0
+10,To identify compositionally similar food items,9,37.5
+11,To determine nutrient co-occurrence patterns,5,20.8
+12,To address the completeness and accuracy of food composition databases,4,16.7
+13,Country of data used c,,
+14,United States of America,13,54.2
+15,United Kingdom,5,20.8
+16,Other d,11,45.8

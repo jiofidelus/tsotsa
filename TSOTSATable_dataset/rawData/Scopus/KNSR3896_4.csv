@@ -1,0 +1,18 @@
+,0,1,2,3,4,5
+0,Study,Year,Country of Data,Objectives,Methods,Main results
+1,White and,,"United Kingdom, United",To determine nutrient composition,,Average concentrations of certain minerals in fruits and
+2,Broadley [35],2005,States of America,changes in fruits and vegetables,Student's t-test,vegetables had significantly decreased between the
+3,Broadley [35],,States of America,between the 1930s and 1980s.,,1930s and 1980s.
+4,,,,,,Five clusters within each commodity group were
+5,,,,,,identified. Nutrient content was similar within
+6,,,,"To group foods within the dairy, grain,",,subgroups and overcame the problem of objective and
+7,Windham et al. [36],1985,United States of America, and fat commodity groups depending,Fuzzy c-means clustering,accurate grouping when dealing simultaneously with
+8,,,,on nutrients of current concern,,many nutrients. The use of fuzzy clustering avoided
+9,,,,,,the use of arbitrary cut-offs when determining foods
+10,,,,,,high and low in specific nutrients.
+11,,,,To determine the nutrients affecting,,"Six components (folate, vitamin B6, calcium, vitamin A"
+12,Xie et al.[37],2020,China,items as per traditional Chinese,ANOVA,"and caffeine) were found to be predictive of the cold,"
+13,,,,medicine.,,"plain, and hot nature of foods."
+14,Yarbrough,,,content in uncooked foods and,"Wilcoxon signed-rank test, linear",Chloride and sodium content exhibited large variation
+15,Al-Bander et al.,1988,United Kingdom,determine its correlation with sodium,regression,among the 216 uncooked food items. Chloride and
+16,[38],,,content.,regression,sodium content were strongly correlated.

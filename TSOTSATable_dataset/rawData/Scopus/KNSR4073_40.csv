@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,Country,Type of survey,n,Method,Supplements*,Mean,97.5%
+1,Austriaa,Individual,2488,24h recall,Not defined,11.8,30.6
+2,Germany,Individual (M),854,7-day dietary record,,14.6b,33
+3,Germany,Individual (F),1134,7-day dietary record,,12.3b,28
+4,,Individual (M),1087,,-,9.9 (9.3),19.5
+5,UKc,Individual(F,1110,7-day weighed,,7.2 (6.7),15.2
+6,UKc,Individual(M),1087,inventory,+,11.7 (9.3),23.4
+7,,Individual(F),1110,,+,8.6 (6.8),20.4
+8,Italya,Household,2734,7-day record,+,11,22
+9,Netherlandse,Individual,5958,2-day record,-,12.5,28.1
+10,Irelandf,Individual (M),662,7-day estimated food,+,11.2,28.3
+11,,Individual (F),717,record,+,11.0,38.3

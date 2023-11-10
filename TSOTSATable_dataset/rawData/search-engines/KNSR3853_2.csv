@@ -1,0 +1,45 @@
+,0,1,2,3,4,5,6
+0,Source,Country,Analytical,Foods analysed,No.of samples,Sample handling,Sampling plan
+1,,,method,,,,
+2,,,,Chinese cabbage,,,
+3,,,,Radish,,,
+4,,,,Black radish,,,
+5,,,,Horseradish,,,
+6,et al.(1995),Czech,GC,Cabbage,Three cultivars,Raw samples analysed. Stored at 3-6C,Samples grown in one geographical
+7,et al.(1995),Republic,,,,before sample preparation and analysis,Iocation. Multiple cultivars analysed
+8,Lewis &,UK,Glucose-,Calabrese (green,Twenty-four,Raw samples analysed. Vegetables stored,Samples grown in one geographical
+9,Fenwick,,release,sprouting broccoli),cultivars,at -40C before sample preparation,Iocation. Multiple cultivars analysed
+10,(1987),UK,method,,,,
+11,Lewis &,UK,HPLC,Pe-tsai Chinese,Nineteen,Raw samples analysed.Vegetables stored,Samples grown in one geographical
+12,Fenwick,,,cabbage,cultivars,at -40C before sample preparation,location. Multiple cultivars analysed
+13,(1988),,,Pak-choi Chinese,Three cultivars,and analysis,
+14,,,,cabbage,,,
+15,McMillan et al.,UK,HPLC,Brussels sprouts,Two samples,Edible portion analysed only.Raw and,Samples grown in one
+16,(1986),,,,,cooked samples analysed.Cooked,geographical location
+17,,,,,,samples were boiled or steamed,
+18,,,,,,for 9 min.,
+19,Sones et al.,UK,GC,White cabbage,Twenty-one,Vegetables frozen at -- 40C before,Some samples collected from local
+20,(1984b),,,,cultivars,sample preparation and analysis,markets and others grown in multiple
+21,,,,,(Thirty-two,,geographical sites. Multiple
+22,,,,,samples),,cultivars analysed
+23,,,,Savoy cabbage,Seven cultivars,,
+24,,,,,(Eleven samples),,
+25,,,,Swede,Sixteen cultivars,,
+26,,,,,(Thirty-three,,
+27,,,,,samples),,
+28,,,,Turnip,Three cultivars,,
+29,,,,,(Nine samples),,
+30,Sones et al.,UK,GC,Brussels sprouts,Forty-three,Raw and cooked vegetables analysed,Samples grown in multiple geographical
+31,(1984a),,,"Cabbage (spring, savoy",samples,Cabbage and cauliflower boiled for,sites. Multiple individual
+32,,,,and summer types),Forty-three,10 min; Brussels sprouts and turnip-,samples analysed
+33,,,,Swede-turnip,samples,swede boiled for 15 min. All vegetables,
+34,,,,Cauliflower,Forty-four,frozen at -40C before preparation,
+35,,,,,samples,and analysis,
+36,,,,,Forty-four,,
+37,,UK,,,samples,,
+38,Sones et al.,UK,Glucose-,Cauliflower,cultivars,Raw samples analysed.Vegetables,Samples from an unspecified number
+39,(1984c),,release,,cultivars,stored at --40C before sample,of geographical locations. Multiple
+40,,,method,,,preparation and analysis,cultivars analysed
+41,et al. (1999),Netherlands,release,Brussels sprouts,Ten samples,Raw samples analysed. Samples stored,Samples from multiple geographical
+42,et al. (1999),,release,,,at -20C before analysis,sites. Multiple samples analysed
+43,,,method,,,,

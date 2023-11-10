@@ -1,0 +1,51 @@
+,0,1,2,3,4
+0,,Baseline,12-week,Difference,p intra group
+1,Weight (kg),,,,
+2,Placebo,76.2  15.8,75.8 15.4,-0.4  1.9,0.004
+3,Diet-Fish,76.714.4,74.914.4,-1.79  2.4,0.004
+4,Diet-Placebo,78.3  17.3,78.1  16.8,-0.28  3.2,0.004
+5,p between groups2,0.82,0.82,,
+6,Body Mass Index (kg/m2),,,,
+7,Placebo,28.9  4.9,28.8  4.8,-0.15  0.7,0.01
+8,Diet-Fish,29.8 5.4,29.1  5.4,- 0.69  0.9,0.01
+9,Diet-Placebo,30.0  6.58,29.9  6.5,-0.07  1.4,0.01
+10,p between groups2,0.76,0.76,,
+11,Waist circumference (cm),,,,
+12,Placebo,101.013.2,100.713.1,-0.29  1.8 A,0.65 a
+13,Diet-Fish,104.0  13.3,100.812.8,-3.28  3.5 B,<0.001a
+14,Diet-Placebo,104.114.3,102.3 13.4,-1.81 4.2,0.027 a
+15,p between groups2,0.82,0.82,,
+16,Total body fat mass (kg),,,,
+17,Placebo,35.0 11.8,35.0 11.4,-0.01 2.2,0.99a
+18,Diet-Fish,40.1  8.3,38.8  8.7,-1.2 2.2,0.006a
+19,Diet-Placebo,39.5  13.7,40.6  11.8,1.1  5.2,0.82a
+20,p between groups2,0.25b,0.15b,,
+21,Appendicular lean mass (kg),,,,
+22,Placebo,21.05.7,21.0 5.6,+0.010.6,0.18
+23,Diet-Fish,19.64.8,19.5  4.6,-0.2  0.8,0.18
+24,Diet-Placebo,20.4  5.0,20.2  5.1,-0.2  1.0,0.18
+25,p between groups,0.54,0.54,,
+26,Fat mass index (kg/m2),,,,
+27,Placebo,13.0  5.2,13.4  5.2,0.3  1.7a,0.52a
+28,Diet-Fish,15.9  4.3,15.2  4.3,-0.6 1.0b,0.002a
+29,Diet-Placebo,14.8  6.6,15.5  6.2,0.7 3.4,0.95a
+30,p between groups,0.14b,0.35b,,
+31,Appendicular lean mass/IMC2 *,,,,
+32,Placebo,0.73  0.20,0.750.19,+0.0020.02,0.59
+33,Diet-Fish,0.670.19,0.680.18,+0.010.02,0.59
+34,Diet-Placebo,0.69  0.20,0.70  0.20,+0.006 0.04,0.59
+35,p between groups2,0.38,0.38,,
+36,Diet,,,,
+37,Energy intake (kcal/ kg),,,,
+38,Placebo,26  12.7,25.9  8.9,-0.9  13.5,0.73
+39,Diet-Fish,26.3  10,25.114.1,-0.96  11.1,0.64
+40,Diet-Placebo,26.112.9,23.6  12,-4.58  10.8,0.04
+41,p between groups2,0.43,0.43,,
+42,Carbohydrate intake (g),,,,
+43,Placebo,265.5  49.0,236.9  32.3,- 28.6  38.3,0.59
+44,Diet-Fish,260.7  54.3,226.1  50.0,- 34.6  38.4,0.59
+45,Diet-Placebo,248.3  45.1,230.7  36.5,-17.6 51.0,0.59
+46,p between groups2,0.38,0.38,,
+47,Fat intake (g),,,,
+48,Placebo,60.1 17.3,55.5  10.2,- 4.6  13.4,0.07
+49,Diet-Fish,61.2  15.1,59.8  14.0,-1.411.8,0.52

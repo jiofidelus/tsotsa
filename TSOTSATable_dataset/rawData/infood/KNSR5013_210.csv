@@ -1,0 +1,37 @@
+,0,1,2,3,4,5
+0,,,,Age in,Food,
+1,Food Code,Name,Name,Months,Code,Name
+2,,Swahili,English,6-12,,Swahili
+3,,,,,Amount (gm),
+4,532,mandazi,African doghnut/bun,,75,150
+5,561,yai la kukaanga,Fried egg,,40,
+6,569,samaki,Fish,100,90,80
+7,572,mishkaki,Beef pieces,,,75
+8,574,kuku,Chicken,,,100
+9,578,nyama (mchuzi),Meat (in relish),,30,
+10,610,jamu,Jam,,5,
+11,658,choroko,Mung bean,,50,
+12,679,mchuzi wa dagaa,Sardines relish,75,65,50
+13,752,spinachi,Spinach,30,70,50
+14,,,Cabbage and onion,,,
+15,754,kachumbari,salad,,100,45
+16,761,majani ya maboga,Pumpkin leaf,,50,
+17,764,mchuzi wa matembele,potato leaf relish,,,50
+18,781,bamia,Okra,,15,
+19,853,mchuzi wa nyama,Beef relish,,125,
+20,869,supu ya samaki,Fish broth,45,,
+21,873,mchuzi wa maharage,Kidney bean relish,100,70,65
+22,,,Banana and meat,,,
+23,953,ndizi na nyama,relish,,200,200
+24,,,Cassava with coconut,,,
+25,956,mhogo na tui la nazi,milk,,,165
+26,960,chipsi,Chips,,100,200
+27,961,viazi,"Potato,cooked",60,190,150
+28,965,mhogo,Cassava,,,65
+29,1001,chai,Tea,60,165,140
+30,603-610,juisi,Juice,55,155,150
+31,974-977,mtori,Banana porridge,180,270,
+32,1101/1110,siagi/marjarin,Butter/Margarine,,2.5,5
+33,All broths,,,,,
+34,Section H,mchuzi,Broth,30,75,80
+35,All porridges,uji,Porridge,160,260,260

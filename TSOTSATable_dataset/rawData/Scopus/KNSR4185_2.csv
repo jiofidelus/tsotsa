@@ -1,0 +1,18 @@
+,0,1,2
+0,Variable (unit),Variable (unit),MeanSD
+1,Prenatal weight(kg),Prenatal weight(kg),63.4011.07
+2,Mother height(cm),Mother height(cm),160.805.95
+3,Pre-pregnancy BMI(kg/m2),Pre-pregnancy BMI(kg/m2),24.524.12
+4,,Maternal weight gain during pregnancy(kg),12.166.85
+5,,Pre-pregnancy energy intake (Kcal/day),2781.301054.37
+6,,Pregnancy(third trimester)energy intake(Kcal/day,2755.97989.46
+7,Pre-pregnancy Diversity Score,Pre-pregnancy Diversity Score,5.311.11
+8,Third trimester of pregnancy DDS,Third trimester of pregnancy DDS,5.231.42
+9,Pre-pregnancy MAR,Pre-pregnancy MAR,289.85113.12
+10,Pregnancy MAR pregnant,Pregnancy MAR pregnant,371.07197.28
+11,Birth weight (gr),Birth weight (gr),3179.87486.96
+12,Birth height (cm),Birth height (cm),49.762.20
+13,WAZ,,0.321.08
+14,HAZ,,0.131.92
+15,BAZ,,0.611.48
+16,HCZ,,0.111.56

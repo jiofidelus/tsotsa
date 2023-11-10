@@ -1,0 +1,45 @@
+,0,1,2,3,4
+0,,Unit,Allergic rhinitis(n=186),Controln=106,p-value
+1,Total energy,kJ/day,78192100,79662135,0.576
+2,Protein,% energy,14.242.29,14.722.36,0.152
+3,Fat,% energy,24.87  5.24,25.285.44,0.794
+4,Saturated fat,% energy,6.51  1.82,6.38  1.63,0.644
+5,Monounsaturated fat,% energy,8.96  2.11,9.14  2.23,0.767
+6,Polyunsaturated fat,% energy,6.26  1.22,6.56  1.37,0.107
+7,n-6 polyunsaturated fat,% energy,5.04  1.00,5.26  1.11,0.161
+8,n-3 polyunsaturated fat,% energy,1.20  0.30,1.28  0.36,0.125
+9, n-3 polyunsaturated fat of marine origina,% energy,0.39  0.18,0.41  0.22,0.388
+10,Eicosapentaenoic acid,% energy,0.13  0.07,0.14  0.08,0.403
+11,Docosahexaenoic acid,% energy,0.22  0.10,0.23  0.12,0.373
+12,-Linolenic acid,% energy,0.77  0.19,0.82  0.21,0.118
+13,Cholesterol,mg/10 MJ,445  153,458  178,0.752
+14,Carbohydrate,% energy,51.61  8.41,51.89  6.94,0.914
+15,Total dietary fibre,g/10 MJ,13.61  3.79,14.44  3.88,0.060
+16,Soluble dietary fibre,g/10 MJ,3.44  1.06,3.61  1.14,0.370
+17,Insoluble dietary fibre,g/10 MJ,9.77  2.68,10.29  2.57,0.072
+18,Alcohol,% energy,7.78  9.05,6.59  6.97,0.995
+19,Retinol,g/10 MJ,484  347,709 909,0.001
+20,Vitamin A(retinol equivalent)b,g/10 MJ,779  415,1013939,0.003
+21,a-Carotene,g/10 MJ,389  323,366  306,0.351
+22,-Carotene,g/10 MJ,31542145,3240  2006,0.570
+23,-Carotene equivalentc,g/10 MJ,3488  2293,36032191,0.523
+24,Cryptoxanthin,g/10 MJ,274  271,355291,0.007
+25,a-Tocopherol,mg/10 MJ,8.36  2.01,8.77  2.08,0.130
+26,Vitamin K,g/10MJ,382  182,417 190,0.088
+27,Thiamine,mg/10 MJ,0.90  0.18,0.94 0.19,0.260
+28,Riboflavin,mg/10 MJ,1.60  0.42,1.65  0.44,0.413
+29,Niacin,mg/10 MJ,21.85  5.17,22.77  5.25,0.222
+30,Vitamin B6,mg/10 MJ,1.52  0.33,1.56  0.32,0.271
+31,Vitamin B12,g/10 MJ,10.52  4.67,11.775.97,0.063
+32,Folate,g/10MJ,388  142,413  139,0.088
+33,Pantothenic acid,mg/10 MJ,7.98  1.53,8.34  1.67,0.110
+34,Vitamin C,mg/10 MJ,11958,126  52,0.151
+35,Sodium,mg/10MJ,53441049,5529  995,0.101
+36,Potassium,mg/10 MJ,2963  727,3070729,0.215
+37,Calcium,mg/10 MJ,613  232,621203,0.367
+38,Magnesium,mg/10 MJ,31057,32158,0.149
+39,Phosphorus,mg/10 MJ,1269  230,1302  222,0.181
+40,Iron,mg/10 MJ,9.29  2.24,9.77  2.15,0.063
+41,Zinc,mg/10 MJ,10.101.41,10.48  1.42,0.053
+42,Copper,mg/10 MJ,1.41  0.24,1.48  0.22,0.023
+43,Manganese,mg/10 MJ,4.03  1.24,3.95  1.09,0.793

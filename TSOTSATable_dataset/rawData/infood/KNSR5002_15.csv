@@ -1,0 +1,30 @@
+,0,1,2,3,4,5
+0,SCCAAP,3-Alpha,Family,English name,"Scientific name,author",Food Item ID
+1,,,,,,093079-093081
+2,,OYX,Ostreidae,Flat oysters,Ostrea spp,"093012,093047,093082"
+3,,OYF,Ostreidae,European flat oyster,"Ostrea edulis, Linnaeus 1758","093013,093048,093083"
+4,54 Mussels,,,,,
+5,,MYV,Mytilidae,Mytilus mussels, Mytilus spp,"093014,093049,093084"
+6,,MUK,Mytilidae,Korean mussel,"Mytilus coruscus, Gould 1861","093015,093050,093085"
+7,,MUS,Mytilidae,Blue mussel,"Mytilus edulis, Linnaeus 1758","093016,093051,093086"
+8,,MSM,Mytilidae,Mediterranean mussel,"Mytilus galloprovincialis, Lamarck 1819","093017-093019, 093052-093054,"
+9,,,,,,093087-093089
+10,,XMS,Mytilidae,Perna mussel,Perna sppA,"093020,093055,093090"
+11,,MUZ,Mytilidae,New Zealand mussel,Perna canaliculus (Gmelin 1791),"093021,093056,093091"
+12,,MSV,Mytilidae,Green mussel,Perna viridis (Linnaeus 1758),"093022,093057,093092"
+13,"55 Scallops,pectens","55 Scallops,pectens",,,,
+14,,SCX,Pectinidae,Scallops,"Includes SCE, and other species belonging to the","093023,093058,093093"
+15,,,,,Pectinidae family,
+16,,SCE,Pectinidae,Great Atlantic scallop,"Pecten maximus (Linnaeus, 1758)","093024,093059,093094"
+17,"56 Clams, cockles, arkshells","56 Clams, cockles, arkshells",,,,
+18,,CLV,Veneridae,Venus clams,"Includes SVE,and other species belonging to the","093025,093060, 093095"
+19,,,,,Veneridae family,
+20,,SVE,Veneridae,Striped venus,"Chamelea gallina (Linnaeus, 1758)","093026,093061,093096"
+21,"57 Squids,cuttlefishes,octopuses","57 Squids,cuttlefishes,octopuses","57 Squids,cuttlefishes,octopuses",,,
+22,,SQZ,Loliginidae,Inshore squids, Loligo spp1,"093027,093062, 093097, 093106"
+23,,SQR,Loliginidae,European squid,"Loligo vulgaris, Lamarck 1798","093028-093029, 093063-093064,"
+24,,,,,,"093098-093099, 093107-093108"
+25,,OCT,Octopodidae,"Octopuses, etc.","Includes OCC, and other species belonging to the","093030,093065,093100,093109"
+26,,,,,Octopodidae family,
+27,,OCC,Octopodidae,Common octopus,"Octopus vulgaris, Cuvier 1797","093031-093032, 093066-093067"
+28,,,,,,"093101-093102,093110-093111"

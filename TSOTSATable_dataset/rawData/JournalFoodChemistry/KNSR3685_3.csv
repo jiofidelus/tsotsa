@@ -1,0 +1,16 @@
+,0,1,2
+0,Element,Toxicological value,Reference
+1,Hg,TWI=4 g /kg BW week,EFSA (2012)
+2,(inorganic),,
+3,As,BMDLo12 = 0.3-8 g / kg BW.day,EFSA (2014)
+4,(inorganic),,
+5,,(no more PTWI used),
+6,,"Note 1: this limit is for inorganic As, while the paper determined total As for all samples and exposed for total As.",
+7,,"Note 2: could only use inorganic arsenic, but will be underestimated as there may be a lot of arsenic sugars in quite a few samples, the",
+8,,"toxicity of which is higher than that of the other organic forms, but lower than inorganic arsenic.",
+9,cd,TWI =2.5 g / kg BW week,EFSA (2012)
+10,Pb,PTWI3 =25 g / kg BW week,EFSA (2010)and EFSA
+11,,BMDLo1 = 0.5 g / kg BW.day (hematotoxicity.),(2019)
+12,,BDMLo1 =1.5 g / kg BW.day (blood pressure),
+13,,BDML1o = 0.63 g / kg BW.day (chronic kidney problem),EFSA (2020)
+14,Ni,TDI4=13 g /kg BW.day,EFSA (2020)

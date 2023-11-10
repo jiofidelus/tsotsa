@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6
+0,Antagonists,Inhibition of S. rolfsii in dual,Inhibition of S.rolfsiil at different,Inhibition of S.rolfsiil at different,Inhibition of S.rolfsiil at different,Oxalic acid production by S.rolfsii (mg/g fungal,Oxalic acid production by S.rolfsii (mg/g fungal
+1,,culture (%)*,concentrations of culture filtrate of,concentrations of culture filtrate of,concentrations of culture filtrate of,mass)**,
+2,,,,antagonists (%),,,
+3,,,10%,25%,50%,,
+4,Control,0.000.00a***,0.000.00a,0.000.00a,0.000.00a,,415.732.67d
+5,Pseudomonas stutzeri PPB1,58.220.96b,19.75,44.24,62.89,,403.864.76d
+6,,,0.13b,0.14b,0.65b,,
+7,Bacillus subtilis PPB2,61.840.83c,45.780.35e,67.38,100.00,,183.713.29a
+8,,,,0.00d,0.00d,,
+9,Stenotrophomonas maltophilia,88.29  0.51f,53.482.18f,100.00,100.00,,176.303.25a
+10,PPB3,,,0.00f,0.00d,,
+11,B.amyloliquefaciens PPB4,62.820.77c,34.290.51c,54.34,68.570.71c,,346.785.27c
+12,,,,0.45c,,,
+13,B.subtilis PPB5,66.971.48d,37.58,70.76,100.00,,305.042.59b
+14,,,0.53d,1.01e,0.00d,,
+15,B.subtilis PPB9,71.840.95e,54.430.60f,100.00,100.00,,175.494.02a
+16,,,,0.00f,0.00d,,
+17,Provax 200,100.000.00g,100.00,100.00,100.00,,NT****
+18,,,0.00g,0.00f,0.00d,,

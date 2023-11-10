@@ -1,0 +1,24 @@
+,0,1,2
+0,Component Identifier,Component Name,Units
+1,F18D3N3,Fatty acid 18:3 omega-3,g/100 g
+2,F20D4N3,Fatty acid 20:4 omega-3,g/100 g
+3,F20D5N3,Fatty acid 20:5 omega-3,g/100 g
+4,F22D5N3,Fatty acid 22:5 omega-3,g/100 g
+5,F22D6N3,Fatty acid 22:6 omega-3,g/100 g
+6,FALCPUN3,"Fatty acids, total long chain polyunsaturated omega-3",g/100 g
+7,FAMS,"Fatty acids, total monounsaturated",g/100 g
+8,FAPU,"Fatty acids,total polyunsaturated",g/100 g
+9,FAPUN3,"Fatty acids,total polyunsaturated omega-3",g/100 g
+10,FAPUN6,"Fatty acids, total polyunsaturated omega-6",g/100 g
+11,FASAT,"Fatty acids, total saturated",g/100 g
+12,FATRN,"Fatty acids, total trans",g/100 g
+13,Others,,
+14,CHOLE,Cholesterol,mg/100 g
+15,CAFFN,Caffeine,g/100 g
+16,DM,Dry matter,g/100 g
+17,NT,"Nitrogen, total",g/100 g
+18,TRP,Tryptophan,mg/100 g
+19,Derived components,,
+20,EDIBLE,Edible portion,%
+21,DEN,Density,g/cm3
+22,CSM,Common Standard Measure,

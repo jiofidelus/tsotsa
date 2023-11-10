@@ -1,0 +1,12 @@
+,0,1,2,3,4
+0,Vinegars,TAG,pH,Total acidity,Total phenols
+1,,,,g/l acetic acid,mg/L GAE
+2,White wine,Ww,2.560.31,6.70.2,20611
+3,Red wine,Rw,2.26+0.42,7.20.3,61730
+4,Pomegranate,Po,2.95  0.52,5.5 0.5,241775
+5,Apple,Ap,3.100.35,4.60.4,71515
+6,Malt,Ma,2.370.53,5.10.5,90438
+7,Alcohol 18%,Alc18,2.15+0.37,18.60.4,
+8,Oliva,OV,3.230.18,4.5 0.7,4387+194
+9,Olive leaf in white wine vinegar,OL-Ww,2.45+0.51,6.5 0.6,2956 74
+10,Olive leaf in alcohol 18% vinegar,OL-Alc18,2.25  0.26,18.3 0.2,5228  133

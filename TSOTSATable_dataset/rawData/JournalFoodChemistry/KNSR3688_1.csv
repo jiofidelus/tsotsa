@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,,Starch,Protein,Crude fat,Total dietary,Soluble,Total ash
+1,,,,,fibre,sugars,
+2,Whole grain flour,Whole grain flour,,,,,
+3,Hairless,57.2a,22.7b,7.7b,5.9c,1.7b,2.3a
+4,Hairy,54.3a,24.7a,8.0a,8.6b,1.8b,2.3a
+5,Wheat,59.9a,17.3c,2.5c,12.8a,2.9a,1.6b
+6,White flour,,,,,,
+7,Hairless,65.5b,21.5a,6.3a,1.2b,1.6b,0.9a
+8,Hairy,67.6b,20.8b,6.0a,1.3b,1.5b,0.8a
+9,Wheat,73.9a,17.0c,1.3b,3.4a,2.9a,0.6a
+10,Bran,,,,,,
+11,Hairless,35.1a,21.1a,13.0a,18.6b,1.9b,7.7a
+12,Hairy,38.3a,20.4b,13.0a,17.6c,1.9b,6.6b
+13,Wheat,24.8b,20.4b,5.9b,39.7a,5.8a,4.6c

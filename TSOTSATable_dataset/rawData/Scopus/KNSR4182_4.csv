@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6,7
+0,Complex,Est. Free Energy of Binding,"Est. Inhibition Constant,","Est. Inhibition Constant,",vdW + Hbond + desolv Energy,vdW + Hbond + desolv Energy,Electrostatic Energy,Total Intermolec. Energy
+1,,(kcal/mol),Ki (mM),,(kcal/mol),,(kcal/mol),(kcal/mol)
+2,Lipase-lin,-5.28,,0.135,,6.74,-0.05,-6.78
+3,Lipase-,-5,,0.104,,-6.00,-0.03,-6.03
+4,car,,,,,,,
+5,Lipase-,-7.1,,0.445,,5.09,-0.08,-5.17
+6,thy,,,,,,,

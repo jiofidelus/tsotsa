@@ -1,0 +1,27 @@
+,0,1
+0,Clinical condition,Food composition information reguired
+1,,may include:
+2,Requiring general,
+3,dietary control,
+4,Diabetes mellitus,"Energy, available carbohydrate,fat, protein, fibre"
+5,Obesity,"Energy, fat"
+6,Hypertension,"Energy, sodium, potassium, protein"
+7,Renal(kidney disease,"Protein,sodium, potassium"
+8,Deficiency states,
+9,Anaemia,"ron,folate,vitamin B"
+10,Vitamin deficiencies,Specific vitamins
+11,Metabolic disorders,
+12,Haemochromatosis,Iron
+13,Hyperlipidaemias,"Fat,fatty acids,cholesterol"
+14,Inborn errors of amino acid,
+15,metabolism e.g.phenylketonuria,Specific amino acids
+16,"Gout,xanthinuria",Purines
+17,Gall bladder disease,"Fat,calcium,cholesterol, fibre"
+18,Wilson's disease,Copper
+19,Intolerances,
+20,"Monosaccharides,disaccharides","Individual sugars(e.g.sucrose,lactose, fructose"
+21,Gluten,
+22,(and other specific proteins,"Gluten,specific proteins"
+23,Migraine,Monoamines
+24,Allergies,Specific protein sources
+25,e.g.nut allergy,

@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Mouse line,,Discovery (year),Expression,Serum GH,Serum IGF1,Size/weight,Body composi-,Insulin sensitiv-,Lifespan,Original refer
+1,,,lab/1st author),control,,,,tion,ity,,ences
+2,HSC-specific,GhrJVH;Vav1 Cre/+,2014 Rossi,Vav1/Cre,n/a,n/a,n/a,n/a,n/a,n/a,[50]
+3,KO,,(Stewart),,,,,,,,
+4,Bone-specific,DMP-GHRKO,2016 Yakar (Liu),Dmp1/Cre," 8 wk,-12 wk",,-,-,n/a,n/a,[224]
+5,KO,,,,,,,,,,
+6,Heart-specific,iC-GHRKO,2016 Kopchick,Myh6/Cre,n/a,; 12.5 mo,, fat;  lean,6.5 mo; 12.5,n/a,[58]
+7,KO,,(Jara),,,,,,mo,,
+8,Intestine-specific,IntGHRKO,2019 Kopchick,villin/Cre,n/a,n/a,-,-,,n/a,[65]
+9,KO,,(Young),,,,,,,,

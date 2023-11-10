@@ -1,0 +1,28 @@
+,0,1,2
+0,Database,Search Formula,Last Search Date
+1,PubMed,OR exercise OR ergogenic aid) AND clinical trial,15 March 2021
+2,,(ginsenoside): 'ginsenosides'.,
+3,,"(athletic): 'athletes', 'sports'",
+4,,(muscle):'muscles',
+5,,(exercise):'exercise therapy'. 'exercised'. 'exerciser'. 'exercisers'.,
+6,PubMed [Mesh],'exercising,15 March2021
+7,,(ergogenic): 'ergogenicity'.'performance-enhancing,
+8,,substances'.'performance-enhancing'.'performance-enhancing,
+9,,substances'. 'ergogenics',
+10,,clinical trial):'clinical trials as topic,
+11,Cochrane library,OR exercise OR ergogenic aid),15 March 2021
+12,,(Panax OR ginseng OR ginsenosideAND(athletic OR muscle,
+13,AGRIS,OR exercise OR ergogenic aid) AND clinical trial AND (English,17 March 2021
+14,,and Japanese),
+15,"J-DreamIII (JMEDPlus,JSTPlus)",OR exercise ORergogenic aid#in Japanese,16 March 2021
+16,Ichu-shi Web,(Panax OR ginseng OR ginsenoside) AND (athletic OR muscle,15March 2021
+17,Ichu-shi Web,OR exercise OR ergogenic aid) # in Japanese,15March 2021
+18,Web of science,(Panax OR ginseng OR ginsenoside) AND (athletic OR muscle,15 March 2021
+19,Web of science,OR exercise OR ergogenic aid),15 March 2021
+20,Scopus,OR exercise OR ergogenic aid),15 March 2021
+21,,search with mixed keywords below;,
+22,Clinical trial database,(Panax OR ginseng OR ginsenoside) AND (athletic OR muscle,17 March 2021
+23,,OR exercise OR ergogenic aid) # in English and Japanese,
+24,,search with mixed keywords below;,
+25,General search engine,(Panax OR ginseng OR ginsenoside) AND (athletic OR muscle,22 March 2021
+26,,OR exercise OR ergogenic aid) # in English and Japanese,

@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7
+0,Nutrient,Indonesia,Malaysia,Philippines,,Singapore,Thailand,Vietnam
+1,"Sodium,",,"AAS method for Na,",,AAS method,AAS method,AAS method : air-,"Flame photometric,"
+2,potassium,,"K, Fe & Ca: Na, K and",,,,"acetylene, 559.0,","gravimetric, uranyl"
+3,,,Fe - air-acetylene; Ca,,,,766.5 nm; also atomic,"acetate method,"
+4,,,- Nitrous oxide-,,,,emission method,AOAC 1990
+5,,,acetylene;589.6,,,,,
+6,,,"(330.4), 769.9, 422.7,",,,,,
+7,,,248.3 nm,,,,,
+8,Vitamin A,HPLC method:,HPLC method:,,HPLC,,,HPLC or colorimetric
+9,,extraction as given for,as given for vit A&,,,,,1045-1047)
+10,,vit A and carotenes;,carotenes; separation,,,,,
+11,," separation using C18,","using C18, m.p. of",,,,,
+12,,m.p. of methanol +,acetonitrile + MeOH +,,,,,
+13,,"water (95:5),UV",ethyl acetate,,,,,
+14,,detector @ 328 nm,"88+10+2,UV",,,,,
+15,,,detector @ 325 nm,,,,,
+16,Vitamin A &,"hydrolysis with alkali,","hydrolysis with alkali,","hydrolysis with alkali,",,,"hydrolysis with alkali,",
+17,carotene,extract with hexane,"extract with hexane,","extract with hexane,",,,"extract with ether,",
+18,,chromatographed on,chromatographed on,chromatographed on,,,chromatographed on,
+19,," alumina column,","alumina column,","alumina column,",,,"alumina column,",
+20,,carotenes eluted with,carotenes eluted with,carotenes eluted with,,,carotenes eluted with,
+21,,4% acetone in,4% acetone in,4% acetone in,,,4% acetone in,
+22,,"hexane, read at 450","hexane, read at 450","hexane,(discarded ?);",,,"hexane, read at 450",
+23,,nm; retinol eluted with,nm; retinol eluted with,retinol eluted with,,,nm; retinol eluted with,
+24,,15% acetone in,15% acetone in,15% acetone in,,,15% acetone in,
+25,,"hexane, react with","hexane,OD @ 325","hexane,react with",,,"hexane,react with",
+26,,"TFA & CHCI3, OD @",nm; correct for,"SbCI3 & CHCI3,OD",,,"SbCI3 & CHCI3,OD",
+27,,620 nm; correct for,presence of carotene,@ 620 nm; correct for,,,@ 620 nm,
+28,,presence of carotene,if necessary:,presence of carotene,,,,
+29,,if necessary; retinol,,if necessary,,,,
+30,,can also be read @,,,,,,
+31,,325.n,,,,,,

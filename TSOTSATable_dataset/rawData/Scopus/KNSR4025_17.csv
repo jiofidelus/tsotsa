@@ -1,0 +1,65 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,NDB No.,Description,,Proanthocyanidin,Mean1,N,SD,Min,Max,CC,Sources of Data
+1,,,,Polymers,21.07,9,7.77,12.74,34.54,A,"23, 26"
+2,97054,"Peaches, white, whole, raw",,Dimers,23.45,10,16.95,4.76,49.57,B,60
+3,,(Prunus perisca),,,,,,,,,
+4,09252,"Pears, raw (Pyrus communis)","Pears, raw (Pyrus communis)",Dimers,2.03,18,0.94,0.70,4.33,A,"14, 23, 26"
+5,,,,Trimers,1.54,18,0.75,0.43,3.36,A,"14, 23, 26"
+6,,,,4-6mers,5.96,12,1.49,3.70,8.96,,"23, 26"
+7,,,,7-10mers,4.69,12,1.77,0.58,8.02,A,"23, 26"
+8,,,, Polymers,18.46,,14.97,0.00,56.33,<<<,"23, 26"
+9,97075,"Pears, raw, green cultivars, with","Pears, raw, green cultivars, with",Dimers,2.73,,0.44,2.11,3.49,<<<,23
+10,,peel,,Trimers,2.03,,0.31,1.59,2.61,<<<,23
+11,,,,4-6mers,5.99,,1.13,4.25,7.97,,23
+12,,,,7-10mers,5.36,7,1.39,3.64,8.02,A,23
+13,,,,Polymers,24.16,,15.28,10.00,56.33,A,23
+14,09413,"Pears, raw, red anjou (Pyrus",,Dimers,2.81,4,1.25,1.55,4.33,,23
+15,,communis),,Trimers,2.29,4,0.92,1.37,3.36,B,23
+16,,,,4-6mers,6.47,,1.87,4.66,8.96,BB,23
+17,,,,7-10mers,4.57,,0.97,3.68,5.91,BB,23
+18,,,,Polymers,13.11,,11.30,0.97,23.32,B,23
+19,97088,"Persimmons, raw , purchased in","Persimmons, raw , purchased in",Dimers,0.44,3,,,,c,14
+20,,Spain (Diospyros kaki),,Trimers,0.04,3,,,,c,14
+21,09266,"Pineapple, raw, all varieties",,Dimers,0.00,,0.00,0.00,0.00,,"14, 23"
+22,,(Ananas comosus),,Trimers,0.00,6,0.00,0.00,0.00,B,"14, 23"
+23,,,,4-6mers,0.00,3,0.00,0.00,0.00,B,23
+24,,,,7-10mers,0.00,3,0.00,0.00,0.00,B,23
+25,,,,Polymers,0.00,31,0.00,0.00,0.00,,23
+26,09430,"Pineapple, raw, extra sweet variety","Pineapple, raw, extra sweet variety",Dimers,0.00,,0.00,0.00,0.00,,23
+27,,(Ananas comosus),,Trimers,0.00,,0.00,0.00,0.00,,23
+28,,,,4-6mers,0.00,,0.00,0.00,0.00,,23
+29,,,,7-10mers,0.00,,0.00,0.00,0.00,A,23
+30,,,,Polymers,0.00,,0.00,0.00,0.00,A,23
+31,97046,"Plum,yellow,whole,raw",(Prunus,Dimers,27.71,2,,26.06,29.36,,60
+32,,domestica),,,,,,,,,
+33,97077,"Plums, black diamond, with peel,","Plums, black diamond, with peel,",Dimers,19.74,222,,16.04,23.44,,23
+34,,raw (Prunus spp.),,Trimers,18.84,222,,14.91,22.76,,23
+35,,,,4-6mers,57.33,222,,49.91,64.74,B,23
+36,,,,7-10mers,38.04,2,,34.89,41.18,,23
+37,,,,Polymers,104.96,2,,94.58,115.34,B,23
+38,09291,"Plums, dried (prunes), uncooked","Plums, dried (prunes), uncooked",Dimers,0.00,1,,,,,24
+39,,,,Trimers,0.00,1,,,,B,24
+40,,,,4-6mers,0.00,1,,,,,24
+41,,,,7-10mers,0.00,1,,,,,24
+42,,,,Polymers,0.00,1,,,,,24
+43,09279,"Plums,raw(Prunus domestica)","Plums,raw(Prunus domestica)",Dimers,33.24,20,16.09,2.70,74.02,,"14, 23, 26, 60"
+44,,,,Trimers,20.65,12,7.32,3.00,31.16,,"14, 23, 26"
+45,,,,4-6mers,52.24,9,20.99,5.80,75.70,A,"23, 26"
+46,,,,7-10mers,30.26,9,15.32,2.10,54.48,A,"23, 26"
+47,,,,Polymers,0.00,9,24.81,18.37,98.71,A,"23, 26"
+48,09442,"Pomegranate juice, bottled",,Trimers,0.00,11,,,,c,40
+49,09286,"Pomegranates, raw (Prunica",,Dimers,0.29,33,,,,,14
+50,,granatum),,Trimers,0.00,33,,,,,14
+51,09296,"Quinces, raw (Cydonia oblonga)","Quinces, raw (Cydonia oblonga)",Dimers,2.61,3,,,,,14
+52,,,,Trimers,1.22,3,,,,c,14
+53,09298,"Raisins,seedless (Vitis vinifera)","Raisins,seedless (Vitis vinifera)",Dimers,0.00,1,,,,,24
+54,,,,Trimers,0.00,1,,,,,24
+55,,,,4-6mers,0.00,1,,,,B,24
+56,,,,7-10mers,0.00,11,,,,,24
+57,,,,Polymers,0.00,1,,,,,24
+58,09302,occidentalis),,Dimers,11.78,13,13.46,0.00,40.60,,"14, 23, 26, 35"
+59,,occidentalis),,Trimers,5.05,11,4.81,0.30,13.92,,"14, 23, 26"
+60,,,,4-6mers,8.99,8,4.99,2.83,15.21,A,"23, 26"
+61,,,,7-10mers,1.13,8,1.55,0.00,4.39,A,"23, 26"
+62,,,,Polymers,0.00,8,0.00,0.00,0.00,,"23, 26"
+63,99671, idaeus L. ),"Raspberries, yellow, raw (Rubus",Dimers,0.00,1,,,,D,35

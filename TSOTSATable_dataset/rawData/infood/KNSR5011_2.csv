@@ -1,0 +1,62 @@
+,0,1,2,3
+0,06,"Seeds, nuts and their products",,201
+1,07,Meat,,1
+2,,01 Offal -all types: fresh and processed (excluding dried),01 Offal -all types: fresh and processed (excluding dried),0
+3,,"02 Mammals,reptiles and amphibians (excluding offal): fresh and processed (excluding dried)","02 Mammals,reptiles and amphibians (excluding offal): fresh and processed (excluding dried)",1
+4,,03 Birds (excluding offal): fresh and processed (excluding dried),03 Birds (excluding offal): fresh and processed (excluding dried),0
+5,,04 Meat -mixed or unspecified: fresh and processed (excluding dried),04 Meat -mixed or unspecified: fresh and processed (excluding dried),0
+6,,05 Meat - all types:dried,,0
+7,08,Insects and grubs,,5
+8,09,Eggs: fresh and processed,,0
+9,10,Fish and shellfish,,6
+10,,01 Freshwater fish (excluding offal):fresh and processed (excluding dried,01 Freshwater fish (excluding offal):fresh and processed (excluding dried,1
+11,,02 Diadromous fish (excluding offal): fresh and processed (excluding dried),02 Diadromous fish (excluding offal): fresh and processed (excluding dried),1
+12,,03 Marine fish (excluding offal): fresh and processed (excluding dried),03 Marine fish (excluding offal): fresh and processed (excluding dried),1
+13,,04 Offal - fish and shellfish: fresh and processed (excluding dried),04 Offal - fish and shellfish: fresh and processed (excluding dried),0
+14,,05 Shellfish (excluding offal) -all types: fresh and processed (excluding dried),05 Shellfish (excluding offal) -all types: fresh and processed (excluding dried),0
+15,,06 Fish and shellfish - mixed or unspecified: fresh and processed (excluding dried),06 Fish and shellfish - mixed or unspecified: fresh and processed (excluding dried),0
+16,,07 Fish and shellfish (including offal)- all types: dried,07 Fish and shellfish (including offal)- all types: dried,3
+17,11,Milk and milk products,,2
+18,,"01 Milk:fresh and processed (excluding fermented, cream,whey,cheese and other milk products","01 Milk:fresh and processed (excluding fermented, cream,whey,cheese and other milk products",2
+19,,02 Fermented milk products,,0
+20,,"03 Cream, whey and any other milk products excluding fermented milk products and cheese","03 Cream, whey and any other milk products excluding fermented milk products and cheese",0
+21,,04 Cheese,,0
+22,12,Fats and oils,,4
+23,,01 Vegetable fat and oil (excluding red palm oil),,3
+24,,02 Red palm oil,,1
+25,,03 Animal fat and oil,,0
+26,13,Beverages,,24
+27,,01 Alcoholic drinks,,0
+28,,02 Drinking water,,1
+29,,"03 Tea,herbal tea,coffee and cocoa",,21
+30,,04 Clear broths,,0
+31,,05 Soft drinks,,1
+32,,06 Fruit and vegetable drinks,,0
+33,,07 100% fruit and vegetable juices,,1
+34,14,Sweets and sugars,,43
+35,,01 Dough-based sweets,,29
+36,,02 Chocolate-based sweets,,1
+37,,03 Fruit and nut-based sweets,,12
+38,,04 Other sweets,,0
+39,,05 Sugars,,2
+40,15,"Spices, herbs and condiments",,114
+41,,01 Herbs and spices,,84
+42,,02 Condiments,,30
+43,16,Foods for particular nutritional uses,,111
+44,,01 Infant formulas and ready-to-eat meals for infants and young children,01 Infant formulas and ready-to-eat meals for infants and young children,107
+45,,02 Foods for weight reduction,,0
+46,,03 Foods for sporting people,,0
+47,,04 Foods for medical purposes,,4
+48,,05 Food supplements and similar,,0
+49,17,Food supplements and similar,,9
+50,18,Food additives,,2
+51,,01 Sweeteners and flavorings,,0
+52,,02 Colorants,,0
+53,,03 Other food additives,,0
+54,,04 Home-preparation aids,,0
+55,,05 Ingredients for food fortification/enrichment and supplements,05 Ingredients for food fortification/enrichment and supplements,0
+56,,06 Microbiological or enzymatic ingredients,,2
+57,19,Complex recipes,,66
+58,,01 Industrial recipes,,6
+59,,02 Homemade/Food service recipes,,60
+60,,,TOTAL ENTRIES,"3,377"

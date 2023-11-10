@@ -1,0 +1,6 @@
+,0,1,2
+0,AT(g),"fat,total",g
+1,ATCE(g),"fat,total;derived by analysis using continuous extraction",g
+2,AT-(g),fat;method of determination unknown or mixed methods,g
+3,TGLY(g),"triglycerides,total",g
+4,KFA(internal use),fatty acid conversion factor for internal use,

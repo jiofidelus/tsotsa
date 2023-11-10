@@ -1,0 +1,59 @@
+,0,1,2,3,4,5,6
+0,Element,Form,Method,Dose,Plant/Crop,Action/Role,References
+1,,,applied,,,,
+2,Selenium,Selenate,Field/Soil,12 to 120 g,Rice(Oryza,"Increase Se content in grains, change in antioxidant",De Lima
+3,(Se),,applied,ha-1,sativa L.),activities and gas exchanges,Lessa et
+4,,,,,,,al.2019
+5,Silicon,KSiO3,Nutrient,3.6 mM,Green bean,"Increase in Si contant in pod,",Monte-
+6,,,solution,,(Phaseolus,, sano et al.
+7,,,(NS),,vulgaris L.),,2016
+8,Silicon,Si02,Nutrient,50-100 mg,leafy vegetablesmore bioaccessible Si,leafy vegetablesmore bioaccessible Si,D'Imperio
+9,,,solution,L(-1),,,et al.2015
+10,,,(NS),,,,
+11,Selenium,"Na,SeO4",Nutrient,100 uM Se,Fragaria  anan-,Shoots fresh weight increased by 20% and leaf area Mimmo et,
+12,,,Solution,,assa cv. Elsanta,by 17%; and Se concentration in shoot and root by,al.2017
+13,,,,,,125.0813.89 g g-1 DW and 174.4214.35 g,
+14,,,,,,g-1 DW respectively.,
+15,Iodine,KI,Hydroponic,"0.25,0.50",Capsicum,"Increase iodine uptake and accumulation,",Li et al.
+16,,,,"1.00,", annuum L.,Higher ascorbic acid and soluble sugar contents,2017
+17,,,,"2.50,5.00 mg",,"and lower in total acidity content, increase chl-az",
+18,,,,L-1,,"content, lower MDA content and higher in CAT,",
+19,,,,,,POD and SOD activities,
+20,Silicon,Na2SiO3,Hydroponic,50 mg L-l,(Fragaria,TSS did not affected by Si biofortification but,Valen-
+21,,,,and 100 mg,X ananassa,"reduced titratable acidity, Higher sweetness index,",tinuzzi et
+22,,,,L-1,'Elsanta,increase its accumulation in fruits,al.2017
+23,Selenium,Selenate,Soil/field,0 to 60 uM,Butterhead let-,"Increase Se content, freash weight of root/shoot and Haw-",
+24,,(NaSeO4),,,tuce (L. sativa L.,"leaf area at low concentration, increase photosyn-",rylak-
+25,,and selenite,,,var. capitata),thetic pigments at low concentration,Nowak
+26,,"(Na,SeOz)",,,,,2013
+27,Selenium,Sodium sele-,Foliar,"0,12,21,38,",Wheat,increase of 48% in wheat productivity and 30% in,Lara et al.
+28,,"nate (Na,SeO4)",application,"68, and 120 g",,"biomass production, increasing also the net pho-",2019
+29,,,,ha-1,,"tosynthetic rate with 21 g ha, positively affects",
+30,,,,,,APX and carbohydrates contents; total nitrogen,
+31,,,,,,content also increased with 21 and 38 g ha,
+32,,,,,,increase Se content,
+33,Selenium,g sodium,foliar spray,40 mg Se L-1 Wheat under,40 mg Se L-1 Wheat under,Reduce osmotic potential and improved turgor by,Nawaz et
+34,,selenate,,,drought stress,"63%, increase transpiration rate, improves TSS",al.2014
+35,,(Na2SeO4),,,,"accumulation by 33%, free amino acid by 118%,",
+36,,,,,,increased antioxidant activity and grains yield by,
+37,,,,,,24%. Its also increase Se accumulation and FE and,
+38,,,,,,Na uptake.,
+39,Selenium,Selenate,Growth,2-80 m,Cucumber,At low concentration fresh weight and leaf area,Haw-
+40,,"(Na,SeO)",media,,(Cucumis sati-,Increase but decrease with increase in Se concen-,rylak-
+41,,and selenite,,,vus L.),"tration, increase Se accumulation.",Nowak et
+42,,(NaSeO),,,,,al.2015
+43,Iodine,Iodide and,Nutrient,"I(20, 40,",Lettuce(Lactuca,Reduction in biomass with I formbut no effects,Blasco et
+44,,iodate (IO),solution,80 umol,sativa),observed in IOapplication; increase in antioxi-,al.2011
+45,,,,L-i as KI),,dants such as ascorbic acid and glutathione (GSH);,
+46,,,,"and I0(20,",,iodate (IO) application increased the activities of,
+47,,,,"40,80 mol",,"SOD, ascorbate peroxidase, and CAT",
+48,,,,L-as KIO),,,
+49,Iodine,Iodate,Nutrient,"0,20,40.80",Lettuce(Lactuca,Induced the activity of enzymes shikimate dehydro-,Blasco et
+50,,,solution,M,sativa) under,genase and phenylalanine ammonia-lyase as well,al.2013
+51,,,,,salinity stress,"as the lower enzyme polyphenol oxidase, thus",
+52,,,,,,increase total phenols; and positively effects on,
+53,,,,,,biomass production,
+54,Iodine,potassium,soil-applied,"0.0.1,0.25",Wheat (Triticum Increase iodine concentration in shoot and grains.,Wheat (Triticum Increase iodine concentration in shoot and grains.,Cakmak et
+55,,iodide(KI and,,"1,2.5,5,10","aestivum,Rice",,al.2017
+56,,potassium iodate,,and 20 mg I,(Oryza sativa) and,,
+57,,(KIO),,kg-1 soil,Maize(Zea mays),,

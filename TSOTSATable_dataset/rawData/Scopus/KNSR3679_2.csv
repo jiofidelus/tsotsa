@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,Total Phenolic,Total Phenolic,,FRAP,,,DPPH,,,TEAC,
+1,Cultivars,(mg GAE per g fresh weight),(mg GAE per g fresh weight),(mol Fe (II)/g FW),(mol Fe (II)/g FW),(mol Fe (II)/g FW),,(%),,(mol Trolox/g FW),(mol Trolox/g FW),(mol Trolox/g FW)
+2,,Juice,Seed,Juice,,Seed,Juice,,Seed,Juice,,Seed
+3,Cavus,1.810.11de,2.13  0.12e,40.54  1.1c,,86017b,73.10  1.9d,,76.22  1.1c,2.35  0.19bc,15.23  0.9bc,15.23  0.9bc
+4,Helvani,2.24  0.13b,3.18  0.17b,44.24  1.3b,,1002  13a,80.84  2.1b,,85.44  1.4a,2.52 0.11ab,15.99  0.8ab,15.99  0.8ab
+5,Honusu,2.45  0.13a,3.460.15a,52.15  1.4a,,1013  18a,82.19  2.0a,,86.77  1.2a,2.73  0.15a,,18.12  1.1a
+6,Kabarcik,2.03  0.10c,3.01  0.09c,32.02  0.9d,,726  12d,76.12,79.68  1.0bc,79.68  1.0bc,2.19  0.14bc,2.19  0.14bc,15.01  0.6bc
+7,Red Globe,1.85  0.10d,2.45  0.12d,32.34  1.0d,,79520c,74.30  1.7cd,81.10 1.3b,81.10 1.3b,2.43  0.19b,,15.56  0.6b
+8,Yediveren,1.69  0.09e,1.91  0.11f,28.66  0.7e,,686  15e,70.25  1.5e,79.22  1.2bc,79.22  1.2bc,2.04  0.11c,,12.89  0.5c
+9,Yildiz,1.76  0.10de,1.90  0.08f,28.02  1.0de,28.02  1.0de,642  10f,71.95  1.6de,73.56  1.4d,73.56  1.4d,2.17 0.13bc,15.30  0.7bc,15.30  0.7bc

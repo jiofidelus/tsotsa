@@ -1,0 +1,48 @@
+,0,1,2,3
+0,Classes,Phytochemicals,CID,References
+1,,4-Hydroxybenzoic acid 4-O-glucoside,3320872,"[17, 19]"
+2,,Methoxyphenylacetic acida,107202,
+3,,Dihydro-p-coumaric acida,10394,
+4,,5-Caffeoylquinic acida,1794427,
+5,,4-Caffeoylquinic acida,9798666,
+6,Phenolic acids,"Chlorogenic acida,d,e",1794427,"[17, 19, 26]"
+7,,"Caffeic acida,d.e",689043,
+8,,"Gallic acida,d,e",370,
+9,,p-Coumaric acida.d.e,637542,
+10,,"Ferulic acida,d.e",445858,
+11,,"Vanillic acida,d.e",8468,
+12,,Umbelliferonea,5281426,[17]
+13,,Coumarina,323,
+14,Hydroxycoumarins,4-Hydroxycoumarina,54682930,
+15,,Scopoletina,5280460,
+16,,"3,4-Dihydroxyphenylglycol",91528,
+17,,Myricetin-3-O-rhamnosidea,56843093,"[9, 17, 19]"
+18,,Chrysoeriol 7-O-glucosidea,11294177,
+19,,Quercetin 3-O-galactosidea,5281643,
+20,Flavonoids,Quercetin 3-O-glucosidea,5280804,
+21,,Quercetin 4'-O-glucosidea,12442954,
+22,, Sakuranetina,73571,
+23,,Europetin 3-O-rhamnosidea,44259633,"[9, 17]"
+24,,"Cyanidin 3-glucosidea,d,e",12303220,"[17,35]"
+25,,Delphinidin 3-O-glucosidea.d.e,443650,
+26,,Peonidin-3-glucosided.e,443654,
+27,Anthocyanins,"Delphinidin 3,5-O-diglucosidea",10100906,
+28,Anthocyanins,Delphinidin 3-O-galactosidea,5316498,
+29,,Petunidin 3-O-glucosidea,443651,
+30,,Petunidin 3-O-galactosidea,102004819,
+31,,"Petunidin 3,5-O-diglucosidea",71587075,
+32,,(-)-Epigallocatechina,72277,"[19, 33]"
+33,,(-)-Epigallocatechin 3-gallatea,65064,
+34,Proanthocyanidins,Epicatechin 3-O-gallate a,65056,
+35,Proanthocyanidins,"Prodelphinidin B-2,3,3""-di-O-gallatea",467306,
+36,,Samarangenin Aa,85131379,"[19,33]"
+37,, Samarangenin Ba,101034224,"[19,33]"
+38,,Phlorizina,6072,[17]
+39,,Phloretina,4788,[9]
+40,,Syringaresinola,100067,[17]
+41,, Sesamola,68289,
+42,Dihydrochalcones and lignans,Myrigalone Ga,9947802,"[9, 19]"
+43,, Myrigalone Ba,101687716,
+44,,1-Acetoxypinoresinol a,442831,
+45,,Todolactol Aa,102184257,
+46,,Pinoresinola,73399,

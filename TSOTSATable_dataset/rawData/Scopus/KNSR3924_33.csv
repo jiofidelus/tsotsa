@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,,,,,
+1,Investigated,"Extract,",Groups,"Species,",,Method for,,Method for,,
+2,"Plant,Plant",Sample,(n= Number of,"Species,",Conditions,Microbiome,Microbiome Changes,Metabolite,Metabolites,Reference
+3,Part,Preparation,Analyzed,Volunteers,,Analysis,,Detection,,
+4,,,Individuals),,,,,,,
+5,,,6 groups:,,,,"LPT, MPT, HPT groups",,,
+6,,,"non-diabetic control,",,,,vs. DMC group:,,,
+7,,,diabetic model,,,,number of probiotics,,,
+8,,ethanolic,control (DMC,,treated for,, in the feces,,,
+9,Polygonatum,extract (70%),HFD-streptozotocin,male ICR mice,"5 weeks,fecal",agar plate,increased significantly,,,
+10,"sibiricum,",with a saponin,"induced),","(6 weeks, weight",samples were,fecal bacteria,"(p < 0.01), especially",,,[164]
+11,radix,yield of 3.07,metformin-positive,20 1.5 g),collected during,fecal bacteria,Bifidobacterium; the,,,[164]
+12,radix,0.02 mg/g,control group,20 1.5 g),week 5,selective agars,number of harmful,,,
+13,,(PSS),"PSS),MPT (1.5 g/kg",,,,"bacteria (Enterococcus,",,,
+14,,,"PDD),HPT (2 g/kg",,,,Enterobacteriaceae),,,
+15,,,PSS),,,,decreased,,,
+16,,,,,,,SHR-5 group:,,,
+17,,,,,treated,,increase in,,,
+18,,,two groups:,,throughout the,V6-V8 region of,Acetobacter; decrease,,,
+19,,,control group (yeast,,lifespan of the,"16S rRNA gene,",in Lactobacillales;,,,
+20,"Rhodiola rosea,",root extract,solution); SHR-5,Oregon-R flies,flies;flies were,NGS (Illumina);,SHR-5 decreased the,,,[167]
+21,radix,(SHR-5),group (25 mg/mL,Oregon-R flies,homogenized in, bacterial growth,total culturable,,,[167]
+22,,,SHR-5+yeast,,PBS for,plates, bacterial load of the fly,,,
+23,,,solution),,microbiome,plates,gut while increasing,,,
+24,,,,,analyses,, the overall quantifiable,,,
+25,,,,,,,bacterial load,,,
+26,,,,,,,CRS+RE group:,,,
+27,,,3 groups: control;,, treated for,,reversed intestinal,,,
+28,,rosemary,chronic restraint,,21 days; fecal,,microbiota,,,
+29,Salvia,extract (RE),stress (CRS) group;,male adult ICR,samples,V1-V3 region of, composition of CRS,,,
+30,folium,containing,CRS + RE,mice,collected,"16S rRNA gene,",group; rel. increase,,,[42]
+31,folium,60% carnosic,100 mg/kg)(n=12,mice,(timepoint not,NGS (Illumina),Firmicutes and,,,
+32,,acid,per group),,indicated),,decrease Bacteroidetes,,,
+33,,,,,,,and Proteobacteria,,,

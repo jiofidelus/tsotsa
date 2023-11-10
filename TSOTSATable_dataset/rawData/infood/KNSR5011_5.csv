@@ -1,0 +1,48 @@
+,0,1,2
+0,,Title,Description
+1,'Introduction','Introduction',"Gives an introduction to the database, including information on copyright and disclaimer"
+2,'Codes,,"Contains an overview of all the codes, acronyms and abbreviations that are included in the"
+3,,,"PhyFoodComp datasheets (sheets '01'to '19').They include the codes for the Sample type, Processing/"
+4,,,"influencing factors, Compilers identification(iD) and data abbreviations"
+5,'Components,'Components,Gives an overview of all the components covered by the PhyFoodComp datasheets(sheets'01'to'19'
+6,,,"including their component names,INFOoDs tagnames and comments, units and denominators"
+7,'Food groups','Food groups',Contains the food group classification based on the'Food groups for simple indicators' system
+8,,,developed by the FAOWHO GIFT platform that is used in PhyFoodComp (see Table 1)
+9,'01 Cereals and their,'01 Cereals and their,"Used to present data for the specific food group individually, including compiled and calculated values"
+10,products',,for the components considered per 100 g EP on FW
+11,"'02 Roots, tubers,","'02 Roots, tubers,","Used to present data for the specific food group individually, including compiled and calculated values"
+12,plantains and their,plantains and their,for the components considered per 100 g EP on FW
+13,products',,
+14,'03 Legumes and theii,'03 Legumes and theii,Used to present data for the specific food group individually including compiled and calculated values
+15,products',,for the components considered per 100 g EP on FW
+16,'04 Vegetables and,'04 Vegetables and,Used to present data for the specific food group individually including compiled and calculated values
+17,their products',their products',for the components considered per 100 g EP on FW
+18,'05 Fruits and their,'05 Fruits and their,"Used to present data for the specific food group individually, including compiled and calculated values"
+19,products',,for the components considered per 100 g EP on FW
+20,"'06 Seeds, nuts and","'06 Seeds, nuts and","Used to present data for the specific food group individually, including compiled and calculated values"
+21,their products',their products',for the components considered per 100 g EP on FW
+22,'07 Meat',,Used to present data for the specific food group individually including compiled and calculated values
+23,,,for the components considered per 100 g EP on FW
+24,08 Insects and grubs,08 Insects and grubs,"Used to present data for the specific food group individually, including compiled and calculated values"
+25,,,for the components considered per 100 g EP on FW
+26,10 Fish and shellfish,10 Fish and shellfish,"Used to present data for the specific food group individually, including compiled and calculated values"
+27,,,for the components considered per 100 g EP on FW
+28,'11 Milk and milk,'11 Milk and milk,"Used to present data for the specific food group individually, including compiled and calculated values"
+29,products',,for the components considered per 100 g EP on FW
+30,'12 Fats and oils','12 Fats and oils',Used to present data for the specific food group individually including compiled and calculated values
+31,,,for the components consideredper 100 g EP on FW
+32,13 Beverages,13 Beverages,"Used to present data for the specific food group individually,including compiled and calculated values"
+33,,,for the components considered per 100 g EP on FW
+34,'14 Sweets and sugars','14 Sweets and sugars',"Used to present data for the specific food group individually,including compiled and calculated values"
+35,,,for the components considered per 100 g EP on FW
+36,"15 Spices, herbs and","15 Spices, herbs and",Used to present data for the specific food group individually including compiled and calculated values
+37,condiments',condiments',for the components considered per 100 g EP on FW
+38,'16 Foods for particular,'16 Foods for particular,"Used to present data for the specific food group individually, including compiled and calculated values"
+39,nutritional uses',nutritional uses',for the components considered per 100 g EP on FW
+40,'17 Food supplements,'17 Food supplements,"Used to present data for the specific food group individually, including compiled and calculated values"
+41,and similar,and similar,for the components considered per 100 g EP on FW
+42,18 Food additives,18 Food additives,"Used to present data for the specific food group individually, including compiled and calculated values"
+43,,,for the components considered per 100 g EP on FW
+44,19 Complex recipes,19 Complex recipes,Used to present data for the specific food group individually including compiled and calculated values
+45,,,for the components considered per 100 g EP on FW
+46,Biblioaraphy,Biblioaraphy,Presents the entirereference list with the corresponding bibliolD

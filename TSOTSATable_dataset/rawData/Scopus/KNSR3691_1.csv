@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Varity of Food,,,,,Energy Intake Level (kcal),Energy Intake Level (kcal),Energy Intake Level (kcal),,,,
+1,Varity of Food,1000,1200,1400,1600,1800,2000,2200,2400,2600,2800,3000
+2,Grain,85,100,150,200,225,250,275,300,350,375,400
+3,Whole grain and beans,,Moderate,,,,50-150,,,,,
+4,Tuber,,Moderate,,,,50-100,,,125,125,125
+5,Vegetable,200,250,300,300,400,450,450,500,500,500,600
+6,vegetable,,,,,,Accounts for half of all vegetables,Accounts for half of all vegetables,,,,
+7,Fruit,150,150,150,200,200,300,300,350,350,400,400
+8,Red meat and poultry,15,25,40,40,50,50,75,75,75,100,100
+9,Egg,20,25,25,40,40,50,50,50,50,50,50
+10,Seafood,15,20,40,40,50,50,75,75,75,100,125
+11,Dairy products,500,500,350,300,300,300,300,300,300,300,300
+12,Soybeans,5,15,15,15,15,15,25,25,25,25,25
+13,Nuts,,Moderate,Moderate,10,10,10,10,10,10,10,10
+14,Cooking Oil,15-20,,2025,,25,25,25,30,30,30,35
+15,Salt,<2,<3,<4,<6,<6,<6,<6,<6,<6,<6,<6

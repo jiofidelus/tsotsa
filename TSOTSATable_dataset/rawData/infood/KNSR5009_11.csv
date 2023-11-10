@@ -1,0 +1,43 @@
+,0,1,2
+0,IAGNAME,DESCRIPTION,UNIT
+1,F18D2N6,Fatty acid 18:2 n-6,g
+2,F18D2N5,Fatty acid 18:2 n-5,g
+3,F18D2N4,Fatty acid 18:2 n-4,g
+4,F18D2T,Fatty acid 18:2 trans,g
+5,F18D2,Fatty acid 18:2,g
+6,F20D2N9,Fatty acid 20:2 n-9,g
+7,F20D2CN6,Fatty acid 20:2 cis n-6,g
+8,F20D2N6,Fatty acid 20:2 n-6,g
+9,F20D2C,Fatty acid 20:2 cis,g
+10,F20D2,Fatty acid 20:2,g
+11,F22D2N6,Fatty acid 22:2 n-6,g
+12,F22D2C,Fatty acid 22:2 cis,g
+13,F22D2,Fatty acid 22:2,g
+14,F16D3N4,Fatty acid 16:3 n-4,g
+15,F16D3N3,Fatty acid 16:3 n-3,g
+16,F16D3,Fatty acid 16:3,g
+17,F18D3CN6,Fatty acid 18:3 cis n-6,g
+18,F18D3N6,Fatty acid 18:3 n-6,g
+19,F18D3N4,Fatty acid 18:3 n-4,g
+20,F18D3CN3,Fatty acid 18:3 cis n-3,g
+21,F18D3TN3,Fatty acid 18:3 trans n-3,g
+22,F18D3N3,Fatty acid 18:3 n-3,g
+23,F18D3,Fatty acid 18:3,g
+24,F20D3N9,Fatty acid 20:3 n-9,g
+25,F20D3N6,Fatty acid 20:3 n-6,g
+26,F20D3N3,Fatty acid 20:3 n-3,g
+27,F20D3,Fatty acid 20:3,g
+28,F22D3N6,Fatty acid 22:3 n-6,g
+29,F22D3N3,Fatty acid 22:3 n-3,g
+30,F16D4N4,Fatty acid 16:4 n-4,g
+31,F16D4N3,Fatty acid 16:4 n-3,g
+32,F16D4N1,Fatty acid 16:4 n-1,g
+33,F16D4,Fatty acid 16:4,g
+34,F18D4N3,Fatty acid 18:4 n-3,g
+35,F18D4N1,Fatty acid 18:4 n-1,g
+36,F18D4,Fatty acid 18:4,g
+37,F20D4CN6,Fatty acid 20:4 cis n-6,g
+38,F20D4N6,Fatty acid 20:4 n-6,g
+39,F20D4N3,Fatty acid 20:4 n-3,g
+40,F20D4,Fatty acid 20:4,g
+41,E22D4N6,Fattv acid 22:4 n-6,g

@@ -1,0 +1,19 @@
+,0,1,2,3,4
+0,Bacterial Isolate,Bacterial Isolate,,Tc-WS-NSP,IL-8 Reduction
+1,Bacterial Isolate,Concentration (CFU/mL,,Tc-WS-NSP,(%)
+2,,,CE,Undigested,"17.2  3.0 BC,M"
+3,,4.0  106,CE,Digested,"21.3  2.4 AB,LM"
+4,,4.0  106,ICE,Undigested,"19.2  0.8 AB,LM"
+5,K.oxytoca,,ICE,Digested,"24.5  3.4 A,L"
+6,,,CE,Undigested,"18.1  1.2 ABC,M"
+7,,2.1 x 107,CE,Digested,"21.8  1.0 AB,LM"
+8,,2.1 x 107,,Undigested,"16.8  2.0 BC,M"
+9,,,ICE,Digested,"20.5  2.3 AB,LM"
+10,,,CE,Undigested,"8.4  3.0 DE,MN"
+11,,4.3  106,CE,Digested,"10.01.3 DE,LM"
+12,,4.3  106,ICE,Undigested,"5.2  2.0 E,N"
+13,E.coli,,ICE,Digested,"12.2  0.8 CD,MN"
+14,,,CE,Undigested,"8.1  2.4 DE,MN"
+15,,1.3 x 107,CE,Digested,"16.6  2.6 BC,L"
+16,,1.3 x 107,ICE,Undigested,"8.1 0.7 DE,MN"
+17,,,ICE,Digested,"17.12.7 BC,L"

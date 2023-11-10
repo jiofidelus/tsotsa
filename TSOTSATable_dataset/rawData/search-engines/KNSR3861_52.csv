@@ -1,0 +1,45 @@
+,0,1,2,3
+0,Food ID,,English name and description,Scientific name
+1,G,"Finfish, shellfish, other aquatic animals and products (continued)","Finfish, shellfish, other aquatic animals and products (continued)",
+2,AAG105,"Prawn, fresh water, raw",,Macrobrachium lanchesteri
+3,|AAG106,"Prawn, giant tiger, headless, frozen","Prawn, giant tiger, headless, frozen",Penaeus monodon
+4,AAG282,"Prawn, green tiger, raw",,Penaeus semisulcatus
+5,AAG232,"Queenfish, Slender, dried",,Scomberoides tol
+6,AAG3,Radiated scallop,,Amusium pleuronectes
+7,AAG113,"Sardine, in oil, canned, drained","Sardine, in oil, canned, drained",Sardinella sp.
+8,AAG116,"Sardine, in tomato sauce and chilli, canned","Sardine, in tomato sauce and chilli, canned",Sardinella sp.
+9,AAG115,"Sardine, in tomato sauce, canned","Sardine, in tomato sauce, canned",Sardinella sp.
+10,AAG112,"Sardine,w/ lemon, in oil, canned, drained","Sardine,w/ lemon, in oil, canned, drained",Sardinella sp.
+11,AAG117,"Scad, big-eyed/caranx, raw","Scad, big-eyed/caranx, raw",Caranx crumenophthalmus
+12,AAG118,"Scad, hardtail torpedo, dried","Scad, hardtail torpedo, dried",Megalaspis cordyla
+13,AAG119,"Scad, hardtail (torpedo), raw","Scad, hardtail (torpedo), raw",Megalaspis cordyla
+14,AAG228,Sea horse,,Hippocampus sp.
+15,AAG124,"Shark fins, dried",,Scoliodon walbeehmi
+16,AAG127,"Sheat-fish, raw",,Krytopterus bleekeri
+17,AAG132,"Shrimp, dried",,Penaeus sp. Palaemon spp
+18,|AAG237,"Shrimp, salted, dried",,Palaemon sp
+19,AAG34,"Silver- barb, common, raw","Silver- barb, common, raw",Pantius gonionotus
+20,AAG176,"Silver-barb, common, boiled","Silver-barb, common, boiled",Pantius gonionotus
+21,AAG177,"Silver-barb, common, fried","Silver-barb, common, fried",Pantius gonionotus
+22,AAG135,"Slipmouth, ponyfish, raw",,Leiognathus equulus
+23,|AAG253,"Snail, pond, river",,Sinotaia ingallsiana
+24,AAG92,"Snakehead, striped, dried","Snakehead, striped, dried",Channa striatus
+25,|AAG184,"Snapper, red, Malabar, boiled","Snapper, red, Malabar, boiled",Lutjanus malabalicus
+26,AAG185,"Snapper,red,Malabar,fried","Snapper,red,Malabar,fried",Lutjanus malabalicus
+27,AAG183,"Snapper, red, Malabar, raw","Snapper, red, Malabar, raw",Lutjanus malabalicus
+28,AAG186,"Snapper, red, Malabar, steamed","Snapper, red, Malabar, steamed",Lutianus malabalicus
+29,AAG140,"Snapper, russell, raw",,Lutjanus russelli
+30,AAG204,"Squid, splendid, dried",,Loligo formosana
+31,|AAG202,"Squid, splendid, raw",,Loligo formosana
+32,AAG203,"Squid, splendid, salted and dried","Squid, splendid, salted and dried",Loligo formosana
+33,|AAG205,"Squid, splendid, whole cleaned, frozen","Squid, splendid, whole cleaned, frozen",Loligo formosana
+34,AAG143,"Sting ray, blue spotted, raw","Sting ray, blue spotted, raw","Dasyatis kuhlii, D. uarnak, D. zugei"
+35,AAG151,"Threadfin, all species, raw",,"Eleutheronema tetradactylum, Polynemus"
+36,AAG151,"Threadfin, all species, raw",,"heptadactylus, P. microstoma"
+37,AAG15,"Tilapia, all species, raw",,Tilapia sp.
+38,AAG6,"Trevally, black-banded, fried","Trevally, black-banded, fried",Seriolima nigrofasciata
+39,AAG7,"Trevally, black-banded, grilled","Trevally, black-banded, grilled",Seriolima nigrofasciata
+40,AAG4,"Trevally, black-banded, raw","Trevally, black-banded, raw",Seriolima nigrofasciata
+41,AAG8,"Trevally, black-banded, steamed","Trevally, black-banded, steamed",Seriolima nigrofasciata
+42,|AAG238,"Tuna, Skipjack or Yellow Fin, canned in brine, drained","Tuna, Skipjack or Yellow Fin, canned in brine, drained",Katsuwonus pelamis or Thunnus
+43,|AAG238,"Tuna, Skipjack or Yellow Fin, canned in brine, drained","Tuna, Skipjack or Yellow Fin, canned in brine, drained",albacares

@@ -1,0 +1,24 @@
+,0,1,2
+0,,Never add salt,95%
+1,,to food at table,confidence
+2,Age group,%,interval
+3,1to3,69,66 to 72
+4,4 to 8,52*,49 to 55
+5,9 to 13,,
+6,Male,37*,33 to 40
+7,Female,35*,32 to 38
+8,14 to 18,,
+9,Male,27*,24 to 30
+10,Female,29*,26 to 32
+11,19 to 30,,
+12,Male,29,26 to 33
+13,Female,28,25to 31
+14,31 to 50,,
+15,Male,31,27 to 34
+16,Female,31,28 to 34
+17,51 to 70,,
+18,Male,31,28 to 34
+19,Female,29,27 to 32
+20,71 or older,,
+21,Male,31,27 to34
+22,Female,34*,31 to 38

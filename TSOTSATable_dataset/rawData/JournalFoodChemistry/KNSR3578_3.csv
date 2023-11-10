@@ -1,0 +1,14 @@
+,0,1,2
+0,Some types of validation of food composition data,,
+1,Consistency checks,e.g.Summation of proximities is between 97 and 103 g/100 g,e.g.Summation of proximities is between 97 and 103 g/100 g
+2,,e.g.Cholesterol levels in vegetable foods are at the trace level,e.g.Cholesterol levels in vegetable foods are at the trace level
+3,Compare similar foods within food groups per nutrient,Check to confirm values,Check to confirm values
+4,Compare values,Check for outliers within each nutrient,Check for outliers within each nutrient
+5,Check on errors in the choice of the algorithms,,
+6,Check contributing values in calculations,,
+7,Check on errors in calculated values,Especially if not computerised in FDBMS,Especially if not computerised in FDBMS
+8,Checks food composition data from a random sample of foods carefully,Check on all variables,Check on all variables
+9,Compare calculated nutrient intake,Use new and previous version of database,Use new and previous version of database
+10,Search obsolete data and update if possible,,"At foode.g.for sale,componente.g.analytical methodsor reference levele.g.borrowed"
+11,,values),
+12,Evaluate users satisfaction,,

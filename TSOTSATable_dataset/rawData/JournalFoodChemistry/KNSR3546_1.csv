@@ -1,0 +1,49 @@
+,0,1,2,3,4,5,6,7,8
+0,Botanical source,Particle size of,,Extrusion,Changing degree of,,,EI of,References
+1,,UCFm,,conditions,color indices,,,extrudates,
+2,,,,,lightness,redness,yellowness,,
+3,cold extrusion,,,,,,,,
+4,einkorn,,,"45C,30 %,-",,,,,"Brandolini,Lucisano,Mariotti,&"
+5,,,,,,,,,"Hidalgo,2018)"
+6,einkorn,<200,<200,"RT, 30 %, -",about -33 %,,about +252,,"Hidalgo et al,2020"
+7,,,,,,,%,,
+8,thermoplastic,,,,,,,,
+9,extrusion,,,,,,,,
+10,buckwheat,<380,<380,"110C,21%",-11.53 %,+2560.00,+11.03%,-,"Sun et al.,2018"
+11,,,,200 rpm,,%,,,
+12,buckwheat,<250,<250,"100C,40%",4.37%,+112.31 %,+1.51%,-,"Sun et al.,2019"
+13,,,,120 rpm,,,,,
+14,,,,"160C,32%",12.36 %,+264.62 %,+24.17%,,
+15,,,,120 rpm,,,,,
+16,kiwicha,<100,<100,"160C,18%",44.65 %,+41.18 %,45.24%,1.75,"Basilio-Atencio,Condezo-Hoyos,& Repo"
+17,,,,125 rpm,,,,,"Carrasco-Valencia,2020"
+18,,,,"190 C, 14%",35.57 %,+47.06 %,33.33 %,2.70,
+19,,,,125 rpm,,,,,
+20,white quinoa,<150,<150,180C20%,7.76 %,58.44 %,+104.00%,,"(Huang, Huang et al., 2021)"
+21,,,,300 rpm,,,,,
+22,red quinoa,<250,<250,"180C,25%",-3.11%,56.99 %,48.84 %,-,"(Song, Shao, Chen, & Li, 2020)"
+23,,,,480 rpm,,,,,
+24,degermed quinoa,<500,<500,"140 C, 20 %",,-,,2.87,Aluwi et al.2016
+25,,,,200 rpm,,,,,
+26,polished adlay,,,"120C,25%",2.44 %,+24.83 %,+17.45%,,"(Zhang et al., 2020"
+27,,,,200 rpm,,,,,
+28,oat,,,"100C,21%",5.90 %,+31.58 %,+18.18%,1.15,"Brahma,Weier,& Rose,2016"
+29,,,,160 rpm,,,,,
+30,oat,<180,<180,140C20%,14.0 %,+190.81 %,+67.66 %,,"He et al.,2020"
+31,,,,120 rpm,,,,,
+32,triticale,<800,<800,135C20%,,-,-,1.93,"(Makowska,Baranowska,Michniewicz,"
+33,,,,80 rpm,,,,,"Chudy,Kowalczewski,2017"
+34,finger millet,<180,<180,"100C,22%",3.48 %,3.91%,+48.93 %,2.19,"Liu,Cheng et al.,2020)"
+35,,,,180 rpm,,,,,
+36,,,,"130C,22%",3.60 %,18.75 %,+25.22 %,5.37,
+37,,,,360 rpm,,,,,
+38,finger millet,<880,<880,"130C,20%",,,,2.74,"Kharat et al.,2019"
+39,,,,350 rpm,,,,,
+40,proso millet,<700,<700,"140C,19%",,,,3.10,"(Gulati, Weier, Santra, Subbiah, & Rose,"
+41,,,,233 rpm,,,,,2016
+42,white sorghum,,,"150C,20%",,,,3.2,"Wang,Ai,et al.,2019"
+43,,,,317 rpm,,,,,
+44,white sorghum,,T,"150C,14%",,,,2.58 ~ 2.76,"Vargas-SolorzanoCarvalho,Takeiti"
+45,,,,600 rpm,,,,,"Ascheri,& Queiroz,2014)"
+46,white sorghum,,,"160C,18%",13.26 %,+2658.33,+112.05 %,,"Jafari,Koocheki,& Milani,2017b)"
+47,,,,150 rpm,,%,,,

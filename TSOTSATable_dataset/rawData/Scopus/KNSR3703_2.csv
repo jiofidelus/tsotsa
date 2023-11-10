@@ -1,0 +1,25 @@
+,0,1,2,3
+0,Outcomes,Intervention group (n=21),Control group(n=25,p
+1,Nutritional outcomes,,,
+2,"Proportion of intake as mother's milk(>80%at 36 weeks,n %",7/21(33),9/25 (36),0.85
+3,"Feeding volume at 36 weeks in ml/kg/d,mean SD",156 (143-169),153 (143-160),0.30
+4,"Energy intake at 36 weeks in kcal/kg/d,median (IQR",126 (113-142),124 (100-140),0.39
+5,"Protein intake at 36 weeks in g/kg/d, median (IQR)",4.5 (3.55.0),4.0 (2.74.7),0.13
+6,"Growth rate from birth to 36 weeks in g/kg/d,mean SD",13 (12-15),14 (12-15,0.96
+7,Anthropometric outcomesa,,,
+8,"Weight in grams at 36 weeks, mean  SD",2698598,2387  526,0.06
+9,"Weight-for-age z score at 36 weeks,mean SD",0  1.2,0.9  1.3,0.02
+10,"Length-for-age z score at 36 weeks,mean  SD",1.41.3,2.0  1.6,0.19
+11,"Head circumferenceHC-for-age z score at 36 weeks,mean  SD",1.21.0,-1.81.8,0.27
+12,"Postnatal growth restriction at 36 weeks (weight<10th percentile),n (%",4 (19),8 (32),0.50
+13,Difference between weight z score at birth and weight z score at 36 weeks,0.6  0.7,0.8  0.8,0.28
+14,mean  SD,,,
+15,Difference between HC-for-age z score at birth and HC-for-age z score at,1.3 1.2,-1.51.4,0.59
+16,"36weeks,meanSD",,,
+17,Body composition outcomes,,,
+18,"Postnatal age at assessment in days, median (IQR)",61(56-85,64 (51-85),0.64
+19,"Fat mass z score,mean SD",3.11.6,2.1  1.9,0.05
+20,"Fat mass in grams,mean  SD",506183,400160,0.04
+21,"Fat-free mass z score,meanSD",0.91.1,-1.51.1,0.04
+22,"Fat-free mass in grams, mean  SD",2191434,1986390,0.10
+23,"% Body fat z score, mean  SD",2.7  0.8,2.3  1.3,0.21

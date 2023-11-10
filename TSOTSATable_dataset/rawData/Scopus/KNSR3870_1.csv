@@ -1,0 +1,6 @@
+,0,1,2
+0,O2 Permeance 1,COPermeance,Transmission Rate
+1,(umol s-1 m-2 kPa-1),(umol s-1 m-2 kPa-1),(g s-1 m-2)
+2,0.145 (ASTM D-1434),1.048 (ASTM 1434),8000 (ASTM E-96)
+3,0.011 (ASTM D-3985),0.044 2,81.2 (ASTM E-96)
+4,0.181 (ASTM D-3985),0.175 (COV-E68),83.4 (ASTM F 1249-90)

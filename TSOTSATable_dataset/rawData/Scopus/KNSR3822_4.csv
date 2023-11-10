@@ -1,0 +1,12 @@
+,0,1,2,3
+0,"Herbs,spices and saltgroup",0-1%,Upper bound,2.4E-01
+1,Oil-rich foods (group),5-10%,Upper bound,1.6E-01
+2,Nuts and seeds (sub-group),0.5-5%,Upper bound,1.0E-01
+3,"Fragmented cereals,>10 g/100 g of protein",0-10%,Upper bound,4.6E-02
+4,(sub-group),,,
+5,"Vegetables and fruits, dried (sub-group)",0.5-5%,Upper bound,2.7E-02
+6,"Whole & fragmented cereals,<10 g/100 g of",5-15%,Lower bound,-2.1E-02
+7,protein (sub-group),,,
+8,Cereals (group),5-15%,Upper bound,1.5E-02
+9,Vegetables and fruits (group),5-20%,Upper bound,1.3E-02
+10,Water content,5065%,Lower bound,-4.7E-03

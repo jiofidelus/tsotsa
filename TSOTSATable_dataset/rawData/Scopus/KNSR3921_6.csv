@@ -1,0 +1,27 @@
+,0,1,2,3,4
+0,,,Anticancer Effects,,
+1,Compound,Dose/Route/Duration,Model,Major Mechanisms,Reference
+2,,,,(-) EC cells growth,
+3,-Bisabolol,0 to 32 umol/L for 24 h,ECC001 and ECC003 cells,"XIAP, COX-2",[59]
+4,,,, radiotherapy effect,
+5,,"35,45or55uM for C6",U138-MG human and C6 rat,cell viability,
+6,-Bisabolol,"glioma cells and 55, 65",glioma cell lines, ecto5'-NT/CD73,[61]
+7,,or 75 uM for U138-MG,glioma cell lines, ecto5'-NT/CD73,
+8,-Bisabolol,100 and 250 uM,cell lines,Cytochrome-C,[62]
+9,,,Human prostate cancer cell,,
+10,,,"line PC-3, human cervical","1 caspases 3, 8 and 9",
+11,-Bisabolol,1 mM,"human esophageal ECA-109,",BaxBidBak and Bcl-2,[64]
+12,,,and human liver carcinoma,"p53, NF-B and Fas",
+13,,,cell line HepG2,,
+14,,,,"(-) migration of A549 cells, (-)",
+15,,0 t0 100 uM for 24 h,,"PI3K/AKT,",
+16,-Bisabolol,IC50=15M,NSCLC cell line A549, apoptotic cells,[66]
+17,,IC50=15M,,"Bax, Bcl-2,",
+18,,,,triggers G2/M cell cycle arrest,
+19,,,"KLM1,Panc1,MIA Paca2 and",,
+20,,0-250 uM,KP4 human pancreatic,,
+21,,1000 mg/kg,"lines,BALB/c nude mice",cells viability,
+22,-Bisabolol,once a week for,xenograft model, tumor volume and weight,[69]
+23,,3 weeks,KLM1 and KP4 cells,,
+24,,,1  10s.c.in femoral area,,
+25,-Bisabolol,1.56 M,pancreatic cancer cell lines," KISS1R, MTSS1 and TIMP2",[70]

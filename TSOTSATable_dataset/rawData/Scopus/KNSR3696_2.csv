@@ -1,0 +1,10 @@
+,0,1,2,3
+0,Food and beverage products,,,
+1,n 3 940 458,OR,95%CI,P-value
+2,HSR<3.5ref,1.00,,
+3,HSR3.5,0.78,"0.77,0.79",<0.001
+4,Beverage products n 151 872,,,
+5,Beverages with5g,1.00,,
+6,sugar/100 ml(ref),,,
+7,Beverages with<5 g,0.77,"0.75,0.79",<0.001
+8,sugar/100 ml,,,

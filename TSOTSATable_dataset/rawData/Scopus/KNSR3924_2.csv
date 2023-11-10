@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6
+0,Botanical Name(s),Plant Part(s) or,Common (Local),Dominant Constituent Classes,Application Field in,Clinical,Microbiome
+1,Botanical Name(s),Preparation,Name(s),Dominant Constituent Classes,Clinical Studies,Studies/Reviews,Studies
+2,Humulus lupulus L,flos,hop strobile,"derivatives, essential oil",depression/stress/anxiety,[122],"[123,124]"
+3,,,,phloroglucinol derivatives,,,
+4,Hypericum perforatum L.,herba,St. John's wort,naphthodianthrones,depression,[125],[126]
+5,,,,"(hypericin), flavonoids",,,
+6,(L. officinalis Chaix),aetheroleum,lavender oil,essential oil,insomnia/anxiety/depression,[127-133],[88]
+7,Lycium barbarum L.,fructus/fruit juice,goji berry,carotenoids,insomnia/stress/depression,[134],[135]
+8,Morus alba L.,folium,mulberry; sang shu,flavonoids,cognitive function,[136],[137]
+9,Melissa officinalis L.,folium,Melissa leaf; lemon balm,"essential oil, flavonoids,",insomnia/anxiety/mood,"[138,139]",[140]
+10,Melissa officinalis L.,folium,Melissa leaf; lemon balm,"phenylpropanoids, triterpenes",disorders/cognitive function,"[138,139]",[140]
+11,Panax ginseng C. A. Meyer.,radix,Korean ginseng; red,"(ginsenosides), polysaccharides,",cognitive function,[141],"[120,142-145]"
+12,Panax ginseng C. A. Meyer.,radix,ginseng,polyacetylenes,cognitive function,[141],"[120,142-145]"
+13,Panax quinquefolius L.,radix,American ginseng,(ginsenosides),cognitive function,"[146,147]",[148-153]
+14,Paullinia cupana Kunth ex H.B.K.,,,"methylxanthines, tannins,",,,
+15,var sorbilis (Mart.) Ducke,semen,guarana seed,fatty oil,fatigue/cognitive function,"[154,155]","[156,157]"
+16,(=P. sorbilis C. Mart.),,,fatty oil,,,
+17,Polygala tenuifolia Willdenow,radix,Yuan Zhi,"glycosides, xanthones",cognitive function,"[158,159]",[160-162]
+18,Polygonatum sibiricum Redoute,radix,,polysaccharides,insomnia,[163],[164]
+19,Rhodiola rosea L. (syn. Sedum roseum,rhizoma et radix,arctic root; roseroot;,"phenolic glycosides, essential",anxiety/stress/cognitive,"[165,166]","[167,168]"
+20,(L.) Scop.),rhizoma et radix, golden root,"oil,flavonoids",function/depression,"[165,166]","[167,168]"
+21,Rosmarinus officinalis L.),folium/aetheroleum,rosemary,acid derivatives, depression/insomnia,[169],[42]

@@ -1,0 +1,17 @@
+,0,1,2,3
+0,BlueI-II Up-Regulated,p-Value,Pink I-II Down-Regulated,p-Value
+1,peptidase activity,<0.001,organic cyclic compound binding,<0.001
+2,serine-type peptidase activity,<0.001,heterocyclic compound binding,<0.001
+3,serine hydrolase activity,<0.001,RNA binding,<0.001
+4,"catalytic activity, acting on a protein",<0.001,nucleic acid binding,<0.001
+5,hydrolase activity,<0.001,binding,0.007
+6,carboxypeptidase activity,<0.001,DNA-directed 5'-3' RNA polymerase activity,0.014
+7,serine-type carboxypeptidase activity,<0.001,5'-3' RNA polymerase activity,0.014
+8,serine-type exopeptidase activity,<0.001,RNA polymerase activity,0.014
+9,exopeptidase activity,0.002,aspartic-type endopeptidase activity,0.035
+10,catalytic activity,0.004,aspartic-type peptidase activity,0.035
+11,endopeptidase activity,0.007,purine ribonucleoside triphosphate binding,0.041
+12,aspartic-type endopeptidase activity,0.015,N-methyltransferase activity,0.043
+13,aspartic-type peptidase activity,0.015,arginine N-methyltransferase activity,0.043
+14,ubiquitin-like protein-specific protease activity,0.026,protein-arginine N-methyltransferase activity,0.043
+15,NEDD8-specific protease activity,0.026,,

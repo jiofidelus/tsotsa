@@ -1,0 +1,32 @@
+,0,1,2,3
+0,Reference,Sweeteners/Doses/Duration,Animal Model,Results
+1,"Anderson & Kirkland,",Control: Cellulose 7.5% in the Purina laboratory chow, Weaning male Charles River rats,The numbers of aerobic microbes
+2,1980 [33],Control: Cellulose 7.5% in the Purina laboratory chow,(Weight 55 3 g)(n=7),Anaerobic/aerobic ratio
+3,,Treatment: saccharin average daily dose equal to 4 times,,
+4,"Serrano et al.,2021 [46]",(250 mg/kg) the human ADI (JECFA),8-wk-old mice,Alpha and beta diversity and relative microbial abundances
+5,"Serrano et al.,2021 [46]",Control:water,8-wk-old mice,Alpha and beta diversity and relative microbial abundances
+6,,Duration: 10 wk,,
+7,,Control: Sucrose-sweetened yogurt (suc): low-fat yogurt,,
+8,," supplemented with 20% sucrose, final solution concentration",Adult male Wistar rats (weight: 210  6 g),
+9,"Falcon et al., 2020 [47]",11.4% sucrose,SUC (n =9 per group),Species richness
+10,"Falcon et al., 2020 [47]",Treatment: NNS-supplemented yogurt: (0.3% sodium saccharin,NNS (n = 10 per group),Shannon or Simpson diversity indices
+11,,and sodium cyclamate). Final solution concentration 0.17% NNS,NNS (n = 10 per group),
+12,,Duration17 wk,,
+13,,Treatment: Splenda (Sucralose) oral gavage: 1.1; 3.3; 5.5 and,,
+14,"Abou-Donia et al.,2008 [32]",11 mg/kg/d sucralose concentrations.,Male Sprague-Dawley rats (weight: 200240 g),Number of total anaerobes and other anaerobic bacteria
+15,"Abou-Donia et al.,2008 [32]",Control:water,(n = 10 per group),"(Bifidobacteria, Lactobacilli, Bacteroides, and Clostridium)."
+16,,Duration:12 wk,,
+17,,Treatment: LS (sucralose solution of 1.5 mg/kg bw/d). HS,,
+18,,"(sucralose solution of 15 mg/kg bw/d),which is equal to the",Male and female C57Bl/6J mice(4 wk old,LS vs. HS >The relative amounts of fecal total bacteria
+19,"Uebanso et al.,2017[48]",Control: distilled water,n=8,"relative Clostridium cluster XIVa,dose-dependent"
+20,,Duration:8 wk,,
+21,"Sanchez-Tapia et al.,",Control: water,Male Wistar rats,-diversity
+22,2020 [49],Duration: 4 mo,(5 wk old) (n = 6 per group),B.fragilis abundance
+23,"Wang et al., 2018 [39]","Treatment: Sucralose: drinking water sucralose (2.5%, w/o)",C57BL/6 mice(5 wk old)," -diversity, Actinobacteria, and Proteobacteria"
+24,"Wang et al., 2018 [39]",Duration: 8 wk,C57BL/6 mice(5 wk old), Abundance of Firmicutes
+25,,,,0.43 mg sucralose:  relative abundance of Firmicutes and
+26,,"Treatment: daily gavage of Sucralose ~ 0.43 mg,",Obese Sprague Dawley rats (4 wk old) (8 weeks,Bacteroidetes
+27,"Zhang et al., 2021 [50]", sucralose ~0.62 mg.,after high fat diet (HFD)),0.62 mg sucralose:  relative abundance of Firmicutes
+28,"Zhang et al., 2021 [50]",Control: daily gavage of 2 mL normal saline,(n = 6 per group),Bacteroidetes
+29,,Duration: 4 wk,(n = 6 per group),The ratio of Firmicutes to Bacteroidetes in 0.43 mg sucralose was
+30,,,,higher than that in 0.62 mg

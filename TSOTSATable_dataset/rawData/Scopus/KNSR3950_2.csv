@@ -1,0 +1,9 @@
+,0,1,2,3,4
+0,,,Frequency (%),,p Value
+1,Meal Sources,Men,Women,All,p Value
+2,Self-catered,13,9,11,
+3,Prepared away,,,,
+4,from home,,,,
+5,Canteen,53,32,44,*
+6,Eating outside,29,49,37,*
+7,Skipped meals,6,10,8,

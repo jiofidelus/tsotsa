@@ -1,0 +1,55 @@
+,0,1,2,3,4,5
+0,Protein,Gene,Subcellular,Tissue Expression,Phenotypes of KO or Mutant,Diseases Associated
+1,Protein,Gene,Localization,Tissue Expression,Animals,with Mutations
+2,,,Plasma membrane,Ubiquitous [138] with higher,KO: higher sensitivity to zinc,
+3,,,"[186],endoplasmic",levels in small intestine human,KO: higher sensitivity to zinc,
+4,ZIP1,SLC39A1,"reticulum [186],",[186] and brain (hippocampus,malformations and increased lethality,
+5,,,"[187,188]",[189],[190-192],
+6,,,,Wide expression: brain (cortex,,
+7,,,,"cerebellum, basal ganglia),",KO: higher sensitivity to zinc,
+8,ZIP2,SLC39A2,,"endocrine tissues, lungs,",deficiency causing developmental,
+9,,,,"gastrointestinal tract, liver",malformations [193],
+10,,,,"pancreas, kidney, heart [138]",,
+11,,,,,KOhigher sensitivity to zinc,
+12,,,,,deficiency causing developmental,
+13,,,,,malformations [195],
+14,,,,,ZIP1-ZIP3 double-KO: high,
+15,,,Golgi (zinc sufficient,Wide expression with higher,sensitivity to zinc deficiency and,
+16,ZIP3,SLC39A3,membrane(zinc,levels along gastrointestinal,malformations than ZIP1 single KO,
+17,,,depletion[194],tract [138],[190],
+18,,,,,ZIP1-ZIP2-ZIP3 triple-KO: higher,
+19,,,,,sensitivity to zinc deficiency and 80%,
+20,,,,,of developmental malformation (with,
+21,,,,,60% of severe defects) [191],
+22,,,,,Homozygous KO: early embryonic,
+23,,,,,lethal [202],
+24,,,(zinc sufficient,"[23,56,138](Enterocytes",Heterozygous KO: developmental,Acrodermatitis
+25,ZIP4,SLC39A4,"conditions), plasma","[197-200]), pancreatic  cells","exencephaly),higher sensitivity to","""genetic zinc"
+26,,,membrane (zinc,Rat: in vitro cultures of,zinc deficiency[202],"deficiency[23,54-56]"
+27,,,depletion) [196-198],astrocytes and neurons[201],Intestinal epithelium conditional KO:,"deficiency[23,54-56]"
+28,,,,,intestinal stem-cell niche disruption;,
+29,,,,,epithelium disorganization [203],
+30,,,Plasma membrane,,,
+31,,,(basolateral pole of,,,
+32,ZIP5,SLC39A5,polarized cells),Liver pancreas [204] peripheral,KO: zinc accumulation in liver and,
+33,ZIP5,SLC39A5,"[200,204],",blood mononuclear cells [206],pancreas [207],
+34,,,intracellular vesicles,,,
+35,,,"[200,205]",,,
+36,,,Plasma membrane,Ubiquitous with higher levels,,
+37,ZIP6,SLC39A6,[208],"in cerebellum, adrenal gland,",,
+38,,,[208],endometrium [138],,
+39,,,,Wide expression with higher,"Hypomorphic: developmental defects,",Hypomorphic
+40,,,,"levels in endocrine tissues, lung.",,mutations of SLC39A7
+41,,,"Golgi,endoplasmi","bone marrow, lymphoid tissues,",KO: embryonic lethal [210],(autosomal recessive):
+42,ZIP7,SLC39A7,reticulum [209],"brain (hippocampus, cerebral",KO: embryonic lethal [210],"absent B cells,"
+43,,,reticulum [209],"cortex, basal ganglia,",KD(Zebrafish):developmental,agammaglobulinemia
+44,,,,"cerebellum), kidney,",contents[211],early onset infections
+45,,,,gastrointestinal tract [138],contents[211],[210]
+46,,,,,,Congenital disorder of
+47,,,,,,"glycosylation, type IIn"
+48,,,Plasma membrane,,"Hypomorphic:growth retardation,",(autosomal recessive)
+49,,,(apical pole of,Wide expression with higher,"Hypomorphic:growth retardation,","intellectual disability,"
+50,ZIP8,SLC39A8,"polarized cells[212],","levels in lung,kidney [214]",developmental death [216],"cerebellar atrophy,low"
+51,,,cytoplasm [213],gastrointestinal tract [138],KO: heart morphology defects [217],"manganese, zinc and"
+52,,,,,,manganese renal
+53,,,,,,"wasting [218,219]"

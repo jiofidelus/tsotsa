@@ -1,0 +1,45 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Study,Species,Probiotic,Model,Probiotic conc.,Duration,Outcome measures,Pro,Crt,Effect
+1,,,,,(CFU/day),of Tx,,,,
+2,,,,,,(Days),,,,
+3,Kobayashi et al. [66],ddY mice,B.breve,AD (ICV injection of 1109,AD (ICV injection of 1109,6,"Y-Maze, biomarkers,",,,"11-12 11-12 Y-Maze,PA results"
+4,,ddY mice,B.breve,A1-42),1109,6,gut microbiome,10,10,"improved, improved"
+5,,,,AD (ICV injection of,,,analysis,,,inflammation in hip-
+6,,,,A25-35),,,"Y-Maze, biomarkers,",,,"pocampus, no signifi-"
+7,,,,,,,gut microbiome,,,cant gut microbiome
+8,,,,,,,analysis,,,change
+9,Lew et al. [67],5XFAD mice,B. longum,AD (Transgenic;,1109,56,"MWM, Y-Maze,",6,6,"Y-Maze,PA results"
+10,,,,5xFAD),,,"PA,biomarker,",,,"improved, improved"
+11,,,,,,,gut microbiome,,,gut permeability and
+12,,,,,,,analysis,,,"gut microbiome, sup-"
+13,,,,,,,,,, pressed inflammation
+14,Lee et al.[68],ICR mice (Male),L. johnsonii,AD intraperitoneally,1109,5,"Y-Maze, PA, bio-",6,6,"Y-Maze, PA results"
+15,,,,injected scopola-,,,marker,,,"improved, improved"
+16,,,,mine,,,,,,neurotrophic and
+17,,,,,,,,,,inflammatory bio-
+18,,,,,,,,,,markers
+19,Lee et al.[69],C57BL/6 mice,B. longum,Aged mice,1109,28,"Y-Maze,PA",6,6,"Y-Maze, PA results"
+20,,Sprague--Dawley rats, L. plantarum or L.,(18 months),1x1010,84,"biomarker, faecal",6,6,"improved, improved"
+21,,(Male), fermentum or L.,AD (intraperito-,,,bacteria culture,,, gut permeability and
+22,,,reuteri,neal injection of,,,Gut microbiome,,,"gut microbiome, sup-"
+23,,,,D-Galactose),,,analysis,,,pressed inflamma-
+24,,,,,,,,,,"tion, major changes"
+25,,,,,,,,,,to both gut microbi-
+26,,,,,,,,,,ome composition and
+27,,,,,,,,,,secretome
+28,Mallikarjuna et al.,Wistar rats (Male),L.plantarum,AD (intraperito-,2.16  109,60,"MWM, Histology,",6,6,Improved performance
+29,[70],,,neal injection of,,,Biomarkers,,,in cognitive tests and
+30,,,,D-Galactose),,,,,,restored ACh and
+31,,,,,,,,,,histopathological
+32,,,,,,,,,,features to control
+33,,,,,,,,,,group
+34,Mallikarjuna et al.,Wistar rats (Male),L.plantarum,AD (intraperito-,1.2 x 1010 CFU/kg,60,"Histology, Biomark-",6,6,Improved ATPases
+35,[70],,,neal injection of,,,ers,,,activity in brain
+36,,,,D-Galactose),,,,,,regions of rats
+37,,,,,,,,,,induced with AD
+38,Mehrabadi et al. [71],Wistar rats (Male),"L. reuteri, L. rham-",AD (intrahippocam-,1x1010,70,"MWM, HIstology,",10,10,Improved MWM
+39,,,"nosus, B. infantis",pal injection of,,,biomarkers,,,"results, reduced A"
+40,,,,A1-40,,,,,,"plaques, decreased"
+41,,,,,,,,,,oxidative stress and
+42,,,,,,,,,,pro-inflammatory
+43,,,,,,,,,,biomarkers

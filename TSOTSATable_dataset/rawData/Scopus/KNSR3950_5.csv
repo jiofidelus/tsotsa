@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,Men,(%),Energy,Women,(%),Men,(%),Protein,Women,(%),Men,(%),Women,(%)
+1,Rice,10.1,,Instant Noodles,14.0,Rice,18.8,,Rice,15.5,Instant Noodles,38.3,Oils and Fats,11.0
+2,Oils and Fats,10.1,,Instant Noodles,14.0,Chicken,11.8,,Rice,15.5,Chicken,14.5, Instant Noodles,9.6
+3,Instant Noodles,8.7,,Chicken,5.4,Beef,11.8,,Eggs,9.0,Eggs,8.0,Chicken,9.6
+4,Chicken,4.7,,Bread,5.4,Beans,6.6,,Fish,8.7,Beef,6.5,Beef,5.2
+5,Men,(%),,Women,(%),Men,(%),Fiber,Women,(%),Men,(%),Women,(%)
+6,Noodles,7.8,,Bread,6.3,Rice,14.4,,Rice,13.0,Beans,12.5,Tubers,10.4
+7,Tuber,4.7,,Tubers,2,Noodles,9.0,,Fruits,6.9,Fruits,7.9,Beans,7.5
+8,Men,(%),Calcium,Women,(%),Men,(%),Magnesium,Women,(%),,Phosphorus,,(%)
+9,Men,(%),,Women,(%),Men,(%),,Women,(%),Men,(%),Women,(%)
+10,Dairy,15.4,,Fish,16.9,Beans,17.3,,Rice,17.2,Rice,21.1,Rice,16.5
+11,Fish,12.3,,Eggs,9.4,Chicken,7.2,,Fruits,7.5,Eggs,13.9,Dairy,12.5
+12,Eggs,10.5,,Eggs,7.8,Vegetables,7.2,,Fruits,6.2,Dairy,7.9,Eggs,10.5
+13,Beans,10.5,,Beans,7.8,Seasonings,7.2,,Tubers,6.2,Dairy,7.2,Fish,10.5
+14,Men,(%),Iron,Women,(%),Men,(%),Zinc,Women,(%),Men,(%),Women,(%)
+15,Eggs,11.9,,Eggs,11.2,Beef,36.8,,Rice,17.9,Eggs,40.6,Eggs,19.2
+16,Rice,11.4,,Rice,10.4,Chicken,13.9,,Eggs,11.7,Vegetables,14.6,Dairy,18.5
+17,Vegetables,10.8,,Beans,9.8,Beans,5.5,,Dairy,6.5,Sweets and Snacks,6.4,Sweets and Snacks,5.3
+18,,(%),Vitamin D,Women,(%),,,Vitamin E,Women,(%),,Vitamin K,Women,(%)
+19,Men,(%),,Women,(%),Men,(%),,Women,(%),Men,(%),Women,(%)
+20,Fish,14.8,,Fish,26.5,Eggs,10.2,,Vegetables,7.4,Fish,51.1,Fish,26.5
+21,Dairy,13.4,,Dairy,9.8,Chicken,62,,Nuts,6.9,Dairy,13.4,Dairy,9.8
+22,Mushrooms,5.5,,Beef,4.6,Nuts,62,,Fish,5.8,Mushrooms,5.5,Beef,4.6
+23,Men,(%),,Women,(%),Men,(%),Vitamin B2,Women,(%),Men,(%),Women,(%)
+24,Vegetables,10.9,,Beef,8.6,Dairy,9.3,,"Dairy,",15.6,Rice,16.8,Eggs,11.4
+25,Eggs,6.8,,Vegetables,7.9,Beef,7.8,,Vegetables,8.6,Fruits,7.6,Rice,7.9
+26,Eggs,6.8,,Nuts,7.9,Vegetables,7.8,,Beef,6.3,Fruits,7.2,Rice,7.9
+27,Men,(%),,Women,%),Men,(%),Salt(g),Women,(%),,,,
+28,Vegetables,21.1,,Fruits,29.1,Eggs,3.0,,Seasonings,3.0,,,,
+29,Tuber,9.0,,Tubers,22.5,Eggs,2.9,,Dairy,2.7,,,,
+30,Tuber,9.0,,Chicken,4.3,Snacks,2.2,,Bread,2.7,,,,
+31,Seasonings,2.6,,Beef,2.7,Bread,2.6,,Eggs,2.5,,,,

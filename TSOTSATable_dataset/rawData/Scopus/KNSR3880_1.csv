@@ -1,0 +1,34 @@
+,0,1,2,3,4
+0,Food groups,Food items,Dietary patterns,,
+1,,,Mediterranean,Mixed,Unhealthy
+2,Vegetables,"Lettuce,spinach,cabbage,cauliflower,Brussels sprout,broccoli,turnip,cucum",0.794,,
+3,,"ber, celery, peppers, greens, carrot, pumpkin, squash, eggplant, garlic, onion,",,,
+4,,"mushroom, green pea, green bean, corn, tomato and its products, vegetable",,,
+5,,"juices,others",,,
+6,Fruits,"Watermelon, Persian melon, honeydew melon, cantaloupe, peach, nectar-",0.725,0.307,
+7,,"ine,prunes, apricot, plum,cherries,apple,pear, grapes,kiwi,persimmon",,,
+8,,"pomegranate, banana,pineapple,orange, tangerine, grapefruit, lemons, berry",,,
+9,,"strawberry,dates,fig,dried fruits,fruit juices,others",,,
+10,Olives,"Olives,olive oil",0.516,,
+11,Potatoes,Potatoes,0.497,,
+12,Eggs,Eggs,0.489,0.355,
+13,Nuts and legumes,"Peanut,almond,walnut,pistachio,hazelnut,seeds,lentil,beans,chick pea,fava",0.477,0.425,
+14,,"bean, soy,mung bean,split pea,others",,,
+15,Pickles,Pickles,0.462,,
+16,Low-fat dairy,"Low-fat milk, yogurt, and cheese, Doogh (an Iranian yogurt-based beverage)",0.428,,
+17,,"Kashk (an Iranian dried dairy product), others",,,
+18,Fish,All fish types,0.413,,
+19,Mayonnaise,Mayonnaise,,0.699,
+20,Sweets,"Sugar-sweetened beverages,sugar,honey,jam,chocolates,candies,cakes,cook",,0.633,0.300
+21,,"ies,pies,muffinsdoughnuts, sweet tahini,others",,,
+22,Meats,"Beef, veal, lamb, minced meat, burger, sausage, deli meat, organ meats, others",,0.621,
+23,Whole grains,"Sangak and bran breads,barley,oat,bulgur,others",,0.606,
+24,Salt and salty snacks,"Salt, corn puff, potato chips, others",,0.599,
+25,Refined grains,"Lavash,Barbari,and Taftoon breads,baguette,rice,pasta,noodle,biscuit.",,,0.625
+26,,"cracker, others",,,
+27,Tea and coffee,Tea and coffee,,-0.331,0.537
+28,Hydrogenated fats,"Hydrogenated vegetable oils, margarine, butter, animal fats, others",,,0.445
+29,Poultry,Chicken,0.381,,0.415
+30,Vegetable oils,Vegetable oils,0.326,,0.330
+31,High-fat dairy,"High-fat milk, yogurt, and cheese, cream, ice creams, others",,,0.328
+32,Explained variance(%,,21.6,9.3,7.4

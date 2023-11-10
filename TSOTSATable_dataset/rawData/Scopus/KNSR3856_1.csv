@@ -1,0 +1,31 @@
+,0,1,2,3
+0,Parameters,Whites (N= 79),Blacks (N = 72),p Value-Baseline
+1,Skin colour (%),46.3,53.7,<0.01
+2,Age (year),523,49  1,0.072
+3,Gender (%),48/33 (F/M),53/41 (F/M),0.083
+4,CKD3 (%),37,49,<0.001
+5,Comorbidities (%),,,
+6,Hypertension,60.5,74.9,<0.001
+7,Anemia,66.6,57.2,<0.01
+8,Coronary artery disease,45,32,<0.01
+9,Congestive heart failure,19,25,<0.01
+10,Cerebral vascular accident,15,9,<0.01
+11,Peripheral vascular disease,19,12,<0.01
+12,Obesity,60,86,<0.01
+13,Dyslipidemia,75,28,<0.01
+14,Hypocalcaemia,42.8,60.6,<0.01
+15,Hyperuricemia,22.5,36.5,<0.01
+16,Smoking current (%),20,18,0.091
+17,Alcohol use (%),2,1,0.073
+18,Current drug use (%),,,
+19,Calcium channel blocker,45,52,0.144
+20,-Blockers,45,46,0.061
+21,Thiazide,7,10,0.205
+22,Diuretic,63,76,0.331
+23,Aspirin,56,58,0.069
+24,Statins,28,39,0.177
+25,Vitamin D intake (ug/day),69  4,97  3,<0.001
+26,Vitamin D intake (IU/day),2760  160,3880 120,<0.001
+27,Calcium intake (mg/day),977 11,691  22,<0.01
+28,Caloric intake (kcal/kg/day),355,629,<0.001
+29,Physical activity (min/week),605,403,<0.01

@@ -1,0 +1,41 @@
+,0,1,2,3,4,5
+0,Application,Objective,Fuzzy,Membership function,Important outcomes,References
+1,,,inference,,,
+2,,,system,,,
+3,Aromatic foods,To rank the sensory attributes of aromatic foods Mamdani,To rank the sensory attributes of aromatic foods Mamdani,Triangular,(i) Overall ranking for tea and tastemaker and,Chowdhury & Das [145]
+4,,packed in films made from corn starch,,,the important quality attributes of the food,
+5,,,,,"materials in general, and the samples were able",
+6,,,,,to be done using FL,
+7,,,,,(ii) Aroma and taste of tea leaf and tastemaker in,
+8,,,,,"general were assessed as ""Highly important""",
+9,,,,,sensory attributes,
+10,Beetroot candy,To rank the candy with various content ratios,Mamdani,Triangular,(i) The developed model was able to optimize,Fatma et al. [146]
+11,,,,,and perform the ranking of the candy involv-,
+12,,,,,ing different ingredient ratios,
+13,Canned food,To control sterilization temperature by using,Mamdani,Triangular,(i) The sterilizing temperature with an accu-,Chung et al. [147]
+14,,fuzzy logic and making online corrections in,,,racy of 0.5 C can be maintained by a fuzzy,
+15,,autoclave operation,,,controller,
+16,,,,,(ii) Batch processing can be completed using,
+17,,,,,"the proposed system with less time, steam",
+18,,,,,"consumption, and risk of over-sterilization",
+19,Coffee,To determine the suitable process on a dry mill,Mamdani,Triangular,(i) The developed system will be useful for the,Hernandez-Vera et al. [148]
+20,,according to customer requirements using an,,,correct decision process between two differen,
+21,,expert system based on fuzzy logic,,,types of coffee,
+22,,,,,(ii) Validation was carried out by comparing,
+23,,,,,the process values by the model with the real,
+24,,,,,"process data, and the coefficient of determina-",
+25,,,,,tion obtained was 93%,
+26,Coffee beans,To introduce a control system for the roasting,Mamdani,Triangular,iThe consistent roasting level of the beans is,Harsawardana et al.[149]
+27,,machine,,,able to be produced by the proposed model,
+28,Cupcakes,To rank the cupcakes according to their quality,Mamdani,Triangular,(i) The system was able to determine the best,Singh et al. [150]
+29,,attributes,,,condition for their cupcakes with respect to,
+30,,,,,their sensory attributes,
+31,,,,,(ii) The ranking of the quality attributes was able,
+32,,,,,to be performed by the system,
+33,Dough,To implement the FL to act as a controller,Mamdani,"Triangular, trapezoi-",(i) The settling time and the response of the FL,Yousefi-Darani et al. [151]
+34,, system in bread making,,dal,controller showed a better performance than,
+35,,,,,the proportional-integral-derivative (PID),
+36,,,,,controller,
+37,,,,,(ii) The FL controller system was established,
+38,,,,,successfully for the proofing process in bread,
+39,,,,,making,

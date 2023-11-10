@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7
+0,,,,,,antagonistic/additive,antagonistic/additive,
+1,,material,,polyphenols,synergistic attributes,,attributes,ref
+2,cinnamon,,"cinnamic acid, coumarin proanthocyanidins","cinnamic acid, coumarin proanthocyanidins",LOXi,"RSA,RSALOXib","RSA,RSALOXib",7
+3,ginger,,caffeic acid,,"RSA,LOXib","RSA,b LOXi","RSA,b LOXi",8
+4,willow: Salix myrsinifolia,willow: Salix myrsinifolia,salicin/salicylic glycosides,salicin/salicylic glycosides,LOXiOH,"RSA, CHEL,FRAP","RSA, CHEL,FRAP",9
+5,willow:Salix purpurea,,,,"LOXiCHEL,OH","RSA,FRAP","RSA,FRAP",9
+6,willow: Salix myrsinifolia and Salix purpurea,willow: Salix myrsinifolia and Salix purpurea,,,"LOXi,FRAP",RSA,,10
+7,cardamom,,"protocatechuic acid, vanillic acid, p-coumaric","protocatechuic acid, vanillic acid, p-coumaric","FRAP.CHEL,SOD",CHEL SOD OH,CHEL SOD OH,11
+8,,,acid ferulic acid,,"LOXi,XOi",LOXib,LOXib,11
+9,coconut,,"catechin, epicatechin, vanilic acid, gallic acid","catechin, epicatechin, vanilic acid, gallic acid","RSA,RSAb",LOX,,12
+10,whole meal wheat flour,,trans- and cis-ferulic acids,trans- and cis-ferulic acids,XOi,,,13
+11,chili pepper,,capcaicin,,"RSA,OH,SOD,SASA","RSACHEL,","RSACHEL,",14
+12,,,,,,OHFRAP,OHFRAP,
+13,cocoa,,"catechins, epicatechins, anthocyanins, and","catechins, epicatechins, anthocyanins, and",RSA,,,15
+14,,,procyanidins,,,,,
+15,"Ginkgo biloba L., Scutellaria baicalensis, and","Ginkgo biloba L., Scutellaria baicalensis, and","hydroxycinnamic acid, caffeoylquinic acid, etc.","hydroxycinnamic acid, caffeoylquinic acid, etc.",HO,AChE,,17
+16,quercetin-3-O-rutinoside,quercetin-3-O-rutinoside,,,,,,
+17,N/A,,-tocopherol vs chlorogenic acid,-tocopherol vs chlorogenic acid,,antioxidant capacity,antioxidant capacity,23
+18,N/A,,a-tocopherol vs caffeic acid/ferulic acid,a-tocopherol vs caffeic acid/ferulic acid,antioxidant capacity,,,23

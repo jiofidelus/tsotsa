@@ -1,0 +1,28 @@
+,0,1,2
+0,Time,,
+1,[h],,Procedure
+2,00:00,HKC and HGF were plated separately in 48 well plates at,HKC and HGF were plated separately in 48 well plates at
+3,,a concentration of 2x 10cells/well in DMEM(Dulbecco's,a concentration of 2x 10cells/well in DMEM(Dulbecco's
+4,,modified Eagle medium) culture medium with antibiotic,modified Eagle medium) culture medium with antibiotic
+5,,solution and 10% fetal bovine serum and incubated at,solution and 10% fetal bovine serum and incubated at
+6,,"37C in 5%CO,atmosphere for 24 h.Three specimens","37C in 5%CO,atmosphere for 24 h.Three specimens"
+7,,were suspended in 9 mL of culture medium and incubated,were suspended in 9 mL of culture medium and incubated
+8,,as above.The resultant medium was used as eluates for,as above.The resultant medium was used as eluates for
+9,,treating cells.,
+10,24:00,"Once the monolayer of the cells was achieved,the culture","Once the monolayer of the cells was achieved,the culture"
+11,,medium was aspirated and the cells were rinsed with PBS,medium was aspirated and the cells were rinsed with PBS
+12,,(phosphate-buffered saline).200 uL of eluates were added,(phosphate-buffered saline).200 uL of eluates were added
+13,,to cells and the plates were incubated as mentioned,to cells and the plates were incubated as mentioned
+14,,above.Cells with no eluate treatment served as NC.NC,above.Cells with no eluate treatment served as NC.NC
+15,,served as blank.,
+16,48:00,The eluates were aspirated and the cells were washed with,The eluates were aspirated and the cells were washed with
+17,,PBS.100 uL ofMTT solution(0.5 mg/mL)was incorporated,PBS.100 uL ofMTT solution(0.5 mg/mL)was incorporated
+18,,to each well and incubated as above for4hours in a dark,to each well and incubated as above for4hours in a dark
+19,,environment.,
+20,51:00,The MTT solution was discarded from the cells and washed,The MTT solution was discarded from the cells and washed
+21,,with 200 uL of PBS.The reduced violet-blue formazan,with 200 uL of PBS.The reduced violet-blue formazan
+22,,crystals were dissolved with 100 uL of di-methyl sulfoxide,crystals were dissolved with 100 uL of di-methyl sulfoxide
+23,,and swayed for30 min.,
+24,51:30,"Subsequently,the culture plates were transferred to a","Subsequently,the culture plates were transferred to a"
+25,,microplate reader and the color intensity was measured at,microplate reader and the color intensity was measured at
+26,,570nm absorbance,

@@ -1,0 +1,35 @@
+,0,1
+0,Primary,Format
+1,Country,Country where data is collected
+2,Food group,Refer to Appendix 1
+3,Food category,Refer to Appendix 1
+4,Brand name,As per product label
+5,Manufacturer,As per product label
+6,Product title,As per product label
+7,Pack size,gorm
+8,Serving size,gorm
+9,Energy,kilojoules or kilocalories/100 g or 100 m
+10,Saturated fat,g/100g or 100m
+11,Total sugars,g/100g or 100m
+12,Sodiumb,milligrammes/100g or 100 m
+13,Data source,"NIP,MANUF,WEB,DATAB,OTHER"
+14,Date of data collection,Date (dd/mm/yyyy
+15,Date of data entry,Date (dd/mm/yyyy
+16,Universal product code,Number as per product barcode
+17,(UPC),
+18,Secondary,
+19,Total fat,g/100g or 100m
+20,Trans fat,g/100g or 100m
+21,Monounsaturated fat,g/100g or 100 m
+22,Polyunsaturated fat,g/100 g or 100m
+23,Protein,g/100 g or 100 m
+24,Carbohydrate,g/100g or100m
+25,Dietary fibre,g/100g or100m
+26,Sub-category (major,As defined for each country
+27,Sub-category(minor,As defined for each country
+28,Country of origin,Country where product is manufactured
+29,Ingredients list,Listing of ingredients on the label
+30,Symbols and claims,Health or nutrient claims and symbols
+31,Price,Cost of product per 100 g
+32,Notes,As deemed important by each collaborating
+33,,country

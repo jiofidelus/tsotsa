@@ -1,0 +1,65 @@
+,0,1,2,3,4,5,6,7,8,9
+0, NDB No.,Description,Proanthocyanidin,Mean1,N,SD,Min,Max,CC,Sources of Data
+1,16014,"Beans, black, mature seeds, raw",Dimers,5.20,222,,,,,23
+2,,(Phaseolous vulgaris),Trimers,0.00,222,,0.00,0.00,,23
+3,,,4-6mers,0.00,222,,0.00,0.00,,23
+4,,,7-10mers,0.00,2,,0.00,0.00,B,23
+5,,,Polymers,0.00,2,,0.00,0.00,B,23
+6,16032,"Beans,kidney,red,mature seeds",Dimers,26.40,2,,,,B,23
+7,,raw (Phaseolous vulgaris),Trimers,29.10,2,,,,,23
+8,,,4-6mers,117.70,2,,,,,23
+9,,,7-10mers,105.30,2,,,,,23
+10,,,Polymers,263.40,2,,,,BB,23
+11,16037,"Beans, navy, mature seeds, raw",Dimers,0.00,,,,,BB,24
+12,,(Phaseolus vulgaris),Trimers,0.00,11,,,,,24
+13,,,4-6mers,0.00,1,,,,,24
+14,,,7-10mers,0.00,11,,,,B,24
+15,,,Polymers,0.00,1,,,,,24
+16,16043,"Beans, pinto, mature seeds,",Dimers,4.40,4,0.36,3.90,4.70,,23
+17,,"cooked,boiled,without salt",Trimers,3.91,4,0.32,3.44,4.15,B,23
+18,,,4-6mers,10.52,4,5.46,4.24,15.19,,23
+19,,,7-10mers,4.32,,5.48,0.00,11.43,,23
+20,,,Polymers,1.41,4,1.66,0.00,3.23,B,23
+21,16042,"Beans, pinto, mature seeds, raw",Dimers,19.22,7,12.69,2.16,34.37,B,"14, 23"
+22,,(Phaseolus vulgaris,Trimers,16.18,,12.00,0.00,29.81,B,"14, 23"
+23,,,4-6mers,125.90,,9.21,112.69,132.52,,23
+24,,,7-10mers,135.62,,10.43,120.64,143.75,B,23
+25,,,Polymers,459.63,4,34.15,410.41,489.30,,23
+26,16049,"Beans, white, mature seeds, raw",Dimers,0.03,3,0.00,0.03,0.03,,14
+27,,(Phaseolus vulgaris),Trimers,0.00,3,0.00,0.00,0.00,,14
+28,16052,"Broadbeans (fava beans), mature",Dimers,0.00,1,,,,c,26
+29,,"seeds, raw (Vicia faba)",Trimers,0.00,1,,,,c,26
+30,,,4-6mers,0.00,1,,,,c,26
+31,,,7-10mers,0.00,11,,,,c,26
+32,,,Polymers,0.00,,,,,c,26
+33,99399,Carob fiber [Caromax] (Ceratonia,Dimers,1.74,33,1.09,1.10,3.00,,46
+34,,siliqua L.),Trimers,8.00,33,8.16,0.43,16.65,,46
+35,16056,"gram), mature seeds, raw (Cicer",Dimers,0.00,3,,,,,14
+36,,"gram), mature seeds, raw (Cicer",Trimers,0.00,3,,,,c,14
+37,16062,"Cowpeas, common (blackeyes,",Dimers,18.92,20,8.66,3.52,48.78,B,"23, 41"
+38,,raw(Vigna unguiculata),Trimers,21.58,20,9.07,6.10,55.74,B,"23, 41"
+39,,raw(Vigna unguiculata),4-6mers,47.90,20,14.85,7.30,93.25,,"23, 41"
+40,,,7-10mers,9.81,20,9.52,0.00,47.28,,"23, 41"
+41,,,Polymers,32.66,20,13.96,0.00,74.14,B,"23, 41"
+42,16069,"Lentils, raw (Lens culinaris)",Dimers,1.20,4,0.29,1.04,1.67,,"4, 14"
+43,,,Trimers,0.11,,0.20,0.00,0.44,,"4, 14"
+44,,,4-6mers,0.03,11,,,,D,4
+45,16098,"Peanut butter, smooth style, with",Dimers,3.00,3,0.76,2.12,3.50,B,23
+46,,,Trimers,8.14,33,3.49,4.14,10.59,BB,23
+47,,,4-6mers,0.00,33,0.00,0.00,0.00,BB,23
+48,,,7-10mers,0.00,3,0.00,0.00,0.00,B,23
+49,,,Polymers,0.00,3,0.00,0.00,0.00,B,23
+50,16089,"Peanuts, all types, oil-roasted, with",Dimers,4.07,41,0.70,3.12,4.72,B,23
+51,,,Trimers,3.67,4,0.46,3.20,4.20,,23
+52,,,4-6mers,2.77,4,0.20,2.57,2.97,,23
+53,,,7-10mers,0.00,,0.00,0.00,0.00,,23
+54,,,Polymers,0.00,4,0.00,0.00,0.00,,23
+55,16087,"Peanuts, all types, raw (Arachis",Dimers,33.20,11,,,,,26
+56,,hypogaea),Trimers,48.80,1,,,,,26
+57,,,4-6mers,48.10,1,,,,c,26
+58,,,7-10mers,0.00,1,,,,c, 26
+59,,,Polymers,0.00,1,,,,,26
+60,16085,"Peas, green, split, mature seeds,",Dimers,0.00,1,,,,, 26
+61,,raw (Pisum sativum),Trimers,0.00,11,,,,,26
+62,,,4-6mers,0.00,1,,,,,26
+63,,,7-10mers,0.00,1,,,,c,26

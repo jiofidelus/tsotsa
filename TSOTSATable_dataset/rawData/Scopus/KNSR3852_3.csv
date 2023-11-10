@@ -1,0 +1,10 @@
+,0,1,2,3
+0,Parameter,,Mode,
+1,Gas Mode,No Gas,He,H2
+2,RFPower,,1600 W,
+3,RF Matching,,1.80V0.20,
+4,Carrier Gas Flow,,0.75 L/min,
+5,Dilution Gas Flow,,0.25 L/min,
+6,S/C Temperature,,2C,
+7,ORS Gas,NA,Helium,Hydrogen
+8,ORS Gas Flow Rates,NA,4.3 mL/min,(0.5mL/minHe)

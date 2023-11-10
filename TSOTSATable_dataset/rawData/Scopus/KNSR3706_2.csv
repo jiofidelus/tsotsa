@@ -1,0 +1,12 @@
+,0,1,2,3
+0,Patient group,Energy,Protein,Comments
+1,Older people,30 kcal/kg BW/d,1 g/kg BW/d,Consider actual or adjusted BW.Individually
+2,,,,"adiust for nutritional status,PAL,disease state"
+3,,,,and tolerance.Protein target of 1.2-1.5g/kg/d
+4,,,,suggested for older people with acute or chronic
+5,,,,illness except whereGFR<30ml/min/1.73m2in
+6,,,,"non-dialysis older patients.9,10"
+7,Polymorbid patients,27 kcal/kg BW/d,1 g/kg/BW/d*,Consider actual or adjusted BW
+8,(aged>65vears,(TEE),,
+9,Severely underweight,30 kcaI/kg BW/d,Not specified,High risk of refeeding syndrome therefore
+10,polymorbid patients,(REE),,progress to target with caution

@@ -1,0 +1,34 @@
+,0,1,2
+0,,Time-Restricted Eating,Daily Calorie Restriction
+1,Variables,N=69),N=70
+2,Male sex-no.%,36 (52.2),35 (50.0)
+3,Age-yr,31.69.3,32.28.8
+4,Bodyweight-kg,88.410.2,87.912.8
+5,Body-mass index,31.82.9,31.32.6
+6,Body fat mass - kg,33.07.3,33.26.3
+7,Body lean mass -- kg,51.27.8,50.99.1
+8,Bodyfat%,38.35.5,38.45.3
+9,Waist circumference-cm,99.47.8,99.29.1
+10,Median(IQR)abdominal fat area-cm2,,
+11,Visceral,122.3 (97.2-159.7),124.9 (91.4-160.0)
+12,Subcutaneous,312.8 (264.5386.3),302.9 (248.0360.4)
+13,Blood pressure-mm Hg,,
+14,Systolic,125.312.0,124.812.2
+15,Diastolic,73.19.5,74.59.6
+16,Pulse-beats/min,78.611.7,79.1 10.3
+17,Glucose-mg/dl,90.911.0,92.117.1
+18,Glycated hemoglobin-%,5.30.4,5.40.8
+19,Median(IQRHOMA-IR index value,3.4 (2.45.1),3.3 (2.04.4)
+20,Cholesterol -mg/dl,,
+21,Total,194.532.9,198.037.8
+22,High-density lipoprotein,46.110.2,45.112.7
+23,Low-density lipoprotein,130.729.9,129.633.7
+24,Median(IQRtriglycerides-mg/dl,130.2 (86.8-173.7),137.3 (107.2-185.2)
+25,Dyslipidemia-no.(%),48 (69.6),53 (75.7)
+26,Hypertension -no. (%),11 (15.9),12 (17.1)
+27,Total caloric intake-kcal/day,2052.5341.7,2075.7391.5
+28,Daily eating window-hr:min,10:2301:25,10:2401:34
+29,Median (IQR) physical activity - METs per wk,12.0 (8.323.6),15.0 (8.023.1)
+30,SF-12 score,,
+31,Physical component summary,45.37.1,46.46.6
+32,Mental component summary,53.27.1,53.26.9

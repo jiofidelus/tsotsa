@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,Fixed effects,Estimates,CI,P,
+1,(Intercept),462.9,449.2 to 476.7,,
+2,DIM,0.039,-0.056 to-0.022,,<0.001
+3,"Primiparous, control space",(reference),,,
+4,"Primiparous, high space",13.05,6.44 to 32.53,,0.189
+5,"Multiparous, control space",16.08,-3.53 to 35.69,,0.108
+6,"Multiparous,high space",32.26,12.65 to 51.87,,0.001
+7,"DIM*Primiparous,high space",-0.10,-0.13to-0.08,,<0.001
+8,"DIM*Multiparous,control space",-0.18,-0.20 to-0.15,,<0.001
+9,"DIM*Multiparous,high space",0.17,-0.19 to-0.14,,<0.001

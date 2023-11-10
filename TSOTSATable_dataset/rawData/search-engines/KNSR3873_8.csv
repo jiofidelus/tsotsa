@@ -1,0 +1,26 @@
+,0,1,2,3
+0,Stage,Summary of,Type of scrutiny applied,Format
+1,,operations,,
+2,Data source,Collection of,Analogous to reviewing a,In form published: paper
+3,,sources,scientific paper; check on,or electronic record
+4,,containing,consistency of data;preliminary,
+5,,compositional,assessment of data quality,
+6,,data,,
+7,Archival record,Compilation of,Scrutiny of data source against,"Database format, plus"
+8,,information from formal criteria; refining,information from formal criteria; refining,records of sampling
+9,,data sources,assessments of data quality,protocols; analytical
+10,,,,methods;common
+11,,,,modes of expression
+12,,,,adopted
+13,Reference,Compilation of,Comparison of values from,"In database format,with"
+14,database,data from,different sources; re-scrutiny of,array of all acceptable
+15,,archival records,archival and data sources to,values for each food
+16,,for each food,assess inconsistencies;,item; records of
+17,,,calculation of statistical,statistical analyses;
+18,,,measures,formal assessments of
+19,,,,data quality
+20,User database,Selection and,Combination of values to give,In format required by
+21,,compilation of,one value for each nutrient per,database users
+22,,series of values,"food item; mean, or median, plus",
+23,,for each food,suitable measures of variability,
+24,,item in database,,

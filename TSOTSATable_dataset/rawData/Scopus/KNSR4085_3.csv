@@ -1,0 +1,9 @@
+,0,1,2,3
+0,Microbial Abundance,CK,OF,RSD
+1,Bacteria (log1o 16S rDNA copies g-1 soil),10.390.00c,10.510.03b,10.64  0.04 a
+2,Fungi (log10 ITS copies g-1 soil),8.160.14b,9.060.09 a,7.570.19 c
+3,Fungi/bacteria (%),0.610.20b,3.630.67 a,0.090.05c
+4,F. oxysporum (log1o ITS copies g-1 soil),6.670.26 b,7.24  0.11 a,4.330.11 c
+5,F. solani (log1o ITS copies g-1 soil),6.510.07b,7.110.12a,4.820.03 c
+6,F. oxysporum/fungi,4.022.88 a,1.540.23 ab,0.060.03b
+7,F. solani/fungi (%),2.38 1.15 a,1.130.35ab,0.190.08b

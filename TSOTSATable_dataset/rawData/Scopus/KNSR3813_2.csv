@@ -1,0 +1,28 @@
+,0,1,2,3,4,5
+0,,,Education-deprivation category as a marker of SEs,Education-deprivation category as a marker of SEs,,
+1,,,Third level and,Third level and Disadvantaged,Less than third leve,Less than third leve
+2,,,Advantaged,,and Advantaged,and Disadvantaged
+3,Food Responsiveness,B (95% CI),Ref,"0.240 (0.170,0.587)","0.251 (0.007,0.496)","0.095 (-0.273,0.463)"
+4,(FR),P-value,,0.175,0.044,0.689
+5,,Adj R2,,-0.001,,
+6,Emotional Overeating,B (95% CI),Ref,"0.059(-0.161,0.279)",-0.038 (-0.649.0.574,"-0.034(-0.267,0.200"
+7,(EOE),P-value,,0.597,0.833,0.776
+8,,Adj R2,,-0.018,,
+9,Enjoyment of Food,B (95% CI),Ref,"0.020 (-0.303,0.344)",-0.121(-0.3490.107),"-0.060 (-0.403,0.283)"
+10,(EF),P-value,,0.902,0.299,0.731
+11,,Adj R2,,-0.017,,
+12,Desire to Drink,B (95% CI),Ref,"0.210(-0.175,0.594)","0.297 (0.026,0.568","0.462(0.054,0.870)"
+13,(DD),P-value,,0.285,0.032,0.027
+14,,Adj R2,,0.021,,
+15,Satiety Responsiveness,B (95% CI),Ref,-0.231(-0.509.0.048,"0.076-0.121,0.272","0.075 (-0.220,0.371)"
+16,(SR),P-value,,0.104,0.448,0.617
+17,,Adj R2,,0.006,,
+18,Slowness Eating,B (95% CI),Ref,"-0.186-0.511,0.139)","0.138(-0.091,0.367)","0.388 (0.044,0.733)"
+19,(SE),P-value,,0.261,0.236,0.027
+20,,Adj R2,,0.018,,
+21,Emotional Undereating,B (95% CI),Ref,0.129(-0.234.0.491),"0.016 (0.272, 0.239)","0.091-0294,0.475"
+22,(EUE),P-value,,0.486,0.901,0.643
+23,,Adj R2,,0.001,,
+24,Food Fussiness,B (95% CI),Ref,"0.104 (-0.303,0.510)",-0.233-0.054.0.520,"0.405 (-0.836, 0.027)"
+25,(FF),P-value,,0.616,0.111,0.066
+26,,Adj R2,,0.043,,

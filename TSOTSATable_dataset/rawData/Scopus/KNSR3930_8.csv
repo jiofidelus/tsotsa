@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+0,,,,,Baseline,,,,4 weeks,,,,8 weeks,,,12 weeks,,
+1,,,Placebo,Placebo,Intervention,Intervention,,Placebo,Intervention,Intervention,,Placebo,Intervention,,Placebo,Intervention,Intervention,
+2,,Parameter,group,group,group,group,P value,group,group,group,P value,group,group,P value,group,group,group,P value
+3,,,(n=96,(n=96,n=98,n=98,P value,(n=96,(n=98,(n=98,P value,(n=95,(n=97),P value,(n= 95),(n=95,(n=95,P value
+4,,,Mean,SD,Mean,SD,,SD,Mean,SD,,SD,SD,,SD,Mean,SD,
+5,(mmHg),Systolic blood press ure,123.7,14.8,125.0,13.9,0.542,13.2,126.0,16.6,0.021*,14.1,15.7,0.011*,13.7,125.3,14.4,0.212
+6,(mmHg),Diastolic blood pressure,81.4,11.4,82.7,11.7,0.438,10.6,82.1,11.6,0.292,10.7,12.1,0.086,11.0,82.5,11.1,0.318
+7,Pulse rate (bpm),Pulse rate (bpm),72.8,9.8,73.9,9.0,0.407,9.2,74.3,10.2,0.528,9.9,10.0,0.691,9.9,74.1,9.5,0.429
+8,Body temperature (C),Body temperature (C),35.8,1.1,35.8,1.0,0.841,.0.3,36.2,0.3,0.777,0.2,0.2,0.388,0.2,36.3,0.2,0.902

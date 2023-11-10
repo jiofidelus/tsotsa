@@ -1,0 +1,34 @@
+,0,1,2,3
+0,,Abbreviation,Description,Description
+1,AA,AA,amino acid,amino acid
+2,av.,av.,average,average
+3,a,,analytical,analytical
+4,Ar,Ar,analytical and from reference data set,analytical and from reference data set
+5,aRF,aRF,apparent nutrient retention factor,apparent nutrient retention factor
+6,C.,C.,calculated,calculated
+7,DP,DP,decimal place,decimal place
+8,DW,DW,dry weight basis,dry weight basis
+9,EP,EP,edible portion on fresh weight basis,edible portion on fresh weight basis
+10,EPD,EPD,edible portion on dry matter basis,edible portion on dry matter basis
+11,e,e,estimated,estimated
+12,FA,FA,fatty acid,fatty acid
+13,FAO,FAO,,Food and Agriculture Organization of the United Nations
+14,FCDB,FCDB,food composition database,food composition database
+15,FCT,FCT,food composition table,food composition table
+16,FW,FW,fresh weight basis,fresh weight basis
+17,g,g,gram,
+18,INFOODS,INFOODS,International Network of Food Data Systems,International Network of Food Data Systems
+19,IP,IP,inositol phosphate,inositol phosphate
+20,IP6,IP6,inositol hexaphosphate,inositol hexaphosphate
+21,mg,mg,milligram,milligram
+22,N,N,nitrogen,nitrogen
+23,r,,from reference data set,from reference data set
+24,PA,PA,phytic acid,phytic acid
+25,RF,RF,nutrient retention factor,nutrient retention factor
+26,sig.,sig.,significant,significant
+27,tr,tr,trace,
+28,uPulses,uPulses,,FAO/INFOODS Global Food Composition Database for Pulses
+29,ug,ug,microgram,microgram
+30,YF,YF,weight yield factor,weight yield factor
+31,XFA,XFA,fatty acid conversion factor,fatty acid conversion factor
+32,Z,,estimated zero,estimated zero

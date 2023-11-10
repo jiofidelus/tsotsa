@@ -1,0 +1,27 @@
+,0,1,2,3,4
+0,Characteristics,Characteristics,of,,Total
+1,Mothers,,,,
+2,,"Age,y",,,29.73.5
+3,"Pregnant Weight gain, kg","Pregnant Weight gain, kg",,,"14.5(11, 18)"
+4,"BMI (kg/m2), pre-","BMI (kg/m2), pre-",,,
+5,,gestation,,,
+6,"BMI (kg/m2), pre-","BMI (kg/m2), pre-",,,
+7,,,,,"27.25 (24.89, 29.15"
+8,,delivery,,,
+9,,Primipara,,,109 (49.3%)
+10,,Multipara,,,112(50.7%)
+11,Vaginal birth,Vaginal birth,,,100(45.2%)
+12,Caesarean birth,Caesarean birth,,,121 (54.8%)
+13,,Education,,,
+14,,,,Junior high school and,
+15,,,,below,6(2.7%)
+16,,,,High school,33(14.9%)
+17,,,,Trade school or university,148 (67.0%)
+18,,,,Post-graduate and above,34 (15.4%)
+19,Newborns,Newborns,,,
+20,"Gestational age,weeks","Gestational age,weeks",,,"39 (38, 40)"
+21,"Birth weight, g","Birth weight, g",,,"3350 (3100, 3680)"
+22,"Birth length, cm","Birth length, cm",,,"50(49,50)"
+23,,Sex,,,
+24,,,,Male,114 (51.6%)
+25,,,,Female,107 (48.4%)

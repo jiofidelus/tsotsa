@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Parameter,Oxidative,Parameter,Oxidative,Parameter,Oxidative
+1,Parameter,Stability,Parameter,Stability,Parameter,Stability
+2,HYT,0.569,Pinoresinol,-0.444,C18:3,0.368
+3,TYR,0.565,Luteolin,0.435,C20:0,ns
+4,VAC,0.372,Apigenin,0.409,C20:1,ns
+5,VAN,0.303,TTC,0.310,C22:0,ns
+6,PCA,ns,-tocooherol,0.310,C24:0,0.274
+7,FER,0.252,-tocopherol,ns,SFA,ns
+8,DMOdA,0.805,C 16:0,ns,PUFA,-0.601
+9,OAgl-A,0.600,C16:1,ns,MUFA,0.632
+10,OA-dA,0.519,C18:0,ns,C 18:1/C 18:2,0.521
+11,DMLdA,0.534,C18:1,0.653,MUFA/SFA,0.428
+12,LAgl-A,0.580,C18:2,0.593,MUFA/PUFA,0.527

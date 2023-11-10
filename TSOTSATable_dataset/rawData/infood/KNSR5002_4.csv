@@ -1,0 +1,10 @@
+,0,1,2
+0,Abbreviation,Description,Description
+1,tr,Trace,
+2,,,Vitamin C and B-carotene are assigned tr if no published values are available
+3,,,See definition of tr for individual fatty acids below
+4,Blank,,"Wherever possible, missing values have been estimated from a similar food or"
+5,,,calculated based on various analytical data.However there remain blanks where no
+6,,,"validated data was found, data could not be borrowed and the value could not be"
+7,,,assumed to be zero.A zero value cannot automatically be assigned.
+8,,Data are considered of lower quality.,Data are considered of lower quality.

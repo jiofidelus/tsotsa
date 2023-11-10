@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Food,Code,Letter,Name,Energy,Energy,Protein,Fat,Carbo-,Fibre Phytate,Fibre Phytate,Water
+1,group,Code,code,Name,Energy,Energy,Protein,Fat,hydrate,,Fibre Phytate,Water
+2,,,,,kcal,kJ,g,g,g,9,g,g
+3,257,4616,XR,"Kucha, palm oil and dried fish (unspecified)",91,380,5.7,5.8,3.3,5.7,0.03,80
+4,257,4304,LR,"Kucha, palm oil and fresh fish (unspecified)",85,356,5.3,5.6,3.2,5.2,0.02,72
+5,,,,9.3 - Jambo Leaf Sauces (with groundnuts and chilli pepper),,,,,,,,
+6,252,4192,HJ,Jambo sauce,107,448,5.5,7.3,5.1,1.5,0.16,78
+7,252,4434,QR,Jambo and tulingo,117,490,6.5,7.4,6.3,2.8,0.20,75
+8,252,4052,BZ,Jambo and bitter tomato,84,353,4.4,5.5,4.6,1.5,0.14,81
+9,252,4510,TP,Jambo and pumpkin,67,280,3.3,4.0,4.3,1.3,0.10,86
+10,251,4435,QS,Jambo and dried challo,117,492,8.1,7.4,4.9,1.4,0.15,75
+11,251,4436,QT,Jambo and dried furo,116,488,8.2,7.2,4.9,1.4,0.15,75
+12,251,4437,QU,Jambo and dried kujalo,116,488,8.2,7.3,4.9,1.4,0.15,75
+13,251,4216,IH,Jambo and dried fish (unspecified),117,491,8.1,7.4,4.9,1.4,0.15,75
+14,251,4439,QW,Jambo and fresh challo,106,444,7.5,6.7,4.5,1.3,0.14,69
+15,251,4440,QX,Jambo and fresh furo,106,444,7.5,6.7,4.5,1.3,0.14,69
+16,251,4441,QY,Jambo and fresh kujalo,106,444,7.5,6.7,4.5,1.3,0.14,69
+17,251,4442,QZ,Jambo and fresh fish (unspecified),106,444,7.5,6.7,4.5,1.3,0.14,69
+18,251,4215,IG,Jambo and fish dajiwo,56,236,3.4,3.7,2.5,0.8,0.08,86
+19,251,4363,NY,Jambo and shellfish,104,435,7.0,6.6,4.5,1.3,0.14,78
+20,260,4526,UF,Jambo and meat,126,530,11.5,7.3,3.8,1.1,0.12,74
+21,260,4527,UG,Jambo and chicken,111,464,9.2,6.6,3.8,1.1,0.12,77
+22,259,4433,QQ,Jambo and palm oil,147,614,5.2,11.9,4.8,1.4,0.15,74
+23,251,4074,CV,"Jambo,palm oil and dried kujalo",156,654,7.9,11.9,4.6,1.4,0.14,71
+24,251,4525,UE,"Jambo,palm oil and fresh fish (unspecified)",146,610,7.3,11.3,4.2,1.2,0.13,65
+25,9.4 - Other Leaf Sauces,9.4 - Other Leaf Sauces,9.4 - Other Leaf Sauces,,,,,,,,,
+26,256,4142,FL,Nada kolikolo (no groundnuts),18,75,2.9,0.0,2.8,7.9,0.03,87
+27,257,4132,FB,Nada kolikolo (no groundnuts) and dried fish (unspecified),21,88,3.1,0.4,1.4,6.3,0.03,87
+28,252,4191,HI,Nada/naa durango (with groundnuts),101,423,6.1,7.3,3.7,7.9,0.15,75
+29,251,4184,HB,Naa durango (with groundnuts) and dried fish (unspecified),112,467,8.7,7.4,3.5,7.6,0.15,72
+30,256,4242,JH,Jambanduro sauce (no groundnuts) with chilli pepper,24,103,2.9,0.1,3.1,0.0,0.04,84
+31,256,4203,HU,Jambanduro sauce(no aroundnuts) and baobab seeds,67,283,5.6,3.1,5.0,0.3,0.03,77

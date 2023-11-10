@@ -1,0 +1,48 @@
+,0,1,2,3,4,5,6
+0,Specie/Common,,(only seeds),,,(cooking water+seeds),
+1,name,YF,(source) / description,Food,YF,(source)/description,Food
+2,,YF,(source) / description,Item ID,YF,(source)/description,Item ID
+3,Vigna aconitifolia(Jacq)Marechal,Vigna aconitifolia(Jacq)Marechal,,,,,
+4,,,,VAC003;,,"(2) from chickpea,",VAC004;
+5,Moth bean,2.20,"5)Moth bean,boiled",VAC005,3.50*,"soaked, drained",VAC006
+6,,,,VAC005,,boiled (water+seeds),VAC006
+7,Vigna unguiculata (L) Walp,Vigna unguiculata (L) Walp,,,,,
+8,,,,VUN005;,,"(1) cowpea,soaked",VUN006;
+9,Cowpea,2.67,"drained, boiled, drained",VUN009;,4.42,"drained, boiled",VUN010;
+10,,,,VUN011,,(water+seeds),VUN012
+11,Vigna subterranea (L) Verdc.,Vigna subterranea (L) Verdc.,,,,,
+12,Bambara groundnut 2.69*,Bambara groundnut 2.69*,YF for Vigna genus,VSU002,4.42*,YF for Vigna genus,VSU003
+13,Vicia faba L,,,,,,
+14,,,,VIF003;,,"(2) from adzuki bean,",VIF004;
+15,Broad bean,2.80,"6)broadbean,cooked",VIF005,4.60,"soaked, drained,",VIF006
+16,,,,VIF005,,boiled (water+seeds),VIF006
+17,Pisum sativum L,,,,,,
+18,"Pea,whole",2.70,"(4) peas, whole (soaked",PIS011,4.25*,"(2) from lentil, whole,",PIS012
+19,"Pea,whole",2.70,and boiled),PIS011,4.25*,boiled (water+seeds),PIS012
+20,,,"(2) from peas,whole",PIS013;,,"2) from lentil, whole",PISO14;
+21,"Pea, green, whole",2.70*,(soaked and boiled),PIS017;,4.25*,boiled (water+seeds),PIS018;
+22,,,(soaked and boiled),PIS021,,boiled (water+seeds),PIS022
+23,,,"(2) from peas, whole",PIS015;,,"(2) from lentil, whole,",PISO16;
+24,"Pea,yellow,whole",2.70*,(soaked and boiled),PIS019;,4.25,boiled (water+seeds),PISO20;
+25,,,(soaked and boiled),PIS23,,boiled (water+seeds),PIS024
+26,,,"(2) from pea, green,",,,"(2) from pea, green,",
+27,"Pea, split",2.33*,"split,boileddrained",PIS025,3.73*,"split, boiled",PIS026
+28,,,"split,boileddrained",,,(water+seeds),
+29,"Pea, green, split",2.33,"boiled, drained",PIS027,3.73,boiled (water+seeds),PIS028
+30,,,"(2) from pea, green,",,,"(2) from pea, green,",
+31,"Pea, yellow, split",2.33*,"split, boiled, drained",PIS029,3.73*,"split, boiled",PIS030
+32,,,"split, boiled, drained",,,(water+seeds),
+33,Cicer arietinum,,,,,,
+34,,,,CIA007;,,"(1) chickpea, soaked,",CIA008;
+35,Chickpea,2.25,"drained,boiled,drained",CIA015;,3.15,"drained, boiled",CIA016;
+36,,,"drained,boiled,drained",CIA017,,(water+seeds),CIA018
+37,,,"(2) from chickpea,",,,"(2) from chickpea,",
+38,"Chickpea, Kabuli",2.25*,"soaked, drained, boiled,",CIA009,3.15*,"soaked, drained,",CIA010
+39,,,drained,,,boiled (water+seeds),
+40,,,"(2) from chickpea,",,,"(2) from chickpea,",
+41,"Chickpea, Desi","2.25*soaked, drained, boiled,","2.25*soaked, drained, boiled,",CIA011,3.15*,"soaked, drained,",CIA012
+42,,,drained,,,boiled (water+seeds),
+43,Cajanus cajan (L) Huth,,,,,,
+44,,,"(1) pigeon pea, soaked,",CAC004;,,"(1) pigeon pea,",CAC005;
+45,Pigeon pea,2.30,"drained, boiled, drained",CAC006;,3.20,"soaked, drained",CAC007;
+46,,,"drained, boiled, drained",CAC008,,boiled (water+seeds),CAC009

@@ -1,0 +1,44 @@
+,0,1,2,3,4
+0,Application,Objectives,AI technique,Important outcomes,References
+1,Apple,To sort the defective and normal apples,"CNN,SVM",iThe developed CNN with the CVS model was,Fan et al. [232]
+2,,,,able to classify the apples with a high accuracy,
+3,,,,"rate of 96.5%, and it was proven to be more",
+4,,,,effective than the conventional image processing,
+5,,,,method which was combined with the SVM clas,
+6,,,,sifier where the accuracy rate was 87.1%,
+7,Apple slices,To study the drying effects on the changing color ofANN,,(i) CVS was able to track the color changes during,Nadian et al. [233]
+8,,the apple slices,,"the drying process, and the combination with the",
+9,,,,ANN was able to estimate the quality of the apple,
+10,,,,during the drying process,
+11,,,, ii) The developed model achieved R2 values of,
+12,,,,greater than 0.92 for all the analyses,
+13,Banana,To classify the banana according to its ripeness,"ANN, SVM,KNN,DT",i The ANN-based model system has a higher clas-,Mazen & Nashat [234]
+14,,,,sification rate compared to the other algorithms,
+15,,,,with the highest overall recognition rate of 97.75%,
+16,Barley flour,To predict the barley flour based on the improvised,"SVM,KNN,DT,RF",iThe developed model of CVS with different,Lopes et al. [235]
+17,,method,,learning algorithms was improvised by using the,
+18,,,,spatial pyramid partition ensemble method for,
+19,,,,the classification of the barley flour where the,
+20,,,,"accuracy achieved was 75% (KNN), 95% (SVM &",
+21,,,,"RF),and 100%(DT)",
+22,Beer,"To forecast the beer acceptability based on differentANN, ML","To forecast the beer acceptability based on differentANN, ML",(i) Seventeen ML algorithms were used to find the,Gonzalez Viejo et al. [236]
+23,,sensory parameters,,best model with a good performance was carried,
+24,,,,"out, and the results showed that Bayesian regu-",
+25,,,,larization had the best accuracy where the R value,
+26,,,,obtained was 0.92,
+27,,,,"(ii) The combination of RoboBEER, CVS, and",
+28,,,,ANN algorithms allowed to determine the beer,
+29,,,,making based on its acceptability of customers,
+30,,,,and its quality,
+31,Bell pepper,To describe the ripeness level of bell pepper auto-,"ANN,FL",(i) An artificial vision system was able to be devel-,Villasenor-Aguilar et al. [237]
+32,,matically,,oped by using the CVS and ANN/FL in predicting,
+33,,,,the maturity of the bell pepper,
+34,,,,(ii) The model using RBF-ANN has a higher clas-,
+35,,,,sification accuracy compared to FL where the,
+36,,,,maximum accuracy obtained by both models are,
+37,,,,"100% and 88%, respectively",
+38,Cape gooseberryTo classify the ripeness of cape gooseberry,Cape gooseberryTo classify the ripeness of cape gooseberry,"ANN, SVM, DT, KNN",(i All the models were able to classify the ripeness,Castro et al. [238]
+39,,,,of the cape gooseberry with a high accuracy,
+40,,,,where the accuracy obtained by all the models,
+41,,,,was greater than 86% using different color spaces.,
+42,,,,which indicates that it is a good classifier system,

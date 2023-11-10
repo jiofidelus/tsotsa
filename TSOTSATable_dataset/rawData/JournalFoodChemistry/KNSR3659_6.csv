@@ -1,0 +1,36 @@
+,0,1,2,3
+0,Biological activity,Units,MAE,Inhibitory
+1,,,,Control
+2,Antimicrobial activity,Zone inhibition,,
+3,,diameter,,
+4,Staphylococcus epidermidis (Gram,(mm),7.2 ,19.30.5
+5,+pathogenic,,1.1,
+6,Enterococcus faecalis(Gram+,(mm),6.3 ,22.01.5
+7,opportunistic),,0.8,
+8,"Escherichia coli (Gram -,",(mm),,20.2 1.2
+9,pathogenic),,,
+10,"Enterobacter hormaechei (Gram-,",(mm),,16.01.3
+11,opportunistic),,,
+12,Kluyveromyces marxianus (Yeast.,(mm),,
+13,spoilage),,,
+14,Galactomyces candidus (Mold,(mm),,9.4  0.9
+15,spoilage),,,
+16,Antioxidant activity,Total antioxidant,,
+17,,capacity (TAC),,
+18,ABTS,mmol Eq T/g DE,1.34,
+19,,,0.01,
+20,FRAP,mmol Eq Fe(II/g,2.66 ,
+21,,DE,0.13,
+22,ORAC,mmol EqT/g DE,3.02 ,
+23,,,0.05,
+24,Inhibition of enzymes,Remaining MMP,,
+25,implicated in extracellular,activity (C=100%,,
+26,matrix degradation b,,,
+27,MMP1(collagenase-1 or,(%),43.7,0.90.3
+28,fibroblastic collagenase),,3.8,
+29,MMP2 (gelatinase A),(%),14.6,0.60.1
+30,,,2.5,
+31,MMP3 (stromelysin-1),(%),59.6 ,0.50.3
+32,,,5.0,
+33,MMP7(matrilysine),(%),40.0,49.51.1
+34,,,1.5,

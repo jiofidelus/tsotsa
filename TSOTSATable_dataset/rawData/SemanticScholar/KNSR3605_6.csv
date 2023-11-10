@@ -1,0 +1,30 @@
+,0,1,2,3
+0,,Unit,,
+1,Food components and,for 100 g,,
+2,definition,of food),Type of method,Referencesi
+3,CHOLESTEROL,mg,GLC,"AOAC (1980),Adams (1986)"
+4,Sum of sterols of animal origin,,,Kovacs et al. (1979)
+5,,,Enzyme kit,"Kageyama1971enzymatic kit,"
+6,,,,Boehringer Mannheim)
+7,,,,Shen et al.(1982)
+8,SUGARS (SOLUBLE SUGARS),g,HPLC,"AOAC (1980), Southgate et al. (1978),"
+9,"Sum of monosaccharides (glucose,",,,Dean (1978)
+10,"galactose,fructose and",,,
+11,disaccharides (saccharose and,,,
+12,lactose) expressed as,,,
+13,monosaccharides,,,
+14,,,Specific enzymatic procedure,Boehringer enzyme kit (Egan et al..
+15,,,,"1981), Bergmeyer (1974)"
+16,,,Colorimetry,Southgate (1976)
+17,STARCH,,"Enzymatic hydrolysis,with","AOAC (1980),Dean (1978)"
+18,Expressed as monosaccharide,,spectophotometric measurement of glucose,
+19,,,Polarimetry,Egan et al.(1981)
+20,,,HPLC(after enzymatic hydrolysis),Willis et al.1980
+21,FIBRE,g,Gravimetric-enzymatic (total dietary fibre),"AOAC(1980),"
+22,"Sum of cellulose, hemicellulose",,,"Prosky et al.(1985,1988)"
+23,"pectin, gums and lignin",,,
+24,,,Acid hydrolysis after starch removal;,"Englyst and Cummings (1984,1988)"
+25,,,GLC measurement of monomers (total fibre as sum,Englyst et al.(1982)
+26,,,of non-starch polysaccharides),
+27,,,Colorimetry (total fibre as sum of non-available,Southgate (1969)
+28,,,carbohydrates),

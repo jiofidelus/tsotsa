@@ -1,0 +1,9 @@
+,0,1,2,3
+0,Mean Body Fat Loss (kg,1 Month (T1),3 Months (T3),6 Months(T6)
+1,Group A,3.24 (SD 0.92),6.29 (SD 2.80),8.16 (SD 4.20)
+2,Group B,1.10 (SD 0.99),2.68 (SD 1.85),2.06 (SD 1.73)
+3,Intervention group,2.18 (SD 1.43),4.59 (SD 3.01),5.11 (SD 4.46)
+4,(groups A and B),2.18 (SD 1.43),4.59 (SD 3.01),5.11 (SD 4.46)
+5,Group C,2.48 (SD 1.46),4.17 (SD 2.49),4.35 (SD 5.12)
+6,,0.586,0.707,0.711
+7,p,S 0.192,S 0.094, 0.129

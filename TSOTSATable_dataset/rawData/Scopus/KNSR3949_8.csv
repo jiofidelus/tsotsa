@@ -1,0 +1,31 @@
+,0,1,2,3,4
+0,Treatment,Shoot length (cm),Shoot diameter (mm),Total phenolic content (mg gallic Antioxidant activ-,Total phenolic content (mg gallic Antioxidant activ-
+1,,,,acid.100 g- FW),ity (mg Ascorbic acid
+2,,,,,Eq.100 g~
+3,Season,,,,
+4,2015onyear,8.700.14a,6.030.05 d,41.911.1 b,23.701.0 b
+5,2016offyear,7.650.16 c,6.930.08 a,45.811.5 a,33.951.1 a
+6,"2017 on"" year",8.460.10 ab,6.290.11 c,42.261.3 b,25.010.9 b
+7,2018 offyear,8.250.11 b,6.640.09 b,43.781.5 ab,32.260.9 a
+8,F.test,**,**,**,**
+9,I- PGRs,,,,
+10,Ctrl,7.98+0.11b,6.090.07 c,39.501.6b,26.091.0 b
+11,NO,8.290.13 a,6.600.06 a,41.11+1.2b,28.131.2 ab
+12,EBR,8.280.18 a,6.610.10 a,44.831.3 a,29.931.1 a
+13,Spm,8.130.12ab,6.390.06b,45.851.5 a,29.230.8 a
+14,F.test,ns,**,**,
+15,II-Supplemental nutri-,,,,
+16,tion program,,,,
+17,SFNO,7.84+0.12b,6.140.04 b,40.861.2 b,27.401.2 b
+18,SFN1,8.690.15a,6.790.06 a,46.021.0 a,30.061.1 a
+19,F.test,**,**,**,**
+20,Interaction,,,,
+21,Ctrl.SFN0,8.130.14c,5.880.03 e,35.831.3d,24.400.9 d
+22,NO.SFNO,7.550.12 e,6.230.07 d,42.501.3 bc,29.081.3bc
+23,EBR.SFNO,7.880.17d,6.180.06 d,41.951.2 c,28.351.0 c
+24,Spm.SFN0,7.830.11 de,6.300.06 d,43.181.4b,27.780.9 c
+25,Ctrl.SFN1,9.000.13 a,6.980.07 a,39.731.6 c,27.181.2 c
+26,NO.SFN1,8.680.10 b,7.030.11a,47.701.5 a,31.501.0 a
+27,EBR.SFN1,8.430.16b,6.480.04 c,48.531.2 a,30.681.1 ab
+28,Spm.SFN1,8.650.12b,6.700.05b,48.131.3 a,30.900.8 ab
+29,F.test,**,**,**,**

@@ -1,0 +1,31 @@
+,0,1,2,3,4,5
+0,,,"metric like a ""session"" is defined (e.g., timeout after idle time) [1] (report",,,
+1,,,under item 6a).,,under item 6a).,
+2,,,No EHEALTH-specific additions here,"17b For binary outcomes,",No EHEALTH-specific additions here,
+3,,,presentation of both absolute and,presentation of both absolute and,,
+4,,,relative effect sizes is,relative effect sizes is,,
+5,,,recommended,recommended,,
+6,Ancillary,18,i) A subgroup analysis of comparing only users is not uncommon in,Results of any other analyses,,Highly
+7,analyses,,"ehealth trials, but if done it must be stressed that this is a self-selected","performed, including subgroup",,Recommended
+8,,,sample and no longer an unbiased sample from a randomized trial (see,"analyses and adjusted analyses,",,
+9,,,distinguishing pre-specified from,distinguishing pre-specified from,16-iii).,
+10,,,exploratory,exploratory,,
+11,Harms,19,"All important harms or unintended i) Include privacy breaches, technical problems. This does not only",,,Highly
+12,,,"include physical ""harm"" to participants, but also incidents such as",effects in each group (for specific,,Recommended
+13,,,"perceived or real privacy breaches [1], technical problems, and other",guidance see CONSORT for harms),,
+14,,,"unexpected/unintended incidents. ""Unintended effects"" also includes",,,
+15,,,unintended positive effects [2].,,unintended positive effects [2].,
+16,,,ii)Include qualitative feedback from participants or observations from,,,Highly
+17,,,"staff/researchers, if available,on strengths and shortcomings of the",,,Recommended
+18,,,"application, especially if they point to unintended/unexpected effects or",,,
+19,,,uses. This includes (if available) reasons for why people did or did not,,,
+20,,,use the application as intended by the developers.,,use the application as intended by the developers.,
+21,Interpretation/,22,i) Restate study questions and summarize the answers suggested by,Interpretation consistent with,,Essential
+22,Principal,,"the data [2], starting with primary outcomes and process outcomes","results, balancing benefits and",,
+23,Findings,,"harms, and considering other","harms, and considering other",(use).,
+24,,,relevant evidence,relevant evidence,,
+25,,,"NPT: In addition, take into","NPT: In addition, take into",,
+26,,,account the choice of the,account the choice of the,,
+27,,,"blinding, and unequal expertise of",,,Recommended
+28,,,care providers or centers in each,care providers or centers in each,,
+29,,,,group,,

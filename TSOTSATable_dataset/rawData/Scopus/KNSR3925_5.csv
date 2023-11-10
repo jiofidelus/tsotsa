@@ -1,0 +1,42 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Mouse lines,,Discovery,Expression control,Serum GH,Serum IGF1Size/,Serum IGF1Size/,Body com-,Insulin,Reproduc-,Cancer,Lifespan,Original
+1,,,(year/lab/,,,,weight,position,sensitivity, tive capac-,inci-,,references
+2,,,first),,,,,,,ity,dence,,
+3,Global,IGF1,1988,Mt1+human IGFI,,T, weight,n/a,n/a,,n/a,n/a,[257]
+4,,,Palmiter,cDNA,,,,,,,,,
+5,,,(Mathews),,,,,,,,,,
+6,,IGF2+/-,1990,NeoR replacing,n/a,n/a,+,n/a,n/a,,n/a,n/a,[259]
+7,,,Robertson,exon 2 of Igf2,,,,,,,,,
+8,,,(DeChiara),,,,,,,,,,
+9,,IGF1-/-,1993 Efstra-,deleting exon 4 of,n/a,,,n/a,n/a,n/a,n/a,neonatal,[260]
+10,,,tiadis (Liu),Igf1,,,,,,,,lethal-,
+11,,,,,,,,,,,,ity;,
+12,,IGF1R-/-,1993 Efstra-,deleting exon 3 of,n/a,n/a,,n/a,n/a,n/a,n/a,complete,[260]
+13,,,tiadis (Liu),Igflr,,,,,,,,neonatal,
+14,,,,,,,,,,,,lethality,
+15,Liver,TTR-IGF-1,2006 Xu,transthyretin,+,1,1, lean, glucose,,,n/a,[263]
+16,,,(Liao),,,,,,tolerance,,,,
+17,,HIT,2009,transthyretin,,1,"1;L,K,S",fat,,,n/a,n/a,[265]
+18,,,LeRoith,,,,,,,,,,
+19,,,(Wu),,,,,,,,,,
+20,,KO-HIT,2009,transthyre-,,1,at birth; --,fat,,-3:1,n/a,No prenatal [265],No prenatal [265]
+21,,,LeRoith,tin+IGF1 null,,,at 16 wk,,,,,lethailty,
+22,,,(Wu),,,,,,,,,,
+23,,GHRKO-HIT,2013 Yakar,transthyretin,n/a,-,";K,S,H",+ muscle;,,n/a,n/a,n/a,[267]
+24,,,(Wu),,,,,brown,,,,,
+25,,,,,,,,AT,,,,,
+26,,LID,1999,albumin/Cre,1,,,,,-,,1,[268]
+27,,,LeRoith,,,,,,,,,,
+28,,,(Yakar),,,,,,,,,,
+29,,LI-IGF1-/-,1999 Ohls-,Mx/Cre induced,1,,"; K,L", femur,,-,n/a, mean,[270]
+30,,,son,at~1mo,,,at 3mo; ,length at 3,,,,lifespan ,
+31,,,(Sjogren),,,,wight at,mo; fat,,,,,
+32,,,,,,,13 mo,at 13 mo,,,,,
+33,Adipose,IGF-1R aP2Cre,2008 Bluher,aP2/Cre,,1,1, fat,,n/a,n/a,n/a,[273]
+34,,,(Kloting),,,,,,,,,,
+35,,F-IGFRKO,2016 Kahn,Adipo/Cre,n/a,1,-,fat,-,n/a,n/a,n/a,[277]
+36,,,(Boucher),,,,,,,,,,
+37,Brain,bIGF1RKO+/-,2008,nestin/Cre,+,+,+,fat,,infertile,+, mean,[278]
+38,,,Holzen-,,,,,,,(-1-),,lifespan,
+39,,,berger,,,,,,,,,+/-;-,
+40,,,(Kappeler),,,,,,,,,(-1-),

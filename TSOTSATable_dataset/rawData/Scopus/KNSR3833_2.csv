@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,,Residence,Residence,,,
+1,,,,"Urban,","Urban,","Rural,","Rural,",Total,Total
+2,,,,n340,n340,n334,n334,674,674
+3,Variable,Categories,Categories,n,%,n,%,N,%
+4,Sex of the child,Male,Male,181,53.2,179,53.6,360,53.4
+5,,Female,Female,159,46.8,155,46.4,314,46.6
+6,Age category of,6-11,6-11,210,61.8,155,46.4,365,54.2
+7,the child in,12-17,12-17,96,28.2,112,33.5,208,30.9
+8,months,18-23,18-23,34,10.0,67,20.1,101,15.0
+9,Birth order of,First,First,206,60.6,134,40.1,340,50.4
+10,the child,Second to,Second to,132,38.8,183,54.8,315,46.7
+11,,fifth,fifth,,,,,,
+12,,Sixth and,Sixth and,2,0.6,17,5.1,19,2.8
+13,,,above,,,,,,
+14,Child lives with,Mother only,Mother only,64,18.8,69,20.7,133,19.7
+15,,Both mother,Both mother,263,77.4,257,76.9,520,77.2
+16,,,and father,,,,,,
+17,,Caregiver,Caregiver,13,3.8,8,2.4,21,3.1
+18,Ever had ANC,Yes,Yes,312,91.8,307,91.9,619,91.8
+19,visit for,No,,28,8.2,27,8.1,55,8.2
+20,current child,,,,,,,,
+21,IYCF practice,Yes,Yes,175,51.5,188,56.3,363,53.9
+22,advice,No,No,165,48.5,146,43.7,311,46.1
+23,during ANC,,,,,,,,
+24,visit,,,,,,,,
+25,Ever had PNC,Yes,Yes,232,68.2,276,82.6,508,75.4
+26,visit for,No,,108,31.8,58,17.4,166,24.6
+27,current child,,,,,,,,
+28,IYCF practice,Yes,Yes,51,15.0,95,28.4,146,21.7
+29,advice,No,No,289,85.0,239,71.6,528,78.3
+30,during PNC,,,,,,,,
+31,visit,,,,,,,,

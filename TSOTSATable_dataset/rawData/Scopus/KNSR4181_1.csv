@@ -1,0 +1,42 @@
+,0,1,2,3,4
+0,,Incidence of resistant individuals,,,
+1,,,,,Population
+2,Populationa,Glyphosate,Dicamba,Fluroxypyr,descriptionc
+3,,,%,,
+4,Susceptible-1,0,0,0,Lab preserved
+5,,,,,ALSR control
+6,Susceptible-2,0,0,,Lab preserved
+7,,,,,ALSR control
+8,Susceptible-3,82,0,,Lab preserved GR
+9,,,,,control
+10,Susceptible-4,,0,,Cereal field --
+11,,,,,survey sample
+12,Resistantb,,38,33,Initial report of
+13,,,,,DR/FR kochia from
+14,,,,,SK wheat fieldb
+15,Acadia,92,80,,Cereal field -
+16,,,,,survey sample
+17,Cypress-1,80,85,,Chemical fallow
+18,,,,,field - survey
+19,,,,,sample
+20,Cypress-2,25,20,,Pea field - survey
+21,,,,,sample
+22,Lethbridge-1,0,70,2,Roadside ditch 
+23,,,,,survey sample
+24,Lethbridge-2,13,35,5,ns - survey
+25,,,,,sample
+26,Lethbridge-3,,30,41,Cereal field --
+27,,,,,survey sample
+28,Lethbridge-4,,20,23,Cereal field --
+29,,,,,survey sample
+30,Rocky View,0,0,45,Cereal field -
+31,,,,,grower-submitted
+32,,,,,sample
+33,Taber,3,75,,Roadside ditch -
+34,,,,,survey sample
+35,Vulcan,90,50,13,ns - survey
+36,,,,,sample
+37,Warner-1,0,80,0,Cereal field --
+38,,,,,survey sample
+39,Warner-2,100,30,0,Canola field --
+40,,,,,survey sample

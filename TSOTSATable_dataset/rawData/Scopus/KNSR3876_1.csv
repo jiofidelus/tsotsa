@@ -1,0 +1,26 @@
+,0,1,2,3
+0,,n=143,n=149),p-Value
+1,"Age (mean/SD),y",70.7 (9.1),70.4 (8.5),0.83
+2,Marital Status,,,
+3,Married/Common Law,102 (71%),115 (77%),
+4,Single/Divorced/Widowed,42 (29%),34 (23%),0.22
+5,Language,,,
+6,English,127 (92%),140 (94%),
+7,Other,11 (8%),9 (6%),0.52
+8,Employment,,,
+9,"Employed (full,part,self)",42 (29%),53 (35%),
+10,Retired,94 (65%),92 (62%),
+11,"Disability-leave, unemployed",8 (6%),4 (3%),0.28
+12,Education,,,
+13,High school,58 (41%),39 (26%),
+14,College/University,57 (40%),71 (48%),
+15,Post-graduate/Professional,27 (19%),39 (26%),0.03
+16,Treatment received a,,,
+17,Hormone therapy,143 (100%),149 (100%),
+18,Surgery,53 (39%),61 (41%),0.69
+19,Radiotherapy,75 (55%),93 (62%),0.19
+20,Chemotherapy,2 (2%),5 (3%),0.30
+21,Fracture Risk,,,
+22,Fracture after age 50 b,15 (11%),13 (9%),0.62
+23,Fall in last 12 months,31 (22%),21 (14%),0.05
+24,Taken oral steroid medication,11 (8%),20 (14%),0.09

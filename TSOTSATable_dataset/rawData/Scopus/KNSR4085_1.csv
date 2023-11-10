@@ -1,0 +1,19 @@
+,0,1,2
+0,Soil Properties,PS-Soil,OA-Soil
+1,pH,5.111.30 a,5.300.41 a
+2,EC (S cm-1),476.6  202.3 a,51.0229.07b
+3,NH4*-N (mg kg1),13.0011.89 a,2.670.47b
+4,NO3-N (mg kg-1),148.7  85.33 a,5.616.50b
+5,TOC (g kg1),34.41  4.83 a,36.62  6.90 a
+6,AK (mg kg-1),410.7 103.10 a,132.040.37b
+7,AP (mg kg-1),85.14  32.49 a,15.497.42b
+8,Moisture (%),19.88 2.77 b,27.32  2.52 a
+9,Bacterial abundance (log1o 16S rDNA copies g-1soil),9.510.23 b,9.74  0.09 a
+10,Fungal abundance (log1o ITS copies g-1 soil),8.34  0.21 a,7.840.35b
+11,F. oxysporum abundance (log1o ITS copies g-1 soil),6.96  0.28 a,5.660.68b
+12,F.solani abundance (log1o ITS copies g-1 soil),7.24  0.48 a,5.190.92b
+13,R. solanacearum abundance (log1o flic copies g-1 soil),5.780.31 a,5.970.17 a
+14,Fungi/bacteria(%),8.95 6.37 a,1.571.23b
+15,R.solanacearum/bacteria(%),0.020.01 a,0.020.01 a
+16,F. oxysporum/fungi (%),4.88  2.66 a,1.331.40b
+17,F. solani/fungi (%),18.7230.47 a,0.770.82 a

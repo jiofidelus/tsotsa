@@ -1,0 +1,20 @@
+,0,1,2,3,4,5
+0,Tissue,UniProt ID,Gene,Protein Name,FC,p-Value *
+1,AORTA,A0A0G2K1S6,Mel,Malic enzyme,1.670,0.0022
+2,,P43278,H1f0,Histone H1.0,1.259,0.0110
+3,,P11980,Pkm,Pyruvate kinase PKM,1.268,0.0128
+4,,P52873,Pc,"Pyruvate carboxylase,mitochondrial",1.538,0.0140
+5,,Q9EQS0,Taldo1,Transaldolase,1.293,0.0187
+6,,MORBF1,C3,Complement C3,2.158,<0.0001
+7,,G3V7K3,Cp,Ceruloplasmin,2.244,<0.0001
+8,,G3V7N9,C1qb,Complement C1q subcomponent subunit B,2.554,0.0004
+9,,P12346,Tf,Serotransferrin,2.387,0.0007
+10,,A0A0H2UHI5,Serpina3n,Ab1-233,2.793,0.0013
+11,,Q63514,C4bpa,C4b-binding protein alpha chain,2.706,0.0017
+12,,Q62930,C9,Complement component C9,3.006,0.0022
+13,,A0A0G2K896,RGD1310507,Similar to RIKEN cDNA 1300017J02,1.780,0.0038
+14,,BOBNN4,Cfp,Complement factor properdin,1.701,0.0087
+15,,G3V615,Cfb,Complement factor B,2.912,0.0094
+16,,A0A0H2UHM3,Hp,Haptoglobin,2.912,0.0152
+17,,D3ZTE0,F12,Coagulation factor XII,1.323,0.0158
+18,,P20059,Hpx,Hemopexin,1.925,0.0167

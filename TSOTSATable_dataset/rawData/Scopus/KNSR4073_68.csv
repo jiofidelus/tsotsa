@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,,"Species,",Dose,LD50,,
+1,Compound,gender,route,weight),,Reference
+2,SnCI2,"Rat, M",p.o,700,over 21 days,"Pfaff et al,1980"
+3,SnCI2,"Rat,M",p.o,>1500,16 days,
+4,"SnCI,","Rat,F",p.o,>1500,16 days,"NTP,1982"
+5,"SnCI,","Mouse,M,F",p.o,<600,16 days,
+6,complex,"Mouse,M",p.o,2700,Unknown,"Omori et al,1973"
+7,SnF2,"Rat,M",p.o,188.2,"Fasted,24h",
+8,SnF2,,,,,"Lim et al,1978"
+9,SnF2,"Mouse,M",p.o,128.4,"Fasted,24h",
+10,NaSnFs,"Mouse,M",p.o.,592.9,24h,
+11,NaSnF;,"Rat, F",p.o,218.7,"Fasted,24h",
+12,NaSnF;,,,,,"Conine et al,1975"
+13,NaSnFs,"Rat,M",p.o,573.1,24h,
+14,NaSnFs,"Rat,M",p.o,223.1,"Fasted,24h",

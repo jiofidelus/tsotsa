@@ -1,0 +1,42 @@
+,0,1,2,3,4
+0,Food ID,,English name and description,,Scientific name
+1,c,"Legumes, nuts, seeds and products (continued)","Legumes, nuts, seeds and products (continued)",,
+2,AAC41,"Mungbean, seed,red, dried, raw","Mungbean, seed,red, dried, raw",Phaseolus angularis,Phaseolus angularis
+3,AAC58,"Mungbean, seed, split, dry, dehulled, raw (Golden gram)","Mungbean, seed, split, dry, dehulled, raw (Golden gram)",Phaseolus aureus,Phaseolus aureus
+4,AAC62,"Pea, seed, dried, raw",,Pisum sativum,Pisum sativum
+5,AAC63,"Peanut/Groundnut, seed, w/ skin, dried, raw","Peanut/Groundnut, seed, w/ skin, dried, raw",Arachis hypogaea,Arachis hypogaea
+6,AAC122,"Pumpkin, seed, w/o shell","Pumpkin, seed, w/o shell",Cucurbita moschata/Cucurbita pepo,Cucurbita moschata/Cucurbita pepo
+7,AAC121,"Pumpkin, seed, w/o shell, roasted","Pumpkin, seed, w/o shell, roasted",Cucurbita moschata / Cucurbita pepo,Cucurbita moschata / Cucurbita pepo
+8,AAC123,"Pumpkin, seed, w/o shell, baked, salted","Pumpkin, seed, w/o shell, baked, salted",Cucurbita moschata/Cucurbita pepo,Cucurbita moschata/Cucurbita pepo
+9,AAC71,"Rice bean, seed, dried, raw","Rice bean, seed, dried, raw",Phaseolus calcaratus,Phaseolus calcaratus
+10,AAC72,"Rice bean, seed, red, dried, raw","Rice bean, seed, red, dried, raw",Phaseolus calcaratus,Phaseolus calcaratus
+11,AAC73,"Sesame, seed, black, dried, raw","Sesame, seed, black, dried, raw",Sesamum indicum,Sesamum indicum
+12,AAC74,"Sesame, seed,white,dried,raw","Sesame, seed,white,dried,raw",Sesamum indicum,Sesamum indicum
+13,AAC101,"Soya bean, seed, fresh, raw","Soya bean, seed, fresh, raw","Glycine max, Glycine soja","Glycine max, Glycine soja"
+14,AAC85,"Soybean, seed, black, dried, raw","Soybean, seed, black, dried, raw",Glycine max/G.soja/G.hispida,Glycine max/G.soja/G.hispida
+15,AAC87,"Soybean, seed, yellow, dried, raw","Soybean, seed, yellow, dried, raw",Glycine max/G. soja/G. hispida,Glycine max/G. soja/G. hispida
+16,AAC99,"Soybean,young seed, boiled","Soybean,young seed, boiled",Glycine max,
+17,AAC130,"Sugar pea, baked",,Pisum sativum,
+18,AAC103,"Tamarind, seed, roasted","Tamarind, seed, roasted",Tamarindus indica,Tamarindus indica
+19,AAC108,"Winged bean, seed, dry, raw","Winged bean, seed, dry, raw",Psophocarpus tetragonolobus,Psophocarpus tetragonolobus
+20,D,Vegetables and products,Vegetables and products,,
+21,AAD36,"Acacia pennata (Cha-om), leaf","Acacia pennata (Cha-om), leaf",Acacia pennata,Acacia pennata
+22,AAD152,Amaranth,,Amaranthus tricolor,Amaranthus tricolor
+23,AAD2,"Amaranth, spineless, fresh, raw","Amaranth, spineless, fresh, raw",Amaranthus tricolor,Amaranthus tricolor
+24,AAD3,"Asparagus,canned",,Asparagus officinalis,Asparagus officinalis
+25,AAD4,"Asparagus,fresh, raw",,Asparagus officinalis,Asparagus officinalis
+26,AAD6,"Bamboo shoot, canned",,Bambusa sp.,
+27,AAD9,"Bamboo shoot, in water, canned, drained","Bamboo shoot, in water, canned, drained",Bambusa sp.,
+28,AAD8,"Bamboo shoot, spring variety, fresh, raw","Bamboo shoot, spring variety, fresh, raw",Bambusa sp.,
+29,AAD10,"Banana, flower and bud, raw","Banana, flower and bud, raw",Musa sp,
+30,AAD13,"Banana, shoot and young stem, raw","Banana, shoot and young stem, raw",Musa sapientum,Musa sapientum
+31,AAD15,"Bean,mixed variety, pod, fresh, raw","Bean,mixed variety, pod, fresh, raw",Phaseolus vulgaris,Phaseolus vulgaris
+32,AAD136,"Beetroot,raw",,Beta vulgaris,
+33,AAD19,"Bell pepper,green, capsicum, fresh, raw","Bell pepper,green, capsicum, fresh, raw",Capsicum annuum,Capsicum annuum
+34,AAD22,"Broccoli,raw",,Brassica oleracea,Brassica oleracea
+35,AAD23,"Cabbage, Chinese, raw","Cabbage, Chinese, raw",Brassica spp,
+36,AAD24,"Cabbage, Chinese, salted","Cabbage, Chinese, salted",Brassica spp,
+37,AAD25,"Cabbage,Chinese,wongbok,raw","Cabbage,Chinese,wongbok,raw",Brassica chinensis,Brassica chinensis
+38,AAD134,"Cabbage, Chinese/ Flowering white cabbage, flower","Cabbage, Chinese/ Flowering white cabbage, flower","Brassica napus, var chinensis","Brassica napus, var chinensis"
+39,AAD56,"Cabbage, Chinese/ Flowering white cabbage, raw","Cabbage, Chinese/ Flowering white cabbage, raw","Brassica napus, var chinensis","Brassica napus, var chinensis"
+40,AAD26,"Cabbage, common, leaf, raw","Cabbage, common, leaf, raw",Brassica oleracea,Brassica oleracea

@@ -1,0 +1,50 @@
+,0,1,2,3,4
+0,,,Specific,Biblioib,Update
+1,,(including mass,gravity,,Version
+2,,and bulk density),,,2.0
+3,"Salt, sodium chloride",2.165,,TB,
+4,"Salt, fine table",1.38,,ASI,X
+5,"Salt, granulated",1.28,,ASI,x
+6,"Salt, table",1.217,,S&W,
+7,"Sauce, soy",1.12,,FNDDS 4.1,
+8,Sodium bicarbonate,2.2,,TB,
+9,Vitamin additive,0.66,,ASI,X
+10,Vitamin compound,0.67,,ASI,x
+11,Vitamin enrichment,0.64,,ASI,x
+12,Vitamin mix,0.7,,ASI,x
+13,Vitamin powder,0.56,,ASI,x
+14,Yeast,0.95,,ASI,x
+15,Soups,,,,
+16,Bean soup,1.054,,S&W,
+17, Cheddar cheese soup,1.046,,S&W,
+18,Chicken noodle soup,1,,S&W,
+19,Egg drop soup,1.017,,S&W,
+20,Mushroom soup,1.017,,S&W,
+21,"Soup,meat",1.04,,KEN,
+22,"Soup, mixed",1.05,,KEN,x
+23,"Soup, thick (squash, potato)",1.09,,RC,
+24,"Soup,vegetable",0.99,,KEN,
+25,Tomato soup,1.017,,S&W,
+26,Mixed dishes,,,,
+27,Beef and noodles (no sauce),0.65,,S&W,
+28,Beef and noodles in gravy (mixture),1.04,,S&W,
+29,"Beef stew, canned",1.05,,S&W,
+30,"Beef, noodles and vegetables (no sauce)",0.68,,S&W,
+31,Broccoli casserole,0.95,,S&W,
+32,Cheese tortellini,1.03,,S&W,
+33,Chicken and dumplings (mixture),1.04,,S&W,
+34,Eggplant parmesan,0.83,,S&W,
+35,Githeri (muthugo + beans) + meat,0.95,,KEN,x
+36,Githeri (muthugo + beans) + meat + vegetable +,0.99,,KEN,
+37,potato/banana,,,,
+38,"Githeri (muthugo + beans) + onion, boiled with fat",0.98,,KEN,x
+39,Githeri (muthugo + beans) + potato/banana,0.88,,KEN,x
+40,Githeri (muthugo + beans) + vegetable,1.04,,KEN,X
+41,Githeri (muthugo + beans) + vegetable + meat,0.94,,KEN,x
+42,Githeri + meat,0.75,,KEN,x
+43,Githeri + meat + vegetable + potato/banana,1.05,,KEN,
+44,"Githeri + onion, boiled with fat",0.83,,KEN,x
+45,Githeri + peas,1.04,,KEN,x
+46,Githeri + potato/banana,1.10,,KEN,X
+47,Githeri + roots + vegetable,1.13,,KEN,X
+48,Githeri + vegetable,1.30,,KEN,x

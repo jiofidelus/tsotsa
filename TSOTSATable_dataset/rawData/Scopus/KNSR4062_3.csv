@@ -1,0 +1,15 @@
+,0,1,2,3
+0,Production from specified food group (% of farms producing the group),Mean annual consumption score,Mean annual consumption score,Mean annual consumption score
+1,,,(SD),
+2,,Producing,Not producing,Not producing
+3,"Grains,white roots and tubers6.2%",0.97 (0.08),,0.97 (0.08)
+4,Pulses (2.1%),0.88(0.14,,0.76 (0.23)
+5,Nuts and seeds6.9%,0.06(0.14),,0.04 (0.12)
+6,Dairy (19.7%),0.67 (0.29),,0.53 (0.35)**
+7,Meat and poultry81.4%,0.79 (0.26),,0.80 (0.26)
+8,Eggs(31.7%),0.30 (0.29),,0.34 (0.28)
+9,Dark green leafy vegetables0.7%,0.38(0.18,,0.53(0.28)
+10,Vitamin A-rich fruits and vegetables (3.8%),0.84(0.20),,0.84 (0.20)
+11,Other vegetables (11.4%),0.95 (0.10),,0.95 (0.12)
+12,Other fruits (0.7%),0.88(0.18),,0.61(0.30
+13,Olive oil (53.5%),0.92 (0.14),,0.88 (0.20)*

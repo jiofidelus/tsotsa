@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7
+0,Type,Light,Imaging,Application,Wavelength Spectral,Wavelength Spectral,Time Band,Suitable
+1,,,,,ranges,resolution costs numbers,resolution costs numbers,for industry
+2,Whiskbroom sun light,Whiskbroom sun light,point scan,satellite remote,wide,high,long hyperspectral No,long hyperspectral No
+3,,,imaging,military use,,,,
+4,,,,marine research.,,,,
+5,"Pushbroomsun light,xenon lamp, halogen lamp","Pushbroomsun light,xenon lamp, halogen lamp",,"drug,food,",wide,high,longhyperspectral No,longhyperspectral No
+6,,,,agriculture,,,,
+7,,,"line scan,",forestry,,,,
+8,,,imaging,remote sensing,,,,
+9,,,,marine research,,,,
+10,,,,pharmaceutical.,,,,
+11,Staring,"xenon lamp, halogen lamp",imaging via,drug and food,wide,high,long hyperspectral No,long hyperspectral No
+12,,,spectral,forensic image,,,,
+13,,,spectral,industry image,,,,
+14,,,dimension,seed breeding.,,,,
+15,Snapshot,"xenon lamp,halogen lamp",,drug and food,wide,low,short multispectral yes,short multispectral yes
+16,,,,"medical image,",,,,
+17,,,,"forensic image,",,,,
+18,,,,"industry image,",,,,
+19,,,fast imaging,"agriculture,",,,,
+20,,,,forestry detection,,,,
+21,,,,archaeological,,,,
+22,,,,AI education,,,,
+23,,,,pharmaceutical.,,,,

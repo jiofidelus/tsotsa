@@ -1,0 +1,43 @@
+,0,1,2
+0,AGNAME,DESCRIPTIUN,UNTT
+1,F14D0I,Fatty acid 14:0 iso,g
+2,F15D0,Fatty acid 15:0,g
+3,F15D0I,Fatty acid 15:0 iso,g
+4,F16D0,Fatty acid 16:0,g
+5,F16D0I,Fatty acid 16:0 iso,g
+6,F16D0AI,Fatty acid 16:0 anteiso,g
+7,F17D0,Fatty acid 17:0,g
+8,F17D0I,Fatty acid 17:0 iso,g
+9,F17D0AI,Fatty acid 17:0 anteiso,g
+10,F18D0,Fatty acid 18:0,g
+11,F19D0,Fatty acid 19:0,g
+12,F20D0,Fatty acid 20:0,g
+13,F21D0,Fatty acid 21:0,g
+14,F22D0,Fatty acid 22:0,g
+15,F23D0,Fatty acid 23:0,g
+16,F24D0,Fatty acid 24:0,g
+17,F26D0,Fatty acid 26:0,g
+18,F12D1,Fatty acid 12:1,g
+19,F14D1N9,Fatty acid 14:1 n-9,g
+20,F14D1N7,Fatty acid 14:1 n-7,g
+21,F14D1N5,Fatty acid 14:1 n-5,g
+22,F14D1N3,Fatty acid 14:1 n-3,g
+23,F14D1C,Fatty acid 14:1 cis,g
+24,F14D1T,Fatty acid 14:1 trans,g
+25,F14D1,Fatty acid 14:1,g
+26,F15D1N9,Fatty acid 15:1 n-9,g
+27,F15D1N7,Fatty acid 15:1 n-7,g
+28,F15D1C,Fatty acid 15:1 cis,g
+29,F15D1,Fatty acid 15:1,g
+30,F16D1N11,Fatty acid 16:1n-11,g
+31,F16D1N9,Fatty acid 16:1 n-9,g
+32,F16D1CN9,Fatty acid 16:1 cis n-9,g
+33,F16D1TN7,Fatty acid 16:1 trans n-7,g
+34,F16D1N7,Fatty acid 16:1 n-7,g
+35,F16D1T,Fatty acid 16:1 trans,g
+36,F16D1C,Fatty acid 16:1 cis,g
+37,F16D1,Fatty acid 16:1,g
+38,F17D1N9,Fatty acid 17:1 n-9,g
+39,F17D1N8,Fatty acid 17:1 n-8,g
+40,F17D1N7,Fatty acid 17:1 n-7,g
+41,F17D1N5,Fattv.acid 17:1 n-5,a

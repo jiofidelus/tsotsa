@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6
+0,,Quartile 1,Quartile 2,Quartile 3,Quartile 4,Healthier beverages,
+1,,(minimum to - 1),(0 to 0),1 to 1,(2 to maximum),1,
+2,Beverages,,,,,,
+3,Artificially sweetened beverages,0.2,99.8,0,0,100,
+4,Non-sugared beverages,1.6,98.3,0.1,0,99.9,2
+5,Sweetened beverages,1.7,10.9,14.9,72.5,12.6,2
+6,Fruit juices,98.2,0.4,0,1.4,98.6,2
+7,Fruit nectars,9.5,34.7,17.8,38.1,44.2,

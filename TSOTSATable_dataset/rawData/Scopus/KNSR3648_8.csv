@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,,Physical Measure,Unit,Minimum,Maximum
+1,Systolic blood pressure(SBP),Systolic blood pressure(SBP),mmHg,40,300
+2,Diastolic blood pressure(DBP),Diastolic blood pressure(DBP),mmHg,30,200
+3,Height,,cm,100,270
+4,Weight,,kg,20,350
+5,BMI(Body Mass Index,BMI(Body Mass Index,kg/m2,11,75
+6,Waist circumference,Waist circumference,cm,30,200
+7,Hip circumference,Hip circumference,cm,45,300
+8,Heart rate,,beats/minute,30,200

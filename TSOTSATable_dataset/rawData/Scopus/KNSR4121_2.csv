@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Mechanism,LAB Species/Strain,Source,Agent/Action,References
+1,,,,Intracellular pH acidification,
+2,Organic acids,Lactococcus lactis LM0230,Calabrian cheeses,for unfavorable,"[103,104]"
+3,production,"Lp. plantarum, La. sakei",Calabrian cheeses,microenvironment for,"[103,104]"
+4,,,,non-acidophiles,
+5,,,,Anaerobic environment,
+6,CO2,Heterofermentative LAB,Foods,enzyme decarboxylationcel,[103]
+7,,,,membrane disruption,
+8,,,,Inactivation of essential,
+9,,,,biomolecules by superoxide,
+10,H2O2,Heterofermentative LAB,Foods,anion chain reaction;,"[105,106]"
+11,,,,activation of the,
+12,,,,lactoperoxidase system,
+13,Diacetyl,"Lactobacillus sp.,",Foods,Affects the,[105-107]
+14,Diacetyl,"CC 8081, Streptococcus sp.",Foods,arginine-binding proteins,[105-107]
+15,,"P.acidilactici,Ent.faecium","Drinks, Foods,","Bacteriocin synthesis: nisin,",
+16,Bacteriocins production,"La. sakei,Li. reuteri INIA","Meats, Salads,","pediocin PA-1, enterocin A,","[89,105,108]"
+17,,"P572, Leu. gelidum UAL 187",Antimicrobial packaging,rhamnocin 519,
+18,,Lc.rhamnosus CJNU 0519,,rhamnocin 519,
+19,Nutrients competition,"Carnobacterium piscicola,",Ready-to-eat,Quick uptake of nutrients by,"[89,109,110]"
+20,Nutrients competition,Lactococcus piscium,meat products,LAB;bacteriocin synthesis,"[89,109,110]"
+21,,,,Prevent the attachment on,
+22,Niche competition,"Li. reuteri, Li. fermentum, Lc.","Foods,",colonization and saturation,"[111,112]"
+23,,rhamnosus GC mutant,probiotics,of Lis. monocytogenes,
+24,,,,attachment receptor,
+25,,,,Competition for adhesion,
+26,,"Li. reuteri, Li. fermentum,",,receptors expressed on host,
+27,monocytogenes virulence,"lactis,Leu. mesenteroides",epithelial cells (Caco-2,downregulation of virulence,[113-115]
+28,,La. sakei,,"gens (prfA, plcA, plcB, hly,",
+29,,,,"actA,inlA,inlB,iap,luxS)",
+30,Protection of,"Lc. casei, Li. reuteri,",,MUC2 and TFF3,
+31,from L. monocytogenes,"Lc. rhamnosus,",Human,integrity conservation; serum,"[89,116]"
+32,Invasion,Str. thermophilus,,cholesterol decrease,
+33,,"Lc. casei, L. salivarius",,Reduction of the,
+34,Host immune,"Lc. casei, L. salivarius",Human,pro-inflammatory cytokines,"[89,117]"
+35,response modulation,"Lc.rhamnosus,Lev.brevis",Human,(IL-8) and anti-inflammatory,"[89,117]"
+36,,Str.thermophilus,,cytokines(IL-10) increase,
+37,Vaccine vector,Lactococcus lactis,Human,listerial antigens,[118]

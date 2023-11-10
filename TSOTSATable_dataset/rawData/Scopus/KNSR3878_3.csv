@@ -1,0 +1,31 @@
+,0,1,2,3
+0,Module,Measure/variable,Measure/variable,Questionnaire/instrument
+1,Demographic,Age(months)sex(male/female).mother's age(vears).mother's,,Questionnaire
+2,,"ethnicity(categorical),mother's religion(categorical)","ethnicity(categorical),mother's religion(categorical)",
+3,Socioeconomic,"1.Mother's education(categorical),mother's occupation(categorical),1.Questionnaire",,"1.Mother's education(categorical),mother's occupation(categorical),1.Questionnaire"
+4,,mother's marital status(categorical),mother's marital status(categorical),2.Questionnaire
+5,,2.Number of people in the household(continuous,2.Number of people in the household(continuous,3.Questionnaire
+6,,"3.Type of housingroof,wall,ground),access to and type of water",,4.Questionnaire
+7,,"sourcecategorical),access to and type of toilet and electricitycat",,
+8,,"egorical),availability of 14 household assetsyes/no,availability of 9",,
+9,,animals(yes/no),animals(yes/no),
+10,,4.Main source and amount of income (categorical and continuous,,
+11,,main type and amount of household expenditures(categorical and,,
+12,,continuous),continuous),
+13,Diet,"1.Breastfeedingstarting age,ending age)","1.Breastfeedingstarting age,ending age)",1.Questionnaire
+14,,2.Complementary feeding (starting age),2.Complementary feeding (starting age),2.Questionnaire
+15,,3.Usual food intake,3.Usual food intake,3.African-specific Food Propensity Questionnaire(AFPQ
+16,Nutritional status,"1.Anthropometry[length/heightcm,weight(kg),mid-upper arm",,1.Measuring board SECA417;stadiometerSECA213
+17,,circumference(cm)],circumference(cm)],weighing scale SECA 878
+18,,2.Food insecurity,2.Food insecurity,2.Household Food Insecurity Access ScaleHFIAS)
+19,,3.Hemoglobin concentration(Hb),3.Hemoglobin concentration(Hb),"Household Hunger ScaleHHS[34,35]"
+20,,4.Functional status of iron and zinc,4.Functional status of iron and zinc,"3.HemoCue Hb201+HemoCue,Germany"
+21,,,,4.Hand-held spectrometerZell-Check2019
+22,Malaria,1.Body temperatureC,1.Body temperatureC,1.Axillary measurement
+23,,2.Self-reported history of fever in the past 48hyes/no,2.Self-reported history of fever in the past 48hyes/no,2.Questionnaire
+24,,3. Self-reported symptoms of malaria in the past 48 h (yes/no),3. Self-reported symptoms of malaria in the past 48 h (yes/no),3.Questionnaire
+25,,4.Malaria parasitesyes/no)parasite count/uL),4.Malaria parasitesyes/no)parasite count/uL),4.Thick blood film and microscopy
+26,,Process monitoring1. Inputs to home gardens and nutrition counseling,,1.Assets and activity tracking cards
+27,,2.Outputs from home gardens,2.Outputs from home gardens,2.Garden diary
+28,,3. Knowledge gain from home garden training and nutrition coun-,,3.Qualitative interview quides
+29,,,seling,

@@ -1,0 +1,8 @@
+,0,1,2,3
+0,Treatment,,Percentage of Inhibition (%),
+1,,WT,AaHog1,AaHog1-c
+2,PDA,,40.31  0.02 A,0.20  0.05 B
+3,1 mol L-1 NaCl,41.35 0.1 B,87.25  0.02 A,44.21  0.03 B
+4,1 mol-1 Sorbitol,32.08  0.06 C,66.76  0.01 A,28.42  0.06 B
+5,10 mol-1 Congo red,49.32  0.08 B,64.75  0.03 A,51.47  0.07 B
+6,1 mol-1 SDS,36.33  0.06 B,51.55  0.03 A,38.19  0.06 B

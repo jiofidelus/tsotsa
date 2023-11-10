@@ -1,0 +1,30 @@
+,0,1,2,3,4,5
+0,Tissue,UniProt ID,Gene,Protein Name,FC,p-Value *
+1,HEART,F1LN42,Tns1,Tensin 1,1.273,0.0083
+2,,Q3V5X8,Endog,Endonuclease G,1.376,0.0120
+3,,P24268,Ctsd,Cathepsin D O,1.131,0.0168
+4,,A0A0G2K2T1,Txlnb,Taxilin beta,1.239,0.0186
+5,,Q62930,C9,Complement component C9,2.267,<0.0001
+6,,Q63798,Psme2,Proteasome activator complex subunit 2,1.997,<0.0001
+7,,Q6MG34,RT1-CE10,"RT1 class I,CE10",2.250,<0.0001
+8,,A0A0H2UHM3,Hp,Haptoglobin,2.728,0.0006
+9,,P02764,Orm1,Alpha-1-acid glycoprotein,3.506,0.0007
+10,,G3V7K3,Cp,Ceruloplasmin,2.038,0.0016
+11,,Q6P9V7,Psme1,activator subunit 1,2.216,0.0043
+12,,P12346,Tf,Serotransferrin,1.928,0.0043
+13,,P97532,Mpst,3-mercaptopyruvate sulfurtransferase,1.205,0.0047
+14,,P08010,Gstm2,Glutathione S-transferase Mu 2,1.326,0.0047
+15,,P20059,Hpx,Hemopexin,1.891,0.0064
+16,,P01048,Map1,T-kininogen 1,2.852,0.0092
+17,,P09605,Ckmt2,"Creatine kinase S-type, mitochondrial",1.418,0.0116
+18,,D3ZKU6,Gbp1,Uncharacterized protein,1.603,0.0123
+19,,P16296,F9,Coagulation factor IX,1.183,0.0129
+20,,P07943,Akr1b1,Aldose reductase,-1.244,0.0134
+21,,P27605,Hprt1,phosphoribosyltransferase,-1.446,0.0137
+22,,Q68FS4,Lap3,Cytosol aminopeptidase,-1.443,0.0151
+23,,Q62651,Ech1,"isomerase, mitochondrial",1.305,0.0152
+24,,MORBJ7,C3,Complement C3,-1.563,0.0153
+25,,A0A0H2UHI5,Serpina3n,Ab1-233,1.809,0.0161
+26,,Q07936,Anxa2,Annexin A2,1.182,0.0176
+27,,A0A0G2JY31,Serpinal,Alpha-1-antiproteinase,1.273,0.0188
+28,,Q9QZ76,Mb,Myoglobin,1.512,0.0199

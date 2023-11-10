@@ -1,0 +1,34 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,Component,Latin,Argentina Bolivia,Argentina Bolivia,Caribbean,Central,Chile,Colombia Cuba,Colombia Cuba,Dominican,Ecuador El,Ecuador El,Mexico,Peru,Uruguay Venezuela,Uruguay Venezuela
+1,,America,,,,America,,,,Republic,,Salvador,,,,
+2,Proximate,,,,,,,,,,,,,,,
+3,composition,yes,yes*,yes,yes*,yes,yes,yes,yes*,yes,yes,yes,yes,yes,yes,yes
+4,Energy,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+5,Calcium,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-,yes,yes,yes,yes
+6,Iron,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,yes,yes,yes
+7,Phosphorus,yes,yes,yes,,yes,yes,yes,yes,,yes,yes*,,yes,-,yes
+8,Sodium,,yes,yes,yes,,yes,-,-,,,,,yes*,,yes*
+9,Potassium,,yes,yes,yes,,yes,,-,-,-,-,,yes*,,yes
+10,Zinc,,,,yes,-,yes,,-,-,,-,,yes,,
+11,Trace,,,,,,,,,,,,,,,
+12,elements,,yes,-,,,yes,,-,,,,,yes,,
+13,Carotene,,yes,-,-,,-,,,,yes,,,yes,,
+14,Vitamin A,yes,yes,yes,yes,yes,yes,yes,yes,yes,,-,yes,no,,yes
+15,Vitamin B.,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,yes,,yes
+16,Vitamin B2,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,yes,,yes
+17,Niacin,yes,yes,yes,yes,yes,yes,yes,-,yes,yes,,yes,yes,,yes
+18,Folic acid,-,,,yes,-,-,,-,,-,,,no,,
+19,Vitamin B2,,,,yes,-,-,,-,,,-,,no,,
+20,Vitamin B6,-,,,,,-,=,,-,,,,no,,
+21,Vitamin C,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes*,yes,yes,,yes
+22,Fatty acid,,,,yes,,yes,,-,,,-,,yes,,
+23,Amino acids,,,,essential,,yes,,,,,,yes,some,,
+24,Cholesterol,-,yes,-,yes,-,-,-,,,-,,,no,,
+25,Cellulose,,yes,-,,,-,-,-,,-,,,no,yes,
+26,Oxalic acid,,some,-,-,-,-,-,-,,-,-,,no,,
+27,Purinas and,,,,,,,,,,,,,,,
+28,uric acid,,some,-,-,,,-,,,,,,no,,
+29,Fluoride,-,,-,,-,yes,-,-,-,-,-,,yes,,
+30,IICN,-,-,-,-,,yes*,-,,-,-,-,,,,
+31,Observation,,*No ash,,*No ash,,*Beans,,*No ash,,,*Fruits and,,*Special,,*Special
+32,,,,,,,,,,,,vegetables,,table,,table

@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,IOM [57],,,WHO/FAO [59],,,"EFSA [6,58]",,
+1,Age,,DRV,,Age,DRV,Age,,DRV,
+2,0-6 months,,AI: 0.27,,,,0-6 months,,AI: 0.30,
+3,,EAR a,,PRI,,PRI b,,EAR b,,PRI b
+4,7-11 months,6.9,,11,7-11 months,9.3,7-11 months,8,,11
+5,1-3 years,3,,7,1-3 years,5.8,16 years,5,,7
+6,48 years,4.1,,10, 46 years,6.3,,,,
+7,,,,,7-10 years,8.9,,,,
+8,9-13 years,5.9,,,,,7-11 years,8,,11
+9,Boys,5.7,,8,,,,,,
+10,Girls,5.7,,8,11-14 years,,,,,
+11,,,,,Boys,14.6,,,,
+12,,,,,Girls,"14c, 32.7",12-17 years,,,
+13,14-18 years,,,,15-17 years,,Boys,8,,11
+14,Boys,7.7,,11,Boys,18.8,Girls,7,,13
+15,Girls,7.9,,15,Girls,31,,,,
+16,,,,,18 years,,18 years,,,
+17,,,,,Boys,13.7,Boys,6,,11
+18,,,,,Girls,29.4,Girls,7,,16

@@ -1,0 +1,49 @@
+,0,1,2,3,4,5,6,7
+0,,Country,As standard (ug/,Year ofGDP/Capita (2019),Year ofGDP/Capita (2019),WB Income Class(2019),Regulatory,Regulation
+1,,,L),publication[20],,[31],Link,typea
+2,Africa,,,,,,,
+3,Algeria [32],,10,2011,"$3,974",LM,,Law/Decree
+4,Angola [33],,50,2011,"$2,791",LM,,Law/Decree
+5,Benin [34],,50,2001,"$1,219",LM,,Law/Decree
+6,Botswana [35-37]b,Botswana [35-37]b,10,2009,"$7,961",UM,,Standards Org.
+7,Burkina Faso [38],Burkina Faso [38],10,2005,$787,Low,WHO1996,Law/Decree
+8,"Burundi [39, 40]","Burundi [39, 40]",10,2000,$261,Low,EAS:2000,Standards Org.
+9,"Cameroon [18, 41]","Cameroon [18, 41]",10,2007,"$1,507",LM,WHO,Gov.Org.
+10,Cape Verde [42],Cape Verde [42],10,2004,"$3,604",LM,,Law/Decree
+11,"Central African Republic [18, 43]","Central African Republic [18, 43]",10,2017,$468,Low,WHO,Law/Decree
+12,Chad [44],,10,2010,$710,Low,,Law/Decree
+13,Comoros [45],,50,1994,"$1,370",LM,WHO,Law/Decree
+14,Congo,,NA,,"$2,280",LM,,
+15,Democratic Republic of the Congo,Democratic Republic of the Congo,NA,,$581,Low,,
+16,Djibouti [46],,50,2001,"$3,415",LM,,Law/Decree
+17,"Egypt [47, 48]",,10,2007,"$3,019",LM,,Gov.Org.
+18,Equatorial Guinea,Equatorial Guinea,NA,,"$8,132",UM,,
+19,Eritrea,,NA,,NA,Low,,
+20,Ethiopia [49],,10,2013,$856,Low,,Standards Org.
+21,Gabon [50],,50,2011,"$7,767",UM,,Gov.Org.
+22,Ghana [51-53],,10,2017,"$2,202",LM,,Standards Org.
+23,Guinea [54],,10,1997,$963,Low,,Law/Decree
+24,Guinea-Bissau,,NA,,$697,Low,,
+25,"Ivory Coast [18, 55]","Ivory Coast [18, 55]",10,2017,"$2,276",LM,WHO,Law/Decree
+26,Kenya [56-58],,10,2018,"$1,817",LM,,Standards Org.
+27,Lesotho [59],,NA,,"$1,118",LM,,
+28,"Liberia [18, 60]",,10,2017,$622,Low,WHO,Gov.Org.
+29,Libya [61-63],,10,2015,"$7,686",UM,,Standards Org.
+30,Madagascar [64],Madagascar [64],50,2004,$523,Low,,Law/Decree
+31,Malawi [65-67],,50,2013,$412,Low,,Standards Org.
+32,Mali [68],,10,2007,$879,Low,,Gov. Org.
+33,Mauritania [69],Mauritania [69],10,2015,"$1,679",LM,WHO,Gov.Org.
+34,Mauritius [70],,10,1996,"$11,099",High,,Law/Decree
+35,Morocco [71-73],Morocco [71-73],10,2006,"$3,282",LM,,Standards Org.
+36,Mozambique [74],Mozambique [74],10,2004,$504,Low,,Law/Decree
+37,"Namibia [75, 76]","Namibia [75, 76]",300,1988,"$4,957",UM,,Law/Decree
+38,"Niger [18,77]",,10,2017,$554,Low,WHO,Law/Decree
+39,Nigeria [78],,10,2015,"$2,230",LM,,Standards Org.
+40,"Rwanda [79, 80]",,10,2014,$820,Low,,Standards Org.
+41,Sao Tome and Principe [81],Sao Tome and Principe [81],NA,,"$1,947",LM,,
+42,"Senegal [18, 82]",,10,1996,"$1,447",LM,,Gov.Org.
+43,Seychelles [83],,10,2012,"$17,448",High,,Law/Decree
+44,Sierra Leone [84],Sierra Leone [84],NA,,$528,Low,,
+45,Somalia,,NA,,NA,Low,,
+46,"South Africa [85, 86]","South Africa [85, 86]",10,2015,"$6,001",UM,,Law/Decree
+47,South Sudan [87],South Sudan [87],50,2011,,Low,,Gov.Org.

@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7
+0,,CESNID,Universidad Complutense,Universidad,Universidad,Universidad,Hospital Puerta,Instituto de la
+1,,,de Madrid,de Cordoba,de Murcia,de Barcelona,de Hierro,Grasa de Sevilla
+2,Sources of data,,,,,,,
+3,Food composition tables,75%,95%,0%,0%,0%,0%,0%
+4,Food companies,6%,0%,0%,0%,0%,0%,0%
+5,Scientific articles,18%,0%,0%,0%,0%,0%,0%
+6,Other sources (e.g.own labs),1%,5%,100%,100%,100%,100%,100%
+7,Value types,,,,,,,
+8,(a) Analytical,31%,15%,100%,90%,90%,100%,100%
+9,(bEstimated or calculated,23%,85%,0%,10%,10%,0%,0%
+10,(c) Unknown origin,46%,0%,0%,0%,0%,0%,0%
+11,Management of the FCDM,,,,,,,
+12,Spreadsheets(e.g.Excel),-,Yes,Yes,-,Yes,Yes,Yes
+13,"DBMSe.g.Access,Oracle,etc.",,-,Yes,-,-,Yes,-
+14,Software designed for this purpose,Yes,Yes,-,-,-,Yes,1
+15,Otherse.g.paper),,Yes,Yes,-,-,,-

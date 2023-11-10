@@ -1,0 +1,31 @@
+,0,1,2,3,4,5
+0,Study,Year,Country of Data,Objectives,Methods,Main results
+1,,,,To divide lamb meat into groups,Agglomerative hierarchical,Two main clusters were found in the lamb meat data.
+2,Akbay et al. [15],2000,United States of America,"nutrients, to offer healthier dietary",cluster analysis with average,"subfamilies based on fatty acids,cholesterol,and"
+3,,,,replacements.,linkage,energy composition.
+4,,,,To determine subgroupings within the,K-means clustering with,Six subgroups within the 'cereals' category were found
+5,Atsa'am et al. [16],2021,West Africa,'cereals' category of foods.,Euclidean distance,which separated the grains by type and preparation
+6,,,,'cereals' category of foods.,Euclidean distance,method.
+7,Balakrishna et al.,2021,South Africa,patterns and compositionally similar,"Spearman's rank correlation,","Eight nutrient patterns were obtained,which mirrored"
+8,[17],,,food groupings.,principal component analysis,the South African food-based dietary guidelines.
+9,,,,To detect unlikely nutrient values,Ranking coefficients of variation,"Compared to manual assessment, error detection"
+10,Chu et al. [18],2009,Taiwan,(errors) in a food composition,for each nutrient by food,increased 38-fold with the computerised process.
+11,,,,database.,subgroup and detecting outliers,increased 38-fold with the computerised process.
+12,,,,To determine possible changes in,,"Of the 13 nutrients analysed for 43 food items, 6"
+13,Davis et al. [19],2004,United States of America,nutrient composition for garden crops,Wilcoxon signed-rank test,exhibited statistically significant declines from 1950 to
+14,,,,between 1950 and 1990.,,1990. Declines ranged from 6% to 38%.
+15,,,"Italy, United Kingdom,",,,
+16,,,"Slovenia, Belgium,",borrowing when imputing missing,Non-negative matrix,"databases, the proposed methodology produced"
+17,Ispirova et al. [20],2019,"Denmark, Netherlands,",nutrient values from other food,"factorization, null hypothesis",smaller absolute errors more often than regular
+18,,,"United States of America,", composition databases.,testing,borrowing methods.
+19,,,Canada,,,
+20,,,"Italy, United Kingdom,",,Non-negative matrix,Imputation methods using statistical prediction
+21,,,"Switzerland, Sweden,",,"factorization, multiple",performed better than traditional approaches of fill-in
+22,,,"Slovenia, Belgium,",To evaluate imputation methods for,imputations by chained,"with the mean and fill-in with the median. Overall, the"
+23,Ispirova et al. [21],2020,"Denmark,The",missing data in food composition,"equations, nonparametric","with the mean and fill-in with the median. Overall, the"
+24,,,Netherlands United,databases., missing value imputation using,technique performed the best by yielding the smallest
+25,,,"States of America, Canada",,"random forest, k-nearest",technique performed the best by yielding the smallest
+26,,,"States of America, Canada",,neighbour,
+27,,,,To identify thresholds that would rank,,"No optimum ranking scheme was recommended, but"
+28,Khan [22],1996,Australia,"food items according to a low, medium,",Measures of central tendency,guidelines were provided. Three different criteria were
+29,,,,or high nutrient content.,,deemed suitable in line with the proposed guidelines.

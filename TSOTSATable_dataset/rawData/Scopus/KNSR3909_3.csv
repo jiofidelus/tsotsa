@@ -1,0 +1,23 @@
+,0,1,2,3
+0,SVI theme/Date,Predicted instantaneous velocity(dP/dt,Predicted instantaneous velocity(dP/dt,Predicted instantaneous velocity(dP/dt
+1,,Low,Moderate,High
+2,Overall SVI,,,
+3,January 1,0.098,0.093,0.093
+4,March 1,0.523,0.457,0.394
+5,May 1,0.264,0.245,0.273
+6,Theme 1,,,
+7,January1,0.098,0.089,0.088
+8,March 1,0.555,0.451,0.376
+9,May 1,0.287,0.272,0.228
+10,Theme 2,,,
+11,January 1,0.097,0.093,0.092
+12,March 1,0.572,0.452,0.361
+13,May 1,0.316,0.247,0.228
+14,Theme 3,,,
+15,January 1,0.095,0.094,0.094
+16,March 1,0.376,0.506,0.476
+17,May1,0.166,0.258,0.355
+18,Theme 4,,,
+19,January 1,0.094,0.091,0.091
+20,March 1,0.426,0.470,0.476
+21,May 1,0.206,0.253,0.319

@@ -1,0 +1,76 @@
+,0,1,2,3,4,5
+0,Non-covalent,WP,PPs,Effect on the WP/PPs,Characterization methods,References
+1,interaction,,,,,
+2,mechanisms,,,,,
+3,Hydrogen bonding,BSA,Blueberry anthocyanins (malvidin-3.,The structural stabilization of,"Fluorescence spectroscopy (FS),",Lang et al.2019
+4,and electrostatic,,o-galactoside),protein increased;BSA could protect,"circular dichroism (CD),",
+5,interactions,,,blueberry anthocyanins against,ultraviolet-visible spectroscopy,
+6,,,,degradation and retain their,(UVS) and molecular docking,
+7,,,,antioxidant activity under three,(MD,
+8,,,,deteriorating treatments:,,
+9,,,,"illumination, vitamin C +",,
+10,,,,illuminationand sucrose,,
+11,,,,illumination.,,
+12,Hydrogen bonding,BSA-Lg,Trans- and cis -resveratrol,Resveratrol had no significant effect,"FS,CD,and MD",Cheng et al.2018
+13,and hydrophobic,and -La,,on the secondary structure of three,,
+14,interactions,,,proteins; The light stability of,,
+15,,,,"resveratrols reduced, but the total",,
+16,,,,oxidation resistance improved.,,
+17,"Hydrogen bonding,",-Lg,"Chlorogenic acid (CGA), ferulic acid",The secondary structure of -Lg was,"FS, UVS, CD, FTIR and MD",Jia et al.2017)
+18,van der Waals,,(FA) and epigallocatechin-3-gallate,induced -helix to -structures,,
+19,forces and,,(EGCG),transition by three polyphenols;,,
+20,hydrophobic,,,The FA binding with -Lg might,,
+21,interactions,,,"promote protein aggregation, while",,
+22,,,,the CGA/EGCG binding with -Lg,,
+23,,,,might destroy the originally,,
+24,,,,hydrophobic structure of the,,
+25,,,,protein.,,
+26,Hydrophobic,-Lg,Nobiletin/ pelargonidin/gallic acid,The partial secondary structure of,"FS, CD,DLS,FTIR,isothermal",Dan et al.2019;
+27,interactions,,"(GA), protocatechuic acid, 3,4-dihy-",protein unfolded; The surface,titration calorimetry (ITC and,Arroyo-Maya et al
+28,,,"droxybenzoic acid(DA),syringic acid",hydrophobicity of protein increased;,MD,2016;Li et al.
+29,,,"(SA) caffeic acid (CaA), FA and CGA/",The solubility of Nobiletin enhanced,,2020;Xu et al.
+30,,,"Theaflavins (TA), CGA, Delphinidin-3-",to 3 times by forming complex with,,2019
+31,,,O-glucoside (D3G,-Lg; Pelargonidin binding does not,,
+32,,,,affect protein secondary structure;,,
+33,,,,Binding of phenolic acids lead to,,
+34,,,,partial structural destabilization and,,
+35,,,,surface hydrophobicity reduction of,,
+36,,,,-Lg; The interactions between -Lg,,
+37,,,,and TA/CGA/D3G could induced an,,
+38,,,,increase of -helix contents and,,
+39,,,,"decrease of -sheet contents,and",,
+40,,,,observably reduce the IgE-binding,,
+41,,,,capacity of -Lg.,,
+42,"Hydrogen bonding,","-La,-Lg",Rosmarinic acid,The initial antioxidant capacity of,"Mini spectrophotometer,zeta",Ferraro et al.2015
+43,van der Waals,and,,rosmarinic acid was reduced by,"particle size analyzer, DLS, FTIR",
+44,forces and,lactoferrin,,"proteins, and complexes were more",and DSC,
+45,hydrophobic,,,stable than protein.,,
+46,interactions,,,,,
+47,Hydrogen bonding,B-Lg,Naringenin,The formation of complexes,"FS, UVS, DLS, and optical",Shpigelman et al.
+48,,,,between -Lg and naringenin,microscope,(2014
+49,,,,enabled solubilization and,,
+50,,,,prevented crystallization of the,,
+51,,,,flavonoid up to 3 times its solubility,,
+52,,,,limit.,,
+53,Hydrogen bonding,-La,EGCG,Binding of EGCG results in -helix to,"FS,CD,FTIR,ITC,and MD",Al-Hanish et al.
+54,and van der Waals,,,-sheet transition in -La structure;,,2016)
+55,forces,,,EGCG binding impairs -La uptake,,
+56,,,,by monocytes.,,
+57,"Hydrogen bonding,",-Lg,"Anthraquinones (Rhein, emodin,",The binding of all these,"FS,FTIR,CD and MD",Hu et al.2019
+58,hydrophobic,,chrysophanol),anthraquinones induced an -helix,,
+59,"interactions, and",,,to -sheet structure transition of,,
+60,electrostatic,,,-Lg; The solubility of,,
+61,interactions,,,anthraquinones in aqueous solution,,
+62,,,,was increased and the antioxidative,,
+63,,,,capacity was decreased by,,
+64,,,,complexation with -Lg.,,
+65,Hydrophilic and,-Lg,"Resveratrol, genistein,and curcumin",Alteration of the protein,"FS,FTIR,CD and MD",Kanakis et al.
+66,hydrophobic,,,conformation was observed in the,,(2012
+67,interactions,,,presence of polyphenol with a major,,
+68,,,,reduction of -sheet and an increase,,
+69,,,,in turn structure.,,
+70,"Hydrogen bonding,",-Lg,Cyanidin-3-O- glucoside (C3G)/,The secondary structure of -Lg,"FS, UVS, CD DLS, zeta particle",Cheng et al.(2017);
+71,hydrophobic,,Curcumin and fatty acids,displayed an increase in the major,size analyzer and MD,Liu et al.2017
+72,interactions,,,structure of -sheet upon binding,,
+73,,,,"with C3G, whereas a decrease in the",,
+74,,,,minor structure of -helix was also,,

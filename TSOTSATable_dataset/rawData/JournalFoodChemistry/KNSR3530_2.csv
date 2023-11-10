@@ -1,0 +1,45 @@
+,0,1,2,3
+0,Types,Chemical compositions,Method,References
+1,Avocado seed,Condensed tannins,HPLC-DAD-ESI-,Figueroa
+2,oil,(procyanidins type A and,QTOF-MS,"et al.,2018"
+3,,"procyanidins type B),",,
+4,,"phenolic acids, and",,
+5,,flavonoids,,
+6,Jackfruit seed,"Phenolic compounds, such",HPLC-DAD-ESI/MS,Fernandes
+7,oil,as ferulic acid and caffeic,,"et al.,2017"
+8,,acid,,
+9,Papaya seed,Benzyl isothiocyanate,HPLC-UV-visible,"Lee et al.,"
+10,oil,(BITC),detector,2011
+11,Custard-apple,n.d.,n.d.,n.d.
+12,seed oil,,,
+13,Pomegranate,Vitamin E;sterols,HPLC&,Fernandes
+14,seed oil,,fluorescence,"et al.,2015"
+15,,,detectorGC-FID,
+16,,,Thermo Finnigan,
+17,Sweet cherry,n.d.,n.d.,n.d.
+18,seed oil,,,
+19,Sour cherry,"Vitamins, such as",HPLC-MS detector,Yilmaz&
+20,seed oil,tocopherols and -carotene,&HPLC-DAD,"Gokmen,"
+21,,,,2013
+22,Pumpkin seed,"Phytosterols, mainly 24S.",HPLC-photodiode,"Li,2006;"
+23,oil,ethyl 5 alpha-cholesta-,array detector;,"Ryan et al.,"
+24,,"7,22E-dien-3 beta-ol",HPLC-MS; Atomic,2007;
+25,,alpha-spinasterol;24S,absorption,Stevenson
+26,,ethyl 5 alpha-cholesta-,spectrophotometry,"et al.,2007"
+27,,"7,22E,25-trien-3 beta-ol",,
+28,,(25-,,
+29,,dehydrochondrillasterol);,,
+30,,24S-ethyl 5 alpha-cholesta,,
+31,,"7,25-dien-3 beta-ol; 24R-",,
+32,,ethyl-cholesta-7-en-3 beta,,
+33,,ol (delta 7-stigmastenol),,
+34,,"and 24-ethyl-cholesta-7,24",,
+35,,28)-dien-3 beta-ol(delta,,
+36,,"7,24(28)-stigmastadienol);",,
+37,,"Vitamins, such as alpha-",,
+38,,"tocopherol, gamma-",,
+39,,"tocopherol, delta-",,
+40,,"tocopherol,carotenoid",,
+41,,"vitamin A,vitamin D,and",,
+42,,"vitamin K,etc.FeCa,Mg",,
+43,,"Zn, Cu, Mn and K",,

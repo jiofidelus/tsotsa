@@ -1,0 +1,51 @@
+,0,1,2,3,4
+0,,,spcent,,
+1,,(including mass,gravity,,Version
+2,,and bulk density),,,2.0
+3,"Barley, flour",0.61,,ASI,
+4,"Barley, flour, malted",0.64,,ASI,
+5,"Barley, ground",0.38-0.42,,ASI,X
+6,"Barley, malted",0.49,,ASI,x
+7,Barleyrolled,0.34-0.38,,ASI,x
+8,"Barley, scoured",0.66,,ASI,x
+9,"Barley,whole",0.61-0.69,,ASI,x
+10,Biscuits,0.41-0.53,,FNDDS 4.1,
+11,Bran,0.56,,ASI,x
+12,Bread,0.29,,FNDDS 4.1,
+13,"Bread, cornbread",0.433,,S&W,
+14,"Bread, roll, soft",0.18,,FNDDS 4.1,
+15,"Bread, white",0.42,,KEN,X
+16,"Bread, white, sliced, prepacked",0.29,,FNDDS 4.1,
+17,Breadcrumbs,0.45,,RC,
+18,"Breakfast cereal, cornflakes (dry cereal)",0.117,,S&W,
+19,"Breakfast cereal, muesli w/ fruits&nuts",0.37,,FNDDS 4.1,
+20,"Breakfast cereal, raisin bran",0.26,,FNDDS 4.1,
+21,"Breakfast cereal, type Cheerios",0.13,,FNDDS 4.1,
+22,"Breakfast cereal, type Corn flakes",0.1,,RC,
+23,"Breakfast cereal, type Crispix",0.13,,FNDDS 4.1,
+24,"Breakfast cereal, type frosted flakes",0.18,,FNDDS 4.1,
+25,"Breakfast cereal, type Just Right",0.24,,FNDDS 4.1,
+26,"Breakfast cereal, type rice krispies",0.12,,FNDDS 4.1,
+27,"Buckwheat, bran",0.25,,ASI,x
+28,"Buckwheat, flour",0.66,,ASI,x
+29,"Buckwheat, whole",0.59-0.66,,ASI,X
+30,"Bulrush mille, fermented flour",0.56,,KEN,x
+31,Cake,0.415,,S&W,
+32,Cake mix,0.7,,ASI,x
+33,"Corn/maize flour,white",0.55,,KEN,x
+34,"Corn/maize starch, loosely packed",0.54,,TB,
+35,Corn/maize sugar,0.33,,ASI,x
+36,"Corn/maize, boiled",0.90,,KEN,x
+37,"Corn/maize, boiled with fat",0.90,,KEN,x
+38,"Corn/maize, bran",0.21,,ASI,x
+39,"Corn/maize, chops (coarse)",0.64-0.70,,ASI,x
+40,"Corn/maize, chops (fine)",0.58-0.62,,ASI,x
+41,"Corn/maize, chops (medium)",0.61-0.67,,ASI,
+42,"Corn/maize, cobs",0.27,,ASI,x
+43,"Corn/maize, cracked (coarse)",0.64,,ASI,x
+44,"Corn/maize, ear",0.9,,TB,
+45,"Corn/maize, ear",0.9,,ASI,
+46,"Corn/maize, fermented flour",0.55,,KEN,
+47,"Corn/maize,flour",0.82,,ASI,x
+48,"Corn/maize, meal",0.64,,ASI,x
+49,"Corn/maize, flour",0.62,,ASI,x

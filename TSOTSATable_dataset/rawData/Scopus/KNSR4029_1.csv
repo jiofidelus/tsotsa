@@ -1,0 +1,32 @@
+,0,1,2,3,4,5
+0,Kawasaki(8),,,Spot Na,,"Estimated 24 h Na, mmol/d"
+1,,,,Spot Cr, Predicted 24 h urine Cr,spot Crmg/l
+2,,,,Males : Predicted 24 h Cr=12.63  age+15.12  weight+7.39  height-79.9,Males : Predicted 24 h Cr=12.63  age+15.12  weight+7.39  height-79.9,Predicted 24 h Cr: mg/d
+3,,Females : Predicted 24 h Cr =,Females : Predicted 24 h Cr =,Females : Predicted 24 h Cr =,-4.72x age+8.58 weight+5.09 x height-74.5,"age,years"
+4,,,,,,"weight, kg"
+5,,,,,,"height,cm"
+6,Tanaka(10),,,,,"Estimated 24 h Na, mmol/d"
+7,,XNa=,Spot Na, Predicted 24 h Cr,,"spot Na, mmol/l"
+8,,XNa=,Spot Cr x 10, Predicted 24 h Cr,,spot Cr:mg/dl
+9,,,,Predicted24 h Cr=-2.04 x age)+(14.89 weight)+(16.14 height)-2244.45,Predicted24 h Cr=-2.04 x age)+(14.89 weight)+(16.14 height)-2244.45,Predicted 24 h Cr: mg/d
+10,,,,,,"age,years"
+11,,,,,,"weight, kg"
+12,,,,,,"height,cm"
+13,INTERSALT(13) With Spot K,INTERSALT(13) With Spot K,INTERSALT(13) With Spot K,,,"Estimated 24 h Na, mmol/d"
+14,,,,Males:Estimated24h Na=2546+0.46  spot Na-2.75 spot Cr-0.13 spot K+4.10 BMI+026 age),Males:Estimated24h Na=2546+0.46  spot Na-2.75 spot Cr-0.13 spot K+4.10 BMI+026 age),"spot Na, mmol/l"
+15,,Without Spot K,Without Spot K,,,spot K:mmol/l
+16,,Without Spot K,Without Spot K,Males:Estimated24 h Na=23.51+0.45 spot Na)-309 spot Cr+(416 BMI)+022 age),Males:Estimated24 h Na=23.51+0.45 spot Na)-309 spot Cr+(416 BMI)+022 age),BMI: kg/m2
+17,,,,,Females:Estimated24 h Na=3.74+0.33 spot Na)-2.44 spot Cr+(2.42 BMI)+2.34  age)-10.03 age2),"age, years"
+18,Toft(11),XNa,spot Na, Predicted 24 h Cr,,"Estimated 24 h Na, mmol/d"
+19,,XNa,spot Cr, Predicted 24 h Cr,,"spot Na, mmol/l"
+20,,,,,,spot Cr: mg/dl
+21,,,,Females:Estimated 24 h Na=52.65XNa0.196Predicted 24 h Cr(females=-6.13 age+9.97 weight+2.45 height)+342.73,Females:Estimated 24 h Na=52.65XNa0.196Predicted 24 h Cr(females=-6.13 age+9.97 weight+2.45 height)+342.73,Predicted 24 h Cr: mg/d
+22,,,,,,"age,years"
+23,,,,,,"weight,kg"
+24,,,,,,"height, cm"
+25,Mage(9),Estimated 24 h Na=,Estimated 24 h Na=,,,"Estimated 24 h Na, mmol/d"
+26,,,,spot Cr,,"spot Na, mmol/l"
+27,,,,Males:Predicted Cr24 h=0.00179140-age)weight1.5 height051+0.18 A 1.366-0.0159BMI),Males:Predicted Cr24 h=0.00179140-age)weight1.5 height051+0.18 A 1.366-0.0159BMI),spot Cr:mg/dl
+28,,,,Females:Predicted Cr24 h=0.00163140-age weight15  height51+0.18 A1.429-0.0198BMI),Females:Predicted Cr24 h=0.00163140-age weight15  height51+0.18 A1.429-0.0198BMI),Predicted 24 h Cr: mg/d
+29,,,A=African American or Black race=1/other race=0,A=African American or Black race=1/other race=0,A=African American or Black race=1/other race=0,BMI: kg/m2
+30,,,,,,heiaht.cm

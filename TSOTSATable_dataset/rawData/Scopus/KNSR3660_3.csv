@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8
+0,Variable,Variable,Variable,Breakfast,Lunch,Dinner,P valuea,,
+1,,,,,,,B vs Lb,B vs Dc,L vs Dd
+2,Meal type with the highest protein intake,Meal type with the highest protein intake,,,,,,,
+3,"Total PAt (METf-min/week), median (Q1-1440 (693-2520)",,,"Total PAt (METf-min/week), median (Q1-1440 (693-2520)",1362 (597-2672),1200 (528-2280),.58,<.001,.001
+4,,,Q3),,,,,,
+5,"Vigorous PA (MET-min/week),median",,,400 (0-1120),240 (0-960),80 (0-960),.20,<.001,.02
+6,(Q1-Q3),,(Q1-Q3),,,,,,
+7,"Moderate PA (MET-min/week),median",,"Moderate PA (MET-min/week),median",0 (0-480),0 (0-360),0 (0-360),>.99,.33,.95
+8,(Q1-Q3),,(Q1-Q3),,,,,,
+9,"Walking(MET-min/week),median (Q1-",,,495 (198-990),528 (198-1134),495 (198-990),>.99,>.99,.049
+10,,,Q3),,,,,,
+11,Meal type with the highest protein composi-,,,,,,,,
+12,,tion,,,,,,,
+13,"Total PA (MET-min/week),median (Q1-",,,1386 (671-2597),1266 (528-2376),1188(516-2234),.02,<.001,.34
+14,,,Q3),,,,,,
+15,"Vigorous PA (MET-min/week,median",,,400 (0-1120),80 (0-960),0 (0-840),<.001,<.001,.04
+16,(Q1-Q3),,(Q1-Q3),,,,,,
+17,"Moderate PA (MET-min/week),median",,"Moderate PA (MET-min/week),median",0 (0-420),0 (0-360),0 (0-360),.12,.02,>.99
+18,(Q1-Q3),,(Q1-Q3),,,,,,
+19,"Walking (MET-min/week), median (Q1-",,"Walking (MET-min/week), median (Q1-",495 (198-990),495 (198-990),495 (198-990),>.99,.94,>.99
+20,Q3),,Q3),,,,,,

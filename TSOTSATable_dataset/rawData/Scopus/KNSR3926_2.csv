@@ -1,0 +1,48 @@
+,0,1,2,3,4,5
+0,,,n (%),OR(95% CI),P-value,Ptrend
+1,Sex,,,,,
+2,Male,,959 (50.37%),Reference,,0.047
+3,Female,Female,945 (49.63%),"0.761 (0.582,0.996)",0.047,
+4,Age,,,,,
+5,<50,,498 (26.16%),Reference,,<0.00
+6,50-60,50-60,418 (21.95%),"1.446 (0.932, 2.242)",0.099,
+7,60-70,,477 (25.05%),"2.179 (1.459, 3.255)",<0.001,
+8,70,,511 (26.84%),"2.069 (1.389,3.083)",<0.001,
+9,Ethnicity,Ethnicity,,,,
+10,Mexican American,Mexican American,275 (14.44%),Reference,,0.436
+11,Other Hispanic,Other Hispanic,38 (2.00%),"1.040 (0.410,2.641)",0.934,
+12,Non-Hispanic white,Non-Hispanic white,1154 (60.61%),"0.626 (0.428, 0.915)",0.016,
+13,Non-Hispanic black,Non-Hispanic black,378 (19.85%),"1.373 (0.907, 2.079)",0.134,
+14,Other ethnicities (including multi-racial),Other ethnicities (including multi-racial),59 (3.10%),"0.747 (0.318,1.756)",0.503,
+15,Education level,Education level,,,,
+16,Less than 9th grade,Less than 9th grade,207 (10.87%),Reference,,<0.001
+17,9-11th grade(includes 12th grade with no diploma,9-11th grade(includes 12th grade with no diploma,278 (14.60%),"0.899 (0.564, 1.434)",0.655,
+18,,High school grade/General education diploma or equivalent,497 (26.10%),"0.660 (0.427,1.018)",0.060,
+19,Some college or associate of arts degree,Some college or associate of arts degree,508 (26.68%),"0.654 (0.424,1.009)",0.055,
+20,College graduate or above,College graduate or above,414 (21.74%),"0.301 (0.178, 0.507)",<0.001,
+21,Marital status,Marital status,,,,
+22,Partnered,Partnered,1233 (64.83%),Reference,,0.986
+23,Single,Single,669 (35.17%),"1.002 (0.758, 1.326)",0.986,
+24,Family PIR,Family PIR,,,,
+25,<1.3,,401 (21.97%),Reference,,0.004
+26,1.3-3.5,1.3-3.5,725 (39.73%),"0.986 (0.702, 1.386)",0.937,
+27,3.5,,699 (38.30%),"0.601(0.415,0.870)",0.007,
+28,Smoked at least 100 cigarettes in life,Smoked at least 100 cigarettes in life,,,,
+29,Yes,,1042 (54.73%),Reference,,0.664
+30,No,,862 (45.27%),"1.061 (0.812, 1.388)",0.664,
+31,Had at least 12 alcohol drinks in one year,Had at least 12 alcohol drinks in one year,,,,
+32,Yes,,1293 (68.96%),Reference,,0.004
+33,No,,582 (31.04%),"1.498 (1.134,1.978)",0.004,
+34,Blood fasting glucose level(mmol/l),Blood fasting glucose level(mmol/l),,,,
+35,<6.9,,772 (85.12%),Reference,,<0.00
+36, 6.9,,135 (14.88%),"4.260 (2.802, 6.478)",<0.001,
+37,"Hemoglobin A1cHbA1c,%)","Hemoglobin A1cHbA1c,%)",,,,
+38,<6.5,,1654 (88.73%),Reference,,<0.001
+39, 6.5,,210 (11.27%),"7.13 (5.17,9.82)",<0.001,
+40,Diagnosis of diabetes,Diagnosis of diabetes,,,,
+41,Yes,,257 (13.50%),Reference,,<0.001
+42,No,,1600 (84.08%),"0.14 (0.10,0.19)",<0.001,
+43,Borderline,Borderline,46 (2.42%),"0.22 (0.09, 0.54)",<0.001,
+44,Insulin use,Insulin use,,,,
+45,Yes,,77 (4.04%),Reference,,<0.00
+46,No,,1827 (95.96%),"0.06 (0.03, 0.09)",<0.001,

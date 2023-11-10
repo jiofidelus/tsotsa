@@ -1,0 +1,32 @@
+,0,1
+0,FLIP website tabs,Description of information
+1,Description,"Product ID,company,brand,name,preparation"
+2,,"reguired,variety pack,TRA categories,ingredients"
+3,,"sampling date,store code,container size and price"
+4,Barcode/UPC,"Barcode/UPC,sample date,store code and linkages"
+5,Nutrition facts,"Collected data:Serving size,weight/volume,nutrient"
+6,,contents as identified on the package Nutrition Facts
+7,,"table(amount and %DVKcal,Fat,saturated fat,trans"
+8,,"fat,cholesterol,sodium,potassium,carbohydrates,fiber"
+9,,"sugar,free sugar,protein,vitamin A,vitamin C,calcium,"
+10,,iron)
+11,,Calculated data:weight/volume conversions (g/mLand
+12,,"mL/g e.g.density,as prepared nutrition information"
+13,,"captured in 2013,2017,nutrition information per 100 g"
+14,Marketing,"Children's marketing,nutrient content claims,other"
+15,,"claims,disease risk reduction claims,front of pack"
+16,,"symbols,structure/function claims*"
+17,Nutrient profiling,Nutrient profiling and other information used in
+18,,"calculating nutrient profiling scorese.g.FSANZ,Ofcom"
+19,,"UK TLL,Health Canada Surveillance Tool,FoodFlip"
+20,,"(FoodFlip app related nutrient profiling models),added"
+21,,"sugar,free sugar, PHO,sweeteners,NOVA Processing"
+22,,"added fats,whole grains*"
+23,Sodium [Categories],Sodium-focused categories
+24,Sugar [Categories],Sugar-focused categories
+25,Photos,"Images of the product including front, back and sides"
+26,,"NFt,ingredient declaration (~8 photos per product as"
+27,,available)
+28,Matches,Matched products with previous versions of FLIP
+29,Log,User-inputted comments on validation and updates to
+30,,the product

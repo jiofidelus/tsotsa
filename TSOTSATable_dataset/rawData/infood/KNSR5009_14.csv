@@ -1,0 +1,38 @@
+,0,1,2
+0,TAGNAME,DESCRIPTION,UNIT
+1,STARCH,"Starch, total",g
+2,STARCHAVLDF,,g
+3,,resistant starch),
+4,STARES,"Starch,total, expression unknown",g
+5,STARES3,"Starch,resistant RS3",g
+6,STARCH-,"Starch,total;expressed in monosaccharide equivalents",g
+7,"Dietary fibre,dietary fibre fractions","Dietary fibre,dietary fibre fractions",
+8,FIBTG,"Fibre,total dietary;determined gravimetrically by the AOAC",g
+9,,total dietary fibre method(Prosky and similar methods,
+10,FIBC,"Fibre,crude",g
+11,FIBAD,Fibre;determined by acid detergent method,g
+12,FIBINS,"Fibre,water-insoluble",g
+13,FIBSOL,"Fibre, water-soluble",g
+14,FIBND,Fibre; determined by neutral detergent method,g
+15,FIBTGLCS,"Fibre,total,insoluble and soluble dietary;determined by",g
+16,,enzymatic-gravimetric method and liquid chromatography,
+17,,(AOAC 2011.25),
+18,FIB-,Fibre; method of determination unknown or variable,
+19,NSP,"Polysaccharides,non-starch(Englyst method)",g
+20,Dietary fibre fractions,,
+21,CELLU,Cellulose,g
+22,GLUCNB,Betaglucan,g
+23,HEMCEL,Hemicellulose,g
+24,INULN,Inulin,g
+25,LIGN,Lignin,g
+26,Water,,
+27,WATER,Water,g
+28,DM,Dry matter,g
+29,Ash and other solids,,
+30,ASH,Ash,g
+31,Organic acids,,
+32,MALAC,Malic acid,mg
+33,OXALAC,Oxalic acid,mg
+34,PHYTCPPI,"phytate, determined by indirect precipitation",mg
+35,PHYTCPPD,"phytate,determined by direct precipitation",mg
+36,PHYTCPP,"phytate, calculated from the phytate phosphorus by anion",mg

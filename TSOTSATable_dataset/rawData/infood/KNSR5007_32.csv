@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Food,Code,Letter,Name,Calcium,Phos- Magnes.,Phos- Magnes.,Potass-,Iron,Zinc,Carot-,Vitamin,Source of
+1,group,Code,code,Name,Calcium,phorus,ium,ium,Iron,Zinc,ene,c,data
+2,,,,,mg,mg,mg,mg,mg,mg,ug,mg,
+3,259,4559,VM,Vegetables in palm oil,36,29,27,182,0.7,0.6,23400,6,c
+4,271,4234,IZ,"Super kanje (okra, kereng-kerengo leaves, fish, palm oil)",165,150,33,288,2.6,1.0,11650,11,R
+5,271,4541,UU,Vegetables in palm oil and fresh challo,59,109,26,194,1.2,0.3,13570,3,R
+6,271,4542,UV,Vegetables in palm oil and fresh furo,42,76,26,197,1.2,0.3,13570,3,R
+7,271,4543,UW,Vegetables in palm oil and fresh kujalo,33,48,27,199,0.5,0.3,13570,3,R
+8,271,4544,UX,Vegetables in palm oil and fresh fish (unspecified),46,84,27,200,1.2,0.3,13570,3,R
+9,271,4334,MV,Vegetables in palm oil and shellfish,84,111,37,185,4.4,1.0,13570,3,R
+10,273,4621,XW,Vegetables in palm oil and meat,24,105,25,214,2.1,2.6,12400,3,R
+11,273,4622,XX,Vegetables in palm oil and chicken,27,85,25,190,0.8,0.8,15210,3,R
+12,,"9.7 - Bukolo (tomato, onion and flour sauce)","9.7 - Bukolo (tomato, onion and flour sauce)","9.7 - Bukolo (tomato, onion and flour sauce)",,,,,,,,,
+13,264,4206,HX,Bukolo,18,44,30,249,0.6,0.2,170,10,c
+14,264,4528,UH,Bukolo and naa,39,46,31,264,0.9,0.2,290,9,R
+15,264,4535,UO,Bukolo and okra,23,46,32,250,1.2,0.2,180,10,R
+16,265,4529,UI,Bukolo and dried challo,52,87,31,277,0.7,0.4,170,9,R
+17,265,4618,XT,"Bukolo, dried challo and naa",74,89,32,293,1.0,0.5,280,9,R
+18,265,4530,UJ,Bukolo and dried furo,205,169,33,268,1.0,0.7,170,9,R
+19,265,4619,XU,"Bukolo,dried furo and naa",226,171,34,284,1.3,0.7,280,9,R
+20,265,4531,UK,Bukolo and dried kujalo,25,61,30,261,0.6,0.6,170,9,R
+21,265,4620,XV,"Bukolo, dried kujalo and naa",47,63,31,277,0.9,0.7,280,9,R
+22,265,4532,UL,Bukolo and dried fish (unspecified),50,83,30,253,0.8,0.5,170,9,R
+23,265,4617,XS,"Bukolo, dried fish (unspecified) and naa",71,84,31,269,1.1,0.5,280,9,R
+24,265,4534,UN,Bukolo and fresh challo,27,65,29,252,0.7,0.2,150,8,R
+25,265,4536,UP,Bukolo and fresh furo,22,56,29,256,0.7,0.2,150,8,R
+26,265,4537,UQ,Bukolo and fresh kujalo,19,48,30,257,0.5,0.2,150,8,R
+27,265,4538,UR,Bukolo and fresh fish (unspecified),23,58,30,259,0.7,0.2,150,8,R
+28,265,4168,GL,"Bukolo,fresh fish (unspecified) and naa",44,60,31,274,1.0,0.2,270,8,R
+29,265,4364,NZ,Bukolo and shellfish,34,66,40,244,0.7,0.4,150,8,R
+30,265,4181,GY,"Bukolo, fresh fish, dried fish and oil",61,108,30,281,0.9,0.6,100,3,R

@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Cultivar Name (Abbreviation),"Fruit Type, Color",Source,Run,Run
+1,Red (CR),"Cocktail,red",Prudac,,X
+2,Yellow (CY),"Cocktail, yellow",Prudac,,X
+3,HeartbreakersTM F1-Twiggy,"Cocktail, orange",Prudac,,
+4,Orange (HBTO),"Cocktail, orange",Prudac,,
+5,Red (HBTR),"Cocktail, red",Prudac,,X
+6,Little Bing (LB),"Cherry, red",PanAmerican Seed,,
+7,Micro Tom (MT),"Cherry, red",PanAmerican Seed,X,
+8,Mohamed (MO),"Cherry, red",Renaissance Farms,X,x
+9,PonchiTM F1-Fa (FA),"Cocktail,red",Prudac,,X
+10,PonchiTM F1-Mi (MI),"Cocktail,red",Prudac,,
+11,PonchiTM F1-Re (RE),"Cocktail,red",Prudac,,
+12,Rosy Finch (RF),"Cherry,dark pink",Sakata,,x
+13,Red Robin (RR),"Cherry, red",Sakata,,x
+14,Siam (S),"Cherry, red",PanAmerican Seed,X,X
+15,Sweet'n'Neat Scarlet (SNS,"Cherry, red",Syngenta,,X
+16,Sweet 'n'Neat Yellow (SNY),"Cherry, yellow",Syngenta,,
+17,Sweet SturdyTM F1-Grace(SSG,"Cocktail,yellow",Prudac,,x
+18,Sweet SturdyTM F1--Jimmy (SSJ),"Cocktail,red",Prudac,,x
+19,Sweet SturdyTM F1-Jo (SSJO),"Cocktail,red",Prudac,,x
+20,Tarzan F1 (TZ),Small,Prudac,,
+21,Tarzan F1 (TZ),beefsteakred,Prudac,,
+22,Yellow Canary (YC),"Cherry,yellow",Sakata,,

@@ -1,0 +1,76 @@
+,0,1,2,3
+0,Flour,Extrusion,Major findings,References
+1,origin,conditions,,
+2,proso,"150C,14","NF had RDS,SDS,and","(McSweeney,"
+3,millet,"%, 325 rpm","RS contents of 27.6 %,","Seetharaman, Ramdath."
+4,,,"25.6 %, and 46.8 %,","&Duizer,2017"
+5,,,respectively; after,
+6,,,"extrusion, they were",
+7,,,"35.2 %, 37.7 %, and",
+8,,,"27.1 %, respectively.",
+9,amaranth,50C35%,NF had RDS and SDS,"(Garcia-Valle,Agama"
+10,,75 rpm,"41.1 %, respectively;",AcevedoNunez
+11,,,"41.1 %, respectively;","Santiago, Alvarez-"
+12,,,"after extrusion, they",2021)
+13,,,were 65.1 % and 34.9,2021)
+14,,,"%, respectively.",
+15,,,Extrusion increased the,
+16,,,hydrolysis rate from,
+17,,,0.00895 min- to,
+18,,,0.0535 min-1.,
+19,oat,"160C,20",Extrusion elevated the,"Feng et al.,2019"
+20,,"%,180rpm",hydrolyzing index from,
+21,,,6.97 % to 41.7 %. The,
+22,,,kinetic constant,
+23,,,increased from 0.04 to,
+24,,,0.05.,
+25,rye,"220C,27",The maltose,"Torbica et al., 2021)"
+26,,"%, -",concentration reached,
+27,,,above 400 mg/mL after,
+28,,,"2 h of digestion of EF,",
+29,,,which was about 14,
+30,,, times higher than that of,
+31,,,NF.,
+32,Sorghum,"125C,50","EF had RDS,SDS,and","Shaikh et al.,2020)"
+33,starch,"%,50 rpm",RS contents of 19.4 %,
+34,,,"17.1 %,and 61.4 %",
+35,,,respectively.After 14,
+36,,,"d of storage, they",
+37,,,"changed to 15.8 %, 13.6",
+38,,,"%, and 70.6 %",
+39,,,respectively.,
+40,sorghum,"80~120C,","Among EFs,80 C","Yu et al,2020"
+41,,"30%,100",treatment resulted in,
+42,,rpm,the highest RS content,
+43,,,"25.7 %),while 120C",
+44,,,caused the lowest. All,
+45,,,EFs had markedly,
+46,,,higher RS content than,
+47,,,NF.,
+48,buckwheat,100~,As extrusion,"Sun et al.,2019"
+49,,"160C,32",temperature rose from,
+50,,"%,120 rpm","100 to 160C,RDS and",
+51,,,SDS level increased,
+52,,,from 37.4 % to 44.5 %,
+53,,,and from 23.7 % to 27.1,
+54,,,"%, respectively, while",
+55,,,RS level decreased from,
+56,,,38.9 % to 28.4 %.,
+57,oat,"100C,15%",As feed moisture rose,"Brahma et al.,2016"
+58,,"~21%,300",from 15% to 21 %RDS,
+59,,rpm,content increased from,
+60,,,"65 % to 68 %, whereas",
+61,,,RS content decreased,
+62,,,from 15 % to 8 %.,
+63,finger,"130C,22%",As feed moisture rose,"Liu,Cheng et al.,2020"
+64,millet,~30%180,"from 22 % to 30 %, RDS",
+65,,rpm,level changed from 82.4,
+66,,,"% to 85.4 %,while RS",
+67,,,level decreased from 6.0,
+68,,,% to 2.8 %.,
+69,buckwheat,"120C,32%",As feed moisture rose,"Sun et al.,2019"
+70,,"~48 %,120",from 32% to 48 %RDS,
+71,,rpm,level decreased from,
+72,,,"41.4% to 37.4 %,while",
+73,,,RS level increased from,
+74,,,33.6 % to 36.4 %.,

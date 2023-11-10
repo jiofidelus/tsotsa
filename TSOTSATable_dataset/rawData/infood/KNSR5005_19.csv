@@ -1,0 +1,40 @@
+,0,1,2
+0,Component,Component name,Unit
+1,ID/Tagname,,
+2,FAN6(g),"fatty acid, total n-6",g
+3,FAN3(g),"fatty acid, total n-3",g
+4,FAN9(g),"fatty acid, total n-9",g
+5,FAESS(g),"fatty acids, total essential",g
+6,FAFRE(g),"fatty acids,total free",g
+7,Fat components,,
+8,DGLY(g),"diglycerides, total",g
+9,MGLY(g),"monoglycerides, total",g
+10,Glycolipids,,
+11,GLYLIP(g),"glycolipids, total",g
+12,Phospholipids,,
+13,PHOLIP(g),"phospholipids, total",g
+14,"Carbohydrates,carbohydrate fractions","Carbohydrates,carbohydrate fractions",
+15,CHOAVLDF(g),"carbohydrate, available; calculated by difference",g
+16,CHOAVL(g),"carbohydrate,available",bo
+17,CHOAVLM(g),"carbohydrate, available; expressed as monosaccharide equivalents",g
+18,CHOAVLO,"carbohydrates, available by summation, including oligosaccharides",g
+19,CHOAVL-(g),"carbohydrate,available;method unknown or variable",g
+20,CHOCDF(g),"carbohydrate,total;calculated by difference",g
+21,CHO-(g),carbohydrate; method of determination unknown or variable,g
+22,Sugars,,
+23,SUGAR(g),"sugars, total",g
+24,SUGARM(g),"sugars, total; expressed as monosaccharide equivalents",g
+25,SUGRD(g),"sugars, reducing",g
+26,SUGNRD(g),"sugars, non-reducing",g
+27,SUGAR-(g),"sugars, total; expression unknown",g
+28,Monosaccharides,,
+29,ARAS(g),arabinose,g
+30,FRUS(g),fructose,g
+31,FUCOS(g),fucose,g
+32,GALS(g),galactose,g
+33,GLUS(g),glucose,g
+34,MANS(g),mannose,g
+35,RHAS(g),rhamnose,g
+36,RIBS(g),ribose,g
+37,XYLS(g),xylose,g
+38,Disaccharides,,

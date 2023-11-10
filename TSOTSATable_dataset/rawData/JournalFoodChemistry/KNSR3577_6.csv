@@ -1,0 +1,54 @@
+,0,1,2,3,4,5,6
+0,Collection placeand processing,Total HBA,Total HPA,Total HCA,Total Flavanones,Total Flavonols,Total Flavan-3-ols
+1,Icalma 2018,,,,,,
+2,"Peeled,raw,unbound",0.00  0.00abcde,NDa,0.68  0.00abcd,0.500.01abcde,BQL,1.280.01abcde
+3,"Peeled, raw bound",0.81  0.01afghi,NDb,6.23  0.15aefgh,BQLafghi,BQL,0.70  0.00afghi
+4,"Peeled, boiled unbound",0.53  0.01bfikl,NDc,0.67  0.00eijk,0.32  0.01bfjkl,BQL,1.83  0.04bfjkl
+5,Boiled unbound,0.87  0.02cgjmn,NDd,1.01  0.00bfilm,0.60  0.02cgjmn,0.120.00,7.56  0.06 cgjmn
+6,Boiled bound,4.08  0.03dhkmo,5.11 0.04abede,2.17  0.02cgjln,0.27  0.00dhkmo,BQL,0.33  0.00dhkmo
+7,Decoction water,0.29  0.01eilno,NDe,0.30  0.00dhkmn,0.95  0.03eilno,0.05  0.00,11.39  0.17eilno
+8,Icalma 2019,,,,,,
+9,"Peeled, raw, unbound",0.00  0.00abed,NDa,1.01  0.00abed,0.73 0.01a,BQL,3.82  0.03ab
+10,"Peeled,raw, bound",0.67  0.01aefg,NDb,5.25  0.07aefgh,0.40  0.01b,BQL,0.85  0.01 cd
+11,"Peeled, boiled unbound",0.41 0.01behij,NDc,0.90  0.00beij,0.30  0.00c,BQL,2.30  0.05ef
+12,Boiled unbound,0.83  0.01chkl,NDd,0.93  0.00fkl,0.72  0.00d,0.08  0.00,7.77  0.04aceg
+13,Boiled bound,3.95  0.04dfikm,3.75  0.03abcde,2.57  0.02cgikm,0.39  0.02e,BQL,2.90  0.09gh
+14,Decoction water,0.11  0.00&jlm,NDe,0.26  0.00dhjlm,1.22  0.01abcde,0.03  0.00,8.46  0.02bdfh
+15, Lonquimay 2017,,,,,,
+16,"Peeled, raw, unbound",0.35  0.01,ND,0.76  0.00,BQLab,BQL,0.00  0.00abc
+17,Boiled unbound,0.86  0.01,ND,0.83  0.01,0.31  0.00acegh,0.01  0.00,6.83  0.11adgjk
+18,Boiled bound,0.060.00,0.260.00,0.800.00,BQLgi,BQL,1.81  0.02behjl
+19,Decoction water,0.20  0.00,ND,0.00  0.00,1.46  0.01bdfhi,BQL,14.67  0.14cfikl
+20,Lonquimay 2018,,,,,,
+21,"Peeled, raw, unbound",0.85  0.02abede,ND,0.50  0.00abed,0.52  0.03abede,BQL,10.29  0.32abede
+22,"Peeled, raw, bound",0.04  0.00afghi,ND,0.62  0.01aefgh,BQLafghi,BQL,0.00  0.00afgj
+23,"Peeled,boiled unbound",0.31  0.01bfjk,ND,0.49  0.00eik,0.23  0.00bfjk,BQL,0.92  0.05bhi
+24,Boiled unbound,0.46  0.03cgilm,ND,0.74  0.01bfl,0.38  0.02cgjlm,0.02  0.00,8.11  0.41cfhkl
+25,Boiled bound,0.18  0.00dhkln,0.40  0.00,0.74  0.00cgjm,0.22  0.01dhln,BQL,0.88  0.06dgkm
+26,Decoction water,0.28  0.01eimn,ND,0.00  0.00dhkim,0.84  0.03eikmn,BQL,11.60  0.54ejil
+27,Lonquimay 2019,,,,,,
+28,"Peeled,raw,unbound",0.49  0.06abede,ND,0.47  0.01abcde,BQLabede,BQL,2.54  0.08abc
+29,"Peeled, raw, bound",0.26  0.01afgh,ND,1.13  0.02afghi,0.45 0.01afgh,BQL,1.42  0.02adefg
+30,"Peeled,boiled unbound",0.29  0.01bijk,ND,0.57  0.00bfjkl,0.27 0.01bfijk,BQL,2.59  0.03dhi
+31,Boiled unbound,0.68  0.01cfilm,ND,0.77  0.01cgjmn,0.58  0.01cgilm,0.010.00,13.87 0.53behjk
+32,Boiled bound,0.12  0.01dgjiln,0.64  0.00,0.65  0.00dhkmo,0.16  0.00dhjln,BQL,0.140.00
+33,Decoction water,0.05  0.00ehkmn,ND,0.00  0.00eilno,0.43  0.02ekmn,BQL,4.45  0.04gkl
+34,Nahuelbuta 2017,,,,,,
+35,"Peeled,raw,unbound",0.08  0.00,ND,0.380.00,0.69  0.00abcde,BQL,2.06  0.01abcde
+36,Boiled unbound,0.09  0.00,ND,0.830.01,0.13  0.00cfhjl,0.010.00,3.48  0.08cfhjk
+37,Boiled bound,0.00  0.00,0.07  0.00,0.460.00,BQLdjk,BQL,0.00  0.00djl
+38,Decoction water,0.02  0.00,ND,0.000.00,1.270.01egilk,BQL,7.16  0.07egikl
+39,Pino Huacho 2018,,,,,,
+40,"Peeled,raw,unbound",0.09  0.00abed,ND,0.00  0.00abc,BQLabe,BQL,0.47  0.02abcd
+41,"Peeled,raw, bound",0.47  0.01aefgh,ND,1.41  0.01adefg,BQLdef,BQL,1.77  0.02aefgh
+42,"Peeled, boiled unbound",0.08  0.00eijk,ND,0.00  0.00dhi,0.150.01adghi,BQL,0.51  0.01eijk
+43,Boiled unbound,0.110.0obfilm,ND,0.53  0.00behjk,BQLgjk,0.02  0.00,3.71  0.02bfilm
+44,Boiled bound,0.18  0.01cgjln,0.100.00,0.43  0.00cfjl,0.070.00behj,BQL,0.93  0.01cgiln
+45,Decoction water,0.360.01dhkmn,ND,0.00  0.008kl,1.06  0.00cfik,0.01  0.00,5.72  0.08dhkmn
+46,Pino Huacho 2019,,,,,,
+47,Peeledrawunbound,0.430.01abcde,ND,1.06  0.00,0.28  0.00abcd,BQL,2.23  0.07abede
+48,"Peeled, raw, bound",0.00  0.00afg,ND,0.24  0.00,BQLaef,BQL,0.56  0.05afgh
+49,"Peeled, boiled unbound",0.00  0.00bhi,ND,0.260.00,BQLbgh,BQL,0.66  0.05bijk
+50,Boiled unbound,0.53  0.01cfhjk,ND,1.06  0.00,0.28  0.00egij,0.01  0.00,1.50  0.03cfilm
+51,Boiled bound,0.00  0.0odjl,0.090.00,0.72  0.00,BQLcik,BQL,1.28  0.01dgjln
+52,Decoction water,0.19  0.01egikl,ND,BQL,0.88  0.02dfhjk,BQL,13.96  0.44ehkmn

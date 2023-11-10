@@ -1,0 +1,38 @@
+,0,1,2,3,4,5
+0,,,Nutrients,Analytical methods to be used for acceptance,Analytical methods to be used for acceptance,INFOODS
+1,,,,,of nutrient value (20),
+2,1,Moisture,,All methods,,WATER
+3,2,Protein,,Total N x converting factor,Total N x converting factor,PROCNT
+4,3,Fat,,"All methods,choose higher values based on","All methods,choose higher values based on",FAT
+5,,,,values obtained from method with acid digestion,values obtained from method with acid digestion,
+6,4,Dietary fibre,,Enzymatic gravimetric method,Enzymatic gravimetric method,FIBTG
+7,5A,"Carbohydrate, available, by","Carbohydrate, available, by",Calculated by difference:,Calculated by difference:,CHOAVLDF*
+8,,difference,,CHOAVLDF = 100 - (weight in grams [water +,CHOAVLDF = 100 - (weight in grams [water +,
+9,,,,protein+ fat+dietary fibre+ ash] in 100 g food),protein+ fat+dietary fibre+ ash] in 100 g food),
+10,5B,difference,"Total carbohydrate, by",CHOCDF=100 g -(weight in grams [water +,CHOCDF=100 g -(weight in grams [water +,(CHOCDF)
+11,,,,(use this calculation when FIBTG data was not,(use this calculation when FIBTG data was not,
+12,,,,available),,
+13,6.,Ash,,All methods,,ASH
+14,7,Energy,,Calculated by (4 x g protein) + (9 x g fat) +,Calculated by (4 x g protein) + (9 x g fat) +,ENERC*
+15,,,,(4 x g CHOAVLDF) + (2 x g dietary fibre),(4 x g CHOAVLDF) + (2 x g dietary fibre),
+16,,,,(not include alcohol),(not include alcohol),
+17,,,,"If CHOAVLDF was not available,CHOCDF was","If CHOAVLDF was not available,CHOCDF was",(ENERC)*
+18,,,,used. Value was calculated as follows and put in,used. Value was calculated as follows and put in,
+19,,,,parenthesis:,,
+20,,,,Calculated by (4 x g protein)+(9 x g fat)+,Calculated by (4 x g protein)+(9 x g fat)+,
+21,,,,(4 x g CHOCDF),,
+22,8,Calcium,,,,CA
+23,9,Phosphorus,,,,P
+24,10,Iron,,,,FE
+25,11,Sodium,,,,NA
+26,12,Potassium,,,,K
+27,13,Copper,,,,CU
+28,14,Zinc,,All methods,,ZN
+29,15,Vitamin B1,,,,THIA
+30,16,Vitamin B2,,,,RIBF
+31,17,Niacin,,,,NIA
+32,18,Vitamin C,,,,VITC
+33,19,Retinol,,,,RETOL
+34,20,B-carotene,,,,CARTB
+35,21,Vitamin A; retinol activity,Vitamin A; retinol activity,Calculated by mcg retinol + 1/12 mcg -carotene,Calculated by mcg retinol + 1/12 mcg -carotene,VITA_RAE*
+36,,equivalent,,,,

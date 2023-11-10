@@ -1,0 +1,19 @@
+,0,1,2
+0,Table1,Number of foods included in uFiSh,3
+1,Table 2,Symbols and abbreviations used in the value fields,7
+2,Table 3,"Metabolizable energy conversion factors.General Atwater factors(FAO,2003)",8
+3,Table 4,Factors for loss of water/fat in foods,15
+4,Table 5,Nutrient retention factors applied in uFiSh,16
+5,Table 6,Abbreviations used for component level documentation,17
+6,Table 7,List of reference datasets included in uFish,19
+7,Table 8,Datasheets in uFiSh,20
+8,Table 9,List of species,24
+9,Table 10,"List of components with corresponding INFOODS tagnames,units,denominators and",
+10,,number of significant(sig.) digits,30
+11,,"Table 11 List of amino acids with corresponding INFOODS component identifier (tagname),unit",
+12,,denominators and significant digits,32
+13,,"Table 12 List of fatty acids with corresponding INFOODS component identifiers(tagname),unit(U),",
+14,,denominators and number of significant digits,33
+15,Table 13 List of weight yield factors (YF) for fish,Table 13 List of weight yield factors (YF) for fish,40
+16,Table 14 List of weight yield factors (YF) for crustaceans,Table 14 List of weight yield factors (YF) for crustaceans,41
+17,Table 15 List of weight yield factors(YF)for molluscs,Table 15 List of weight yield factors(YF)for molluscs,42

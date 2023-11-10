@@ -1,0 +1,47 @@
+,0,1,2,3,4
+0,Foodname anddescription,Densitying/ml,Specific,BibliolD,Update
+1,,(including mass,gravity,,Version
+2,,and bulk density),,,2.0
+3,"Spinach, leaves, raw",0.08,,RC,
+4,"Sweet pepper, raw, cubes",0.51,,RC,
+5,"Sweet pepper, raw, half rings",0.39,,RC,
+6,Legumes,,,,
+7,"Beans, white",0.69-0.77,,ASI,x
+8,Cowpeas,0.72,,ASI,X
+9,"Cowpeas, dried, boiled",0.75,,KEN,x
+10,"Cowpeas, dried, raw",0.96,,KEN,x
+11,"Greengram, boiled",0.76,,KEN,x
+12,"Greengram, raw",0.79,,KEN,x
+13,"Kidney beans,dry,boiled",0.79,,KEN,X
+14,"Kidney beans,dryraw",0.75,,KEN,x
+15,"Kidney beans, green, boiled",0.7,,KEN,X
+16,"Kidney beans, green, raw",0.68,,KEN,x
+17,"Lentils, green, small, boiled",0.85,,RC,
+18,"Lentils, green, small, raw",0.89,,RC,
+19,"Pigeon peas,boiled",0.75,,KEN,x
+20,"Pigeon peas, raw",0.84,,KEN,x
+21,Soybean,0.74,,ASI,x
+22,"Soybean, flakes",0.58,,ASI,x
+23,"Soybean, hulls",0.4,,ASI,x
+24,"Soybean, meal",0.64,,ASI,x
+25,"Soybean,boiled",0.79,,KEN,x
+26,Soybeanboiled with fat,0.70,,KEN,x
+27,Herbes and spices,,,,
+28,"Cinnamon, powder",0.56,,ASI,x
+29,Cloverseed,0.77,,ASI,
+30, Dry flavoring mix Roiko and other flavorings,0.7,,KEN,x
+31,Garlicflakes,0.35,,ASI,x
+32,"Garlic,powder",0.32,,ASI,
+33,"Sage, leaves",0.29,,ASI,
+34,"Spice, barbecue",0.48,,ASI,x
+35,"Spice, blend",0.58,,ASI,
+36,Fish and fish products,,,,
+37,"Prawns, whole, boiled, with shell",0.58,,RC,
+38,"Prawns, whole, boiled, without shell",0.77,,RC,
+39,Egg and egg products,,,,
+40,"Egg, yoke, powder",0.37,,ASI,
+41,"Egg, chicken, boiled/poached",0.6,,FNDDS 4.1,
+42,"Eggs, powdered",0.35,,ASI,
+43,Meat and meat products,,,,
+44,"Blood, flour",0.48,,ASI,X
+45,"Blood, meal",0.62,,ASI,x

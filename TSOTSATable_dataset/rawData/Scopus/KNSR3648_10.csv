@@ -1,0 +1,24 @@
+,0,1,2
+0,Step,,Action
+1,1,Switch the monitor on (dark purple button) and press START (light,Switch the monitor on (dark purple button) and press START (light
+2,,purple button).,
+3,2,The monitor will start measuring when it detects the pulse and the,The monitor will start measuring when it detects the pulse and the
+4,,"""heart"" symbol will begin to flash. The systolic and diastolic blood","""heart"" symbol will begin to flash. The systolic and diastolic blood"
+5,,pressure readings should be displayed within a few moments (systolic,
+6,,above and diastolic below).The heart rate will also be displayed.,above and diastolic below).The heart rate will also be displayed.
+7,3,Record the reading in the participant's instrument.,Record the reading in the participant's instrument.
+8,4,"Switch the monitor off,but leave the cuff in place","Switch the monitor off,but leave the cuff in place"
+9,5,"Wait one minute, then repeat steps 1-4 two more times.","Wait one minute, then repeat steps 1-4 two more times."
+10,6,Inform the participant of the blood pressure readings only after the,Inform the participant of the blood pressure readings only after the
+11,,whole process is completed.,
+12,,"The sphygmomanometer is generally not recommended, but may be used in the",
+13,,following circumstances:,
+14,,the OMRON is not functioning,
+15,,the OMRON display shows multiple errors;,the OMRON display shows multiple errors;
+16,,to cross check OMROM blood pressure readings in various clinical states,
+17,,"such as irregular pulse,peripheral circulatory disturbance,extreme","such as irregular pulse,peripheral circulatory disturbance,extreme"
+18,,hypotension;,
+19,,when systolic BP is >200 mmHg (appropriate measurement of systolic BP,
+20,,requires inflating the cuff to a pressure of 40 mmHg above the systolic BP,
+21,,OMRON maximum inflation pressure seldom exceeds 24O mmHg),OMRON maximum inflation pressure seldom exceeds 24O mmHg)
+22,,for calibration of the OMRON Monitor.,for calibration of the OMRON Monitor.

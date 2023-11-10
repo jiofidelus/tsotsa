@@ -1,0 +1,31 @@
+,0,1,2,3
+0,,Unit,,
+1,Food components and,(for 100 g,,
+2,definition,of food),Type of method,References!
+3,VITAMINS,,,
+4,Vitamin B,mg,Microbiological,Osborne and Voogt (1978)
+5,"Sum of pyridoxal, pyridoxine,",,,
+6,pyridoxamine,,,
+7,,,HPLC,Gregory and Feldstein (1985
+8,Folic acid,ug,Microbiological,AOAC (1984)
+9,Sum of total folates,,,
+10,,,HPLC,Gregory et al. (1982)
+11,Retinol,,HPLC,Stancher and Zonta 1982
+12,Sum of all-trans retinol and other,,,Khachik et al.(1991)
+13,retinoids with vitamin activity,,,
+14,-Carotene equivalents,ug,HPLC,Stancher and Zonta (1982
+15,Sum of carotenoids with vitamin,,,Khachik et al.(1991)
+16,"activity(-carotene,-carotene,",,,
+17,a-cryptoxanthine and p-cryptoxanthine,,,
+18,Vitamin D,ug,HPLC,Thompson et al.(1982)
+19,Sum of the compounds with vitamin,,,
+20,"activity ergocalcipherol, vit D",,,
+21,"and colecalcipherol, vit D",,,
+22,Vitamin E,mg,HPLC,Barnett et al. (1980)
+23,Sum of tocopherols and tocotrienols,,,
+24,"with vitamin activity -tocopherol,",,,
+25,"-tocopherol, y-tocopherol,",,,
+26,"S-tocopherol; -tocotrienol,",,,
+27,"-tocotrienol, -tocotrienol)",,,
+28,and expressed as a-tocopherol,,,
+29,equivalent,,,

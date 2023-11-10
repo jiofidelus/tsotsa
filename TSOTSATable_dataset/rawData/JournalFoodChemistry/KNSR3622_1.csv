@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,Sample,Content,Preparation,Thickness,XRF
+1,ID,,,(mm) a,(Run ID
+2,S1,Pulp+,2 layers - oven drying at,0.6,"r1,r2,"
+3,,Skin,50C for 6 h,,r3
+4,S2,,,,"r4,r5,"
+5,,,,,r6
+6,S5,Pulp,4 layers -oven drying at,0.9,"r7,r8,"
+7,,,50C for 6 h,,r9
+8,S6,,,,"r10,rl1,"
+9,,,,,r12
+10,S8,Skin,6 layers -oven drying at,0.3,"r13,r14,"
+11,,,50C for 6 h,,r15
+12,S13,Tomato,Oven drying at 80 for 5 h,17,r16
+13,,powder,and mill powdering,,

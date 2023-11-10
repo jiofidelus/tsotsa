@@ -1,0 +1,72 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,,Study,,,,,,,,,,,,
+1,,design/,,,,No.,,intake,"OR,HR",,,Health,,
+2,First Author,Cohort,,Age Range/,Gender/,No.Case,Exposure,"levels,mg/",orRR,,Outcome,status of,,
+3,&(Year/Ref,name,Country,meanSD,female%,No.Case,assessment,day,(95%CI),Outcome definition,assessment,participants,Adjustmentsscore,Adjustmentsscore
+4,,,,,,,,Mean Q5,OR,,,,,
+5,,,,,M,9977/1775,,1538vs.,"1.2(0.80,",T2D (ADA 2014:,,,,
+6,Shah,sectional,USA,,,,24-h dietary,Q1:397,1.80),A1C6.5% and/,,,,
+7,2021/19,(NHANES,USA,47.95.1,,,recall,,OR,or fasting glu-,NR,Adults,1-11,8
+8,,2007-2014,,,,,,Mean Q5:,(95%CI),or diagnosed T2DM,,,,
+9,,,,,F 51.3%,"10,503/1657",,1457vs.,"1.0 (0.70,",or diagnosed T2DM,,,,
+10,,,,,,,,Q1:369,1.50,,,,,
+11,,Cohort,,,,,,,,,,,"1,2,4-8,",
+12,Talaei,Singapore,China,,,,Validated,Median Q4:,HR0.75,T2D (Self-reported,,Adult,"16-18,",9
+13,2018/13,Health Study,China,,,"45-74y/55.2M/F 57.3%45,411/5207",FFQ,Q1:258,"0.66,0.85",diagnosed T2D,NR,Adult,"22-24,32,",9
+14,,(1999-2010,,,,,,,,,,,"34,43",
+15,Aritici,Cross-,,,,,reported,Highest vs.,95%CI,cose110 mg/dL or,Autoana-,Pre-,,
+16,2018/20,sectional,Turkey,19-52/34.59F,19-52/34.59F,146/14,nutrient,Lowest,0.43,the use of antidiabetic,lyzer,menopausal,"1,2,6-8",
+17,2018/20,sectional,,,,,intake,Lowest,(0.94-2.19),medicine/insulin,lyzer,women,,
+18,,,,,,,,Per,,,,,,
+19,,Cohort,,48.6  0.4,M,557/NR,,increment,"0.37,1.67",,,,"1-3,7-10,",
+20,Beydoun,2004-2009,USA,,,,24-h dietary,in Ca intake,,HBG(FBG110 mg/,Immuno-,Urban adults,"22,24,26-31,",11
+21,2018/21,and,,,,,recall,659.7 mg,,dl),Analyzer,Urban adults,58-62,
+22,,2009-2013),,48.2  0.3,F 59.4%,814/NR,,increment,1.22),,,,58-62,
+23,,,,,,,,in Ca intake,,,,,,
+24,,,,,,,Validated,Median T3:,IRR 0.73,,,,,
+25,,Cohort,,,M,3011/128,FFQ&,462vs.T1,"0.45,1.17",T2D(ADA:,,,,
+26,Oh2017/18,MRCohort,Yangpyeong,40,,,12-days,197,,treatment with oral,Analyzer,Adults,"10,11,17,45",8
+27,,2005-2011,,,F 62.6%,5048/187,record,458vs.,"(0.43,0.87",cation or insulin.),,,,
+28,,,,,,,record,T1:(180,"(0.43,0.87",,,,,
+29,,Cross-,,,,,Five-pass,Per 500 mg,OR,,,,"1,2,4-10,",
+30,Pannu,sectional,Australia,18-75y,,M/F 53.4%3387/1811,24-h diet,increment,95%CI,HBG(FBG100 mg/,Hexokinase,Adults,"17,19,21,369","17,19,21,369"
+31,2017/23,VHM,,,,,recall,in Ca intake,1.26),dl),method,,"46-48,50",
+32,,Cross-,,,,,24-h recall,(716.7-,OR,HBG(FBG100 mg/,,,,
+33,Shin (2016/3,(KNHANES,Korea,44.4  0.2,M,5946/1789,and 63-item,5049.1vs.,"1.10(0.75,",tion to treat diabetes,lyzer,Obese males,"46,49,50",10
+34,,2010-2012,,,,,FFQ,333.8),1.61,mellitus),,,,
+35,,,,,,,,Median Q4:,OR,,,,,
+36,,sectional,Korea Yang-61.59.8,Korea Yang-61.59.8,M,2331/917,,525.4vs.,"1.02 (0.72,",HBG(FBG100 mg/,,Adults,"41,45",
+37,Shin(2015)/16,Part of,Namwon,,,,FFQ,Q1188.4,1.39),tion to treat diabetes,Analyzer,and multi-,,9
+38,,MRCohort,and,,,,FFQ,Q4 (506.9,,mellitus),Analyzer,nutrient,"1,5,6,10,36,",
+39,,2005-2010,Goryeong,59.7 10,F 59.8%,3473/930,,vs.Q1,0.90,mellitus),,non-users),"39,41,45,",
+40,,2005-2010,,,,,,161,0.90,,,,"55,56",
+41,,,,,,,,Highest,OR,,,Healthy pre-,,
+42,Ferreira,sectional,Brazil,18-50y,F,76/4,FFQ,Low-,95%CI,HBG,RIA,menopausal,"38,41",9
+43,2013/22,sectional,,31.31.3,,,FFQ,est(<600,3.85,FBS1000 mg/l,,women,"38,41",
+44,,,,,,,,,,T2D(treatment,,,,
+45,,Cohort,,,,,,Q4:1060-,OR,"hypoglycemic agents,",Glucose,,"1,3,7,10,14,",
+46,2011)/17,1999-2005),Australia,50.7  12.5,M/F 54.7%5200/199,M/F 54.7%5200/199,FFQ,Q1171-,"0.94 (0.61,",FPG7 mmol/L,oxidase,Adults,"44,47,51,",
+47,2011)/17,5y),,,,,FFQ,740),1.46,or 2-h plasma,method,,"53,64",
+48,,,,,,,,,,OGTT11.i mmol/L,,,,
+49,,,,,,,,Highest,OR,T2D(FBS126 mg/,,,,
+50,Torres,Cross-,,,,,,600vs.,(95%CI),dL or using insulin or,,Renal,"1,2,6,10,",
+51,(2011/25,sectional,Brazil,>18/47.3,M/F 46%,74/8,24-h recalls,Low-,0.12,an oral antidiabetic,NR,transplant,"62,63",
+52,(2011/25,sectional,,,,,,est<600,(0.004,for a minimum of,,recipients,"62,63",
+53,,,,,,,,est<600,3.16,8weeks,,,,
+54,,,,,,,,Highest,OR,,Glucose,,,
+55,Torres,Cross-,Brazil,25-70y,,M/F 80.7%57/18,Validated,800vs.,(95%CI,HBGFBG100mg/,oxidase,"Hypertensive  1, 2, 4, 6, 10,","Hypertensive  1, 2, 4, 6, 10,",17
+56,2011/24,sectional,Brazil,/56.9  1.3,,,FFQ,Low-,"1.07 (0.96,",dl),method,patients,"51,52",17
+57,,,,,,,,est(<800,1.19),,method,,,
+58,,,,,,,,Mean T3,OR,,,,,
+59,,Cross-,,,M,3846/690,,vs.T1,"1.06 (0.81,",,,,,
+60,Kim (2012)/15,KARE,Korea,51.8  0.2,,,FFQ,282.9 mg),1.37,dL or treatment of,NR,Adults,"10,36,37,39,10","10,36,37,39,10"
+61,,part of the,,,,,FFQ,Mean T3:,,T2D),,,"40,45",
+62,,KoGES),,,F52.1%,4185/456,,628.7vs.,0.92,,,,,
+63,,,,,,,,T1:(287.6),0.92,,,,,
+64,,,,,,,,Median Q4:,OR,,,,,
+65,,,,,M,"25,877/634",,629vs.,"0.93 (0.71,",Self-reported T2D,,Middle-aged,,
+66,,Cohort,,40-69y,,,Validated,Q1:254,1.22,that validated by,,Middle-aged,"1, 4, 6-8, 10",
+67,Kirii (2009)/39,JPHC5y,Japan,56.9  0.8,,,FFQ,,1.22,FBG7.8mmol/l,NR,and older,"14,15,17",8
+68,,JPHC5y,,56.9  0.8,,,FFQ,Q4:810,,and casual plasma,,population,"32,46",
+69,,,,,F56.7%,"33,919/480",,vs.Q1:,"0.76 (0.56,",glucose1i mmol/l),,,"32,46",
+70,,,,,F56.7%,"33,919/480",,(356,1.03,,,,,

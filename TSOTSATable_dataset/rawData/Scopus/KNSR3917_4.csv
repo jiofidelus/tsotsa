@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,,,From pre- to early pregnancy,From pre- to early pregnancy,From pre- to early pregnancy,,,,From early to mid-pregnancy,From early to mid-pregnancy,From early to mid-pregnancy,,
+1,Quartiles,Daily consumption,,Crude,,Multivariable modelt,Multivariable modelt,Daily consumption,,Crude,,Multivariable modelt,Multivariable modelt
+2,,,OR,,95% CI,OR,95% CI,,OR,,95 % CI,OR,95 % CI
+3,,,,"lower, upper","lower, upper",,"lower, upper",,,"lower, upper","lower, upper",,"lower, upper"
+4,Fruit,,,,"lower, upper",,,,Reference,,"lower, upper",,
+5,First quartile,< 76-2 g/d,Reference,,"0.81, 1-10",Reference,"0.77, 1.06",73.8- 124.5 g/d,Reference,,,Reference,"0.93, 1-27"
+6,Second quartile,130.4-199.9 g/d,0.94,,"0.86, 1-16",0.90,"0.77, 1.06",73.8- 124.5 g/d,1.10,,"0.95, 1.28",1.09,"0.86, 1-18"
+7,Third quartile,130.4-199.9 g/d,1.00,,"0.86, 1-16",1.01,"0.86, 1-19",1246-1918 g/d,0.99,,"0.85, 1-15",1.01,"0.86, 1-18"
+8,Fourth quartile, 199.9 g/d,0.84,,"0.72, 0.98",0.86,"073, 101",191:8 g/d,0.75,,"0.64, 0.88",0.78,"0.66, 0.92"
+9,P for trend,,0.07,,,0.28,,,<0.001,,,0.004,
+10,Vegetables,,Reference,,,Reference,,,,,,,
+11,First quartile,<100.1 g/d,Reference,,,Reference,,<95.6 g/d,Reference,,"0.79, 1-05",Reference,
+12,Second quartile,139.4190.2 g/d,0.77,,"0.67, 0.89",0.75,"0.64, 0.87",131.4179.4 g/d,0.91,,"0.79, 1-05",0.88,"0.76, 1.03"
+13,Third quartile,139.4190.2 g/d,0.75,,"0.65, 0.88",0.77,"0.65, 0.91",131.4179.4 g/d,0.83,,"0.72, 0.96",0.83,"0.71, 0.98"
+14,Fourth quartile, 190.3 g/d,0.70,,"0.61, 0.82",0.74,"0.63, 0.89", 179.4 g/d,0.67,,"0.58, 0.79",0.70,"0.59, 0.84"
+15,P for trend,,<0.001,,,0.004,,,<0.001,,,<0.001,

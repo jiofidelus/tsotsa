@@ -1,0 +1,48 @@
+,0,1,2,3,4
+0,,,TABLE7,,
+1,,"VARIABLE NAMES,DESCRIPTIONS,AND CODES USED","VARIABLE NAMES,DESCRIPTIONS,AND CODES USED","VARIABLE NAMES,DESCRIPTIONS,AND CODES USED",
+2,,FOR GRAM-WEIGHT CONVERSION FACTORS,FOR GRAM-WEIGHT CONVERSION FACTORS,FOR GRAM-WEIGHT CONVERSION FACTORS,
+3,Variable Name,Variable Description,,Codes and Descriptions,Codes and Descriptions
+4,conv_codetype,Conversion type code to indicate individual,Conversion type code to indicate individual,1-Conversion for individual food items,1-Conversion for individual food items
+5,,food items or recipes,,2-Volume-to-weight conversion for recipes,2-Volume-to-weight conversion for recipes
+6,conv_foodcode,Food code(as appears in FCT),Food code(as appears in FCT),,
+7,conv_fooddescr,Food description (as appears in FCT),Food description (as appears in FCT),,
+8,conv_method,Conversion method code,Conversion method code,1-Direct weight (grams,1-Direct weight (grams
+9,conv_method_descr,Conversion method description,Conversion method description,2-Volume(milliliters),2-Volume(milliliters)
+10,,,,3-Length (centimeters),3-Length (centimeters)
+11,,,,4-Standard volume,
+12,,,,5-Standard size,
+13,,,,7-Model weight(play-dough),7-Model weight(play-dough)
+14,conv_stdvol,Standard volume code,,11-Spoon1,
+15,conv_stdvol_descr,Standard volume description,Standard volume description,12-Spoon2,
+16,,,,13-Spoon 3,
+17,,,,31-Small kendo,
+18,,,,32-Medium kendo,
+19,,,,33 - Large kendo,
+20,conv_size,Standard size code,,1-Small,
+21,conv_size_descr,Standard size description,Standard size description,2-Medium,
+22,,,,3-Large,
+23,,,,4-Standard size,
+24,conv_factor,Mathematical conversion factor (all methods),Mathematical conversion factor (all methods),,
+25,conv_unit,Conversion unit code,,1 - Actual weight of food in grams (g),1 - Actual weight of food in grams (g)
+26,conv_unit_descr,Conversion unit description,Conversion unit description,2-Grams of food per gram of play-dough (g/g),2-Grams of food per gram of play-dough (g/g)
+27,,,,3-Grams of food per ml of food (g/ml),3-Grams of food per ml of food (g/ml)
+28,,,,5 - Grams of food for the indicated size of food (g),5 - Grams of food for the indicated size of food (g)
+29,,,TABLE8,,
+30,,"VARIABLE NAMES,DESCRIPTIONS,AND CODES USED","VARIABLE NAMES,DESCRIPTIONS,AND CODES USED","VARIABLE NAMES,DESCRIPTIONS,AND CODES USED",
+31,,,FOR STANDARD RECIPES,FOR STANDARD RECIPES,
+32,Variable Name,Variable Description,Variable Description,,Codes and Descriptions
+33,recipe_code,Recipe code,Recipe code,,
+34,recipe_descr,,Recipe description (includes names of all,Recipe description (includes names of all,
+35,,ingredients),ingredients),,
+36,recipe_type,,Recipe type (indicates if recipe was derived,Recipe type (indicates if recipe was derived,1-Standard
+37,,,directly from collected data or modified,directly from collected data or modified,2-Standard modified
+38,,through imputations),through imputations),,4-Household average
+39,recipe_type_descr,,Recipe type description,,4-Household average
+40,ingr_code,,Ingredient code (as given in FCT for,Ingredient code (as given in FCT for,
+41,,ingredients),ingredients),,
+42,ingr_descr,ingredients),ingredients),,
+43,ingr_fraction,,Ingredient fraction (as a proportion of the,Ingredient fraction (as a proportion of the,
+44,,cooked recipe weight),cooked recipe weight),,
+45,ingr_fraction_type,,Ingredient fraction type,,1-Milliliter fraction
+46,ingr_fraction_type_descr,ingr_fraction_type_descr,Ingredient fraction type description,Ingredient fraction type description,2-Grams fraction

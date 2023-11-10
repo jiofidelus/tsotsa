@@ -1,0 +1,37 @@
+,0,1,2,3,4,5,6,7
+0,Fruits,(mg/100 g),Type-A vegetablesa,(mg/100 g),Type-B vegetablesb,(mg/100 g),Type-C vegetablesc,(mg/100 g)
+1,Acai (Euterpe oleracea mart.),27,Artichoke (globe) (Cynara scolimus L.),96,Bur cucumber (Cucumis anguria L.),49,Beets (Beta vulgaris),54
+2,Apple (Pyrus malus),10,Arugula (Eruca sativa Mill),97,Chayote (Sechium edule),31,Carrot (Daucus carota),41
+3,Avocado (Persea americana mil.),45,Butter green bean (Phaseolus vulgaris L.),75,Cucumber (Cucumis sativus L.),29,Cassava (Manihot,43
+4,,,,,,,esculenta crantz manihot,
+5,Banana (Musa sp.),40,"Cabbage, white and red (Brassica",35,Eggplant (Solanum melogena L.),34,Garlic (Allium sativum L.),236
+6,Cashew (Anacardium occidentale L.),27,Cauliflower (Brassica oleracea L.),62,Okra (Abelmoschus esculentus),82,Leeks (Allium porrum L.),58
+7,Fig (Ficus carica L.),26,Celery (Apium graveolens L.),38,"Peas, green (Pisum sativum L.)",120,Onion (Allium cepa L.),68
+8,"Grapes, red or green (Vitis sp.)",24,"Chard, swiss (Beta vulgaris L.)",36,"Peppers, sweet, yellow (Capsicum",42,Palm heart (Euterpe,98
+9,,49,,42,annuum),33,edulis),
+10,Jackfruit (Arctocarpus heterophyllus),49,Chicory (Chichorim endivia L.),42,"Peppers, sweet, green (Capsicum",33,Pupunha (palm heart),88
+11,,44,,62,"Peppers, sweet, red (Capsicum",36,(Bactris gasipaes kunth.),71
+12,Kiwifruit (Actinidia chinensis plack.),44,Chicory greens (Cichorium intybus),62,"Peppers, sweet, red (Capsicum",36,Potato (Solanum,71
+13,,,,173,annuum),,tuberosum),
+14,Indian Cherry (Malgiphia emarginata),31,Coriander (Coriandrum sativum L.),173,Pumpkin (Cucurbita spp.),46,Radish (Raphanus sativus),26
+15,Mango (Mangifera indica),25,Dutch string bean (Phaseolus vulgaris,98,Scarlet eggplant (Solanum gilo Raddi.),40,Sweet Potato (Ipomoea,58
+16,Melon (Cucumis melo),22,Endive (Cichorium endivia L.),66,"Squash, summer (Cucurbita pepo)",42,Yam (Dioscorea spp.),54
+17,Papaya (Carica papaya L.),18,Kale (Brassica oleracea),96,"Squash, winter (Cucurbita maxima)",87,Taro (Colocasia esculenta),62
+18,Passion fruit (granadilla) (Passiflora,138,Lettuce (Lactuca sativa L.),40,Tomatoes (Solanum lycopersicon sp.),38,Turnips (Brassica rapa L.),41
+19,edulis),,,,,,,
+20,Peaches (Prunus persica),33,"Onions, spring or scallions (Allium",57,,,,
+21,,,fistulosum L.),,,,,
+22,Pears (Pyrus communis L.),20,"Parsley, fresh (Petroselinum sativum)",211,,,,
+23,Pequi (Caryocar brasiliense camb.),82,Spinach (Tetragonia expansa Murr.),65,,,,
+24,Persimmon (Diospyros kaki L.),21,String bean (Phaseolus vulgaris L.),66,,,,
+25,Pineapple (Ananas comosus L. merril),29,Watercress (Nasturtium officinale L.),126,,,,
+26,Pomegranates (Punica granatum L.),21,,,,,,
+27,Plums (Prunus salicina Lindl.),43,,,,,,
+28,Soursop (Annona muricata),56,,,,,,
+29,Strawberry (Fragaria vesca L.),33,,,,,,
+30,Sugar apples (sweetsop) (Annona,92,,,,,,
+31,squamosa),,,,,,,
+32,Surinam cherry (Eugenia uniflora L.),30,,,,,,
+33, Tamarinds (Tamarindus indica L.),105,,,,,,
+34,"Tangerines, mandarin oranges (Citrus",29,,,,,,
+35,reticulata),,,,,,,

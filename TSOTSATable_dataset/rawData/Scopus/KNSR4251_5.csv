@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6
+0,Primers' codes,Na,Np,%P,Amplicon,Region-specific,Samples containing the
+1,,,,,lengths (bp),bands (bp),region-specific bands
+2,RT-6/ISSR-2,7,7,100,250-1134,1134,"B1,B3-B6, B10-B14"
+3,RT-6/RM-2,5,5,100,409  941,,
+4,RT-6/RM-125,7,7,100,229  1446,621,HP2
+5,RT-6/RM-130,10,10,100,238 -1461,889,HP2
+6,,,,,,765,HP2
+7,,,,,,250,QT
+8,,,,,,238,"B9,B11"

@@ -1,0 +1,63 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Volatile Compounds,,,LRI,,,,g kg-1 FW,,,,
+1,Volatile Compounds,RT,RI,LRI,Anli,Bayuesu,Brown Peel,Golden,KorlaXiangli,Lyubaoshi,Xizilu,Identification
+2,Methyl geranate,12.71,1327,1326,-,3.7,2.16b,,,,,"MS,RI"
+3,Eugenol,13.27,1364,1359,-,0.40c,2.16b,20.15a,,0.42c,-,"MS,RI"
+4,(E--Damascone,14.11,1421,1420,,2.93b,-,,,0.81,2.29b,"MS,RI"
+5,(E)-Geranyl acetone,14.60,1456,1454,12.00a,2.93b,-,-,0.63c,2.21b,2.29b,"MS,RI"
+6,-Curcumene,15.09,1492,1483,2.62c,-,,,2.89c,0.50b,2.02a,"MS,RI"
+7,-Farnesene,15.35,1512,1507,2.62c,-,-,18.09a,2.89c,1.48d,4.04b,"MS,RI"
+8,Geranyl linalool,23.85,2024,2034,72.36,,2.16e,,2.89c,,,"MS,RI"
+9,SubTOTAL,,,,93.17a,66.11b,2.16e,38.24c,4.16e,8.88d,11.39d,
+10,6-Methyl-5-hepten-2-one,7.92,997,991,0.91a,2.28b,1.52bc,1.94b,0.22c,0.34c,1.38bc,"MS,RI"
+11,Acetophenone,7.92,1072,1068,0.91a,",",,,-,0.32b,,"MS,RI"
+12,4-Oxoisophorone,9.56,1148,1147,-,-,2.95,-,-,0.52,-,"MS,RI"
+13,Benzophenone,16.88,1630,1625,,,2.95,1.93c,-,,,"MS,RI"
+14,SubTOTAL,,,,16.42a,2.28c,4.47b,1.93c,0.22e,1.18d,1.38d,
+15,,,,,,2.93d,Alkanes,1.93c,,,,
+16,Dodecane,10.65,1198,1200,1.39e,2.93d,0.86f,3.36c,,5.67b,4.99a,"MS,RI"
+17,Tridecane,12.27,1298,1300,7.40a,0.90d,4.20c,5.69b,0.41e,0.81d,7.69a,"MS,RI"
+18,Farnesane,13.46,1376,1376,19.32a,0.63e,2.82d,7.98b,0.54ef,0.36f,7.19c,"MS,RI"
+19,Tetradecane,13.80,1400,1400,28.98b,4.86e,11.68c,43.44a,7.92d,1.91f,28.12b,"MS,RI"
+20,n-Octyleyclohexane,14.24,1443,1447,8.30c,0.75e,,10.36a,1.49d,1.11de,9.65b,"MS,RI"
+21,3-Methyltetradecane,14.76,1471,1500,13.17b,15.65e,193.53a,8.22bc,1.78c,8.22bc,7.01bc,"MS,RI"
+22,Pentadecane,15.20,1500,1500,58.71b,15.65e,19.01d,78.29a,16.83e,0.68f,30.77c,"MS,RI"
+23,3-Methylpentadecane,15.94,1572,1571,21.92a,0.66g,18.29b,5.29c,0.59d,0.63d,1.13d,"MS,RI"
+24,n-Nonylcyclohexane,15.95,1558,1556,21.82bc,0.66g,2.68c,7.76a,1.41e,1.07f,2.35d,"MS,RI"
+25,Hexadecane,16.50,1600,1600,21.82bc,5.46c,213.03a,39.79b,3.53c,0.41c,5.76c,"MS,RI"
+26,SubTOTAL,,,,185.16c,32.88e,466.10a,210.17b,34.49e,20.87f,104.67d,
+27,,,,,,,Heterocycle,,,,,
+28,2-Pentyl-furan,5.76,1001,996,4.91a,0.55e,1.49d,3.08c,0.15f,4.33b,0.51e,"MS, RI"
+29,3-Methyl-2-oxovalerate,4.61,958,957,-,,0.61c,4.11b,0.32d,5.10a,,"MS,RI"
+30,Methyl,,,,31.21a,,,,,5.10a,,
+31,2-hydroxy-3-methyl,5.80,1003,994,31.21a,2.04d,0.84g,1.44e,0.97f,5.06c,7.98b,"MS,RI"
+32,pentanoate,,,,,,,,,,,
+33,Hexyl acetate,6.27,1011,1005,21.11a,-,2.60b,2.30c,0.08d,2.22c,2.69b,"MS,RI"
+34,Hexyl acetate,6.59,1021,1011,3.39,,,,,3.87c,7.68b,"MS,RI"
+35,Methyl 2-ethyl hexanoate,7.25,1049,1043,10.31a,1.82e,2.90d,2.79d,0.32f,3.87c,7.68b,"MS,RI"
+36,Ethyl,,,1043,,,,,,3.87c,,
+37,2-hydroxy-4-methyl,7.98,1077,1078,1.35c,13.36a,-,-,,-,3.38b,"MS,RI"
+38,valerate,,,,,,,,,,,
+39,Ethyl 2-ethylhexanoate,8.94,1104,1109,-,0.77,-,-,-,-,,"MS,RI"
+40,iso-butyrate,9.63,1151,1145,,-,,,-,,0.58,"MS,RI"
+41,2-Phenylethyl formate,10.20,1173,1176,4.76a,,1.00c,0.75c,-,2.88b,-,"MS,RI"
+42,iso-butyrate,10.42,1183,1186,-,-,-,-,-,-,1.3,"MS,RI"
+43,Ethyl octanoate,10.60,1198,1196,-,0.82,0.98b,-,,-,-,"MS,RI"
+44,(Z)-3-Hexenyl valerate,11.17,1232,1235,,0.60c,0.98b,,0.53b,0.22d,2.57a,"MS,RI"
+45,Hexyl 2-methylbutyrate,11.26,1237,1239,i,0.60b,,,0.53b,,2.57a,"MS,RI"
+46,(E-2-Hexenyl valerate,11.31,1240,1243,-,-,1.19,,0.53b,,0.90b,"MS,RI"
+47,Phenethyl acetate,11.64,1260,1256,,-,1.63c,4.14a,0.52d,0.58d,0.90b,"MS,RI"
+48,Propyl benzoate,12.09,1287,1284,-,-,1.55,,0.52d,,1,"MS,RI"
+49,Ethyl nonanoate,12.25,1297,1294,,0.24,,,,,-,"MS,RI"
+50,formate,12.41,1307,1271,,,,,0.72,-,-,MS
+51,2-methylcrotonate,12.70,1327,1325,0.65b,-,-,,-,0.46c,3.08a,"MS,RI"
+52,Hexyl tiglate,12.81,1333,1331,-,-,-,-,,-,0.6,"MS,RI"
+53,(E)-2-Hexenyl tiglate,12.90,1340,1338,,-,-,-,0.25b,-,0.52a,"MS,RI"
+54,Butyl benzoate,13.51,1380,1377,2.28a,-,,1.78c,0.22d,2.05b,0.49,"MS,RI"
+55,(Z)-3-Hexenyl hexanoate,13.56,1383,1382,-,,,,,-,0.49,"MS,RI"
+56,Ethyl decanoate,13.75,1396,1392,-,0.29,,,,,-,"MS,RI"
+57,Ethyl laurate,16.43,1595,1597,,0.38,,-,,,,"MS,RI"
+58,2-Ethyl hexyl benzoate,17.98,1722,1735,-,-,5.63,,,-,-,"MS,RI"
+59,Methyl palmitate,21.76,1935,1928,-,,1.67a,1.09b,0.28c,,,"MS, RI"
+60,Ethyl palmitate,23.54,2010,1996,-,22.3c,,,,,,"MS,RI"
+61,SubTOTAL,,,,75.08a,22.3c,20.6c,18.39c,4.35d,22.43c,43.52b,

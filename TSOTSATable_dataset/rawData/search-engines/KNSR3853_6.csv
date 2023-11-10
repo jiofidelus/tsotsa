@@ -1,0 +1,26 @@
+,0,1,2,3,4
+0,Food description,Reference,Processing,content,decrease
+1,Broccoli,Sones et al. (1984a),Raw,61.1,39.1
+2,,,Cooked,37.2,
+3,"Broccoli,frozen",Sones et al.1984a,Raw,50.7,59.2
+4,,,Cooked,20.7,
+5,Brussels sprouts,McMillan et al. 1986),Raw,247.0,40.1
+6,,,Boiled*,148.0,
+7,,Sones et al.1984a,Raw,226.2,45.3
+8,,,Boiledt,123.7,
+9,"Brussels sprouts, frozen",Sones et al.(1984a),Raw,90.5,32.3
+10,,,Cooked,61.3,
+11,Cabbage,Sones et al.1984a),Raw,108.9,27.8
+12,,,Boiledt,78.6,
+13,"Cabbage,red",Sones et al.1984a,Raw,66.9,18.1
+14,,,Cooked,54.8,
+15,Cauliflower,Sones et al.1984a),Raw,62.0,32.3
+16,,,Boiledt,42.0,
+17,"Cauliflower,frozen",Sones et al. (1984a),Raw,40.5,31.1
+18,,,Cooked,27.9,
+19,"Kale, curly",Sones et al. (1984a),Raw,89.4,22.7
+20,,,Cooked,69.1,
+21,Kohlrabi,Sones et al.1984a),Raw,109.3,32.8
+22,,,Cooked,73.4,
+23,Turnip-swede,Sones et al.1984a),Raw,56.0,48.0
+24,,,Boiledt,29.1,

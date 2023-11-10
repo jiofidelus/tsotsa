@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6
+0,Treatments,Texture,Aroma,Appearance,Flavour,Sweetness,Tartness/
+1,,,,,,,sourness
+2,Control,6.0c,6.0c,5.0c,5.0c,2.0c,3.8a
+3,1 uM 24-EBL,6.1c,6.1c,5.13c,5.13c,2.1c,2.0b
+4,2 uM 24-EBL,7.0b,7.0b,6.0b,6.0b,3.0b,1.3c
+5,3 uM 24-EBL,8.8a,8.8a,7.8a,7.ga,4.ga,1.4c

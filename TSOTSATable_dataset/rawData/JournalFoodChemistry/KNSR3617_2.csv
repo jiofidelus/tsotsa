@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,Adsorbent,,Time,AdsorptionCapacity,LOD,RSD,Ref
+1,,,(min),(mgg1),(gL-1,(%),
+2,HKUST-1 (MOF-199),HKUST-1 (MOF-199),10,210,0.150,5.6,"(Ghorbani-Kalhor,"
+3,,,,,,5.6,2016)
+4,Chitosan/thiol/MOF- GFAASa,Chitosan/thiol/MOF- GFAASa,20,109,0.008,4.1,"Huang et al.,2020"
+5,Nano-TiO2,-2-mercaptobenzothiazole,25,148.2,0.330,3.5,"Pourreza et al., 2014)"
+6,Modified mesoporous silica,Modified mesoporous silica,30,148.2,0.330,,"Awual et al.,2018"
+7,Polymers-paper IIP,Polymers-paper IIP,60,155.2,0.40,4.9,"Huang et al.,2017"
+8,allyl thiourea IIP - ICP -AES,allyl thiourea IIP - ICP -AES,8,38,,2.17,"Li et al., 2015"
+9,ethylene glycol dimethacrylate IIP,ethylene glycol dimethacrylate IIP,40,16.6,0.140,2.6,"Ashouri et al.,2016)"
+10,Cationic block copolymer,Cationic block copolymer,10,159.2,0.150,2.2,"Altunay et al., 2021)"
+11,Magnetic cellulose- melamine IIP,Magnetic cellulose- melamine IIP,13,138,0.500,2.5,This work

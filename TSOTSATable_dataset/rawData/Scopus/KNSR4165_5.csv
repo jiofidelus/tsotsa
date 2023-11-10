@@ -1,0 +1,5 @@
+,0,1,2
+0,Classification,Serum 25-hydroxyvitamin D,Dietary Ca intake
+1,Sufficiency,>50 nmol/l,> 500 mg/d
+2,Insufficiency,30-50 nmol/l,300-500 mg/d
+3,Deficiency,<30 nmol/l,< 300 mg/d

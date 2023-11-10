@@ -1,0 +1,22 @@
+,0,1,2
+0,,Variable 1,Variable 2
+1,Chicken,,
+2,Weight,1kg,1.8 kg
+3,Age,32-48 days,54-56 days
+4,Turkey,,
+5,Sex,Female,Male
+6,Weight,8kg,18 kg
+7,Age,16-17weeks,24 weeks
+8,Chicken cuts,,No.total samples analysed
+9,Whole chicken.meat and skin,,16
+10,"Whole chicken,meat only",,16
+11,"Chicken,breast,meat only",,32
+12,"Chicken,drumstick,meat and skin",,16
+13,"Chicken,drumstick,meat only",,16
+14,"Chicken,wing,meat and skin",,32
+15,"Chicken,leg,meat and skin",,16
+16,"Chicken,leg,meat only",,16
+17,Turkey cuts,,
+18,"Turkey,breast,meat only",,32
+19,"Turkey,drumstick,meat and skin",,16
+20,"Turkey,drumstick,meat only",,16

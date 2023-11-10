@@ -1,0 +1,22 @@
+,0,1,2,3,4
+0,Root trait,Term,df,GS 25,GS 61
+1,Root length (mm),,,,
+2,,Tillage,2,NS,<0.01
+3,,Traffic,2,NS,<0.000
+4,,Tillage  traffic,35,NS,NS
+5,Surface area (mm2),,,,
+6,,Tillage,2,NS,<0.05
+7,,Traffic,2,NS,<0.000
+8,,Tillage  traffic,35,NS,NS
+9,Root diameter(mm,,,,
+10,,Tillage,2,NS,NS
+11,,Traffic,2,NS,NS
+12,,Tillage  traffic,35,NS,NS
+13,Root volume (mm3),,,,
+14,,Tillage,2,NS,NS
+15,,Traffic,2,NS,<0.05
+16,,Tillage  traffic,35,NS,NS
+17,RLD (mm3),,,,
+18,,Tillage,2,NS,<0.01
+19,,Traffic,2,NS,<0.000
+20,,Tillage  traffic,35,NS,NS

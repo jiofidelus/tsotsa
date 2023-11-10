@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,,,,Limite permitido(g/100 g ou 100 mL,,
+1,Edulcorante,Codex32,Brasil,EUA33,Europa34,Japao3s
+2,Acesulfame de potassio,"0,011-0,5","0,026  0,5",ND,"0,0025-0,25","0,035  1,5"
+3,Advantame,SP,"0,00375  0,04",ND,"0,00005  0,04",ND
+4,Aspartame,"0,004-0,03","0,056 -1,0",ND*,"0,0025  0,6",ND
+5,Acido ciclamico e seus sais,"0,03-1,0","0,03  0,075",NP,"0,025  0,125",NP
+6,Glicosideos de esteviol,"0,025-0,3","0,045  0,24",ND,"0,02  0,33",ND
+7,Neotame,"0,03-0,35","0,0033 -0,1",ND,"0,0001  0,025",ND
+8,Sacarina,"0,008-0,25","0,01  0,12",**,"0,005  0,3","0,01  0,2"
+9,Sucralose,"0,001-0,1","0,02  0,3",ND,"0,001 0,24","0,04  1,2"
+10,Taumatina,Quantum satis,Quantum satis,NP,"0,005-0,04",ND

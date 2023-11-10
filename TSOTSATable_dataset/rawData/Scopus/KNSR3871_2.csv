@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8
+0,,Rate of Foreign-born (FB) Latinx,Rate of Foreign-born (FB) Latinx,Rate of Foreign-born (FB) Latinx,Rate of Foreign-born (FB) Latinx,Rate of Foreign-born(FB Asian,Rate of Foreign-born(FB Asian,Rate of Foreign-born(FB Asian,
+1,,Low,Medium,High,F-stat,Low,Medium,High,F-sta
+2,Dependent variables,,,,,,,,
+3,Tobacco retailer density,1.0,1.4,2.1,***,1.4,1.4,1.8,***
+4,Alcohol retailer density,1.1,1.6,2.6,***,1.6,1.5,2.1,***
+5,Independent variables,,,,,,,,
+6,% Non-Latinx White,56.0,37.7,25.7,***,45.4,40.6,33.0,***
+7,% Under age 18,21.6,23.1,24.1,***,23.2,22.8,22.9,***
+8,% Ages 18-24,9.8,10.0,10.2,+,10.8,9.4,9.8,ns
+9,% Ages 55+,32.4,28.7,25.9,***,28.9,29.3,28.8,***
+10,% Less than high school,8.3,17.9,29.6,***,18.2,15.0,22.9,ns
+11,Median HH income ($,"83,872","69,503","56,254",***,"69,750","79,724","59,726",***
+12,"% HH moved, past 12 months",14.5,13.5,11.9,***,14.4,13.0,12.6,***
+13,% Commercial land use,4.2,5.2,5.4,***,4.3,5.1,5.4,***
+14,Population density (per sq. mile),5673,7216,"13,299",***,7458,7952,"10,844",***

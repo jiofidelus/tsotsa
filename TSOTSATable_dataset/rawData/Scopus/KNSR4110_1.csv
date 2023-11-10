@@ -1,0 +1,51 @@
+,0,1,2,3,4,5,6
+0,Element,Chemical,Crop,Beneficial,*Toxic levels,*Lethal,References
+1,,form,,levels,,levels,
+2,Aluminium,AlCl3,Camellia sinensis,200 and 400,1000 mol,,Sun et al. (2020)
+3,,AlCl3,, mol L-1,L-1,,
+4,,AlCl3,Pea (Pisum sativum),,,>50 M,Sujkowska-Ryb-
+5,,,,,,,kowska(2012)
+6,Boron,HBO,Pistachio (Pistacia vera),5-10 mg,20 mg kg~l,,Karimi et al. (2018)
+7,,,,kg-1,,,
+8,,HBO,Apple (Malus domestica),0.01%,0.1-0.2%,>0.3%,Fang et al. (2016)
+9,Chloride,CaCl2,Potato (Solanum tuberosum) cv Afra,200-800 mg,,,Koch et al.2021
+10,,,,Cl~kg~1,,,
+11,,"CaCl2,","Faba bean,(Vicia faba cv.Nura and line",,15 mM,,Tavakkoli et al.
+12,,MgCl2 and,1487/7.,,CaCl15mM,,(2010)
+13,,KCI,,,MgCland,,
+14,,,,,40 mM KCl,,
+15,Cobalt,CoNO,Wheat (Triticum aestivum L.),300 ppm,>300 ppm,,Sarma et al.2014
+16,,CoS,Maize(Zea mays cv.Giza 310 and Hi tick,20 ppm,>20 ppm,,Gad and Metwally
+17,,,2030,,,,(2015)
+18,,CoCl2,Tomato (Lycopersicum,50 mg kg-1,100-200 mg,300 mg,Jayakumar et al.
+19,,,esculentum Mill.),,kg~1,kg-1,(2013)
+20,Copper,Cu NPs,Tomato (Lycopersicum,0.5 mg,0.75-1 mg,,Lopez-Lima et al.
+21,,,esculentum ) cv. Rio Grande,mL-1,mL-1,,(2021)
+22,,CuCl2,Pea(Pisum sativum L.) var.Douce Province -,,,200 M,Ben Massoud et al.
+23,,,,,,,(2019)
+24,Iodine,10,,Lettuce (Lactuca sativa L. cv.Longifolia20-40 M,,,Blasco et al. 2011)
+25,,KI,"Barley (Hordeum vulgare L.) v. spring, cv.",5 mg kg-1,100-300 mg,>300 mg,Duborska et al.
+26,,,Signora,,kg~1,,(2018)
+27,Iron,Fe-EDTA,Rice (Triticum aestivum),10 and,250 and,,Mehraban et al.
+28,,,,50 mg L-1,500 mg L-1,,(2008)
+29,,FeSO4,"Rice (Triticum aestivum) genotype IR29,",,,1000 mg,Wu et al.2014
+30,,7HO,"Pokkali, Kasalath and Nipponbare",,,L-i,
+31,Lanthanum,La(NO3,Rice (Oryza sativa),0.050.1,1.0-1.5,>1.5,Liu et al.2013
+32,,,,mmol/L,mmol/L,mmol/L,
+33,Lithium,LiCl or LiOH Butterhead lettuce (Lactuca sativa var,,2.5 mgdm-3 20-50,2.5 mgdm-3 20-50,100,Kalinowska et al.
+34,,,capitatacv.,,mgdm-3,mgdm-3,(2013)
+35,,,Justyna,,,,
+36,Manganese,Mn2+,Soy-,,>30 M,100 M,Blamey et al.
+37,,,bean (Glycine max)Bunya',,,,(2015)
+38,,MnSO4,Rice (Oryza sativa L.cv.BRRI dhan47),0.5 mM,,,Rahman et al.
+39,,,,,,,(2016)
+40,Molybdenum,"(NH,MoOMustard(Brassica campestris","(NH,MoOMustard(Brassica campestris",0.14 mg,0.15 mg kg~,0.3 mg,Zhang et al. 2012
+41,Nickel,Ni2+,Sunflower (Helianthus annus),20 mg L-1,40-60 mg,,Ahmad et al.2009)
+42,,,,,L-1,,
+43,,NiCl2,Eruca sativa,,500 g g~1,>500g,Kamran et al.
+44,,,,,,g-1,(2016)
+45,Selenium,"Na,SeOandLettuceLactuca sativa Lv.cv.Justyna",,2-6M,20-40 M,60 uM,Hawrylak-Nowak
+46,,NaSeO3,,NaSeOor,NaSeO4 or,"Na,SeO4",(2013)
+47,,,,2-10 M,15-25M,or 30 uM,
+48,,,,Na2SeO3,NaSeO3,Na2SeO3,
+49,Silicon,"NaSiO,NPsWheat (Triticum aestivum L.) genotype Xin3 mM",,,nd,nd,Rahman et al.

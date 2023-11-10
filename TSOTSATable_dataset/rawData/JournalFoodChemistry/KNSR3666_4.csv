@@ -1,0 +1,41 @@
+,0,1,2,3,4
+0,Fruits,Species,Compounds,Production,References
+1,,,,system,
+2,Lemons,Citrus meyeri,Citric acid,1,"Uckoo,"
+3,,Tan.,,Conventional,"Jayaprakasha,&"
+4,,,,,"Patil,2015"
+5,,,Malic acid,,
+6,Plums,Prunus,Succinic,Organic,"Cuevas et al.,"
+7,,salicina Lindl.,acid,,2015Lombardi-
+8,,,Shikimic,,"Boccia,Lucarini"
+9,,,acid,,"Lanzi,Aguzzi,"
+10,,,Tartaric acid,No effects,"Cappelloni, 2004;"
+11,,Prunus,,,"Cuevas et al.,2015"
+12,,"domestica L.,",Citric acid,,
+13,,cv.Shiro,Fumaric,,
+14,,,acid,,
+15,Blueberry,Vaccinium,Malic citric,Organic,"Wang, Chen,"
+16,,corymbosum,Citric acid,No effects,"Sciarappa, Wang,"
+17,,L.,,,"&Camp,2008"
+18,Peaches,Prunus persica,Citric acid,Organic,"Carbonaro,"
+19,,"L., cv. Regina",,,MatteraNicoli
+20,,bianca,,,"Bergamo, &"
+21,,,,,"Cappelloni,2002"
+22,Kiwifruits,Actinidia,Citric acid,Organic,"D'Evoli et al.,"
+23,,"deliciosa, cv.",Malic acid,,2013Amodio
+24,,Hayward,,,"et al.,2007"
+25,,,Citric acid,No effects,
+26,,Actinidia,,,
+27,,"deliciosa, cv.",,,
+28,,Hayward,,,
+29,Pears,Pyrus,Citric acid,No effects,"Carbonaro,"
+30,,"communis L.,",,,"Mattera, Nicoli,"
+31,,cv.Williams,,,"Bergamo,&"
+32,,,,,"Cappelloni,2002"
+33,Pepper,Capsicum,Citric acid,No effects,"Lopez,Fenoll"
+34,,annuum L.,,,"Hellin,& Flores,"
+35,,,,,2014
+36,Tomato,Solanum,Citric acid,No effects,"Ordonez-Santos,"
+37,,lycopersicum,Malic acid,,Vazquez-Oderiz
+38,,L.,,,Romero-
+39,,,,,"Rodriguez,2011"

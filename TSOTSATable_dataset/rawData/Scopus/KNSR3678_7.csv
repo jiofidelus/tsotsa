@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,No,Project,Year,Picking method,Num-,Number,3D,Environment,Environment,Harvest rate,Speed,,Damage rate,Issues,Note
+1,,,,,ber,of cam-,imaging,Modi-,Description,,Single,Overall,,to be,
+2,,,,,of,eras,tech-,Modi-,Description,,Single,Overall,,improved,
+3,,,,,arms,,niques,fied,,,arm,,,,
+4,21,MetoMo-,2018,Stem cut,1,1,Stereo,,Greenhouse,N/A,N/A,,0%*,Not,* Claimed to be
+5,,tion-,,,,,,,,,,,,speci-, damage free
+6,,Cherry,,,,,,,,,,,,fied,*Claimed the
+7,,tomato,,,,,,,,,,,,,potential
+8,,(MetoMo-,,,,,,,,,,,,,additional task
+9,,"tion, 2020)",,,,,,,,,,,,,additional task
+10,,,,,,,,,,,,,,," like pruning,"
+11,,,,,,,,,,,,,,,"pollinating,etc"
+12,22,Botian-,2019,Grasp+stem cut,1,2,Stereo,V,Greenhouse,90%,10 s/frui,,5%,Not,
+13,,Tomato,,,,,,,,,,,,speci-,
+14,,(Botian,,,,,,,,,,,,fied,
+15,,2019),,,,,,,,,,,,,
+16,23,ROOT,2020,Grasp+twist,1,2,N/A,V,Greenhouse,N/A,<4 s/fruit*,,N/A,Versatil-,* Observed
+17,,AI-Cherry,,,,,,,,,,,,ity,through the
+18,,tomato,,,,,,,,,,,,,demo video
+19,,"ROOT AI,",,,,,,,,,,,,, Technology has
+20,,2020),,,,,,,,,,,,,been applied
+21,,,,,,,,,,,,,,,to strawberry
+22,,,,,,,,,,,,,,,and cucumber
+23,,,,,,,,,,,,,,,picking

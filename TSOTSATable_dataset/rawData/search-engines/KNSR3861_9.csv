@@ -1,0 +1,28 @@
+,0,1,2
+0,"Signs,symbols and abbreviations",,Explanation
+1,Tagname<DEN>,Density. There is no information on density in,Density. There is no information on density in
+2,,the printed ASEAN FCTs 2000.It is added in,the printed ASEAN FCTs 2000.It is added in
+3,,"this electronic FCD for some liguid foods, i.e.","this electronic FCD for some liguid foods, i.e."
+4,,"milk,drinking yoghurt,beverages, and light","milk,drinking yoghurt,beverages, and light"
+5,,sauces.,
+6,Value with(under Tagname <FAT>,Fat content derived from direct extraction,Fat content derived from direct extraction
+7,,without acid digestion<FATCE>. The value,without acid digestion<FATCE>. The value
+8,,belongs to the Philippine database. It was,belongs to the Philippine database. It was
+9,,included in the ASEAN FCTs in a bracket only,included in the ASEAN FCTs in a bracket only
+10,,when there is no value of<FAT>,when there is no value of<FAT>
+11,Tagname <VITA RAE>,Retinol activity equivalent (RAE=,Retinol activity equivalent (RAE=
+12,(additional INFOODS Tagname in this,RETOL +CARTB/12,
+13,version),,
+14,,"In the printed ASEAN FCTs 2000,<VITA>","In the printed ASEAN FCTs 2000,<VITA>"
+15,,Retinol Equivalent (RE) was used,Retinol Equivalent (RE) was used
+16,,"(VITA,RE=RETOL+CARTB/6","(VITA,RE=RETOL+CARTB/6"
+17,Op,"p, when associated with a zero indicates","p, when associated with a zero indicates"
+18,,presumed zero;it is used for components not,presumed zero;it is used for components not
+19,,"analysed, but naturally assumed to contain little","analysed, but naturally assumed to contain little"
+20,,or none of that nutrient.,or none of that nutrient.
+21,wl,With,
+22,wlo,Without,
+23,bbq,Barbeque,
+24,prep,Preparation/prepared,Preparation/prepared
+25,T,"Trace, see detail in Table 6","Trace, see detail in Table 6"
+26,,"Missing value, no chemical analysis","Missing value, no chemical analysis"

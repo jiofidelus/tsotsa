@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7
+0,Country,Unit,Adults (RNI),Pregnancy(RNI),Lactation (RNI),,Infants (AI),
+1,,,,,,0-4 or 0-5 mon),4-11or5-11mon,4-11or5-11mon
+2,"United Kingdom (2016) [2,50]",g,200,300,260,50,,50
+3,Japan (2020)[51],ug,240,480,340,40,,60
+4,EFSA(2014) [52],g,330,600,500,-,,80
+5,Nordic countries(2012)[52],ng,300,500,500,50,,50
+6,Netherlands (2003)[52],g DFE,300,400,400,50,,60
+7,Germany/Austria/Switzerland (2013) [52],g DFE,300,600,600,60,,80
+8,JSA/Canada(1998)[30],g DFE,400,600,500,65,,80
+9,Australia/New Zealand (2017) [53],g DFE,400,600,500,65,,80
+10,FA0/WHO(2004)[52],g DFE,400,600,500,80,,80

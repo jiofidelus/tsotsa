@@ -1,0 +1,20 @@
+,0,1,2
+0,Section,Criteria,Include
+1,,,if
+2,Language,Study reported in English,Yes
+3,Design,"Prospective or retrospective cohort or,Case-control",Yes
+4,,cross-sectional study,
+5,,"Case reports,reviews,editorials, letter to the editor,",No
+6,,qualitative research and short communication,
+7,Population,Adults aged>18years,Yes
+8,,Animal study or study including persons <18 years,No
+9,Content,Study examines the tools for estimating dietary-,Yes
+10,,derived polyphenols intake,
+11,,"Study examines encapsulated phytochemicals,",No
+12,,"extract from herbal sources,purified or modified",
+13,,version of phytochemicals and supplement,
+14,,Mechanistic study (ie. bioavailability or mechanistic,No
+15,,feeding study),
+16,,Details for tool to estimated dietary polyphenol,No
+17,,intake was not included,
+18,Access,Full-text article accessible,Yes

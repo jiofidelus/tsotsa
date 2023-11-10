@@ -1,0 +1,27 @@
+,0,1,2
+0,Bioassays,Arm 1,Arm 2
+1,Bioassay 1,UD R.dentatus or P.glabrum,"CH,C12"
+2,Bioassay 2,"Crop plants (rice, wheat, mustard,",CHCl2
+3,,potato and tomato),
+4,Bioassay 3,ID R.dentatus or P.glabrum,CHCl2
+5,,JA R. dentatus or P. glabrum,CHCl2
+6,,MD R. dentatus or P. glabrum,CHCl2
+7,Bioassay 4,UD R.dentatus,UD P.glabrum
+8,,ID R. dentatus,ID P.glabrum
+9,,JA R. dentatus,JA P.glabrum
+10,,MD R. dentatus,MD P.glabrum
+11,Bioassay 5,ID or JA or MDplants,UD plants
+12,,R. dentatus,R. dentatus
+13,,P.glabrum,P.glabrum
+14,,R. dentatus,P.glabrum
+15,,P.glabrum,R. dentatus
+16,Bioassay 6,ID plants,JA or MD plants
+17,,R. dentatus,R. dentatus
+18,,P.glabrum,P. glabrum
+19,,R. dentatus,P. glabrum
+20,,P.glabrum,R. dentatus
+21,Bioassay7,MD plants,JA plants
+22,,R. dentatus,R. dentatus
+23,,P.glabrum,P.glabrum
+24,,R. dentatus,P. glabrum
+25,,P.glabrum,R. dentatus

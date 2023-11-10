@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Atmosphere,Storage Time,Decay,Decay,Total Microorganisms
+1,Composition,(Days),Incidence(%),Severity,(105 cfu)
+2,Initial,0,,,1.67 C
+3,PL1,,28.0 cB 1,14.4 bB,2.37 bB
+4,PL2,14+3,40.7 bB,25.0 bB,2.60 bB
+5,Control,,51.9 aB,44.0 aB,4.03 aB
+6,PL1,,40.7 cA,28.2 cA,3.20 cA
+7,PL2,28+3,53.7 bA,44.4 bA,4.10 bA
+8,Control,,87.0 aA,69.5 aA,5.90 aA

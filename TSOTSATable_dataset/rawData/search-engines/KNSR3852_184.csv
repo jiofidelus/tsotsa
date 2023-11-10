@@ -1,0 +1,11 @@
+,0,1,2,3
+0,,Table 3.1.,Utensils used,
+1,Utensil code,Utensil code,Utensil - Type,Volume of water
+2,,,,(ml)
+3,1,,Bowl,350
+4,2,,Glass,250
+5,3,,Cup,200
+6,4,,Plate,500
+7,5,,Tablespoon,15
+8,6,,Teaspoon,5
+9,7,,Saucer,150

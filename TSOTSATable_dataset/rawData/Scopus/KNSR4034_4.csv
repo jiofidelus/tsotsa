@@ -1,0 +1,23 @@
+,0,1,2,3
+0,Dietary variable,OR (95% CI) a,Pvalue,Reduction
+1,,,,in apparent
+2,,,,association (%) b
+3,AMED,,,
+4,AMED overall,"0.99(0.94,1.03)",0.551,
+5,AMED minus vegetables,"1.01(0.96,1.06)",0.722,42.2
+6,AMED minus legumes,"1.01(0.96,1.06)",0.784,54.2
+7,AMED minus fruits,"0.99(0.94,1.04)",0.655,26.6
+8,AMED minus whole grains,"0.99(0.95,1.04)",0.735,43.9
+9,,"1.02(0.97,1.07)",0.363,-54.7
+10,AMED minus fish,"0.96(0.92,1.01)",0.094,-167.7
+11,AMED minus alcohol,"0.99(0.95,1.03)",0.549,10.5
+12,AMED minus MUFA:SFA ratio,"0.95(0.90,0.99)",0.017,-275.4
+13,DASH,,,
+14,DASH overall,0.86(0.83-0.90),<0.001,
+15,DASH minus vegetables,0.88(0.84-0.91),<0.001,11.5
+16,DASH minus legumes,0.87(0.83-0.90),<0.001,3.6
+17,DASH minus fruits,0.85(0.82-0.89),<0.001,6.5
+18,DASH minus whole grains,0.85(0.82-0.89),0.001,-7.7
+19,DASH minus full-fat dairy products,0.93(0.89-0.97),0.001,50.6
+20,DASH minus sodium,0.89(0.86-0.93),<0.001,20.5
+21,DASH minus red& processed meat,0.88(0.85-0.92),<0.001,15.8

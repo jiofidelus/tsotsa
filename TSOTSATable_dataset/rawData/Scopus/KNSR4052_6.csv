@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,,,,,,Corona
+1,,Sepal,Sepal,Petal,Petal,filament
+2,,length,width,length,width,length
+3,Provenance,(mm),(mm),(mm),(mm),(mm)
+4,FL,26.2 cy,7.0c,26.5 c,7.4 d,26.5 c
+5,IL,32.0 a,10.3a,29.9 ab,10.7a,33.1a
+6,MS,27.5 bc,8.6 b,28.1 bc,7.9 cd,29.4 b
+7,MO,29.0 b,8.8 b,29.0 b,8.6 bc,28.7 b
+8,OK,32.5 a,9.2 ab,31.7a,9.7 ab,32.5 a
+9,P value,<0.0001,<0.0001,<0.0001,<0.0001,<0.0001

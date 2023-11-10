@@ -1,0 +1,40 @@
+,0,1,2,3,4
+0,Application,Objectives,Al technique,Outcomes/impacts,References
+1,Beef,To classify the beef samples,Adaptive FL system (AFLS);,i The accuracy of the AFLS model was veryKodogiannis & Alshejari [196],i The accuracy of the AFLS model was veryKodogiannis & Alshejari [196]
+2,,,ANFIS,good which was 94.28% for overall correct,
+3,,,,classification which shows that it is able to,
+4,,,,"tackle complex, non-linear problems like",
+5,,,,meat spoilage,
+6,,,,"(ii) By using the ANFIS method, the results",
+7,,,,were satisfactory but were obtained with,
+8,,,,high computational cost,
+9,,,,(iii) E-nose with appropriate machine learn-,
+10,,,,ing tools proved that it is useful to monitor,
+11,,,,the spoilage of the meat during aerobic,
+12,,,,stage at various temperatures,
+13,Cocoa,To figure out and classify the fermentation,"DT,boosted tree RFANN,KNN,naive",(iThe ANN and Boosted tree algorithm,Tan et al. [197]
+14,,time of the cocoa beans,Baiyes (NB),manage to obtain an acceptable classifica-,
+15,,,,tion rate while the fermentation time was,
+16,,,,not able to be determined by the KNN and,
+17,,,,NB algorithm,
+18,Coffee beans,To forecast the level of acidity in fresh,ANN,(i) The model was able to predict the acidity,Thazin et al. [198]
+19,,roasted beans,,level values with an accuracy around 95%,
+20,,,,based on human sourness level scores,
+21,Chicken meat,To classify the fresh and freeze-thawed,Fuzzy K-nearest neighbors algorithm (FK,(i The FK-NN algorithm showed a high,Mirzaee-Ghaleh et al. [199]
+22,,chicken meat,NN),"performance, and it can be used in e-nose to",
+23,,,,identify and classify the fresh and frozen-,
+24,,,,thawed chicken meat,
+25,Cow ghee,To detect the adulteration of the margarine inANN,To detect the adulteration of the margarine inANN,(i) The ANN model was able to analyze the,Ayari et al. [200]
+26,,cow ghee,,data obtained from the e-nose with high,
+27,,,,accuracy,
+28,Edible oil,To detect the adulteration in oxidized and,ANN,(i) The developed ANN model with e-nose,Karami et al. [201]
+29,,non-oxidized edible oil,,was able to detect the adulteration in the,
+30,,,,edible oil with high accuracy,
+31,,,,(ii) The classification of the system was com-,
+32,,,,pared with other methods and it was given,
+33,,,,that ANN had the highest classification rate,
+34,,,,with 97.3%,
+35,Fish,To identify and classify the fish spoilage,"ANN,PCA",i The developed model using the PCA and,Vajdi et al. [202]
+36,,,,ANN was able to classify the fish according,
+37,,,,to their spoilage group with an accuracy of,
+38,,,,96.87%,

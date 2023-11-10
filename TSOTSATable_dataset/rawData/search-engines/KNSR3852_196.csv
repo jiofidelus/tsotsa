@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,food,Name,Name,Size,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,code,Kiswahili,English,.,bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,,uji wa unga mchele na tui la,Rice porridge with,,,,,,,,,,
+3,533,nazi na sukari,coconut and sugar,Sta,400,200,200,,,,,,
+4,,uji wa unga mchele na tui bila,Rice porridge with,,,,,,,,,,
+5,533,sukari,coconut no sugar,A,,,,,,,,,350
+6,534,keki,Cake (home baked),S,,,,,,,,25,
+7,534,keki,Cake (home baked,M,,,,,,,,50,
+8,534,keki,Cake (home baked),L,,,,,,,,100,
+9,534,keki,Cake (home baked),A,,,,,,,,,120
+10,,,Vermicelli with coconut,,,,,,,,,,
+11,535, tambi na tui la nazi na sukari,and sugar,Std,350,,,400,,,,,
+12,,,Vermicelli with coconut,,,,,,,,,,
+13,535,tambi na tui la nazi na sukari,and sugar,A,,,,,,,,,225
+14,,,Vermicelli with oil and,,,,,,,,,,
+15,536,tambi na mafuta na sukari,sugar,Std,350,,,400,,,,,
+16,,,Vermicelli with oil and,,,,,,,,,,
+17,536, tambi na mafuta na sukari,sugar,A,,,,,,,,,225
+18,,,Vermicelli with coconut,,,,,,,,,,
+19,537,tambi na tui la nazi na chumvi,and salt,Std,350,,,400,,,,,
+20,,,Vermicelli with coconut,,,,,,,,,,
+21,537,tambi na tui la nazi na chumvi,and salt,A,,,,,,,,,225
+22,,,Cassava porridge and,,,,,,,,,,
+23,541,uji wa mhogo na sukari,sugar,Std,400,200,200,,,,,,
+24,,,Cassava porridge and,,,,,,,,,,
+25,541,uii wa mhogona sukari,sugar,A,,,,,,,,,350
+26,542,uji wa ngano na sukari,Wheat porridge + sugar,Std,400,200,200,,,,,,
+27,542,uji wa ngano na sukar,Wheat porridge + sugar,A,,,,,,,,,350
+28,551,mchuzi wa nyama,Beef relish,Std,300,,,,,,150,,
+29,551,mchuzi wa nyama,Beef relish,A,,,,,,,,,225
+30,552,mchuzi wa nyama na nazi,Beef relish with coconut,Std,300,,,,,,150,,
+31,552,mchuzi wa nyama na nazi,Beef relish with coconut,A,,,,,,,,,225

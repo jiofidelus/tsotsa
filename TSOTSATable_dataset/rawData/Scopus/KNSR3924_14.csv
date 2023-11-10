@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,,,,,
+1,Investigated,"Extract,",Groups,Animal,,Method for,Microbiome,Method for,,
+2,Part,Preparation,Analyzed,Volunteers,Conditions,Analysis,Changes,Detection,Metabolites,Reference
+3,,,Individuals),,,,,,,
+4,,inflorescence,,,,,,,,
+5,,extracts (99.9%,5 groups:,,,,rel. decrease in,,,
+6,,ethanol):,ND; high-fat + 1%,,treated for,,Bacteroidetes and,,,
+7,,cannabidiol,cholesterol + 0.5%,,"6 weeks,",,decrease in,,,
+8,,(CBD)-rich,cholate diet (HFCD);,,5 mg/kg BW of,,Bacteroidetes/,,,
+9,"Cannabis sativa,",CN1 extract;,HFCD diet + CN1,male C57BL/6J,extract,V3-V4 region of,Firmicutes ratio in,,,
+10,herba,tetrahydro-,(HFCD+CN1);,mice (7-8 weeks,every 3 days;,"16S rRNA gene,",HFCD + CN1 group,,,[79]
+11,herba,cannabinol,HFCD diet + CN2,old),every 3 days;,NGS (Illumina),compared to HFCD,,,
+12,,(THC)-rich,(HFCD+CN2);,,cecal contents,,group; no significant,,,
+13,,CN2 extract;,HFCD diet + CN6,,were collected,,microbiota changes in,,,
+14,,CN6 extract,(HFCD+CN6) (n = 8,,after sacrifice,,HFCD + CN2 and,,,
+15,,(CBD/THC,per group),,,,HFCD + CN56,,,
+16,,ca.1:1,,,,,,,,
+17,,,6 groups:,,,,(400 mg/kg):,,,
+18,,,"control, model",,treated for,,rel. increase:,,,
+19,,,group (DSS-induced,male Balb/c,"7 days, cecum",V4 region of 16S,Firmicutes; rel.,,,
+20,"asiatica,herba",extract (75%),"aminosalicyclic acid,","mice (22-24 g,",contents,rRNA gene NGS,decrease:,,,[82]
+21,"asiatica,herba",extract (75%),"DSS+C. asiatica (100,",8 weeks old),collected after,(Illumina),"Proteobacteria,",,,
+22,,,"200, and 400 mg/kg)",,sacrifice,,"Jeotgalicoccus, and",,,
+23,,,(n = 8 per group),,,,Staphylococcus,,,

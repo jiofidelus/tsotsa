@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7
+0,Nutrient,Indonesia,Malaysia,Philippines,Singapore,Thailand,,Vietnam
+1,Thiamin,sample extracted with,sample extracted with,sample extracted with,,sample extracted with,"thiochrome method,","thiochrome method,"
+2,,acid and taka-diastase,acid and taka-diastase,acid and clarase,,acid and taka-diastase,AOAC 1990 (pp 1049,AOAC 1990 (pp 1049
+3,,"enzyme,","or mylase enzyme,","enzyme,",,or mylase or clarase,1052),
+4,,chromatographed on,chromatographed on,chromatographed on,,"enzyme,",,
+5,,decalso or permutit,"decalso column, B1","ion exchange column,",,chromatographed on,,
+6,,"column, B1 oxidised",oxidised to thiochrome,B1 oxidised to,,"decalso column, B1",,
+7,,to thiochrome using,"using ferricyanide,",thiochrome using,,oxidised to thiochrome,,
+8,,ferricvanide.measure,measure fluorescence,"ferricyanide, measure",,"using ferricyanide,",,
+9,,fluorescence; diazo,,fluorescence;,,measure,,
+10,,colorimetric method,,microbiological,,fluorescence;,,
+11,,also used,,method using,,microbiological,,
+12,,,,also in use,,method: using,,
+13,,,,also in use,,Lactobacillus fermenti,,
+14,Riboflavin,fluorescence method:,sample extracted with,microbiological,,fluorescence method:,fluorometric method,fluorometric method
+15,,"acid,pH adjusted to 6&","acid, protein & other",method using,,sample extracted with,AOAC 1990 (pp 1052-,AOAC 1990 (pp 1052-
+16,,"4.5, KMnO4 to remove",subs precipitated @,Lactobacillus casei,,"acid,pH adjusted to 6",1054),
+17,,interfering fluorescence,"pH 6& pH 4.5,",subsp Rhamnosus as,,"& 4.5,KMnO4 to",,
+18,,followed by peroxide,KMnO4 to remove,the test organism,,remove interfering,,
+19,,"addition, fluorescence",interfering,,,fluorescence followed,,
+20,,measureduse Na,fluorescence followed,,,"by peroxide addition,",,
+21,,hydrosulphite to,"by peroxide addition,",,,fluorescence,,
+22,,determine interfering,fluorescence,,,measured; use Na,,
+23,,"fluorescence,",measured; use Na,,,hydrosulphite to,,
+24,,HPLC method: C18,hydrosulphite to,,,determine interfering,,
+25,,"column, m.p. of",determine interfering,,,"fluorescence,",,
+26,,methanol+diammonium,fluorescence,,,microbiological,,
+27,,350+650+10ml,,,,method: using,,
+28,,"dioxan, fluorescence",,,,Lactobacillus casei,,
+29,,"detector 440 excitation,",,,,,,
+30,,525 emission,,,,,,

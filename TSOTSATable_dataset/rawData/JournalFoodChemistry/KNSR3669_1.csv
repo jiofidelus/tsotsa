@@ -1,0 +1,39 @@
+,0,1,2,3,4,5
+0,Food,Target,Capture,Allergen,Magnetic,Detector
+1,,protein,antibody,standard*,bead,antibody
+2,,,,,set**,
+3,Cashew,Ana o 3,mAb,rAna o 3,34,mAb
+4,,,1H4,(99.5%),,4A11
+5,Peanut,Ara h1,mAb,nAra h 1,9,mAb 2F2
+6,,,4E2,(99.6%),,
+7,Peanut,Ara h 3,mAb,nAra h 3,30,mAb 4G9
+8,,,1E8,(96.3%),,
+9,Peanut,Ara h 6,mAb,nAra h 6,66,mAb
+10,,,3B8,(95.8%),,3E12
+11,Celery,Api g 1,mAb,rApi g 1,43,mAb 7C4
+12,,,5D4,(96.0%),,
+13,Milk,Bos d 5,mAb,nBos d 5,52,mAb
+14,,,NBD5-1,(98.8%),,NBD5-2
+15,Milk,Bos d 11,mAb,nBos d 11,65,mAb
+16,,,VBIC,(99.5%),,CC11
+17,Hazelnut,Cor a 9,mAb,nCor a 9,36,mAb 6F5
+18,,,3B6,(94.0%),,
+19,Fish,Cyp c 1,mAb,rCyp c 1,53,mAb 7C5
+20,,,9A6,(99.9%),,
+21,Egg,Gal d 1,mAb,nGal d 1,54,mAb 2B2
+22,,,5G11,(97.3%),,
+23,Egg,Gal d 2,mAb,nGal d 2,29,mAb 7D8
+24,,,1B4,(97.1%),,
+25,Soy,Gly m 5,mAb 6F6,nGly m 5,27,mAb 1B9
+26,,,,(96.4%),,
+27,Walnut,Jug r1,mAb,rJug r 1,44,pAb
+28,,,7D7,100%,,
+29,Sesame,Ses i1,pAb,rSes i1,62,pAb
+30,,,,100%),,
+31,Mustard,Sin a 1,mAb,rSin a 1,46,mAb
+32,,,3B4,(99.4%),,2B11
+33,Wheat,Tri a 19,mAb,rTri a 19,7,mAb
+34,,,8B10,(nvd),,3C10
+35,Shrimp,Tropomyosin,mAb,nShrimp,78,pAb
+36,,,1A6,Tropomyosin,,
+37,,,,(93.1%),,

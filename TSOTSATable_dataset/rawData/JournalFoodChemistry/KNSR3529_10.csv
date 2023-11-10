@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Matrix,Extracting solvent,TC,"Energy(W,",Other operation,Target compounds,Chemical structure of main compounds,Chemical structure of main compounds,Chemical structure of main compounds,Extraction recovery/,Antioxidant capacity,Reference
+1,,,,kHz),parameters,,,,,yield,(method),
+2,,,,,,,,,,GAE/g,,
+3,Olive leaves,Acidified water,59.87,40 kHz,500 mg/19.78 mL;Phenolic compounds,500 mg/19.78 mL;Phenolic compounds,n.d,,,n.d,n.d,"Ilbay et al., 2014"
+4,,,,ultrasound,pH 3.52; 59.57 min,,,,,,,
+5,,,,bath,pH 3.52; 59.57 min,,,,,TPC: 46.21  0.15 mg,,
+6,Grapefruit wastes,Ethanol/,25,100W,1:8 (g/g) sample/,Flavonoids,Naringin,,,n.d,26.6 mmol TE/g (DPPH),Garcia-Castello
+7,,water50.50,,,solvent ratio;,,,,,,,"et al.,2015"
+8,,v/v),,,3 or 55 min,,HOY,,,TPC71.1 mg GAE/g,,
+9,,,,,,,LH,,,,,
+10,,,,,,,"HO""",,,,,
+11,,,,,,,OH,,,,,
+12,,,,,,,HO,,,,,
+13,,,,,,,-OH,OHO,,,,
+14,,,,,,,36 mg/g DW,,,10552 g/g DW,,
+15,Grape canes,Acetone/water,60,50 Hz,1:50 (g/mL),Stilbenes,e-Viniferin,,,10552 g/g DW,"88 to 188 mol TE/g DWFerreyra et al.,","88 to 188 mol TE/g DWFerreyra et al.,"
+16,,50:50v/v,,,sample/solvent,,,,,,(DPPH),2020
+17,,,,,ratio,Flavanols,(+)-Catechin(-)-Epicatechin,(+)-Catechin(-)-Epicatechin,,3718 g/g DW,,
+18,,,,,60 min,,0,,,2486 g g-1 DW,,
+19,Mandarin peel,80% Acetone,48,56.71 W,40 min,Flavonoids,Hesperidin,,,26.52%~1.7 higher,n.d,"Nipornram et al.,"
+20,,,,,,,,,,vs. conventional,,2018;
+21,,,,,,,,,,extraction,,
+22,,,,,,,,,,TPC15.26g GAE/,,
+23,,,,,,,,,,100 g,,
+24,,,,,,,6.43 g/100 g DW,,,,,
+25,Orange peel,85% Ethanol,50,150W,40 min,Flavonoids,,,,~1.5 higher vs.,n.d,"Wang et al.,2018"
+26,,,,,,,Nobiletin,,,conventional,,
+27,,,,,,,,,,extraction,,
+28,,,,,,,OCH3,,OCH,,,
+29,,,,,,,HCO,,,n.d,,
+30,,,,,,,HCO,,OCH,,,
+31,,,,,,,HCO,,,,,
+32,,,,,,,6.4  0.04 mg/g,,,,,
+33,,,,,,,Tangeretin,,,,,
+34,,,,,,,HCO,,,,,
+35,,,,,,,HCO,,,,,
+36,,,,,,,2.6  0.1 mg/g,,OCH,,,
+37,,70% Ethanol,<25,40W,mL; 14.4 min,Flavonols,Quercetin-3-rhamnoside,Quercetin-3-rhamnoside,,n.d,6.06 to 11.42 mg GAE/g,2021

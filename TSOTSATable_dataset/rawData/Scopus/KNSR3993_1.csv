@@ -1,0 +1,14 @@
+,0,1,2
+0,,Group F,Group G
+1,Age(year),62.296.0,62.06  7.5
+2,Gender(male/female),13/15),(15/16)
+3,Height (cm),168.08.8,165.6 7.8
+4,Weight (kg),65.1  11.3,61.3  9.6
+5,BMI (kg/m2),22.9  3.2,22.3  2.9
+6,Smoking history (smoking/total patients),12/28,12/31
+7,Drinking history (drinking/total patients),11/28,9/31
+8,Stage of tumor (AJCC),,
+9,lIa,8,10
+10,lIb,8,9
+11,II,5,7
+12,IV,7,5

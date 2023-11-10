@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,Treatment,,Root/shoot ratio at 13 weeks after planting,Root/shoot ratio at 13 weeks after planting,
+1,,C. arborescens,S.balangeran,D.zibethinus,N. lappaceum
+2,Freely drained 0% shading,0.930.20 a,0.440.07 cd,0.370.08 e,0.590.09b
+3,Freely drained with 30% shading,0.510.03 b,0.360.07 e,0.40 0.07 d,0.460.10 c
+4,Freely drained with 70% shading,0.23  0.02 g,0.24  0.07 g,0.24  0.09 fg,0.33  0.06 ef
+5,GW level 10 cm 0% shading,0.650.27 b,0.390.03 e,0.100.01 h,0.400.03d
+6,GW level 10 cm with 30% shading,0.49 0.14 c,0.23  0.07 g,0.19  0.10 gh,0.36 0.04 e
+7,GW level 10 cm with 70% shading,0.34  0.10 def,0.27 0.03 fg,0.150.03h,0.37 0.02 e
+8,GW level zero 0% shading,0.560.07b,0.37 0.07 e,,0.400.004d
+9,GW level zero with 30% shading,0.480.06c,0.310.04 f,0.120.05h,
+10,GW level zero with 70% shading,0.310.06 f,0.20  0.05 g,0.590.46b,0.420.14 cd
+11,1/ stem height flooding 0% shading,0.38 0.06 e,0.12 0.05 h,,0.080.14 h
+12,1/ stem height flooding with 30% shading,0.30  0.04 f,0.100.03 h,0.150.08h,
+13,/ stem height flooding with 70% shading,,0.24  0.11 fg,,0.12 0.20 h

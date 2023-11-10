@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,,T WS-NSP,L.acidophilus,E.coli,IL-8 Reduction,K.oxytoca,IL-8 Reduction
+1,,T WS-NSP,(CFU/mL),(CFU/mL),(%),(CFU/mL),(%)
+2,CE,Undigested,,,"40.5  1.7 ABCDE,L,Q,X",,"33.0  4.7 E,L,Q,X"
+3,,Digested,3.08 x 106,,"43.7  1.2 ABCDE,L,Q,X",,"34.8  6.4 BCDE,L,Q,X"
+4,ICE,Undigested,,,"42.8  4.2 ABCDE,L,Q,X",,"33.1  4.4 DE,L,Q,X"
+5,,Digested,,1.33 x 107,"43.7  3.1 ABCDE,L,Q,X",2.05  107,"34.9  5.3 BCDE,L,Q,X"
+6,CE,Undigested,,,"43.2  4.0 ABCDE,L,Q,X",,"40.4  2.7 ABCDE,L,Q,X"
+7,,Digested,5.57  109,,"45.7  2.5 AB,L,Q,X",,"40.8  2.1 ABCDE,L,Q,X"
+8,ICE,Undigested,5.57  109,,"45.6  2.4 AB,L,Q,X",,"41.2  3.3 ABCDE,L,Q,X"
+9,,Digested,,,"46.8  2.9 A,L,Q,X",,"42.0  2.5 ABCDE,L,Q,X"

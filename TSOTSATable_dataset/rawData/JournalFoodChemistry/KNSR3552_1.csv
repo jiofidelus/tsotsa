@@ -1,0 +1,41 @@
+,0,1,2,3,4
+0,Saccharides,Allergen source,Type of response,Effects and mechanism of action,Effects and mechanism of action
+1,Alginic acid oligosaccharide from,"-lactoglobulin,","In vivo, anaphylactic",,Suppress the secretion level of Th2-type cytokine IL-4 and enhance the secretion level
+2,brown algae,milk,antibodies in mice,,"of IL-12 in vitro,inhibit IgE production in vivo (Pratap et al.,2020)"
+3,,,"In vitro,T cell activation",,
+4,Sulfated oligosaccharide from,"Ovalbumin,egg","In vivo,anaphylactic",,"Inhibit the production of IgE, histamine, and related cytokines (Liu et al.,2020)"
+5,Gracilaria lemaneiformis,,antibodies,,
+6,,,in mice,,
+7,Chitosan oligosaccharide,"Tropomyosin,","In vivo,anaphylactic",,"Reduce the secretion level of Th2-type cytokines,enhance the secretion level of Thl"
+8,,shrimp,antibodies,,"type cytokines, regulate the balance of Th1/Th2-type immune response (Jiang et al.,"
+9,,,in mice,2019),
+10,Hman milk oligosaccharides,"Ovalbumin,egg","In vivo, anaphylactic",,Induce IL-10 + T regulatory cells and indirect stabilization of mast cells (Castillo
+11,2'-fucosyllactose and 6'-sialyllactose,,antibodies,"Courtade et al.,2015","Courtade et al.,2015"
+12,,,in mice,,
+13,Pectic oligosaccharides from apple,,"In vitro,RBL-2H3 cells",,"attenuate the release of -hexosaminidase and histamine,reduce the production of IL-4"
+14,,,,,and inhibit the extracellular Ca2+ influx of RBL-2H cells Ma et al.2022)
+15,Fructo-oligosaccharides,Peanut allergens,"In vivo, anaphylactic",,Induce specific IgG and IgA levels and increase amounts of CD103+DC and Tregs 
+16,,,antibodies,"Wagenaar et al.,2018","Wagenaar et al.,2018"
+17,,,in mice,,
+18,Alginate from brown algae,"Ovalbumin,egg","In vivo, anaphylactic",,"Decrease the levels of IgE,histamine and IL-4, increase the levels of IFN-y. In addition"
+19,,,antibodies,,"the number of Treg cells in spleen tissues was increased by alginate, and the"
+20,,,in mice,,"differentiation of Th0 cells into Th2 cells was significantly inhibited (Yu et al., 2020)"
+21,Sulfated polysaccharide from Gracilaria,"Tropomyosin,","In vivo, anaphylactic",,"Reduce Tropomyosin-specific IgE and IgG1, suppress Th2 cell polarization, promote"
+22,lemaneiformis,shrimp,antibodies,"the function of Treg (Liu et al.,2016","the function of Treg (Liu et al.,2016"
+23,,,in mice,,
+24,Sulfated polysaccharide from Porphyra,"Tropomyosin,",In vivoanaphylactic,,"Modulate the imbalance of the Th1/Th2 immune response (Shi et al.,2015)"
+25,haitanensis,shrimp,antibodies,,
+26,,,in mice,,
+27,Fucoidan from seaweed,"Ovalbumin,egg",In vivoanaphylactic,,Suppresses IgE induction by inhibiting immunoglobulin class-switching to IgE in B cells
+28,,,antibodies,Saeed et al.2021,Saeed et al.2021
+29,,,in mice,,
+30,,,"In vitro, B cell activation",,
+31,,,from mice spleen,,
+32,-glucans,"Ovalbumin,egg",In vivoanaphylactic,,"Modulate Th1-induced cytokine responses, regulate levels of pro-inflammatory"
+33,,,antibodies,,"cytokines, such as TNF- and IL-6 (Shi et al.,2016;Sindhu et al, 2021)"
+34,,,in mice,,
+35,Polysaccharide from Aloe vera gel,"Ovalbumin,egg","In vivo, anaphylactic",,"Inhibited the secretion of Th2-type cytokines (IL-4, IL-5, and IL-13) and the"
+36,,,antibodies,,"degranulation level of mast cells, such as the release levels of mast cell protease 1 and"
+37,,,in mice,"histamine (Lee et al.,2018","histamine (Lee et al.,2018"
+38,Angelica polysaccharide,,"In vitro, mast cell",,Inhibit the activation of mast cells via suppressing the release of pro-inflammatory
+39,,,activation,"cytokines Mao et al.,2016","cytokines Mao et al.,2016"

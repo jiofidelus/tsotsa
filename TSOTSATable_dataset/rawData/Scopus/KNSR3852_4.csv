@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Analyte,Mass,Gas Mode,Integrations/Mass (s),(Mass-Element)
+1,Be,9,No Gas,0.51,72-Ge
+2,Cr,52,He,0.51,72-Ge
+3,Co,59,He,0.51,72-Ge
+4,Ni,60,He,0.51,72-Ge
+5,As,75,He,0.51,72-Ge
+6,Se,78,H2,0.51,72-Ge
+7,Cd,111,He,0.51,103-Rh
+8,Pb,208,He,0.51,209-Bi

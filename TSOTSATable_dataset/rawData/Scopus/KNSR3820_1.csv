@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7
+0,Factor,Names,Levels,,,Range,,
+1,,,,-1,1,,-2,2
+2,1,Initial MC (%),5,12.9,38.7,,0,51.6
+3,2,Inlet air temperature(C,5,180,220,,160,240
+4,3,Feed rate(kg/h),5,105,135,,90,150
+5,4,Inlet air velocity (m/s),5,10,12,,9,13

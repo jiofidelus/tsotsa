@@ -1,0 +1,41 @@
+,0,1,2,3,4,5,6
+0,Component,INFOODS,Unit,Denominator,Sig.,Data-,Comment
+1,,tagname,,,digits,sheet,
+2,Energy,ENERC,"kJ, kcal",/100 g EP,3,04/05,Calc. from energy-
+3,,,,,,,yielding components
+4,,,,,,,"FAT,CHOAVLDF,"
+5,,,,,,,"PROTCNT,FIBTG"
+6,,,,,,,(Equations 1 & 2)
+7,Water,WATER,g,/100 g EP,3,04/05,
+8,"Nitrogen, total",NT,g,/100 g EP,3,04/05,
+9,"Protein, total",PROTCNT,g,/100 g EP,3,04/05,Calc. from NT using
+10,,,,,,,nitrogen-to-protein
+11,,,,,,,factor 6.25 (Equation 3)
+12,"Fat, total",FATCE,g,/100 g EP,3,04/05,Derived by analysis using
+13,,,,,,,continuous extraction
+14,"Fatty acids,total FACID","Fatty acids,total FACID",g,/100 g EP,3,04/05,Calc. from FAT using the
+15,,,,,,,conversion factor for
+16,,,,,,,fatty acids (Equation 8)
+17,"Fatty acids, total",FASAT,g,/100 g EP,3,04/05,Calc.from FASAT g/100 g
+18,saturated,,,,,,FACID
+19,"Fatty acids, total",FAMS,g,/100 g EP,3,04/05,Calc. from FAMS g/100 g
+20,monounsaturate,,,,,,FACID
+21,d,,,,,,
+22,"Fatty acids, total",FAPU,g,/100 g EP,3,04/05,Calc. from FAPU g/100 g
+23,polyunsaturated,,,,,,FACID
+24,Cholesterol,CHOLE,mg,/100 g EP,3,04/05,
+25,Carbohydrate,CHOAVLDF,g,/100 g EP,3,04/05,Calc. from proximates
+26,"available, by",,,,,,"WATER,FAT,PROTCNT"
+27,difference,,,,,,"ASH,FIBTGEquation 4"
+28,"Fibre, total",FIBTG,g,/100 g EP,3,04/05,
+29,dietary,,,,,,
+30,Ash,ASH,g,/100 g EP,3,04/05,
+31,Calcium,CA,mg,/100 g EP,3,04/05,
+32,Copper,CU,mg,/100 g EP,3,04/05,
+33,Iron,FE,mg,/100 g EP,3,04/05,
+34,Potassium,K,mg,/100 g EP,3,04/05,
+35,Magnesium,MG,mg,/100 g EP,3,04/05,
+36,Manganese,MN,mg,/100 g EP,3,04/05,
+37,Sodium,NA,mg,/100 g EP,3,04/05,
+38,Phosphorus,P,mg,/100 g EP,3,04/05,
+39,Zinc,ZN,mg,/100 g EP,3,04/05,

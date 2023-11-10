@@ -1,0 +1,14 @@
+,0,1,2,3
+0,Sensitivity rate (SNR),TP,,0.87
+1,,TP+FN,TP+FN,
+2,False negative rateFNR(1-SNR,FN,,0.13
+3,,TP+FN,TP+FN,
+4,Specificity rate (SPR),TN,,0.92
+5,,TN+FP,TN+FP,
+6,False positive rate(FPR(1-SPR,FP,,0.08
+7,,TN+FP,TN+FP,
+8,Reliability rate (RLR),,TN+TP,0.90
+9,,TN+FP+TP+FN,TN+FP+TP+FN,
+10,Youden's index,SNR+SPR-1,SNR+SPR-1,0.79
+11,Likelihood ratio,SNR,,10.87
+12,,1-SPR,1-SPR,

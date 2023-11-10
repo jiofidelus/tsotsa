@@ -1,0 +1,46 @@
+,0,1,2,3,4
+0,Species,Name,Kind,Abiotic Stress Function,Citation
+1,,,,Negatively regulates salt stress,
+2,,PPRT1,,response.,
+3,,PROTEIN WITH THE,C3H2C3 RING finger,positive role in regulating the,[105-107]
+4,,RING DOMAIN AND,domain E3 ubiquitin ligase,high temperature.,[105-107]
+5,,TMEMB 1,,Negative role in ABA and,
+6,,,,drought stress responses,
+7,,RHA2B,,Positively regulates,
+8,,RHA2A,RING finger domain E3,ABA-dependent drought,"[108,109]"
+9,,PROTEIN 2B/2A,ubiquitin ligase,response,
+10,,RZP34/CHYR1,,,
+11,,PROTEIN34/CHY,RING finger domain E3,Positively regulates drought,[110]
+12,,ZINC-FINGER AND,ubiquitin ligase,stress tolerant,[110]
+13,,RING PROTEIN1,,,
+14,,XBAT35.2,,Negatively regulates the,
+15,,XB3 ORTHOLOG 5 IN,RING finger domain E3,drought and salt stress,[111]
+16,,ARABIDOPSIS,ubiquitin ligase,response,[111]
+17,,THALIANA,,response,
+18,,AIR4.1,,,
+19,,AIR4.2,RING finger domain E3,Positively regulates Arsenic,[112]
+20,,ARSENIC-INDUCED,ubiquitin ligase,stress tolerance,[112]
+21,,RING E3 LIGASE4,,,
+22,,CULLIN4-BASED E3,Cullin4-Based E3 Ubiquitin,Negatively regulates abiotic,[113]
+23,,UBIQUITIN LIGASE1,Ligase,stress tolerance,[113]
+24,,DSG1,RING finger domain E3,,
+25,,DELAYED SEED,ubiquitin ligase,drought stress tolerance,[114]
+26,,GERMINATION 1,ubiquitin ligase,drought stress tolerance,
+27,,RDCPS,,,
+28,,RING DOMAIN-,RING finger domain E3,Positively regulates drought,[115]
+29,,CONTAINING,ubiquitin ligase,stress tolerant,[115]
+30,Rice,PROTEINS,,,
+31,Oryza sativa,DROUGHT-INDUCED,C3HC4 RING finger,Negatively Regulates drought,[116]
+32,,SINA PROTEIN 1,domain E3 ubiquitin ligase,response,[116]
+33,,HIR1,,,
+34,,HEAVY METAL,RING finger domain E3,Positively regulates heavy,[117]
+35,,INDUCED RING E3,ubiquitin ligase,metal tolerance,[117]
+36,,LIGASE 1,,,
+37,,HIRP1,,,
+38,,HEAT INDUCED,RING finger domain E3,Positively regulates plant,[118]
+39,,RING FINGER,ubiquitin ligase,response to heat stress,[118]
+40,,PROTEIN1,,,
+41,,MAR1,,,
+42,,MICROTUBULE-,RING finger domain E3,Negatively regulates the,[119]
+43,,ASSOCIATED RING,ubiquitin ligase,salt-stress response,[119]
+44,,FINGER PROTEIN1,,,

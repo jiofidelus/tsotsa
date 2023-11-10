@@ -1,0 +1,19 @@
+,0,1,2
+0,,Females,Males
+1,,n=14,n=8
+2,"Age,y",42.717.4,47.618.2
+3,"Height, m",1.680.05,1.750.08
+4,"BW,kg",99.518.6,98.020.1
+5,"BMI, kg/m2",35.46.3,31.85.9
+6,BMI classificationb,,
+7,"Normal weight,n%",1 (7.1),0(0.0
+8,"Overweight, n (%)",0 (0.0),3 (37.5)
+9,"Obesityclass I,n%",8 (57.1),3 (37.5)
+10,Obesityclass IIn%,2 (14.3),1 (12.5)
+11,"Obesity class III, n %)",3 (21.4),1 (12.5)
+12,"Fat mass, % BW",46.0  5.2,33.1 5.5
+13,Fat distribution,,
+14,"Waist circumference,cm",106.413.3,109.212.7
+15,Waist-to-hip ratio,0.850.07,0.990.06
+16,"Android fat distribution, n (%",7 (50.0),8 (100.0)
+17,"Gynoid fat distribution, n (%)b",7 (50.0),0 (0.0)

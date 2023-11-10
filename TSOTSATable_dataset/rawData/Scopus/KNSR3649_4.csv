@@ -1,0 +1,37 @@
+,0,1,2,3,4,5,6,7,8
+0,Compounds,ID R. dentatus,,ID P.glabrum,,JA R. dentatus,,JA P. glabrum,
+1,,Amount (g),P values,Amount (g),P values Amount (g),P values Amount (g),Pvalues,Amount (g),P values
+2,Complete syn-,,0.001,,0.001,,0.439,,0.439
+3,thetic blend,,,,,,,,
+4,a.Ethyl propionate4.72,a.Ethyl propionate4.72,0.121,2.15,0.439,1.78,0.606,1.65,0.606
+5,b. 2-(Z)-Penten-,,,,,1,,0.49,0.439
+6,1-ol,,,,,,,,
+7,c.3-Z)-Hexenal,0.12,0.439,,,,,,
+8,e. 3-Octanone,,,0.15,0.606,,,,
+9,f. 2-Octanol,0.25,0.606,2.50,0.010,,,,
+10,g. Limonene,,,6.84,0.005,,,,
+11,h.1.3-Diethvlben-,16.65,0.039,,,8.96,0.439,7.82,0.796
+12,zene,,,,,,,,
+13,i. Acetophenone,10.72,0.020,3.34,0.439,5.78,0.197,5.11,0.197
+14,i.Limonene oxide,,,0.84,0.302,,,,
+15,"k. 2,6-(E,Z)-Nona-",6.52,0.010,,,,,,
+16,dienal,,,,,,,,
+17,1. 2-(E)-Nonenal,1.63,0.796,4.41,0.302,,,,-
+18,m. 1-Nonanol,2.46,0.020,,,0.64,0.439,,
+19,n.Decanal,4.19,0.039,,,2.28,0.197,,
+20,o.Dodecane,,,0.64,0.039,,,0.41,0.197
+21,p. Nerol,,,,,,,0.16,0.039
+22,r. 4-Ethylaceto-,9.86,0.005,6.63,0.020,5.58,0.071,5.11,0.071
+23,phenone,,,,,,,,
+24,s. Indole,0.33,0.606,0.31,0.606,0.16,0.796,0.16,0.796
+25,t. Geranyl acetone,,,0.24,0.039,0.08,0.796,,
+26,u.,,,,,0.12,0.039,,
+27,-Caryophyllene,,,,,,,,
+28,v.1-Hexadecene,3.34,0.020,1.98,0.071,,,,
+29,w.Methyl jas,,,,,1.31,0.039,1.17,0.039
+30,monate,,,,,,,,
+31,x.1-Heptadecanol,0.95,0.302,0.42,0.606,0.47,0.606,0.39,0.606
+32,,a+c+f+h+i+k+1+0.001,a+c+f+h+i+k+1+0.001,a+e+f+g+i+j,0.001,a+h+i+m+n,0.302,a+b+h+i+o,0.197
+33,,m+n+r+s+v+x,,+1+o+r+s+t,,+r+s+t+u+,,+p+r+s+,
+34,,,,+v+x,,W+x,,W+x,
+35,,h+i+k+m+n+r+v,0.001,f+g+o+r+t,0.001,u+w,0.010,p+w,0.010

@@ -1,0 +1,18 @@
+,0,1,2
+0,,,Pearson's
+1,,Intra-class correlation,correlation
+2,Nutrient,coefficient (95%Cl),coefficient
+3,Energy,0.98 (0.97-0.98),0.99
+4,Protein,0.96(0.95-0.98),0.99
+5,Carbohydrates,0.97(0.95-0.98),0.98
+6,Total fat,0.98 (0.98-0.99),0.99
+7,Saturated fatty acids,0.98(0.97-0.99),0.98
+8,Monounsaturated fatty acids,0.98(0.98-0.99),0.98
+9,Polyunsaturated fatty acids,0.92(0.89-0.93),0.97
+10,Vitamin A,0.998(0.995-1.00),0.99
+11,Vitamin C,0.995(0.992-0.998),0.99
+12,Vitamin E,0.95(0.94-0.97),0.96
+13,Iron,0.86(0.81-0.91),0.96
+14,Magnesium,0.94(0.92-0.96),0.95
+15,Selenium,0.95 (0.94-0.97),0.98
+16,Zinc,0.91 (0.88-0.94),0.91

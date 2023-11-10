@@ -1,0 +1,6 @@
+,0,1,2,3
+0,,,Mortality Rate (%),
+1,Organism,GC16,Control,"t,p"
+2,Tetranychus pueraricola,"86.21  2.02 A,a","2.38  1.19 A,b","t=-35.693,df=4,p<0.001"
+3,Picromerus lewisi,"4.15  0.23 B,a","4.35  0.37 A,a","t=0.447,df=4,p=0.678"
+4,Harmonia axyridis,"8.33  1.67 B,a","5.83  0.83 A,a","t=-1.342,df=4,p=0.251"

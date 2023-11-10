@@ -1,0 +1,37 @@
+,0,1,2,3,4
+0,Application,Objectives,AI technique,Outcomes/impacts,References
+1,Rice,To discriminate and predict the solid foods as well,ANN,"(i) RBFNN was able to distinguish different types ofWang et al. [224, 225]",
+2,, as to provide an assessment tool for food indus,,rice with 95% accuracy in classification,
+3,,tries,,ii Voltametric E-tongue is useful for the qualitative,
+4,,,,analysis for rice,
+5,Rice,To develop similarity analysis combined with artifi-ANN,,i)SA-ANN in E-tongue was able to predict the riceLu et al. [227],
+6,,cial neural networks (SA-ANN) in e-tongue for the,,sensory quality and carry out systematic analysis,
+7,,prediction of rice sensory quality,,(ii) Comparison was carried out between PCA-ANN,
+8,,,,"and SA-ANN, and it was found that SA-ANN has",
+9,,,,better precision and accuracy compared to PCA-,
+10,,,,ANN,
+11,,,,"(iii) SA-ANN is a less-labor intensive, quicker",
+12,,,,method and has potential for rapid and big scale,
+13,,,,prediction of rice sensory property,
+14,Sugarcane,To characterize and apply voltametric e-tongue for,ANN,(i) Multilayer ANN with wavelet information was,De Sa et al. [228]
+15,,the analysis of glucose from the sugarcane,,able to process complex responses from the,
+16,,,,E-tongue,
+17,,,,(ii) The proposed model is suitable to be used for,
+18,,,,hydrolyzed samples from sugarcane bases,
+19,Tangerine peel To classify tangerine peel of different ages,Tangerine peel To classify tangerine peel of different ages,"BPNN,ELM","(i) The model was able to classify the tangerine peelShi et al. [229, 230]",
+20,,,,samples of different ages,
+21,,,,(ii) Comparison was done for few linear models and,
+22,,,,"non-linear models, and it was obtained that non-",
+23,,,,linear models exhibited better performance than,
+24,,,,linear models,
+25,,,,iiiELM was the best for the classification of the,
+26,,,,samples with high accuracy followed by BPNN,
+27,Teas,To distinguish different types of teas,"ANN,SVM",(i) Different types of teas were able to be distin-,"Huang et al. [216,"
+28,,,,guished by using the developed system and the,231]
+29,,,,compositions of the tea also could be identified,
+30,Tilapia fillets,To predict the changes in freshness of tilapia fillets,ANN-PCA,i E-tongue is able to distinguish the extracts of,"Shi et al. [229, 230]"
+31,,at different temperatures using the combined,,tilapia fillets stored at different days and different,
+32,,techniques,,temperatures,
+33,,,,(ii) The model set up is able to predict the freshness,
+34,,,,of tilapia fillets stored at different temperatures,
+35,,,,ranging from 0 to 10 C,

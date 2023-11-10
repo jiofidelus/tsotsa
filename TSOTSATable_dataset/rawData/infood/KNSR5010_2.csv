@@ -1,0 +1,30 @@
+,0,1,2,3
+0,,,FOOD GROUP NAMES AND CODES,
+1,,Food Group Name,Food Group Description,Food Code (range)
+2,Code,,,
+3,1,Biofortified crop,--as assigned--,
+4,2,Grains and grain products,,1000-1999
+5,,,bakery products or pastries based on grain,
+6,,,flour,
+7,3,Roots and tubers,Starchy roots and tubers,2000-5999
+8,4,"Beans,nuts,and seeds","Beans, lentils, peas, nuts, seeds",6000-8999
+9,5,Milk and dairy,,"Milk,milk powder,sour milk,cheese,cream,9ooo-9999"
+10,,,yogurt,
+11,6,Meatspoultryand insects,"Red meat, white meat, poultry, game,",11000-13999
+12,,,"rodents, processed meats, organ meats",16000-16999
+13,,,"blood,animal skin/ears/feet/head,insects",
+14,7,Fish and seafoods,,14000-15999
+15,8,Eggs,Whole or separated eggs,17000-17999
+16,9,Fruits and fresh/pure fruit,,30000-39999
+17,,juices,"juices, starchy fruits (banana/plantain)",30000-39999
+18,10,Vegetables,"Fresh vegetables,dried vegetables",18000-18999
+19,,,,29000-29999
+20,11,Fats and oils,"Vegetable oils,margarine,butter,ghee",25000-25999
+21,,,drippings,
+22,12,Sugars and sweets,"Sugar, honey, syrup, candies, sweets,",26000-26999
+23,,,"chocolates,sweet cookies",
+24,13,Beverages,"Teacoffee, soda,powdered drink mixes",27000-27999
+25,,,"artificial, diluted or sweetened juices and",
+26,,,"infusions, non-dairy fermented beverages,",
+27,14,Miscellaneous,,40000-49999
+28,,,"baking powder/soda,ash",40000-49999

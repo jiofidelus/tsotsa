@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,Storage,Processing method (Treatment No.),Reduction (%) of pyrethroid in mackerel fillet,Reduction (%) of pyrethroid in mackerel fillet,,
+1,,,Bifenthrin,Cypermethrin,Deltamethrin,Permethrin
+2,Fresh,Boiling (2),"15.06  2.28ab,A","24.09  3.02a,B","18.40  4. 89a,A","17.05  2.84a,A"
+3,,Grilling (3),"40.12  5.02de,A","47.12  7.69 cd,A","43.70  4.43de,A","48.45  2.71de,A"
+4,,Pickling (4),"27.45  7.53bc,AB","36.78  6.84abc,B","19.65  5.90a,A","23.97  7.65ab,AB"
+5,,Curing (5),77.52  4.088.A,"79.45  10.31e,A","78.00  6.32 h,A",74.82  5.678.A
+6,Frozen 2 wks,Raw (6),"13.59  8.54a,A","30.34  8.52ab,B","21.54  4.66ab,B","24.62  10.62ab,B"
+7,,Boiling (7),"19.23  5.86abc,A","41.37  11.50bc,B","22.49  9.24ab,A","31.45  9.56bc,AB"
+8,,Grilling (8),"44.63  3.74e,A","48.93  12.50 cd,AB","38.71  4.69 cd,A","51.22  4.62ef,B"
+9,Frozen 4 wks,Raw (9),"18.30  7.85ab,A","35.47  10.38abc,B","26.44  3.83ab,AB","34.31  5.24bc,B"
+10,,Boiling (10),"31.54  7.85 cd,A","39.70  9.57abc,A","30.52  3.09bc,A","38.12  6.02 cd,A"
+11,,Grilling (11),"52.57  6.17e,A","60.42  5.31d,A","50.68  6.19ef,A","56.03  4.03ef,A"
+12,Frozen 8 wks,Raw (12),"48.52  12.15e,A","59.34  7.75d,A","49.60  3.76ef,A","54.50  10.90ef,A"
+13,,Boiling (13),"51.19  11.21e,A",78.31  5.69e.c,"57.38  3.51f,A",61.92  8.19f.A
+14,,Grilling (14),70.58  2.04f.AB,78.31  5.69e.c,"69.19  1.578,A","77.17  3.208,BC"

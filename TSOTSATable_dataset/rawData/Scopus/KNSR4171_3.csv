@@ -1,0 +1,53 @@
+,0,1,2,3,4
+0,Methodology,Advantage,Disadvantage,"limit,um",Reference
+1,Visual identification,+ Rapid;,Problem with valid differentiating,>500,[125]
+2,by optical micro-,+ Relatively cheap;,smaller microplastics;,,
+3,scope/polarized,+Easy to use,Training and experience are necessary;,,
+4,light microscope,,High error rates up to 70%;,,
+5,,,Time-consuming,,
+6,Staining and fluo-,"+Suitable for PP,PE,PS,nylon,and",Less sensitivity for PET and PVC;,,"[69],"
+7,rescence microscopy,PUR;,A possibility of overestimation due to,,[125]
+8,,+Analysis can be performed for up to2,absorbance on organic matter particles;,,
+9,,months (fluorescence signal of stained,The limited option of dyes,,
+10,,microplastics is stable),,,
+11,Fourier-transform,+ User-friendly;,- Not efficient for characterizing black,~10-20,"[69],"
+12,infrared microscopy,+ Simultaneous detection of a large,particles;,,[126-131]
+13,,number of particles;, Detection of multiple particles is time-,,
+14,,+ Automatization is available;,consuming;,,
+15,,+ Short analysis time for single parti., Measures also areas without particles;,,
+16,,cles;,Cooling with liquid nitrogen is,,
+17,,+ Detecting the intensity of oxidation;,needed;,,
+18,,+ Reports shape and size of particles;,Trained staff is necessary;,,
+19,,+ Transmission and reflection modes;,Huge data sets (several GB per filter);,,
+20,,+ Nondestructive;,- No total mass determination;,,
+21,,+ Less expensive than Raman and,Expensive;,,
+22,,thermoanalytical techniques, No detection of microplastics with,,
+23,,,irregular shapes,,
+24,Raman spectroscopy+ Reports shape and size of particles;,Raman spectroscopy+ Reports shape and size of particles;,More time-consuming compared to,~1,"[110],"
+25,,+ Simultaneous detection of a large,FTIR spectroscopy;,,"[127],"
+26,,number of particles;,Trained staff is necessary;,,"[128],"
+27,,+ Automatization is available;, No total mass determination;,,"[132],"
+28,,+ Detecting the intensity of oxidation;,Expensive;,,[133]
+29,,+ Staining is possible;,-Vulnerable to interference of biological,,
+30,,+ Nondestructive;,and inorganic contaminants and fluores-,,
+31,,+Applicable for detection of particles,cent dyes in microplastics,,
+32,,in organic tissues;,,,
+33,,+ No need for liquid nitrogen cooling;,,,
+34,,"+ Additives, pigments, and plasticizers",,,
+35,,can be identified,,,
+36,Pyrolysis--gas chro-,+ Mass determination;,Does not count the number of parti-,~50/100,"[63],"
+37,matography-mass,+ No sample pretreatment is needed,"cles, no size and shape determination;",,"[69],"
+38,spectrometry,,Determination of particles lasts about,,[134-
+39,,,40 min;,,138]
+40,,,Trained staff is necessary;,,
+41,,,Destructive;,,
+42,,,Expensive;,,
+43,,,- Not appropriate for analysis of com-,,
+44,,,plex environmental samples,,
+45,Thermal extraction,+ Mass determination;,Does not count the number of parti-,~50/100,"[69],"
+46,desorption-gas,+ Applicable for different environmen-,"cles, no size and shape determination;",,"[134],"
+47,chromatography--,tal samples,Determination of particles lasts about,,[139]
+48,mass spectrometry,,40 min;,,
+49,,, Trained staff is necessary;,,
+50,,,Destructive;,,
+51,,,Expensive,,

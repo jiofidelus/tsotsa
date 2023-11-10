@@ -1,0 +1,24 @@
+,0,1,2,3
+0,Characteristic,Total (N=8458),Male (n=2321),Female (n=6137)
+1,"Age (years), mean (SD)",44.3 (12.7),49.6 (11.4),42.2 (12.5)
+2,"BMI (kg/m2), mean (SD)",23.5 (4.0),25.0 (3.7),22.9 (3.9)
+3,"Total energy (kcal/d), mean (SD)",1760.5 (343.5),2084.8 (320.5),1637.8 (262.5)
+4,"Breakfast energy (kcal), mean (SD)",389.6 (119.7)a,440.8 (129.8)a,370.2 (109.5)a
+5,"Lunch energy (kcal), mean (SD)",542.2 (128.7),630.3 (133.1),508.8 (109.9)
+6,"Dinner energy (kcal), mean (SD)",609.1 (191.6),780.8 (185.6),544.2 (148.9)
+7,"Total protein intake (g/d), mean (SD)",73.8 (16.8),85.5 (17.2),69.3 (14.3)
+8,"Breakfast protein (g/d), mean (SD)",16.9 (6.8)a,19.1 (7.4)a,16.1 (6.4)a
+9,"Lunch protein (g/d), mean (SD)",22.3 (6.2),25.2 (6.5),21.2 (5.7)
+10,"Dinner protein (g/d), mean (SD)",28.2 (8.0),34.1 (8.0),25.9 (6.7)
+11,"Total fat intake (g/d), mean (SD)",53.1 (13.1),62.7 (12.9),49.4 (11.2)
+12,"Breakfast fat (g/d), mean (SD)",12.3 (5.2)a,13.9 (5.6)a,11.7 (4.9)a
+13,"Lunch fat (g/d), mean (SD)",18.4 (5.8),21.1 (6.2),17.3 (5.2)
+14,"Dinner fat (g/d), mean (SD)",22.4 (7.6),27.7 (7.5),20.4 (6.6)
+15,"Total carbohydrate intake (g/d), mean (SD)",185.9 (44.5),219.0 (46.1),173.4 (36.9)
+16,"Breakfast carbohydrate (g/d), mean (SD)",53.0 (18.0)a,59.5 (20.1)a,50.6 (16.5)a
+17,"Lunch carbohydrate (g/d), mean (SD)",69.4 (18.2),81.0 (19.3),65.1 (15.7)
+18,"Dinner carbohydrate (g/d), mean (SD)",63.4 (22.7),78.5 (24.0),57.7 (19.2)
+19,"Total PAb (METC-min/week), median (Q1-Q3)",1257 (558-2346),1470 (720-2612),1164 (495-2232)
+20,"Vigorous PA (MET-min/week), median (Q1-Q3)",120 (0-960),400 (0-1200),0 (0-800)
+21,"Moderate PA (MET-min/week), median (Q1-Q3)",0 (0-360),0 (0-360),0 (0-360)
+22,"Walking (MET-min/week), median (Q1-Q3)",495 (198-990),594 (198-1188),495 (198-990)

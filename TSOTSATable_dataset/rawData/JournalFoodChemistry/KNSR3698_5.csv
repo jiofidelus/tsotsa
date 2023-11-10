@@ -1,0 +1,64 @@
+,0,1,2,3,4,5,6,7
+0,Classes,Chemical compound,Molecular,Kenaf,Solvent,Roselle,Solvent,References
+1,,,formula,,,,,
+2,Terpene,"3,7,11,15 tetramethyl-2 hexadecen-1-ol (Z-",C2oH4oO,Leaves,Hexane,,,"Ryu et al., 2017"
+3,,phytol),,,,,,
+4,,"Phytol, acetate",C22H42O2,"Leaves,",Hexane,,,"Ryu et al., 2017"
+5,,"2-Pentadecanone, 6,10,14-trimethyl",C1gH36O,Leaves,Hexane,-,,"Ryu et al., 2017"
+6,,"2,6,10,14,18,22-Tetracosahexaene",C24H38,Leaves,Hexane,-,-,"Ryu et al., 2017"
+7,Siloxane,"Octasiloxane,",C16H48O?Si8,Flowers,Hexane,-,,"Ryu et al.,2017"
+8,,"1,1,3,3,5,5,7,7,9,9,11,11,13,13,15,15-",,,,,,
+9,,hexadecamethyl,,Flowers,,,,
+10,,"Hexasiloxane, tetradecamethyl",C14H42OsSi6,Flowers,Hexane,,-,"Ryu et al., 2017"
+11,,"Heptasiloxane, hexadecamethyl",C16H48O6Si7,Flowers,Hexane,,,"Ryu et al.,2017"
+12,,"Trisiloxane,1,1,1,5,5,5-hexamethyl-3,3-bis",C12H36O4Si5,Flowers,Hexane,-,-,"Ryu et al., 2017"
+13,,[(trimethylsilyl)oxy],,,,,,
+14,,"3-Isopropoxy-1,1,1,7,7,7-hexamethyl-",C18H52O?Si7,Flowers,Hexane,-,-,"Ryu et al.,2017"
+15,,"3,5,5-tris(trimethylsiloxy)tetrasiloxane",,Leaves,,,,
+16,Citric acid,Hydroxycitric acid,CgHgOs,Leaves,Methanol,Calyces,50%,"Pascoal et al., 2015; Amaya-"
+17,,,,,,,Methanol,"Cruz et al.,2019"
+18,,Methoxycitric acid,C?H1oO8,Leaves,Methanol,-,,"Pascoal et al., 2015"
+19,Tocopherol,- tocopherol,C2gH5oO2,Seed,Petroleum ether,"Leaves,","Hexane,","Nyam et al., 2009;"
+20,,,,,,Stem,Petroleum,"Mohamed, Fernandez,"
+21,,,,,,"Flowers,",ether,"Pineda & Aguilar,2007"
+22,,- tocopherol,C28H48O2,Seed,Petroleum ether,"Leaves,","Hexane,","Nyam et al., 2009;"
+23,,,C28H48O2,,,"Stem, Seed",Petroleum,"Mohamed et al, 2007"
+24,,,C2>H46O2,,,,"Hexane,","Nyam et al., 2009;"
+25,,8- tocopherol,C2>H46O2,Seed,Petroleum ether,"Stem, Seed","Hexane,","Nyam et al., 2009;"
+26,,,,,,,Petroleum,"Mohamed et al, 2007"
+27,Tocotrienol,- tocotrienol,C29H44O2,Seed,Hexane,Seed,Petroleum,"Chew et al.,2017b; AI-Okbi"
+28,,,,,,,ether,"et al.,2017"
+29,,- tocotrienol,C2gH42O2,,-,Seed,Petroleum,"Al-Okbi et al., 2017"
+30,,,,,,Seed,ether,
+31,,-tocotrienol,C2gH42O2,Seed,Hexane,Seed,Petroleum,"Al-Okbi et al., 2017; Chew"
+32,,8- tocotrienol,C27H4oO2,Seed,Hexane,,ether,"Al-Okbi et al.,2017; Chew"
+33,,,,,,,,"et al.,2017b"
+34,Fatty acid,Tetradecanoic acid,C14H28O2,"Leaves,",Hexane,Seed,Hexane,"Ryu et al., 2017; Mohamed"
+35,,,,Seed,Hexane,,Hexane,"et al,2007"
+36,,Hexadecanoic acid,C16H32O2,Stem,Hexane,Seed,Hexane,"Ryu et al., 2017; Mohamed"
+37,,,C16H32O2,Stem,,,,"et al, 2007"
+38,,,,"Flowers,",,,,
+39,,,,Seed,Hexane,,,
+40,,9-Hexadecenoic acid,C16H3oO2,"Stem, Seed",Hexane,Seed,Hexane,"Ryu et al., 2017; Mohamed"
+41,,,,,,,,"et al,2007"
+42,,cis-10-Heptadecenoic acid,C1H32O2,Seed,Hexane,Seed,Hexane,"Ryu et al., 2017; Mohamed"
+43,,,,,,,Hexane,"et al, 2007"
+44,,Octadecanoic acid,C1gH36O2,"Stem,",Hexane,Seed,Hexane,"Ryu et al., 2017; Mohamed"
+45,,,C1gH36O2,Seed,Hexane,Seed,Hexane,"et al, 2007"
+46,,9-Octadecenoic acid,C18H34O2,"Stem,",Hexane,Seed,Hexane,"Ryu et al., 2017; Mohamed"
+47,,,,"Stem,",,,,"et al, 2007"
+48,,,,"Flowers,",,,,
+49,,,,Seed,,Seed,,
+50,,"9,12-Octadecadienoic acid",C1 gH32O2,"Stem,",Hexane,Seed,Hexane,"Ryu et al.,2017; Mohamed"
+51,,,,"Stem,",,,,"et al, 2007"
+52,,,,"Flowers,",,,,
+53,,"9,12,15-Octadecatrienoic acid(n=3",C1 gH3oO2,"Stem,",Hexane,Seed,Hexane,"Ryu et al.,2017; Mohamed"
+54,,,,Seed,,,,
+55,,15-methylhexadecanoic acid,C1?H34O3,Flowers,Hexane,,Hexane,"Ryu et al., 2017"
+56,,Nonadecanoic acid,C19H3gO2,Seed,Hexane,Seed,Hexane,"Ryu et al., 2017; Mohamed"
+57,,,,,,,,"et al,2007"
+58,,Nonadecadienoic,C1gH34O2,-,,Seed,Hexane,"Mohamed et al, 2007"
+59,,Vaccenic acid,C1gH34O2,,,Seed,Hexane,"Mohamed et al, 2007"
+60,,Arachidic acid,C2oH4oO2,-,-,Seed,Hexane,"Mohamed et al, 2007"
+61,,Eicosenoic acid,C2oH38O2,,,Seed,Hexane,"Mohamed et al, 2007"
+62,,Behenic acid,C2H43COOH,-,-,Seed,Hexane,"Mohamed et al,2007"

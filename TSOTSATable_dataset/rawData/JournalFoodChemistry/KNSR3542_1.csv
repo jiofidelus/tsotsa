@@ -1,0 +1,19 @@
+,0,1,2
+0,,24-HDR,DQ
+1,,N (%),N (%)
+2,Food items (total),10173,13951
+3,Food items treated as,,
+4,Generic items,178 (1.7%),2463 (17.6%
+5,(One-ingredient)recipes,4926 (48.4%),1796 (12.9%)
+6,Exact match,5069 (49.8%),9692 (69.5%)
+7,Food items matched to (exact matches only),,
+8,U.S.FCDB,4417 (87.1%),9437 (97.4%)
+9,Canadian FCDB,168 (4.3%),63 (0.6%)
+10,German FCDB,219 (3.3%,78 (0.8%)
+11,Danish FCDB,265 (5.2%),114 (1.2%)
+12,Missing values (exact matches only):,,
+13,Folate-ENDB,0(0.0%),54 (0.4%)
+14,Folate-MGDB,178 (1.8%),259 (1.9%)
+15,Choline-MGDB,1790 (17.6%),1951(14.0%)
+16,Betaine-MGDB,4969 (48.8%),6458 (46.3%)
+17,Methionine-MGDB,1292 (12.7%),1646 (11.8%)

@@ -1,0 +1,31 @@
+,0,1,2,3,4,5
+0,Cut (C),Growing,Heat Treatment,Heat Treatment,TPC,AA
+1,Cut (C),Season(GS),(HT),,(mg GAE g-1 DW),(mg TE g-1 DW)
+2,,Winter,,,5.22 b,9.33 b
+3,,Spring,,,9.76 a,15.20 a
+4,,,Raw,,8.55 a,8.89 b
+5,,,Boiled,,6.43 b,15.63 a
+6,C1,Winter,,,2.33,5.89 d
+7,C1,Spring,,,7.99,11.50 b
+8,C2,Winter,,,4.42,8.33 c
+9,C2,Spring,,,7.94,14.43 a
+10,C3,Winter,,,8.91,13.77 a
+11,C3,Spring,,,13.35,19.68 a
+12,C1,,Raw,,6.54 c,6.03c
+13,C1,,Boiled,,3.78 d,11.36 b
+14,C2,,Boiled,,6.31 c,17.48 a
+15,C3,,Raw,,13.06 a,15.38 b
+16,C3,,Boiled,,9.19 b,13.75 a
+17,,Winter,Raw,,6.01,6.26 d
+18,,Winter,Boiled,,4.44,12.40 b
+19,,Spring,Raw,,11.09,11.53 c
+20,,Spring,Boiled,,8.42,18.87 a
+21,,,,ANOVA,,
+22,c,,,,***,***
+23,GS,,,,***,***
+24,HT,,,,***,***
+25,C x GS,,,,ns,***
+26,CHT,,,,***,***
+27,GS  HT,,,,ns,***
+28,CGSx,,,,*,
+29,HT,,,,,ns

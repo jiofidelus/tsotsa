@@ -1,0 +1,5 @@
+,0,1,2
+0,Score type,Effect size,Significance
+1,,,level
+2,Betweenness centrality,-0.2495071 (medium),p<.10
+3,Degree centrality,-0.3242306 (medium),p<.05

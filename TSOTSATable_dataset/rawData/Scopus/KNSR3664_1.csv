@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6
+0,DM,CpGi,Regulatory element state,,Target genes,r,p
+1,,,Muscle,Adipose,,,
+2,DMC12,Other,ATAC island,Medium enhancer with ATAC,EPCAM,0.64,0.033
+3,DMC98,Other,Quiescent,Quiescent,PDE4B,-0.63,0.038
+4,DMC23,CpGi,Bivalen/poised TSS,Strongly active promoter/transcript,GNAS,0.75,0.0085
+5,DMC89,CpGi,strongly active promoters/transcripts,Bivalent/poised TSS,EBF3,0.72,0.013
+6,DMC90,CpGi,strongly active promoters/transcripts,Bivalent/poised TSS,EBF3,-0.75,0.0073
+7,DMR40,CpGi,strongly active promoters/transcripts,Bivalent/poisedTSS,EBF3,0.81,0.0023

@@ -1,0 +1,18 @@
+,0,1,2,3,4,5
+0,,,Initial Metal,Metal Removal,Metal Removal,
+1,Heavy Metal,Biosorbent,Concentration,(%),Capacity,References
+2,,,(mg/L),(%),(mg/g Dry Biomass),
+3,As,L.acidophilus,1,60.0,,[316]
+4,,L.acidophilus ATCC 20552,0.5,49.8,,[304]
+5,,Lc. casei DSM20011,0.1,38.1,0.312 c,[289]
+6,,P.acidilactici As102-4,0.1,,0.006 d,[306]
+7,Al,Lp.plantarum CCFM639,50,26.83,,[312]
+8,Cu,Ent. faecium,250,,106.38 c,[308]
+9,,DSM 20057,40,,46.17 c,[317]
+10,,Lev. brevis,20,,26.5 c,[318]
+11,Fe,L. bulgaricus Lb-12,100,99.3,,[307]
+12,,Str. thermophilus STM-7,100,100.0,,[307]
+13,Zn,L. bulgaricus Lb-12,100,90.2,,[307]
+14,,Str. thermophilus STM-7,100,92.8,,[307]
+15,,Leuc. mesenteroides,20,,27.10 c,[319]
+16,,W.viridescens MY 205,1,20.0,,[300]

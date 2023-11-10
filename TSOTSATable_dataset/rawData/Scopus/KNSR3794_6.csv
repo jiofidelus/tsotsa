@@ -1,0 +1,16 @@
+,0,1,2
+0,"Time,d",Treatment',"Faecal Salmonella counts,logGCN/g faeces"
+1,25,Control,7.22
+2,,ZnO-residual,7.16
+3,,ANE,7.02
+4,27,Control,7.33
+5,,ZnO-residual,7.24
+6,,ANE,7.24
+7,34,Control,7.41
+8,,ZnO-residual,7.34
+9,,ANE,7.30
+10,SEM,,0.171
+11,P-value,,
+12,Treatment effect,Treatment effect,0.262
+13,Time effect,,0.025
+14,Treatment x Time effect,Treatment x Time effect,0.961

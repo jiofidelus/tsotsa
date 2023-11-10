@@ -1,0 +1,37 @@
+,0,1,2
+0,Comparison,,P values
+1,T1,T2,
+2,UD R. dentatus,UD P. glabrum,0.796
+3,ID plants,UD plants,
+4,R. dentatus,R. dentatus,0.039
+5,P. glabrum,P. glabrum,0.039
+6,R. dentatus,P.glabrum,0.020
+7,P. glabrum,R. dentatus,0.039
+8,ID R. dentatus,ID P. glabrum,0.606
+9,UD plants,JA plants,
+10,R. dentatus,R. dentatus,0.001
+11,P. glabrum,P. glabrum,0.001
+12,P. glabrum,R. dentatus,0.001
+13,R. dentatus,P. glabrum,0.001
+14,JA R. dentatus,JA P. glabrum,0.796
+15,ID plants,JA plants,
+16,R. dentatus,R. dentatus,0.001
+17,P. glabrum,P. glabrum,0.001
+18,R. dentatus,P.glabrum,0.001
+19,P. glabrum,R. dentatus,0.001
+20,MD plants,UD plants,
+21,R. dentatus,R. dentatus,0.606
+22,P. glabrum,P.glabrum,0.439
+23,R. dentatus,P. glabrum,0.439
+24,P.glabrum,R. dentatus,0.796
+25,MD R. dentatus,MD P. glabrum,0.796
+26,ID plants,MD plants,
+27,R. dentatus,R. dentatus,0.197
+28,P. glabrum,P.glabrum,0.302
+29,R. dentatus,P. glabrum,0.197
+30,P. glabrum,R. dentatus,0.439
+31,MD plants,JA plants,
+32,R. dentatus,R. dentatus,0.001
+33,P.glabrum,P. glabrum,0.001
+34,R. dentatus,P. glabrum,0.001
+35,P. glabrum,R. dentatus,0.001

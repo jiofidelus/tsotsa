@@ -1,0 +1,28 @@
+,0,1,2
+0,As concentration,Number of Excess,1Excess
+1,,Cancer Deaths,Cancer Death
+2,,"1,000,000 People",Number of People
+3,50 ug/L(drinking water standard common in lower income countries,"12,000 Excess",1Excess
+4,,Cancer Deaths,Cancer Death
+5,,"1,000,000 People",81 People
+6,lO ug/L(WHO provisional drinking water guideline;drinking water standard common in higher income countries),"2,500 Excess",1Excess
+7,,Cancer Deaths,Cancer Death
+8,,"1,000,000 People",400 People
+9,0.029 g/L(detection limit by ICP-MS using a Knotted Reactor [304],7.2 Excess,1 Excess
+10,,Cancer Deaths,Cancer Death
+11,,1.000.000 People,140.000 People
+12,0.025 g/L(detection limit by ICP-MS using a Collision/Reaction Cell [302]),6.2 Excess,1Excess
+13,,Cancer Deaths,Cancer Death
+14,,1.000.000 People,160.000 People
+15,0.004 g/L (public health goal set by the California Environmental Protection Agency [8]),1.0 Excess,1Excess
+16,,Cancer Death,Cancer Death
+17,,1.000.000 People,1.000.000 People
+18,0.0016ug/L(detection limit by ICP-MS/MS using a collision/reaction cell with O2(g) [305]),0.40 Excess,1Excess
+19,,Cancer Deaths,Cancer Death
+20,,"1,000.000 People","2,500.000 People"
+21,0.00082 g/L (detection limit by HG-GC-PID [307]),0.20 Excess,1Excess
+22,,Cancer Deaths,Cancer Death
+23,,"1,000,000 People","4,900,000 People"
+24,0.0002 g/L (detection limit by ICP-MS/MS using a collision/reaction cell with 10% CHF(g) and 90% He(g) [306]),0.050 Excess,1Excess
+25,,Cancer Deaths,Cancer Death
+26,,"1,000.000 People","20,000.000 People"

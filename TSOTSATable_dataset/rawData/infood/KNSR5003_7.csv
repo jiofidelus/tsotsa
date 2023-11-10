@@ -1,0 +1,32 @@
+,0,1
+0,Datasheet title,Description
+1,01 Introduction,"Gives an introduction to the tables, incl. information on"
+2,,copyright and disclaimer.
+3,02 List of Species,Presents an overview of the pulse species for which compiled
+4,,nutrient values are given in uPulses and their respective food
+5,,item IDs used in the actual datasheets(sheets 04-06).
+6,03 Components uPulses,Gives an overview of all components that are covered by the
+7,,"uPulses datasheets(sheets 04-06), listing INFOODS tagnames"
+8,,"descriptions, recommended units, max. decimal places and"
+9,,significant digits used.
+10,04 NV_sum(per 100 g EP on FW),"Presents compiled nutrient values per 100 g EPon FW for raw,"
+11,,processed and cooked foods - without information on statistics
+12,,and documentation per component.
+13,05 NV_stat(per 100 g EP on FW),Presents compiled nutrient values per 100 g EP on FW basis
+14,,"with information on statistics for raw, processed and cooked"
+15,,foods- includes information on statistics and documentation
+16,,per component.
+17,06 AA (per g N),"Presents compiled amino acid values per g nitrogen for raw,"
+18,,processed and cooked foods - includes information on
+19,,statistics and documentation per AA.
+20,07 Yield Factors,Lists yield factors and the corresponding source(s) for each
+21,,food.
+22,08 Retention Factors,Lists retention factors applied according to the preparation
+23,,method.
+24,09 RefDatasets,Contains nutrient values of selected reference datasets per
+25,,"100 g EP, as well as amino acids per g nitrogen."
+26,10 Components RefDatasets,Gives an overview of all components that are covered by the
+27,,"reference datasets(sheet 09).It lists INFOODS tagnames,units"
+28,,and descriptions and indicates which components are
+29,,available per reference dataset.
+30,11 Bibliography,Presents the entire reference list with the corresponding ID.

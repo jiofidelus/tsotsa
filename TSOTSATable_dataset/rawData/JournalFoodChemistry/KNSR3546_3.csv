@@ -1,0 +1,45 @@
+,0,1,2,3,4
+0,UCF origin,Extrusion,Subclasses of phenolics,Major findings,References
+1,,conditions,,,
+2,white teff,"135C,12 %",glycosyl flavones (GF),"The content of total C-mono-GF, O-GF,O-glycosyl-C-GF, di-C-GF, and C-GF","(Duefias,Sanchez-Acevedo"
+3,,400 rpm,,"acylated by aromatic acids decreased by 49.81 %, 41.68 %, 38.28 %, 37.58","Alcalde-Eon, & Escribano-"
+4,,,,"%, and 13.39 %,respectively.No marked change was found on acetylated","Bailon,2021"
+5,,,,C-GF.,
+6,brown teff,"135C,12%",GF,"The content of total acetylated C-GF,O-glycosyl-C-GF,C-GF acylated by","Duenas et al.,2021"
+7,,400 rpm,,"aromatic acids, O-GF, C-mono-GF, and di-C-GF increased by 131.47 %,",
+8,,,,"106.52 %, 102.72 %, 72.34 %, 72.27 %, and 7.64 %, respectively.",
+9,sorghum,", 12%, -",flavones,Extrusion led to no retention of luteolin and apigenin in three sorghum,"Cardoso et al.,2015"
+10,,,,varieties.,
+11,sorghum,"-,12%, -",flavonones,"Retention of naringenin was 0-16.9 %, while eriodictyol was completely","Cardoso et al.,2015"
+12,,,,eliminated in three varieties.,
+13,sorghum,"-, 12%, -",3-deoxyanthocyanidins,"The reduction of apigeninidin, 7-methoxy-apigeninidin, luteolinidin, and 5-","Cardoso et al.,2015"
+14,,,,"methoxy-luteolinidin reached up to 95.6 %, 93.9 %, 92.9 %, and 92.3 %,",
+15,,,,respectively.,
+16,red quinoa,"120C,25%",flavonols,"Free rutin and quercetin content increased by 199.64 % and 3.57 %,","Song et al., 2020)"
+17,,30 Hz,,"respectively.Free kaempferol decreased by 66.67 %, although its bound",
+18,,,,fractions also reduced.,
+19,redquinoa,"160C,25%",flavonols,"Free rutin and quercetin content increased by 108.84 % and 192.86 %,","Song et al.,2020)"
+20,,30 Hz,,respectively. Free kaempferols completely disappeared.,
+21,dehulled,"110C,20%",hydroxybenzoic acid and its,"Free syringic and gallic acid content increased by 2.6-fold and 1.1-fold,","Kalam Azad et al,2019)"
+22,broomcorn,150 rpm,derivatives,respectively.,
+23,millet,,,,
+24,dehulled,"110C,20%",hydroxycinamic acid,"Free ferulic and sinapic acid content increased by 64.23 % and 32.09 %,","Kalam Azad et al,2019)"
+25,broomcorn,150 rpm,derivatives,respectively.,
+26,millet,,,,
+27,red quinoa,"160C,25%",hydroxybenzoic acid and its,"Free vanillic,p-hydroxybenzoic,and protocatechuic acid increased (by 23-","Song et al.,2020"
+28,,480 rpm,derivatives,"fold,155.19%, and 82.54%,respectively) at the cost of their bound",
+29,,,,fractions loss.,
+30,red quinoa,"160C,25%",hydroxycinamic acid,Extrusion elevated the level of free ferulic and p-coumaric acid by 60.09 %,"Song et al.,2020"
+31,,480 rpm,derivatives,"and 21.37 %, respectively; their bound fractions decreased by 28.55 % and",
+32,,,,"29.56 %, respectively.",
+33,barley,,hydroxybenzoic acid and its,"Extrusion markedly increased the content of bound protocatechuic,",De Paula et al.2017
+34,,,derivatives,"syringic, sinapinic, p-hydroxybenzoic, and vanillic acid.",
+35,barley,,hydroxycinamic acid,Extrusion markedly decreased caffeic acid (both free and bound forms) and,De Paula et al.2017
+36,,,derivatives,free ferulic acid content.,
+37,oat,"120C,30%",hydroxybenzoic acid and its,"Free p-hydroxybenzoic,vanillic, and syringic acid content increased by","(Zeng,Liu,Luo,ChenGong,"
+38,,,derivatives,"41.67 %, 13.36 %, and 1.48 %, respectively; their bound forms increased by",2016)
+39,,,,"144.64 %,68.49 %, and 93.69 %,respectively.",
+40,oat,"120C,30%,-",hydroxycinamic acid,"Free chlorogenic and trans-caffeic acid content markedly decreased, while","Zeng et al.,2016"
+41,,,derivatives,"their bound forms increased. For trans-/cis-ferulic acid and cis-sinapic acid,",
+42,,,,their bound fractions evidently increased. Both free and bound trans-ferulic,
+43,,,,acid level markedly increased.,

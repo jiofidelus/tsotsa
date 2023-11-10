@@ -1,0 +1,50 @@
+,0,1,2,3,4
+0,Crop,Disease,,Causal Pathogen,Reference
+1,,,Fruit crops,,
+2,,Blue mold,,Pencillium spp.,
+3,,Gray mold,,Botrytis cinerea,
+4,Pome Fruit,Bitter rot,,Colletotrtchum gloeosporioides,[87]
+5,,Mucor rot,,Alternaria spp.,[87]
+6,,Mucor rot,,Mucor piriformis,
+7,,Brown rot,,Rhizopus spp. (mostly,
+8,Stone Fruit,Rhizopus rot,,R. stolonde),
+9,Stone Fruit,Graymold,,Botrytis cinerea,[96]
+10,,Alternaria rot,,Penicillium spp.,
+11,,Alternaria rot,,Alternaria alternate,
+12,,Graymold,,Botrytis cinerea,
+13,Berries,Rhizopus rot,,Rhizopus spp.,[96]
+14,Berries,Cladosporium rot,,Cladosporium spp.,[96]
+15,,Blue mold,,Pencillium spp.,
+16,,Anthracnose,"Colletotrichum gloeosporioides, C. Acutatum","Colletotrichum gloeosporioides, C. Acutatum",
+17,,Stem end rot,Dothiorella spp. Phomopsis mangiferae,Dothiorella spp. Phomopsis mangiferae,
+18,,Rhizopus rot,,Rhizopus stolonifer,
+19,Mango,Alternaria rot,,Alternaria alternate,[96]
+20,,Graymold,,Botrytis cinerea,
+21,,Blue mold,,Penicillium expansum,
+22,,Mucor rot,,Mucor circinelloides,
+23,,Anthracnose,,Colletotrichum spp.,
+24,,Black rot,,Phomacaricae-papayae,
+25,Papaya,Phomopsis rot,,Phomopsis caricae-papayae,[96]
+26,,Rhizopus rot,,Rhizopus stolonifer,
+27,,Phytophthora fruit rot,,Phytophthora palmivora,
+28,,Blue mold,,Pencillium spp.,
+29,Grapes,Graymold,,Botrytis cinerea,[97]
+30,,Rhizopus rot,,Rhizopus spp.,
+31,,Blue mold,,Penicillium italicum,
+32,,Green mold,,Penicillium digitatum,
+33,Citrus Fruit,Black center rot,,Alternartacitri,[98]
+34,,Stem end rot,,Phomopsis citri,
+35,,Brown rot,Phytophthora citrophthora and/or P. Parasitica,Phytophthora citrophthora and/or P. Parasitica,
+36,Avocado,Stem end rot,,"Dothiorellaspp., Lasiodiplodiatheobromae",[99]
+37,,,,Colletotrichummusae,
+38,,Anthracnose,,"Vertcillium spp.,Acremonium sp. and",
+39,Banana,Crown rot,,Colletotrichum musae,[100]
+40,Banana,Black end,,Various fungi including Colletotrichum musae,[100]
+41,,Ceratocystis fruit rot,,"Fusarium spp., Nigrospora sphaerica",
+42,,,,Ceratocystis paradoxa,
+43,,,Vegetable crops,,
+44,,Bacterial soft rot,Various Erwinia spp. and Pseudomonas spp,Various Erwinia spp. and Pseudomonas spp,
+45,,Rhizopus rot,,Rhizopus spp.,
+46,Carrot,Watery soft rot,,Sclerotinia spp.,[88]
+47,,Graymold,,Botrytis cinerea,
+48,,Sclerotium rot,,Sclerotium rolfsii,

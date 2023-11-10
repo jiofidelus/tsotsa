@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6
+0,Novel H.illucens miRNA,Known Predicted Target Gene in Drosophila,Known Predicted Target Gene in Drosophila,Egg to,Larva to,Pupa to,Pupa to
+1,with same seed,,,Larva,Pupa,Female,Male
+2,,,,LFC*,LFC*,LFC*,LFC*
+3,hil-bantam-3p,,W,2.563,0.926,-0.78,-1.172
+4,hil-let-7-5p,,ab,2.074,8.84,0.832,0.192
+5,hil-miR-124-3p,,anagli,-4.198,5.269,1.485,0.65
+6,hil-miR-1-3p,"Amyotrophic lateral sclerosis 2,CG11377,CG17065,CG18542,CG31121,Chd64",,0.403,0.48,-1.166,-1.493
+7,,"crimDI,Jafrac2,Msr-110,Nedd4,sinu,tutl","crimDI,Jafrac2,Msr-110,Nedd4,sinu,tutl",,,,
+8,hil-miR-14-3p,"EcR, Ice, IP3K2, sug","EcR, Ice, IP3K2, sug",1.84,0.078,-0.675,-0.828
+9,hil-miR-263a-5p,,W,-0.335,2.089,1.466,1.184
+10,hil-miR-276a-3p,DopR,DopR,1.816,2.127,0.417,0.008
+11,hil-miR-278-3p,,"ex,tup",10.304,0.466,2.175,1.362
+12,hil-miR-279-3p,"esg,nerfin-1,os,SP555","esg,nerfin-1,os,SP555",-3.171,0.839,0.388,0.604
+13,hil-miR-283-5p,"cos,smo","cos,smo",1.562,-2.857,-0.412,0.267
+14,hil-miR-2a-3p,"grim, reaper, skl, hid, malpha, HLHmdelta","grim, reaper, skl, hid, malpha, HLHmdelta",-3.466,1.563,0.821,0.693
+15,hil-miR-315-5p,"Axn,Notum","Axn,Notum",-1.824,1.066,0.843,0.772
+16,hil-miR-316-5p,,IA-2,7.816,0.174,2.418,1.813
+17,hil-miR-317-3p,yellow-c,yellow-c,1.164,-1.118,1.486,14.041
+18,hil-miR-34-5p,"Eip74EF,Su(z)12","Eip74EF,Su(z)12",6.163,6.769,6.126,-5.636
+19,hil-miR-5-5p,,smo,2.074,0,-4.82,-6.715
+20,hil-miR-7-5p,"e,fng,hHLHm5,I1MZ4,iHog,ttk","e,fng,hHLHm5,I1MZ4,iHog,ttk",9.097,3.818,0.892,0.181
+21,hil-miR-8-3p,"CG13060, CG32767, CG8420, Cpr56F, ena,Gug,pan,ush,wls",,2.353,-0.304,-0.043,0.173
+22,hil-miR-92a-3p,,sha,-7.694,2.342,0.993,2.052
+23,hil-miR-9a-5p,"Bx, dg, sens","Bx, dg, sens",-2.725,-0.306,1.621,1.746
+24,hil-miR-iab-4-5p,"abd-A,Ubx","abd-A,Ubx",-6.179,4.019,-0.978,1.564
+25,hil-miR-iab-8-5p,"abd-AAbd-B,Ubx","abd-AAbd-B,Ubx",2.074,0,0,-7.464

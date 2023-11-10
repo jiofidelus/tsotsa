@@ -1,0 +1,66 @@
+,0,1,2,3,4,5,6,7,8,9
+0,NDB No.,Description,Proanthocyanidin,Mean1,N,SD,Min,Max,CC,Sources of Data
+1,97011,"Marionberries, raw (Rubus",Dimers,3.40,2,,,,B,23
+2,97011,fructiciosus),Trimers,2.40,2,,,,B,23
+3,,,4-6mers,2.20,2l,,,,B,23
+4,,,7-10mers,0.00,22,,,,B,23
+5,,,Polymers,0.00,22,,,,,23
+6,97005,"Medlar , raw (Mespilus germanica)",Dimers,1.30,3,,,,,14
+7,,,Trimers,0.63,3,,,,,14
+8,09181,"Melons, cantaloupe, raw (Cucumis",Dimers,0.00,1,,,,3,24
+9,,melo),Trimers,0.00,1,,,,,24
+10,,,4-6mers,0.00,1,,,,B,24
+11,,,7-10mers,0.00,1,,,,B,24
+12,,,Polymers,0.00,1,,,,B,24
+13,09184,"Melons, honeydew, raw (Cucumis",Dimers,0.00,1,,,,3,24
+14,,melo),Trimers,0.00,1,,,,B,24
+15,,,4-6mers,0.00,1,,,,B,24
+16,,,7-10mers,0.00,1,,,,B,24
+17,,,Polymers,0.00,1,,,,,24
+18,97049,"Nectarines, white, whole, raw",Dimers,11.93,10,14.87,0.13,39.91,B,60
+19,,(Prunus perisca),,,,,,,,
+20,09191,"Nectarines, yellow, raw (Prunus",Dimers,4.08,19,5.46,0.12,23.52,3,"23, 26, 60"
+21,,persica var.nucipersica),Trimers,1.78,9,0.76,0.68,2.92,A,"23, 26"
+22,,,4-6mers,5.67,9,2.92,2.15,10.17,A,"23, 26"
+23,,,7-10mers,3.30,,2.28,0.00,6.89,,"23, 26"
+24,,,Polymers,7.53,9,6.31,0.00,19.08,A,"23, 26"
+25,09209,"Orange juice, chilled, includes from",Dimers,0.00,3,0.00,0.00,0.00,,"23,40"
+26,,concentrate,,,,,,,,
+27,09209,"Orange juice, chilled, includes from",Trimers,0.00,1,,,,B,23
+28,,concentrate,4-6mers,0.00,1,,,,,23
+29,,,7-10mers,0.00,1,,,,BB,23
+30,,,Polymers,0.00,1,,,,BB,23
+31,99673,"Oranges, blood, raw (Citrus",Dimers,0.00,1,,,,,26
+32,,sinensis),Trimers,0.00,1,,,,c,26
+33,,,4-6mers,0.00,1,,,,,26
+34,,,7-10mers,0.00,1,,,,,26
+35,,,Polymers,0.00,1,,,,,26
+36,09200,"Oranges, raw, all commercial",Dimers,0.00,2222,,0.00,0.00,3,"23, 26"
+37,,varieties (Citrus sinensis),Trimers,0.00,2222,,0.00,0.00,,"23, 26"
+38,,,4-6mers,0.00,2222,,0.00,0.00,3,"23, 26"
+39,,,7-10mers,0.00,2222,,0.00,0.00,3,"23, 26"
+40,,,Polymers,0.00,2,,0.00,0.00,,"23, 26"
+41,09202,"Oranges, raw, navels (Citrus",Dimers,0.00,1,,,,B,24
+42,,sinensis),Trimers,0.00,1,,,,B,24
+43,,,4-6mers,0.00,1,,,,,24
+44,,,7-10mers,0.00,1,,,,B,24
+45,,,Polymers,0.00,1,,,,B,24
+46,09241,"Peaches, canned, heavy syrup",Dimers,1.24,2,,0.00,2.49,,"24, 28"
+47,,"pack,solids and liquids",Trimers,1.22,2,,0.00,2.44,,"24, 28"
+48,,,4-6mers,1.27,2,,0.00,2.54,,"24, 28"
+49,,,7-10mers,0.09,2,,0.00,0.17,,"24, 28"
+50,,,Polymers,0.00,2,,,,,24
+51,99672,"Peaches, canned, heavy syrup,",Dimers,2.81,2,,2.80,2.83,,23
+52,,drained liquid,Trimers,0.00,2,,0.00,0.00,,23
+53,,,4-6mers,0.00,2,,0.00,0.00,,23
+54,,,7-10mers,0.00,2,,0.00,0.00,3,23
+55,,,Polymers,0.00,2,,0.00,0.00,,23
+56,09370,"Peaches, canned, heavy syrup.",Dimers,0.83,2,0.77,0.29,1.88,3,"23, 28"
+57,,drained solids,Trimers,0.17,6,0.15,0.00,0.35,,"23, 28"
+58,,,4-6mers,0.12,6,0.15,0.00,0.37,B,"23, 28"
+59,,,7-10mers,0.01,3,0.02,0.00,0.03,3,"23, 28"
+60,,,Polymers,0.00,2,,0.00,0.00,B,23
+61,09236,"Peaches, raw (Prunus persica)",Dimers,9.86,22,6.21,3.10,25.20,,"14, 23, 26, 60"
+62,,,Trimers,4.29,12,1.42,2.74,6.94,,"14, 23, 26"
+63,,,4-6mers,16.51,,6.16,7.30,26.25,,"23, 26"
+64,,,7-10mers,10.07,9,4.35,3.10,17.10,A,"23, 26"

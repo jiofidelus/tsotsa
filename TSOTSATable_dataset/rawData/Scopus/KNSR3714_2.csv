@@ -1,0 +1,10 @@
+,0,1,2,3,4,5
+0,Mineral,Organ,Sample,Association *,Measure+,Reference
+1,Zinc,Breast,Tissue,Direct,Qt,[70]
+2,,Brain,Tissue,Inverse,Qt,[76]
+3,,,Intake,Inverse,Qt,[75]
+4,,Mouth,Intake,None,Qt,[71]
+5,,,Serum,Inverse,Qt,[73]
+6,,Liver,Serum,None,HR,[72]
+7,,,Serum,Direct,Qt,[78]
+8,,Colon,Tissue,Inverse,OR,[29]

@@ -1,0 +1,19 @@
+,0,1
+0,ePlantLIBRA input form,Field types
+1,type,
+2,Composition,"Bibliographic reference: authors,title, citation details,web link to the original document and a brief description of the study"
+3,Beneficial bioeffects,
+4,Adverse effects,
+5,Composition,
+6,Beneficial bioeffects,product name
+7,Adverse effects,"Processing: if documented,technological treatment e.g.heat treatment and preservation method"
+8,Composition,"Plant information: season,growing conditions,sample size,sample plan"
+9,,"Sampling: including sample plan, primary and analytical sample sizes,number of replicates"
+10,,"Compositional information: method details extraction and identification methods, standards used, quantitation,compound,levels"
+11,Beneficial bioeffects,"Test material: compound, compound class, source,purity and measured quantity"
+12,,"Human study information: gender, route of administration, experimental design, dose, treatment duration and major parameters studied"
+13,,"Results:including experimental outcome,effective and non-effective levels,adverse effects"
+14,,Biomarkers: a description of the biomarker studied (e.g. HDL cholesterol) and whether a significant effect was observed or not
+15,Adverse effects,"PFS: plant food supplement, remarks,additional information,bioactive compounds"
+16,,"Event history: causalitydescription of event,patient detail,product responsible for adverse effects,dose ingested,clinical aspects,main"
+17,,"clinical outcome,dechallenge/rechallenge,treatment of adverse effect"

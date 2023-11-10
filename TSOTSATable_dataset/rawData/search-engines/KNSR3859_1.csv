@@ -1,0 +1,22 @@
+,0,1,2,3,4
+0,Measure,Label,Label,Label,Label
+1,Measure,'0','1','2','3'
+2,Optimal,,,,
+3,string,20,114,22,34
+4,alignment,,,,
+5,Full,,,,
+6,Damerau -,21,113,24,32
+7,Levenshtein,,,,
+8,Longest,,,,
+9,common,33,127,13,17
+10,substring,,,,
+11,Q -gram,36,112,24,18
+12,Cosine,56,127,3,4
+13,Jaccard,45,94,34,175
+14,Winker,52,131,1,6
+15,Soundex,2,48,110,30
+16,POS,,,,
+17,tagging,,,,
+18,with,23,161,6,0
+19,probability,,,,
+20,theory,,,,

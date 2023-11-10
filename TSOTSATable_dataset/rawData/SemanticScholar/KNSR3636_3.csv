@@ -1,0 +1,4 @@
+,0,1,2,3,4
+0,Threshold,Food name comparison,Any items,Directly mappable items,Other items
+1,63,Original name,"PR=96.81,Rec=95.19","PR=97.98,Rec=99.29","PR=76.84,Rec=50"
+2,75,English-translated name,"PR=96.49,Rec=86.55","PR=98,Rec=96.14","PR=78.49,Rec=34.81"

@@ -1,0 +1,33 @@
+,0,1,2,3,4
+0,Material/Extraction,Extraction solvent,TPC,Main compounds identified,Reference
+1,method/Conditions,,,,
+2,PSBP/Shaker/RT,Water:ethanol (30:70 v/v),118 mg/g PS,NI,Nepote et al.2005
+3,"PSRaP,PSRoP/Maceration/",Water:ethanol (20:80 v/v),130 (PSRaP),"Catechins, procyanidin dimers, trimers and","Yu et al.2005,Yu et al."
+4,RT,,124(PSRoP),tetramers,2006)
+5,Deffated PS/Maceration/RT,"Water:methanol (80:20 v/v),purification",NI,A-Type procyanidin dimers,AppeldoornVincken
+6,,with ethyl acetate and water,,,et al.2009
+7,PSRaP/Shaker/RT,Water:ethanol (30:70 v/v),NI,"Phenolic acids, flavonoids, stilbenes",Francisco and
+8,,,,,Resurreccion (2009b
+9,"PSBP/MAE/30s,850W",Waterethanol (70:30 v/v),144,Resveratrol,Ballard et al.2010
+10,PSBP/UAE,"Boiling water, fractionation with organic",NI,Catechin epicatechin procyanidin oligomers,"Sarnoski, Johnson et al.,"
+11,,solvents,,,2012)
+12,"PSBP,PSRoP/Maceration/","Water:ethanol (30:70 v/v,fractionation",180-866 mg,"Phenolic acids, flavonoids, procyanidin dimers,",Larrauri et al.(2016
+13,RT,with organic solvents,GAE/g extract,resveratrol,
+14,PSBP/Shaker/45C,Water:acetone (20:80 v/v),NI,"Phenolic acids, flavonoids, proanthocyanidins,","Ma, Cagnazzo et al.,"
+15,,,,stilbenes,2014
+16,"PSRoP/Shaker/40C,24 h","Water:acetone (30:70 v/v), fractionation",NI,"Proanthocyanidin oligomers, afzelechin",Tsujita et al. (2014)
+17,,with organic solvents,,"epiafzelechingallocatechin,epigallocatechin",
+18,PSRaP varying in skin,Water:acetone:acetic acid (29.5:70:0.5 v/,97133,"Flavonoids, condensed tannins",Attree et al. (2015)
+19,colour/Skaker/RT,v/v),,,
+20,PSBP/Thermostatized bath/,"Wateracetone (40:60 v/v),acidified to",NI,Proanthocyanidins,Oldoni et al.2016)
+21,"70C,30 min",pH 1.5 (HCl),,,
+22,"PSBP/Shaker/30C,20 min",Water:acetone (30:70 v/v),150 mg CE/g PS,"Phenolic acids, Ellagic acid, catechin epicatechin",de Camargo et al. (2017)
+23,,,,procyanidin oligomers,
+24,PSBP/PLE/220C,Water:ethanol (40:60 v/v),165,"Catechin, epicatechin, procyanidin and",Bodoira et al.2017)
+25,,,,proanthocyanidin dimers,
+26,"PSRaP/SFE/30 MPa,70C",SC-CO2 (5 % ethanol as co-solvent),NI,Catechins,"Putra, Yunus et al."
+27,,,,,(2018)
+28,"PSRaP/UAE/30C,250W",Water with surfactant modifiers coupled,NI,Resveratrol (96.6 g/g PS),Jin et al.(2020)
+29,,with microbial consortia,,,
+30,Whole peanut kernel/SFE/,SC-CO2 (3 % ethanol as co-solvent),NI,Resveratrol (0.8 g/g peanut kernel),Jitrangsri et al.(2020
+31,"48 MPa,70C",,,,

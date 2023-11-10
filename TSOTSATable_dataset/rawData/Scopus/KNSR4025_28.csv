@@ -1,0 +1,66 @@
+,0,1,2,3,4,5,6,7,8,9
+0,NDB No.,Description,Proanthocyanidin,Mean1,N,SD,Min,Max,CC,Sources of Data
+1,,,Trimers,0.00,1,,,,B,23
+2,,,4-6mers,0.00,1,,,,,23
+3,,,7-10mers,0.00,1,,,,,23
+4,,,Polymers,0.00,1,,,,B,23
+5,97063,"Sorghum, hi-tannin, whole grain",Dimers,13.25,,5.61,8.00,23.50,B,"1, 23"
+6,,extrudate (Sorghum bicolor),Trimers,14.17,,3.86,10.30,21.20,B,"1, 23"
+7,,,4-6mers,84.61,6,2.40,80.60,88.13,,"1, 23"
+8,,,7-10mers,127.39,6,28.16,76.10,156.06,B,"1, 23"
+9,,,Polymers,1131.24,6,489.89,238.30,1622.11,,"1, 23"
+10,20077,"Wheat bran, crude (Triticum spp.)",Dimers,0.00,1,,,,,26
+11,,,Trimers,0.00,1,,,,,26
+12,,,4-6mers,0.00,1,,,,, 26
+13,,,7-10mers,0.00,11,,,,,26
+14,,,Polymers,0.00,1,,,,,26
+15,20080,"Wheat flour, whole-grain",Dimers,0.00,4,0.00,0.00,0.00,,"14, 26"
+16,,,Trimers,0.00,4,0.00,0.00,0.00,c,"14, 26"
+17,,,4-6mers,0.00,1,,,,,26
+18,,,7-10mers,0.00,1,,,,,26
+19,,,Polymers,0.00,1,,,,,26
+20,99681,"Wheat, not specified to type",Dimers,0.00,,,,,,23
+21,,,Trimers,0.00,1,,,,,23
+22,,,4-6mers,0.00,1,,,,B,23
+23,,,7-10mers,0.00,1,,,,B,23
+24,,,Polymers,0.00,1,,,,,23
+25,99683,"and Basmati), dry (Zizaniae",Dimers,1.20,2,,,,,48
+26,,palustris or Zizaniae aquatica),Trimers,1.73,2,,,,,48
+27,,palustris or Zizaniae aquatica),4-6mers,0.00,,,,,,48
+28,99684,"Wild rice, quick-cooking, dry",Dimers,1.19,22,,,,,48
+29,,(Zizaniae palustris or Zizaniae,Trimers,0.00,22,,,,,48
+30,,aquatica),4-6mers,0.00,2,,,,,48
+31,20088,"Wild rice, raw (Zizaniae palustris or",Dimers,2.14,18,0.78,0.00,4.24,B,48
+32,,Zizaniae aquatica),Trimers,3.29,18,1.83,0.00,6.92,B,48
+33,,,4-6mers,5.32,18,2.95,0.00,11.43,B,48
+34,22-Snacks,,,,,,,,,
+35,97089,"Snacks, tortilla chips, low fat, made",Dimers,0.00,1,,,,B,24
+36,,with olestra,Trimers,0.00,1,,,,,24
+37,,,4-6mers,0.00,11,,,,,24
+38,,,7-10mers,0.00,1,,,,B,24
+39,,,Polymers,0.00,,,,,B,24
+40, 35 -- American Indian/Alaska Native Foods, 35 -- American Indian/Alaska Native Foods,,,,,,,,
+41,35193,"Agave,cooked (Southwest)",Dimers,0.00,,,,,,24
+42,,,Trimers,0.00,1,,,,B,24
+43,,,4-6mers,0.00,1,,,,,24
+44,,,7-10mers,0.00,11,,,,,24
+45,,,Polymers,0.00,1,,,,,24
+46,35194,"Agave,driedSouthwest",Dimers,0.00,1,,,,B,24
+47,,,Trimers,0.00,1,,,,,24
+48,,,4-6mers,0.00,1,,,,,24
+49,,,7-10mers,0.00,1,,,,B,24
+50,,,Polymers,0.00,1,,,,B,24
+51,35192,"Agave,raw(Southwest)",Dimers,0.00,1,,,,B,24
+52,,,Trimers,0.00,11,,,,,24
+53,,,4-6mers,0.00,11,,,,,24
+54,,,7-10mers,0.00,1,,,,,24
+55,,,Polymers,0.00,1,,,,,24
+56,35131,"Cornmeal, blue (Navajo)",Dimers,0.00,1,,,,,24
+57,,,Trimers,0.00,1,,,,B,24
+58,,,4-6mers,0.00,1,,,,,24
+59,,,7-10mers,0.00,1,,,,,24
+60,,,Polymers,0.00,11,,,,B,24
+61,35132,"Melon,bananaNavajo)",Dimers,0.00,11,,,,B,24
+62,,,Trimers,0.00,11,,,,,24
+63,,,4-6mers,0.00,1,,,,,24
+64,,,7-10mers,0.00,1,,,,B,24

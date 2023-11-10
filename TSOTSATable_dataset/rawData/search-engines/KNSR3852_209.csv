@@ -1,0 +1,29 @@
+,0,1,2,3,4,5
+0,Food Code,Name,Name,,Age in Months,
+1,,Swahili,English,6-12,13-36,37 and over
+2,,,,,Amount (gm),
+3,1,biskuti,Biscuits,,45,50
+4,3,mkate,Bread,,190,135
+5,6,keki,Cake,,130,100
+6,9,cerelac ya mtoto,Infant Cerelac,160,,
+7,101,parachichi,Avocado,,100,
+8,102,ndizi mbivu,Ripe banana,215,80,90
+9,112,embe,Mango,,,150
+10,114,machungwa,Orange,100,130,
+11,115,papai,Pawpaw,,350,250
+12,118,mapeasi,Pears,,,75
+13,235,maziwa,Milk,150,240,230
+14,251,aisikrimu,Icecream,,100,100
+15,256,mtindi,Yoghurt,,100,
+16,318,soseji,Sausage,,25,
+17,404,karoti,Carrot,,,70
+18,418,njegere,Peas,,10,50
+19,,,Soft drinks (coke,,,
+20,458,soda,pepsi),,150,200
+21,461,asali,Honey,,5,
+22,465,sukari,Sugar,,,5
+23,512,chapati,Chapati,,,100
+24,515,pilau,Pillau,,,175
+25,516,wali,"Rice,cooked",,140,175
+26,519,ugali,Ugali (stiff porridge),80,140,130
+27,527,tambi,Vermicelli,,100,100

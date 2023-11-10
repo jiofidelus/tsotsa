@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Study,Species,Probiotic,Model,Probiotic conc.,Duration,Outcome measures,Pro,Crt,Effect
+1,,,,,(CFU/day),of Tx,,,,
+2,,,,,,(Days),,,,
+3,Zhao et al. [90],SPF Kunming mice,L. delbruechii,AD (intraperito-,1x 10? CFU/kg,42,"Biomarkers, organ",6,6,Improved oxida-
+4,,SPF Kunming mice,L. plantarum, neal injection of,1x10? CFU/kg,42,"indices, qPCR",6,6, tive biomarkers
+5,,,,D-Galactose),,,"Biomarkers, organ",,,and reduced the
+6,,,,AD (intraperito-,,,indices,,,decreased in brain
+7,,,,neal injection of,,,,,,index
+8,,,,D-galactose),,,,,,

@@ -1,0 +1,25 @@
+,0,1
+0,Food Item,Mapping Decision
+1,,Individual changes made to the mapping to reflect modified amounts where products have been fortified. For
+2,,"example, ""Tropicana Essentials Vitamin A Plus Antioxidants C and E Drink"" has been mapped to a generic fruit"
+3,Vitamin and mineral fortified products,"juice code and vitamins A,C and E have been manually adjusted based on the manufacturer data. The item is"
+4,,"therefore be an amalgam of the 8 BOP macronutrients, generic micronutrients and manually adjusted"
+5,,ACE vitamins.
+6,Dairy free products (52 dairy free products),Macronutrients from BOP but micronutrients mapped to most appropriate dairy containing equivalent. i.e.:
+7,Dairy free products (52 dairy free products),"dairy free white chocolate buttons mapped to ""chocolate, white"""
+8,,Where product is labelled as gluten free but it is not likely to differ significantly from gluten containing
+9,,equivalent then macronutrients were taken from BOP but micronutrients mapped to gluten containing
+10,Gluten free products (243 gluten free products),"equivalent, for example: ""Nairns gluten free oatcakes"" mapped to ""oatcakes"". Where product contains a lot of"
+11,Gluten free products (243 gluten free products),"gluten and likely to be very differently formulated then broken down and mapped as a recipe by ingredient list,"
+12,,"for example: ""DS Gluten Free Breadsticks"" mapped as: 30% potato flour; 20% rice flour; 20% cornflour; 15%"
+13,,"buckwheat; 6% yeast, dried; 5% vegetable oil, blended, average; 2% sugar white; 2% salt."
+14,Canned vegetables (In M&W the nutrient values are for the,
+15,proportion of edible contents after liquid has been drained,"For example: Batchelors Mushy Peas mapped to ""Mushy peas, canned, re-heated'"
+16,"off, except where otherwise stated i.e., tomatoes, canned","For example: Batchelors Mushy Peas mapped to ""Mushy peas, canned, re-heated'"
+17,whole contents),
+18,"Canned fruit(In M and W,nutrient values for canned fruit",
+19,"includes syrup and juice, unless otherwise stated. M&W does",For canned fruit only generic options are presented in the myfood24 FCDB
+20,not give the nutrient values for only the fruit consumed),
+21,Canned tuna (In M&W the nutrient values are for the,"For example: ""Tesco everyday value tuna chunks in brine"" was mapped to ""Tuna, canned in brine, drained"" as"
+22,proportion of edible contents after liquid has been drained,"the BOP nutrient values are for drained content. However, for a couple of products which were specific ""no drain"
+23,"or ""Tuna, canned in oil, drained"")","tuna"" the macronutrients would be BOP but micronutrients would come from drained equivalent"

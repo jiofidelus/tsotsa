@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,Study,Study details,,,,,Participant details,Participant details,,,,,,Outcomes,,
+1,Author:,Study,Probiotic,Duration,Conc.of,Outcome,Model,Probiotic Placebo,Probiotic Placebo,Mean age,Sex ratio,BMI,Ethnicity,Effect,Compli-,Level of
+2,,design,,of Tx,probiotic,measures,,,,,M:F,,,,cations,Evidence
+3,,,,(weeks),(CFU/,,,,,,,,,,,
+4,,,,,day),,,,,,,,,,,
+5,Tamtaji,RCT,L. acido-,12,6x 109,"MMSE,",AD,26,27,76.2  8.1,,20.7+3.2,Iranian,MMSE,,II
+6,et al.,,"philus,",,, biomark-,,,,,,,,"scores,",,
+7,[50],,B. bifi-,,,"ers,",,,,,,,,serum,,
+8,,,"dum, B.",,,metabolic,,,,,,,,"TAC,",,
+9,,,longum,,,profiles,,,,,,,,"TAC,",,

@@ -1,0 +1,43 @@
+,0,1,2,3
+0,Food ID,English name and description,,Scientific name
+1,G,"Finfish, shellfish, other aquatic animals and products (continued)",,
+2,AAG55,"Giant seaperch, boiled",Lates calcarifer,Lates calcarifer
+3,AAG99,"Giant seaperch, raw",Lates calcarifer,Lates calcarifer
+4,AAG56,"Giant seaperch, steamed",Lates calcarifer,Lates calcarifer
+5,AAG57,"Goby, all species, raw",Glossogobius giurus,Glossogobius giurus
+6,AAG59,"Gourami, giant, raw",Osphronemus goramy,Osphronemus goramy
+7,AAG138,"Gourami, snake skin, dried",Trichogaster pectoralis,Trichogaster pectoralis
+8,AAG60,"Gourami, snake skin, raw",Trichogaster pectoralis,Trichogaster pectoralis
+9,AAG179,"Gourami, snake skin, salted, dried, boiled",Trichogaster petoralis,Trichogaster petoralis
+10,AAG180,"Gourami, snake skin, salted, dried, fried",Trichogaster petoralis,Trichogaster petoralis
+11,AAG181,"Gourami, snake skin, salted, dried, grilled",Trichogaster petoralis,Trichogaster petoralis
+12,AAG269,"Grouper,fried",Epinephelus sexfasciatus,Epinephelus sexfasciatus
+13,AAG268,"Grouper, raw",Epinephelus sexfasciatus,Epinephelus sexfasciatus
+14,AAG270,"Grouper,steamed",Epinephelus sexfasciatus,Epinephelus sexfasciatus
+15,AAG71,"Jellyfish, dried",Rhopilema esculenta,Rhopilema esculenta
+16,AAG77,"Mackerel, Indian, raw",Rastrelliger kanagurta,Rastrelliger kanagurta
+17,AAG226,"Mackerel, salted (Pla-too-khem)",Rastrelliger neglectus,Rastrelliger neglectus
+18,AAG199,"Mackerel, short- bodied, steamed,fried",Rastreliger brachysoma,Rastreliger brachysoma
+19,AAG195,"Mackerel, short-bodied, boiled",Rastrelliger brachysoma,Rastrelliger brachysoma
+20,AAG196,"Mackerel, short-bodied, fried",Rastrelliger brachysoma,Rastrelliger brachysoma
+21,AAG75,"Mackerel, short-bodied, in oil, canned, drained",Rastreliger brachysoma,Rastreliger brachysoma
+22,AAG78,"Mackerel, short-bodied, in tomato sauce and chilli, canned",Rastreliger brachysoma,Rastreliger brachysoma
+23,AAG76,"Mackerel, short-bodied, in tomato sauce, canned",Rastreliger brachysoma,Rastreliger brachysoma
+24,AAG129,"Mackerel, short-bodied, raw",Rastrelliger brachysoma,Rastrelliger brachysoma
+25,AAG197,"Mackerel, short-bodied, steamed",Rastreliger brachysoma,Rastreliger brachysoma
+26,AAG198,"Mackerel, short-bodied, steamed, boiled",Rastreliger brachysoma,Rastreliger brachysoma
+27,AAG201,"Mackerel, Spanish, fried",Scomberomorus commerson,Scomberomorus commerson
+28,AAG141,"Mackerel, Spanish, raw",Rastreliger brachysoma,Rastreliger brachysoma
+29,AAG262,"Mullet, bluespot gray, raw",Valamugil seheli,Valamugil seheli
+30,AAG255,"Mussel, green, raw",Perna viridis,
+31,AAG221,"Nile tilapia, boiled",Oreochromis nilotica,Oreochromis nilotica
+32,AAG222,"Nile tilapia,fried",Oreochromis nilotica,Oreochromis nilotica
+33,AAG95,"Oyster, raw",Ostrea sp.,
+34,AAG98,"Perch, climbing",Anabas testudineus,Anabas testudineus
+35,AAG9,"Pomfret, black, fried",Parastromateus niger,Parastromateus niger
+36,AAG102,"Pomfret, black, raw","Parastromateus niger,Apolectus niger","Parastromateus niger,Apolectus niger"
+37,AAG10,"Pomfret, black, steamed",Parastromateus niger,Parastromateus niger
+38,AAG193,"Pomfret, silver, fried",Pampus argenteus,Pampus argenteus
+39,AAG194,"Pomfret, silver, steamed",Pampus argenteus,Pampus argenteus
+40,AAG103,"Pomfret, silver/white, raw",Pampus argenteus,Pampus argenteus
+41,AAG283,"Prawn, fresh water, giant, raw",Macrobrachium rosenbergii,Macrobrachium rosenbergii

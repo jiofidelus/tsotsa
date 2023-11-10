@@ -1,0 +1,49 @@
+,0,1,2,3,4,5,6
+0,Plant Species,Abbreviations,Family name,,Plant Communities,Plant Communities,
+1,,,,IHC,VIP,CPI,PCP
+2,Cichorium intybus L.,Cic int,Asteraceae,0.00,0.00,0.23,0.11
+3,Circaea alpina L.,Cir alp,Onagraceae,0.00,0.00,0.00,0.40
+4,Cirsium arvense (L.) Scop.,Cir arv,Asteraceae,0.79,0.79,0.24,1.55
+5,Circaea cordata Royle,Cir cor,Onagraceae,0.00,0.00,0.21,0.05
+6,Cirsium falconeri (Hook.f.)Petr,Cir fal,Asteraceae,0.00,0.00,0.00,0.07
+7,Clematis grata Wall,Cle gra,Ranunculaceae,0.00,0.00,0.96,2.55
+8,Clinopodium vulgare L.,Cli vul,Lamiaceae,1.54,1.10,1.67,3.68
+9,Colebrookea oppositifolia Sm.,Col opp,Lamiaceae,0.00,0.00,0.00,0.06
+10,Commelina benghalensis L,Com ben,Commelinaceae,0.00,0.65,0.00,0.13
+11,Convolvulus arvensis L.,Con arv,Convolvulaceae,0.00,0.00,0.31,1.14
+12,Conyza japonica (Thunb.) Less. ex Less,Con jap,Asteraceae,0.00,0.18,0.09,0.40
+13,Corydalis carinata Liden and Z.Y.Su,Cor car,Papaveraceae,0.10,0.00,0.16,0.07
+14,Corylus colurna L.,Cor col,Betulaceae,0.00,0.00,0.15,0.26
+15,Corydalis cornuta Royle [Syn. Corydalis stewartii Fedde],Cor cor,Papaveraceae,0.07,0.00,0.46,0.51
+16,Cornus macrophylla Wall.,Cor mac,Cornaceae,0.05,0.00,0.00,0.23
+17,Cornus oblonga Wall.,Cor obl,Cornaceae,0.00,0.00,0.00,0.19
+18,Corydalis virginea Liden and Z.Y.Su,Cor vir,Papaveraceae,0.00,0.00,0.13,0.18
+19,Cotoneaster acuminatus Wall. ex Lindl.,Cot acu,Rosaceae,0.06,0.00,0.00,0.00
+20,Cuscuta reflexa Roxb.,Cus ref,Cuscutaceae,0.00,0.00,0.08,0.34
+21,Cyanthillium cinereum (L.)H.Rob.,Cya cin,Asteraceae,0.00,0.00,0.08,0.10
+22,Cynoglossum apenninum L.,Cyn ape,Boraginaceae,0.08,0.18,0.00,0.00
+23,Cynodon dactylon (L.) Pers.,Cyn dac,Poaceae,4.59,2.28,4.13,5.28
+24,Cynoglossum glochidiatum Wall.ex Benth,Cyn glo,Boraginaceae,1.58,0.25,0.33,1.52
+25,Cynoglossum microglochin Benth.,Cyn mic,Boraginaceae,0.14,0.52,0.00,0.00
+26,Cyperus odoratus L.,Cyp odo,Cyperaceae,0.15,0.89,0.08,0.20
+27,Cyperus rotundus L.,Cyp rot,Cyperaceae,0.59,1.09,0.91,0.53
+28,Dactylis glomerata L.,Dac glo,Poaceae,0.41,1.40,0.47,0.40
+29,Daphne papyracea Wall.ex G.Don,Dap pap,Thymelaeaceae,0.00,0.00,0.06,0.25
+30,Desmodium elegans DC.,Des ele,Papilionaceae,1.39,0.00,0.31,0.12
+31,Dicliptera bupleuroides Nees,Dic bup,Acanthaceae,0.00,0.00,0.10,0.93
+32,Dioscorea deltoidea Wall.ex Griseb,Dio del,Dioscoreaceae,0.13,0.00,0.24,0.03
+33,Diospyros lotus L.,Dio lot,Ebenaceae,0.00,0.00,0.16,0.00
+34,Dipsacus inermis Wall. in Roxb.,Dip ine,Dipsacaceae,0.22,0.67,0.09,0.13
+35,Dryopteris wallichiana (Spreng.) Hyl,Dry wal,Dryopteridaceae,0.00,2.76,0.52,1.89
+36,Duchesnea indica(AndxFake,Duc ind,Rosaceae,0.00,0.00,0.00,0.54
+37,Dysphania ambrosioides (L.) Mosyakin & Clemants,Dys amb,Chenopodiaceae,0.00,0.40,0.00,0.37
+38,Elaeagnus umbellata Thunb.,Ela umb,Eleagnaceae,0.00,0.21,0.31,0.03
+39,Elsholtzia ciliata (Thunb.)Hyl.,Els cil,Lamiaceae,0.00,0.16,0.18,0.04
+40,Epilobium hirsutum L.,Epi hir,Onagraceae,0.04,0.00,0.17,0.12
+41,Epilobium latifolium L,Epi lat,Onagraceae,0.00,0.28,0.19,0.07
+42,Epimedium elatum C.Morrenand Decne.,Epi ela,Berberidaceae,0.03,0.18,0.14,0.07
+43,Equisetum arvense L.,Equ arv,Equisetaceae,0.40,0.00,0.00,0.00
+44,Erigeron canadensis L.,Eri can,Asteraceae,0.87,0.00,0.55,0.39
+45,Erysimum melicentae Dunn.,Ery mel,Brassicaceae,0.15,0.12,0.00,0.00
+46,Euphorbia helioscopia L.,Eup hel,Euphorbiaceae,0.11,0.00,0.00,0.05
+47,Euphrasia himalayica Wetts.,Eup him,Orobanchaceae,2.70,0.58,0.00,0.00

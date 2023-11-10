@@ -1,0 +1,43 @@
+,0,1,2,3,4
+0,Application,Objectives,AI technique,Outcomes/impacts,References
+1,Ham,To monitor the salt processing of hams salted differ-,Simplified fuzzy ARTMAP neural network(i The data obtained from the e-tongue was able to,Simplified fuzzy ARTMAP neural network(i The data obtained from the e-tongue was able to,Gil-Sanchez et al.
+2,,ently with different formulations,,be analyzed and classified using ANN,[220]
+3,,,,(ii) The data was classified using two processing,
+4,,,,variables which are the processing time and salt,
+5,,,,formulation,
+6,,,,(iii) Optimum parameters value for SFAM neural,
+7,,,,networks were drawn out to be used in the micro-,
+8,,,,controller device,
+9,Honey,To differentiate different types of honey according,Fuzzy ARTMAP neural network (FAM),(i) The proposed E-tongue system was able to dif-,Marisol et al. [221]
+10,,to their antioxidant level,,ferentiate different types of honey as well as their,
+11,,,,total antioxidant capacity level,
+12,,,,(ii) The ANN fuzzy art map type analysis had a high,
+13,,,,classification success rate of 100% which indicates,
+14,,,,that it is a good measurement system,
+15,Liquor,To classify different types of Chinese liquor flavor,SVM & fuzzy evaluation,(i) E-nose with the SVM system was able to classifyJingjing et al. [222],
+16,,using e-tongue with fuzzy evaluation and predic-,,four different flavors of liquor with an accuracy,
+17,,tion by SVM,,of 100%,
+18,,,,(ii The developed system is able to discriminate,
+19,,,, the samples accurately and the output evaluation,
+20,,,,language in line with the human perception,
+21,Milk,To detect the adulteration of raw milk,SVM,(i) The developed model was able to determine the,Tohidi et al. [223]
+22,,,,adulteration in the samples with a high accuracy,
+23,,,,values which are all greater than 87% for different,
+24,,,,types of adulterants in the milk,
+25,Peanut meal,To assess the taste attributes of peanut and compare,"ANN, partial least square (PLS)",(i) Good stability and repeatability with respect to,"Wang et al. [224, 225]"
+26,,the predictive abilities of the methods used,, the measured signals were exhibited by the sen,
+27,,,,sors in the E-tongue,
+28,,,,(ii) Different concentrations with the same taste,
+29,,,,(five types of taste) were able to be discriminated,
+30,,,,by the E-tongue,
+31,,,,(iii) RBFNN has a better prediction ability with,
+32,,,,lower error and higher correlation coefficients than,
+33,,,,those of the PLS method,
+34,Pineapple,To classify the pineapples according to their sweet-,"SVM,KNN,ANN,RF",(i) Different machine learning algorithms were,Hasan et al. [226]
+35,,ness level and determine the best algorithm,,employed in determining the sweetness of the,
+36,,,,"pineapple,and the best algorithm obtained was",
+37,,,, the KNN method where it achieved an accuracy,
+38,,,,of 0.820,
+39,,,,(ii) The developed model will be beneficial in,
+40,,,,industry when the selection of pineapples in large,
+41,,,,quantities is required,

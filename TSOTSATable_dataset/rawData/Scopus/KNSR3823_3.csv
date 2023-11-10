@@ -1,0 +1,14 @@
+,0,1,2
+0,Variable,Factor 1,Factor 2
+1,,Mixed pattern,Healthy/fruits
+2,,,and vegetable
+3,,,pattern
+4,Fruits,-,0.7315
+5,Vegetables,-,0.7211
+6,Milk and milk products,0.4599,
+7,Beef,0.5939,-
+8,Chicken,0.6801,-
+9,Fish,0.5091,-
+10,Sugary beverages,0.5624,-
+11,Sweets and sugars,0.4600,-
+12,Fatty snacks,0.6551,-

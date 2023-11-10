@@ -1,0 +1,28 @@
+,0,1,2,3,4,5
+0,Biosensorsa,Detection limit (M),Linear range (mM),Methodsb,Sensitivity(Acm-2 mM-1,References
+1,MnO/GE,10,0.1-45.4,CV,59.0,Dong et al.2015
+2,GO/NaAlg/a-MnO2/GE,0.02,0.00005-0.0008,"CV,EIS",,Ge et al.2017
+3,MnO/GO,0.8,0.005-0.6,CV,38.2,Li et al.2010
+4,Pt NPs/GHNs/GC,0.08,0.001-0.5,"CV,EIS",-,Guo et al.2010
+5,Pt NPs/Au/rGO,0.008,0.005-4,CV,1117,Bai et al.(2018
+6,Pt NPs/Ag NWs/GE,0.12,0.0002-0.2,"CV,DPV",,Xing et al.2018
+7,Pt NPs/RGO-CS-Fc,0.02,0.00002-0.3,"CV,EIS,DPV",,Bai et al.(2016)
+8,Pt NPs/Nafion/rGO,0.4,0.005-3,"CV,CA",132.8,Zhang et al.2017)
+9,Pt NPs/PVA/MWCNTs,0.7,0.002-3.8,CV,122.63,Fang et al.2012)
+10,Pt/HCS,0.1,0.0003-2.3,CV,,Zhang et al.2018)
+11,Ag NWs/Pt,0.2,0.5-30,"CV,CA",9.45,Qin et al.(2015
+12,Ag NPs/DNA/GC,1.7,0.004-16,CV,,Kang et al.2008
+13,Ag NSs/GCE,0.17,0.005-6,CV,1680,Ma et al.2018)
+14,Fe3O4/rGO,3.2,0.16,"CV,DPV",,Ye et al.2012
+15,AuNFs/Fe3O4/ZIFg/MoS2/GCE,0.9,0.005-120,CV,,Lu et al.2020
+16,AuNPs/N-GQD/GCE,0.12,0.0002-13.327,CV,186.22,Ju and Chen (2015
+17,AuNPs,0.01,0.0002-0.1,"EIS,CV",18.5,Crulhas et al.2016)
+18,Pd/Fe3O4-MWCNT,0.063,0.0002-0.5,"CV,EIS",,Baghayeri and Veisi (2015
+19,PB/CS/GCE,2.6,0.008-1.848,"CV,CA",693,Sheng et al.(2017)
+20,MoS2/PBNCs,4.1,0.00001-0.3,"CV,CA",,Su et al.(2017
+21,PtPb/G/GCE,0.002,0.002-2.5,CV,4.05,Sun et al.(2017)
+22,Cu/PtPd/C,0.37,0.005-0.25,CV,530.0,Gutierrez et al.(2018
+23,CeO/Pt/C,2,0.01-30,"CV,CA",185.4,Uzunoglu and Ipekci (2019)
+24,NiCoS4@CoS NAs,0.002,0.00001-2.1,"CV,EIS",1490,Mani et al.2019
+25,"Nafion/Zr-MOF/GCEThe,",100,1-45,"CV,CA",-,Sun et al.(2020)
+26,Ti3AlC2/Chit/GCE,,1.25,CA,-,Li et al.2019

@@ -1,0 +1,54 @@
+,0,1,2,3
+0,"Sample origin, collection year and processing",-amylase(% inhibition at 100 g/mL),-glucosidase(IC5o g/mL or %),Pancreatic lipase(% inhibition at 50 g/mL)
+1,"Icalma,2018",,,
+2,"Peeled, raw, unbound",Inactiveabe,14.62  0.78abede,Inactivea
+3,"Peeled, boiled,unbound",Inactivedef,2.77  0.04afghi,Inactiveb
+4,"Boiled,unbound",17.31  0.87adgh,1.83 0.10bfjkl,Inactivec
+5,"Boiled,bound",18.62  0.56beij,0.61  0.01cgj,Inactived
+6,Decoction water,Inactivesik,0.63  0.03dhk,3.33  0.86abcde
+7,"Husk,boiled",29.36  0.59cfhjk,0.30  0.02eil,Inactivee
+8,"Icalma,2019",,,
+9,"Peeled, raw, unbound",Inactivea,2.44  0.19abed,Inactive
+10,"Peeled, boiled,unbound",Inactiveb,0.52  0.07ae,Inactive
+11,"Boiled,unbound",16.00  0.68abcd,0.39  0.02bf,Inactive
+12,"Boiled, bound",Inactivec,1.30  0.07cefg,Inactive
+13,Decoction water,Inactived,0.32  0.04dg,Inactive
+14,"Lonquimay,2017",,,
+15,"Peeled,raw,unbound",10.74  0.42abc,0.78  0.06ab,Inactivea
+16,"Boiled, unbound",Inactiveade,0.95  0.08ade,Inactiveb
+17,"Boiled,bound",2.42  0.05bdf,0.61  0.03bd,12.47  1.71abc
+18,Decoction water,1.65  0.07cef,0.68 0.04e,Inactivec
+19,"Lonquimay,2018",,,
+20,"Peeled, raw, unbound",4.68  0.39abcd,3.36  0.10abcde,Inactive
+21,"Peeled, boiled,unbound",Inactiveaefg,1.89  0.22afghi,Inactive
+22,"Boiled,unbound",Inactivebhij,0.67  0.03bf,Inactive
+23,"Boiled,bound",3.69  0.11ehkl,4.24  0.66cgikl,Inactive
+24,Decoction water,11.57  0.58cfikm,0.38  0.02dhk,Inactive
+25,"Husk, boiled",29.28  1.46dgjlm,0.47  0.04eil,Inactive
+26,"Lonquimay,2019",,,
+27,"Peeled,raw,unbound",Inactivea,2.05  0.21,Inactive
+28,"Peeled,boiledunbound",5.21  0.25abed,0.38  0.02,Inactive
+29,Boiledunbound,Inactiveb,0.330.00,Inactive
+30,"Boiled,bound",Inactivec,7.100.66,Inactive
+31,Decoction water,Inactived,0.32  0.00,Inactive
+32,"Nahuelbuta,2017",,,
+33,"Peeled,raw,unbound",2.34  0.12abc,0.53  0.04a,Inactive
+34,"Boiled,unbound",3.58  0.10ade,1.09  0.12b,Inactive
+35,"Boiled, bound",Inactivebd,5.52  0.27abc,Inactive
+36,Decoction water,Inactivece,0.940.05,Inactive
+37,"Pino Huacho,2018",,,
+38,"Peeled,raw,unbound",Inactiveabed,2.39  0.09a,Inactive
+39,"Peeled, boiled,unbound",Inactiveefgh,33.40  3.31*abcede,Inactive
+40,"Boiled,unbound",2.62  0.08aeij,1.670.14b,Inactive
+41,"Boiled, bound",18.45  0.74bfikl,3.42  0.03c,Inactive
+42,Decoction water,4.13  0.16cgkm,0.64  0.03d,Inactive
+43,"Husk, boiled",33.56  1.34dhjlm,0.160.01,Inactive
+44,"Pino Huacho,2019",,,
+45,"Peeled, raw, unbound",Inactivea,0.97  0.02sbc,Inactive
+46,"Peeled, boiled, unbound",Inactiveb,1.96  0.09adef,Inactive
+47,"Boiled, unbound",14.38  0.43sbcd,3.15  0.37bdgh,Inactive
+48,"Boiled, bound",Inactivec,11.13  0.63cegi,Inactive
+49,Decoction water,Inactived,0.21  0.01fhi,Inactive
+50,Reference compound,,,
+51,Acarbose ICso (g/mL),28.52  0.55,118.172.06,
+52,Orlistat ICso (g/mL),=,,0.04 0.00

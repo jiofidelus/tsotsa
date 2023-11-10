@@ -1,0 +1,60 @@
+,0,1
+0,hsa-miR-186-5p,Promotes apoptosis [473] and suppresses CRC [474]
+1,[CAAAGAAUUCUCCUUUUGGGCU],Promotes apoptosis [473] and suppresses CRC [474]
+2,,"Suppresses CRC [475,476],glioblastoma [477],GC [478],salivary adenoid cystic"
+3,,carcinoma [479] and CML [480]; targets genes in lithium response in bipolar disorder [481];
+4,hsa-miR-320a,regulates fibrotic process in interstitial lung disease of systemic sclerosis [482]; regulates cell
+5,ICUCCCCUCCGCCUUCUCUUCCCG,proliferation and apoptosis in multiple myeloma [483];regulates erythroid differentiation [484]
+6,GUUCUUCCCGGAGUCGGGAAAAGCUG],controls glucagon expression [485]; regulates cell proliferation and apoptosis in multiple
+7,,myeloma [483]; stimulates endometrial stromal cell migration during preimplantation embryo
+8,,stage [486]; improves skeletal muscle mitochondrial metabolism [487]
+9,,Involved in Ang II-induced phenotypic transformation of smooth muscle cells in
+10,,hypertension [488]; suppresses starvation-induced cardiomyocyte autophagy [488]; improves
+11,hsa-miR-181b-5p,anti-tumor cytotoxic T cell response in B cells of CLL [489]; inhibits trophoblast cell migration
+12,[AACAUUCAUUGCUGUCGGUGGGU],and invasion in multiple abnormal trophoblast invasion [490]; modulates cell migratory
+13,,proteins in endometrial stromal cells [491]; suppresses the progression of epilepsy [492];
+14,, suppresses gallbladder carcinoma [493]
+15,,"Regulates angiogenesis, apoptosis, cell differentiation, oxidative stress and hypoxia [494];"
+16,hsa-miR-30e-5p,NSCLC [496] and squamous cell carcinoma of the head and neck [497]; enhances innate
+17,[UGUAAACAUCCUUGACUGGAAG],
+18,,considered as a potential target for curbing metastatic spread in P53-deficient tumors [499].
+19,hsa-miR-103a-3p,Regulates BDNF expression in follicular fluid [465]; suppresses PC [500]; aggravates renal cell
+20,[AGCAGCAUUGUACAGGGCUAUGA],carcinoma [501]; regulates Wnt signaling pathway in colorectal carcinoma [502].
+21,,"Mediates downregulation of BRCA1,impacting DNA repair and sensitivity to PARP"
+22,hsa-miR-182-5p,"inhibitors [503]; suppresses CRC [504], renal cell carcinoma [505], bladder cancer [506] and"
+23,[UUUGGCAAUGGUAGAACUCACACU],prostate cancer [507]; acts as glial cell line-derived neurotrophic factor GDNF mimics
+24,,dopaminergic midbrain neurons [508];associates with renal cancer cell mitotic arrest [509]
+25,hsa-miR-151a-3p,"Enhances slug-dependent angiogenesis and regulates multiple functions in the lung, such as"
+26,[CUAGACUGAAGCUCCUUGAGG],"cell growth, motility, partial EMT and angiogenesis [510]."
+27,hsa-miR-335-5p,"Regulates bone homeostasis [511]; suppresses GC [512], uterine leiomyoma [513] and"
+28,[UCAAGAGCAAUAACGAAAAAUGU],ESCC [514]; regulates cardiac mesoderm and progenitor cell differentiation [515]
+29,hsa-miR-25-3p,Suppresses hepatocytes [516] and regulates osteoblast differentiation of human aortic valve
+30,[CAUUGCACUUGUCUCGGUCUGA],interstitial cells [517].
+31,hsa-let-7g-5p,Suppresses epithelial ovarian cancer [517] and glioblastoma [518]; and alleviates murine
+32,[UGAGGUAGUAGUUUGUACAGUU],collagen-induced arthritis by inhibiting Th17 cell differentiation [519].
+33,hsa-miR-200c-3p,"Suppresses prostate carcinoma [520], renal cell carcinoma [521] and epithelial ovarian"
+34,[UAAUACUGCCGGGUAAUGAUGGA],capacity of macrophages [524]
+35,,Suppresses GC [525] and prostate cancer [526]; protects cells from
+36,hsa-miR-30c-5p,hypoxia-reoxygenation-induced apoptosis and induces cell proliferation and anti-apoptotic
+37,[UGUAAACAUCCUACACUCUCAGC],and proliferative effects [527]; reduces cellular migration and pro-angiogenic gene expression
+38,,in extracellular vesicle EV-recipient cells [528]
+39,,"regulates hypoxia [529]; suppresses breast cancer [530], osteosarcoma [531], THCA, soft tissue"
+40,hsa-miR-429,"sarcoma [532],cervical cancer [533],GC [534],diffuse large B-cell lymphoma [535],esophageal"
+41,[UAAUACUGUCUGGUAAAACCGU],"carcinoma [536],HCC[537,538],glioblastoma [539],NPC [540],PC cancer [541],THCA [542]"
+42,,OSCC [543] and renal cell carcinoma [544]; inhibits bone metastasis in breast cancer [545];
+43,,regulates the transition between HIF1A and HIF3A expression in human endothelial cells [546]
+44,hsa-miR-99b-5p,
+45,[CACCCGUAGAACCGACCUUGCG],"Suppresses primary myotubes [547], epidermal keratinocytes and cervical cancer cells [548]."
+46,,Modulates CYP2C19 in human liver cells [549]; suppresses cell proliferation [550]; activates
+47,,"hepatic stellate cells, which moderate their profibrogenic phenotype, supporting the use of"
+48,,miR-29a agonists for treating liver fibrosis [551]; regulates tumorigenicity and TME
+49,,"development [552]; involved in the progression of HCC,which elucidates its potential"
+50,,theragnostic implications [552]; suppresses GC [553] and renal cell carcinoma by regulating
+51,,E2F1 expression by long non-coding RNA H19 [554]; induces TNF in endothelial
+52,hsa-miR-29a-3p,dysfunction [555]; mediates tumor immune infiltration in breast invasive carcinoma [556]; acts
+53,[UAGCACCAUCUGAAAUCGGUUA],as a protective factor for fibrogenesis in gluteal muscle contracture557l;regulates osteoblast
+54,,in ulcerative colitis [559];regulates and restores endothelial function in normal people and
+55,,"cardiometabolic disorders, respectively [560]; regulates peripheral glucocorticoid receptor"
+56,,"signaling [561];suppresses CRC[562],gliomas[563],head and neck squamous cell"
+57,,"carcinoma [564], prostate cancer [565],GC [553],PTC [566], lung cancer [567], cervical cancer"
+58,,[568] and endometrial cancer [569]; enhances the radiosensitivity of OSCC cells [570];

@@ -1,0 +1,48 @@
+,0,1,2,3,4,5,6
+0,,,,,Method for comparison,,
+1,,,With same food in the USDA,With same food in the USDA,With same food in the USDA,,With a recipe
+2,,,food composition tables,food composition tables,food composition tables,,(Method D)
+3,,,,(Method C),,,
+4,,,Number,,Pearson,Number,Pearson
+5,,,of,correlation,correlation,of,correlation
+6,Food name (food code ),Food name (food code ),fatty acids,coefficient,coefficient,fatty acids,coefficient
+7,Cereals,Cereals,,,,,
+8,,Under-milled pressed barley(1-6a,6,,0.90,,
+9,Buckwheat flour (1-59a),Buckwheat flour (1-59a),8,,0.87,,
+10,"Macaroni,dry1-34a","Macaroni,dry1-34a",6,,0.98,,
+11,Well-milled rice (1-41d),Well-milled rice (1-41d),7,,0.93,,
+12,White bread (1-13a),White bread (1-13a),7,,0.80,11,0.57
+13,,"Bread type rolls, soft rolls (1-19)",9,,0.83,13,0.55
+14,Popcorn (1-67),Popcorn (1-67),7,,0.81,10,0.80
+15,Potatoes,Potatoes,,,,,
+16,Potato chips (2-13),Potato chips (2-13),9,,0.81,11,0.79
+17,Kasutera (4-7),Kasutera (4-7),,,,17,0.92
+18,Karintou (4-32a),Karintou (4-32a),,,,10,0.88
+19,,Fried rice cracker (4-41b),,,,11,0.93
+20,Cake doughnut (4-48b),Cake doughnut (4-48b),10,,0.65,15,0.68
+21,Custard cream puffs (4-45),Custard cream puffs (4-45),11,,0.75,13,0.85
+22,Hard biscuit (4-115),Hard biscuit (4-115),12,,0.70,20,0.66
+23,Soft biscuit (4-232),Soft biscuit (4-232),13,,0.83,13,0.75
+24,Vegetables,Vegetables,,,,,
+25,Cucumber (12-25a),Cucumber (12-25a),6,,0.75,,
+26,Celery(12-50),Celery(12-50),6,,0.87,,-.
+27,Spinach (12-117a),Spinach (12-117a),7,,0.84,,
+28,Tomato (12-85),Tomato (12-85),6,,0.36,,
+29,Carrot (12-94a),Carrot (12-94a),6,,0.82,,
+30,Sweet pepper (12-108a),Sweet pepper (12-108a),6,,0.64,-,-
+31,"Soybeans, green (12-8a)","Soybeans, green (12-8a)",8,,1.00,,-.-
+32,"Lettuce, crisp type (12-73)","Lettuce, crisp type (12-73)",6,,0.97,,--
+33,Chinese cabbage(12-10la,Chinese cabbage(12-10la,7,,0.90,,
+34,Soybean sprouts (12-126a),Soybean sprouts (12-126a),8,,0.99,--,
+35,Fruits,,,,,,
+36,Lemons (13-92a),Lemons (13-92a),7,,0.86,,
+37,Apples (13-88),Apples (13-88),8,,0.97,---,
+38,Avocados13-1),Avocados13-1),6,,0.99,*-,---
+39,Strawberries (13-6),Strawberries (13-6),6,,0.99,,---
+40,,Japanese persimmons (13-26a),6,,0.66,---,
+41,Kumquats (13-32a),Kumquats (13-32a),6,,0.94,---,--
+42,Grapes (13-70),Grapes (13-70),6,,0.97,,
+43,Seasonings,Seasonings,,,,,
+44,,Separable type salad dressing(17-9a),5,,0.85,10,0.95
+45,,Emulsion type salad dressing (17-9b),6,,0.75,10,0.93
+46,,Egg yolk type mayonnaise (17-10b),5,,0.89,11,1.00

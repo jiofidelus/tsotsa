@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6,7
+0,Treatment (g/L), 20 min,40 min,2 h,4 h,6h,8-18 h,1824 h
+1,Control (0),feed and oviposit,feed and oviposit,feed and oviposit,feed and oviposit,feed and oviposit,feed and oviposit,feed and oviposit
+2,Control (0),actively,actively,actively,actively,actively,actively,actively
+3,,,,,,1. crawled,1. crawled,1. crawled
+4,GC16 (2.00),stationary, stationary,moved slightly,moved slightly,2. moved slightly,2. moved slightly,tapped
+5,,,,,,3. stationary/died,3. died,3. died
+6,GC16 (6.67), stationary, stationary,stationary,stationary/died,stationary/died,shrinking,shriveled

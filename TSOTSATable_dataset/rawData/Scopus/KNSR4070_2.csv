@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7
+0,Compound,Aroma Descriptor,"Threshold, g/L",PW*,PAW,PCW,PWW,PLW
+1,Ethyl decanoate,[35],200 [35],33.40  0.67 a,33.64  0.67 a,17.06  0.51 b,11.96  0.24 c,10.49  0.21 d
+2,Methyl,,,,,,,
+3,p-tert-butylphenyl,,,6.79  0.14 a,7.54  0.15 b,5.51  0.17 c,6.66 0.13 a,6.60  0.13 a
+4,acetate,,,,,,,
+5,Ethyl dodecanoate,"flowery,fruity [34]",200 [35],2.68  0.06 a,4.55 0.09 b,nd,nd,3.280.06
+6,,,,TERPENES,,,,
+7,Myrcene,[32],13-15 [33],nd,nd,nd,4.40  0.09,nd
+8,p-Cymene,"solvent, citrus [32]",5 [33],nd,5.00  0.02 a,nd,4.010.08b,nd
+9,"1,8-Cineole","mint, sweet [32]",12 [33],nd,9.48  0.19 a,5.04  0.15 b,nd,nd
+10,Limonene,"lemon, orange [32]",10 [33],nd,nd,nd,2.80  0.56,nd
+11,Linalool,"[32,35]",25 [35],nd,6.430.13a,4.77  0.14 b,21.140.43c,nd
+12,trans-Thujone,,,nd,nd,nd,45.13  0.91,nd
+13,iso-3-Thujanol,,,nd,nd,nd,5.71 0.11,nd
+14,Nerol oxide,"oil,flower [32]",,nd,nd,nd,10.12  0.21,nd
+15,Lavandulol,herb,,nd,nd,nd,37.790.76,nd
+16,Borneol,woody,,nd,nd,30.860.92,nd,nd
+17,Terpinene-4-ol,must[32],,nd,15.82  0.31 a,17.090.51b,53.47  1.07 c,nd
+18,Methyl chavicol,"licorice, anise [32]",,nd,137.12  2.74 a,nd,3.73  0.07 b,nd
+19,-Citronellol,rose [32],40 [33],nd,nd,nd,25.10  0.52,nd
+20,Nerol,"rose,fruity,floral[35]",300 [35],nd,nd,nd,5.99  0.12,nd
+21,(Z)-Anethole,,,nd,22.78  0.45,nd,nd,nd
+22,(E)-Anethole,-,,nd,671.30  9.42 a,57.58  1.72 b,34.010.68 c,16.48  0.33 d

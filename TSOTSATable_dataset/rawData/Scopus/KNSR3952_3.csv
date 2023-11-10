@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7
+0,,FNLIT StructuralEquation Model(Model 1),FNLIT StructuralEquation Model(Model 1),,,,,
+1,,Association,,,Direct effect,Indirect effect,95%CI,Total effect
+2,SES_factors,SES_factors,-->,FNLIT,0.13,0.00,,0.13**
+3,SES_factors,SES_factors,-->,Overweight/Obese,0.14,-0.01,"-0.02,0.01",0.13**
+4,Healthy behavior -->,Healthy behavior -->,Healthy behavior -->,Overweight/Obese,-0.10,0.00,-,-0.10*
+5,FNLIT,FNLIT,--->,Healthy behavior,0.13,0.00,-,0.13**
+6,FNLIT,FNLIT,-->,Unhealthy behavior,-0.29,0.00,-,-0.29***
+7,FNLIT,FNLIT,-->,Academic achievement,0.20,0.00,,0.20***
+8,SES factors,SES factors,-->,Academic achievement,0.29,0.07**,"0.10,0.44",0.37***
+9,Food Insecurity,Food Insecurity,-->,Academic achievement,-0.12,0.00,-,-0.12**
+10,SES factors,SES factors,-,Food Insecurity,-0.404,-0.001,"0.03,0.02",-0.405***
+11,,FNLIT's subscales Structural Equation Model(Model 2),,,,,,
+12,,Association,,,Direct effect,Indirect effect,95%CI,Total effect
+13,SES factors,-->,-->,UFNI,0.11,0.00,,0.11**
+14,Demo_factors,-->,-->,NHK,-0.29,0.00,,-0.29**
+15,Demo factors,-->,-->,FCL,-0.25,0.00,-,-0.25**
+16,SES factors,-->,-->,FCL,0.10,0.00,-,0.10**
+17,Demo_factors,-->,-->,FLL,-0.15,0.00,-,-0.15**
+18,SES_factors,-->,-->,FLL,0.18,0.00,,0.18**
+19,SES_factors,-->,-->,Academic achievement,0.27,0.09,"0.26,0.21",0.36**
+20,FCL,-->,-->,Academic achievement,0.18,0.01,"-0.22,0.17",0.19**
+21,FLL,-->,-->,Academic achievement,0.11,0.00,-,0.11**
+22,Food Insecurity-->,Food Insecurity-->,Food Insecurity-->,Academic achievement,-0.12,0.00,,-0.12**
+23,IFNL,-->,-->,Unhealthy eating behaviors,-0.40,0.01,"-0.01,0.05",-0.39**
+24,SES factors,-->,-->,Healthy eating behaviors,0.13,0.01,"0.04,0.07",0.14*
+25,Demo factors,-->,-->,BMIzscore,0.86,-0.40*,"-0.95,-0.06",0.46**
+26,UFNI,-->,-->,BMIzscore,-0.15,-0.01,"0.36,0.09",-0.16**
+27,FFNL,-->,-->,BMIzscore,-0.29,0.00,,-0.29**
+28,IFNL,-->,-->,BMIzscore,-0.18,0.01,-,-0.17**
+29,FCL,-->,-->,BMIzscore,0.44,0.00,-,0.44**
+30,SES_factors,-->,-->,Food Insecurity,-0.43,0.01,"-0.08,0.09",0.42**

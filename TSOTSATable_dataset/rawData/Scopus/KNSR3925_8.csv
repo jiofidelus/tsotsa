@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Mouse lines,,Discovery,Expression,Serum GH,Serum IGF1,Size/weight,Body composi-,Insulin sensi-,Reproductive,Cancer inci-,Lifespan,Original
+1,Mouse lines,,(Year/Lab/first),control,,,,tion,tivity,capacity,dence,,references
+2,IGFBP1,human IGFBP1,1995 Dai,mouse Mtl,n/a,n/a,weight,not consistent,,,n/a,n/a,[312]
+3,,transgene,D'Ercole,,,,,,,,,,
+4,,IGFBP1 KO,2003 Taub,NeoR replace-,n/a,before 4 mo,,n/a,,n/a, prostate,n/a,[318]
+5,,,,tor and exons,,,,,,,prolifera-,,
+6,,,,1-2,,,,,,,"tion, but not",,
+7,,,,,,,,,,,incidence,,
+8,IGFBP2,IGFBP2,1999 Wolf,CMV,,,,fat,sensitivity,n/a,colorectal,n/a,[320]
+9,,transgene,(Hoeflich),,,,,,serum insulin,,tumor growth,,
+10,,,,,,,,,,,with induced,,
+11,,,,,,,,,,,carcinogen-,,
+12,,,,,,,,,,,esis,,
+13,,IGFBP2KO,2000 Pintar,NeoR replace,,,-weight;L;,n/a,,,n/a,n/a,[323]
+14,,,(Wood),ment of exon 3,,,"S,H,K",,,,,,
+15,IGFBP3,human IGFBP3,1995 Molnar,mouse Mt1,n/a,n/a,"S,L,H", fat,n/a,,n/a,n/a,[325]
+16,,transgene,(Murphy),,,,,,,,,,
+17,,IGFBP3 KO,2006 Pintar,NeoR replace-,n/a,n/a,weight until,,-impaired,n/a, lung cancer,n/a,[328]
+18,,,(Ning),ment of,,,22 wk;,,glucose,,tumorigen-,,
+19,,,,exon1-3,,,afterward,,homeostasis,,esis,,
+20,,,,,,,,,on HFD,,,,
+21,IGFBP4,IGFBP4,1998 Fagin, driven by,n/a,n/a, thymus,n/a,n/a,n/a,n/a,n/a,[331]
+22,,transgene,(Wang), driven by,,,,,,,,,
+23,,,,a-actin,,,,,,,,,
+24,,IGFBP4 KO,2006 Pintar, NeoR replace-,n/a,,+," fat, femur",n/a,,n/a,n/a,[328]
+25,,,(Ning),ment of exonl,,,,length,,,,,
+26,IGFBP5,IGFBP5,2002 Flint,-lactoglobulin,n/a,1,weight, lean,n/a,fertility,n/a,neonatal,[335]
+27,,transgene,(Tonner),,,,,,,,,mortality,
+28,,IGFBP5 KO, 2006 Pintar, NeoR replace-,n/a,,,fat,mild glucose,,n/a,n/a,[328]
+29,,,(Ning),ment of exonl,,,,,intolerance,,,,
+30,IGFBP6,IGFBP6,2004 Babajko,glial fibrillary,n/a,"15d;-1,",weight;,n/a,mild insulin,+,n/a,n/a,[340]
+31,,transgene,(Bienvenu),acidic protein,,3 mo,growth,,resistance w/,,,,
+32,,,,promoter/,,,retardation,,diet-induced,,,,
+33,,,,enhancer,,,up to 3 mo,,obesity,,,,

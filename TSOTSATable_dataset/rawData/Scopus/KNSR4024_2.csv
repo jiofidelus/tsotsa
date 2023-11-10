@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Test group,"SAR addition,mass ratio",,"SAR addition,mass ratio",,Test method,Obtaining parameters
+1,,(%),,,,,
+2,,12,3,4,5,,
+3,Test contents,,,,,,
+4,Aggregate characteristic,0.025,0.03,,,"0.035 0.04 Dry/Wet sieve method Water-stable and non-water-stable aggregate content,aggregate","0.035 0.04 Dry/Wet sieve method Water-stable and non-water-stable aggregate content,aggregate"
+5,,,,,,,fractal dimension and stability coefficient
+6,Water characteristic,0.025,0.03,0.035,,Filter method,"Soil-water characteristic curve,water holding capacity and effective"
+7,,,,,,,water content
+8,Microstructure,0.025,0.03,0.035,,SEM+Dataanalysis,Microstructure photos and pore distribution
+9,Mechanical characteristics 0,0.025,0.03,0.035,0.04Direct-shear,0.04Direct-shear,"Shear strength,cohesion, internal friction angle"

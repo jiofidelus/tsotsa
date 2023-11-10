@@ -1,0 +1,49 @@
+,0,1,2,3,4
+0,Symptom,Potential Mechanism,Evidence in Non-CKD,Study Details,Evidence in CKD
+1,Symptom,Potential Mechanism,Population,Study Details,Population
+2,Restless legs syndrome,CB1 found throughout,Patients with RLS:,Two case series (same,Nil
+3,,the central nervous,Symptom relief with,"center,total n=18",
+4,,system,smoked marijuana or,,
+5,,Cannabinoids modulate,sublingual CBD,,
+6,,dopaminergic and,"(41,42)",,
+7,,GABAergic signaling,,,
+8,,"(37,39,40)",,,
+9,Pruritus,Inhibition of TRPV1,Nil,"Nonrandomized study,",Hemodialysis patients:
+10,,(46),,n=21,uncontrolled
+11,,Reduced production of,,,prospective study
+12,,inflammatory,,,n=21)found that
+13,,cytokines (44),,,an
+14,,,,,endocannabinoid-
+15,,,,,containing emol-
+16,,,,,lient was effective
+17,,,,,(51)
+18,Insomnia,THC has sedating,Patients with insomnia,"Randomized,double",Nil
+19,,"properties, possibly",associated with,"blinded,crossover",
+20,,mitigated by CBD,fibromyalgia:,"trial,n=31",
+21,,(54),Nabilone superior to,,
+22,,,amitriptyline(108,,
+23,Anorexia,Activation of central,(a) Patients with HIV-,"(aFour RCTs,total",Nil
+24,,"CB1, resulting in",associated cachexia,n=204,
+25,,appetite stimulation,and anorexia,"(b)Two RCTs,total",
+26,,and shift of white,nervosa:Modest,n=290,
+27,,and brown,efficacy with smoked,,
+28,,adipocytes to,cannabis and,,
+29,,anabolic state (58-60),dronabinol (61-64),,
+30,,,(bPatients with cancer-,,
+31,,,related anorexia:,,
+32,,,"Mixed results (65,66)",,
+33,Pain,Actions on diverse,Patients with chronic,Two meta-analyses: 104,Nil
+34,,range of neuronal,non-cancer pain and,"studies(47 RCTs,57",
+35,,ion-channels and,neuropathic pain:,"observational),",
+36,,"receptors, including",Modest efficacy,n=9958;16 double-,
+37,,-3 glycine receptors,"(69,78)","blind RCTs,n=1750",
+38,,"5HT1a receptors,and",,,
+39,,"TRPV1 (68,74,75)",,,
+40,Nausea,Modulation of CB2 in,Patients with CINV:,"Meta-analysis: 23 RCTs,",Nil
+41,,the enteric nervous,"Nabilone, dronabinol",n=1359;one further,
+42,,"system, resulting in a",and THC:CBD,"RCT,n=81",
+43,,reduction of,modestly effective,,
+44,,enterotoxin-mediated,"(83,84)",,
+45,,gut motility (85),,,
+46,,Potential action via,,,
+47,,central CB1,,,

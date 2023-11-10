@@ -1,0 +1,55 @@
+,0,1,2,3,4
+0,,,,Food composition table,
+1,,Units,UK,USA,Australia
+2,"(a) Whole egg, chicken (raw)",,Ref.12-937,Ref.01123,Ref.03A10075
+3,Water,g,76.8,76.2,76.1
+4,Energy,kJ,547,599,533
+5,Protein,g,12.6,12.6,12.6
+6,"Lipids, total",g,9.0,9.5,8.5
+7,Carbohydrates,g,Trace,0.7,0-3
+8,"Vitamin A, RAE",ug,126,160,130
+9,Vitamin B12,ug,2.7,0.9,1.4
+10,FolateDFE,ug,47,47,110
+11,Vitamin E,ug,1.3,1.1,2.2
+12,Fe,mg,1.7,1.8,1.9
+13,Zn,mg,1.1,1.3,1.1
+14,Se,ug,23,31,26
+15,(b) Chicken liver (raw),,Ref.18-411,Ref.05027,Ref.08D10194
+16,Water,g,76,76,75
+17,Energy,kJ,386,496,466
+18,Protein,g,17.7,16.9,16.9
+19,"Lipids, total",g,2.3,4.8,4.8
+20,Carbohydrates,g,Trace,1,0
+21,"Vitamin A,RAE",ug,9700,3296,12007
+22,Vitamin B12,ug,35.0,16.6,16.6
+23,FolateDFE,ug,995,588,1450
+24,Vitamin E,ug,0.6,0.7,0.4
+25,Fe,mg,9.2,9.0,9.8
+26,Zn,mg,3.7,2.7,3.6
+27,Se,ug,,54.6,54.6
+28,"c Chicken, light meat(raw",,Ref. 18-290,Ref.05039,Ref.08C10431
+29,Water,g,74,75,75
+30,Energy,kJ,449,477,438
+31,Protein,g,24,23,22
+32,"Lipids, total",g,1.1,1.7,1.6
+33,Carbohydrates,g,0,0,0
+34,"Vitamin A, RAE",ug,Trace,27,8
+35,Vitamin B12,ug,Trace,0.4,0.7
+36,FolateDFE,ug,14,4,0
+37,Vitamin E,ug,0.1,0-2,2.2
+38,Fe,mg,0.5,0.7,0.4
+39,Zn,mg,0.7,1.0,0.7
+40,Se,ug,12,18,25
+41,"d Chicken, dark meat(raw",,Ref.18-289,Ref.05043,Ref.08C10435
+42,Water,g,76,76,75
+43,Energy,kJ,459,523,496
+44,Protein,g,21,20,18
+45,"Lipids, total",g,3,4,5
+46,Carbohydrates,g,0,0,0
+47,"Vitamin A,RAE",ug,20,22,19
+48,Vitamin B12,ug,1.0,0.4,0.7
+49,FolateDFE,ug,9,10,14
+50,Vitamin E,ug,0.2,0.2,0.6
+51,Fe,mg,0.8,1.0,0.7
+52,Zn,mg,1.7,2.0,1.5
+53,Se,ua,14,14,20

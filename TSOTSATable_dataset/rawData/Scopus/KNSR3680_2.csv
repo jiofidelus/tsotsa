@@ -1,0 +1,6 @@
+,0,1,2,3,4
+0,,,Use of Nutrition Labels,,
+1,,Unaware Group *,Aware only Group **,Aware and Use Group ***,P for Trend ****
+2,Cases/Non-cases,755/8080,"551/16,165",131/6398,
+3,Age-adjusted,1.00 (ref),0.81 (0.700.93),0.78 (0.62-0.99),0.009
+4,Multivariable-adjusted,1.00 (ref),0.80 (0.700.93),0.75 (0.59-0.95),0.03

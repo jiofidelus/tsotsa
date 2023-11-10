@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,To,Project,Year,Picking method,Num-,Number,3D,Environment,Environment,Harvest rate,Speed,,Damage rate,Issues,Note
+1,,,,,ber,of cam-,imaging,Modi-,,,Single,Overall,,to be,
+2,,,,,of,eras,tech-,Modi-,Description,,Single,Overall,,improved,
+3,,,,,arms,,niques,fied,,,arm,,,,
+4,,Shiigi-,2008,Suck+stem cut,1,3*,Stereo,V,Table top,38%*,10 s/fruit,,N/A,Vision,*2 stereo cam-
+5,,Strawberry,,,,,,,trough,,,,,detec-,era+1 center
+6,,"(Shiigi et al.,",,,,,,,,,,,,tion,camera
+7,,2008),,,,,,,,,,,,under,*Fountas[15]
+8,,,,,,,,,,,,,,occlu-,adopted a
+9,,,,,,,,,,,,,,sion,53.6% harvest
+10,,,,,,,,,,,,,,Peduncle,rate
+11,,,,,,,,,,,,,,detec-,
+12,,,,,,,,,,,,,,tion,
+13,,Hayashi-,2010,Suck+stem cut,1,3*,Stereo,V,Customized,41.3% with,11.5s/fruit,,N/A,Peduncle,*3CCD cameras
+14,,Strawberry,,,,,,,green-,suction,,,,detec-,
+15,,(Hayash,,,,,,,house,34.9% without,,,,tion,
+16,,"et al.,",,,,,,,,,,,,Effi-,
+17,,2010),,,,,,,,,,,,ciency,
+18,,,,,,,,,,,,,,Ripeness,
+19,,,,,,,,,,,,,,detec-,
+20,,,,,,,,,,,,,,tion,
+21,,Feng-Straw-,2012,Suck+stem cut,1,1,Stereo,,Table top,86%,31.3 s/fruit,,N/A,Effi-,* To improve
+22,,berry,,,,,,,trough,,,,,ciency,success rate of
+23,,"(Feng et al.,",,,,,,,,,,,,End-,smaller fruits
+24,,2012),,,,,,,,,,,,effector,harvesting
+25,,,,,,,,,,,,,,adapt-,
+26,,,,,,,,,,,,,,ability*,
+27,,Yamamoto-,2014,Suck+hold+tilt+pull,,3,Stereo,V,Table top,67.1%*,31.5 s/fruit,,12.5%,Damage,* 2 stereo
+28,,Strawberry,,,,,,,trough,,,,,rate,camera+1
+29,,(Yamamotto,,,,,,,,,,,,Effi-,colorimeter
+30,,"et al.,",,,,,,,,,,,,ciency,* Ranging from
+31,,2014),,,,,,,,,,,,,51.7 to 75.7%

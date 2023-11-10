@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,,,Treatment*,,,
+1,,Basal,,Supplemented,SEM,P-value
+2,Lachnospiraceae,14.057,,18.725,1.286,0.019
+3,Clostridiaceae,25.588,,18.536,1.480,0.004
+4,Lactobacillaceae,5.037,,21.343,1.108,<0.001
+5,Christensenellaceae,12.312,,8.930,1.027,0.035
+6,Planococcaceae,1.511,,0.346,0.283,0.028
+7,Moraxellaceae,9.072,,0.552,0.578,<0.001

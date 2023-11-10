@@ -1,0 +1,49 @@
+,0,1,2,3,4
+0,Food name and description,Density in g/ml,Specific,BibliolD,Update
+1,,(including mass,gravity,,Version
+2,,and bulk density),,,2.0
+3,"Yam, raw",0.66,,KEN,x
+4,Nuts and seeds,,,,
+5,Almonds,0.46,,ASI,x
+6,Cashews,0.5,,ASI,x
+7,Coconut Chips,0.61,,ASI,x
+8,Flaxseed,0.7,,ASI,x
+9,Nuts,0.63,,FNDDS 4.1,
+10,Peanuts,0.53,,ASI,x
+11,"Peanuts, shelled",0.69,,ASI,X
+12,"Peanuts, unshelled",0.27-0.38,,ASI,x
+13,"Pistachio, raw, with shell",0.6,,RC,
+14,"Pistachio, raw, without shell",0.646,,RC,
+15,Rapeseed,0.77,,ASI,x
+16,"Sunflower, seed",0.62,,ASI,x
+17,Fruits,,,,
+18,"Apple slices, dried",0.24,,ASI,
+19,Loquat,0.6,,KEN,x
+20,"Paw Paw, unripe",0.56,,KEN,x
+21,Vegetables,,,,
+22,"Alfalfa, leaf, meal",0.23,,ASI,
+23,"Alfalfa,meal, dehydrated 13%",0.26-0.29,,ASI,x
+24,"Alfalfa, meal, dehydrated 17%",0.29-0.35,,ASI,x
+25,"Alfalfa, meal, fine ground",0.24-0.35,,ASI,X
+26,"Alfalfa, meal, suncured 13%",0.22,,ASI,X
+27,"Alfalfa, seed",0.72-0.77,,ASI,x
+28,"Alfalfa, stem meal",0.19,,ASI,x
+29,"Carrot, raw, chopped",0.54,,KEN,x
+30,"Carrot, raw, grated",0.71,,KEN,X
+31,"Cauliflower, boiled",0.45,,RC,
+32,"Chili, green",0.5,,KEN,x
+33,"Chili, red",0.5,,KEN,x
+34,French green beans,0.53,,KEN,x
+35,Fresh green peas (minji),0.73,,KEN,x
+36,"Leaves, managu, raw (black night shade)",0.2,,KEN,x
+37,"Leaves, onion, spring onion, raw",0.44,,KEN,x
+38,"Corn/maize, green, sweet corn, boiled",0.73,,KEN,X
+39,"Corn/maize, green, sweet corn, raw",0.61,,KEN,x
+40,"Olives, green, with stone",0.65,,RC,
+41,"Onions, chopped",0.22,,ASI,x
+42,"Onions, minced",0.13,,ASI,x
+43,"Onions, powdered",0.4,,ASI,x
+44,"Onions, fried, cubed",0.75,,RC,
+45,"Onions, raw, cubed",0.55,,RC,
+46,"Salad, green, leaves, raw",0.06,,RC,
+47,"Spinach, frozen, cooked",1.046,,RC,

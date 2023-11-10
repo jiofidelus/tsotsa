@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Food,Name,Name,Size,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,Code,Kiswahili,English,,bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,954,ndizi zilizopikwa na korosho,Banana with cashewnuts,A,,,,,,,,,515
+3,955,ndizi zilizopikwa na tui la nazi,Banana with coconut,Std,420,,,420,,,210,,
+4,955,ndizi zilizopikwa na tui la nazi,Banana with coconut,A,,,.,,,,,,515
+5,956,mhogo na tui na nazi,Cassava with coconut,Std,400,.,,400,,.,200,.,
+6,956,mhogo na tui na nazi,Cassava with coconut,A,,,,,,,,,400
+7,957,mhogo wa kukanga,Cassava fried,Std,,,,.,,,,50,
+8,957,mhogo wa kukanga,Cassava fried,A,,,,,,,,,350
+9,,mchuzi wa viazi mviringo na,,,,,,,,,,,
+10,958,mafuta,Potato relish with oil,Std,450,,,450,,,225,,
+11,,mchuzi wa viazi mviringo na,,,,,,,,,,,
+12,958,mafuta,Potato relish with oil,A,,,,,,,,,450
+13,,mchuzi wa viazi mviringo na,,,,,,,,,,,
+14,959,nyama,Potato relish with beef,Std,450,,,450,,,225,,
+15,,mchuzi wa viazi mviringo na,,,,,,,,,,,
+16,959,nyama,Potato relish with beef,A,,,,,,,,,450
+17,960,viazi chipsi,Potato chips,Std,,,.,300,,,150,.,
+18,960,viazi chipsi,Potato chips,A,,,,,,,,,300
+19,961,viazi viringo vya kuchemsa,Potato boiled,Std,,,,300,,,150,,
+20,961,viazi viringo vya kuchemsa,Potato boiled,A,,,,,,,,,225
+21,963,futari,Selected fruits and tubers,Std,,,,400,,,200,,
+22,963,futari,Selected fruits and tubers,A,,,,,,,,,400
+23,964,ndizi mbichi ya kukaanga,Banana fried,Std,,,,,,,,130,
+24,964,ndizi mbichi ya kukaanga,Banana fried,A,,,,,,,,,310
+25,965,mhogo mchanganyiko,Cassava mixed,Std,,.,.,100,.,.,50,.,.
+26,965,mhogo mchanganyiko,Cassava mixed,A,,,,,,,,,100
+27,965,mhogo,Cassava plain,Std,,,,350,,,175,,
+28,965,mhogo mtupu,Cassava plain,A,,,,,,,,,200
+29,966,viazi vitamu vya kukaanga,Sweet potato fried,Std,,,,400,,,200,,

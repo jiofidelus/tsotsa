@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Gender,Dose(g),Energy,Mood,Satiety,Sugar Cravings Sleep,Sugar Cravings Sleep,Overall,Adverse
+1,,(Age),,Level,Improvement,Level,,,Health,Events
+2,1,F55Y),6.75,+++,+++,+++,Reduced sugar,+++,Improved,None
+3,,,,,,,cravings,,,
+4,2,F (62 Y),6.75,++,+++,+++,Reduced sugar,+++,Improved,None
+5,,,,,,,cravings,,,
+6,3,F(47Y),6.75,++,NR,+++,No Effect,+++,Improved,None
+7,4,M (54 Y),6.75,+++,NR,+++,NR,NR,Improved,None
+8,5,M54Y,6.75,+++,+++,+++,Reduced sugar,+++,Improved,None
+9,,,,,,,cravings,,,
+10,6,F (70 Y),6.75,++,+++,+++,Reduced sugar,+++,Improved,None
+11,,,,,,,cravings,,,
+12,7,F(65Y),6.75,++,NR,+++,Reduced sugar,NR,Improved,None
+13,,,,,,,cravings,,,
+14,8,F(54 Y),6.75,+++,+++,+++,Reduced sugar,+++,Improved,None
+15,,,,,,,cravings,,,
+16,9,M (55 Y)*,13.50,+++,NR,+++,Reduced sugar,NR,Improved,None
+17,,,,,,,cravings,,,

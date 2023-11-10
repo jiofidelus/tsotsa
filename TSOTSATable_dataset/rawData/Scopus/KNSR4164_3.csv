@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7
+0,Cultivar,Yr,Pruning,Harvest date,Cluster wt (g),Berry length (mm),Yield (kg/vine),Soluble solids (%)
+1,Southern Sensation Seedless,1991,Cordon,22 July,158.8,17.4,3.9,14.0
+2,,1992,Cordon,22 July,725.7,15.9,3.9,14.0
+3,,1992,Cordon,22 July,725.7,15.9,3.6,13.3
+4,Mars,1991,Cordon,22 July,158.8,19.1,2.3,19.5
+5,,,Cane,27 July,204.1,17.5,2.3,19.5
+6,,1992,Cordon,27 July,254.0,15.9,6.6,17.3
+7,,,Cordon,27 July,254.0,15.9,6.6,17.3
+8,Orlando Seedless,1991,Cordon,22 July,63.5,9.5,0.7,20.0
+9,,,Cane,23 July,140.6,9.5,1.4,20.0
+10,,1992,Cordon,23 July,140.6,7.9,4.6,23.0
+11,,1991,Cane,17 July,140.6,15.9,4.6,22.3
+12,Reliance,1991,Cordon,17 July,263.1,15.9,5.2,22.3
+13,,,Cane,17 July,217.7,15.9,2.3,22.3
+14,,1992,Cordon,15 July,217.7,15.9,4.6,20.3
+15,Saturn,,Cane,2Aug.,249.5,15.9,5.2,20.3
+16,Saturn,1991,Cordon,20 Aug.,249.5,15.9,6.0,20.7
+17,,1992,Cordon,20 Aug.,249.5,15.9,5.5,19.5
+18,Venus,1991,Cordon,8 July,235.9,15.9,3.8,21.5
+19,Venus,1991,Cordon,8 July,235.9,19.1,0.6,21.5
+20,,,Cane,8 July,213.2,19.1,0.6,21.5
+21,,1992,Cordon,15 July,376.5,19.1,10.6,17.0
+22,,,Cane,15 July,340.2,19.1,8.5,17.0
+23,Victoria Red,1991,Cordon,8 July,564.5,25.4,6.2,18.5
+24,,1992,Cane,27 July,317.5,25.4,6.6,18.0
+25,,1992,Cordon,27 July,589.7,28.6,6.6,17.7
+26,,,Cane,27 July,680.4,28.6,5.8,17.7

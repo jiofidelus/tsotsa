@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,food,Name,Name,Size,u1,u1,u2,u3,u4,,u5,u6,u7,,u8,10
+1,code,Kiswahili,English,,bowl,bowl,glass,cup,plate,plate,tbsp,tsp,saucer,saucer,unit,Average
+2,416,bamia,Okra,S,,,,,.,,,,,,15,
+3,416,bamia,Okra,M,,225,,,,,,,,175,,
+4,416,bamia,Okra,A,,,,,,,,,,,,235
+5,416,mchuzi wa bamia na mafuta,Okra relish with oil,Std,,225,,,,,,,,175,,
+6,416,mchuzi wa bamia na mafuta,Okra relish with oil,A,,,,,,,,,,,,235
+7,417,kitunguu,Onion,S,,,,,,,,,,,25,
+8,417,kitunguu,Onion,M,.,,:,.,,,,.,,,40,
+9,417,kitunguu,Onion,L,,,.,.,.,,,,,,70,
+10,417,kitunguu,Onion,VL,,,,:,.,,,,,,100,
+11,417,kitunguu,Onion,A,,,,,,,,,,,,30
+12,418,njegere,Green peas,Std,,400,,.,,,,.,,200,,
+13,418,njegere,Green peas,A,,,,,,,,,,,,150
+14,419,boga,Pumpkin,Std,,,:,.,,400,,,,200,,
+15,419,boga,Pumpkin,A,,,,.,,,,,,,80,150
+16,421,nyanya chungu,African eggplant,S,,,:,.,,,,,,100,,
+17,421,nyanya chungu,African eggplant,A,,,,,,,,,,,,75
+18,423,nyanya,Tomato,VS,,,,-,,,-,,:,,35,
+19,423,nyanya,Tomato,S,,,,,,,,.,.,,60,
+20,423,nyanya,Tomato,M,,,.,.,.,,.,,,,100,
+21,423,nyanya,Tomato,L,,,,,,,,,,,200,
+22,423,nyanya,Tomato,A,,,,,,,,,,,,65
+23,429,pilipili hoho,Green pepper,S,,,,,,,,,:,,60,
+24,429,pilipili hoho,Green pepper,M,,,:,.,.,,,.,,,100,
+25,429,pilipili hoho,Green pepper,L,,,,.,.,,.,.,.,,150,
+26,430,pilipili hoho,Green pepper,A,,,,,,,,,,,,50

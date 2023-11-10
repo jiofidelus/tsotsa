@@ -1,0 +1,65 @@
+,0,1,2,3,4,5,6,7,8,9
+0,NDB No.,Description,Proanthocyanidin,Mean1,N,SD,Min,Max,CC:,Sources of Data
+1,,,Polymers,0.00,1,,,,B,24
+2,11530,"Tomatoes,red,ripe,cooked",Dimers,0.00,1,,,,B,24
+3,,,Trimers,0.00,1,,,,3,24
+4,,,4-6mers,0.00,11,,,,,24
+5,,, Polymers,0.00,1,,,,,24
+6,,, Polymers,0.00,1,,,,,24
+7,11529,"Tomatoes, red, ripe, raw, year",Dimers,0.00,4,0.00,0.00,0.00,,"14, 26"
+8,,round average (Solanum,Trimers,0.00,4,0.00,0.00,0.00,c,"14, 26"
+9,,lycopersicum),4-6mers,0.00,1,,,,c,26
+10,,,7-10mers,0.00,1,,,,,26
+11,,, Polymers,0.00,1,,,,,26
+12,11564,"Turnips, raw (Brassica rapa)",Dimers,0.00,1,,,,,26
+13,,,Trimers,0.00,1,,,,,26
+14,,,4-6mers,0.00,1,,,,,26
+15,,,7-10mers,0.00,1,,,,,26
+16,,,Polymers,0.00,1,,,,,26
+17,12061,"Nuts, almonds (Prunus dulcis)",Dimers,9.26,17,3.16,4.00,18.70,A,"23, 66"
+18,,,Trimers,7.63,17,2.71,2.70,14.00,A,"23, 66"
+19,,,4-6mers,27.42,17,12.67,7.00,51.36,A,"23, 66"
+20,,,7-10mers,28.16,17,10.93,9.60,51.98,A,"23, 66"
+21,,,Polymers,80.26,8,28.09,43.86,120.94,A,23
+22,12078,"Nuts, brazilnuts, dried, unblanched",Dimers,0.00,1,,,,,24
+23,,(Bertholletia excelsa),Trimers,0.00,1,,,,,24
+24,,,4-6mers,0.00,1,,,,,24
+25,,,7-10mers,0.00,1,,,,B,24
+26,,,Polymers,0.00,1,,,,B,24
+27,12087,"Nuts, cashew nuts, raw",Dimers,2.02,,0.42,1.49,2.55,,23
+28,,(Anacardium occidentale),Trimers,0.00,,0.00,0.00,0.00,,23
+29,,,4-6mers,0.00,,0.00,0.00,0.00,A,23
+30,,,7-10mers,0.00,,0.00,0.00,0.00,A,23
+31,,,Polymers,0.00,,0.00,0.00,0.00,,23
+32,12099,"Nuts, chestnuts, european, dried,",Dimers,0.01,3,,,,,14
+33,,unpeeled(Castanea sativa),Trimers,0.02,3,,,,,14
+34,12120,"Nuts, hazelnuts or filberts (Corylus",Dimers,12.51,8,3.84,4.43,17.73,,23
+35,,spp.),Trimers,13.56,8,3.93,4.93,17.09,,23
+36,,,4-6mers,67.72,8,20.34,22.78,85.57,A,23
+37,,,7-10mers,74.60,8,21.90,26.06,102.69,A,23
+38,,,Polymers,322.44,8,102.48,98.10,442.95,A,23
+39,12132,without salt added,Trimers,0.00,1,,,,,24
+40,,without salt added,Trimers,0.00,1,,,,,24
+41,,,4-6mers,0.00,1,,,,,24
+42,,,7-10mers,0.00,1,,,,,24
+43,,,Polymers,0.00,1,,,,B,24
+44,12142,"Nuts, pecans (Carya illinoinensis)",Dimers,42.13,8,5.42,33.74,49.46,A,23
+45,,,Trimers,26.03,8,1.98,22.82,28.77,A,23
+46,,,4-6mers,101.43,8,10.45,87.44,119.79,,23
+47,,,7-10mers,84.23,8,12.90,65.00,99.54,<<,23
+48,,,Polymers,223.01,8,59.05,140.58,297.31,<<,23
+49,12147,"Nuts, pine nuts, dried (Pinus spp.)",Dimers,0.00,1,,,,,24
+50,,,Trimers,0.00,1,,,,,24
+51,,,4-6mers,0.00,1,,,,B,24
+52,,,7-10mers,0.00,,,,,3,24
+53,,, Polymers,0.00,1,,,,,24
+54,12151,"Nuts, pistachio nuts, raw (Pistacia",Dimers,13.26,,1.80,10.11,15.10,A,23
+55,,vera),Trimers,10.51,,1.22,8.49,12.00,A,23
+56,,,4-6mers,42.24,,5.23,32.33,47.26,,23
+57,,,7-10mers,37.93,7,4.93,28.36,43.28,A,23
+58,,,Polymers,122.46,,37.10,53.25,158.74,A,23
+59,12155,"Nuts, walnuts, english (Juglans",Dimers,5.65,8,0.89,4.02,6.63,A,23
+60,,regia),Trimers,7.19,8,1.16,5.04,8.49,,23
+61,,,4-6mers,5.41,8,0.81,4.20,6.54,<<,23
+62,,,7-10mers,5.41,,0.81,4.20,6.54,<<,23
+63,,,Polymers,20.02,8,9.27,5.34,39.43,A,23

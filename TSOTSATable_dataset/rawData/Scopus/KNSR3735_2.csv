@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8
+0,,Carcass weight group,Carcass weight group,Carcass weight group,,BMS group,,,
+1,Variable,High,Low,SEM,P-value,High,Low,SEM,P-value
+2,Live weight (kg),782.50,698.00,18.30,<0.01,770.50,747.50,11.80,0.39
+3,Growth rate (kg/d),0.84,0.75,0.02,0.02,0.83,0.81,0.01,0.62
+4,Carcass weight (kg),491.50,417.25,14.89,<0.01,482.00,452.75,8.79,0.10
+5,Eye muscle area (cm2),59.25,50.00,2.59,0.07,57.25,58.50,2.59,0.83
+6,Rib thickness (cm),8.38,6.98,0.33,0.02,8.23,7.70,0.23,0.30
+7,Subcutaneous fat (cm),3.50,2.28,0.26,<0.01,3.38,2.33,0.27,0.05
+8,BMS,9.50,7.50,0.63,0.12,10.00,6.50,0.70,<0.01

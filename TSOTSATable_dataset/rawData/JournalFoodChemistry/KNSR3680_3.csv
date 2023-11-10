@@ -1,0 +1,19 @@
+,0,1,2,3,4
+0,Membrane,Pore size,Type of targeted components,Pressure,Applications for sweetener extraction
+1,process,range,,requirement(TMP),
+2,Microfiltration,"100-10,000","Macromolecular components (Fungi, yeast,",0.1-2 bar,"Turbidity reduction of remelt syrup (Li, Ling,Huang,Li,Lu"
+3,(MF),nm,bacteria),,"Hang,Zhang,Xie,Lu,& Li,2016)."
+4,,,,,"Pre-clarification of sugarcane juice (Panigrahi, Karmakar,"
+5,,,,,"Mondal,Mishra,& De,2018)."
+6,Ultrafiltration,2-100 nm,"High MW compounds (Proteins, virus,",0.1-7 bar,Partial removal of sugars in honey and enhancement of spray
+7,(UF),,"polysaccharides,colloids)",,"drying process(Samborska et al.,2018"
+8,,,,,"Decoloration of sugarcane molasses (Guo et al.,2018)"
+9,,,,,"Decolorization and turbidity removal of date syrup (Fathi,"
+10,,,,,"Labbafi,Rezaei,Emam-Djomeh,& Hamedi,2013)"
+11,,,,,Separation of Rebaudioside A from aqueous extracts of Stevia
+12,,,,,"rebaudiana (Diaz-Montes et al.,2020)."
+13,,,,,Isolation of glycosides from Stevia (Martinez-Alvarado
+14,,,,,"Torrestiana-Sanchez,& Aguilar-Uscanga,2017"
+15,Nanofiltration,0.5-2 nm,"Low MW compounds (Polyphenols, ions",3-25 bar,"Concentration of Maple sap(Ali et al.,2021)"
+16,(NF),,pigments and bioactive compounds),,"Preclarification of sugarcane juice (Panigrahi et al.,2018"
+17,,,,,"Sucrose purification from Molasses (Sjolin, Thuvander,"

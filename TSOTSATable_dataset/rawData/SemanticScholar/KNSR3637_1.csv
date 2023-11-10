@@ -1,0 +1,37 @@
+,0,1,2,3,4
+0,,Food groups and foods,No.in TFT,Consumption,Consumption
+1,,,,"(mean, g/day)","(mean, g/day)"
+2,Rice and cereals,Rice and cereals,,,
+3,"Glutinous rice,cooked","Glutinous rice,cooked",33,,231.9
+4,"Mung bean noodles, boiled","Mung bean noodles, boiled",89,,41
+5,"Rice, milled, cooked","Rice, milled, cooked",11,,344
+6,"Rice noodles,round,cooked","Rice noodles,round,cooked",4,,119
+7,Wheat flour,Wheat flour,37,,1.5
+8,,,,+,
+9,Total rice and cereals,Total rice and cereals,,,283.8
+10,Fruit,,,,
+11,"Mango, ripe","Mango, ripe",76,,39.9
+12,"Mango, unripe","Mango, unripe",74,,13.4
+13,Orange,,141,,0.4
+14,Rambutan,Rambutan,14,,1.6
+15,,,,+,
+16,Total fruit,Total fruit,,,55.3
+17,Meat,,,,
+18,"Beef, medium fat","Beef, medium fat",72,,5.9
+19,"Beef ball,cooked","Beef ball,cooked",85,,3.8
+20,Frog meat,Frog meat,28,,8.4
+21,"Pork,medium fat","Pork,medium fat",101,,9.8
+22,"Pork, roasted","Pork, roasted",106,,2.7
+23,"Beef,dried/baked","Beef,dried/baked",77,,2.6
+24,Pork sausage,Pork sausage,111,,2.5
+25,Total meat,Total meat,,,35-7
+26,Eggs,,,,
+27,"Hen egg,boiled","Hen egg,boiled",4,,21.6
+28,Vegetables,Vegetables,,,
+29,"Bamboo shoots,boiled","Bamboo shoots,boiled",260,,5-2
+30,"Chinese cabbage, prepared","Chinese cabbage, prepared",166,,1-6
+31,"Chili pepper, red","Chili pepper, red",210,,0-3
+32,"Cucumber, large","Cucumber, large",60,,2.4
+33,"Onion, young green, tops only","Onion, young green, tops only",55,,0-7
+34,"Papaya, unripe","Papaya, unripe",247,,7.7
+35,"Tomato, ripe","Tomato, ripe",237,,1.7

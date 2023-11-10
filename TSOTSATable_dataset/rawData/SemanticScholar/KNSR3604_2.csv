@@ -1,0 +1,36 @@
+,0,1,2,3,4,5,6
+0,,,,n,meansd,min,max
+1,Energy (kcal)*,Energy (kcal)*,adult,3,178  13,166,192
+2,,,larva,14,214  39,160,283
+3,,,pupa,1,207,,
+4,Energy(kJ)*,Energy(kJ)*,adult,3,742  54,695,800
+5,,,larva,14,892160,665,1172
+6,,,pupa,1,863,,
+7,Water (g),Water (g),adult,3,62.1  1.4,61.2,63.7
+8,,,larva,26,624.6,55.6,71.0
+9,,,pupa,1,61,,
+10,Total nitrogen (g),Total nitrogen (g),larva,3,2.92  0.3,2.43,3.21
+11,Protein (g),Protein (g),adult,2,24.13,23.7,24.59
+12,,,larva,6,17.85  3.33,13.68,22.32
+13,,,pupa,1,12.01,,
+14,Total lipid (continuous extraction) (g),,adult,1,7.1,,
+15,,,larva,7,13.07  3.88,8.9,19.94
+16,Total lipid (method unknown) (g),,adult,2,6.14,5.4,6.87
+17,,,larva,6,12.91  2.6,10.11,16.8
+18,,,pupa,1,12.91,,
+19,Saturated fatty acids (g),Saturated fatty acids (g),larva,3,2.2  0.53,1.83,2.8
+20,Monounsaturated fatty acids (g),,larva,3,2.51  0.72,1.91,3.3
+21,Polyunsaturated fatty acids (g),,larva,3,5.85  1.22,4.46,6.75
+22,Available carbohydrate calculated by,,larva,2,1.4  1.84,0.1,2.7
+23,difference(g),difference(g),,,,,
+24,Total carbohydrate calculated by difference,,larva,1,3.61,,
+25,,(g),,,,,
+26,Acid detergent fibre (FIBAD) (g),,adult,3,6.8  0.6,6.2,7.4
+27,,,larva,3,2.38  0.21,2.13,2.5
+28,,,pupa,1,2.0,,
+29,Neutral detergent fibre (FIBND) (g),,adult,2,12  0.7,11.5,12.4
+30,,,larva,8,5.2  1.3,2.9,7.3
+31,Crude fibre (FIBC) (g),Crude fibre (FIBC) (g),larva,1,2.1,,
+32,Ash (g),Ash (g),adult,3,1.38  0.32,1.2,1.75
+33,,,larva,14,1.51  0.79,0.9,3.81
+34,,,pupa,1,1.33,,

@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,,,Encapsulated premix surface properties,Encapsulated premix surface properties,,
+1,Sample,Surface,Shape,,Elemental abundances(%),Colour test
+2,Premix-1,Smooth,Cylindrical,,"C,Ti,Mg",No.
+3,Premix-2,Rough,Irregular,,"C, Ti, Fe",No
+4,Premix-3,Rough,Round,,"Ti, C,Fe Mg",Yes
+5,Premix-4,Smooth,Cylindrical,,"C,Ti,Fe,Mg",No
+6,,,,DFS colour test,,
+7,Sample,No pretreatment,Acid hydrolysis (effect of acid),Acid hydrolysis (effect of acid),Fat removal (effect of solvent),Physical abrasion (grinding)
+8,DFS-1,No,No,,No,Yes
+9,DFS-2,No,Yes,,No,No.
+10,DFS-3,Yes,Yes,,Yes,Yes
+11,DFS-4,No,Slight,,No.,Yes

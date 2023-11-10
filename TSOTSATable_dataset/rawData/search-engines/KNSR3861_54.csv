@@ -1,0 +1,40 @@
+,0,1,2,3,4
+0,Food ID,,English name and description,,Scientific name
+1,N,Spices and Condiments (continued),Spices and Condiments (continued),,
+2,AAN84,Kra-chai (Kaempfer/ Chinese deys),Kra-chai (Kaempfer/ Chinese deys),pandurata,Kaempferia pandurata./Boesenbergia
+3,AAN45,"Leech lime, leaf",,Citrus hystrix,
+4,AAN42,Lemon grass,,Cymbopogon citratus,Cymbopogon citratus
+5,AAN46,"Lime, pickled",,"Citrus aurantifolia, Citrus medica","Citrus aurantifolia, Citrus medica"
+6,AAN47,Mace,,Myristica fragrans,Myristica fragrans
+7,AAN48,"Mint, leaf",,"Mentha arvensis, M. piperita","Mentha arvensis, M. piperita"
+8,AAN52,"Onion, large",,Allium cepa,
+9,AAN6,"Pepper,black,powder",,Piper nigrum,
+10,AAN7,"Pepper, black, whole, fresh","Pepper, black, whole, fresh",Piper nigrum,
+11,AAN15,"Pepper, green, hot, fresh",,Capsicum frutescen,Capsicum frutescen
+12,AAN40,"Pepper, hot, dried",,Capsicum frutescen,Capsicum frutescen
+13,AAN17,"Pepper, red, hot, fresh",,Capsicum frutescen,Capsicum frutescen
+14,AAN54,"Pepper, white, powder",,"Piper nigrum, L.","Piper nigrum, L."
+15,AAN16,"Pepper, yellow, hot, fresh",,Capsicum frutescen,Capsicum frutescen
+16,AAN51,"Shallot, bulb",,"Allium fistulosum, A. ascalonicum","Allium fistulosum, A. ascalonicum"
+17,AAN71,"Sweet basil, leaf",,Ocimum basilicum,Ocimum basilicum
+18,AAN81,"Turmeric, rhizome, fresh",,"Curcuma zedoeria, Curcuma longa","Curcuma zedoeria, Curcuma longa"
+19,AAN82,"Turmeric, white, fresh",,Curcuma longa,Curcuma longa
+20,Q,"Beverages, nonalcoholic","Beverages, nonalcoholic",,
+21,AAQ5,"Juice,coconut, immature kernel, per 100 g","Juice,coconut, immature kernel, per 100 g",Cocos nucifera,Cocos nucifera
+22,U,Miscellaneous,,,
+23,AAU21,"Bamboo caterpillar, bamboo worm","Bamboo caterpillar, bamboo worm",Omphisa fuscidentalis,Omphisa fuscidentalis
+24,AAU22,"Bamboo caterpillar, deep fried","Bamboo caterpillar, deep fried",Omphisa fuscidentalis,Omphisa fuscidentalis
+25,AAU23,Buffalo dung beetle,,"Onitis sp, Copris sp.","Onitis sp, Copris sp."
+26,AAU24,June beetle,,Anomala antigua,Anomala antigua
+27,AAU25,True water beetle,,Cybister limbatus,Cybister limbatus
+28,AAU33,Cricket,,Gryllus bimarculatusr,Gryllus bimarculatusr
+29,AAU35,Giant water bug,,Lethocerus indicus,Lethocerus indicus
+30,AAU36,"Hornet, young",,Vespa sp.,
+31,AAU37,Locust,,Locusta migratoria manillensis,Locusta migratoria manillensis
+32,AAU39,Mole cricket,,Gryllotalpa africana,Gryllotalpa africana
+33,AAU43,Red ant,,Oecophylla smaragdina,Oecophylla smaragdina
+34,AAU44,"Red ant, egg",,Oecophylla smaragdina,Oecophylla smaragdina
+35,AAU45,"Red ant, young female",,Oecophylla smaragdina,Oecophylla smaragdina
+36,AAU48,"Silk worm, pupae",,Bombyx mori,
+37,AAU50,"Spirulina, dried",,Spirulina sp,
+38,AAU51,"Spirulina, fresh",,Spirulina sp,

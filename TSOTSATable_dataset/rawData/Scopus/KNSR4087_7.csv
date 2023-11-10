@@ -1,0 +1,22 @@
+,0,1,2,3,4
+0,,Overall,Class 1:find my cancer 43%,Class 2:sensitivity,Class 3: wary of screening
+1,,,,specificity trade-off,particularly false results
+2,,,,(41%),(16%)
+3,Direct screening preferences,,,,
+4,"Screening A (50 types of cancer tested,",1223 (72%580 (79%),1223 (72%580 (79%),578 (83%),65 (24%)
+5,"55.2% sensitivity, 99.3% specificity,",,,,
+6,11% cancer type unknown),,,,
+7,No screening,477 (28%),151 (21%),115 (17%),211 (76%)
+8,,,Class 1: find my cancer 43%,Class 2:sensitivity,Class 3:wary of screening
+9,,,% [95% CI],specificity trade-off,particularly false results
+10,,,,(41%),(16%)
+11,,,,% [95% CI],% [95% CI]
+12,Estimated uptake,,,,
+13,Hypothetical MCED test (50 types,,62.0% [52.271.8],71.9% [67.1-76.7],52.4% [40.564.4]
+14,"of cancer tested, 55.2% sensitivity",,,,
+15,"99.3% specificity,10.5% cancer type",,,,
+16,unknown),,,,
+17,Hypothetical single-cancer blood test,,38.0% [28.247.8],28.1% [23.3-32.9],47.6% [35.6-59.5]
+18,"screening(1 type of cancer tested,88%",,,,
+19,"sensitivity,87% specificity,0% cancer",,,,
+20,type unknown),,,,

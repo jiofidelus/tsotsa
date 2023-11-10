@@ -1,0 +1,36 @@
+,0,1,2,3,4,5,6,7
+0,Transduction,Target,Food matrix,Receptor,Nanomaterial,LOD,LOQ,Reference
+1,Amperometric,,,,,,,
+2,biosensor,,,,,,,
+3,Amperometric,Ovomucoid,"Eggs, wheat, bread",Polyclonal antibody,HOOC-MBs,0.1 ng mL-1,0.3 ng,"(Benede et al.,"
+4,immunosensor,,,,,,mL-1,2018)
+5,Amperometric,Tropomyosin,"Pork, beef, chicken,","Polyclonal antibody,",HOOC-MBs,47 pg mL-1,Not,(Angulo-Ibanez
+6,immunosensor,,"shrimp, squid",Monoclonal antibody,,,described,"et al., 2019)"
+7,Amperometric DNA,Cor a 9,Hazelnut,DNA probe,Strep-MBs,0.72 pM,2.4 pM,"(Montiel et al.,"
+8,sensor,,,,,,,2017)
+9,Voltametric biosensor,,,,,,,
+10,SWV,Ara h 1,"Cookies, chocolate",Monoclonal antibody,AuNP,3.8 ng mL-1,12.6 ng,"Alves et al.,2015;"
+11,SWV,Ara h 6,"Cookies, chocolate",Monoclonal antibody,AuNP,0.27 ng,mL-1,"Alves et al.,2015;"
+12,,,,,,mL-1,mL-1,"Alves et al., 2015"
+13,DPV,Casein,None,RBL-2H3,Carbon nanofiber/,3.2  10-8 g,Not,"Jiang et al.,2019"
+14,,,,,graphene/GelMA,mL-1,described,
+15,DPV,Gluten,"Baker's yeast, vinegar",None,PGE,7.11g,Not,"Eksin et al., 2015"
+16,,,,,,mL-1,described,
+17,LSV,Ara h 1,"Peanut containing food,",Polyclonal antibody,SWCNT,Not,Not,"(Sobhan et al.,"
+18,,,"Chocolate, White bean",,,described,described,2018)
+19,,,Milk,,,,,
+20,Transduction,Target,Food matrix,Receptor,Nanomaterial,LOD,LOQ,Reference
+21,Impedance-based,,,,,,,
+22,biosensor,,,,,0.15g,,
+23,EIS,Tropomyosin,None,RBL-2H3,AuNPs-Cys,0.15g,Not,"Jiang et al., 2013"
+24,,,,,,mL-1,described,
+25,EIS,Ara h 1,None,Polyclonal antibody,Au-coated nanoporous,Not,Not,"(Singh et al., 2010)"
+26,,,,,polycarbonate membrane,described,described,
+27,EIS,Ara h1,Peanut milk Beverage,DNA,None,0.35 fM,Not,"(Sun et al., 2012)"
+28,,,,,,,described,
+29,Micromechanical,,,,,,,
+30,biosensor,,,,,,,
+31,QCM,Tropomyosin,None,Polyclonal antibody,AuNPs,0.333 g,Not,"(Xiulan et al.,"
+32,,,,,,mL-1,described,2010)
+33,QCM-D,Ara h 1,None,Aptamer,None,25 nM,Not,"(Peeters et al.,"
+34,,,,,,,described,2014)

@@ -1,0 +1,43 @@
+,0,1,2,3,4
+0,,Deep-fried glass noodles,"wrapped in seaweed, raw",ND,ND
+1,,Deep-fried glass noodles,"Wrapped in seaweed, fried",ND,ND
+2,,,"Meat, vegetable fillling, steamed",ND,ND
+3,,Dumpling,"Kimchi, vegetable filling, steamed",ND,ND
+4,,,"Meat, vegetable filling, boiled",ND,ND
+5,,Silkworm,"Pupa, canned, solids",ND,ND
+6,,Sagolgukmul,"Beef bone broth, cattle feet",ND,ND
+7,,Fried rice,"Shrimp, cooked",ND,ND
+8,,,"Beef, powder",ND,ND
+9,,,"Beef,powder, boiled",ND,ND
+10,,,"Button mushroom, powder",ND,ND
+11,,Soups,"Corn, powder",ND,ND
+12,processed foods,,"Corn, powder, boiled",ND,ND
+13,,,"Cream, powder",ND,ND
+14,,,"Cream, powder, boiled",ND,ND
+15,,Yubu,For sushi,ND,ND
+16,,Jjolmyeon,"Dried, raw",ND,ND
+17,,Cheese stick,Frozen,ND,ND
+18,,Cheese stick,"Frozen, fried",ND,ND
+19,,Chicken nuggets,Frozen,ND,ND
+20,,Chicken nuggets,"Frozen, fried",ND,ND
+21,,Pizza,"Bulgogi, frozen, roasted",0.64,ND
+22,,Pizza,"Combination, frozen, roasted",0.42,ND
+23,,Ham,"Lean, raw",0.43,0.51
+24,,Natto,Jappanese fermented soybean,ND,ND
+25,,,chicken,ND,ND
+26,,,Sweet chili,ND,ND
+27,,Sauce,Spaghetti,ND,ND
+28,,,Tomato ketchup,ND,ND
+29,,,Honey mustard,ND,ND
+30,Condiment,Salt,"Processed salt, seasoned salt",ND,ND
+31,,,Balsamic,ND,ND
+32,,Vinegar,"Apple,with acetic acid 5.0%",ND,ND
+33,,,"Brown rice, with acetic acid 5.0%",ND,ND
+34,,Cheonggukjang,"Fermented soybean paste, powder",ND,ND
+35,,,Strawberry,ND,ND
+36,,,"Strawberry, 12% milk fat",ND,ND
+37,Milk and,Ice cream,"Strawberry, 14.7% milk fat",ND,ND
+38,Milk and,Ice cream,Chocolate,ND,ND
+39,dairy products,,"Chocolate,12% milk fat",ND,ND
+40,,,"Chocolate, 14.7% milk fat",ND,ND
+41,,Yoghurt,"Thick fermented milk, curd type, plain",ND,ND

@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,Study,Study details,,,,,Participant details,Participant details,,,,,,Outcomes,,
+1,Author:,Study,Probiotic,Duration,Conc. of,Outcome,Model,Probiotic,Placebo,Mean age,Sex ratio,BMI,Ethnicity,Effect,Compli-,Level of
+2,,design,,of Tx,probiotic,measures,,,,,M:F,,,,cations,Evidence
+3,,,,(weeks),(CFU/,,,,,,,,,,,
+4,,,,,day),,,,,,,,,,,
+5,Agahi,L.,L.,12,3109,"MMSE,",AD,25,23,79.70  1.72,7:18,24.051.07,Iranian,Cognitive,/,II
+6,et al.,,fermen-,,,TYM,,,,,,,,"scores,",,
+7,"[39,40]",,"tum, L.",,,"test, Bio-",,,,,,,,bio-,,
+8,,,plan-,,,markers,,,,,,,,chemical,,
+9,,,"tarum,",,,,,,,,,,,outcome,,
+10,,,L.,,,,,,,,,,,measures,,
+11,,,acido-,,,,,,,,,,,were unaf-,,
+12,,,"philus,",,,,,,,,,,,fected by,,
+13,,,B.bifi-,,,,,,,,,,,treatment,,
+14,,,"longum,",,,,,,,,,,,,,
+15,Akbari,RCT,L. acido-,12,8109,"MMSE,",AD,30,30,77.672.62,6:24,23.770.73,Iranian,"scores,",,II
+16,et al.,,"L. casei,",,,Biomark-,,,,,,,,"scores,",,
+17,[41],,"L. casei,",,,ers,,,,,,,,plasma,,
+18,,," dum, L.",,,,,,,,,,,"MDA,",,
+19,,,fermen-,,,,,,,,,,,"VLDL, hs-",,
+20,,,tum,,,,,,,,,,,CRP and,,
+21,,,,,,,,,,,,,,insulin,,
+22,,,,,,,,,,,,,,metabo-,,
+23,,,,,,,,,,,,,,lism,,
+24,,,,,,,,,,,,,,markers,,
+25,,,,,,,,,,,,,,(HOMA-,,
+26,,,,,,,,,,,,,,"IR,",,
+27,,,,,,,,,,,,,,"HOMA-B,",,
+28,,,,,,,,,,,,,,QUICKI),,
+29,,,,,,,,,,,,,,were,,
+30,,,,,,,,,,,,,,improved,,

@@ -1,0 +1,45 @@
+,0,1,2,3,4
+0,,Baseline,12-week,Difference,p intra group
+1,Diet-Placebo,68.118.6,56.89.5,-11.415.2,<0.001
+2,p between groups2,0.12,0.25,,
+3,Protein intake (g),,,,
+4,Placebo,85.917.8,92.225.7,+6.328.1,0.24
+5,Diet-Fish,86.8  16.7,86.2  23.5,+0.622.4,0.24
+6,Diet-Placebo,84.5 18.7,88.418.1,+3.925.6,0.24
+7,p between groups,0.77,0.77,,
+8,Omega 3 intake (g),,,,
+9,Placebo,0.40.1,0.40.7,+0.080.6,0.47
+10,Diet-Fish,0.40.1,0.50.7,+0.150.7,0.47
+11,Diet-Placebo,0.40.1,0.71.1,+0.361.1,0.47
+12,p between groups,0.96,0.03,,
+13,Omega 3 intake + supplement (g),,,,
+14,Placebo,0.40.1,0.40.7,+0.080.6,0.47
+15,Diet-Fish,0.40.1,3.5  0.73,+3.170.7,<0.001
+16,Diet-Placebo,0.40.1,0.71.1,+0.361.1,0.47
+17,p between groups?,0.96,<0.001,,
+18,Ratio omega 6: omega 3 intake,,,,
+19,Placebo,8.114.25,6.454.96,-1.654.90,0.003
+20,Diet-Fish,8.52  5.00,6.08  5.96,- 2.43  7.68,0.003
+21,Diet-Placebo,8.36  5.67,5.95  4.77,-2.406.89,0.003
+22,p between groups,0.98,0.98,,
+23,Healthy eating index,,,,
+24,Placebo,63.0  13.3,64.614.8,1.613.3,0.22
+25,Diet-Fish,66.410.4,64.211.7,-2.211.2,0.22
+26,Diet-Placebo,63.612.1,69.111.3,5.613.3,0.22
+27,p between groups2,0.64,0.64,,
+28,Dietary inflammatory index,,,,
+29,Placebo,2.40.9,0.91.1,-1.41.1,<0.001
+30,Diet-Fish,2.2 1.0,1.11.2,-1.1 1.0,<0.001
+31,Diet-Placebo,2.80.8,1.01.2,-1.8 1.3,<0.001
+32,p between groups,0.50,0.50,,
+33,Physicalexercise,,,,
+34,METs(minutes/week),,,,
+35,Placebo,945.12544.6,379.5409.4,670.822704.55,0.067
+36,Diet-Fish,781.31366.9,440.5532.6,-340.81120.15,0.067
+37,Diet-Placebo,817.912167.3,660.111786.8,-157.80 821.22,0.067
+38,p between groups2,0.882,0.882,,
+39,METs(calories/day),,,,
+40,Placebo,166.33  469.06,70.53  82.38,95.80508.69,0.084
+41,Diet-Fish,140.56236.28,75.5994.88,-64.97199.57,0.084
+42,Diet-Placebo,156.60394.02,140.71365.58,-16.6201.50,0.084
+43,p between groups2,0.756,0.756,,

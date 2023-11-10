@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7
+0,Experimental design,Experimental design,Live weight,,,Pancreas weight,,
+1,Group/Diet:,to 1 kg of basal diet (BD),"Initial LW, kg1","Final LW, kg2","BWG,kg",g3,g/kg LW4,"FCE5,kg/kg"
+2,Controls,20 g RO and 10 g FO,30.56  2.43,37.67  2.08ab,7.08  0.41ab,58.13  3.49c,1.54c,0.19ab
+3,CAc?,"20 g RO,10 g FO and 1 g CAc",30.61  2.59,37.16  2.26b,6.63  0.39b,42.04  3.87a,1.13a,0.17b
+4,CAcSeYe7,"20 g RO,10 g FO,1 g CAc",30.34  2.68,36.83  2.69b,6.46  0.38b,51.28  3.81b,1.39b,0.17b
+5,,and 0.35 mg Se as SeYe,,,,,,
+6,CAcSeVI7,"20 g RO,10 g FO,1 g CAc",30.32  2.97,38.52  3.06a,8.23  0.40a,51.16 2.04b,1.33b,0.22a
+7,,and 0.35mg Se as SeVI,,,,,,

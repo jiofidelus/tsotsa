@@ -1,0 +1,65 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,NDB No.,Description,,Proanthocyanidin,Mean1,N,N,SD,Min,Max,CC, Sources of Data, Sources of Data
+1,,,,4-6mers,23.02,,8,13.77,3.90,40.32,B,"23, 26, 65","23, 26, 65"
+2,,,,7-10mers,26.50,,,20.09,1.30,52.90,,"23, 26, 65","23, 26, 65"
+3,,,,Polymers,1265.98,,8,591.54,542.60,1990.00,B,"23, 26, 65","23, 26, 65"
+4,99337,"Cloudberries, raw",(Rubus,Dimers,5.90,,2,,0.40,11.40,,"26, 35",
+5,,chamaemorus),,Trimers,6.00,,2,,,,,26,
+6,,,,4-6mers,7.30,,1,,,,,26,
+7,,,,7-10mers,0.00,,1,,,,c,26,
+8,,,,Polymers,0.00,,1,,,,c,26,
+9,09079,"Cranberries,dried,sweetened","Cranberries,dried,sweetened",Dimers,5.09,9,,2.54,0.85,7.70,B,"21, 41a",
+10,,,,Trimers,4.43,6,,3.43,0.61,7.58,B,41a,
+11,,,,7-10Mers,0.33,6,,0.81,0.00,1.99,,41a,
+12,,,,Polymers,345.89,6,,248.65,71.52,611.21,B,41a,
+13,09078,"Cranberries, raw (Vaccinium","Cranberries, raw (Vaccinium",Dimers,20.40,16,16,7.66,8.80,33.16,B,"21, 23, 25, 26,","21, 23, 25, 26,"
+14,,macrocarpon Ait.),,,,,,,,,,41a,
+15,,,,Trimers,29.16,13,13,16.95,8.10,63.62,A,"23, 25, 26, 41a","23, 25, 26, 41a"
+16,,,,4-6mers,86.19,13,13,41.93,22.00,163.38,A,"23, 25, 26, 41a","23, 25, 26, 41a"
+17,,,,7-10mers,61.23,13,13,33.29,7.70,118.29,A,"23, 25, 26, 41a","23, 25, 26, 41a"
+18,,,,Polymers,1004.30,13,13,911.25,148.00,2181.79,,"23,25,26,41a","23,25,26,41a"
+19,99110,"Cranberry juice, raw",,Trimers,0.15,,1,,,,,,40
+20,09526,"Cranberry sauce, jellied, canned,","Cranberry sauce, jellied, canned,",Dimers,2.54,,,1.65,1.02,4.21,B,41a,
+21,,OCEAN SPRAY,,Trimers,4.02,4,,2.51,1.84,6.30,B,41a,
+22,,,,4-6Mers,5.22,4,,4.82,1.93,12.29,,41a,
+23,,,,7-10Mers,0.00,4,,0.00,0.00,0.00,B,41a,
+24,,,,Polymers,137.90,4,,72.60,52.31,228.18,B,41a,
+25,09525,"Cranberry sauce, whole, canned,","Cranberry sauce, whole, canned,",Dimers,2.14,,,2.34,0.05,4.21,B,41a,
+26,,OCEAN SPRAY,,Trimers,3.44,4,,3.79,0.05,7.24,B,41a,
+27,,,,4-6Mers,6.93,4,,7.72,0.07,13.70,B,41a,
+28,,,,7-10Mers,0.00,4,,0.00,0.00,0.00,B,41a,
+29,,,,Polymers,128.73,4,,140.47,7.85,277.50,,41a,
+30,09081,"Cranberry sauce,canned,","Cranberry sauce,canned,",Dimers,4.43,,9,1.46,1.20,6.90,c,21,
+31,,sweetened (Vaccinium,sweetened (Vaccinium,,4.43,,,1.46,,,,21,
+32,,macrocarpon Ait.),,,,,,,,,,,
+33,99339,"Crowberries, raw",(Empetrum,Dimers,35.90,,1,,,,c,26,
+34,,nigrum),,Trimers,21.20,,11,,,,c,26,
+35,,,,4-6mers,32.50,,1,,,,c,26,
+36,,,,7-10mers,23.10,,,,,,c,26,
+37,,,,Polymers,57.70,,1,,,,,26,
+38,09083,"Currants, european black, raw","Currants, european black, raw",Dimers,2.91,11,11,0.43,2.20,3.56,,"23, 26, 65","23, 26, 65"
+39,,(Riges nigrum),,Trimers,2.19,11,11,0.49,1.20,3.00,,"23, 26, 65","23, 26, 65"
+40,,,,4-6mers,7.75,11,11,2.53,2.80,10.60,B,"23, 26, 65","23, 26, 65"
+41,,,,7-10mers,7.21,11,11,4.38,0.00,10.86,,"23, 26, 65","23, 26, 65"
+42,,,,Polymers,135.08,11,11,39.90,98.70,227.00,B,"23, 26, 65","23, 26, 65"
+43,99044,"Currants,red,raw",(Ribes rubrum,Dimers,2.11,,5,0.41,1.90,2.90,,"14, 26, 65","14, 26, 65"
+44,,,,Trimers,0.77,,5,0.94,0.00,2.30,c,"14, 26, 65","14, 26, 65"
+45,,,,4-6mers,5.54,,2,,4.20,6.87,c,"26, 65",
+46,,,,7-10mers,3.95,2,2,,0.00,7.90,,"26, 65",
+47,,,,Polymers,32.60,2,2,,24.00,41.20,,"26, 65",
+48,09086,"Custard-apple, (bullock's-heart), raw:","Custard-apple, (bullock's-heart), raw:",Dimers,14.20,,3,,,,c,14,
+49,,(Annona reticulata),,Trimers,4.49,,3,,,,c,14,
+50,09087,"Dates, deglet noor (Phoenix","Dates, deglet noor (Phoenix",Dimers,1.84,,,0.48,1.28,2.57,,23,
+51,,dactylifera),,Trimers,3.02,,7,0.46,2.34,3.67,,23,
+52,,,,4-6mers,5.88,,,0.68,4.78,6.70,A,23,
+53,,,,7-10mers,0.00,,,0.00,0.00,0.00,,23,
+54,,,,Polymers,0.00,,7,0.00,0.00,0.00,,23,
+55,09088,"Elderberries, raw (Sambucus nigra)","Elderberries, raw (Sambucus nigra)",Dimers,10.62,,1,,,,c,65,
+56,,,,trimers,5.63,,1,,,,,65,
+57,,,,4-6mers,10.80,,,,,,,65,
+58,,,,7-10mers,0.00,1,1,,,,c,65,
+59,,,,Polymers,0.00,,1,,,,c,65,
+60,09089,"Figs, raw (Ficus carica)","Figs, raw (Ficus carica)",Dimers,0.01,11,11,0.01,0.00,0.03,<,"14, 23",
+61,,,,Trimers,0.00,11,11,0.00,0.00,0.00,<,"14, 23",
+62,,,,4-6mers,0.00,8,8,0.00,0.00,0.00,A,23,
+63,,,,7-10mers,0.00,,8,0.00,0.00,0.00,A,23,

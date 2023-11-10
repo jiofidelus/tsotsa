@@ -1,0 +1,41 @@
+,0,1,2,3,4,5,6
+0,Author,,Age,Average,,,ID/IDA
+1,[Reference],Country (Study),"(Months,",DII,Source of DRV,% DII < DRV *,Prevalence *
+2,(Year),,Years),mg/d,,,Prevalence *
+3,,,0-11m,2.6 to 6.0,,>50%,
+4,EFSA[3],"Finland, France, Germany, Italy,",12-35 m,5.0 to 7.0,,,
+5,(Review 2015),"Ireland, Latvia, Netherlands, Spain,",,,EFSA-EAR,<50%,-/-
+6,(Review 2015),SwedenUK,3-10 y,7.5 to 11.5,,<50%,
+7,,,10-18 y,9.2 to 14.7,,,
+8,,"Albania, Austria, Belgium,Denmark,",6-11 m,5.0 to 9.7,,6 to 60%,0% to 21%/-
+9,Eussen et al. [22],"Estonia, Finland, France, Germany,",,,,,0% to 48%
+10,(Review 2015),"Greece,Iceland,Ireland, Italy,",,,EFSA-EAR,,85% if
+11,(Review 2015),"Netherlands, Norway, Poland, Spain,",12-35 m,1.6 to 8.5,,4 to 64%,breastfed/0
+12,,"SwedenTurkey,UK",,,,,to 42%
+13,Gibson and,,12-17 m,6.4,British Lower,13%,
+14,Sidnell [63],UK,,,Reference,,-/-
+15,(2014),,18-35 m,6.4,Nutrient Intake,7%,
+16,,,0.5-5.9 m,6.4,,0%,
+17,[64],France (Nutri-Bebe study),6-11 m,8.1,EFSA-EAR,52%,-/-
+18,2020,,12-35 m,7.1,,30%,
+19,,,0-11 m,6.6,,<50% **,
+20,,,1-3y,8.5,,<50%**,
+21,ANSES [65],,4-6y,7.3,,>50%**,
+22,2017,France (INCA 3),7-10 y,9.0,EFSA-EAR,<50%**,
+23,,,11-14 y,10.1,,<50% **,
+24,,,15-17 y,9.4,,<50%**,
+25,,,0.5-5.9 m,7.6,,,
+26,Eldridge et al.,USA (FITS 2016 study),6-11.9 m,13.4,,,
+27,[66](2019,,12-23.9 m,8.6,,,
+28,,,2447.9 m,9.7,,,
+29,,,6-12 m,0.7,,,
+30,,USA (daily absorbed iron calculated,,,,,
+31,Abrams et al.[67],on the basis of data from,Breastfed,0.3,,,-/-
+32,,the FITS 2016 study),Formula,0.9,,,
+33,(2020),Australia,2-5y,7.7,IOM***,10.1%,-/-
+34,review 2017,"Ethiopia, Kenya, Nigeria, South Africa",0-6y,3.5 to 28,WHO-EAR,13 to 100%,12% to 29%/
+35,,"Austria, Bolivia,Brazil,Canada",10-19 y,9.0 to 24.5,,,
+36,Mesias et al.[58],"Denmark, England, Estonia, France,",Boys,9.0 to 24.5,,,
+37,,"Germany, Greece, Hungary, Ireland,",,,,,/
+38,(Review 2013),"Italy, Netherlands, Norway, Perou,",Girls,8.7 to 17.2,,,
+39,,"Scotland, Spain, Sweden, Turkey, USA",,,,,

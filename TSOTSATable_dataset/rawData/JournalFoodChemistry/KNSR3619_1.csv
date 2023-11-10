@@ -1,0 +1,35 @@
+,0,1,2
+0,Nutrient,Unit,per 100 g
+1,Proximates,,
+2,Water,g,10.01
+3,Energy,kcal,338
+4,Protein,g,13.18
+5,Total lipid (fat),g,1.81
+6,"Carbohydrate, by difference",g,73.14
+7,"Fiber,total dietary",g,14.6
+8,Minerals,,
+9,"Calcium,Ca",mg,35
+10,IronFe,mg,2.59
+11,"Magnesium, Mg",mg,153
+12,"Phosphorus,P",mg,321
+13,PotassiumK,mg,466
+14,"Sodium,Na",mg,2
+15,ZincZn,mg,2.66
+16,Vitamins,,
+17,"Vitamin C,total ascorbic acid",mg,0
+18,Thiamin,mg,0.378
+19,Riboflavin,mg,0.132
+20,Niacin,mg,2.86
+21,Vitamin B-6,mg,0.403
+22,"Folate,DFE",,74
+23,Vitamin B-12,ug,0
+24,"Vitamin A,RAE",ug,0
+25,"Vitamin A,IU",IU,0
+26,Vitamin E(alpha-tocopherol),mg,0.9
+27,Vitamin D(D2+D3,,0
+28,Vitamin D,IU,0
+29,Lipids,,
+30,"Fatty acids,total saturated",g,0.318
+31,"Fatty acids, total monounsaturated",g,0.183
+32,"Fatty acids, total polyunsaturated",g,0.794
+33,Cholesterol,mg,0

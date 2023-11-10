@@ -1,0 +1,43 @@
+,0,1,2,3,4,5,6
+0,,Aim of study,Active,Microorganism,Results,Dosage of,Reference
+1,,,ingredient,,,active,
+2,,,,,,ingredient,
+3,Bacteria,Investigation of antimicrobial,flavonoids,"Bacillus cereus, Klebsiella pnuemoniae",Red onion skin:,"10,15,20,25,",Sagar and
+4,,properties of different onion,,"Pseudomonas aeruginosa, Salmonella",Highest MIC against,30 l of extract,Pareek
+5,,skins,,"typhimurium, Staphylococcus aureus,",both gram-positive and,,(2020a)
+6,,,,Streptococcus agalactiae,gram-negative,,
+7,,,,,White onion skin:,,
+8,,,,,Lowest MIC,,
+9,,Investigation of antibacterial,Total phenol,"Escherichia coli, Shigella",No antibacterial,NR,Viera et al.
+10,,properties of red onion skins,,"Flexneri, Enterobacter aerogenes,",,,(2017
+11,,,,"Acinetobacter baumannii, Pseudomonas",,,
+12,,,,"aeruginosa, Salmonella",,,
+13,,,,"Cholerestasus, Salmonella enteritidis, Listeria",,,
+14,,,,"monocytogenes, Bacillus cereus,",,,
+15,,,,Staphylococcus,,,
+16,,,,"Epidermidis, Enterococcus faecium,",,,
+17,,,,"Staphylococcus aureus, Enterococcus faecalis,",,,
+18,,Investigation of the effects of red,flavonoids,Pseudomonas aeruginosa,Red onion skin extract:,"2.5%,5%, 10%",Nugraheni
+19,,onion skin ethanolic extract on,(specially,,Reduce motility and,,et al.2019
+20,,P.aeruginosa,quercetin),,disrupt the action of this,,
+21,,,,,bacterium,,
+22,,Comparison of antibacterial,quercetin,"E. coli, P.fluorescens and",Antibacterial activity:,2 g/100ml,Skerget et al.
+23,,activity of edible part and skin,,B.cereus,Red onion skin> edible,,(2009
+24,,of red onion,,,part,,
+25,,,,,High inhibition activity:,,
+26,,,,,E.coli,,
+27,,Evaluation of antibacterial,anthocyanin,"S.aureus, E.coli",Its effect:,50 mg/ml,Moosazad
+28,,activity of red onion skin as,,,gram-positive bacteria>,,et al.2019
+29,,natural sources of anthocyanins,,,gram-negative bacteria,,
+30,fungi,Investigation of antifungal,Total phenol,"Candida kefyr, Saccharomyces cerevisiae",No antifungal activity,NR,Viera et al.
+31,,properties of red onion skins,,,,,2017
+32,,Comparison of antifungal,quercetin,"A. niger, T. viride and P. cyclopium",In red onion:,2 g/100 ml,Skerget et al.
+33,,activity of edible part and skin,,,Antifungal activity<,,(2009)
+34,,of red onion,,,antibacterial activity,,
+35,,,,,Antifungal activity:,,
+36,,,,,red onion skin> edible,,
+37,,,,,part,,
+38,,,,,inhibitory activity of red,,
+39,,,,,onion skin:,,
+40,,,,,T.viride >A.niger>P.,,
+41,,,,,cyclopium,,

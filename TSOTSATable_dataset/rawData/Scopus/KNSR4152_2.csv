@@ -1,0 +1,18 @@
+,0,1,2,3,4
+0,Food Category,Number of Products,% of Nuts (Mean  SD),ScN (Mean  SD),Nutri-Score Letter Range
+1,Cereal bars,16,31.2  18.6,11.7  5.0,B-D
+2,Breakfast cereals,7,9.9  4.1,2.3  4.5,A-C
+3,Cakes and pastries,2,13.1  2.7,23.0  0.0,E
+4,Sweet biscuits,3,9.2  4.1,19.0  8.7,CE
+5,products,6,28.9  26.1,20.0  4.3,D-E
+6,Non-chocolate confectioneries,2,29.5  0.7,14.5  2.1,D
+7,Ice creams,4,13.8  5.9,17.2  1.3,D-E
+8,Crackers,2,34.0  5.6,15.5  5.0,D-E
+9,Plant-based alternatives to dairy,2,41.8  38.6,5.5  9.2,A-D
+10,Cheese and related products,1,5,13,D
+11,Plain nuts,9,1000.0,0.22  5.0,AC
+12,Salted nuts,7,96.4  1.5,4.0  5.0,A-D
+13,"Spreads (nut ""butters"")",2,100  0.0,1.5  3.5,AB
+14,Coated nuts,3,62.0  2.6,12.0  2.0,CD
+15,Nut mix,2,100  0.0,0.0  2.8,A-B
+16,,68,47.2  37.7,9.4  8.4,A-E

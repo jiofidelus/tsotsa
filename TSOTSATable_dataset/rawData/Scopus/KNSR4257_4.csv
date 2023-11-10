@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,,Haugh Unit Values,,,,
+1,(Days),Temperature,Diet and Feeding Time,Control,Treated,Grade,Bioactive Compounds,Main Effect,References
+2,14,RT,100 mg/kg magnolol: 12 weeks,36.9,46.29,B,bark: phenols,Extended shelf life,[90]
+3,14,RT,Rapeseed oil: 12 weeks,70.22,78.11,AA,Erucic acid,Extended shelf life,[33]
+4,15,RT,dihydrochalcone): 10 weeks,46.42,66.65,A,Natural flavonoids,Extended shelf life,[91]
+5,30,5,40 g/kg terebinth seed meal: 8 weeks,56.1,68.73,A,Tannins,Extended shelf life,[59]
+6,14,28,0.8% of marigold and paprika,74.93,72.64,AA,Lutein and capsanthin,No influence on,[92]
+7,14,28,extracts: 9 weeks,74.93,72.64,AA,Lutein and capsanthin,albumen quality,[92]
+8,7,20,Radix extracts: 12 weeks,55.24,59.19,B,chlorogenic acid,Extended shelf life,[93]
+9,25,21,CAPC-organic zinc 43.7 mg/kg:,53.76,60.55,A,Zinc,Extended shelf life,[58]
+10,25,21,24 weeks,53.76,60.55,A,Zinc,Extended shelf life,[58]
+11,25,21,50 mg oregano essential oil: 4 weeks,23.26,46.94,B,"Thymol, carvacrol",Extended shelf life,[94]
+12,,,Mentha  piperita extract,,,,,Not significantly,
+13,56,4,at 100 mg/kg: 8 weeks,79.91,78.48,AA,phenols,different from,[82]
+14,,,at 100 mg/kg: 8 weeks,,,,,control,
+15,30,Natural state,800 mg resveratrol/kg. 8 weeks,50,70,AA,Phenols from grapes,Extended shelf life,[95]
+16,28,21,9% pumpkin seed meal. 8 weeks,32.12,44.40,B,-carotene, albumen quality,[30]
+17,28,5,9% pumpkin seed meal. 8 weeks,54.62,58.52,B,B-carotene,albumen quality,[30]
+18,56,25,4 weeks,56.92,62.3,A,Lutein,Extended shelf life,[32]
+19,56,4,4 weeks,78.11,81.01,AA,Lutein,Extended shelf life,[32]
+20,28,4,2 g marigold extract/kg diet. 4 weeks,75.85,76.38,AA,Lutein,stability,[49]

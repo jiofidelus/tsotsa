@@ -1,0 +1,76 @@
+,0,1,2,3,4
+0,Food,Purpose of analysis,Detection Technology,Main metabolites,Reference
+1,Iceberg lettuce,Explore the metabolome and changes related,UPLC-ESI-QTOF-MS,"Phenolic compounds, amino acids, fatty acids,",Garcia et al.2016
+2,,to storage time of fresh-cut iceberg lettuce.,,"lysophospholipids,lactones",
+3,Tilapia fillet,Investigate the effect of fish gelatin and,NMR spectroscopy,"Amino acids, organic acids, carbohydrates,",Zhao et al.2019
+4,,grape seed extract on metabolites of tilapia,,"nucleotides, biogenic amines, choline,",
+5,,fillets stored in vacuum impregnated coating,,trimethylamine oxide,
+6,,solutions.,,,
+7,Pork patties,Evaluate changes of metabolites in pork,UHPLC-ESI-QTOF-MS,"Amino acids, alkaloids, glycerophospholipids,",Rocchetti et al.2020
+8,,patties with different antioxidants added,,"caffeine, flavonoids, tyrosols, procyanidins, fatty",
+9,,under modified atmosphere for 18 days of,,acyls,
+10,,refrigerated storage.,,,
+11,Avocado,Understand the effect of a heat shock before,GC-MS/UPLC-MS/MS,"Organic acids,sugars (sucrose, galactinol),","Gavicho Uarrota,Fuentealba"
+12,,storage in a controlled atmosphere on the,,"alcohols, proteins, amino acids (isoleucine,","Hernandez,"
+13,,reduction of ripening heterogeneity of,,"valine, aspartic acid), fatty acids","Defilippi-Bruzzone, and"
+14,,avocados.,,,Meneses(2019)
+15,Black,Profile chemical changes resulting from,UHPLC-QTOF-MS,"Anthocyanin degradation products, functional",Teegarden et al.(2019)
+16,raspberries,thermal processing of black raspberries,,"groups of flavonoids, phenolic acids",
+17,nectar,power into a nectar beverage.,,,
+18,beverage,,,,
+19,Daylily flower,Evaluate chemical profile changes with,UHPLC-UV/UHPLC-,"Phenolic compounds,flavonoids,caffeoylquinic",Sun et al.(2018
+20,,application of different drying processing,HRMS,"acids, quercetin",
+21,,methods after harvest.,,,
+22,Tea,Investigate the effect of drying process on,UPLC- LTQ-Orbitrap-,"Amino acids,flavonoids, phenolic acids",Chen et al. (2020)
+23,,nonvolatile compounds of white tea via,MS/LC-MS/MS,"nucleosides, nucleotides, peptides",
+24,,metabolomic and proteomic approaches,,,
+25,,Understand dynamic changes of,UPLC-ESI-MS/MS,"Proteins, amino acids, flavonoid glycosides,",Huang et al. (2020)
+26,,characteristic constituents during tea,,"anthocyanins, nucleotides, glycerolipids, sucrose",
+27,,enzymatic-catalyzed process,,,
+28,,Explore and characterize the volatile,GCMS,"Aldehydes, organic acids, alcohols, ketones,",Cao et al.2018
+29,,compound profiling of different Chinese dark,,"esters,methoxyphenolics, alkanes",
+30,,teas.,,,
+31,,Profile the variations of metabolites in black,UHPLC-QTOF-MS,"Amino acids,phenolic compounds (phenolic",Tan et al.2016
+32,,teas with various fermentation times.,,"acids, catechins, flavonol glycosides), alkaloids,",
+33,,,,nucleosides,
+34,,Characterize the metabolic behavior of green,NMR spectroscopy,"Phenolic compounds (catechins),amino acids",Lee et al.2011
+35,,tea during its fermentation.,,"(theanine, alanine), sugars (sucrose, glucose),",
+36,,,,"caffeine, acetate, glutamate",
+37,Pasta,Investigate metabolite variations during,GC-MS/LC-MS/,"Phytosterols, policosanols, fatty acids, amino",Beleggia et al. 2011
+38,,industrial pasta processing for five different,HPLCICP-OES,"acids, carotenoids, minerals",
+39,,commercial products.,,,
+40,Orange juice,Investigate the differences between,UHPLC-QTOF-MS/,"Fatty acidsoleic acid,linolenic acid,lysoPE","Xu,Xu,Kelly,and Liao 2020"
+41,,concentrated or not orange juice from,DART-QTOF,"tripeptides, carvone, L-glutamine",
+42,,through untargeted metabolomics,,,
+43,Peach juice,Develop a method to analyze volatile,SBSE-TD-GC-MS,"Aldehydes,alcoholsphytol,tocopherol)","Marsol-Vall,Balcells,Eras,and"
+44,,compounds in peach juices for the,,"lactones,terpenoids,fatty aldehydes",Canela- Garayoa (2018)
+45,,differentiation of fruit variety and processing,,"tetracosanal,octacosanal,fatty acids",
+46,,conditions.,,(hexadecanoic acid) and hydrocarbons,
+47,Lemon juice,Determine the effect of heat processing on,GCMS,"Carbohydrates (arabinose), organic acids, amino","Mabuchi,Zhao, and Tanimoto"
+48,,the composition profile of lemon juice,,acids,(2018
+49,Tiger nut milk,Determine if UHT treatment affects the,UHPLC-HRMS,"Sugars, fatty acids, emulsifiers (citric acid esters",Rubert et al.2017
+50,,profile of nutrients of tiger nut milk,,"of mono-diglycerides,monoacylglycerol",
+51,,compared to fresh product.,,"vitamins (biotin), amino acids (l-arginine)",
+52,Quinoa,Identify each quinoa ecotype and determine,NMR spectroscopy,"Saponins, amino acids, organic acids,",Lalaleo et al.2020)
+53,,the effect of different treatments (washing,,"monosaccharides, nucleosides, choline, proteins",
+54,,cooking and germination) on nutritional,,,
+55,,composition based on metabolic profile,,,
+56,Cooked,Characterize the differential metabolic,UPLC-QTOF-MS,"Furans, pyrazines, and pyrrole derivatives",Zhou et al. (2020)
+57,potatoes,signatures resulting from intake of different,,,
+58,,potato products and identify potential,,,
+59,,biomarkers.,,,
+60,Peanut,Determine changes in the metabolic,(RP)/UPLC-MS/MS,"Amino acids (arginine, proline, aspartic acid,",Klevorn and Dean (2018
+61,,composition of peanuts due to dry-roasting,(HILIC)/UPLC-MS/MS,"glutamic acid, phenylalanine, histidine),",
+62,,,,"carbohydrates, nucleotides, lipids",
+63,Tomato,Explore the effects of different pre-,UHPLC-ESI-QTOF-MS,"Carotenoids (lycopene), phenolic compounds",Lucini et al.2017
+64,products,processing and industrial technologies in,,"(flavonoids, lignans, phenylpropanoids)",
+65,,"tomatoes pulp, puree and paste.",,,
+66,Vegetable,Investigate the effect of conventional,LC-PDA/ NMR/ LC-,"Carotenoids, flavonoids, vitamins,",Lopez-Sanchez et al.(2015)
+67,purees,industrial processing steps on phytochemical,QTOF-MS/ LC-MRM/,"glucosinolates, oxylipins, tocopherols, sugars,",
+68,,"composition of broccoli, carrot and tomato",GCMS,organic acids,
+69,,purees.,,,
+70,Black carrot,Elucidate quantitative and qualitative,LC-QTOF-MS,"Phenolic compounds (flavonoids, anthocyanins,",Suzme et al.(2014
+71,concentrate,changes in compounds during the processing,,phenolic acids),
+72,,steps of black carrot concentrate.,,,
+73,Chicken meat,,UHPLC-MS,"Amino acids, amines, nucleosides, nucleotides,",Wen et al.(2020
+74,,,,"carbohydrates, organic acids",

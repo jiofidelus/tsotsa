@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,,,Initial Metal,Metal Removal,Metal Removal,
+1,Heavy Metal,Biosorbent,Concentration,(%),Capacity,References
+2,,,(mg/L),(%),(mg/g Dry Biomass),
+3,Hg,Weissella viridescens MY 205,1,79.6,,[300]
+4,Cd,freudenreichii shermanii JS,50,49.1,,[305]
+5,,L.acidophilus ATCC 20552,50,65.5,,[304]
+6,,Bifidobacterium longum,"43 a,*",48.0,,[310]
+7,,Bifidobacterium longum 46,10,,54.7,[314]
+8,,Ent.faecium EF031,10,97.5,,[315]
+9,,Lp.plantarum PTCC 1896,10,90.9,"122.7 b,c",[299]
+10,,Lp.plantarum CCFM8610,5,77.0,3.85,[311]
+11,,Li.reuteri Cd70-13,1,25.0,,[302]
+12,,P.acidilactici As105-7,1,,0.13 d,[306]
+13,,W.viridescens MY 205,1,54.1,,[286]
+14,Pb,Lp. plantarum LAB-32,200,82.25,57.31 b,[255]
+15,,Lp.plantarum PTCC 1896,50,65.4,"34.5 b,c",[299]
+16,,L.acidophilus ATCC 20552,50,72.6,,[304]
+17,,freudenreichii shermanii JS,50,69.9,,[305]
+18,,Li. reuteri Pb71-1,6,59.0,,[302]
+19,,P.acidilactici As105-7,6,,0.76 d,[306]

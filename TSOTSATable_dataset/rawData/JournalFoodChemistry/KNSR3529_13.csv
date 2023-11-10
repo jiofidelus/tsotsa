@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,Matrix,Extracting solvent,TC,"Energy (W,",Other operation,Target compounds,Chemical structure of main compounds,,,,,,Extraction recovery/,(method),Reference
+1,,,,kHz),parameters,,,,,,,,yield,(method),
+2,Potato peels,80% Methanol,30-45,33 kHz,1:10(sample/,Chlorogenic acid and caffeic Caffeic acid,,,,,,,n.d,3.66  0.00 mg TE/g,"Kumari et al.,"
+3,,,,,,,,,,,,,TPC: 4.24  0.01 mg,DPPH),2017
+4,,,,,,,HO,,,,,,,(FRAP),
+5,,,,,,,,,,,,OH,,(FRAP),
+6,,,,,,,HO,,,,,,,,
+7,Berry press,96% ethanol and,<30,100W,1:100 (sample/,Anthocyanins,Cyanidin-3-O-arabinoside,Cyanidin-3-O-arabinoside,Cyanidin-3-O-arabinoside,Cyanidin-3-O-arabinoside,,,~1.2 higher vs.,n.d,"Klavins et al.,"
+8,residues,"0.5% TFA,v/v",,,"solvent ratio, w/v);",,,,,,,,microwave or Soxhlet ,,2017;Klavins
+9,,,,,20 min,,,,,,,,extractions,,"et al.,2018"
+10,,,,,,,,,,,,,TPC: 1.59  0.07 g/,,
+11,,,,,,,,,,,,,100g,,
+12,,,,,,,,,,,,,TAC: 0.14  0.00 g/,,
+13,,,,,,,,,,,,,100g,,
+14,,,,,,,,,,OH,,,,,
+15,,,,,,,3.07  0.31 mg/g DW,3.07  0.31 mg/g DW,3.07  0.31 mg/g DW,,,,,,
+16,,,,,,,Peonidin-3-O-galactoside,Peonidin-3-O-galactoside,Peonidin-3-O-galactoside,Peonidin-3-O-galactoside,,,,,
+17,,,,,,,,,,,,OH,,,
+18,,,,,,,,,,,OH,,,,
+19,,,,,,,3.040.21 mg/g DW,3.040.21 mg/g DW,3.040.21 mg/g DW,,,,,,
+20,Blueberries peels,70% methanol,30,185W,1:10 (sample/,Anthocyanins,Malvidin-3-galactoside,Malvidin-3-galactoside,Malvidin-3-galactoside,,,,n.d,4.85 mg AAE/g WB,"Wang et al.,2016"
+21,,,30,,"solvent ratio,w/v;",Anthocyanins,,,,,,,TPC: 2.04 mg GAE/g,DPPH),
+22,,,,,20 min,,,,,OCH3,,,TPC: 2.04 mg GAE/g,,
+23,,,,,,,,,,,OH,,FW,,
+24,,,,,,,HO,,,,,,,,
+25,,,,,,,,OH,HO-,,,,,,
+26,,,,,,,161.44g/g FW,161.44g/g FW,161.44g/g FW,,,,,,

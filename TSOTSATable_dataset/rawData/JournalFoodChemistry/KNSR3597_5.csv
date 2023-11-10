@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Compound,Rt,Mmax,Pseudomolecular ion,Ms2fragments (m/z*,Standard,Calibration curve,Calibration curve,LOD,LOQ
+1,,(min),(nm),[M-H]m/z,,,,,(g/mL),(g/mL)
+2,Unknown,5.7,"253,",318,"301 (20), 300 (1 00), 282 (5),",,-,,-,
+3,,,280,,"257 (8), 172 (6),128 (5",,,,,
+4,Ferulic acid-,6.5,290,355,193 (100),Ferulic,"y = 633126x - 185,462","y = 633126x - 185,462",0.20,1.01
+5,hexoside,,,,,acid,(R2 =0.9990),,,
+6,Syringic acid,12.6,280,197,"153(12,121 100",Syringic,(R2=0.9995),"141,329",0.23,0.72
+7,,,,,,acid,(R2=0.9995),,,

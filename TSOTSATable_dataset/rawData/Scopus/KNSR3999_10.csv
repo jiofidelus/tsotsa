@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6
+0,Particulars,,Experimental diets,,SEM (),CV (%),p value
+1,Particulars,CNT,PP-0.25,PP-0.50,SEM (),CV (%),p value
+2,Protein (mg/ml),23.88c,29.87a,27.64b,0.044,1.015,<0.001
+3,Lipid (mg/dl),122.22a,123.59a,106.19b,0.295,0.609,<0.001
+4,Glucose (ml/dl),1.45a,1.44a,1.27b,0.001,1.102,<0.001
+5,Hemocyanin (mM),189.74b,184.83c,201.46a,1.181,0.745,<0.001
+6,Ammonia (mg/l),2.11c,2.54b,3.05a,0.001,0.225,<0.001
+7,Urea (mg/l),11.32a,8.22b,7.98c,0.001,0.327,<0.001

@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,,Subject ages,,,,variable2
+1,,Data set,Years,Data source,months,,Sex,,variable2
+2,,Primary data sets,,,,,,,
+3,NHESII,,1963-65,National survey,72.0145.9,"M,F","M,F","W,S,BMI","W,S,BMI"
+4,NHES III.,,1966-70,National survey,144.0-217.9,"M,F","M,F","W, S, BMI","W, S, BMI"
+5,NHANESI.,,1971-74,National survey,12.0-23.9,"M,F","M,F",L,
+6,,,,,12.0-35.9,"M,F","M,F",HC,
+7,,,,,12.0-281.9,M,,W,
+8,,,,,12.0-245.9,F,,W,
+9,,,,,18.0-305.9,"M,F","M,F",S,
+10,,,,,18.0-305.9,"M,F","M,F",BMI3,BMI3
+11,NHANESII,,1976-80,National survey,6.0-35.9,"M,F","M,F","L,HC","L,HC"
+12,,,,,6.0-281.9,M,,W,
+13,,,,,6.0-245.9,F,,W,
+14,,,,,18.0-305.9,"M,F","M,F",S,
+15,,,,,18.0-305.9,"M,F","M,F",BMI3,BMI3
+16,NHANESIII,,1988-94,National survey,3.0-35.9,"M,F","M,F",L,
+17,,,,,2.0-35.9,"M,F","M,F",HC,
+18,,,,,2.0-71.9,"M,F","M,F",W,
+19,,,,,18.0-305.9,"M,F","M,F",S,
+20,,,,,18.0-71.9,"M,F","M,F",BMI3,BMI3
+21,,Supplemental data sets,,,,,,,
+22,United States Vital Statistics.,United States Vital Statistics.,1968-80;,Birth certificates,Birth,"M,F","M,F",W,
+23,,,1985-94,,,,,,
+24,State of Wisconsin Vital Statistics,State of Wisconsin Vital Statistics,1989-94,Birth certificates,Birth,"M,F","M,F","W,L4","W,L4"
+25,State of Missouri Vital Statistics.,State of Missouri Vital Statistics.,1989-94,Birth certificates,Birth,"M,F","M,F","W,L4","W,L4"
+26,Fels Longitudinal Study..,Fels Longitudinal Study..,1960-94,Hospital recordst,Birth,"M,F","M,F",HC,
+27,Pediatric Nutrition Surveillance System,Pediatric Nutrition Surveillance System,1975-95,Clinic records,0.01-4.9,"M,F","M,F",L,
+28,(selected clinics),..,,,,,,,

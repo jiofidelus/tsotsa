@@ -1,0 +1,45 @@
+,0,1,2,3,4,5
+0,No.,Phytochemicals,RIa,B. persicum,Cu. cyminum,Ca. copticum
+1,,,,%,%,%
+2,1,o-Thujene,925,0.4,0.2,0.7
+3,2,o-Pinene,932,1.0,0.6,0.7
+4,3,Camphene,946,0.1,,tr
+5,4,Sabinene,970,1.2,1.3,tr
+6,5,-Pinene,975,1.6,6.4,2.6
+7,6,Myrcene,990,1.0,0.5,0.9
+8,7,"Mentha-1(7),8-diene<meta->",999,,,tr
+9,8,-2-Carene,1013,trb,0.8,-
+10,9,Isosylvestrene,1013,0.3,-,-
+11,10,o-Terpinene,1013,,0.8,0.6
+12,11,p-Cymene,1019,8.0,14.1,21.8
+13,12,Limonene,1025,2.0,0.6,0.4
+14,13,-Phellandrene,1032,2.0,0.1,0.6
+15,14,"1,8-Cineole",1032,2.9,0.4,
+16,15,Z--Ocimene,1037,0.1,-,-
+17,16,y-Terpinene,1055,44.2,12.8,21.3
+18,17,3-Methylbenzaldehyde,1059,tr,-,
+19,18,cis-Sabinene hydrate,1061,tr,,0.3
+20,19,Terpinolene,1085,0.7,,0.4
+21,20,Linalool,1093,0.1,tr,
+22,21,trans-Sabinene hydrate,1095,0.1,-,
+23,22,l-Terpineol,1130,-,0.5,0.2
+24,23,Borneol,1162,0.1,,-
+25,24,Terpinen-4-ol,1170,0.4,-,-
+26,25,o-Terpineol,1189,tr,-,-
+27,26,meta-Cuminol,1217,tr,-,
+28,27,p-Cuminaldehyde,1231,16.9,30.2,
+29,28,trans-p-Menth-2-en-7-ol,1261,0.2,,
+30,29,Perillaldehyde,1265,0.2,0.8,-
+31,30,Bornyl acetate,1280,2.9,-,
+32,31,-Terpinen-7-al,1281,0.4,-,
+33,32,y-Terpinen-7-al,1287,10.5,-,
+34,33,Thymol,1289,0.1,-,48.4
+35,34,Safranal,1294,-,9.4,
+36,35,Carvacrol,1302,-,-,0.4
+37,36,9-epi--Caryophyllene,1413,tr,3.5,-
+38,37,ar-Curcumene,1474,tr,-,-
+39,38,Germacrene D,1476,0.1,0.2,-
+40,39,o-Zingiberene,1490,tr,-,-
+41,40,EE--Farnesene,1503,tr,0.5,-
+42,41,-Sesquiphellandrene,1518,0.1,,
+43,,Total identified,,95.5,83.7,99.3

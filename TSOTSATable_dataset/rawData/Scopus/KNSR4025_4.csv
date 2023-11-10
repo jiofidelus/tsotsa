@@ -1,0 +1,7 @@
+,0,1
+0,Field Name,Description
+1,FdGrp_Cd*,4-digit code identifying a food group. Only the first
+2,,two digits are currently assigned. All of the food
+3,,groups in SR are not used in the proanthocyanidin
+4,,database.
+5,FdGrp Desc,Name of food group

@@ -1,0 +1,46 @@
+,0,1,2,3,4,5
+0,Application,Objectives, Al technique,Outcomes/impacts,Outcomes/impacts,References
+1,Pork meat,To differentiate between the fresh and frozen-,BPANN,(i) Combined ANN with E-nose was able to,(i) Combined ANN with E-nose was able to,Gorska-Horczyczak et al.
+2,,thawed meat,,distinguish three types of meat which are,distinguish three types of meat which are,[209]
+3,,,,"loin, neck and ham","loin, neck and ham",
+4,,,,(iiThe model was able to differentiate the,(iiThe model was able to differentiate the,
+5,,,,fresh meat from spoiled meat and frozen,fresh meat from spoiled meat and frozen,
+6,,,,meat with overall sensitivity of 85.1% and,meat with overall sensitivity of 85.1% and,
+7,,,,97.5% specificity,97.5% specificity,
+8,Rice grains,To detect the Sitophilus oryzae infestation in,FL ARTMAP,(i) E-nose with the application of FL ART-,(i) E-nose with the application of FL ART-,Srivastava et al. [210]
+9,,stored rice grains,"PCA,MLR",,MAP is useful when the data are exhaustive,
+10,,,,and deductions about analysis are needed,and deductions about analysis are needed,
+11,,,,to be done,to be done,
+12,,,,,(ii The model was able to classify the grains,
+13,,,,,"of infested, non-infested, required treatment",
+14,,,,and others,and others,
+15,,,,(iii) The hybrid system is beneficial in the,(iii) The hybrid system is beneficial in the,
+16,,,,food and grain industry where early detec-,food and grain industry where early detec-,
+17,,,,tion of infestation in grain can be done to,tion of infestation in grain can be done to,
+18,,,,minimize the post-harvest losses,minimize the post-harvest losses,
+19,Rice grains,To classify the Rhyzopertha. Dominica,ANN,(i) BPANN with e-nose system gave the,(i) BPANN with e-nose system gave the,Srivastava et al. [211]
+20,,infested rice grains and recognized them,,,highest R2 value which is 0.98 compared,
+21,,,,to other methods that were used with the,to other methods that were used with the,
+22,,,,e-nose for the classification process and it,e-nose for the classification process and it,
+23,,,,has the highest accuracy compared to the,has the highest accuracy compared to the,
+24,,,,rest,,
+25,,,,(ii) The system was able to predict the,(ii) The system was able to predict the,
+26,,,,infested rice grains for different days,infested rice grains for different days,
+27,Shelled peanuts, To assess the storage quality of shelled,FL,(i) The FL analysis able to screen and rank,(i) The FL analysis able to screen and rank,Raigar et al.[212]
+28,,peanuts,,the e-nose sensors and the discard time,the e-nose sensors and the discard time,
+29,,,,for the shelled peanuts was able to be,for the shelled peanuts was able to be,
+30,,,,determined,determined,
+31,,,,(ii) The storage time prediction of shelled,(ii) The storage time prediction of shelled,
+32,,,,peanuts using sensors closely matched with,peanuts using sensors closely matched with,
+33,,,,the conventional methods,the conventional methods,
+34,,,,(iii) It can be an eco-friendly alternative as it,(iii) It can be an eco-friendly alternative as it,
+35,,,,is rapid and not destructive,is rapid and not destructive,
+36,Salmon,To classify the level of freshness of the,"PCA, CNN, SVM",,(i The developed system was able to detect,Feng et al. [213]
+37,,salmon samples,,"cluster, and classify the salmon accord-","cluster, and classify the salmon accord-",
+38,,,,"ing to their freshness level, and the overall","ing to their freshness level, and the overall",
+39,,,,,accuracy obtained by the CNN-SVM model,
+40,,,,was greater than 90%,was greater than 90%,
+41,Saffron,To detect the adulteration of saffron samples,ANN,,(i) The classification of original and adulter-,Heidarbeigi et al. [214]
+42,,,, ated saffron was successfully done by using, ated saffron was successfully done by using,
+43,,,,,e-nose with the pattern recognition method,
+44,,,,,"with 100 and 86.87% accuracy, respectively",

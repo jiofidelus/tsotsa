@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6
+0,Particulars,,Experimental diets,,SEM (),CV (%),p value
+1,Particulars,CNT,PP-0.25,PP-0.50,SEM (),CV (%),p value
+2,N intake (mg/shrimp/meal),1.72a,1.50b,1.52b,0.001,1.675,0.001
+3,O consumption (g/g of DM/h),600.25a,536.31b,508.99b,149.271,2.931,0.005
+4,N excretion (g/g of DM/h),19.58a,19.17b,17.29c,0.001,0.264,<0.001
+5,O:N ratio,30.57a,27.94b,29.35ab,0.304,2.477,0.028

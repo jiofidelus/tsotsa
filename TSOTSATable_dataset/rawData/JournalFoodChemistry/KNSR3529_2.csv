@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Matrix,Extracting,T(C,Pressure,Other,Target compounds,Chemical structure of main,,Extraction,Antioxidant,References
+1,,solvent,,(MPA),operation,,compounds,,recovery/yield,capacity,
+2,,,,,parameters,,,,,(method),
+3,Olive leaves,Water,200,10.34,20 min,"Phenolic acids,",Hydroxytyrosol,,~40%,2.661 ,Herrero
+4,,,,,,"secoiridoids,",,,,0.188 mmol,"et al.,2011"
+5,,,,,,hydroxycinnamic acid,,OH,TPC: 58.7 0.9TE/g (TEAC),TPC: 58.7 0.9TE/g (TEAC),
+6,,,,,,"derivatives, flavonols",,OH,mg GAE/g,,
+7,,,,,,and flavones,,,,,
+8,,,,,,,HO,,,,
+9,,,,,,,OH,,,,
+10,,,,,,,8.542 mg/g DW,,,,
+11,Olive leaves,Ethanol,150,10.34,20 min,"Phenolic acids,",Oleuropein,,~30%,0.677 ,
+12,,,,,,"secoiridoids,",,,,0.025 mmol,
+13,,,,,,hydroxycinnamic acid,,,,TE/g (TEAC),
+14,,,,,,"derivatives, flavonols",,,TPC:45.8  0.6,,
+15,,,,,,and flavones,,,mg GAE/g,,
+16,,,,,,,HO,,,,
+17,,,,,,,OH,,,,
+18,,,,,,,6.156-2.819 mg/g DW,,,,
+19,Passiflora,Ethanol,150,10,,"Flavonoids,",(Epifisetinidol,,~7%,6.94 mM TE/,Ballesteros
+20,mollissima,,,,,"flavan-3-ols,",,,,g (TEAC),"Vivas et al.,"
+21,seeds,,,,,proanthocyanidins,,,TPC: 29.99 mg,,2019a
+22,seeds,,,,,"oligomers, phenolic",,OH,GAE/g,,
+23,,,,,,acids,,,,,
+24,,,,,,,OH,,,,
+25,,,,,,,5.3 mg/L,,,,
+26,,,,,,,Gallic acid,,,,
+27,,,,,,,,OH,,,
+28,,,,,,,HO,,,,
+29,,,,,,,OH,,,,
+30,,,,,,,2.6 mg/L,,,,
+31,Grape skins,Ethanol:,120,8,30 min;1.2,"Anthocyanins,",Malvidin-3-(6-p-coumaroyl),,~30%,n.d,Luque-
+32,,acidified,,,mL/min,"flavonols, p-coumaroylglucoside","flavonols, p-coumaroylglucoside",,,,Rodriguez
+33,,water (0.8%,,,,"derivatives,",,,TPC: 126 mg,,"et al.,2007"
+34,,HC1),,,,hydroxycinnamic,,,GAE/g,,
+35,,50:50v/v,,,,"acids,",,,,,
+36,,,,,,pyranoanthocyans,,,TAC:17.15g/,,
+37,,,,,,,,,g,,

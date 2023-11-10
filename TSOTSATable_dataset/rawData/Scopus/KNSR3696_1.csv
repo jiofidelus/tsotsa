@@ -1,0 +1,44 @@
+,0,1,2,3
+0,Household character,,,Number of households
+1,Sex of household main shopper,Male,436,24.2%
+2,,Female,1364,75.8%
+3,Age of household main shopper,<35 years,105,5.8%
+4,,35-39 years,131,7.3%
+5,,40-49 years,357,19.8%
+6,,50-65years,711,39.5%
+7,,>65 years,496,27.6%
+8,Geographic region of households,Auckland,530,29.4%
+9,,Bay of Plenty and Waikato,292,16.2%
+10,,Wellington,242,13.5%
+11,,Rest of North Island,289,16.1%
+12,,Canterbury,274,15.2%
+13,,Rest of South Island,173,9.6%
+14,Equivalised household income,Low-income,643,35.7%
+15,,Middle-income,553,30.7%
+16,,High-income,604,33.6%
+17,Household size(number of persons,1-2,1047,58.2%
+18,,3,753,41.8%
+19,Monthly household expenditure by store type,,Mean NZ$,Median NZ$
+20,,Supermarkets,487.1,445.9
+21,,Meat and fish stores,104.3,78.4
+22,,Fruit and vegetable stores,96.3,71.9
+23,,Convenience stores,57.1,30.0
+24,,Bakeries,34.7,23.5
+25,,Grocery stores,32.1,22.0
+26,Household purchases made on promotion by age group,,Units purchased,Percentage on promotior
+27,,<35years,220 564,45.1%
+28,,35-39 years,299 002,47.0%
+29,,40-49 years,794 458,49.0%
+30,,5065 years,1 601 609,46.0%
+31,,>65 years,1 024 825,41.9%
+32,Household purchases made on promotion by income group,,Units purchased,Percentage on promotion
+33,,Low-income,1 299 121,47.0%
+34,,Middle-income,1334 395,47.8%
+35,,High-income,1 306 942,42.5%
+36,Quantities of products purchased at food stores,,Units purchased,Percentage of purchases
+37,,Supermarkets,3 545 141,90.0%
+38,,Fruit and vegetable stores,312 300,7.9%
+39,,Meat and fish stores,65 198,1.7%
+40,,Grocery stores,11 468,0.3%
+41,,Convenience stores,3613,0.1%
+42,,Bakeries,2738,0.1%

@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Analytical,Spectrometry,,,,,Chromatography,Chromatography,,Electroanalysis,Electroanalysis,
+1,parameter,,,,,,,,,,,
+2,,Raman,NMR,UV/Vis,NIR,MS,HPLC,UHPLC,GC,CV,SWV,Amperometric
+3,Precision (%),Not,Not,2.1  5.5,Not,Not,0.6  8.0,.0.31,12.0 ,5.5,1.6,3.7  4.7
+4,,reported,reported,,reported,reported,,10.1,20.0,,,
+5,Recovery (%),Not,92.0 ,93.5 ,Not,Not,83.0 ,82.8,79.0 -,90.2 ,98.4 ,95.0  99.0
+6,,reported,98.3,106,reported,reported,105.0,146.4,115.0,104.7,102.9,
+7,Selectivity,Good,Good,Good,Poor,Excellent,Excellent,Excellent,Excellent,Poor,Good,Good
+8,Sensitivity,Good,Good,Good,Poor,Excellent,Good,Good,Good,Poor,Excellent,Good
+9,Robustness,Good,Good,Excellent,Moderate,Excellent,Good,Good,Good,Poor,Good,Poor
+10,Sample throughput,High,Moderate,Moderate,High,High,Low,High,Low,Moderate,High,High
+11, Sample preparation,Not,Not,Moderate,Not,Low,High,High,High,Low,Low,Low
+12,,required,required,,required,,,,,,,
+13,Derivatizatization,No,No,Yes,No,No,Yes,Yes,No,No,No,No
+14,Cost,Low,High,Low,Low,High,Moderate,High,Moderate,Low,Low,Low
+15,Applicability to,Low,Low,Moderate,Low,Low,High,Moderate,Moderate,Low,Low,Low
+16,HMF analysis,,,,,,,,,,,

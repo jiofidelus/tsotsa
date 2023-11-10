@@ -1,0 +1,58 @@
+,0,1,2,3
+0,Application,ML methods,Important outcomes,References
+1,Apple,"Linear discriminant analysis, adaptive",i The ML was able to classify the,Li et al. [176]
+2,,boosting,apples accurately with a rate of,
+3,,,100% using the collected acoustic,
+4,,,emission signals,
+5,Artichoke,"MLP,RF,BLR",(i) The characteristics of ion patterns,Sabater et al. [177]
+6,,,were done by the ML models to be,
+7,,,set up for each enzyme with a high,
+8,,,prediction rate of 95% above,
+9,Beer,ANN,(iThe ANN model was able to clas-,Claudia Gonzalez et al.[178]
+10,,,sify the chemical components in the,
+11,,,beer with a high overall accuracy,
+12,,,of 95%,
+13,Biscuits,Convolutional neural network,i The developed model was able to,De Sousa Silva et al.[179]
+14,,,classify and evaluate the quality of,
+15,,,different types of biscuits with an,
+16,,,accuracy up to 99%,
+17,Cheese,LSTM,(i) The combination of mechanistic,Li et al. [83]
+18,,,modeling with LSTM was able to,
+19,,,describe the changes in lactic acid.,
+20,,,"lactose,and biomass with high accu-",
+21,,,racy where the value of R2 obtained,
+22,,,is greater than 0.99,
+23,,,(ii) The prediction of pH for the,
+24,,,cheese fermentation is able to be,
+25,,,done by using the developed model,
+26,Citrus limetta (Mosambi peel),"SVM-ANN,SVM-Gaussian process",iThe SVM model was able to,Younis et al. [180]
+27,,regression (SVM-GPR),predict and classify all the results,
+28,,,for the taste of lime powder that,
+29,,,has been treated by the salt with an,
+30,,,accuracy of 1.0,
+31,,,(ii) Optimization by using the ML,
+32,,,tool allows to maintain the taste and,
+33,,,retain the polyphenol content in the,
+34,,,lime,
+35,Fruits(Arbutus unedo L.fruits)RF.SVM.ANN,Fruits(Arbutus unedo L.fruits)RF.SVM.ANN,(i) The stability of the extracts in the,Astray et al. [181]
+36,,,Arbutus unedo L. fruits in terms of,
+37,,,aqueous and powder systems was,
+38,,,able to be done by the ML methods,
+39,,,with overall coefficient in the range,
+40,,,of 0.9128 and 0.9912 for the best,
+41,,,models chosen,
+42,Lamb meat,SVM,i) The classification accuracy of the,Alaiz-Rodriguez & Parnell
+43,,,lamb meat fat increased from 89.70,[85]
+44,,,to 93.89% by using the SVM method,
+45,Mangoes,"Naive Bayes,SVM",(i The system is able to detect the,Pise& Upadhye [182]
+46,,,maturity of the mangoes based on,
+47,,,their quality attributes,
+48,Meat,,"OLS-R, SL-R, PC-R, PLS-R, SVM-R,(i) Different kinds of microorganisms",Estelles-Lopez et al. [81]
+49,,"RF-R, and kNN-R",causing the beef spoilage could be,
+50,,,detected by using the regression MI,
+51,,,that obtained the data from five dif-,
+52,,,ferent analytical methods,
+53,,,(ii) All the methods were able to pre-,
+54,,,dict in all cases accurately with the,
+55,,,"rank order of RF-R, PLS-R, kNN-R",
+56,,,"PC-R,and SVM-R",

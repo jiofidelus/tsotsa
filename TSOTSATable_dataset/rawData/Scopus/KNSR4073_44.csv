@@ -1,0 +1,14 @@
+,0,1,2,3
+0,Country,Type of survey/Method,Range,Mean
+1,Germanya,Duplicate diet samples,,84 (F)
+2,,Food(total diet study in 1997),up to 170a,100
+3,UKb,Supplements,up to 1006,
+4,,Drinking water,up to 2Y,
+5,Swedenc,Randomly selected 24-hour diets,50-580,160
+6,,extrapolation to 100%,,120
+7,Spain,,,
+8,,Southern Spain,"9,4-205",100
+9,,7 days self selected diets,22-48 (M),33 (M)
+10,USAd,7 days self selected diets,13-36 (F),25 (F)
+11,USAd,From supplements based on the,"3,2-100(M)","29,5 (M)"
+12,,"NHANES III,1988-1994","4,4-127 (F)","30,0 (F)"

@@ -1,0 +1,12 @@
+,0,1,2,3
+0,Food mixturesb,Lactobacilli count,pH,Titratable acidity
+1,Non-germinated,,,
+2,Unprocessed food mixture,-,6.02  0.21,1.690.05
+3,Autoclaved food mixture,1,5.82  0.12,1.78  0.02
+4,Autoclaved and fermented food mixture,7.75  0.05,4.23  0.17,2.60 0.19
+5,Germinated,,,
+6,Unprocessed germinated food mixture,,5.14  0.52,2.00  0.13
+7,Germinated autoclaved food mixture,-,4.90  0.08,2.38  0.01
+8,"Germinated,autoclaved and fermented food mixture",8.88  0.05,3.900.11,3.10  0.11
+9,CDP<0.05,-,0.78,0.45
+10,'t'-Value,3.28,,

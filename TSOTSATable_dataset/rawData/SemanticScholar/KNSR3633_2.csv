@@ -1,0 +1,25 @@
+,0,1,2,3,4
+0,,,,Number,Pearson
+1,,Food set for comparison (food name and food code ,Food set for comparison (food name and food code ,of fatty,correlation
+2,,,,acids,coefficient
+3,Cereals,Cereals,,,
+4,Between similar species,Between similar species,,,
+5,Rye flour (1-73),Rye flour (1-73),"Wheat,soft flour,first grade 1-10a",10,0.97
+6,,"Cooked paddy rice,well-milled rice (1-42d)","Rice, grains,well-milled rice: yield 90-92% (1-41d)",13,1.00
+7,Meats,,,,
+8,Between similar species,Between similar species,,,
+9,"Duck,domesticated 9-1)","Duck,domesticated 9-1)","Broiler, breast, with skin 9-47b)",11,0.97
+10,Fishes and shellfishes,Fishes and shellfishes,,,
+11,Between similar species,Between similar species,,,
+12,Crimson sea bream (8-109),Crimson sea bream (8-109),"Red sea bream,wild8-110a)",22,0.98
+13,Spiny lobster (8-218),Spiny lobster (8-218),"Tiger prawns,wild(8-219al)",20,0.97
+14,,"Southern tuna, fatty meat (8-151b)","Bluefin tuna, fatty meat (8-150b)",23,0.99
+15,Leafy vegetables,Leafy vegetables,,,
+16,Between similar species,Between similar species,,,
+17,,Chinese cabbage(12-101a),Komatsuna (12-32a),13,0.90
+18,,Japanese radish leaves (12-55a),Komatsuna(12-32a),13,0.96
+19,Spinach(12-117a),Spinach(12-117a),Komatsuna (12-32a),14,0.95
+20,Fruits,,,,
+21,Between similar species,Between similar species,,,
+22,,"Kumquats,raw fruit,whole fruit13-32)","Satsuma mandarines,raw fruit,common ripening type (13-17b)",13,0.95
+23,,"Lemons, whole fruit, without seeds (13-92a)","Satsuma mandarines, raw fruit, common ripening type (13-17b)",12,0.93

@@ -1,0 +1,8 @@
+,0,1,2,3
+0,Molecule name,Molecule ID,OD,Drug-likeness
+1,Scoparone,MOL001999,74.75,0.09
+2,Ferulic acid,MOL000360,39.56,0.06
+3,Soyasapogenol E,MOL003651,37.64,0.75
+4,Beta-sitosterol,MOL000358,36.91,0.75
+5,Luteolin,MOL000006,36.16,0.25
+6,Salicylic acid,MOL001801,32.13,0.03

@@ -1,0 +1,51 @@
+,0,1,2,3
+0,Fig.2 Associations between,,Smoking Status(p interaction=0.98),P for trend
+1,quintiles of the AHEI-2010 diet,Never smokers,"Q1ref,n=1,205",0.02
+2,score and the asthma symptom,,"Q2,n=1,291",0.02
+3,"score, stratified according to",,"Q2,n=1,291",
+4,"smoking status, body mass",,"Q3,n=1,237",
+5,index(BMIand ever asthma,,"Q4,n=1,263",
+6,"Models were adjusted for age,",,"Q5,n=1,324",
+7,"energy intake, physical activity,",Ex smokers,,
+8,smoking (excepted in models,,"Q1 (ref,n=923",0.0007
+9,"stratified by smoking status),",,"Q2,n=958",
+10,"educational level,marital status,",,"Q3,n=1,033",
+11,and having farmer parents. The,,"Q4,n=1,056",
+12,first quintile(Q1serves as ref,,"Q5,n=1,068",
+13,erence. Asthma symptom score,,"Q5,n=1,068",
+14,ranges from 0 to 5,Current smokers,Current smokers,
+15,,,"Q1(ref,n=207",0.05
+16,,,"Q2,n=179",
+17,,,"Q3,n=154",
+18,,,"Q4,n=107",
+19,,,"Q5,n=139",
+20,,,Body mass indexp interaction=0.14,
+21,,<20 kg/m2,"Q1 (ref,n=288",0.03
+22,,,"Q2,n=309",
+23,,,"Q3,n=312",
+24,,,"Q4,n=314",
+25,,,"Q5,n=362",
+26,,[20-25[kg/m2,,
+27,,,"Q1ref,n=1,354",0.03
+28,,,"Q2,n=1,408",
+29,,,"Q3,n=1,435",
+30,,,"Q4,n=1,468",
+31,,,"Q5n=1,570",
+32,, 25 kg/m2,,
+33,,,"Q1ref,n=942",0.09
+34,,,"Q2,n=881",
+35,,,"Q3,n=838",
+36,,,"Q4,n=792",
+37,,,"Q5,n=718",
+38,,Asthma ever(p interaction=0.22,Asthma ever(p interaction=0.22,
+39,,No,"Q1(ref,n=1,773",<0.0001
+40,,,"Q2,n=1,754",
+41,,,"Q3,n=1,774",
+42,,,"Q4,n=1,848",
+43,,,"Q5,n=1,836",
+44,,Yes,,0.05
+45,,,"Q1(ref,n=597",0.05
+46,,,"Q2,n=578",
+47,,,"Q3,n=614",
+48,,,"Q4,n=569",
+49,,,"Q5,n=541",

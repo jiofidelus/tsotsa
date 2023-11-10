@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,S. No.,Genera,,Median Abundance (%),Function
+1,,,CT4,DRC2,
+2,,Genera decreased in DRC2 group,,,
+3,1,Ophiocordycipitaceae unclassified,0.96,0.03,Animal pathogen
+4,2,Trichoderma,0.47,0.16,Plant pathogen
+5,3,Schizophyllum,0.11,0.01,Plant pathogen
+6,4,Aureobasidium,0.01,0,Human pathogen
+7,5,Trametes,0.01,0,Plant pathogen
+8,6,Xenomyrothecium,0.01,0,Plant pathogen
+9,,Genera increased in DRC2 group,,,
+10,7,Aspergillus,0.36,0.55,Human pathogen
+11,8,Curvularia,0.07,3.54,Plant/Human/Animal Pathogen
+12,9,Candida,0.01,1.51,Human pathogen
+13,10,Issatchenkia,0,0.01,Plant/Human pathogen
+14,11,Kluyveromyces,0,0.01,Non-pathogenic

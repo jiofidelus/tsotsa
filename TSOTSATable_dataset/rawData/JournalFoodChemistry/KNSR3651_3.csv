@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,Treatment,,Protein content,,In vitro protein digestibility,
+1,,Raw formulations,Extruded snacks,Amount supplied by one serving (40 g),Raw formulations,Extruded snacks
+2,RF,"7.38  0.00f, B","7.56  0.00f, A",3.02  0.00,"41.77  0.72e, B","84.36  0.46c, A"
+3,R9oC1o,"8.59  0.04e, B","9.94  0.00e, A",3.98  0.00,"43.76  0.36de, B","85.57  0.65bc, A"
+4,R8oC1sWo5,"11.28  0.04d, B","14.63  0.09d, A",5.85  0.04,"46.53  0.75 cd, B","86.23  1.67abc, A"
+5,R7oC2oW1o,"17.19  0.00c, B","19.06  0.09c, A",7.63  0.04,"49.19  0.36c, B","87.14  1.38ab, A"
+6,R6oC2sW15,"18.66  0.04b, B","20.81  0.00b, A",8.32  0.00,"53.83  1.03b, B","87.98  0.75ab, A"
+7,R5oC3oW20,"23.44  0.44a, B","27.22  0.04a, A",10.89  0.02,"57.52  2.09a, B","88.89  0.38a, A"

@@ -1,0 +1,13 @@
+,0,1,2,3
+0,Measured Variables,Treatment Effect (T),Storage Effect (S),Interaction(T  S
+1,pH value,NS (1),0.035,NS
+2,CIE L* (lightness),NS,NS,NS
+3,CIE a*redness,0.001,0.035,NS
+4,CIE b* (yellowness),NS,<0.001,NS
+5,(E),NS,NS,NS
+6,activity,0.001,<0.001,NS
+7,(discoloration),<0.001,<0.001,NS
+8,Peroxide value,0.033,<0.001,NS
+9,TBARS,<0.001,<0.001,NS
+10,Carbonyls,0.004,<0.001,0.016
+11,Thiols,NS,0.031,NS

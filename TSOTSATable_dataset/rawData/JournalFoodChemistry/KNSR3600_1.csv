@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,Sensors,Linear range (M),Sensitivity A M-1,Detection limit (M),Reference
+1,SiO2/C/MnPca,0.7915.74,17.31,0.02,"Rahim, Santos, Barros, Kubota, Landers, & Gushikem,2014)"
+2,Au/NiO/rGO,10-500,3.25,0.2 M,"Xu, ChenZhao,Ge,Lin Liao2020"
+3,AgNSb,0.18,580,0.031,"(Shivakumar,Nagashree,Manjappa,&Dharmaprakash,2017)"
+4,NiFe2O4,0.1-1000,7.9617,0.1236,"(Nithyayini,Harish, Nagashree,2019)"
+5,NiO/MWCNT/Cpc,1-100,3.53,0.25,"WanZheng,Zhou,&Song,2018)"
+6,CNSa/GCE,0.2400,28.91,0.015,"(Yallappa,Shivakumar,Nagashree,Dharmaprakash,Vinu,& Hegde,2018"
+7,GO-CS-AuNPs/GCE,0.918.9,0.2612,0.3,"Mo,et al.,2018)"
+8,(Ag/HNTd/MoS2,2425,2.9,0.7,"(Ghanei-Motlagh &Taher,2018)"
+9,Si/C/Al/SiPy*Cl,0.2280,410,0.01,This work

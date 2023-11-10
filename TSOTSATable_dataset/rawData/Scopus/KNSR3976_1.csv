@@ -1,0 +1,38 @@
+,0,1,2,3,4
+0,,Common Mental Disorders,,,
+1,Variable,Global,No,Yes (%),p-valuea
+2,,(%),(%),Yes (%),
+3,Sex,,,,
+4,Female,49.79,46.05,67.92,<0.001
+5,Male,50.21,53.95,32.08,
+6,Age(Years old),,,,
+7,12-13A,35.10,36.49,28.39,<0.001
+8,14-158,34.99,34.77,36.06,
+9,16-17C,29.90,28.74,35.55,
+10,Pattern of Socioeconomic Indicatorsb,,,,
+11,Tercile1,46.26,46.08,47.11,0.28
+12,Tercile2,35.04,35.32,33.68,
+13,Tercile 3,18.70,18.60,19.21,
+14,Type of school,,,,
+15,Public,83.61,83.70,83.19,0.40
+16,Private,16.39,16.30,16.81,
+17,Physical activity level,,,,
+18,Inactive (0 min/week)A,16.72,15.59,22.20,<0.001
+19,Insufficiently active 1 (< 150 min/week),14.19,14.21,14.13,
+20,Insufficiently active1 (<300 min/week),14.05,14.50,11.88,
+21,Active (300 min/week)B,55.04,55.71,51.79,
+22,Screen time (hours/day),,,,
+23,>3haday,58.15,59.41,51.97,<0.001
+24,3 h a day,41.85,40.59,48.03,
+25,Live with parents,,,,
+26,Both parentsA,57.27,58.48,51.39,<0.001
+27,Only with mother or only with fatherB,36.85,36.08,40.61,
+28,Neither parent,5.88,05.44,7.99,
+29,Breakfast consumption,,,,
+30,Does not consumeA,21.82,19.74,31.91,
+31,SometimesB,29.76,29.39,31.54,<0.001
+32,Almost every day/every dayc,48.42,50.87,36.55,
+33,Practice of having the meals with family,,,,
+34,Never or almost neverA,8.67,7.33,15.37,<0.001
+35,SometimesB,23.13,22.31,27.34,
+36,Almost every day/every dayc,68.21,70.36,57.39,

@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,,design/,,,,,,Calcium,,,,,,
+1,,Cohort,,,,Participants/,,intake,"OR,HR",,,Health,,
+2,First Author,Cohort,,Age Range/,Gender/,No.Case,Exposure,"levels,mg/",orRR,,Outcome,status of,,
+3,&(Year/Ref,name,Country,meanSD,female%,No.Case,assessment,day,(95%CI),Outcome definition,assessment,participants,Adjustments,score
+4,,,,,,,,,,T2D,,,,
+5,,,,,,,,,RR,(FBG7 mmol/L,,,,
+6,Villegas,Cohort,,40-70y,,,Validated,Q5 (649.6),(95%CI,on 2separate,,,"1,4-10,",
+7,2009/14,(6.9),China,50.4  8.6,F,"64,190/2270",FFQ,vs.Q1,"0.74(0.65,",occasions or an,NR,Women,"14,54",9
+8,2009/14,(6.9),,50.4  8.6,,,FFQ,(227.5),0.85),OGTT11.1 mmol/L,,,"14,54",
+9,,,,,,,,,0.85),and/or use of hypo-,,,,
+10,,,,,,,,,,glycemic medication),,,,
+11,,Cohort Black,,,,,,,,,,,,
+12,Van,Health Study,USA,21-69y,F,"41,186/1964",Validated,vs.Q1:,HR 1.04,validated by physi-,,Black,"15,17,24,25,",9
+13,Dam(2006)/37,1995-2003,USA,38.70.2,F,"41,186/1964",FFQ,(219),"0.88,1.24)",cians' diagnosis,,women,"32,35",9
+14,,8y),,,,,,,,,,,,
+15,,,,,,,,,RR,T2D,,,,
+16,Pit-,Cohort NHS,,,,,Validated,Q4:>1000,(95%CI,FBG7.8mmol/l,,,"1,4, 6-8,14,",
+17,tas(2006)/38,1980-2000,USA,45.9  0.3,F,"31,901/2465",FFQ,vs.Q1,"0.92 (0.76,",or randomly,NR,Women,"15,20,33,46",8
+18,tas(2006)/38,(20y),,,,,FFQ,500,1.12,measured plasma glu-,,,"15,20,33,46",
+19,,(20y),,,,,,,1.12,cose11.1mmol/1,,,,

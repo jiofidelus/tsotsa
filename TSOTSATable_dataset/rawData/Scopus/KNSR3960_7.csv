@@ -1,0 +1,21 @@
+,0,1,2,3
+0,,As concentration,Number of Excess,1Excess
+1,,,Cancer Deaths,Cancer Death
+2,,,"1,000,000 People",Number of People
+3,,50 ug/L(drinking water standard common in lower income countries),"12,000 Excess",1Excess
+4,,,Cancer Deaths,Cancer Death
+5,,,"1,000,000 People",81 People
+6,,l0 ug/L(WHO provisional drinking water guideline;drinking water standard common in higher income countries,"2,500 Excess",1Excess
+7,,,Cancer Deaths,Cancer Death
+8,,,"1,000,000 People",400 People
+9,,<10 ug/L(treatment performance using above ground adsorbent filters [290];below ground adsorbent filters [292];,"<2,500 Excess",<1Excess
+10,,,Cancer Deaths,Cancer Death
+11,,,"1,000,000 People",400 People
+12,,"5 g/L (treatment performance using an optimized pH adjustment, oxidation, coagulation, and filtration in a batch reactor","1, 200 Excess",1Excess
+13,[288]),,Cancer Deaths,Cancer Death
+14,,,"1,000,000 People",810 People
+15,,<5 ug/L(treatment performance using an electrocoagulation batch reactor [289]),"<1,200 Excess",<1Excess
+16,,,Cancer Deaths,Cancer Death
+17,,,"1,000,000 People",810 People
+18,,0.004 g/L(Public Health Goal Set by the California Environmental Protection Agency [8]),1.0 Excess,1Excess
+19,,,Cancer Death,Cancer Death

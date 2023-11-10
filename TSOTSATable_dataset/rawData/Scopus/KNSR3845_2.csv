@@ -1,0 +1,36 @@
+,0,1,2,3
+0,Items,Baseline,LPD under dietitian's instruction,LPD with LPSF under
+1,,,12weeks),dietitians instruction
+2,,,,(12weeks)
+3,Nutrient intake,,,
+4,DPI (g/kg/day),0.880.20,0.870.19,"0.68  0.14a*, b*"
+5,DEI (kcal/kg/day),28.0  5.8,26.9  5.0,28.6  5.4
+6,Phosphorus intake (mg/day),917225,976351,805171b**
+7,Potassium intake (mg/day),1983697,1952  636,1831  675
+8,nPNA (g/kg/day),0.99 0.18,0.970.17,"0.870.19a*, b*"
+9,HBPI(g/kg/day),0.370.19,0.37 0.12,0.390.11
+10,Proportion of HBPI,42%,43%,57%
+11,Anthropometrics data,,,
+12,Weight (kg),66.8  10.6,66.6  10.4,66.7  10.1
+13,BMI (kg/m2),24.4  3.78,24.43.76,24.5  3.53
+14,Waist-hip ratio,0.89  0.06,0.880.07,0.870.07
+15,arm circumference (cm),27.53.39,26.82.56,27.32.76
+16,triceps skinfold(cm),1.650.85,1.510.75,1.61 0.85
+17,arm muscle circumference(cm),21.45.15,22.1  2.87,22.3  2.36
+18,Grip strength (left)(kg),29.9  7.22,30.1 8.86,29.8  8.35
+19,Grip strength (right)(kg),31.4  7.00,30.8  8.55,31.6  8.53
+20,Body muscle (kg),47.1  7.86,47.3  8.18,46.9  8.37
+21,Body fat (kg),17.1  8.36,17.08.36,17.1  8.22
+22,Laboratory data,,,
+23,Serum creatinine (mmol/L),165  64.5,168 71.8,17186
+24,Serum phosphorus (mmol/L),1.240.19,1.240.16,1.240.18
+25,Serum potassium(mmol/L),4.520.49,4.49  0.45,4.480.43
+26,Serum albumin (g/L),42.2  3.46,41.43.49,41.03.88
+27,TCHO (mmol/L),4.46  1.02,4.71  0.86,4.68  0.87
+28,TG (mmol/L),2.261.58,2.451.55,2.14  0.96
+29,HDL (mmol/L),1.09  0.33,1.120.40,1.150.34
+30,LDL (mmol/L),2.48  0.83,2.68  0.72,2.71  0.51
+31,eGFR (ml/min/1.73m2),40.3  13.8,41.517.5,42.0  18.0
+32,Urine protein (g/24h),1.37 1.64,1.56 1.84,1.311.40
+33,Urine phosphorus (mmol/24 h),19.6  6.54,17.7  6.48,18.25.00
+34,Urine potassium (mmol/24 h),53.8  21.4,48.4  14.9,44.9  19.0a**

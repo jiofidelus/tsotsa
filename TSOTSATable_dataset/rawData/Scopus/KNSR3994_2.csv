@@ -1,0 +1,7 @@
+,0,1,2,3,4
+0,,WaSt Original case-definition,WaSt Proposed case-definition,Difference between,Prevalence ratio
+1,,,,proportions,
+2,,% (n) (95% CI),% (n) (95% CI),% (95% CI),PR (95% CI)
+3,Sex,,,,
+4,Boys (4888),1.55% (75(1.24-1.95,2.60% (124) (2.18-3.10),1.00% (0.441.56),1.65 (1.252.20)
+5,Girls (4966),1.09% (54)(0.84-1.43),2.96% (143) (2.523.48),1.79% (1.252.34),2.64 (1.943.61)

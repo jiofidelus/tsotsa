@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6
+0,,Functional properties,Functional properties,Functional properties,,,
+1,Variables,WE,OE,GC,OAC,WAC,FMC
+2,Protein content,,,,,,
+3,Polar amino acid,,,,,,
+4,Acidic amino acid-,,,,,,
+5,Basic amino acid+,+++,+++,+++,++,+,++
+6, Charged amino acid,,,,,,
+7,E Polar uncharged,,,,,,
+8,amino acid,,,,,,
+9, Non-polar amino,,,,,+,
+10,acid,,,,,,
+11, Aromatic amino acid,,,,,,
+12,Protein,+,+++,++,,++,+++
+13,Fat,,,,,,
+14,SAT+,,,,,,
+15,UFAs+,,,,,,
+16,MUFAs,+++,+++,+++,+,,+
+17,PUFAs,,,,,,

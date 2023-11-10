@@ -1,0 +1,24 @@
+,0,1,2,3
+0,Application,ML methods,Important outcomes,References
+1,Milk,SVM,(iPresence and the level of antibiot-,Gutierrez et al.[183]
+2,,,ics concentration in the cow milk,
+3,,,was determined by using the SVM,
+4,,,classifiers with high accuracy rate,
+5,,,of greater than 83% and greater,
+6,,,sensitivity compared to the typical,
+7,,,metrics,
+8,Salmon,TreeBagger,(iThe established model was able to,Xu& Sun[184]
+9,,,classify the normal and freezer burnt,
+10,,,categories with high accuracy where,
+11,,,the correct classification rate yielded,
+12,,,0.914 for validation and 0.978 in,
+13,,,cross validation,
+14,Wine,"SVM,RF, MLP",(i The comparison among the,Shaw et al.[185]
+15,,,three algorithms were done in the,
+16,,,evaluation of wine quality and the,
+17,,,best result was obtained by the RF,
+18,,,method with an average accuracy of,
+19,,,81.96% meanwhile others delivered,
+20,,,a low accuracy late.This indicates,
+21,,,the RF algorithm can be used to,
+22,,,evaluate the quality of the wine,

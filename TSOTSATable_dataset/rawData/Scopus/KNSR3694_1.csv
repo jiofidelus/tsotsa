@@ -1,0 +1,9 @@
+,0,1,2,3
+0,Treatment,,Chemical,Application
+1,Control,Water,,Water
+2,Ch,Chitosan,,1%
+3,Ca,Calcium chloride,,3%
+4,SA,Salicylic acid,,2 mM
+5,Ch+ SA,Chitosan + Salicylic acid,Chitosan + Salicylic acid,"1:1,v/v"
+6,Ch+Ca,Chitosan+ Calcium chloride,Chitosan+ Calcium chloride,"1:1,v/v"
+7,Ch+Ca+SA,Chitosan+Calcium chloride+ Salicylic acid,Chitosan+Calcium chloride+ Salicylic acid,"1:1:1,v/v/v"

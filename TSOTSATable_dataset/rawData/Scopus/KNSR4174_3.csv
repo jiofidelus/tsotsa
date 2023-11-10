@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6
+0,Outcome,Trials,Participant,Statistical method,Effect estimate,Heterogene-,P value
+1,,,,,,ity (),
+2,Body weight,10,1095,"MD (IV,random,95%CI)","4.43 [6.23, 2.63]",93%,<0.00001
+3,Waist circumference,8,988,"MD (IV,random,95%CI)","2.81[4.37,-1.26]",88%,0.0004
+4,Hip circumference,5,841,"MD (IV, random, 95%CI)","-3.01 [-4.24,-1.77]",81%,0.00001
+5,Body fat,5,723,"MD (IV, random, 95%CI)","-1.19 [-1.75,-0.63]",46%,<0.0001
+6,BMI,3,147,"MD (IV,fixed,95%CI)","1.69 [2.16,-1.21]",25%,<0.00001
+7,Fat mass,2,290,"MD (IV, fixed, 95%CI)","2.29 [3.12, - 1.46]",0%,<0.00001
+8,Fat-free mass,2,479,"MD (IV, random, 95%CI)","0.67 [ 1.76, 0.41]",93%,0.22
+9,Lean body mass,4,362,"MD (IV, random,95%CI)","-2.15 [-3.66,-0.65]",91%,0.005
+10,Total cholesterol,2,571,"MD (IV,fixed,95%CI)","0.05 [0.17, 0.07]",0%,0.41
+11,LDL-C,3,517,"MD (IV, random, 95%CI)","0.24 [0.52, 0.05]",65%,0.10
+12,Glucose,3,143,"MD (IV, random, 95%CI)","1.88 [ 14.66, 10.90]",82%,0.77
+13,Insulin,4,215,"MD (IV, fixed, 95%CI)"," 1.02 [2.71, 0.67]",18%,0.24
+14,Leptin,2,117,"MD (IV, random, 95%CI)","9.47 [22.09,3.14]",51%,0.14
+15,CRP,4,240,"MD (IV, fixed, 95%CI)","1.83 [2.74, -.0.91]",12%,<0.0001
+16,SBP,3,451,"MD (IV, random, 95%CI)","12.12 [18.97, 5.27]",86%,0.0005

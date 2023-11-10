@@ -1,0 +1,34 @@
+,0,1,2
+0,Parameter,Old tablesl,New tables?
+1,Number of foods,~800,~1700
+2,Edible portion (%),Yes,Yes
+3,Common food measure (g),Some,Yes
+4,Moisture (g),Yes,Yes
+5,Protein (g),Yes,Yes
+6,Amino acids (mg),No,Yes(mg/g N
+7,Fat (g),Yes,Yes
+8,Energy (kJ),Yes,Yes
+9,Fatty acids (g),Some,Yes
+10,Cholesterol (mg),Some,Yes
+11,Carbohydrate (g),Yes (total),Yes
+12,Starch (g),No,Yes
+13,Sugars (g),No,Yes
+14,Dietary fibre (g),No,Yes
+15,Organic acids g),No,Yes
+16,Vitamin C (mg),Yes,Yes
+17,Retinol equivalents (g),Yes,Yes
+18,Retinol (g),Yes,Yes
+19,-carotene equivalents (g),No,Yes
+20,Thiamin (mg),Yes,Yes
+21,Riboflavin (mg),Yes,Yes
+22,Niacin (mg),Yes,Yes
+23,Niacin equivalents (mg),Yes,Yes
+24,Sodium (mg),Yes,Yes
+25,Potassium (mg),Yes,Yes
+26,Calcium (mg),Yes,Yes
+27,Iron (mg),Yes,Yes
+28,Zinc (mg),No,Yes
+29,Magnesium (mg),No,Yes
+30,Copper (mg),No,Yes
+31,Manganese (mg),No,Yes
+32,Phosphorus (mg),Yes,Yes

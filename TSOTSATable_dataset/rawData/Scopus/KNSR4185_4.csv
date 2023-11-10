@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6,7,8
+0,Pre-pregnancy(n=337),,,,,Third trimester of pregnancy (n=337),Third trimester of pregnancy (n=337),Third trimester of pregnancy (n=337),
+1,,First tertile,Second tertile,Third tertile,Pvalue',First tertile,Second tertile,Third tertile,Pvalue'
+2,"grain scorea.b,c",0.92 (0.25),1.07 (0.24),1.15 (0.23),<0.001,0.66 (0.23),0.79 (0.22),0.98 (0.26),<0.001
+3,"vegetable scorea.b,c",0.65 (0.30),0.91 (0.29),1.12 (0.29),<0.001,0.55 (0.38),0.78 (0.33),1.04 (0.32),<0.001
+4,"meet scorea,b,c",0.21 (0.28),0.45 (0.33),0.76 (0.38),<0.001,0.51 (0.38),0.88 (0.39),1.11 (0.40),<0.001
+5,"dairy scorea,b.c",0.71 (0.53),1.01 (0.48),1.40 (0.43),<0.001,0.72 (0.51),1.18 (0.42),1.64 (0.39),<0.001
+6,fruit scorea.c,1.76 (0.52),1.98 (0.13),2.00 (0.00),<0.001,1.13 (0.68),1.84 (0.35),1.96 (0.17),<0.001

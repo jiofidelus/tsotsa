@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6
+0,Meat product,Sample name/,Declared relative content of,Declared relative content of,Additives,Processing type,Processing type
+1,,number,pork (wt%),beef (wt%),,,
+2,Mix of minced raw,M1,100,0,,"Grounding ( 3.5 mm, sieve), mixing","Grounding ( 3.5 mm, sieve), mixing"
+3,meats,M2,90,30,,,
+4,,M3,70,30,,,
+5,,M4,50,50,,,
+6,,M5,30,70,,,
+7,,M6,10,90,,,
+8,,M7,0,100,,,
+9,Sausages,S1,100,0,"salt, pepper,",,"Grounding ( 3.5 mm, sieve), mixing, stuffing into"
+10,,S2,90,30,garlic,"casing, cold smoking (25 C, 4 h)","casing, cold smoking (25 C, 4 h)"
+11,,S3,70,30,,,
+12,,S4,50,50,,,
+13,,S5,30,70,,,
+14,,S6,10,90,,,
+15,,S7,0,100,,,
+16,Raw burgers,Burl,100,0,"salt, pepper","Grounding ( 5.0 mm sieve), mixing","Grounding ( 5.0 mm sieve), mixing"
+17,,Bur2,90,10,,,
+18,,Bur3,75,50,,,
+19,,Bur4,50,50,,,
+20,,Bur5,25,75,,,
+21,,Bur6,10,90,,,
+22,,FBur1,0,100,,,
+23,Fried burgers,FBur1,100,0,"salt, pepper",,Frying on the day of analysis in hot oil (190 C) for 7
+24,,FBur2,90,10,"salt, pepper",min,
+25,,FBur4,75,50,,,
+26,,FBur4,50,50,,,
+27,,FBur5,25,75,,,
+28,,FBur6,10,90,,,
+29,,FBur7,0,100,,,

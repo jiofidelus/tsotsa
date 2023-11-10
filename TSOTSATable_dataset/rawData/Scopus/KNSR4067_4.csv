@@ -1,0 +1,17 @@
+,0,1,2,3
+0,,HRa(95% CI),HRb (95% CI,P for trendc
+1,,per 5-unit increment,Q5 vs. Q1 (Ref.),
+2,Overall,0.81 (0.68-0.96)*,"0.45 (0.27, 0.76)**",0.007
+3,Excluding one item with a positive punctuation in the PaleoDiet score,Excluding one item with a positive punctuation in the PaleoDiet score,,
+4,PaleoDiet score without eggs,0.81 (0.68-0.97)*,0.41 (0.240.70)**,0.008
+5,PaleoDiet score without vegetables,0.82 (0.670.99)*,0.62 (0.36-1.09),0.080
+6,PaleoDiet score without fruits,0.83 (0.691.00)*,0.67 (0.39-1.15,0.104
+7,PaleoDiet score without nuts,0.79 (0.66-0.96)*,0.55 (0.31-0.96)*,0.032
+8,PaleoDiet score without fish,0.81 (0.67-0.98)*,0.54 (0.320.91)*,0.011
+9,PaleoDiet score without unprocessed meats,0.80 (0.660.69)*,0.47 (0.280.79)**,0.009
+10,Excluding one item with a negative punctuation in the PaleoDiet score,Excluding one item with a negative punctuation in the PaleoDiet score,,
+11,PaleoDiet score without cereals and grains,0.76 (0.630.91)**,0.40 (0.230.68)**,0.001
+12,PaleoDiet score without dairy products,0.82 (0.680.98)*,0.53 (0.310.90)*,0.030
+13,PaleoDiet score without legumes,0.81 (0.680.96)*,0.47 (0.280.78)**,0.011
+14,PaleoDiet score without ultra-processed foods,0.85 (0.71-1.02),0.64 (0.38-1.08),0.131
+15,PaleoDiet score without culinary ingredients,0.78 (0.640.94)**,0.53 (0.31-0.90)*,0.010

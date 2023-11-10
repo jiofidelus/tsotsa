@@ -1,0 +1,22 @@
+,0,1,2
+0,Group,Composition,Curing regimen
+1,Gcw,Powder(75wt.%):P(MMApre-,Thermo-polymerized at
+2,,polymeric powder with 2wt.%,74C for 2 h followed by
+3,,DBPO.Liquid(25wt.%)MMA+,100'Cfor1 h in water bath
+4,,10%TCDDMDA.,(shortpolymerization
+5,,,cycle).Resultant polymer:
+6,,,P(MMA).
+7,GTW,Powder(60wt.%):P(MMA,Thermo-polymerized at
+8,,polymeric powder with 2 wt.%,70C for2h followed by
+9,,DBPO.Liquid(20 wt.%):MMA,short polymerization cycle
+10,,+ 10%TCDDMDA with4 mol%,in water bath.
+11,,BFDE.To the powder-liquid,Resultant copolymer:
+12,,"mix,20 wt.% DMTOSU was",P(MMA-Co-DMTOSU)W
+13,,added.,
+14,GTA,Powder(60 wt.%):P(MMA),Thermo-polymerized at
+15,,polymeric powder with 2wt.%,60C for45 min followed
+16,,DBPO.Liquid(20wt.%):MMA,by 130Cfor20 min in
+17,,+10%TCDDMDA with 4 mol%,digital vertical autoclave
+18,,BFDE and 4 mol%DTBP.To the,Resultant copolymer:
+19,,"powder-liquid mix,20 wt.%",P(MMA-Co-DMTOSU)A
+20,,DMTOSU was added.,

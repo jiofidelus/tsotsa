@@ -1,0 +1,38 @@
+,0,1,2
+0,ID/Tagname,,
+1,Bioactive constituents,Bioactive constituents,
+2,POLYPHENT(mg),total polyphenolics,mg
+3,Flavonoids,,
+4,ANTCYAN(mcg),"anthocyanidin,total",mcg
+5,FLAVD(mcg),"flavonoids, total",mcg
+6,PAPOLY(mg),proanthocyanidin polymers (>10mers),mg
+7,Flavanols/flavans,,
+8,CATEC(mcg),catechin,mcg
+9,CATECT(mcg),"catechins, total",mcg
+10,EPICATEC(mcg),epicatechin,mcg
+11,PROCYA(mcg),"procyanidins, total",mcg
+12,Flavanones,,
+13,HESPD(mcg),hesperidin,mcg
+14,NARING(mcg),naringenin,mcg
+15,Flavones,,
+16,LUTEOL(mcg),luteolin,mcg
+17,Flavonols,,
+18,FLAVO(mg),"flavonols, total",mg
+19,ISOHA(mcg),isohamnetin,mcg
+20,KAEMF(mcg),kaempferol,mcg
+21,MYRIC(mcg),myricetin,mg
+22,QUERCE(mcg),quercetin,mcg
+23,RUTIN(mcg),rutin,mcg
+24,TAN(mg),"tannins, total",mg
+25,PROANTCYA(mg),proanthocyanidins (condensed tannins),mg
+26,Phenolic acids,,
+27,CAFFAC(mg),caffeic acid,mg
+28,CHLRAC(mg),chlorogenic acid,mg
+29,CINAC(mg),cinnamic acids,mg
+30,CITAC(mg),citric acid,mg
+31,ELLAC(mg),ellagic acid,mg
+32,FERAC(mg),ferulic acid,mg
+33,GALAAC(mg),galacturonic acid,mg
+34,GALLAC(mg),gallic acid,mg
+35,PCHOUAC(mg),p-coumaric acid,mg
+36,SINPAC(mg),sinapic acid,mg

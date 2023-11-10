@@ -1,0 +1,22 @@
+,0,1,2
+0,Parameters,ODM,MDM
+1,Moisture(g/100 g),4.61a 0.25,4.02a0.01
+2,Water activity,0.26a0.21,0.310.10
+3,Total solids (g/100 g),95.20a1.05,95.90a 1.55
+4,Protein (g/100 g),25.12a0.31,9.56b 0.35
+5,Fat (g/100 g),1.300.25,2.14b0.15
+6,Ash (g/100 g),7.12a0.22,6.08b0.17
+7,Crude fibre (g/100 g),1.180.15,0.29b 0.10
+8,Total carbohydrate(g/100 g,60.58a 0.45,77.91b0.54
+9,Total sugars (g/100 g),30.00a  1.88,50.25b  2.50
+10,Energy value (kcal/100 g),354.50a  1.9,369.14b  1.0
+11,Dietary fiber (g/100 g),3.10a 0.66,0.67b0.37
+12,Amylose (g/100 g),15.31a 0.25,5.27b  0.36
+13,Total starch (g/100 g),25a2.0,10b1.8
+14,RS1(g/100 g),4.38a  1.5,0.50b 1.75
+15,HII,15.31a0.15,37.32b  0.08
+16,pGI,48.12a1.1,60.20b 1.50
+17,GLI,7.500.11,9.78b0.16
+18,Hardness (N),0.3111.8,0.654b 1.5
+19,Adhesiveness(N, 0.642a0.41, 0.550b  0.22
+20,Cohesivenessl,0.724a0.66,0.789b0.82

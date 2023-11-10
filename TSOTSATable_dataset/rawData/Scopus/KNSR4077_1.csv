@@ -1,0 +1,13 @@
+,0,1,2,3
+0,Drug,Source,Target Disease,Reference
+1,Metformin,Galega officinalis,Anti-diabetic,[38]
+2,Galantamine,Galanthus woronowi,Alzheimer's disease,[39]
+3,Artemisinin,Artemisia annua,Malignant cerebral malaria,[36]
+4,Paclitaxel,Taxus brevifolia,Antimitotic agent-Various cancer,[40]
+5,Calanolide A,"Calophyllum lanigerum,",Type-1 HIV,[35]
+6,Crude extract,Sarcotheca griffithii,Cough,[41]
+7,Crude extract,Piper retrofractum,"Fever, hypotension, abdominal pain","[42,43]"
+8,Crude extract,Piper retrofractum,anthelmintic,"[42,43]"
+9,phaeophytins),Talinum triangulare,"Cuts, wound, scabies and peptic ulcer","[44,45]"
+10,sesquiterpenes),Amorpha fruticosa,"Antibacterial,insecticidal,cytotoxic",[46-48]
+11,Crude extract,Alpinia officinarum,Anti-microbial and anti-inflammatory,[49]

@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,ImageJ soil porosity,n,No traffic,Low tyre,Conventional
+1,%0-100mm,,,pressure,tyre pressure
+2,Deep,4,22.72a,8.08b,6.50b
+3,Shallow,4,10.5gb,8.64b,7.23b
+4,Zero,4,10.77ab,8.41b,8.49b
+5,P<0.01,,,,
+6,ImageJ Soil porosity,,,,
+7,% 100-200 mm,,,,
+8,Deep,4,9.02,6.16,3.96
+9,Shallow,4,4.06,6.44,5.32
+10,Zero,4,2.895,6.44,5.32
+11,P<0.487,,,,

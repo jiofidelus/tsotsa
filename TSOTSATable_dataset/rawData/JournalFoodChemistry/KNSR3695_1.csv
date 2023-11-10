@@ -1,0 +1,28 @@
+,0,1
+0,Data needed,Values for individual AAs per g protein
+1,,Protein as g/100g EP
+2,Formula,Individual AA(mg/100 g EP)=individual AA(mg/g
+3,,protein proteing/100 g EP
+4,Example,"In corn,threonine (THR=30.4 mg/g protein;"
+5,,protein=6.9g/100g EP
+6,,Calculation:
+7,,30.4mg/g protein 6.9 g/100 g EP=210 mg THR/
+8,,100 g EP
+9,,Note:
+10,,This procedure is repeated for all amino acids in the
+11,,"food,using the values for individual AA to build the"
+12,,sum of AA
+13,Approximation,If protein content is not given it is possible to
+14,,estimate this.One option is to sum up all
+15,,proteinogenic amino acids (i.e. the protein building
+16,,"AA,if analysed.Another option is to average"
+17,,different total protein contents for the same food
+18,,from other sources and use this estimated protein
+19,,content to convert the data to per 100 g EP.These
+20,,approximations will lower the quality of the data
+21,Suggestion,"When AA data are reported per 100 g protein,the"
+22,,protein content per 100 g EP should always be
+23,,reported
+24,Note for data in DM,"If data are presented on a DM basis,the preliminary"
+25,,step is to convert the values on DM basis to per
+26,,100g EP

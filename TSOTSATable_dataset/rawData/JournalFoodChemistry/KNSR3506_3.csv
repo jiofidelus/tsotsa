@@ -1,0 +1,29 @@
+,0,1,2,3,4
+0,APPLICATION,ANALYTICAL,BEST,REMARKS,REFERENCE
+1,,TECHNIQUE,CHEMOMETRIC,,
+2,,,MODEL,,
+3,,,,number of selected variables than GA/LDA but,
+4,,,,presented more classification errors.,
+5,Detection of individual adulterants and,ATR-FTIR,iPLS-DA,Variable selection methods improved the,"Miaw, Sena, Souza"
+6,their blends in grape nectars,,VIP-PLS-DA,performance parameters for the SIMCA and PLS-DA,"Ruisanchez, and Callao"
+7,,,GA-PLS-DA,methods when they were used to predict samples,(2018)
+8,,,,with only one adulterant.Only PLS-DA coupled with,
+9,,,,iPLS was able to classify samples with blends of two,
+10,,,,adulterants,
+11,Geographical and varietal classification,UVVis spectroscopy,SPA-LDA,SPA-LDA provided significantly better results for tea,"Diniz, Barbosa, Milanez"
+12,of tea infusions,,,classification of the five studied classes (Argentinean,"Pistonesi, and Araujo"
+13,,,,green tea; Brazilian green tea; Argentinean black tea;,2016
+14,,,,Brazilian black tea; and Sri Lankan black tea).,
+15,Classification of the types of adulterants,Thin layer,PLS-DA-loading,VIP and PLS loading weight were used to extract the,"Sereshti, Poursorkh,"
+16,of saffron,chromatography-image,weight,significant variables in the PLS-DA model being,"Aliakbarzadeh,and Zarre"
+17,,analysis (TLC-IA),VIP-PLS-DA,successful methods for differentiating between,(2018
+18,,,,authentic saffron and adulterated saffron products,
+19,Classification of the growth stage of,Vis-NIR spectroscopy,SPA-SVM,The SPA-SVM model exhibited excellent,Liu et al.2020)
+20,potato crops,,,performance and can be used to classify the growth,
+21,,,,stages of potato crops accurately.,
+22,"Classification of starches, homogenized","NIR,UV-Vis and MIR",REDDA-PLS-DA,The stepwise REDDA classification models,"Cappozzo,Duponchel"
+23,"meat,and olive oils","spectroscopy,",REDDA-SVM,"simultaneously performed variable selection,","Greselin,&Murphy"
+24,,respectively,,"outliers, and label noise detection in three agri-food",(2021
+25,,,,"spectroscopic studies, achieving excellent predictive",
+26,,,,accuracy by using a low number of selected,
+27,,,,variables.,

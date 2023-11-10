@@ -1,0 +1,36 @@
+,0,1,2,3,4,5
+0,Type *,Genus,Foods,Clinical Picture,Molecular Mechanisms,References
+1,,,,Extremely potent,effects: binds N7 of,
+2,Aflatoxin Bi,,"Nuts, peanuts,","carcinogen, strongly",guanine;GC to,"[191,194,"
+3,(AFB),Aspergillus,maize,linked with liver cancer;,TA transversions;,195]
+4,(AFB),,maize,immunosuppression;,"(- transcription,",195]
+5,,,,stunted growth,(+) oxidative stress,
+6,,,,Nephrotoxic effects in all,(-) Phe metabolism;,
+7,Ochratoxin A,,"Cereals, coffee,","damage, immune",production;,
+8,(OTA),Aspergillus,"figs, raisins,","suppression, and",(-) tumor-suppressor,"[195,196]"
+9,(OTA),,pork kidneys,teratogenic effects,gene dmrt-1 in mice;,
+10,,,,in animals,(+) lipid peroxidation,
+11,,,,"Reduced fertility,",ZEA-estrogen receptor,
+12,,,,stillbirths in females;,complex is translocated,
+13,Zearalenone,Fusarium,"Maize, corn,",testicular atrophy and,into the nucleus which,"[195,197]"
+14,(ZEA),Fusarium,other cereals,reduced spermatogenesis,regulates the transcription,"[195,197]"
+15,,,,hepatoxic effects,of many genes,
+16,,,"Maize,rice,",Suppression of the,(-) Sphingolipid synthesis;,
+17,Fumonisins,Fusarium,"beans, beer,","pulmonary edema,",(+) ROS generation;,"[191,195]"
+18,,,soybeans,esophageal cancer,(+) cytotoxicity,
+19,,,,Alimentary toxic aleukia,,
+20,,"Fusarium,","Grains: rice,","(ATA): fever, diarrhea,",(-) Translation;,
+21,,"Cephalosporium,","barley, oats,","nausea, vomiting,",(-) mitochondrial ETC;,"[191,196,"
+22,Trichothecenes,"Myrothecium,","maize, eggs,","agranulocytosis,necrotic",(+) lipid peroxidation and,"198,199]"
+23,,"Stachybotrys,","milk, meat","angina,bleeding; reduced",membrane remodeling:,"198,199]"
+24,,Trichothecium,"milk, meat",serum levels of WBC and,(+)apoptosis,
+25,,,,Ig in mice,,
+26,,,"Apples, pears,",Neurotoxic and,,
+27,Patulin,Penicillium,other fruits,immunotoxic effects,As yet unknown,[195]
+28,,,other fruits,reported in animals,,
+29,,,,Nephrotoxic effects in al,(-) DNA and RNA,
+30,,"Penicillium,","Cereals, Italian",species tested;,synthesis; (-) microtubules,
+31,Citrinin,"Aspergillus,",sausages,reproductive toxicity and,assembly; (-) HSP90,[191]
+32,,Monascus,sausages,chromosome aberrations,multichaperone complex;,
+33,,,,in mice,(+) ROS generation,
+34,Ergot alkaloids,Claviceps,and grains,"ataxia, gangrene, abortion",As yet unknown,"[191,195]"

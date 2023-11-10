@@ -1,0 +1,41 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Study,Species,Probiotic,Model,Probiotic conc.,Duration,Outcome measures,Pro,Crt,Effect
+1,,,,,(CFU/day),of Tx,,,,
+2,,,,,,(Days),,,,
+3,Shamsipour et al.,Wistar rats,"B.bifidum,L. plan",AD (intrahippocam-,2.0109,56,"MWM, histology.",5,5,Improved MWM
+4,[79],,tarum,pal injection of,,,biomarkers,,,"results, reduced A"
+5,,,,A1-42),,,,,,"plaques in brain,"
+6,,,,,,,,,,increased ACh in rat
+7,,,,,,,,,,brain
+8,Song et al. [80],3xTg-AD mice,S. cerevisiae (Se-,3xTg),ad libitum feeding,84,"histology, Biomark-",12,12,"Reduced A plaques,"
+9,,,enriched yeast),3xTg),,,ers,,,and apoptotic state
+10,Sun et al. [81],APP/PS1 mice,C. butyricum,AD (Transgenic;,2108,28,"MWM,Object Rec-",10,10,Prevents cognitive
+11,,,,APP/PS1),,,"ognition Test, His-",,,"impairment, A"
+12,,,,,,,"tology, Biomarkers,",,,"deposits, micro-"
+13,,,,,,,Gut microbiome,,,"glia activation,"
+14,,,,,,,analysis,,,and production of
+15,,,,,,,,,,pro-inflammatory
+16,,,,,,,,,,cytokines
+17,Teglas et al. [82],APP/PS1 mice,Framelim (B.,AD (Transgenic;,120 mg/day,140,"Microbiome analysis,6",,6,Gut microbiome com-
+18,,,"longum, L. acido-",APP/PS1),,,Biomarkers,,,position altered with
+19,,,philus),,,,,,,changes to oxidative
+20,,,,,,,,,,stress biomarkers
+21,Wang (Feng) et al.,APP/PS1 mice,B. Bifidum,AD (Transgenic;,1109,154,"MWM,Open field",10,10,Slight improvement to
+22,[83],APP/PS1 mice,L. plantarum,APP/PS1),1109,154,"test, NOR, Gut",10,10,cognitive test perfor-
+23,,APP/PS1 mice,"B. bifidum, L. plan-",AD (Transgenic;,5108,154,microbiome,10,10,mance and improved
+24,,,tarum,APP/PS1),,,analysis,,,gut microbiome
+25,,,,AD (Transgenic;,,,"MWM, Open field",,,species and beta
+26,,,,APP/PS1),,,"test, NOR, Gut",,,"diversity, reversing"
+27,,,,,,,microbiome,,,gut dysbiosis
+28,,,,,,,analysis,,,
+29,,,,,,,"MWM,Open field",,,
+30,,,,,,,"test, NOR, Gut",,,
+31,,,,,,,microbiome,,,
+32,,,,,,,analysis,,,
+33,Wang (Qiu-Jun)et al.APP/PS1 mice,Wang (Qiu-Jun)et al.APP/PS1 mice,L. plantarum,AD (Transgenic;,2.5 108,84,"MWM,Open",15,15,Improved cognitive
+34,[84],,,APP/PS1),,,"fieled test, NOR,",,,"tests, decreased"
+35,,,,,,,gut microbiome,,,"plaque deposition,"
+36,,,,,,,analysis,,, and neuroinflam-
+37,,,,,,,,,,mation increased
+38,,,,,,,,,,neural integrity and
+39,,,,,,,,,,plasticity

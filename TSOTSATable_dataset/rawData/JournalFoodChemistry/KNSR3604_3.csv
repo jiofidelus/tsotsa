@@ -1,0 +1,22 @@
+,0,1,2,3,4,5
+0,Food Group,Main Composition,Fatty Acids,Amino Acid,Carbohydrates,
+1,,,,,'2,Organic Acids
+2,Cereals,159,139,151,132,-
+3,Potatoes and starches,62,32,33,53,22
+4,Sugars and sweeteners,27,1,0,23,-
+5,Pulses,93,81,89,67,4
+6,Nuts and seeds,43,38,42,34,-
+7,Vegetables,362,264,244,165,28
+8,Fruits,174,102,107,75,12
+9,Mushrooms,49,43,42,44,3
+10,Algae,419,36,36,16,3
+11,"Fish, mollusks and crustaceans",419,320,418,8,
+12,Meat,291,233,290,6,1
+13,Eggs,20,16,56,18,-
+14,Milk and milk products,58,51,56,44,18
+15,Fats and oils,31,5,31,3,
+16,Confectioneries,141,122,126,121,2
+17,Beverages,58,8,18,16,2
+18,Seasonings and spices,129,63,75,29,1
+19,Prepared foods,22,4,4,,=
+20,Total,2191,1558,1782,854,96

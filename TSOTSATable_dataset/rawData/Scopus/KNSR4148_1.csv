@@ -1,0 +1,24 @@
+,0,1,2,3,4,5
+0,,Meadow,Concentrate4,Concentrate4,,
+1,Specification,hay3,wheat,barley,soybean,soybean
+2,,hay3,starch,meal,meal,meal
+3,"DM,% BD",88.41,87.57,89.73,87.28,87.28
+4,CP,9.50,9.94,41.81,,0.90
+5,Crude fibre,27.29,2.87,4.34,,
+6,Crude fat,3.40,2.50,2.25,,0.09
+7,Ash,4.85,1.84,6.16,,0.12
+8,NDF,59.17,18.02,18.81,1,
+9,ADF,32.08,4.61,6.44,1,
+10,ADL,4.47,1.14,1.49,,
+11,Specification,,Chemical composition of the BD,Chemical composition of the BD,,Chemical composition of the BD
+12,"DM,g/kg BD",,884.32,,,
+13,"CP,g/kg DM",,201.87,,,
+14,"Crude fibre, g/kg DM",,118.64,,,
+15,"Crude fat5,g/kg BD",,21.71,,,
+16,"TCF6,g/kg BD",,51.66,,,
+17,"Ash,g/kg DM",,42.80,,,
+18,"NDF,g/kg DM",,310.47,,,
+19,"ADF,g/kg DM",,146.33,,,
+20,"ADL,g/kg DM",,23.32,,,
+21,"GE,MJ/kg DM",,17.88,,,
+22,"Se concentration,mg/kg BD","Se concentration,mg/kg BD",0.16,,,

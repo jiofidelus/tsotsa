@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6
+0,,,Breast cancer patients,,,,
+1,,,N=3316),,,,
+2,,,Univariate,Multivariate,Multivariate,Multivariate,Multivariate
+3,,,"OR,95%CI",(ICE-Race),(ICE-Race),(ICE-Income),(ICE-Race/Income
+4,,,,"AOR,95%CI","AOR,95%CI","AOR,95%CI","AOR, 95% CI"
+5,Age at diagnosisa,Age at diagnosisa,"0.93(0.89,0.96)**","0.94(0.91,0.98)",,"0.94(0.90,0.98)","0.94(0.91,0.98)"
+6,aceref=White),aceref=White),,,,,
+7,Black/African American,Black/African American,"2.48 (2.01, 3.05)**","2.02 (1.59, 2.58)**",,"2.21 (1.77,2.77)**","2.181.72,2.77**"
+8,nsurance(ref=commercial),nsurance(ref=commercial),,,,,
+9,Medicaid/Noneb,Medicaid/Noneb,"1.29 (0.83, 1.95)",,,,
+10,Census tract ICE-Race(ref=Q5,Census tract ICE-Race(ref=Q5,,,,,
+11,Q1(most disadvantaged),Q1(most disadvantaged),"3.45 (2.41, 4.99)**","2.09 (1.40, 3.13)**",,,
+12,,Q2,"2.12 (1.49, 3.06)**","1.65 (1.15,2.41)*",,,
+13,,Q3,"1.81 (1.27, 2.60)*","1.54 (1.08, 2.23)*",,,
+14,,Q4,"1.86 (1.30, 2.69)**","1.76 (1.23, 2.54)*",,,
+15,ensustractICE-Incomeref=Q5,ensustractICE-Incomeref=Q5,,,,,
+16,Q1 (most disadvantaged),Q1 (most disadvantaged),"1.90 (1.38, 2.61)**",,,"1.33 (0.95, 1.87)",
+17,,Q2,"1.68 (1.24,2.27)**",,-,"1.36(1.00, 1.86)",
+18,,Q3,"1.15 (0.82, 1.60)",,,"1.10 (0.78, 1.54)",
+19,,Q4,"1.39 (1.04, 1.85)*",,,"1.30(0.97,1.74)",
+20,Census tract ICE-Race/Income(ref=Q5,,,,,,
+21,Q1(most disadvantaged),Q1(most disadvantaged),"2.07 (1.49, 2.88)**",,,,"1.23 (0.85, 1.78)"
+22,,Q2,"1.70 (1.26, 2.30)**",,,,"1.31 (0.96, 1.80)"
+23,,Q3,"1.14 (0.82, 1.58)",,,,"1.07 (0.77, 1.48)"
+24,,Q4,"1.13 (0.83, 1.54)",,,,"1.01 (0.74, 1.38)"

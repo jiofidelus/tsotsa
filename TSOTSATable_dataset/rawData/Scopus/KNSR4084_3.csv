@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6
+0,,,RI Antho-,RI,RI,RI,RI Total
+1,,Samples,cyanins,Phenolic,Flavonoids,Stilbenes,(%)
+2,,,(%),Acid (%),(%),(%),(%)
+3,Undigested,ACW,,,,,
+4,Gastric,ACgW,340.9,30.1,643.8,0,323.9
+5,Intestinal,ACiW,36.9,311.3,1260.7,0,53.5
+6,Undigested,AQW,,,,,
+7,Gastric,AQgW,242.5,253.1,318.5,0,243.3
+8,Intestinal,AQiW,9.1,107.1,147.6,0,14.9
+9,Undigested,NCW,,,,,
+10,Gastric,NCgW,167.5,392.1,0,0,176.1
+11,Intestinal,NCiW,0,415.9,0,0,15.9
+12,Undigested,NQW,,,,,
+13,Gastric,NQgW,80.1,59.9,0,0,77.0
+14,Intestinal,NQiW,0,97.9,0,0,14.8
+15,Undigested,ACS,,,,,
+16,Gastric,ACgS,24.0,4.6,24.1,0,23.7
+17,Intestinal,ACiS,0.9,13.0,6.5,0,1.0
+18,Undigested,AQS,,,,,
+19,Gastric,AQgS,18.0,7.0,13.2,0,17.8
+20,Intestinal,AQiS,0.5,5.1,2.7,0,0.6
+21,Undigested,NCS,,,,,
+22,Gastric,NCgS,7.5,1.4,1.5,0,7.1
+23,Intestinal,NCiS,0.4,4.5,0,0,0.6
+24,Undigested,NQS,,,,,
+25,Gastric,NQgS,22.7,5.0,4.7,0,21.5
+26,Intestinal,NQiS,0,2.5,0,0,0.1

@@ -1,0 +1,27 @@
+,0,1,2,3,4
+0,,,Antimicrobial Actions,,
+1,Compound,Dose/Route/Duration,Model,Major Mechanisms,Reference
+2,,4-512 ug/mL (for bacteria,"Staphylococcus aureus,",,
+3,-Bisabolol,3-4096 g/mL (for fungus),"Candida albicans,Candida krusei",Inhibited microbial growth,[5]
+4,,3-4096 g/mL (for fungus),Candida tropicalis,,
+5,-Bisabolol,1024 g/mL,and Pseudomonas aeruginosa,Inhibited microbial growth,[97]
+6,,,Staphylococcus aureus strains: pT181,,
+7,,,carrying the TetK efflux pump,,
+8,-Bisabolol,1024 g/mL,protein that extrudes tetracycline;,MIC for tetracycline,[98]
+9,-Bisabolol,1024 g/mL,and the 1199B that presents,and norfloxacin,[98]
+10,,,resistance to norfloxacin by NorA,,
+11,,,pump expression,,
+12,-Bisabolol,0.1%,Bacillus Solobacterium moorei,effect of tea tree oil,[99]
+13,-Bisabolol,0.5-2 mM,Staphylococcus aureus and,Teffect of co-administered,[100]
+14,-Bisabolol,0.5-2 mM,Escherichia coli,antibiotics,[100]
+15,-Bisabolol,0.281-9 mM for 3 days,Aspergillus fumigatus Af239,"(-) 24-SMT,  erg6",[102]
+16,,,"Microsporum gypseum,Microsporum",,
+17,,,"canis, Trichophyton violaceum,",,
+18,,"5,10,20,50,100","Nannizzia cajetani, Trichophyton", fungal growth,
+19,-Bisabolol,200 g/mL,"mentagrophytes, Epidermophyton",(-) spore germination,[103]
+20,,200 g/mL,"floccosum, Arthroderma gypseum,",1 morphological anomalies,
+21,,,Trichophyton rubrum and,,
+22,,,Trichophyton tonsurans,,
+23,-Bisabolol,1 g/mL,Fusarium oxysporum,MIC of NaCl,[104]
+24,-Bisabolol,1000-31.25 M,Trypanosoma cruzi Y infected,cell viability,[105]
+25,-Bisabolol,1000-31.25 M,LLC-MK2 cells,"ROS,apoptosis",[105]

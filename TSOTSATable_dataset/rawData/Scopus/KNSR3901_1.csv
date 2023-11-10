@@ -1,0 +1,53 @@
+,0,1,2,3,4,5,6
+0,Baseline characteristics,6-month follow-up,,,12-month follow-up,,
+1,,Non-adherentl,Adherent' (increas-,p value,Non-adherent,Adherent (increas-,p value
+2,,"(decreasing, equal or",ing5 points if,,"decreasing,equal or",ing5 points if,
+3,,increment<5 points),baseline<13p or any,,increment<5 points),baseline<13p or any,
+4,,n=1507, increase if base-,,(n=1422, increase if base-,
+5,,,line13p),,,line13p),
+6,,,n=1478,,,n=1563),
+7,Socio-demographics,,,,,,
+8,"Sex,women",50.5,46.3,0.02151.1,0.02151.1,45.9,0.005
+9,"Age, years, mean (SD)65.2 (4.9)","Age, years, mean (SD)65.2 (4.9)",64.7 (5.0),0.005 65.2 (5.0),0.005 65.2 (5.0),64.7 (4.9),0.016
+10,Marital status,,,0.034,,,0.020
+11,Married,73.8,77.2,,73.1,77.6,
+12,Single,6.4,4.3,,6.0,4.8,
+13,Widowed,10.9,10.9,,11.3,10.5,
+14,Others/misisng,9.0,7.6,,9.6,7.1,
+15,Attained education,,,0.621,,,0.725
+16,level,,,,,,
+17,College/university,22.2,20.8,,22.1,21.0,
+18,Secondary,30.7,30.5,,31.1,30.1,
+19,Primary or less,46.4,47.5,,45.9,47.9,
+20,Occupation,,,0.657,,,0.833
+21,Retired,55.9,55.6,,55.0,56.5,
+22,Working,20.1,22.0,,21.0,21.1,
+23,Unemployed or,8.0,7.9,,8.2,7.7,
+24,unable to work,,,,,,
+25,Housewife,15.3,13.9,,15.1,14.1,
+26,Number of people in,1.4 (1.1),1.4 (1.2),0.351,1.4 (1.1),1.4 (1.0),0.069
+27,"household, mean",,,,,,
+28,(SD),,,,,,
+29,Baseline health-related,,,,,,
+30,characteristics,,,,,,
+31,Hypertension,84.4,82.9,0.260 83.5,0.260 83.5,83.8,0.802
+32,Obesity,72.7,72.7,0.96571.9,0.96571.9,73.4,0.334
+33,Type 2 diabetes,32.1,23.5,<0.001,31.3,24.7,<0.001
+34,Hypercholesterolemia,71.1,68.7,0.15470.1,0.15470.1,69.8,0.853
+35,2Family history of,12.3,13.1,0.557,12.9,12.5,0.787
+36,premature CVD,,,,,,
+37,Cancer,7.6,7.1,0.582,7.5,7.3,0.867
+38,Depression,21.0,17.6,0.017,21.9,17.0,0.001
+39,3Average number of,2.9 (1.0),2.7 (1.0),<0.0012.9 (1.0),<0.0012.9 (1.0),2.8 (1.0),0.007
+40,chronic conditions.,,,,,,
+41,mean (SD),,,,,,
+42,4Self-reported meas-,,,0.717,,,0.219
+43,ure of nervousness,,,,,,
+44,and/or aggressive-,,,,,,
+45,ness behavior,,,,,,
+46,Q1 (low),27.3,27.4,,28.4,26.4,
+47,Q2,37.6,35.8,,37.5,36.0,
+48,Q3,11.5,11.8,,11.3,11.9,
+49,Q4 (high),23.6,25.0,,22.8,25.7,
+50,"Body weight, kg.",85.8 (12.9),87.2 (13.1),0.00385.9 (13.3),0.00385.9 (13.3),87.0 (12.8),0.023
+51,mean (SD),,,,,,

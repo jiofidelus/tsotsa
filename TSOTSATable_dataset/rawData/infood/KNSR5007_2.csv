@@ -1,0 +1,9 @@
+,0,1,2,3,4
+0,Component,Tagname,Component,Tagname,
+1,"Energy,kcal",ENERGYC,Water,WATER,WATER
+2,"Energy,kJ",ENERGYC,Calcium,,CA
+3,Protein,PROCNT,Phosphorus,,P
+4,Fat,FAT,Iron,,FE
+5,Carbohydrate,CHOAVLM,Zinc,,ZN
+6,Fibre,FIBTS,Carotene,CARBEQ,CARBEQ
+7,Phytate,PHYTAC,Vitamin C,,VITC

@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Application,Objectives,AI technique,Important outcomes,References
+1,Keemun black teaTo develop a model for the discrimination of differ-,Keemun black teaTo develop a model for the discrimination of differ-,"ANN, least square SVM",(i) Three different methods which are ANN and,Ren et al. [261]
+2,,ent grades of keemun black tea in China,"LSSVM),Random Forest",LSSVM were used to develop the model and all,
+3,,,,the methods were able to distinguish the different,
+4,,,,grades of keemun tea,
+5,,,,(ii) It was identified that the LSSVM method has,
+6,,,,a higher performance and predictivity compared,
+7,,,,to the rest,
+8,Meat,To create a system for the detection of meat spoil-,AFLS,(i) The AFLS model was able to classify the meat,Alshejari & Kodogiannis
+9,,age,,"into three classes which are fresh, semi-fresh,",[262]
+10,,,,and spoiled by using the data provided by the,
+11,,,,FTIR spectrometer,
+12,,,,(ii) The model achieved a high percentage with a,
+13,,,,value of 95.94% of correct classification overall,
+14,,,,which indicates that it can be an effective tool for,
+15,,,,the detection of meat spoilage,
+16,Olive oil,To detect the adulteration in olive oils,SVM,(i) The fusion of NIRS and Raman spectral data,Xu et al. [263]
+17,,,,could identify the adulterated olive oils effec-,
+18,,,,tively and the SVM model was able to predict the,
+19,,,,dopant contents in olive oil accurately,
+20,Pears,To determine the soluble solid contents in pear,ELM,(i) The proposed successive projection algorithm,Lu et al.[264]
+21,,,,and extreme learning machine (SPA-ELM) was,
+22,,,,able to predict the contents better than the con-,
+23,,,,ventional PCA-ELM method,
+24,Rice,To classify the rice according to the compositions,"RF,PCA,LDA,PLS",i All the ML techniques were able to identify and,Rizwana&Hazarika[265]
+25,,and processing parameters,,classify the rice based on its composition (amyl-,
+26,,,,"ose-based, glycemic index) and the hydrothermal",
+27,,,,treatment severity with a good performance,
+28,Wheat flour,To predict the wheat flour quality using the NIRS,,"Multitarget coupled with SVM,RF(i The use of multitarget over partial least squares",Barbon Junior et al. [266]
+29,,,,coupled with machine learning algorithm offers,
+30,,,,more advantage for the parameter prediction,
+31,,,,from NIRS,
+32,,,,(ii) The prediction using random forest overcomes,
+33,,,,the performance of SVM,
+34,White asparagus,To predict the origin of the asparagus and distin-,SVM,(i The linear SVM could predict the country of,Richter et al. [267]
+35,,guish the German from imported products,,origin of white asparagus with an accuracy of,
+36,,,,89% and also was able to distinguish the German,
+37,,,,and non-German products,

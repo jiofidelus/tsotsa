@@ -1,0 +1,32 @@
+,0,1,2
+0,,Food Item,Mapping Decision
+1,Artificial sweeteners and sugar substitutes,Artificial sweeteners and sugar substitutes,"Macronutrients taken from BOP and micronutrients mapped to ""White sugar"""
+2,,,"All Lucozade products mapped to ""Lucozade'"
+3,"Isotonic, sports and energy drinks (i.e., Red Bull, Powerade)","Isotonic, sports and energy drinks (i.e., Red Bull, Powerade)","For other energy drinks, macronutrients taken from BOP and micronutrients mapped to ""Fruit juice drink,"
+4,,,"carbonated, ready to drink"""
+5,,,"Glucose tablets--Macronutrients BOP, micronutrients mapped to ""Glucose liquid"""
+6,,,"Cereal based energy bars such as""Lucozade Sport Body Fuel Carbohydrate Energy Mixed Berry Flavour Cereal"
+7,"Energy tablets, bars and snacks (i.e., ""Lucozade Energy","Energy tablets, bars and snacks (i.e., ""Lucozade Energy","Bar""mapped to ""cereal, chewy bar"""
+8,"Original Glucose Tablets,Lucozade Sport Body Fuel","Original Glucose Tablets,Lucozade Sport Body Fuel","Where there was no appropriate item to map to, items were mapped on an individual basis as a recipe, guided by"
+9,"Carbohydrate Energy Mixed Berry Flavour Cereal Bar"")","Carbohydrate Energy Mixed Berry Flavour Cereal Bar"")","the ingredient list. For example, ""Science in Sport Go Nutritional Energy Bar Banana Fudge Flavoured"" was"
+10,,,"mapped to 35% ""Fruit juice drink, ready to drink""; 16% ""Dates, dried; 10% bananas; 10% ""rice krispies"";"
+11,,,"10% ""soya flour, low fat"" 8% ""oatmeal, raw""; 6% raisins; 5% ""apricots, dried"""
+12,"Vegetarian food products (Whilst ""Quorn, pieces, as","Vegetarian food products (Whilst ""Quorn, pieces, as",
+13,"purchased"" is listed in McCance and Widdowson v.6, it is","purchased"" is listed in McCance and Widdowson v.6, it is","All quorn products mapped to ""Quorn, pieces, as purchased"""
+14,limited when attempting to capture the range of different,limited when attempting to capture the range of different,"""Vegetarian sausages, baked/grilled"" used specifically for vegetarian sausages"
+15,"quorn products such as ""Quorn Bacon Style Rashers""","quorn products such as ""Quorn Bacon Style Rashers""",
+16,Blueberries (blueberries are available in the myfood24,Blueberries (blueberries are available in the myfood24,"There is no generic code for blueberries in the myfood24 database. Users can select the ""Ardo""blueberries code"
+17,"database from a manufacturer called ""Ardo"" but there are no","database from a manufacturer called ""Ardo"" but there are no",The macronutrients are from BOP and the micronutrients have been mapped to bilberries which offered the most
+18,generic blueberry options in the McCance and Widdowson,generic blueberry options in the McCance and Widdowson,The macronutrients are from BOP and the micronutrients have been mapped to bilberries which offered the most
+19,(v.6) food tables,,similar nutrient information.
+20,Perry (Considered to be a pear cider but is not legally,Perry (Considered to be a pear cider but is not legally,"Macronutrients from BOP and micronutrients mapped to ""Cider, sweet"" (from apples)"
+21,recognised as such due to its high sugar content),recognised as such due to its high sugar content),"Macronutrients from BOP and micronutrients mapped to ""Cider, sweet"" (from apples)"
+22,Sake,,"Mapped to white wine,dry"
+23,"Flavoured vodka and ""alcopops"" e.g.,: ""Smirnoff ice"" and","Flavoured vodka and ""alcopops"" e.g.,: ""Smirnoff ice"" and","Mapped to 10% ""spirits"", 90% ""fruit juice drink carbonated"""
+24,"""Barcardi Breezer""",,"Mapped to 10% ""spirits"", 90% ""fruit juice drink carbonated"""
+25,Schnapps,,"Mapped to fortified wine ""port"" which has a similar alcohol content (15%-20%)"
+26,Egg free mayonnaise,,"Micronutrients mapped to "" Mayonnaise, retail"" (macronutrients from BOP)"
+27,1% fat milk,,"Macronutrients from BOP. Micronutrients mapped to ""Skimmed milk, average"
+28,Goats milk cream and yogurt (whilst there are options for,Goats milk cream and yogurt (whilst there are options for,
+29,goats cheese and milk there are no specific codes for other,goats cheese and milk there are no specific codes for other,Macronutrients from BOP and other goat products mapped to dairy products from a cow
+30,goat products),,

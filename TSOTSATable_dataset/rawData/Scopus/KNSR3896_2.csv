@@ -1,0 +1,25 @@
+,0,1,2,3,4,5
+0,Study,Year,Country of Data,Objectives,Methods,Main results
+1,,,,,,Clustering revealed a hierarchical organisation of food
+2,,,,To investigate the relationships,"Network-based approaches,",that was consistent with common nutritional
+3,Kim et al. [23],2015,United States of America,between food items and between,"average linkage, pairwise",
+4,,,,nutrients to inform nutrition.,correlations,pairwise correlations were found to exist between
+5,,,,,,nutrients.
+6,,,,,Spearman's rank correlation,
+7,,,,,"principal component analysis,",Four clusters were identified that consisted of foods
+8,Li et al. [24],2021,United States of America,according to nutritional similarity.,"class analogies (SIMCA),",
+9,,,,,agglomerative hierarchical,groups.
+10,,,,,clustering,
+11,,,,All foods in traditional Chinese,,"Fat,carbohydrate,and selenium were significantly"
+12,,,,medicine are categorised into 'the four,,associated with the hot nature of foods while iron and
+13,,,,"natures': cold, cool, warm, and hot.",,copper were significantly associated with the cold
+14,Liu et al. [25],2012,China,The purpose of this paper is to,Logistic regression,nature of foods. The results suggest that the nutrient
+15,,,,examine the association between the,,contents of foods may be one of the distinguishing
+16,,,,nutrient content of these foods and,,factors for the categorisation of the cold-hot nature of
+17,,,,their cold-hot nature category.,,foods.
+18,,,,To determine if the nutritional,,
+19,Mayer [26],1997,United Kingdom,had changed between the 1930s and,Student's t-test,
+20,,,,1980s.,,
+21,Nguyen et al. [27],2016,United States of America,versions of common foods have more,"Friedman test, post-hoc Wilcoxon",The sugar content of foods classified as 'low-fat' and
+22,Nguyen et al. [27],2016,United States of America,sugar than 'regular' counterparts.,signed-rank test,'non-fat' was higher than that of regular versions.
+23,Nikitina et al. [28],2021,Unknown,confectionary by carbohydrate content.,K-means clustering,

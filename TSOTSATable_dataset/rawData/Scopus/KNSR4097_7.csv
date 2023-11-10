@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7
+0,,,,Quality assessment,,,,
+1,,,,,,,Sample sizes,Quality
+2,Outcomes,Risk of bias,Inconsistency,Indirectness,Imprecision,Publication Bias,(cases/control),of evidence
+3,Body mass,Serious Limitationsa,No Serious Limitations,No Serious Limitations,Serious Limitations b,No serious limitations,413(206/207),00
+4,,,,,,,,Low
+5,Fat Mass,Serious Limitations a,No Serious Limitations,No Serious Limitations,"Serious Limitations b,c",No serious limitations,154 (78/76),00
+6,,,,,,,,Low
+7,Body Fat Percentage,Serious Limitations a,No Serious Limitations,No Serious Limitations,Serious Limitations b,No serious limitations,427 (213/2014),.00
+8,,,,,,,,Low
+9,Fat-free mass,Serious Limitations a,No Serious Limitations,No Serious Limitations,Serious Limitations b,Serious Limitations d,254 (125/129),000
+10,,,,,,,,Very Low

@@ -1,0 +1,34 @@
+,0,1,2,3,4,5
+0,Peak no.,"R, (min)",M,[M-H],Fragment signals,Tentative identification
+1,,,,,(m/z,
+2,,2.00,274,273,"159,131",Unknown
+3,2,3.63,318,317,79,Unknown
+4,3,6.54,195,194,"97,80",Unknown
+5,4,8.01,195,194,"97,80",Unknown
+6,,21.496,594,593,"285, 152,108",Kaempferol 3-O-rham-
+7,,,,,,nopyaranosyl-(14)
+8,,,,,,glucopyranosyla
+9,6,24.96,440,439,"255,167,153",Unknown
+10,7,26.169,610,609,"285,447","Kaempferol 3,7-di-"
+11,,,,,,O-hexosideb
+12,8,27.371,610,609,"301,447",Quercetin 4'-O--L-
+13,,,,,,rhamnopyranosyl-
+14,,,,,,3-O--D
+15,,,,,, allopyranosidea
+16,9,28.573,594,593,"503,473,383,353","Apigenin 6,8-di-"
+17,,,,,,"C-hexosideb,c"
+18,10,29.374,580,579,"519,489,459,399",Luteolin-6-C-pento-
+19,,,,,369,side-8-C- hexosideb
+20,11,31.777,564,563,"503,473,443,383",Apigenin-6-C-hexo-
+21,,,,,353,side-8-C- pentoside
+22,,,,,,(vicenin isomer)b.c
+23,12,33.646,564,563,"503,473,443,383",Apigenin-6-C-pento-
+24,,,,,353,"side-8-C- hexosideb,c"
+25,13,34.314,564,563,"503, 473, 443, 383,",Apigenin 6-C-hexo-
+26,,,,,353,side-8-C-pentoside
+27,,,,,,"(vicenin isomer)b,c"
+28,14,35.248,564,563,"503,473,443,383",Apigenin 6-C- pento-
+29,,,,,,"side-8-C-hexosideb,c"
+30,15,36.31,712,711,"563,411,217",Unknown
+31,16,37.38,364,363,"199,155,111",Unknown
+32,17,38.45,416,415,"393, 199, 155",Unknown

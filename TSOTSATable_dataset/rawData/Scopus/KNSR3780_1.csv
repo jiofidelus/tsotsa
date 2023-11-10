@@ -1,0 +1,38 @@
+,0,1,2,3,4
+0,Demographiccharacteristics,,Indian-born mothers,Australian-born mothers,p-value
+1,,,n=501,n=510,
+2,,,Mean (SD),Mean (SD),
+3,"Maternal BMI(pre-pregnancy,kg/m2",,23.1 (3.9),25.6 (5.9),<0.001
+4,,,Proportion (%),Proportion (%),
+5,Maternal age,,,,<0.001
+6,,15-24 years,6.7,8.4,
+7,,25-29 years,38.1,25.9,
+8,,30-34 years,40.3,35.3,
+9,,35+years,14.9,30.5,
+10,Higher qualifications,,,,<0.001
+11,,Tertiary educated,80.8,36.5,
+12,,Diploma/Certificate,9.9,40.7,
+13,,Year12/Year11eguivalent,9.3,22.8,
+14,Socioeconomic disadvantaged(guintiles),,,,0.008
+15,,1st quintile(most disadvantaged),18.3,12.6,
+16,,2nd quintile,14.3,16.1,
+17,,3rd quintile,24.2,21.5,
+18,,4th quintile,23.8,22.4,
+19,,5th quintile(most advantaged,19.3,27.4,
+20,Income,,,,<0.001
+21,,$156.000 or more,4.8,10.3,
+22,,$88.400-S155.999,18.9,33.4,
+23,,"$52,000$88,399",31.0,27.6,
+24,,"$26,000-$51,999",31.6,17.5,
+25,,"$25,999 or below",13.7,11.3,
+26,Smoking status pregnancy,,,,<0.001
+27,,Smoking,0.4,8.9,
+28,,Not smoking,99.6,91.1,
+29,Parity,,,,<0.001
+30,,1 child,59.2,38.3,
+31,,2 children,35.3,39.1,
+32,,3or more children,5.5,22.5,
+33,Spouse living in the house,Yes,96.8,92.2,0.001
+34,,No,3.2,7.8,
+35,Main language spoken English,Yes,19.6,100,<0.001
+36,,No,80.4,0.0,

@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,No,Project,Year,Picking method,Num-,Number,3D,Environment,,Harvest rate,Speed,,Damage rate,Issues,Note
+1,,,,,ber,of cam-,imaging,,Description,,,Overall,,to be,
+2,,,,,of,eras,tech-,Description,Description,,Single,Overall,,improved,
+3,,,,,arms,,niques,fied,,,arm,,,,
+4,8,Hohimer-,2019,Grasp+pull,1,1,Stereo,No pruning,No pruning,67%,7.3 s/fruit*,,N/A,Obstacle,*7.3 s does
+5,,Apple,,,,,,,or thinning,,,,,detec-,neither includ
+6,,(Hohimer,,,,,,,conducted,,,,,tion&,setup time nor
+7,,"et al.,",,,,,,, before har-,,,,,han-,failed attemps
+8,,2019),,,,,,vesting in,vesting in,,,,,dling,
+9,,,,,,,,,commer-,,,,,Fruit,
+10,,,,,,,,,cial apple,,,,,clusters,
+11,,,,,,,,,orchard,,,,,han-,
+12,,,,,,,,,,,,,,Vision,
+13,,,,,,,,,,,,,,detec-,
+14,,,,,,,,,,,,,,tion,
+15,,,,,,,,,,,,,,under,
+16,,,,,,,,,,,,,,occlu-,
+17,,,,,,,,,,,,,,sion,
+18,,,,,,,,,,,,,,End-,
+19,,,,,,,,,,,,,,effector,
+20,,,,,,,,,,,,,,feed-,
+21,,,,,,,,,,,,,,back,
+22,9,Kang-Apple,2020,Grasp+twist,1,,Struc-,Not specified N/A,Not specified N/A,Not specified N/A,6.5 s/fruit,,N/A,Harvest,Harvest rate and
+23,,"(Kang et al.,",,Suck+grasp+ twist,,,tured,,,,,,,success,damage rate
+24,,"2020a,",,,,,light,,,,,,,rate,not published
+25,,2020b),,,,,,,,,,,,Branch,yet
+26,,,,,,,,,,,,,,Inter-,
+27,,,,,,,,,,,,,,ference,

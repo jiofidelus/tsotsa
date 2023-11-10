@@ -1,0 +1,48 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,,,Class 2:Sensitivity/,,Class 3:Wary of,
+1,,,,,Class 1:Find My,Specificity Trade-,,Screening:,
+2,Characteristics,,Levels,N (%),Cancer (43%),off (41%,,Particularly False,
+3,,,,,MLE(SE),MLE (SE),,Results (16%),
+4,,,,,MLE(SE),MLE (SE),,MLE(SE,
+5,Any prior cancer,No,,1549 (91%),Reference,,,,
+6,diagnosis,Yes,,149 (9%),5.94 (4.05),8.37(3.88)*,,2.43 (3.34),
+7,,50-55,,329 (19%),Reference,,-,,
+8,,56-60,,403 (24%),0.18 (2.72),1.34 (2.71),,1.53 (2.09),
+9,Age (Group),61-65,,199 (12%),1.81(3.56,1.32 (3.43),,0.49 (2.65),
+10,Age (Group),66-70,,400 (24%),2.97 (2.77),3.43 (2.78),,0.46 (2.08),
+11,,71-75,,260 (15%),1.19 (3.36),2.70 (3.39),,3.90 (2.33),
+12,,76+,,107 (6%),1.95 (4.66),-1.51 (4.54),,0.44 (3.49),
+13,,0,,566(33%,Reference,,,,
+14,Number of,1,,499 (29%),7.71 (2.45**,5.04(2.55)*,,2.66 (1.90),
+15,comorbidities,2,,339 (20%,3.58 (2.81),0.44 (2.73),,3.14 (2.16),
+16,,3,,177 (10%),3.64 (3.86),4.59 (3.81),,0.95 (2.80),
+17,,4+,,117 (7%),5.43 (4.98),4.03 (4.93),,1.40 (3.80),
+18,,High school or less,High school or less,393 (23%),Reference,-,-,,-
+19,Education,Bachelor degree,Bachelor degree,530 (31%),1.48 (2.57),0.82 (2.59),,2.30 (2.07),
+20,,Graduate degree,Graduate degree,391 (23%),7.11 (3.02)*,4.60 (2.88),,-2.51 (2.22),
+21,Ever received false,No/Unsure,,1598 (94%),Reference,,,,-
+22,cancer screening test,Yes,,100 (6%),2.77 (4.87),1.36 (4.86),,1.41 (3.93),
+23,Cancer screening,No recommendation and no,No recommendation and no,106 (6%),Reference,,-,,-
+24,experience,experience,,106 (6%),Reference,,-,,-
+25,,experience,Recommended but no,263 (15%),2.25 (3.51),4.21 (3.48),,1.96 (2.44),
+26,,Some experience,Some experience,1329 (78%),0.39 (4.80),5.40 (4.54),,5.01 (3.77),
+27,Any family history of,No/Unsure,,642 (38%),Reference,,,,
+28,cancer,Yes,,1056 (62%),5.13 (2.51)*,5.73 (2.58)*,,0.60 (1.93),
+29,Overall health in past,Fair/Poor/Very poor,Fair/Poor/Very poor,372 (22%),Reference,,,,-
+30,12 months,Very good/Good,Very good/Good,1326 (78%),5.42 (2.98),-5.10 (3.14),,0.32 (2.18),
+31,,"Below 30,000","Below 30,000",268 (16%),Reference,,,,-
+32,,30000-59999,,394 (23%),0.42 (2.69),1.51 (2.70),,-1.10 (1.99),
+33,Household income,60000-99999,60000-99999,456 (27%),6.24 (2.68)*,1.58 (2.73),,4.65 (2.19)*,
+34,,More than 100000,More than 100000,479 (28%),2.26 (3.18),4.99 (3.03),,-2.72 (2.23),
+35,,Not reported,,101 (6%),4.11 (4.92),3.37 (4.90),,0.74 (3.35),
+36,Influencing factor:,No,,1022 (60%),Reference,,1,,
+37,Worry/peace of mind,Yes,,676 (40%),0.23 (2.43),2.24 (2.41),,2.48 (1.82),
+38,Influencing factor:,No,,497 (29%),Reference,,,,
+39,recommendation,Yes,,1201 (71%),6.70 (2.93)*,-6.90 (2.85)*,,0.20 (2.08),
+40,Influencing factor:,No,,769 (45%),Reference,,,,
+41,cancer,Yes,,929 (55%),2.86 (2.51),1.91 (2.49),,0.94 (1.86),
+42,Influencing factor:,No,,1584 (93%),Reference,,-,,-
+43,Finding out a,,,,,,,,
+44,friend/acquaintance,Yes,,114 (7%),3.19(4.53),3.33 (4.62),,6.52 (3.41),
+45,has cancer,,,,,,,,
+46,,No,,1087(64%),Reference,,,,

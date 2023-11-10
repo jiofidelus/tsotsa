@@ -1,0 +1,59 @@
+,0,1,2
+0,miRNA [Sequence],,Function [Reference]
+1,,Colostrum-specific miRNAs,
+2,,Regulates cell morphology and migration through distinct signaling pathways in normal and,Regulates cell morphology and migration through distinct signaling pathways in normal and
+3,,pathogenic urethral fibroblasts [237]; protects against acute ischemic stroke [238]; controls the,pathogenic urethral fibroblasts [237]; protects against acute ischemic stroke [238]; controls the
+4,,migration of head and neck cancer cells through downregulation of BMI1 protein [239];,migration of head and neck cancer cells through downregulation of BMI1 protein [239];
+5,,inactivates localized scleroderma [240]; regulates MS pathogenesis by suppressing induction,inactivates localized scleroderma [240]; regulates MS pathogenesis by suppressing induction
+6,,Treg by targeting IGF1R and TGFR1 [241]; protects against pneumoconiosis caused by,Treg by targeting IGF1R and TGFR1 [241]; protects against pneumoconiosis caused by
+7,hsa-let-7i-5p,nanoparticles inhalation [242]; acts as an autophagy suppressor by targeting ATG10 and,nanoparticles inhalation [242]; acts as an autophagy suppressor by targeting ATG10 and
+8,[UGAGGUAGUAGUUUGUGCUGUU],ATG16L1 in NPC and may represent a promising therapeutic target for NPC treatment [243];,ATG16L1 in NPC and may represent a promising therapeutic target for NPC treatment [243];
+9,,"targets HABP4 gene and functions as a tumor promoter in ccRCC,and thus offers a potential","targets HABP4 gene and functions as a tumor promoter in ccRCC,and thus offers a potential"
+10,,target for treatment [244]; inhibits granulosa-luteal cell proliferation and oestradiol,target for treatment [244]; inhibits granulosa-luteal cell proliferation and oestradiol
+11,,biosynthesis by directly targeting IMP2 [245];inhibits KGN proliferation and decreases,biosynthesis by directly targeting IMP2 [245];inhibits KGN proliferation and decreases
+12,,"estradiol production in an IMP2-dependent manner, providing insights into the pathogenesis","estradiol production in an IMP2-dependent manner, providing insights into the pathogenesis"
+13,,of PCOS [246]; promotes differentiation of hESCs [247]; inhibits the metastasis of TNBC [248],of PCOS [246]; promotes differentiation of hESCs [247]; inhibits the metastasis of TNBC [248]
+14,,Regulates ovarian response to ovulation [249]; targets ING-4 and upregulates signaling,Regulates ovarian response to ovulation [249]; targets ING-4 and upregulates signaling
+15,,"molecules such as p-AKT and p-ERK1/2, which support miR-423-5p functions as an oncogene","molecules such as p-AKT and p-ERK1/2, which support miR-423-5p functions as an oncogene"
+16,,in glioma and suggests targeting it as therapeutic potential for glioma [250]; targets PTTG1 and,in glioma and suggests targeting it as therapeutic potential for glioma [250]; targets PTTG1 and
+17,hsa-miR-423-5p,"SYT1 mRNAs, thus induces cell apoptosis, inhibits cell proliferation and reduces growth","SYT1 mRNAs, thus induces cell apoptosis, inhibits cell proliferation and reduces growth"
+18,[AAAAGCUGGGUUGAGAGGGCAA],"SMAD2, thus functions in the development of bicuspid aortic valve BAV disease and its","SMAD2, thus functions in the development of bicuspid aortic valve BAV disease and its"
+19,,"complication, bicuspid aortopathy [252]; induces silencing of the nerve growth factor, which","complication, bicuspid aortopathy [252]; induces silencing of the nerve growth factor, which"
+20,,"promotes retinal microvascular dysfunction, demonstrating the potential for miRNA-based","promotes retinal microvascular dysfunction, demonstrating the potential for miRNA-based"
+21,,therapy for treating diabetic retinopathy [253]; promotes BC invasion [254].,therapy for treating diabetic retinopathy [253]; promotes BC invasion [254].
+22,,Negatively regulates normal human epidermal keratinocyte proliferation by targeting AKT3 to,Negatively regulates normal human epidermal keratinocyte proliferation by targeting AKT3 to
+23,,"regulate the STAT3 and SAPK/JNK pathways, thus might participate in the pathogenesis of","regulate the STAT3 and SAPK/JNK pathways, thus might participate in the pathogenesis of"
+24,hsa-miR-320b,"psoriasis, may act as a novel diagnostic marker or therapeutic target for this disease [255];","psoriasis, may act as a novel diagnostic marker or therapeutic target for this disease [255];"
+25,[UUCAAGUAAUUCAGGAUAGGU],affects HCC radiosensitivity to ionizing radiation treatment through DNA damage repair,affects HCC radiosensitivity to ionizing radiation treatment through DNA damage repair
+26,,signaling [256]; regulates osteoblast differentiation [257]; modulates cholesterol efflux and,signaling [256]; regulates osteoblast differentiation [257]; modulates cholesterol efflux and
+27,,,atherosclerosis [258].
+28,hsa-miR-26b-5p,PC [260]; affects cytokine secretion in RA [261]; modulates Th17 cell plasticity in RA [262];,PC [260]; affects cytokine secretion in RA [261]; modulates Th17 cell plasticity in RA [262];
+29,[UUCAAGUAAUUCAGGAUAGGU],"inhibits proliferation, migration, invasion and apoptosis induction of osteosarcoma cells [263]","inhibits proliferation, migration, invasion and apoptosis induction of osteosarcoma cells [263]"
+30,,Modulates androgen-independent PC cell apoptosis [264]; regulates KIR expression [265]; acts,Modulates androgen-independent PC cell apoptosis [264]; regulates KIR expression [265]; acts
+31,,as a tumor suppressor in B-cell malignancies [266]; inhibits the metastasis of ccRCC [267];,as a tumor suppressor in B-cell malignancies [266]; inhibits the metastasis of ccRCC [267];
+32,hsa-miR-146a-5p,inhibits NSCLC proliferation [268]; protects cardiomyocytes and myocardial tissues in,inhibits NSCLC proliferation [268]; protects cardiomyocytes and myocardial tissues in
+33,[UGAGAACUGAAUUCCAUGGGUU],polymicrobial sepsis [269]; associated with low-risk human PSCCs [270]; improves the,polymicrobial sepsis [269]; associated with low-risk human PSCCs [270]; improves the
+34,,"decidual cytokine microenvironment [271]; acts as tumor suppressor in esophageal, prostatic,","decidual cytokine microenvironment [271]; acts as tumor suppressor in esophageal, prostatic,"
+35,,glioma and ovarian cancers [272-275]; suppresses osteoclastogenesis [276],glioma and ovarian cancers [272-275]; suppresses osteoclastogenesis [276]
+36,hsa-let-7c-5p,osteo/odontogenic differentiation of IGF-1-treated DPMSCs by targeting IGF-1 [278]; inhibits,Targets TGF- signaling and contributes to the pathogenesis of renal fibrosis [277]; inhibits
+37,[UGAGGUAGUAGGUUGUAUGGUU],MAP4K4 expression;inhibits OSCC cell proliferation and migration [279],MAP4K4 expression;inhibits OSCC cell proliferation and migration [279]
+38,,Inhibits epithelial-to-mesenchymal transition in TNBC [280]; inhibits human cytomegalovirus,Inhibits epithelial-to-mesenchymal transition in TNBC [280]; inhibits human cytomegalovirus
+39,hsa-miR-200b-3p,PC cells by inducing less Notch signaling and promotes daughter cells to become,PC cells by inducing less Notch signaling and promotes daughter cells to become
+40,[UAAUACUGCCUGGUAAUGAUGA],asymmetric [283]; promotes endothelial cell apoptosis by targeting HDAC4 in,asymmetric [283]; promotes endothelial cell apoptosis by targeting HDAC4 in
+41,,atherosclerosis [284]; inhibits cell proliferation and Ca2+ influx in PASMCs [285].,atherosclerosis [284]; inhibits cell proliferation and Ca2+ influx in PASMCs [285].
+42,hsa-miR-151b,Controls expression of GHR [189] and regulates proliferation and apoptosis of THCA cells,Controls expression of GHR [189] and regulates proliferation and apoptosis of THCA cells
+43,[UCGAGGAGCUCACAGUCU],,through SNRPB axis [286].
+44,,Enhances NPC radiosensitivity by targeting both the 3'UTR and 5'UTR of Jab1/CSN5 [287];,Enhances NPC radiosensitivity by targeting both the 3'UTR and 5'UTR of Jab1/CSN5 [287];
+45,,enhances cell growth in HCC by targeting metallothionein 1M [288];regulates lung,enhances cell growth in HCC by targeting metallothionein 1M [288];regulates lung
+46,hsa-miR-24-3p,by regulating hippocalcin expression [290]; inhibits progression of pancreatic ductal,by regulating hippocalcin expression [290]; inhibits progression of pancreatic ductal
+47,[UGGCUCAGUUCAGCAGGAACAG],by regulating hippocalcin expression [290]; inhibits progression of pancreatic ductal,by regulating hippocalcin expression [290]; inhibits progression of pancreatic ductal
+48,,invasion of cancer cells by directly targeting p130Cas [292]; suppresses proliferation and,invasion of cancer cells by directly targeting p130Cas [292]; suppresses proliferation and
+49,,invasiveness of gastric mucosal lesions [293].,invasiveness of gastric mucosal lesions [293].
+50,,Regulates cellular migration by inducing CDK5 activity and the associated molecular,Regulates cellular migration by inducing CDK5 activity and the associated molecular
+51,,pathways [294]; inhibits acute aortic dissection progression [295]; regulates chemo-drug,pathways [294]; inhibits acute aortic dissection progression [295]; regulates chemo-drug
+52,,sensitivity in BC cell by targeting TRIAP1 [296]; downregulates Cdc42 3'UTR and suppresses,sensitivity in BC cell by targeting TRIAP1 [296]; downregulates Cdc42 3'UTR and suppresses
+53,hsa-miR-107,affecting MSCs commitment toward insulin-producing cells [298]; modulates chondrocyte,"ESCC proliferation, migration and invasion [297]; modulates NeuroD1 and SOX6 genes"
+54,[AGCAGCAUUGUACAGGGCUAUCA],proliferation [299]; inhibits glioma cell migration and invasion [300]; regulates cisplatin,affecting MSCs commitment toward insulin-producing cells [298]; modulates chondrocyte
+55,,chemosensitivity in NSLCC [301]; promotes tumor suppressor in GC [302]; inhibits endothelial,chemosensitivity in NSLCC [301]; promotes tumor suppressor in GC [302]; inhibits endothelial
+56,,progenitor cell differentiation [303]; contributes to post-stroke angiogenesis [304]; antagonizes,progenitor cell differentiation [303]; contributes to post-stroke angiogenesis [304]; antagonizes
+57,,profibrotic phenotypes of pericytes [305].,profibrotic phenotypes of pericytes [305].

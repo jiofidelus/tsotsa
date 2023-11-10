@@ -1,0 +1,14 @@
+,0,1,2,3
+0,Samples,HPLC(mg cya-3-,pH-Differential(mg cya,pH-Differential(mg
+1,,glu eq.),3-glu eq.),cya-3-lu eq.)
+2,,/100g,/100g,/100g
+3,,FWa,FWa,FWb
+4,,MeanSD,MeanSD,*Mean  SD
+5,Sample,3.7  0.3,6.30.5,4.20.1
+6,1,,,
+7,Sample,4.50.1,9.6  0.2,7.50.2
+8,2,,,
+9,Sample,9.10.4,14.60.8,8.8 0.1
+10,3,,,
+11,Sample,11.60.6,16.7  0.2,12.7 0.1
+12,4,,,

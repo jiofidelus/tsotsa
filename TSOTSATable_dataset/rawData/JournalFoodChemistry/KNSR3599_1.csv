@@ -1,0 +1,38 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Cereal,Type,,Content g/100 g,,,,,,,Ref.
+1,,,,Carbohydrate,Starch,Fiber,Protein,Fat,Moisture,Ash,
+2,Sorghum,Grain,red sorghum,,61.50,1.18,10.50,2.81,9.69,1.38,"Alvarenga,OuThieleAlavi&"
+3,,,,,,,,,,,"Aldrich,2018"
+4,,,white sorghum,74.45,,1.39,8.37,1.99,14.13,1.06,"PontieriDi Fiore, Troisi, R. Bean"
+5,,,,,,,,,,,"Roemer,Okot,et al.,2012)"
+6,,Germ,,,,,18.9,28.1,,10.4,Tsen1985
+7,Wheat,Grain,durum wheat,,67.20,,12.13-14.84,1.43-1.86,9.77-11.84,1.54-1.90,"Manai-Djebali et al.,2021"
+8,,,(Razzek),,,,,,,,
+9,,,durum wheat,,,,11.52-14.15,1.402.22,9.58-11.83,1.75-1.96,
+10,,,(Karim),,,,,,,,
+11,,,durum wheat,,,,10.12-15.60,1.38-2.97,9.85-11.86,1.67-1.85,
+12,,,(Om Rabia),,,,,,,,
+13,,Germ,common wheat,51.30,,,28.10,9.60,6.70,,"Boukid,Folloni,Ranieri,& Vittadini"
+14,,,,,,,,,,,2018)
+15,,,red winter,41.74,13.18,,29.77,11.56,11.33,5.60,"(Ling,Ouyang,&Wang,2019"
+16,,,wheat,,,,,,,,
+17,Maize,Grain,waxy maize,,,,11.03,5.91,,,"Thakur,Kaur,Singh,&Virdi,2015"
+18,,,flint-flintdent,76.8,,,8.2,4.7,9.1,,"Odjo,Bera,Beckers,Foucart,"
+19,,,maize,,,,,,,,"Malumba,2018"
+20,,,flintdent mazie,74.4,,,8.5,5.4,10.5,,"Odjo,Bera,Beckers,Foucart,"
+21,,,,,,,,,,,"Malumba,2018)"
+22,,,puma hybrid,77.10,1.52,9.72,3.99,11.85,1.35,,"Vega Rojas,et al.,2017"
+23,,,(Monsanto),,,,,,,,
+24,,Germ,waxy maize,,,,11.38,5.96,,,"ThakurKaur,Singh,& Virdi,2015"
+25,,,puma hybrid,,8.1,14.85,21.12,34.98,,10.78,"Vega Rojas,et al.,2017)"
+26,,,(Monsanto),,,,,,,,
+27,,,wet-milled,,,,14-16,40-50,11.57,8.13,"(GiordanoVanara,Reyneri,&"
+28,,,,,,,,,,,"Blandino,2016;Parris,Moreau,"
+29,,,,,,,,,,,"Johnston,Singh,& Dickey,2006)"
+30,,,dry-milled,41.76,,,14-16,20-25,11.57,8.13,"Giordano,Vanara, Reyneri&"
+31,,,,,,,,,,,"Blandino,2016;Parris,Moreau"
+32,,,,,,,,,,,"Johnston,Singh,& Dickey,2006"
+33,Rice,Grain,wild rice,71-84,,,12.00-15.15,0.71.1,,,"Yu, et al.,2020"
+34,,,brown rice,79.582.5,,,6.67.3,2.93.2,6.07.1,,"Mohan,Malleshi,& Koseki,2010)"
+35,,,white rice,80.15,,,7.60,0.41,11.52,,"Zhai, Lu, Zhang,Sun,& Lorenz,2001)"
+36,,Germ,,41.16,25.50,7.00,18.20,17.46,10.53,5.65,"Rondanelli,et al.2019"

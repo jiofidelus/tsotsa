@@ -1,0 +1,28 @@
+,0,1,2,3,4,5
+0,,,formation of hard,,,
+1,,Tooth,[age in months (m),(age in years),(age in years),(age in years)
+2,,,or years (y],,,
+3,,,,Mandibula,,
+4,Incisors,Incisors,,,,
+5,central,,3-4 m,4-5y,6-7y,9y
+6,lateral,,3-4 m,4-5y,7-8 y,10y
+7,Canines,Canines,4-5 m,6-7y,9-10y,12-14 y
+8,Praemolars,Praemolars,,,,
+9,first,,1.75-2 y,5-6y,10-12 y,12-13 y
+10,second,,2.25-2.5y,6-7y,11-12y,13-14 y
+11,Molars,,,,,
+12,first,,at birth,2.5-3 y,6-7 y,9-10 y
+13,second,,2.5-3 y,7-8 y,11-13 y,14-15y
+14,third,,8-10 y,12-16 y,17-21 y,18-25
+15,,,,Maxilla,,
+16,Incisors,Incisors,,,,
+17,central,,3-4 m,4-5y,7-8 y,10y
+18,lateral,,10-12 m,4-5y,8-9 y,11y
+19,Canines,Canines,4-5m,6-7 y,11-12y,13-15y
+20,Praemolars,Praemolars,,,,
+21,first,,1.5-1.75y,5-6y,10-11 y,12-13 y
+22,second,,2-2.25 y,6-7y,10-12 y,12-14 y
+23,Molars,,,,,
+24,first,,at birth,2.5-3 y,7-8 y,9-10y
+25,second,,2.5-3 y,7-8 y,12-13y,14-16 y
+26,third,,7-9 y,12-16 y,17-21 y,18-25 y

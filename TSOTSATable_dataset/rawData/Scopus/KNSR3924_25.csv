@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,,,,,
+1,Investigated,"Extract,",Groups,Animal,,Method for,Microbiome,Method for,,
+2,"Plant, Plant",Sample,(n= Number of,"Species,",Conditions,Microbiome,Changes,Metabolite,Metabolites,Reference
+3,Part,Preparation,Analyzed,Volunteers,,Analysis,Changes,Detection,,
+4,,,Individuals),,,,,,,
+5,,,,,,,goji group:,,,
+6,,,,,,,increase in Firmi-,,,
+7,,,,,,,cutes/Bacteroidetes,,,
+8,,,,,,,ratio; rel. increase in,,,
+9,,,,,,,"Actinobacteria,",,,
+10,,,2 groups:,male,weeks;fecal,," Lachnospiraceae,",,,
+11,Lycium,goji berry,standard rodent,IL-10-deficient,samples (colonic,V4 region of 16S,"Ruminococcaceae,",SCFA analysis,increase in,
+12," barbarum L.,",powder,diet (Con); Con diet,mice (6 weeks,contents) were,"rRNA gene,","Bifidobacterium,",by GC-FID,butyric acid and,[135]
+13,fructus,powder,+ 1% goji (n = 7 per,old),collected at,NGS (Illumina),"Clostridium XVIII,",by GC-FID,isovaleric acid,
+14,,,group),old),necropsy,,Roseburia sp..,,,
+15,,,,,,,"Clostridium leptum,",,,
+16,,,,,,,and Faecalibacterium,,,
+17,,,,,,,prausnitzii;,,,
+18,,,,,,,rel. decrease in Pep-,,,
+19,,,,,,,tostreptococcaceae,,,
+20,,lemon balm,,,treated for two,,,,significantly,
+21,,water extract,2 groups:,,weeks; gut,,LB group:,metabolomic,higher levels of,
+22,Melissa,(LB) (2.76 mg,control (water); LB,C57Bl/6J male,(fecal),V3-V4 region of,increase: Chao-1,analysis of,"butyrate,",
+23,"officinalis,",acid/100 mg," in water, 500 mg",ob/ob mice (12,microbiome,"16S rRNA gene,",diversity index and,for SCFAs and,ethanol;,[140]
+24,folium,acid/100 mg,LB/day/mouse),weeks old),analyzed before,NGS (Illumina),Porphyromon-,other,significantly,
+25,,material),(n=5 per group),,treatment,,adaceae,metabolites,lower level of,
+26,,material),,,treatment,,,,lactate,

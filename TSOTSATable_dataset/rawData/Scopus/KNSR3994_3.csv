@@ -1,0 +1,19 @@
+,0,1,2,3
+0,,WHZ<-2Z-score,,
+1,,Positive,Negative,Total
+2,WaSt by proposed case-definition,WaSt by proposed case-definition,,
+3,Positive,127,140,267
+4,Negative,154,9433,9587
+5,Total,281,9573,9854
+6,,MUAC<125mm,,
+7,,Positive,Negative,Total
+8,WaSt by proposed case-definition,WaSt by proposed case-definition,,
+9,Positive,212,55,267
+10,Negative,135,9452,9587
+11,Total,347,9507,9854
+12,,WHZ<-2Z-score orMUAC<125mm,WHZ<-2Z-score orMUAC<125mm,
+13,,Positive,Negative,Total
+14,WaSt by proposed case-definition,WaSt by proposed case-definition,,
+15,Positive,267,0,267
+16,Negative,246,9341,9587
+17,Total,513,9341,9854

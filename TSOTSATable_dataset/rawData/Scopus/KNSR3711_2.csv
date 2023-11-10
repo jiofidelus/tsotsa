@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7
+0,Developers/Vaccine Name,Antigen,Nucleotide,2Pmut S1/S2,2Pmut S1/S2,Additional design,Additional design,Reference
+1,,,modification,,Cleavage site,,,(s)
+2,BioNTech/BNT162b2,Spike,+,+,,NA,,27
+3,Moderna/mRNA1273,Spike,+,+,,NA,,272
+4,CureVac/CVnCoV,Spike,,+,,RNActive technology,RNActive technology,480
+5,RiboBio,Spike,+,+,+,,"T4 Fibritin;S2 mut;Delete FPTMD,CTD",141
+6,Abogen/ARCoV,RBD,+,NI,,NA,,185
+7,BioNTech/BNT162b1,RBD,+,NI,,T4 Fibritin,T4 Fibritin,278
+8,CanSinoBIO,RBD,+,NI,,,RBD-CTB fusion protein;RBD-CRM197 fusion,481
+9,,,,,,,protein;CPG adjuvant;TLR adjuvant,
+10,Stemirna,Spike; S1 subunit;+,,,,,Insert additional sequences before ORF;LPP,"276,330"
+11,,RBD;M; N;E,,,,delivery systems,delivery systems,
+12,LIVERNA,Spike;,+,NA,NA,NA,,479
+13,,S1 subunit;RBD,,,,,,
+14,"Institute of Microbiology,",Spike;,+,NA,NA,NA,,482
+15,Chinese Academy of Sciences,S1 subunit;RBD,,,,,,

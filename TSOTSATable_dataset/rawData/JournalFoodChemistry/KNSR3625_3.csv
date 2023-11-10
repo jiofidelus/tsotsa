@@ -1,0 +1,6 @@
+,0,1,2
+0,Predictions,Actual,
+1,,Positive,Negative
+2,Positive,TP=48,FP=5
+3,Negative,FN=7,TN=60
+4,Total samples,TP+FN=55,FP+TN=65

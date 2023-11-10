@@ -1,0 +1,33 @@
+,0,1,2
+0,Class phytochemical,Examples,Enriched in food components
+1,"I.General phenols>8,000)",,
+2,a. Curcuminoids,"Curcumin, demethoxycurcumin","Ginger, turmeric"
+3,b. Lignans,"Honokiol, pinoresinol, silibinin, silybin","Bark,cereals,flax seed,thistle seed,rye"
+4,c. Phenolic acids,"Caffeic, chlorogenic, coumaric, gallic","Coffee bean, fruits, grains,vegetables"
+5,,salicylic acids,
+6,d.Phenolic acid derivatives,"Ellagic, shikimic acids","Nuts,oak"
+7,e. Stilbenoids,"Isorhapontigenin, resveratrol, piceatannol","Berries, grape, peanut, red wine"
+8,"II. Flavonoid polyphenols (>5,000)",,
+9,a. Anthocyanidins,"Anthocyanin,cyanidin, delphinidin, malvidin","Dark colored berries,fruits,veqetables"
+10,,(glycosides),
+11,b. Flavan-3-ols,"Catechin,epicatechin,gallocatechin,","Cocoa,fruits,legume seeds,black teas"
+12,,theaflavin,
+13,c. Flavanones,"Eriodictyol, hesperetin,hesperidin,","Grapefruit, lemon, orange, tomato"
+14,,naringenin (glycosides),
+15,d.Flavones,"Apigenin, luteolin, morin, nobiletin","Carrot, celery, citrus, pepper, spices, spinach"
+16,e. Flavonols,"Fisetin, galangin, kaempferol, myricetin,","Broccoli, berries, green teas, fruits, nuts,"
+17,,quercetin,union
+18,f.Isoflavones,"Daidzeinequol, genistein,glistein","Legumes, soybean"
+19,"III.Terpenoids>4,000)",,
+20,a. Carotenoids,"Carotenes, lutein,lycopene,zeaxanthin","Carrot, corn, tomato, paprika"
+21,(tetraterpenoids),,
+22,b.Monoterpenes,"Carvone, limonene,menthol,pinene,","Barks, citrus oil, mint,pepper"
+23,,sabinene,
+24,c.Sesquiterpenes,"Abscisic acid,humulone,zingiberene","Hop,ginger"
+25,(-penoids),,
+26,IV.Miscellaneous,,
+27,a. Betacyanins,"Isobetanin,betanin,neobetanin","Beet, food dyes,fruits"
+28,b. Betaxanthins,"Indicaxanthin,portulaxanthin","Beet,cactus"
+29,c. Indoles,Indole-3-carbinol,"Broccoli, cabbage"
+30,d.Organosulfides,"Allicin,diallyl disulfide,and trisulfide","Garlic,leek, union"
+31,e. Phytosterols,"B-Sitosterol,campesterol,stigmastano","Coconut,corn,olive, palm,sunflower oils"

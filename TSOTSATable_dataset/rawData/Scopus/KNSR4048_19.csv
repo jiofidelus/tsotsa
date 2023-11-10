@@ -1,0 +1,42 @@
+,0,1,2,3,4
+0,Application,Objectives,AI technique,Important outcomes,References
+1,Mango,To estimate the fruit mass of the mango,ANN,(i) The data obtained from the CVS was used as the,Utai et al. [245]
+2,,,,input parameters in the developed ANN model.,
+3,,,,and the model was able to estimate the fruit mass,
+4,,,,successfully,
+5,,,,(ii) The developed system has the highest success,
+6,,,,rate of 97% and the efficiency coefficient of 0.99,
+7,,,, by applying two input parameters or three input,
+8,,,,parameters,
+9,Mushrooms,To determine the appearance quality of mushrooms,"ANN,FI",(i) The accuracy obtained by the image processing,Nadim et al.[246]
+10,,,,system was 95.6%,
+11,,,,(ii) The artificial neural network was able to deter-,
+12,,,,"mine the weight of the mushrooms, and the fuzzy",
+13,,,,logic used the data from the CVS and was able to,
+14,,,,determine the quality of the mushroom,
+15,Passion fruits,,,To classify the passion fruits based on their ripenessMulti-class SVM (MCSVM)The developed system was able to classify the,Sidehabi et al. [247]
+16,,level,,ripeness level passion fruits with an accuracy of,
+17,,,,93.3% within 0.94128 s,
+18,Pork loin,To assess the quality of the pork loin according to,SVM,(i) The model was able to predict the quality of the,Sun et al. [248]
+19,,the industry demand,,pork loin based on their color and quality attrib-,
+20,,,,utes based on the industries' demand,
+21,Potatoes,To develop a grading system for potatoes,FL,i Combination of CVS and fuzzy logic allows,Bhagat & Markande [249]
+22,,,,faster grading of the potatoes as well as reduces,
+23,,,,the cost required for the manual grading,
+24,Rice,To carry out the qualitative grading of milled rice,FL,iThe study was able to conclude that the devel-,Zareiforoush et al. [250]
+25,,,,oped hybrid system can be used in the processing,
+26,,,,industry for automatic grading of milled rice,
+27,,,,(ii) Comparison was done between the developed,
+28,,,,"system and experts' judgment, and around 89.80%",
+29,,,,overall confidence was obtained,
+30,,,,(iii) The fuzzy system has obtained 89.83% total,
+31,,,,sensitivity and 97.45% specificity for the quality,
+32,,,,grading of milled rice,
+33,Rice,To control the performance of rice whitening,FL,(i) The developed automatic control system had an,Zareiforoush et al. [55]
+34,,machines,,average of 31.3% higher performance speed than,
+35,,,,"that of a normal human operator, and there was an",
+36,,,,improvement in the quality of the output based on,
+37,,,,the decision made by the system,
+38,,,,(ii) The setup flexibility of the system allows altera-,
+39,,,,tion to be done according to the preference of each,
+40,,,,rice mill operator,

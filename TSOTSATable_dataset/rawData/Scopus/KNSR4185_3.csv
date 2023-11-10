@@ -1,0 +1,14 @@
+,0,1,2
+0,Characteristics,Frequency(percent),
+1,gestational week,Pre-term<37weeks,39 (8.6%)
+2,,term(37-42weeks,391 (85.7%)
+3,,Post-term (>42),26 (5.7%)
+4,Type of delivery,Natural,212 (43.9%)
+5,,CS,271 (56.1%)
+6,Gender,Female,232 (47.8%)
+7,,male,253 (52.2%)
+8,Type of pregnancy,singleton,469 (96.7%)
+9,,Twin,16 (3.3%)
+10,Birth weight (gr),<2500g,38 (7.8%)
+11,,2500-4000g,430 (88.7%)
+12,,>=4000g,17 (2.9%)

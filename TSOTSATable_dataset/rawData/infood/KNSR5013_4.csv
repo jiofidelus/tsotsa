@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7
+0,Food,Macronutrients,Energy,Protein,Animal,MFP,FAT,CHO DF
+1,code,,,,Protein,Protein,,
+2,,,Kcal,g,g,g,g,g
+3,A1,Cereals and cereal,,,,,,
+4,,products,,,,,,
+5,1,Biscuit,434,9.2,0,0,11.8,71.5
+6,2,Bread roll,274,8.8,0,0,3,51.9
+7,3,"Bread,white",274,8.8,0,0,3,51.9
+8,5,Buns,274,8.8,0,0,3,51.9
+9,,Local dishes,,,,,,
+10,A2,Cereal-based local dishes,,,,,,
+11,513,Chapatti (Dry),208,5,0,0,4,38
+12,512,Chapatti with oil,372.6,5.9,0,0,19.5,50.6
+13,532,Donut - African,359.7,5.2,0,0,15.5,50.6

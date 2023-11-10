@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,Treatment,,Photosynthesis rateumol COms,Photosynthesis rateumol COms,
+1,,C.arborescens,S. balangeran,D.zibethinus,N.lappaceum
+2,Freely drained 0% shading,18.20.9bc,19.3 4.6 b,24.6  2.2 a,20.82.9 b
+3,Freely drained with 30% shading,9.7  1.0 d,10.01.6 cd,11.60.9c,8.33.5d
+4,Freely drained with 70% shading,5.01.2e,4.8  2.3 ef,6.1  0.4 e,2.8  0.07 g
+5,GW level 10 cm 0% shading,17.91.0 bc,19.6  2.2 b,24.6  2.3 a,21.6 3.4 ab
+6,GW level 10 cm with 30% shading,11.01.1c,9.4 2.6 cd,10.7 2.6 cd,8.0  2.0 d
+7,GW level 10 cm with 70% shading,4.4  1.4 ef,5.7  2.9 e,5.7  0.2 e,3.7  0.9 f
+8,GW level zero 0% shading,17.23.3bc,19.3 2.7 b,21.71.5b,19.02.5 b
+9,GW level zero with 30% shading,9.0  1.5 d,8.0  1.5 d,8.5  1.3 d,6.8  2.0 e
+10,GW level zero with 70% shading,3.9  0.8 ef,4.9  1.4 e,4.5  0.5 e,3.8  1.1 fg
+11,1/% stem height flooding 0% shading,16.62.4 bc,18.22.9 bc,18.81.1 bc,11.36.0cd
+12,/ stem height flooding with 30% shading,8.11.5d,8.29  0.9 d,9.31.3 cd,
+13,1/ stem height flooding with 70% shading,3.4 1.7 f,3.9  1.6 f,4.2 1.3 ef,3.6 1.8 f

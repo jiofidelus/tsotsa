@@ -1,0 +1,26 @@
+,0,1,2,3,4
+0,Contaminant,Regulatory plant,Level,Unit,Analysis
+1,,classification,,,
+2,Cadmium,3.2.15.Vegetables,0.05,mg/kg,Regulation
+3,,"and fruit,excluding",,wet,EC333/
+4,,"leafy vegetables,",,weight,2007EFSA
+5,,"fresh herbs,leafy",,,opinion --
+6,,"brassicas,fungi",,,cadmium
+7,,stem vegetables,,,
+8,,root vegetables and,,,
+9,,potatoes,,,
+10,Lead,"3.1.10.Vegetables,",0.1,mg/kg,Regulation
+11,,excluding brassica,,wet,EC333/
+12,,"vegetables,leaf",,weight,2007EFSA
+13,,"vegetables,fresh",,,opinion-lead
+14,,"herbs,fungi and",,,
+15,,seaweed.For,,,
+16,,potatoes the,,,
+17,,maximum level,,,
+18,,applies to peeled,,,
+19,,potatoes,,,
+20,Pesticides,023.Fruiting,MRL's for,mg/kg,Regulation
+21,,vegetables-,okra(lady's,,EC)No 396/
+22,,Solanaceae-okra,fingers),,2005 and its
+23,,(lady's fingers),(0231040),,Annex
+24,,,apply,,amendments

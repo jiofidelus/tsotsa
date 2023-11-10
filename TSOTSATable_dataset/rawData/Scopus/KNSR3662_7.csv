@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Feedstock Composition (%),Feedstock Composition (%),,HTL Condition,HTL Condition,,,
+1,Microalgae,,,,Temp,Time,Solid,,Biocrude,Reference
+2,Microalgae,Protein,Lipid,Carbohydrate,(C),(min),Content,Catalyst,Yield (%),Reference
+3,,,,,(C),(min),(%),,,
+4,Tetraselmis sp.,37.5,14.0,18.5,350,10,20,N/A,45.4,[182]
+5,Nannochloropsis,57.0,32.0,8.0,350,60,10,N/A,38,[183]
+6,oculata.,57.0,32.0,8.0,350,60,10,N/A,38,[183]
+7,Picochlorum sp.,31.0,26.0,24.0,325,30,15,N/A,39.6,[174]
+8,Dunaliella salina,N/A,N/A,N/A,300450,60,10,Ni/REHY,72,[184]
+9,Nannochloropsis,60.0,6.0,19.0,310,120,25,N/A,46,[185]
+10,salina,60.0,6.0,19.0,310,120,25,N/A,46,[185]
+11,Pavlova sp.,46.9,13.9,28.0,350,>60,14,Na2CO3,47.1,[186]

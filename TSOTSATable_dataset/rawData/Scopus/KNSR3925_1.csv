@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Mouse line,Discovery (year),Expression control,Serum GH,Serum IGF1,Size/weight,Body composition,Insulin sensitivity,Reproduc-,Cancer,Lifespan,Original references
+1,,lab/1st author),,,,,,,tive capacity,incidence,,
+2,Snell (Pit1-/),1929 Snell,spontaneous muta-,+,+,+," muscle at 3 mo,",1,,,1,[67]
+3,,,tion in Poulfl,,,, though lower,,,,,
+4,,,,,,,quality,,,,,
+5,Ames (Prop1-),1961 Schaible and,spontaneous muta-,,,,fat,1,,,1,[83]
+6,,Gowen, tion in Propl,,,,,,,,,
+7,hGHRH,1994 Hyde (Moore),Mtl,1,1,n/a,n/a,n/a,n/a,n/a,n/a,[99]
+8,GHRH-/-,2004 Salvatori,NeoR replacing,,+,size;, fat,1,,n/a,1,[108]
+9,,(Alba),amino acid resi-,,,weight,,,,,,[108]
+10,,,dues 142,,,,,,,,,
+11,lit/lit (Ghrhr-),1976 Eicher,spontaneous muta-,,,, fat,1,,,1,"[115, 116]"
+12,,(Beamer),tion in Ghrhr,,,,,,,,,
+13,MT1-hGH,1983 Brinster,Mtl,1,1,1, soleus weight,n/a,,19,n/a,[124]
+14,,(Palmiter),,,,,,,,,,
+15,hGH,1991 Isaksson,Mtl,1,n/a, size,n/a,n/a,n/a,1,n/a,[132]
+16,,(Tornell),,,,,,,,,,
+17,171hGH/CS-TG,2009 Cattini (Jin),LCR,n/a,n/a,=,n/a,n/a,n/a,n/a,n/a,[135]
+18,hGH,1991 Brem (Gun-,Wap,n/a,n/a,-,heart weight ,n/a,n/a,n/a,n/a,[139]
+19,,zburg),,,,,,,,,,
+20,hGH,1994 Houdebine,(Rabbit) Wap,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,[140]
+21,GHv,1988 Goodman,Mtl,n/a,,,n/a,n/a,,n/a,n/a,[128]
+22,,(Selden),,,,,,,,,,
+23,bGH MT,1985 Palmiter,Mt1,1,, weight, lean; fat,dysregulated,,1,,[145]
+24,,(Hammer),,,,,,,,,,
+25,bGH PEPCK,1988 Handon,Pck1,1,,weight,lean;fat,serum glucose,,n/a,,[155]
+26,,(McGrane),,1,,weight,,,,n/a,,[155]
+27,GH-/-,2019 Kopchick,VelociGene KOMP,,,,fat; lean,; glucose intoler-,n/a,n/a,n/a,[167]
+28,,(List),UB1 reporter,,,,,ant,,,,
+29,AOiGHD,2011 Kineman,rGh/Cre with iDTR,+,,-, fat (HFD),1,n/a,n/a,n/a,[168]
+30,,(Luque),,,,,,,,n/a,,[168]
+31,GHA,1990-mGHA; 1991-,Mtl,1,,,fat;lean,,,,,"[26, 169, 170]"
+32,,hGHA Kopchick,,1,,,,,,,,
+33,,(Chen),,,,,,,,,,

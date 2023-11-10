@@ -1,0 +1,6 @@
+,0,1
+0,Folate Source,Description
+1,Food folate,"Natural,endogenous folate in food"
+2,Folic acid,Exogenous form of folate added as a fortificant
+3,Total folate,Direct sum of food folate and folic acid
+4,Dietary Folate Equivalents (DFE),Calculated as:food folate+(folic acid x1.7)

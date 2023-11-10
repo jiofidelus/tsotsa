@@ -1,0 +1,22 @@
+,0,1,2,3,4
+0,Material,Design Method,Optimal Factors,Responses,References
+1,,,-Initial oil concentration: 117 g/L,-COD removal:97%,
+2,TiO2,BBD,-Temperature: 60C,-Permeate flux: 232 L/h-m2,This work
+3,,,-Transmembrane Pressure:3.5 bar,-Permeate flux: 232 L/h-m2,
+4,,,-Transmembrane pressure:3 bar,-Water flux: 152 L/hm2,
+5,Nanocomposite,CCD,-pH:9.0,-Oil rejection: 98.72%,[61]
+6,,,-Feed concentration: 600 ppm,-Oil rejection: 98.72%,
+7,,,-pH: 7.2,-Water flux:123.85 L/hm,
+8,Mullite,BBD,-Feed concentration: 921 mg/L,-Oil rejection: 97.31%,[62]
+9,,,-Coagulant concentration: 207 mg/L,-Oil rejection: 97.31%,
+10,Hollow fiber,CCD,-Transmembrane pressure: 1 bar,-Turbidity removal: 79%,[63]
+11,polyvinylidene fluoride,CCD,-Velocity 3 m/s,-COD removal: 77%,[63]
+12,Anionic polyacrylamide,,C APAM and Coii:<50 mg/L,,
+13,(APAM),CCRD,-pH<4,-Minimum relative flux J/Jo = 4%,[64]
+14,(APAM),,-Transmembrane pressure: <0.075 MPa,,
+15,,,-Transmembrane pressure:=5 bar,,
+16,Al2O3-ZrO2,Taguchi method,-pH=7,-Permeate flux: 55.441 L/hm2,[65]
+17,,,Oil concentration:0.5% v/,,
+18,,,-Feed temperature: 35 C,,
+19,Y-Al2O3,BBD,-Transmembrane pressure: 5 bar,-Permeate flux: 112.7 kg/h-m2,[66]
+20,,,-Crossflow velocity CFV: 0.735 m/s,,

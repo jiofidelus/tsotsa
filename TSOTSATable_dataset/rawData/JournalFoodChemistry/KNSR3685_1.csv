@@ -1,0 +1,34 @@
+,0,1,2
+0,Category,Category,Distribution consumption frequency
+1,Nori,,RiskDiscrete{0\1\0.430.14\0.1
+2,,,0.0330.0160.00820.00270.52
+3,,,0000.0480.0380.1440.173
+4,,,0.077})
+5,Seaweed or samphire (fresh),Seaweed or samphire (fresh),RiskDiscrete{010.430.140.1
+6,,,0.0330.0160.00820.0027}{0.37
+7,,,0000.0380.0690.126017
+8,,,0.227}
+9,Snacks based on seaweed,Snacks based on seaweed,RiskDiscrete{010.43\0.14\0.1
+10,,,0.0330.0160.00820.0027}{0.74
+11,,,0000.0180.0290.0390.086
+12,,,0.086})
+13,Dried seaweed herbs,Dried seaweed herbs,RiskDiscrete{010.43\0.14\0.1
+14,,,0.0330.0160.00820.0027}{0.88
+15,,,00.0100.0100.010.0460.028
+16,,,0.018}
+17,Wakame,Wakame,RiskDiscrete{0\10.430.140.1
+18,,,0.0330.0160.00820.0027}{0.79
+19,,,0000.0290.0110.0570.048
+20,,,0.067})
+21,Kelp,,RiskDiscrete{0\10.430.140.1
+22,,,0.0330.0160.00820.0027{0.87
+23,,,0.009000.0180.0900.027
+24,,,0.065})
+25,"Dried algae (other than Kelp,","Dried algae (other than Kelp,",RiskDiscrete{010.430.140.1
+26,,Wakame and Nori-data as a,0.0330.0160.00820.0027}{0.87
+27,simulator of Kelp,simulator of Kelp,0.009000.0180.0900.027
+28,,,0.065})
+29,Sea weed pasta(,Sea weed pasta(,RiskDiscrete{0\10.430.140.1
+30,,,0.0330.0160.00820.0027{0.90
+31,,,000.0090.0090.0270.045
+32,,,0.009})

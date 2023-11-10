@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Title,Evaluation,Graph,Correct predictions,Methods
+1,Evaluation 1,Remove random 30% of links from the,Comprehensive evaluation for recovery,Match predicted links with the actual,All methods are applied
+2,Evaluation 1,DDIs (repeat 10 times),of DDS similarity links,ones,All methods are applied
+3,Evaluation 2,Remove random 30% of links (repeat,,Match predicted links with DrugBank,SP_2(the best from evaluation I over
+4,Evaluation 2,10 times),Ground Truth using DrugBank,reported interactions,evaluation l over joint graph)
+5,Evaluation 3,Remove random 30% of links (repeat,,Match predicted links with the actual,disjoint graph) and RA (the best from
+6,Evaluation 3,10 times),,ones,evaluation l over joint graph)
+7,,Prepare a list of gold standard food-,,,
+8,,drug interactions extracted from the,,,SP_2(the best from evaluation l over
+9,Evaluation 4,hidden from any training and will be,"Whole graph including DDS,FDS,FFS",food-drug interactions (gold standard,(the best from evaluation l over joint
+10,,used to measure and evaluate the valid,,dataset),
+11,,ity of FDMine,,,

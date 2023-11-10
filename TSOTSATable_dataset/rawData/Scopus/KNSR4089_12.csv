@@ -1,0 +1,42 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Study,Species,Probiotic,Model,Probiotic conc.,Duration,Outcome measures,Pro,Crt,Effect
+1,,,,,(CFU/day),of Tx,,,,
+2,,,,,,Days),,,,
+3,Ni et al. [72],C57BL/6 mice,B. longum,Aged (10 months),2109,84,"MWM,NOR,Active",12,12,Improved cognitive
+4,,C57BL/6 mice,L.casei,Aged (10 months),2109,84,Shuttle Avoidance,12,12,"tests, improved"
+5,,,,,,,"Test, Biomark",,,neurotrophic factors
+6,,,,,,,"ers, histology,",,,inflammation and
+7,,,,,,,gut microbiome,,,"oxidative stress, gut"
+8,,,,,,,analysis,,,microbiome altered
+9,,,,,,,"MWM,NOR,Active",,,
+10,,,,,,,Shuttle Avoidance,,,
+11,,,,,,,"Test, Biomark-",,,
+12,,,,,,,"ers, histology,",,,
+13,,,,,,,gut microbiome,,,
+14,,,,,,,analysis,,,
+15,Ou et al. [73],APP/PS1 mice,A.muciniphila,AD (Transgenic;,5109,180,"Open field test,",10,10,Y-Maze results
+16,,,,APP/PS1),,,"Y-maze, Biomark-",,,"improved, improved"
+17,,,,,,,"ers, histology",,,glucose and lipid
+18,,,,,,,,,,"metabolism,"
+19,,,,,,,,,,improved intestinal
+20,,,,,,,,,,barrier dysfunction
+21,Patel et al.[74],Swiss albino mice,L.rhamnosus,AD Scopolamine-,1 x 106,10,"MWM, Biomarkers",6,6,Improved MWM
+22,,(Female),, induced dementia,,,,,,"results, increased"
+23,,,,,,,,,,antioxidant enzyme
+24,,,,,,,,,,levels
+25,Qian et al. [75],SPF KM (Kunming),L. delbruechii,Aged,1.0x 10 CFU/kg,28,"Organ indices, bio-",10,10,Improved organ
+26,,mice,L. plantarum,Aged,1.0 x 10' CFU/kg,28,markers,10,10,indices and reduced
+27,,SPF KM (Kunming),,,,,"Organ indices, bio-",,,oxidative stress
+28,,mice,,,,,markers,,,
+29,Rezaeiasl (LTP) et al.SpragueDawley rats,Rezaeiasl (LTP) et al.SpragueDawley rats,"L. acidophilus, B.",AD (ICV injection of 1.1010,AD (ICV injection of 1.1010,42,"MWM, biomarkers",10,10,Improved MWM
+30,[76],(Male),"bifidum, B. longum",A1-42),,,,,,"results, PPF ratio ang"
+31,,,,,,,,,,lipid metabolism
+32,Rezaeiasl (synaptic),Wistar rats (Male),"L. acidophilus, B.",AD (ICV injection of 1.51010,AD (ICV injection of 1.51010,56,"MWM, gut microbi-",,6,Improved MWM
+33,et al.[77],,"bifidum, B. longum",A1-42),,,"ome analysis, his-",,,"results, restored LTP"
+34,,,,,,,"tology, biomarkers",,,in AD mice
+35,Romo-Arazia et al.,Sprague-Dawley ratsE. faecium,Sprague-Dawley ratsE. faecium,Aged (15 months),4108,35,"MWM, Associative",13,13,Improved spatial
+36,[78],(Male),,,,,"memory, Biomark-",,,memory tests but no
+37,,,,,,,"ers, gut microbi-",,,"associative memory,"
+38,,,,,,,ome analysis,,,improved inflamma-
+39,,,,,,,,,,"tory, neurotrophic"
+40,,,,,,,,,,state

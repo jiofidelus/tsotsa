@@ -1,0 +1,41 @@
+,0,1,2,3,4,5,6,7
+0,Flour origin,Extrusion,,Dietary fibre content,,,,References
+1,,conditions,,g/100g,,,,
+2,,,soluble,insoluble dietary,total dietary,-glucan,arabinoxylan,
+3,,,dietary fibre,fibre,fibre,,,
+4,rye endosperm,before extrusion,,6.2,,1.5,1.6,"(Comino, Collins, Lahnstein & Gidley,"
+5,,,,,,,,2016)
+6,,"130C,20-25%",,4.4,-,1.8,1.9,
+7,rye,before extrusion,4.7,9.7,14.4,1.6,,"(Torbica,Belovic,Popovic,&Cakarevic"
+8,,,,,,,,2021)
+9,,"220C,27 %,-",4.2,8.8,13.0,1.4,-,
+10,rye bran,before extrusion,4.5,35.3,39.8,5.8,21.6,"(Andersson, Andersson, Jonsall,"
+11,,,,,,,,"Andersson,&Fredriksson,2017"
+12,,"90C,30%,200",5.2,34.2,39.4,6.0,22.1,
+13,,rpm,,,,,,
+14,,"130C,30%",6.0,34.4,40.4,5.9,22.4,
+15,,400 rpm,,,,,,
+16,barley endosperm,before extrusion,-,3.3,-,0.48,0.45,Comino et al.2016
+17,,"130C,48%-",,2.5,-,0.59,0.46,
+18,barley (standard starch,before extrusion,6.8,10.0,16.8,6.1,4.1,Honcu et al.2016
+19,variety),,,,,,,
+20,,"130C,20%",8.2,8.8,17.0,6.3,4.5,
+21,,220 rpm,,,,,,
+22,barley (waxy variety),before extrusion,8.4,7.1,15.4,7.9,3.1,Honcu et al.2016
+23,,"130C,20%",9.7,6.1,15.8,7.9,3.1,
+24,,220 rpm,,,,,,
+25,"barley (bran removed,",before extrusion,7.6,5.7,13.3,4.7,4.0,"Djurle,Andersson Andersson,2016)"
+26,low amylose),,,,,,,
+27,,"130C,5%400",7.1,4.8,11.9,4.2,3.4,
+28,,rpm,,,,,,
+29,barley (bran removed,before extrusion,6.9,7.1,14.0,5.3,4.4,"Djurle et al.,2016"
+30,high amylose),,,,,,,
+31,,"130C,8%,400",7.3,6.4,13.7,5.1,4.3,
+32,,rpm,,,,,,
+33,buckwheat,before extrusion,3.1,7.1,10.2,-,-,"Sun et al,2019"
+34,,"140C,32%",4.3,5.7,10.0,-,-,
+35,,120 rpm,,,,,,
+36,,"140C,40%",4.0,6.0,10.0,-,-,
+37,,120 rpm,,,,,,
+38,sorghum,before extrusion,3.5,10.0,13.5,0.053,,Torbica et al.2021
+39,,"220 C, 27 %, -",3.8,9.4,13.2,0.080,-,

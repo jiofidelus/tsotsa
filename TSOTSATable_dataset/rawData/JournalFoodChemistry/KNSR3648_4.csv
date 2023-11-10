@@ -1,0 +1,48 @@
+,0,1,2,3,4,5,6,7
+0,Sample,Technique,Column / mobile phase,Run time,RSD,LODg,Recovery,Reference
+1,,,,(min),(%),L-1,(%),
+2,Honey,GC-MS,"50m 0.20mm,0.20m",32.0,12.0 -,,,"(Vazquez et al.,"
+3,,,/helium,,20.0,,,2021)
+4,Apple and pear juice,GCMS/MS,"30 m  0.25 mm,0.25m/helium",12.2,2.3 ,1.6,,(Marsol-Vall
+5,,,,,8.4,,,"et al.,2016"
+6,Dairy products,GC-MS/MS,"30 m 0.25mm,0.25m/helium",17.2,13.1,20.0,79.0,"Cui et al.,2020"
+7,,,,,,,115.0,
+8,Dairy products,HPLC-DAD (284,"150 mm  4.6 mm,5m/acetonitrile and water",10.0,2.0 -,19.5,89.0-91.9,"(Barrera et al.,"
+9,,nm),(isocratic),,4.1,,,2021)
+10,Breakfast food,HPLC-DAD (280,"150mm  4.6mm,5m/acetonitrile and 0.2mol",160,,,,(Ghazouani
+11,,nm),L-phosphoric acid(gradient),,,,,"et al.,2021"
+12,"Vegetables,meat-based,and",HPLC-DAD (284,"100 mm  4.6mm,3.5 m/acetonitrile and water",14.0,1.0 -,150.0,83.0-,"Prata et al.,"
+13,fruit-based baby foods,nm),(gradient),,6.0,,105.0,2021)
+14,Honey,HPLC-FLD,"250 mm  4.6 mm, 5 m/ acetonitrile and water",90.0,3.9 ,0.01,96.9 ,"(Zhang et al.,"
+15,,320 and 390 nm,(gradient),,5.7,,103.6,2018)
+16,Bovine milk powder,HPLC-FLD (322,"150 mm  4.6mm,5m/acetonitrile and water",30.0,0.7 ,0.1,96.7 -98.8,"(Sun et al.,"
+17,,and 447 nm),(gradient),,5.1,,,2017)
+18,Carbonated drink and soft,HPLC-MS/MS,"50 mm  2 mm,2.5m/methanol and water",5.0,2.3 ,0.1,85.1-,"(Feng et al.,"
+19,drink,,(gradient),,3.5,,101.0,2017)
+20,Thermally-processed,HPLC-MS/MS,"50mm2mm,2.5m",2.3,2.3 ,0.8,87.0 ,"Qin et al.,"
+21,seafood products,,"/methanol, formic acid and water",,3.5,,102.0,2017)
+22,,,(isocratic),,,,,
+23,"Cereal, breakfast, and insect",HPLC-MS/MS,"150 mm  2.0 mm,3.5 m/methanol,water with",17.0,1.7 -,11.0,99.0 ,"(Gonzalez et al.,"
+24,bars,,0.1% formic acid and 2 mmol L-1 ammonium,,8.0,,102.0,2020)
+25,,,acetate (gradient),,,,,
+26,Prebiotic-supplemented,HPLC-UV,"250 mm  4.6 mm,5 m/methanol and water",23.0,,0.3,,"(Sabater et al.,"
+27, infant formula,(283 nm),(isocratic),,,,,2018)
+28,Coffee,HPLC-UV,"250 mm  4.6 mm,5 m/ acetonitrile and acetic",30.0,,100.0,,"(Alcantara et al.,"
+29,,(280 nm),acid in water,,,,,2021)
+30,,,(gradient),,,,,
+31,Biscuits,HPLC-UV,"150 mm  4.6 mm,5 m/ acetonitrile and water",20.0,,1000,,"(Nguyen et al.,"
+32,,284 nm),(gradient),,,,,2016)
+33,Chinese traditional,HPLC-UV,"250 mm  4.6 mm,5 m/10% methanol and",,,145.0,91.6 ,Gong et al.
+34,fermented vinegar,284 nm),water (isocratic),,,,106.3,2020)
+35,Corn and sugarcane syrups,HPLC-UV (285,"150 mm  4.6 mm,5 m/acetonitrile and 0.5%",8.0,0.6 -,90.0,100.0 -,Andrade et al.
+36,,nm),formic acid (isocratic),,6.4,,104.0,2016)
+37,Fructus Corni,UHPLC-UV (240,"100 mm  2.1 mm,1.7 m/methanol and acetic",12.5,2.6 ,20.0 ,95.2 ,"Du et al.,2018"
+38,,nm),acid in water (gradient),,4.7,80.0,103.0,
+39,Coffee,UHPLC-UV (280,"50 mm  2.1 mm,1.7 m/methanol and 0.2%",13.0,1.9-,0.7,105.0-108,(Macheiner
+40,,nm),formic acid,,8.5,,,"et al., 2021)"
+41,,,(gradient),,,,,
+42,Meatballs,UHPLC-MS/MS,"100 mm  2.1 mm,1.7 m/methanol and 0.1%",4.5,0.31 -,0.6,82.8 -119.9,"(Sun et al.,"
+43,,,formic acid (gradient),,6.6,,,2022)
+44,Seafood,UHPLC-MS/MS,"100 mm  2.1 mm,",20.0,7.1 -,20.0,85.0-99.8,"(Qin et al.,"
+45,,,1.8 m/acetonitrile with 0.1% formic acid,,10.1,,,2021)
+46,,,(gradient),,,,,

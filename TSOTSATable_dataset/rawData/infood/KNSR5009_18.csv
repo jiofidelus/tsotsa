@@ -1,0 +1,34 @@
+,0,1,2
+0,IAGNAMVE,DESCRIPTION,UNTT
+1,Pantothenic acid,,
+2,PANTAC,Pantothenic acid,mg
+3,Vitamin B6,,
+4,VITB6A,"Vitamin B-6,total;determined by analysis",mg
+5,VITB6-,"Vitamin B-6, method unknown or variable",mg
+6,VITB6C,"Vitamin B-6, total; calculated by summation",mg
+7,PYRXN,Pyridoxine,mg
+8,PYRXNHCL,Pyridoxine HCI,mg
+9,Vitamin B12,,
+10,VITB12,Vitamin B-12,mcg
+11,Vitamin C,,
+12,VITC,Vitamin C,mg
+13,ASCL,L-ascorbic acid,mg
+14,ASCDL,L-dehvdroascorbic acid,mg
+15,VITC-,Vitamin C;method unknown or variable,mg
+16,Vitamin K,,
+17,VITK1,Vitamin K-1,mcg
+18,VITK2,Vitamin K-2,mcg
+19,STERT,"Sterols, total",mg
+20,Plant sterols,,
+21,BRASTR,Brassicasterol,mg
+22,CAMT,"Campesterol,total",mg
+23,SAPON,Saponins,mg
+24,SITSTR,Sitosterol,mg
+25,SQUAL,Squalene,mg
+26,STGSTR,"Stigmasterol,unspecified",mg
+27,Cholesterol,,
+28,CHOLE,Cholesterol;determined by enzymatic or chromatographic,mg
+29,,method,
+30,CHOL-,Cholesterol; method unknown or variable,mg
+31,Bioactive compounds,,
+32,POLYPHENT,Total polyphenolics,mg

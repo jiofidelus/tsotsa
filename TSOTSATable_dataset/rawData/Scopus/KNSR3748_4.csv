@@ -1,0 +1,30 @@
+,0,1,2,3,4,5
+0,Tissue,UniProt ID,Gene,Protein Name,FC,p-Value *
+1,AORTA,G3V6E7,Fmod,Fibromodulin,1.495,0.0002
+2,,P10111,Ppia,Peptidyl-prolyl cis-trans isomerase A,1.290,0.0049
+3,,A0A0G2JSG6,Ak2,"Adenylate kinase 2,mitochondrial",1.296,0.007
+4,,P31232,Tagln,Transgelin,1.379,0.0099
+5,,A0A0G2K6J5,Myl6,Myosin light polypeptide 6,1.653,0.0119
+6,,Q5XFX0,Tagln2,Transgelin-2,1.360,0.0123
+7,,P31044,Pebp1,Phosphatidylethanolamine-binding protein 1,1.569,0.0129
+8,,D3ZCZ9,LOC100912599,"iron-sulfur protein 6,mitochondrial",1.492,0.0139
+9,,Q9WUH4,Fhl1,Four and a half LIM domains protein 1,1.669,0.0022
+10,,Q08163,Cap1,Adenylyl cyclase-associated protein 1,1.472,0.0037
+11,,A1L1M0,Prkaca,"catalytic,alpha",-1.122,0.0043
+12,,G3V7Q7,Iqgap1,"protein 1 (Predicted), isoform CRA_b",-1.507,0.006
+13,,F1M779,Cltc,Clathrin heavy chain,1.582,0.0064
+14,,B4F7E8,Fam129b,Niban-like protein 1,1.204,0.0091
+15,,Q91Y81,Sept2,Septin-2,-1.414,0.0109
+16,,Q5BJZ3,Nnt,Nicotinamide nucleotide transhydrogenase OS,1.422,0.013
+17,,P34058,Hsp90ab1,Heat shock protein HSP 90-beta,1.254,0.0137
+18,,A0A140TAI3,Hnrnpc,isoform CRA b,-1.504,0.0144
+19,,Q5RKI0,Wdr1,WD repeat-containing protein 1,1.349,0.0146
+20,,Q5BJU0,Rras2,RAS-related 2,1.229,0.0147
+21,,F1MAA7,Lamc1,Laminin subunit gamma 1,-1.413,0.0152
+22,,P19511,Atp5pb,mitochondrial,-1.308,0.0152
+23,,Q6P502,Cct3,T-complex protein 1 subunit gamma,1.634,0.0152
+24,,P10860,Glud1,"Glutamate dehydrogenase 1, mitochondrial",1.256,0.0162
+25,,A0A0G2JSS9,Atl3,Atlastin-3,-1.198,0.0196
+26,HEART,P57093,Phyh,"Phytanoyl-CoA dioxygenase, peroxisomal",1.152,0.026
+27,,A0A0G2K5P8,Glrx3,Glutaredoxin-3,1.106,0.0263
+28,,Q5PQN9,Mrpl38,"39S ribosomal protein L38, mitochondrial",1.256,0.0281

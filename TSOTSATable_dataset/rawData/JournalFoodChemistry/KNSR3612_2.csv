@@ -1,0 +1,29 @@
+,0,1
+0,Nutrient(unit),Value
+1,Energy(kJ),14.25-15.75
+2,Protein (g),89-134
+3,Fat(g),90-134
+4,Carbohydrates(g),446-625
+5,Vitamin A(ug,1000
+6,Vitamin B1(mg,1.4
+7,Vitamin B2(mg),1.7
+8,Vitamin B6 (mg,1.8
+9,Niacin(mg),18
+10,Folic acidug),150
+11,Vitamin B12(g),3
+12,Vitamin C(mg),60
+13,Vitamin D (mg),7.5
+14,Vitamin E (mg),12
+15,Ca(g),1.0
+16,P(g),1.5
+17,Mgmg,350
+18,Fe(mg),10
+19,Zn (mg),15
+20,I(g),200
+21,Cu (mg),1.5
+22,Se(ug),50
+23,NaCl(g,<6
+24,Breakfast,20-30% of daily energy intake
+25,Morning snack,10-15% of daily energy intake
+26,Lunch,35-40% of daily energy intake
+27,Dinner,20-30% of daily energy intake

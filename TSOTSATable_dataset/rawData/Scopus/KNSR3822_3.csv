@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,,Observed initial,Modeled diet,,Modeled diet,
+1,,diet,without meat,,with the optimized meat substitute,with the optimized meat substitute
+2,,,With energy,Without energy,With energy,Without
+3,,,adjustmenta,adjustment,adjustmenta,energy
+4,,,,,,adjustment
+5,Folate,1.00,0.00,0.00,0.00,0.00
+6,Vitamin B-12,1.00,0.00,0.00,0.00,0.00
+7,Vitamin C,1.00,0.00,0.00,0.00,0.00
+8,Iodine,1.00,0.00,0.00,0.00,0.00
+9,Selenium,1.00,0.00,0.00,0.00,0.00
+10,Zinc,1.00,0.00,0.00,0.00,0.00
+11,Calcium,1.00,0.00,0.00,0.00,0.00
+12,Iron,0.99, 0.03, 0.05, 0.01,0.00

@@ -1,0 +1,25 @@
+,0,1,2,3,4,5
+0,ISCCAAP,3-Alpha,Family,English name,"Scientific name,author",Food Item ID
+1,Freshwater fish,Freshwater fish,,,,
+2,12 Tilapias and other cichlids,12 Tilapias and other cichlids,,,,
+3,,TLN,Cichlidae,Nile tilapia,Oreochromis niloticus (Linnaeus 1758),"091001-091006,091067-091072"
+4,,,,,,"091128-091133, 091189-091194"
+5,13 Miscellaneous freshwater fishes,13 Miscellaneous freshwater fishes,13 Miscellaneous freshwater fishes,,,
+6,,CTO,Clariidae,Torpedo-shaped catfishes,Clarias sppa,"091007,091073,091134,091195"
+7,,CBT,Clariidae,Philippine catfish,Clarias batrachus (Linnaeus 1758),"091008,091074,091135,091196"
+8,,CLZ,Clariidae,North African catfish,Clarias gariepinus (Burchell 1822),"091009-091011, 091075-091077,"
+9,,,,,,"091136-091138,091197-091199"
+10,,CMC,Clariidae,Bighhead catfish,"Clarias macrocephalus, Gunther 1864","091012-091013, 091078-091079,"
+11,,,,,,"091139-091140,091200-091201"
+12,,FPI,Esocidae,Northern pike,"Esox lucius, Linnaeus 1758","091014-091016, 091080-091082"
+13,,,,,,"091141-091143, 091202-091204"
+14,,ITP,Ictaluridae,Channel catfish,Ictalurus punctatus (Rafinesque 1818),"091017-091020, 091083-091086,"
+15,,,,,,"091144-091147,091205-091208"
+16,,PGS,Pangasidae,Striped catfish,Pangasius hypophthalmus (Sauvage 1878),"091021-091025, 091087-091091,"
+17,,,,,,"091148-091152, 091209-091213"
+18,Diadromous fish,Diadromous fish,,,,
+19,"23 Salmons, trouts, smelts","23 Salmons, trouts, smelts",,,,
+20,,SAL,Salmonidae,Atlantic salmon,"Salmo salar, Linnaeus 1758","091026-091034, 091062-091066,"
+21,,,,,,"091092-091100, 091153-091161,"
+22,,,,,,091214-091222
+23,,TRR,Salmonidae,Rainbow trout,Oncorhynchus mykiss (Walbaum 1792) (syn.,"091035-091041, 091101-091107,"

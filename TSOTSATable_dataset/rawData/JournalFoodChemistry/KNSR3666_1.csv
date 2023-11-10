@@ -1,0 +1,44 @@
+,0,1,2,3,4
+0,Food,Species,Compounds,Production,References
+1,,,,system,
+2,Orange,Citrus sinensis,Soluble,No effects,"Khalil & Hassan,"
+3,,"L.,cv.",solids,,2015
+4,,Washington,Acidity,,
+5,,navel,,Conventional,
+6,Strawberry,"Fragaria vesca,",Soluble,No effects,Khalil& Hassan
+7,,var.Festival,solids,,"2015Drobek,"
+8,,,Acidity,1,"Frac,Zdunek,&"
+9,,,,Conventional,"Cybulska,2020"
+10,,Fragaria x,Soluble,,
+11,,ananassa,solids, Organic,
+12,,"Duch., cv.",Acidity,,
+13,,Honeoye,,1,
+14,,,,Conventional,
+15,Apples,Malus,Soluble,No effects,PeckAndrews
+16,,domestica,solids,,"Reganold,&"
+17,,"Borkh., cv.",Acidity,No effects,"Fellman,2006"
+18,,Galaxy Gala,,,
+19,,,Soluble,Organic,
+20,,Malus,solids,,"Do Amarante,"
+21,,"domestica, cv",Acidity,1,"Steffens,Mafra"
+22,,"Royal Gala,",,Conventional,"&Albuquerque,"
+23,,Fuji,,,2008
+24,Cauliflower,Brassica,Soluble,No effects,MaggioDe
+25,,oleracea L.,solids,,"Pascale,"
+26,,var.botrytis,,,"Paradiso,&"
+27,,,,,"Barbieri,2013"
+28,Black,Ribes nigrum,Soluble,No effects,"Anttonen,&"
+29,currants,L.cv.Ojebyn,solids,,"Karjalainen,"
+30,,,Acidity,No effects,2006
+31,Kiwifruits,Actinidia,Soluble, Organic,"D'Evoli et al.,"
+32,,"deliciosa, cv.",solids,,2013
+33,,Hayward,,,
+34,Passion,Passiflora,Soluble, Organic,"Oliveira et al.,"
+35,fruits,edulis Sims,solids,,2017
+36,,f. flavicarpa,Acidity,1,
+37,,Deg.,,Conventional,
+38,Black,Rubus,Soluble,Organic,Pinto et al.
+39,berries,"fruticosus, cv.",solids,,2018
+40,,Loch Ness,Acidity,No effects,
+41,,Chester,,,
+42,,Thornless,,,

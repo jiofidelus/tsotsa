@@ -1,0 +1,52 @@
+,0,1,2,3
+0,Applications,Outcomes,Outcomes,References
+1,Fish oil,(i A model was developed to estimate the oxidation parameters using three,,Asnaashari et al.[186]
+2,,"different algorithms which are,ANFIS,multilinear perceptron,and multiple",,
+3,,"linear regression, and it was found that ANFIS model had the best accuracy in",,
+4,,predicting the parameters,predicting the parameters,
+5,Ice cream,(i The sensory attributes of ice cream were investigated by using the ANFIS,,Bahram-Parvar et al.[187]
+6,,model to predict the acceptability of taste with respect to the input parameters,,
+7,,and the model achieved a minimum error of 5.11% and high correlation value,,
+8,,,of 0.93,
+9,Indian sweets (Pantoa),i) The prediction of the heat transfer coefficient during the frying of pantoa,,Neethu et al.[188]
+10,,"using the ANFIS model yielded a high Rvalue of 0.9984, and this prediction",,
+11,,is important for designing the process equipment as well as saving energy in,,
+12,,commercial production,commercial production,
+13,Orange,i The developed ANFIS model was able to predict the orange taste and has,,Mokarram et al.[189]
+14,,higher performance when compared to multiple regression model,higher performance when compared to multiple regression model,
+15,Quince fruits,"(i) The ANFIS model was able to predict the moisture ratio, energy utilization,",,Abbaspour-Gilandeh et al.[190]
+16,,"energy utilization ratio,exergy loss,and exergy efficiency of quince fruit dur-",,
+17,,"ing the drying process with high accuracy of with R2 value of 0.9997, 0.9989,",,
+18,,"0.9988,0.9986,and 0.9978,respectively","0.9988,0.9986,and 0.9978,respectively",
+19,,"(ii) The ANFIS model was compared with the ANN model, and the results","(ii) The ANFIS model was compared with the ANN model, and the results",
+20,,obtained showed that the ANFIS model has higher accuracy compared to the,,
+21,,ANN model where the value of R was higher with a lower error value in the,,
+22,,ANFIS model,ANFIS model,
+23,Rapeseed oil,iThe developed ANFIS could predict the different outputs of rapeseed oil pro-,,"Farzaneh et al.[152,153]"
+24,,"cess by oil extraction and cooking at industrial scale,and the model achieved a",,
+25,,high correlation coefficient which is around 0.99,high correlation coefficient which is around 0.99,
+26,Salmonella enteritidis,i Prediction of the inactivation of Salmonella enteritidis by ultrasound was able Soleimanzadeh et al. [191],,i Prediction of the inactivation of Salmonella enteritidis by ultrasound was able Soleimanzadeh et al. [191]
+27,,to be done by the developed ANFIS model with a good accuracy where the,,
+28,,correlation coefficient obtained was 0.974,correlation coefficient obtained was 0.974,
+29,,(ii) This study was known to be important in the food industry as the bacteria,,
+30,,can cause food poisoning if proper detection is not being done,can cause food poisoning if proper detection is not being done,
+31,Taro,(i) The optimization of extraction conditions of antioxidants from the taro flour,,Kumar & Sharma [192]
+32,,can be done by using the developed ANFIS model coupled with response,can be done by using the developed ANFIS model coupled with response,
+33,,surface methodology,surface methodology,
+34,,(ii The prediction values obtained from the developed model were validated by,,
+35,,"comparing with the experimental values, and the results were almost consistent",,
+36,,with prediction values from the developed model,with prediction values from the developed model,
+37,Vegetables (can-,(i The developed model by using the ANFIS system was able to predict the,,Kaveh et al. [193]
+38,"taloupe, garlic,","effective moisture diffusivity, specific energy consumption, moisture ratio,",,
+39,potatoes),and drying rate of the vegetables with a high regression coefficient of 0.9990,,
+40,,"0.9917,0.9974,and 0.9901,respectively,with minimum error value","0.9917,0.9974,and 0.9901,respectively,with minimum error value",
+41,,(ii) Comparison between the ANFIS model and ANN model was carried out.,,
+42,,and the results showed that the ANFIS model possess a higher efficiency than,,
+43,,that of ANN model,that of ANN model,
+44,Virgin olive oil,(i) The ANFIS model was able to predict the quality of virgin olive oil samples,,Arabameri et al.[194]
+45,,with high accuracy where the coefficient determination obtained was greater,,
+46,,than 0.998,than 0.998,
+47,,"(ii It was also able to visualize the effects of temperature,time, total polyphenol.",,
+48,,"fatty acid profile,and tocopherol on the oxidative stability of virgin olive oil",,
+49,Yam,(i) The prediction of the yam moisture ratio during the drying process showed a,,Ojediran et al.[195]
+50,,high R2value with 0.98226 by using the developed ANFIS model,high R2value with 0.98226 by using the developed ANFIS model,

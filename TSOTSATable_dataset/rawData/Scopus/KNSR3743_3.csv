@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7
+0,Fat sources,All women,,Premenopausal women,,Menopausal women,,
+1,,No. of cases/controls (464/500),No. of cases/controls (464/500),No.of cases/controls(309/330,No.of cases/controls(309/330,No.of cases/controls (155/161),,No.of cases/controls (155/161)
+2,,Animal fat,Vegetable fat,Animal fat,Vegetable fat,Animal fat,,Vegetable fat
+3,,OR (95% CI),OR (95% CI),OR (95% CI),OR (95% CI),OR (95% CI),,OR (95% CI)
+4,Animal fats,,0.93(0.82-1.04),,0.94 (0.821.09),,,0.87 (0.691.09
+5,Vegetable fats,1.07 (0.951.20),-,1.05 (0.911.21),-,1.14 (0.911.42),,
+6,Protein sources,Animal protein,Vegetable protein Animal protein,Vegetable protein Animal protein,Vegetable protein,Animal protein,,Vegetable proteit
+7,,OR (95% CI),OR (95% CI),OR (95% CI),OR (95% CI),OR (95% CI),OR (95% CI),OR (95% CI)
+8,Animal proteins,,0.99 (0.941.04),,1.00 (0.941.06),,0.91 (0.791.05),0.91 (0.791.05)
+9,Vegetable proteins,1.00 (0.951.06),-,0.99 (0.931.06),-,1.08 (0.941.25),-,
+10,Carbohydrate,Complex carbohy-,Simple sugars,Complex carbohy-,Simple sugars,Complex carbohy-,Simple sugars,Simple sugars
+11,sources,drates,,drates,,drates,,
+12,,OR (95% CI),OR (95% CI),OR (95% CI),OR (95% CI),OR (95% CI),OR (95% CI),OR (95% CI)
+13,Complex carbohy-,,1.01 (0.981.04),,1.02 (0.981.06),,1.00 (0.951.05),1.00 (0.951.05)
+14,drates,,,,,,,
+15,Simple sugars,0.98 (0.951.01),,0.97 (0.941.01),,0.99 (0.941.04),-,

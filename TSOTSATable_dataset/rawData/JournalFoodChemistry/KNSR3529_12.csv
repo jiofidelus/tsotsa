@@ -1,0 +1,43 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,Matrix,Extracting solvent,TC,"Energy (W,",Other operation,Target compounds,Chemical structure of main compounds,Chemical structure of main compounds,,,,Extraction recovery/,Antioxidant capacity,Reference
+1,,,,kHz),parameters,,,,,,,yield,(method),
+2,,Ethanol/water,,,1:50(sample/,"Phenolic acids, flavanols,",Resveratrol,,,,,n.d,Lab scale:,
+3,,50:50v/v,,,"solvent ratio,w/v","flavanones,flavonols,",153.4  7.7 mg/100 g DW,153.4  7.7 mg/100 g DW,,,,,26.3  1.5 mg TE/g,
+4,,,,,Without ice bath,,,,,OH,,TPC: 32.6  2.1 mg,,
+5,,,,,,,HO,,,,,,(FRAP),
+6,,,,,,,,,,,,TFC: 9.5 0.6 mg EC/,,
+7,,,,,,,,,,,,,Pilot scale:,
+8,,,,,,,OH,OH,,,,Pilot scale:,(DPPH),
+9,,,,,,,Catechin,,,,,TPC: 26.0  1.5 mg,(DPPH),
+10,,,,,,,,,,,,GAE/g,15.11.5 mg AAE/g,
+11,,,,,,,OH,OH,,,,,(FRAP),
+12,,,,,,,,,,,,TFC: 8.3  0.8 mg EC/,,
+13,,,,,,,,,,,,g,,
+14,,,,,,,,,,OH,,,,
+15,,,,,,,,,,OH,,,,
+16,,,,,,,131.4  6.6 mg/100 g DW,131.4  6.6 mg/100 g DW,,,,,,
+17,Olive leaves,Ethanol/water,25,200W,1:20 (sample/,Phenolic compounds,Oleuropein,,,,,n.d,3.10  0.17 mol,"Cedola et al.,2020"
+18,,50:50v/v,,,"solvent ratio, w/v);",,n.d,,,,,,FeSO4-7HO/g,
+19,,,,,60 min,,,,,,,TPC: 0.72  0.03 mg,(FRAP,
+20,,,,,,,,,,OH,,GAE/g,,
+21,,,,,,,,,,,OH,TFC: 0.39  0.03 mg,,
+22,,,,,,,HO,,,,,,,
+23,,,,,,,OH,OH,,,,,,
+24,Potato peels and,Ethanol/water,35,34 kHz,1:10 (sample/,Phenolic compounds,Chlorogenic acid,Chlorogenic acid,,,,n.d,2104.18  14.38 to,"Riciputi et al.,"
+25,the outer layers,55:45(v/v,,,"solvent ratio, w/v);",,,,,,,,4639.59  60.71 moles,2018
+26,of flesh,,,,35 min,,HO,,,,,TPC: 2.48  0.02 to,TE/100g(DPPH),
+27,,,,,,,,,,,,7.23  0.06 mg /g,,
+28,,,,,,,,,,,,,3179.92  30.25 to,
+29,,,,,,,,,,,,,6037.12  98.10 TE/100,
+30,,,,,,,OH,,,,,,g (TEAC),
+31,,,,,,,,,OH,,,,,
+32,,,,,,,1.27 0.01 to 4.100.03 mg/g DW,1.27 0.01 to 4.100.03 mg/g DW,,,,,,
+33,Potato peels,Ethanol/water,77,140W,84 mL/g; 90 min,Phenolic compounds,Chlorogenic acid,Chlorogenic acid,,,,n.d,56.4  1.30 mol TE/ g,"Paleologou et al.,"
+34,,59:41v/v,,,,,,,,,,,(DPPH),2016
+35,,,,,,,HO,CO2H,,,,TPC: 9.11 mg CA/g,,
+36,,,,,,,,,,,,,43.07  1.61 mol AAE/g,
+37,,,,,,,,,,,,,(FRAP),
+38,,Glycerol/water,80,,,,,,,,,n.d,43.89  0.00 mol TE/g,
+39,,83:17(v/v,,,,,OH,,,OH,,TPC:8.71 mg CA/g,(DPPH),
+40,,,,,,,,,OH,,,,35.92  0.05 mol AAE/g,
+41,,,,,,,n.d,,,,,,(FRAP),

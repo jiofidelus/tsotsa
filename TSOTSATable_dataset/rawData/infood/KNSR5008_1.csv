@@ -1,0 +1,19 @@
+,0,1,2,3,4
+0,Food name and description,Density in g/ml,Specific,BiblioID,Update
+1,,(including mass,gravity,,Version
+2,,and bulk density),,,2.0
+3,"Beverages,non-alcoholic(including soft drinks and juices",,,,
+4,"Apple juice, canned or bottled, unsweetened, with",1.04,1.05,USDA,x
+5,added ascorbic acid,,,,
+6,"Apple juice, canned or bottled, unsweetened,",1.04,1.05,USDA,X
+7,without added ascorbic acid,,,,
+8,"Beverages, fruit juice drink, reduced sugar, with",1.04,1.05,USDA,X
+9,vitamin E added,,,,
+10,"Carbonated beverage, tonic water",1.02,1.02,USDA,X
+11,"Cranberry juice cocktail, bottled",1.05,1.05,USDA,X
+12,"Cranberry-apple juice drink, bottled",1.06,1.07,USDA,x
+13,"Fruit drinks,low calories,undiluted",,1.010-1.030,UK 6th,
+14,"Fruit drinks,undiluted",,1.090-1.120,UK 6th,
+15,Fruit juice,1.06,,FNDDS 4.1,
+16,Fruit juice drinks,,1.040,UK 6th,
+17,"Fruit juice drinks,ready to drink",,1.030-1.040,UK 6th,

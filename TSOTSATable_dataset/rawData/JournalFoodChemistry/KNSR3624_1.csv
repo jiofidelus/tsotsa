@@ -1,0 +1,44 @@
+,0,1,2,3,4,5
+0,Detection method,Target,Food matrix,LOD,LOQ,Reference
+1,Enzyme-linked immunosorbent assay (ELISA),Enzyme-linked immunosorbent assay (ELISA),,,,
+2,Indirect competitive,Casein,Milk (bovine),5 mg kg-1,<1 mg kg-1,"Sletten et al.,2005"
+3,ELISA,,,,,
+4,mAb-based sandwich,Ovalbumin,Egg,0.51 ng mL-1,Not described,"Peng et al.,2014"
+5,ELISA,,,,,
+6,"Indirect competitive,",Ovomucoid,Egg,"0.23 mg kg-1(competitive),0.19 mg",Not described,"de Luis et al.,2008)"
+7,sandwich ELISA,,,kg1(sandwich),,
+8,Direct competitive ELISA,Gliadin,Wheat,1.36 mg kg-1,5.0 mg kg-1,(Haas-Lauterbach
+9,,,,,,"et al., 2012"
+10,pAbs-based sandwich,Parvalbumin,"Fish/white sauce, fish soup.",0.12 g mL-1,0.02 mg kg~1,(Faste &Plassen
+11,ELISA,,"soy sauce, mushroom, soup",,,2008)
+12,mAb-based sandwich,Tropomyosin,"Kuruma prawn, Japanese","0.09 ng mL-(kuruma prawn),0.64",Not described,"Zhang et al.,2014)"
+13,ELISA,,flying squid,ng mL-1 (Japanese flying squid),,
+14,mAb-based sandwich,Ara h 1,Peanut,0.34 ng mL-1,Not described,"Peng et al., 2013"
+15,ELISA,,,,,
+16,Polymerase chain reaction (PCR),Polymerase chain reaction (PCR),,,,
+17,Real-time PCR,Bos taurus,Milk (bovine),500 mg kg-1,Not described,"Villa et al.,2020"
+18,Real-time PCR,"Alpha2-gliadin, Tri a","Ricemaize, soybean","2 pgalpha2-gliadin),20 pgTri a 18","2 pg (alpha2-gliadin),20",(Martin-Fernandez
+19,,"18,Tri a 25",,Tri a 25),"pg Tri a 18,Tri a 25",et al.2016
+20,Real-time PCR,"Cod, pollock",Fish,1-10 mg kg-1,Not described,"Eischeid,2019"
+21,Detection method,Target,Food matrix,LOD,LOQ,Reference
+22,Polymerase chain reaction (PCR),Polymerase chain reaction (PCR),,,,
+23,Multiplex PCR,Tropomyosin,"Oyster, mussel, abalone, clam",16 pg,Not described,"Suh et al.,2020"
+24,,,mollusk species,,,
+25,Duplex real time PCR,Ses I 1Cor a 1,Ground cookies with ground,50 mg kg~1,Not described,"(Schoringhumer et al.,"
+26,,,"sesame, ground hazelnut",,,2009)
+27,Immunoblotting,,,,,
+28,2D immunoblotting,Cow's milk protein,Not described,Not described,Not described,"Natale et al.,2004"
+29,,(CMP,,,,
+30,2D immunoblotting,Wheat flour allergens,Not described,Not described,Not described,"Sander et al.,2001"
+31,2D immunoblotting,Parvalbumin,Fish,Not described,Not described,"Bossuyt et al.,2005"
+32,2D immunoblotting,Chestnut allergens,Not described,Not described,Not described,"Lee et al.,2005"
+33,Mass spectrometry,,,,,
+34,HPLC-MS,Alpha-Casein,Milk,0.5 mg L-1,Not described,"Feng et al., 2013"
+35,UHPLC-MS/MS,"Casein, whey protein","Chocolate, ice cream, cookies,",0.5 mg kg~1,0.531 mg kg-1,"Planque et al.,2016"
+36,,,sauce,,,
+37,UHPLC-MS/MS,Cashew proteins,"Chocolate, ice cream, cookie,",2.5 mg kg~1,Not described,"Planque et al.,2017"
+38,,,sauce,,,
+39,MS/MS Ion Monitoring,Parvalbumin beta,fish,Not described,Not described,"Carrera et al.,2012"
+40,(SMIM),,,,,
+41,LC-MS/MS,Ara h1,Dark chocolate,1.1 mg kg-1,2.5 mg kg-1,"(Shefcheck et al.,"
+42,,,,,,2006)

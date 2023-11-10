@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8
+0,,Total omega-3 PUFA,Total omega-3 PUFA,EPA,,DHA,,Alpha-linolenic acid,Alpha-linolenic acid
+1,,Standardized,pa,Standardized,pa,Standardized,pa,Standardized,pa
+2,,coefficient ,,coefficient ,,coefficient ,,coefficient ,
+3,Short physical performance battery,0.108,0.039,0.015,0.752,0.013,0.752,0.118,0.024
+4,Grip strength (kg),0.018,0.679,0.022,0.983,0.024,0.592,0.013,0.578
+5,One leg stance 30 s,0.102,0.041,0.001,0.730,0.008,0.850,0.119,0.010
+6,Chair rises in 20s,0.043,0.329,0.286,0.775,-0.013,0.487,-0.014,0.348
+7,Tandem walk speed 6 m (m/s),0.035,0.451,-0.017,0.715,-0.030,0.411,0.058,0.216
+8,Walking speed 10 m (m/s),0.110,0.028,0.028,0.507,0.026,0.537,0.113,0.047
+9,Standing with eyes closed 10 s (%),-0.017,0.696,0.039,0.377,-0.038,0.387,0.003,0.943
+10,Ability to squat to the ground (%),0.110,0.028,0.025,0.545,0.034,0.410,0.112,0.027
+11,Knee extension (kg),0.039,0.394, 0.096,0.039,-0.104,0.075,0.096,0.037
+12,Lean mass (kg),0.001,0.976, 0.029,0.471,0.048,0.158,0.030,0.372
+13,Relative muscle index (kg),0.009,0.832,0.004,0913,0.039,0.345,0.017,0.684
+14,Fat mass (kg),0.001,0.970,0.001,0.979,0.013,0.740, 0.081,0.034

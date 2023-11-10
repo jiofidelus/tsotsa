@@ -1,0 +1,37 @@
+,0,1,2,3,4,5,6
+0,,,,,NDNS age groups(years),,
+1,Micronutrients,,65-74,,,75+,
+2,,Men,,Women,Men,,Women
+3,Vitamin A,,,,,,
+4,Mean % RNI,125,,151,191,,149
+5,%with intake below the LRNI,6,,7,5,,10
+6,Riboflavin,,,,,,
+7,Mean % RNI,135,,139,141,,120
+8,% with intake below the LRN,1,,7,3,,13
+9,Folate,,,,,,
+10,Mean % RNI,139,,109,119,,97
+11,% with intake below the LRN,0,,3,3,,8
+12,Vitamin D,,,,,,
+13,Mean % RNI,39,,32,33,,25
+14,Iron,,,,,,
+15,Mean % RNI,126,,102,117,,89
+16,% with intake below the LRN,0,,8,2,,12
+17,Calcium,,,,,,
+18,Mean % RNI,127,,109,126,,99
+19,%with intake below the LRNI,0,,11,4,,10
+20,Magnesium,,,,,,
+21,Mean % RNI,95,,85,82,,76
+22,% with intake below the LRNI,6,,11,22,,27
+23,Potassium,,,,,,
+24,Mean % RNI,91,,77,81,,64
+25,% with intake below the LRNI,4,,22,16,,34
+26,lodine,,,,,,
+27,Mean % RNI,131,,112,136,,96
+28,% with intake below the LRNI,2,,6,4,,9
+29,Selenium,,,,,,
+30,Mean %RNI,72,,68,60,,58
+31,%with intake below the LRNI,34,,57,39,,76
+32,Zinc,,,,,,
+33,Mean % RNI,95,,108,91,,94
+34,% with intake below the LRNI,5,,3,8,,12
+35,Bases (unweighted),71,,110,70,,84

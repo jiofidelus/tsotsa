@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8
+0,Protein,Uniprot,Peptide marker symbol and amino acid,Protein/Peptide,Parent ion,Fragments (m/,Q1,Collision energy,Q3
+1,,ID,sequence,origin,(m/z),z),(V),(V,(V
+2,Myoglobin,P02189,"P1,GHPETLEK",Pork,456,490,-16,23,24
+3,,,,,,716,16,-18,-38
+4,,,,,,147,-11,24,27
+5,,,,,,619,-11,-18,28
+6,Myoglobin,P02189,"P2,HPGDFGADAQGAMSK",Pork,745,234,24,34,23
+7,,,,,,1255,22,26,46
+8,,,,,,692,22,28,26
+9,,,,,,1352,20,28,48
+10,Myoglobin,P02192,"B1,VLGFHG",Beef,315,417,11,10,-19
+11,,,,,,213,11,15,23
+12,,,,,,530,11,12,26
+13,,,,,,360,10,17,17
+14,Myoglobin,P02192,"B2,HPSDFGADAQAAMSK",Beef,767,234,24,35,10
+15,,,,,,1299,26,26,36
+16,,,,,,706,28,31,26
+17,,,,,,1396,20,28,-40
+18,G1 (global,-,"G1,LFDLR","n/a, global marker",332,550,-11,-13,-18
+19,marker),,,,,403,-11,12,-17
+20,G2(global,,"G2,DIDDLELTLAK","n/a, global marker",623,1018,-10,-18,21
+21,marker),,,,,675,12,19,31
+22,,,,,,903,-11,19,-17
+23,,,,,,788,-10,20,-19
+24,G3(global,,"G3,HQGVMVGMGQK","n/a,global marker",586,907,-15,22,-18
+25,marker),,,,,750,-15,24,21
+26,,,,,,619,-13,25,23
+27,,,,,,850,-13,23,25

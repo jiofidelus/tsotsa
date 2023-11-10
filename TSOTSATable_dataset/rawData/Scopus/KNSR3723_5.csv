@@ -1,0 +1,19 @@
+,0,1,2,3
+0,,Variables Related to Initial State,,Variables Related to Oxidation Progress
+1,Abbreviations,Meaning,Abbreviations,Meaning
+2,CAROT,Carotens initial content,kPV,Rate constant of peroxide value
+3,CHLOR,Chlorophyls initial content,kK232,Rate constant of K232
+4,HTyr,Hydroxytyrosol initial content,kK270,Rate constant of K270
+5,Tyr,Tyrosol initial content,kTPh,Rate constant of total phenols
+6,TPh,Total Phenols initial content,kodPh,Rate constant of o-diphenols
+7,secHTyr,Hydroxytyrosol secoiridois initial content,ksecHTyr,Rate constant of Hydroxytyrosol secoiridois
+8,secTyr,Tyrosol secoiridois initial content,kaToh,Rate constant of -tocopherol
+9,odPh,o-diphenols initial content,kUFAs,Rate constant of Unsaturated Fatty Acids
+10,Tyr + Der,Tyrosol + Tyrosol secoiridois initial content,kPUFAs,Rate constant of Polyunsaturated Fatty Acids
+11,Toh,a-tocopherol initial content,tPV,Time to reach PV = 20 meq/kg
+12,UFAs,Unsaturated Fatty Acids initial content,tK232,Time to reach K232 = 2.50
+13,PUFAs,Polyunsaturated Fatty Acids initial content,tK270,Time to reach K270 = 0.22
+14,PV,Initial Peroxide Value,T,Temperature of the oxidation experiment
+15,K232,Initial K232,,
+16,K270,Initial K270,,
+17,RancimatOS,Rancimat Oxidative Stability,,

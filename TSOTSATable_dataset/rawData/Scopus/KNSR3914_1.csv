@@ -1,0 +1,22 @@
+,0,1,2,3,4,5
+0,S.NO,Type of analysis,Independent variable,Independent variable,Independent variable,Dependent variable
+1,1,Maps in Figure 1-Figure 6,"DSCQ# of cereals-rice,wheat,jowar,baira,other millets",,"DSCQ# of cereals-rice,wheat,jowar,baira,other millets",High stunting districts (>46%)
+2,,,,,,High wasting districts(>28%
+3,2,Bivariate analysis (scatter,"DSCQ#(normalized using log transformation)of cereals-rice,",,,Prevalence of stunting and
+4,,plots)in Fiqure 2-Figure 6,"wheatjowar,bajira,other millets",,"wheatjowar,bajira,other millets",wasting percentage by district
+5,3,Multivariable regression,BMI less than 18.5,I.,BMI less than 18.5,Prevalence of stunting and
+6,,Table 3-Table4,short statureless than 145cm of women aged15-49,II.,,wasting percentage by district
+7,,,,,years,
+8,,,utilization of Anganwadi,I1I.,utilization of Anganwadi,
+9,,,Dietary diversity (age 6-23months),IV.,Dietary diversity (age 6-23months),
+10,,,women with 10years or more of education,V.,women with 10years or more of education,
+11,,,Household wealth quintiles(lowest and second lowest),VI.,Household wealth quintiles(lowest and second lowest),
+12,,,open defecation,Vii.,open defecation,
+13,,,Vii. rural population.,Vii. rural population.,Vii. rural population.,
+14,,,"Log of district wise area of crops (rice,wheat,jowar,bajra",IX.,,
+15,,,and other millets) in hectares with 1 added as a constant,,,
+16,,,Above variables were controlled for in multivariable regression,,,
+17,,,for prevalence of under5 stunting and wasting in Table 3 &,,,
+18,,,Table 4,Table 4,Table 4,
+19,4,Bar charts Figure 9,"Cultivation area in hectare of cereal crops rice,wheat,jowar",,,Percentage of stunting/wasting
+20,,,"baira,other millets","baira,other millets","baira,other millets",children under five years of age

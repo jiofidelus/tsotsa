@@ -1,0 +1,43 @@
+,0,1,2,3,4
+0,Food ID,,English name and description,,Scientific name
+1,D,Vegetables and products (continued),Vegetables and products (continued),,
+2,AAD126,"Tamarind, young pod",,Tamarindus indica,Tamarindus indica
+3,AAD128,Tomato,,Lycopersicum esculentum,Lycopersicum esculentum
+4,AAD130,"Tomato, cherry, small",,Lycopersicum esculentum,Lycopersicum esculentum
+5,AAD132,Water mimosa,,Neptunia oleracea,Neptunia oleracea
+6,AAD133,Watercress,,Nasturtium officinale,Nasturtium officinale
+7,AAD16,"Winged bean, pod, fresh, raw","Winged bean, pod, fresh, raw",Psophocarpus tetragonolobus,Psophocarpus tetragonolobus
+8,AAD17,"Yard long bean, pod, green, fresh, raw","Yard long bean, pod, green, fresh, raw",Vigna sesquipedalis,Vigna sesquipedalis
+9,E,Fruits and products,Fruits and products,,
+10,AAE2,"Apple,green",,Pyrus malus,
+11,AAE3,"Apple, red",,Pyrus malus,
+12,AAE4,"Avocado,green",,Persea americana,Persea americana
+13,AAE1,"Banana, apple variety, ripe","Banana, apple variety, ripe",Musa sapientum,Musa sapientum
+14,AAE13,"Banana, apple, whole, dried","Banana, apple, whole, dried",Musa sapientum,Musa sapientum
+15,AAE10,"Banana, cavendish, ripe","Banana, cavendish, ripe",Musa sp.,
+16,AAE11,"Banana, dessert banana, dwarf","Banana, dessert banana, dwarf",Musa sp.,
+17,AAE12,"Banana, dessert, Valery (Hom) variety","Banana, dessert, Valery (Hom) variety",Musa sp.,
+18,AAE14,"Banana, pink banana",,Musa sapientum Teod var.violacea,Musa sapientum Teod var.violacea
+19,AAE15,"Banana, pisang kari",,,
+20,AAE17,"Banana, rice banana",,"Musa sapientum Linn., var. cinerea","Musa sapientum Linn., var. cinerea"
+21,AAE135,"Banana, silver bluggoe (Hug-mook)","Banana, silver bluggoe (Hug-mook)",Musa sp.,
+22,AAE19,"Bilimbi, fruit",,Averrhoa bilimbi,Averrhoa bilimbi
+23,AAE22,Carambola/Star fruit,,Averrhoa carambola,Averrhoa carambola
+24,AAE24,"Cashew, fruit",,Anacardium occidentale,Anacardium occidentale
+25,AAE25,"Coconut, very immature","Coconut, very immature",Cocos nucifera,Cocos nucifera
+26,AAE31,"Durian,assorted",,Durio zibethinus,Durio zibethinus
+27,AAE35,"Fig, fresh",,Ficus sp.,
+28,AAE43,"Gooseberry, Indian",,Phyllanthus emblica,Phyllanthus emblica
+29,AAE38,"Grape, assorted",,Vitis vinifera,
+30,AAE41,"Guava,white flesh",,Psidium guajava,Psidium guajava
+31,AAE44,"Jackfruit, fresh",,Artocarpus heterophylla,Artocarpus heterophylla
+32,AAE47,"Jackfruit, in syrup, canned","Jackfruit, in syrup, canned",Artocarpus heterophylla,Artocarpus heterophylla
+33,|AAE49,Jujube,,Ziziphus jujuba,Ziziphus jujuba
+34,AAE50,Lancet/Langsium/Langsat,Lancet/Langsium/Langsat,Lansium domesticum,Lansium domesticum
+35,AAE51,Lemon,,Citrus limonum,Citrus limonum
+36,AAE90,"Lemon, Philippine",,Citrus microcarpa,Citrus microcarpa
+37,AAE53,Litchi,,Litchi chinensis,Litchi chinensis
+38,AAE54,"Litchi, in syrup, canned","Litchi, in syrup, canned",Litchi chinensis,Litchi chinensis
+39,AAE57,"Longan, dry",,Euphoria longana,Euphoria longana
+40,AAE55,"Longan,fresh",,"Euphoria longana, Nephelium longana","Euphoria longana, Nephelium longana"
+41,AAE56,"Longan, in syrup, canned","Longan, in syrup, canned",Euphoria longana,Euphoria longana

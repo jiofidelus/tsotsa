@@ -1,0 +1,47 @@
+,0
+0,Primary user:Dietitian
+1,Preconditions(what must be true before Use Case runs):
+2,Dietitian has access to a dietary analysis programme and to client's food diary
+3,"Goal:Dietary analysis programme provides accurate,up-to-date data for all food"
+4,items in client's diary.
+5,Successful flow of events(the case in which all the user's functional
+6,requirements are satisfied):
+7,1.User enters generic food item name
+8,2.User selects appropriate source of food composition data to search
+9,3.User selects required food item from list of foods that system presents
+10,4 System assigns food code and lists nutrient composition
+11,5.User selects or enters portion size
+12,6.User adds food to per day/per meal list
+13,7.User repeats steps 1-6 for all food diary data
+14,8.User proceeds to activity 5data analysis -see Table 2
+15,Exceptions/Alternative flows:
+16,2a.Appropriate food composition data unavailable in programme
+17,Alternative flows:
+18,Exclude food if negligible nutrient content
+19,Replace food with an equivalent food from database
+20,Replace food with an equivalent food from manufacturer's data
+21,Add food to database as anextra'food
+22,Add values to database for composite foods/dishes
+23,3a.Food item unavailable
+24,Alternative flows:
+25,Exclude food if negligible nutrient content
+26,Replace food with an equivalent food from database
+27,Replace food with an equivalent food from manufacturer's data
+28,Add food to database as anextra'food
+29,Add values to database for composite foods/dishes
+30,3b.Food item available but not appropriate preparation/cooking method
+31,Alternative flows:
+32,Exclude food if negligible nutrient content
+33,Replace food with an equivalent food from database
+34,Replace food with an equivalent food from manufacturer's data
+35,Add food to database as an'extra'food
+36,Add values to database for composite foods/dishes
+37,"3c.Food item available,missing nutrient values"
+38,Alternative flows:
+39,Replace food with an equivalent food from database which includes the required
+40,nutrient values
+41,Replace food with an equivalent food from manufacturers data
+42,Add nutrient value to database as an'extra'nutrient
+43,5a. Information on typical portion size unavailable
+44,Alternative flows:
+45,Identify portion size from an alternative source and enter

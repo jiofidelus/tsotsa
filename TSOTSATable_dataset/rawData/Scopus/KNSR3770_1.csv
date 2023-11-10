@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,,,S. aureus positive,,,
+1,,No.,,%,x2,p-value
+2,Right Front Quarter(a,16,15.69,15.69,16.69,0.000817
+3,Right Rear Quarter(b,15,14.71,14.71,,
+4,Left Front Quarter(c,35,34.31,34.31,,
+5,Left Rear Quarter(d),36,35.29,35.29,,
+6,1 infected quarter,61,75.31,75.31,122.95,<0.00001
+7,2 infected quarters,19,23.46,23.46,,
+8,3 infected quarters,1,1.23,1.23,,
+9,4 infected quarters,1,1.23,1.23,,

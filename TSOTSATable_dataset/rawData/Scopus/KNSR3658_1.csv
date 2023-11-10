@@ -1,0 +1,20 @@
+,0,1,2
+0,Characteristic,Control group(n=40,Protein+group(n=84)
+1,Age (y),745,744
+2,"Sex,n%",,
+3,Male,20 (50%),45 (54%)
+4,Female,20 (50%),39 (46%)
+5,Educationan%,,
+6,Lower,,2 (2%)
+7,Middle,13 (32%),8 (10%)
+8,Higher,27 (68%),74 (88%)
+9,BMIb (kg/m2),26.73,26.23
+10,Energy intake (kcal/d),1678.9289.3,1759.5409.6
+11,Protein intake (g/d),63.210.1,62.812.2
+12,Protein intake (g/kg aBW/d),0.830.12,0.840.14
+13,"Greenhouse gas emissions (kg CO,-eq/d)",4.11.0,4.21.3
+14,Land use (m2*y/d,2.50.5,2.50.7
+15,"Terrestrial acidification (kg SO,-eq/d)",0.040.01,0.040.01
+16,Freshwater eutrophication (kg P-eq/d,3.110-47.610-5,3.310-41.310-4
+17,Marine eutrophication (kg N-eq/d),7.410-35.010-3,6.510-33.110-3
+18,Blue water use(m/d,0.20.1,0.20.1

@@ -1,0 +1,58 @@
+,0,1,2,3,4
+0,Category,Picture ID 1,Food/Dish Name,Number of Portions,
+1,Food item,F1039,Soba (buckwheat noodles),7,7
+2,,F1044,Somen (thin wheat noodles),7,7
+3,,F1088s,White rice in a small rice bowl,62,62
+4,,F1088m,White rice in a medium rice bowl,62,62
+5,,F10881,White rice in a large rice bowl,,7
+6,,F1128,Soba (buckwheat noodles),,7
+7,,F2003,Simmered konjac balls,,7
+8,,F2017,French fries,7,7
+9,,F2023,Grated yam,7,7
+10,,F4039,"Deep-fried bean curd, chopped",,7
+11,,F4040,"Fried tofu,shredded",,7
+12,,F6061,"Cabbage, shredded",,7
+13,,F6065,"Cucumber, sliced",,7
+14,,F6084,"Burdock,sliced,microwaved",,7
+15,,F6134,"Radish,shredded",,7
+16,,F6153,"Onion, thinly sliced",,7
+17,,F6191,"Eggplant, chopped, microwaved",,7
+18,,F6207,"Chinese chive, microwaved",,7
+19,,F6214,Shredded carrots,,7
+20,,F6226,"Spring onion, chopped",,7
+21,,F6233,"Chinese cabbage,chopped,microwaved",,7
+22,,F6245,"Green bell pepper, shredded, microwaved",,7
+23,,F6264,"Broccoli,microwaved",7,7
+24,,F6291,"Bean sprouts, microwaved",,7
+25,,F6312,"Lettuce, cut into bite-sized pieces",,7
+26,,F7012,Strawberry,,7
+27,,F7049,"Persimmon, sliced",,7
+28,,F7077,"Watermelon, sliced",,7
+29,,F8001,"Enoki mushroom, microwaved",,7
+30,,F8016,"Brown beech mushroom,microwaved",7,7
+31,,F8039,"Shiitake mushroom, sliced,microwaved",7,7
+32,,F9045,Wakame seaweed,,7
+33,,F10070,Japanese eel,,7
+34,,F10263,"Canned tuna, served in a dish",,7
+35,,F11183,"Bacon, shredded",,7
+36,,F13025b,"Yoghurt, served in a bowl",,7
+37,,F14020a,"Margarine, served with a butter knife",,7
+38,,F14020b,"Margarine, served on a slice of bread",,7
+39,,F17036,Ketchup,7,7
+40,,F17039,Japanese-style dressing,,7
+41,,F17043,Mayonnaise,,7
+42,Dish item,D10104,Zousui (porridge of rice and vegetables) soup,,7
+43,,D10105a,Japanese curry and white rice,,7
+44,,D10105b,Thai green curry and jasmine rice,,7
+45,,D10109,Fried rice,,7
+46,,D10112,Beef rice bowl,7,7
+47,,D10113,Pork cutlet rice bowl,,7
+48,,D10114,Oyako-don (chicken and egg rice bowl),,7
+49,,D10116,Grilled eel and rice,,7
+50,,D10119,Chirashizushi (sushi rice topped with various raw fish pieces),,7
+51,,D10301,Udon (thick wheat noodles) with soup,,7
+52,,D10302,Soba (buckwheat noodles) with soup,,7
+53,,D10305,Ramen,,7
+54,,D10307a,Napolitan (ketchup-based spagetti),,7
+55,,D10307b,Penne with cheese sauce,,7
+56,,D10308a,Yakisoba (fried noodles) on a plate,,7

@@ -1,0 +1,25 @@
+,0,1,2,3
+0,Biological activities,Plant part and extracting solvent,Plant part and extracting solvent,Source
+1,Antioxidant activity,Anti-microbial activity,Anti-microbial activity,"23,15"
+2,Antioxidant activity,Seed,,"11,15"
+3,Anti-microbial activity,Seed,,"11,23,24"
+4,Anti-microbial activity,Stem,,"17,26"
+5,Anti-microbial activity,Seed's oil,Seed's oil,25
+6,Anti-microbial activity,Leaves,Leaves,"26,27"
+7,Uterotonic property,Leaves,Leaves,"8,28,29,30"
+8,Anthelmintic and anti-dysentery,The whole plant,The whole plant,"13,32"
+9,Antimalarial activity,The whole plant,The whole plant,33
+10,Regulation of genes,Seedcake,Seedcake,34
+11,Anticancer activity,Essential oil,Essential oil,"36,37"
+12,Cosmetical uses,Seed,,"11,16"
+13,Chemical and phytochemical composition,,,
+14,Plant part,Composition,Composition,Source
+15,Seed,,"Protein,carbohydrates,lipid,fiber,minerals,amino acids","11,18,19"
+16,Leaves,,"Ash,crude protein, crude lipid, crude fiber,carbohydrate","12,15,16, 23"
+17,,"mineralsK,Na,Ca,Mg,CuFeMn,and Cr),phenolic","mineralsK,Na,Ca,Mg,CuFeMn,and Cr),phenolic",
+18,,"compounds (p-coumaric acid,vanillin and ferulic)","compounds (p-coumaric acid,vanillin and ferulic)",
+19,Stem,,"Fatty acids,volatile oils,sterols and triterpenes,basic",17
+20,,,"alkaloids,carotenoids, coumarins,flavone aglycone,emodols",
+21,,,"tannins, polyuronides, alkaloid salts,reducing compounds and",
+22,,saponins,saponins,
+23,Seed oil,,"Fatty acids, palmitic,stearic,oleic, linoleic,tocopherols","11,25"

@@ -1,0 +1,20 @@
+,0,1,2,3,4,5
+0,Fermented foods,Raw materials,Country of study,Year of study,Methodology used,References
+1,Masau,Masau fruits,Zimbabwe,2017,16S HTS,83
+2,Mursik,Milk,Kenya,2017,Sanger sequencing,89
+3,Nunu,Milk,Ghana,2017,Shotgun sequencing,17
+4,Fura,Millet,Nigeria,2019,16S HTS,81
+5,Wara,Milk,Nigeria,2019,16S HTS,73
+6,Kunun,Sorghum,Nigeria,2019,16S HTS,"36,85"
+7,Kokonte,Cassava,Ghana,2019,16S HTS,72
+8,Gari,Cassava,Ghana,2019,16S HTS,72
+9,Mawe,Maize,Benin,2019,16S HTS,72
+10,Sombana,Milk,Burkina Faso,2019,Sanger sequencing,74
+11,Maari,Milk,Burkina Faso,2019,Sanger sequencing,74
+12,Mahoto,Sorghum,South Africa,2019,16S HTS,72
+13,Teff dough,Teff,Ethiopia,2019,16S HTS,47
+14,Tej,Honey,Ethiopia,2019,16S HTS,69
+15,Tonton,Banana,Uganda,2019,16S HTS,69
+16,Wagashi,Milk,Benin,2020,Shotgun sequencing,18
+17,Kisra,Sorghum,Sudan,2020,Sanger sequencing,87
+18,Hulumur,Sorghum,Sudan,2020,Sanger sequencing,87

@@ -1,0 +1,33 @@
+,0,1,2,3
+0,,Unit,,
+1,Food components and,(for 100 g,,
+2,definition,of food),Type of method,References'
+3,ALCOHOL,g/100 mL,GLC,
+4,Concentration of ethanol,(beverages),,
+5,,(solids),,
+6,,,Enzymatic kit (for alcoholic beverages),Bergmeyer (1974)
+7,,,Distillation (except for food rich in,Standard Inland Revenue distillation
+8,,,volatile substances),method
+9,"MINERALS:Sodium (Na),Potassium (K)",mg,Atomic absorption spectrophotometry,AOAC (1984)
+10,"iron(Fe,calcium(Ca,zincZn)",,(AAS) with flame or graphite furnace,
+11,,,ICPOES inductively coupled plasma,AOAC (1990)
+12,,,optical emission spectrophotometry,
+13,Phosphorus (P),mg,Colorimetry,"Fiske and Subbarow,1925"
+14,VITAMINS,mg,Fluorimetry,AOAC (1984)
+15,Thiamine (B),,HPLC,Fellman et al.(1982)
+16,,,,Wimalasiri and Willis (1985
+17,,,Microbiological,Bell (1974)
+18,Riboflavin (B),mg,Fluorimetry,AOAC (1984)
+19,,,HPLC,Fellman et al. (1982)
+20,,,,Wimalasiri and Willis (1985
+21,,,Microbiological,AOAC (1984)
+22,Niacin,mg,Microbiological,AOAC (1984)
+23,Sum of nicotinic acid and nicotinamide,,,
+24,,,HPLC,Toma and Tabekhia (1979)
+25,,,,Yoshida et al. (1982)
+26,Vitamin C,mg,Colorimetry,Roe and Kuether (1943
+27,Sum of ascorbic and,,,
+28,dehydroascorbic acid,,,
+29,,,HPLC,Morawski(1984)1
+30,,,,"Keating and Haddad (1982),"
+31,,,,Speek et al.1984

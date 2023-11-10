@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7
+0,Evaluation Methods,Author,Year,Definition,Program Evaluated,Computing Method,Components,Quality Index
+1,,,,,,,"Six nutrients (protein, calcium,",
+2,,,,"The ratio of ""good"" to ""bad""",,,"iron,vitamin A,vitamin C,and",
+3,The ratio of recommended,,, nutrients and to the energy,,RRR=,fiber) were defined a priori as,
+4,to restricted food score,Scheidt et al. [41],2004,"content of the food, based on the",Energy density,(%DVrecommended/6)/(%DVrestricted/5),"nutrients (energy, saturated fat,",RRR score
+5,,,,food label.,,,"cholesterol, sugar, and sodium)",
+6,,,,,,,were defined as undesirable,
+7,,,,diet quality that reflects a risk,, The Diet and Health recommendations were,"Energy from fat, energy from",
+8,Dietary quality index,Patterson et al. [42],1994,gradient for major diet-related,Diet quality,"weighted, cutoffs were developed for index","and vegetables, grains and",DQI summed score
+9,(DQI),Patterson et al. [42],1994,chronic diseases based on US,Diet quality,"scoring, and scores were summed across","legumes, protein, sodium, and",(0-16)
+10,,,,Diet and Health.,,recommendations.,calcium,
+11,,,,,,,"Energy from fat, energy from",
+12,,,,,,," saturated fat, dietary",
+13,Dietary quality.,,,A revision of the DQI according to,,,"servings of fruit per day,",Total DQI-R score
+14,indexRevised (DQI-R),Haines et al. [43],1999,most current dietary guidance for,Diet qualityvariety,to the total DQI-R score,"vegetables per day,",(0100)
+15,,,,the population.,,,recommended servings of,
+16,,,,,,,"grains per day, calcium,RDA",
+17,,,,,,,"iron per day, dietary diversity,",
+18,,,,,,,dietary moderation,
+19,,,,,,,Variety (overall variety and,
+20,,,,,,,"variety within protein sources),",
+21,,,,quality created to evaluate the,,,"adequacy (fruits, vegetables,",
+22,Index-International,,, healthiness of a diet not only,Dietary variety,Scores for each component are summarized in,"calcium, vitamin C),",Total DQI-I score
+23,(DQI-I),Kim et al. [44],2003,within a country for monitoring,overall balance,for all four categories are summed,"moderation (total fat, saturated",0-100
+24,(DQI-I),,,purposes but also across countries,overall balance,for all four categories are summed,"fat, cholesterol, sodium, empty",
+25,,,, for comparative work.,,,"balance (macronutrient ratio,",
+26,,,,,,,fatty acid ratio),
+27,Glycemic Index (GI),Jenkins et al. [45],1981,carbohydrates in food relative to,Effect on human,GI = (Iaucfood/Iaucglucose)  (Wt glucose/Wt,"Available carbohydrate, the"," 55-69, medium GI;"
+28,,,, glucose., blood glucose,available carbohydrate in food 100%,,>70 high GI)

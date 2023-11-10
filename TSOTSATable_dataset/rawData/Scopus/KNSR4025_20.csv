@@ -1,0 +1,65 @@
+,0,1,2,3,4,5,6,7,8,9
+0,NDB No.,Description,Proanthocyanidin,Mean',N,SD,Min,Max,CC,Sources of Data
+1,,,Trimers,0.00,1,,,,c,26
+2,,,4-6mers,0.00,1,,,,c,26
+3,,,7-10mers,0.00,11,,,,,26
+4,,,Polymers,0.00,11,,,,,26
+5,11143,"Celery, raw (Apium graveolens)",Dimers,0.00,1,,,,B,24
+6,,,Trimers,0.00,11,,,,,24
+7,,,4-6mers,0.00,1,,,,,24
+8,,,7-10mers,0.00,1,,,,BB,24
+9,,,Polymers,0.00,1,,,,BB,23
+10,11167,"Corn, sweet, yellow, raw",Dimers,0.00,1,,,,,23
+11,,,Trimers,0.00,1,,,,B,23
+12,,,4-6mers,0.00,1,,,,,23
+13,,,7-10mers,0.00,1,,,,B,23
+14,,,Polymers,0.00,1,,,,B,23
+15,11206,"Cucumber, peeled, raw",Dimers,0.00,11,,,,,24
+16,,,Trimers,0.00,1,,,,B,24
+17,,,4-6mers,0.00,1,,,,,24
+18,,,7-10mers,0.00,1,,,,,24
+19,,,Polymers,0.00,1,,,,B,24
+20,11205,"Cucumber, with peel, raw (Cucumis",Dimers,0.00,22,,0.00,0.00,,"24, 26"
+21,,sativus),Trimers,0.00,22,,0.00,0.00,,"24, 26"
+22,,,4-6mers,0.00,2,,0.00,0.00,B,"24, 26"
+23,,,Polymers,0.00,2,,0.00,0.00,,"24, 26"
+24,,,Polymers,0.00,2,,0.00,0.00,B,"24, 26"
+25,11209,"Eggplant, raw (Solanum",Dimers,0.00,4,0.00,0.00,0.00,,"14, 26"
+26,,melongena),Trimers,0.00,4,0.00,0.00,0.00,c,"14, 26"
+27,,,4-6mers,0.00,1,,,,,26
+28,,,7-10mers,0.00,11,,,,,26
+29,,,Polymers,0.00,1,,,,c,26
+30,11215,"Garlic,rawAllium sativum",Dimers,0.00,11,,,,c,26
+31,,,Trimers,0.00,11,,,,c,26
+32,,,4-6mers,0.00,1,,,,c,26
+33,,,7-10mers,0.00,11,,,,,26
+34,,,Polymers,0.00,1,,,,,26
+35,11226,"Jerusalem-artichokes, raw",Dimers,0.00,1,,,,,26
+36,,(Helianthus tuberosus),Trimers,0.00,1,,,,c,26
+37,,,4-6mers,0.00,1,,,,c,26
+38,,,7-10mers,0.00,11,,,,c,26
+39,,,Polymers,0.00,11,,,,c,26
+40,11248,culinaris),Trimers,0.00,1,,,,D,4
+41,,,4-6mers,0.09,1,,,,,4
+42,11251,"Lettuce, cos or romaine, raw",Dimers,0.00,1,,,,,24
+43,,(Lactuca sativa var.logifolia),Trimers,0.00,1,,,,,24
+44,,,4-6mers,0.00,11,,,,BB,24
+45,,,7-10mers,0.00,1,,,,BB,24
+46,,,Polymers,0.00,11,,,,,24
+47,11253,"Lettuce, green leaf, raw (Lactuca",Dimers,0.00,1,,,,B,24
+48,,sativa var. crispa),4-6mers,0.00,1,,,,B,24
+49,,,4-6mers,0.00,1,,,,B,24
+50,,,7-10mers,0.00,1,,,,,24
+51,,,Polymers,0.00,1,,,,,24
+52,11252,"Lettuce, iceberg (includes crisphead",Dimers,0.00,3,0.00,0.00,0.00,B,"24, 26"
+53,,capitata),Trimers,0.00,3,0.00,0.00,0.00,B,"24, 26"
+54,,capitata),4-6mers,0.00,31,0.00,0.00,0.00,B,"24, 26"
+55,,,7-10mers,0.00,31,0.00,0.00,0.00,B,"24, 26"
+56,,,Polymers,0.00,3,0.00,0.00,0.00,,"24, 26"
+57,97041,"Lettuce, not specified as to type",Dimers,0.00,3,,,,c,14
+58,,(Lactuca sativa),Trimers,0.00,32,,,,c,14
+59,11257,"Lettuce, red leaf, raw (Lactuca",Dimers,0.00,32,,0.00,0.00,,"24, 26"
+60,,sativa var.crispa),Trimers,0.00,2,,0.00,0.00,B,"24, 26"
+61,,,4-6mers,0.00,22,,0.00,0.00,,"24, 26"
+62,,,7-10mers,0.00,22,,0.00,0.00,,"24, 26"
+63,,,Polymers,0.00,2,,0.00,0.00,B,"24, 26"

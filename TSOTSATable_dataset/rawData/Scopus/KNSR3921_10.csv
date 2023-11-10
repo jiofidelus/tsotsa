@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,,,Cardioprotective Effects,,
+1,Compound,Dose/Route/Duration,Model,Major Mechanisms,Reference
+2,,,,"LDH,infarct size",
+3,,,"Isoproterenol (85 mg/kg,","TBARS,SOD,CAT,-glucuronidase",
+4,-Bisabolol,10 days,s.c.for 2 days)induced,"IL-6, IL-1, iNOS and COX-2, IL-10",[91]
+5,,,in rats,"NLRP3,() NFB/MAPK, Beclin-1,",
+6,,,,"LC3BI/II,p-mTOR",
+7,,,,"CK and LDH,LOOH,TBARS,SOD,",
+8,,,Isoproterenol (85 mg/kg,catalase andGSHCa2+overload,
+9,-Bisabolol,10 days,s.c.for 2 days) induced,"SDH, MDH, -KGDH, and complexes I-IV,",[92]
+10,,,in rats,"Bax,P53,APAF-1,active caspase-3 and 9",
+11,,,,Bcl-2,
+12,,,Isoproterenol (85 mg/kg,CK,
+13,-Bisabolol,10 days,myocardial infarction,GSH and vitamin-C,[93]
+14,,,in rats,"HR,SBP and DBP",

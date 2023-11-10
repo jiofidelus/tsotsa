@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,,,Treatment*,,,
+1,,Basal,,Supplemented,SEM,P-value
+2,Lactobacillus,4.975,,21.083,1.102,<0.001
+3,Clostridium,25.562,,17.898,1.467,0.002
+4,Gemmiger,0.056,,1.691,0.252,0.017
+5,Kineothrix,3.526,,1.424,0.482,0.012
+6,Christensenella,11.128,,7.497,0.959,0.018
+7,Niameybacter,0.111,,1.765,0.272,0.009
+8,Metabacterium,0.298,,4.201,0.424,<0.001
+9,Acinetobacter,9.431,,0.547,0.586,<0.001

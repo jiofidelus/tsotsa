@@ -1,0 +1,14 @@
+,0,1,2,3
+0,Peptide,Target,Log P,Reference
+1,[8Ga]Ga-DOTA-TATE,SST-2RA,3.69G,[12]
+2,[177Lu]Lu-DOTA-TATE,SST-2RA,3.16G,[12]
+3,[68Ga]Ga-PSMA-11,PSMAB,2.91  0.06G,[13]
+4,[18F]F-PSMA-1007,PSMAB,1.6,[14]
+5,[18F]DCFPyL,PSMAB,3.4G,[14]
+6,[177Lu]Lu-PSMA-617,PSMAB,4.4  0.15,[15]
+7,[68Ga]Ga-PentixaFor,CXCR-4c,2.90,[16]
+8,[177Lu]Lu-PentixaTher,CXCR-4c,1.76,[17]
+9,[1F]FP-Galacto-RGD, integrin a?,3.2,[18]
+10,[18F]FP-PEG2-Glu-RGD,integrin ,2.67  0.22,[19]
+11,[68Ga]Ga-DOTA-CP04,CCK-2RE,2.680.03,[20]
+12,[68Ga]Ga-NOTA-FAPI-04,FApF,2.41  0.28G,[21]

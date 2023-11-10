@@ -1,0 +1,37 @@
+,0,1,2
+0,TAGNAME,DESCRIPTION,UNIT
+1,Vitamin D,,
+2,CHOCAL,Cholecalciferol (D3),mcg
+3,CHOCALOH,25-hydroxycholecalciferol,mcg
+4,ERGSTR,Ergosterol,mcg
+5,Vitamin E,,
+6,TOCPHA,alpha-Tocopherol,mg
+7,TOCPHB,beta-tocopherol,mg
+8,TOCPHG,gamma-tocopherol,mg
+9,TOCPHD(mg),delta-tocopherol,mg
+10,TOCPHB_A_TOCPH,beta-tocopherol+gamma-tocopherol,mg
+11,G,,
+12,TOCTRA,alpha-tocotrienol,mg
+13,TOCTRB,beta-tocotrienol,mg
+14,TOCTRD,delta-tocotrienol,mg
+15,TOCTRG,gamma-tocotrienol,mg
+16,VITE-,Vitamin E;method or determination unknown or variable,mg
+17,VITE-(IU),Vitamin E; method or determination unknown or variable,IU
+18,Water-soluble vitamins,,
+19,Thiamin (vitamin B1),,
+20,THIA,Thiamin,mg
+21,THIAHCL,Vitamin B1 analysed and expressed as thiamin hvdrochloride,mg
+22,Riboflavin (vitamin B2,,
+23,RIBF,Riboflavin,mg
+24,Folate,,
+25,FOL,"Folate,total",mcg
+26,FOLFRE,"Folate, free",mcg
+27,FOLSUM,"Folate,sum of vitamers,determined by HPLC",mcg
+28,FOLFM10,10-formylfolic acid,mcg
+29,FOLH4,Tetrahydrofolate,mcg
+30,FOLH4ME5,5-Methyltetrahydrofolate,mcg
+31,FOL-,Folate;method unknown or variable,mcg
+32,Niacin,,
+33,NIA,"Niacin, preformed",mg
+34,NIATRP,Niacin equivalents from tryptophan,mg
+35,NIA-,Niacin;method or form unknown,mg

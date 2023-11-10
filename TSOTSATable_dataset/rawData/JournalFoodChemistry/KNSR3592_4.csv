@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6
+0,Isolated fish Spoilage bacteria,Disc-diffusion method (DD)(1) (mm),,,,,
+1,,Laurel essential oil,Laurel nanoemulsion,Tween 80,Tetracycline(2),Streptomycin(3), Neomycin(4)
+2,Photobacterium damselae,14.50  0.41d,13.50  0.71e,R,29.00  0.82a,19.13 0.48c,22.13  0.85b
+3,Enterococcus faecalis,6.19  0.55c,R,R,17.00  0.70b,18.88  0.75a,6.00  0.41c
+4,Vibrio vulnificus,18.50  0.41d,15.00  0.82e,R,28.50  0.57a,22.00  0.58c,25.00  0.41b
+5,Proteus mirabilis,15.500.71,8.00  0.41d,R,18.13  0.47b,R,21.25  0.65a
+6, Serratia liquefaciens,16.75  0.65c,7.25  0.50d,R,16.75  0.86c,24.25  0.50a,22.25  0.96b
+7,Pseudomonas luteola,12.25  0.50d,7.25  0.65e,R,18.88  0.47c,22.38  0.25a,21.25  0.65b

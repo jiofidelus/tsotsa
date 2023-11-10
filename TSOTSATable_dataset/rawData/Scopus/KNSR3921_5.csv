@@ -1,0 +1,27 @@
+,0,1,2,3,4
+0,,,Neuroprotective,,
+1,Compound,Dose/Route/Duration,Model,Major Mechanisms,Reference
+2,,"5,25,and 250 umol/L for",Rotenone (500 umol/L),"mortality and motor deficits,",
+3,-Bisabolol,7 days,in Drosophila,"SOD,CATand Keap1",[46]
+4,,,,"-neuronal loss,MDA",
+5,,,,"GSH,SOD and CAT,glial",
+6,,"50 mg/kg i.p, 30 min",Rotenone (2.5 mg/kg) induced,"activation,IL-1, IL-6",
+7,-Bisabolol,before rotenone for,Parkinson's disease,TNF-iNOSand COX-2,[47]
+8,,4 weeks,Parkinson's disease,"Bcl-2, Bax, caspases-3, 9",
+9,,,,"and cytochrome-C,restored",
+10,,,,ATP and MC-I activity,
+11,,"5,10 g/mL for 2 h in",24 h) induced toxicity in N2a,-secretaseROS andRNS,
+12,-Bisabolol,"N2a cells and 25,50 and",cells and Caenorhabditis elegans,Bax and caspase-3,[49]
+13,,100g/mL in elegans,CL4176 and CL2006,"ace-1, hsp-4 and A genes",
+14,,,A25-35 peptide (50 M for,A aggregation,
+15,-Bisabolol,5 mg/mL for 2 h,24 h) induced toxicity in,cell survival,[50]
+16,,,PC12 cells,cell survival,
+17,,,A25-35 peptide(50uM for,"ROS and RNS,-secretase",
+18,-Bisabolol,5 and 10 g/mL for 2 h,24 h) induced toxicity in,"andAchE activities,Bax",[51]
+19,,,Neuro-2a cells,"caspase3, and  Bcl-2",
+20,-Bisabolol -D-,,"A25-35 (100 M for 24 h, 48 h,","Inhibited AChE,HO2 and",
+21,fucopyranoside,10-50 g/mL,"96 h, 9 d) induced toxicity in","OH*,A aggregation",[52]
+22,fucopyranoside,,Neuro 2a cells,cell survival,
+23,,"50,100 and",Permanent occlusion of the,infarct sizemotor,
+24,-Bisabolol,"200 mg/kg/day, p.o",middle cerebral artery induced,"performance,  crossings",[54]
+25,,"200 mg/kg/day, p.o",cerebral ischemia in mice,and rearings,

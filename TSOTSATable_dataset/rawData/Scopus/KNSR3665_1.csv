@@ -1,0 +1,24 @@
+,0,1,2,3
+0,,,Min score (0),Max score (5)
+1,Plant-based food,,,
+2,Healthful,Whole grains,No consumption,45 g per 1000/kcal
+3,,Vegetables (excluding potatoes),No consumption, 125 g per 1000/kcal
+4,,Fruit,No consumption, 125 g per 1000/kcal
+5,,"Nuts, seeds, legumes",No consumption, 14.175 g per 1000/kcal
+6,,Vegetable oils,Lowest quintile,Highest quintile
+7,,"Coffee, tea",Lowest quintile,Highest quintile
+8,Unhealthy,Fruit juices,79.38 g per 1000/kcal,No consumption
+9,,Refined grains,129 g per 1000/kcal,<54 g per 1000/kcal
+10,,Potatoes,35 g per 1000/kcal,No consumption
+11,,Sugar-sweetened beverages,226.8 per 1000/kcal,No consumption
+12,,Sweets and desserts,Highest quintile,Lowest quintile
+13,Range pDQI (plant-based diet quality index),Range pDQI (plant-based diet quality index),0 to 55 (based on consumption of quintiles),
+14,Animal-based food,,,
+15,Healthful,"Fish, seafood",No consumption,"14,175 g per 1000/kcal"
+16,,Dairy,No consumption,312 g per 1000/kcal
+17,,Poultry,Lowest quintile,Highest quintile
+18,Unhealthy,Processed meat,"28,35 g per 1000/kcal",No consumption
+19,,Red meat,"45,36 g per 1000/kcal",No consumption
+20,,Eggs,Highest quintile,Lowest quintile
+21,Range aDQI (animal-based diet quality index),Range aDQI (animal-based diet quality index),0 to 30 (based on consumption of quintiles),
+22,Total range,,0 to 85,

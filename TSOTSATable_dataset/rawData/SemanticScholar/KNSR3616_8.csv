@@ -1,0 +1,49 @@
+,0,1,2,3
+0,Country,Total vit E (unit),Fractions available,Methods used
+1,DK 96,-TE2 (in mg),-tocopherol,No method mentioned
+2,GB 91,mg,,Normal phase HPLC
+3,,,,Reverse phase HPLC
+4,,,,"Colorimetry combined with GLC, Christie et al, 1973"
+5,GB cereal,mg!,,"Colorimetry combined with GLC, Christie et al,1973"
+6,GB milk,mg1,,"Colorimetry combined with GLC, Christie et al, 1973"
+7,,,,HPLC
+8,GB veg,mg1,For some foods: amounts of major tocopherols and,HPLC
+9,,,tocotrienols on request,
+10,GB fruit,mg',-tocopherold-tocopherol,HPLC
+11,,,-tocopherol-tocopherol,
+12,GB vdish,mg1,,Idem GB 91
+13,GB fish,mg',5-tocopherold-tocopherol,Idem GB 91
+14,,,-tocopherol-tocopherol,
+15,GB foods,mg1,-tocopherold-tocopherol,Idem GB 91
+16,,,-tocopherol-tocopherol,
+17,GB meat,mg1,,Idem GB 91
+18,GB mdish,mg,,Idem GB 91
+19,F95,mg',,HPLC
+20,F fat,mg/kg4,4 Total tocopherols,HPLC
+21,,,-tocopherol-tocotrienol,
+22,,,-tocotrienol,
+23,,,-tocotrienol,
+24,,,d-tocotrienol7,
+25,F milk,mg/kg4,,No method mentioned
+26,F fruit,mg,,No method mentioned
+27,D 79,mg,,No method mentioned
+28,D milk,mg,,No method mentioned
+29,D 93,mg',,No method mentioned
+30,D SFK,,Total tocopherols4 Total tocotrienols?,No method mentioned
+31,,,-tocopherol4-tocotrienol4,
+32,,,-tocopherol4-tocotrienol4,
+33,,,-tocopherol4-tocotrienol4,
+34,,,d-tocopherol4,
+35,DBLS,g TE1,a-tocopherol,No method mentioned
+36,GK 92,,,Not applicable
+37,IT 94,,,Not applicable
+38,IT 98,mg(as -TE),,No method mentioned
+39,NL 96,mg3,6: -tocopherol-tocopherol,HPLC
+40,,,-tocopherold-tocopherol,
+41,E88,,,Not applicable
+42,E90,-,D--tocopherol (mg),No method mentioned
+43,E 92,,-tocopherol (mg),No method mentioned
+44,E93,mg,,No method mentioned
+45,E97,mg,,"HPLC,Shearer,1986"
+46,S 94,mg',D--tocopherol (mg),HPLC
+47,S 96,mg',D--tocopherol (mg),HPLC

@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6
+0,,,,Grade I-3 vs Grade 0,,Grade 2/3vs Grade 0,
+1,,Food and nutrition,Food and nutrition,,,,
+2,CIAEs,,factors,OR (95% CI),P,OR (95% CI),P
+3,HFS,Milk,,1.431 (0.727-2.916),,2.711 (1.195-6.816),.022
+4,,Poultry,Poultry,,,0 (0-0.028),.004
+5,BMS,Dessert,Dessert,0.113 (0.011-0.8),.0497,,
+6,,Eggs,,3.346 (1.419-8.692),.0085,9.673 (2.29|-60.385),.005
+7,,Nuts,,,,16.542 (1.563-231.354),.023
+8,,Poultry,Poultry,,,0.004 (0-0.383),.032
+9,Leukopenia,Eggs,,2.65 (1.315-5.756),.0090,,
+10,,Poultry,,0.048 (0.002-0.771),.0483,,
+11,TCP,Poultry,Poultry,,,0.001 (0-0.342),.032
+12,Diarrhea,Manufactured meat,Manufactured meat,0 (0-0.01),.0469,,
+13,IALT,Beers,,0 (0-0.195),.0451,0 (0-712.577),
+14,IAST,Beers,,0 (0-0.744),,0 (0-0.065),.038
+15,,Poultry,Poultry,0.007 (0-0.261),.0129,,
+16,Neutropenia,FWS,,0.007 (0-0.459),.0349,0.001 (0-0.298),

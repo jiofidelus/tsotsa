@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6
+0,,MDA,,,DAS28-ESR,,
+1,,Activity/ Activity or,Remission/Remission or,p,Activity/ Activity or,Remission/Remission orp,
+2,,Remission/Activity,Activity/Remission,,Remission/Activity,Activity/Remission,
+3,Neight change (%),49 (62.8%),29 (37.2%),0.81a,40 (53.3%),35 (46.7%),0.73
+4,Maintenance,4 (80%),1(20%),,2(40%),5 (60%),
+5,5%loss,22 (57.9%),16 (42.1%),,20 (55.6%),36 (44.4%),
+6,-10%loss,6 (66.7%),3 (33.3%),,3 (37.5%),5 (62.5%),
+7,Neight gain,17(65.4%),9 (34.6%),,15 (57.7%),11 (42.3%),

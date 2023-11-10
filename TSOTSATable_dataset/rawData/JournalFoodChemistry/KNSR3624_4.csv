@@ -1,0 +1,23 @@
+,0,1,2,3,4
+0,Detection method,Technique,Advantage,Disadvantage,Reference
+1,Optical-based biosensor,LFA,Fast response,Low reproducibility,Bahadir &Sezgintuirk2016;Koczula &
+2,,,Long shelf life,Low signal intensity,"Gallotta,2016"
+3,,,User-friendly,Mostly qualitative or semi-,
+4,,,Inexpensive,quantitative,
+5,,,Stability and potable ability,,
+6,,SPR,Possibility of high throughput,Bulky,"Prabowo et al.,2018;Zhou et al.,2019"
+7,,,Fast and sensitive,Expensive,
+8,Electrochemical-based,Potentiometry,Low cost,Sensitive to pH and ionic strength,"Ding  Qin,2020;Karimi-Maleh et al.,2021"
+9,biosensor,,Convenient operation,Time-consuming,
+10,,,Portable ability,,
+11,,,Easy modificationstability,,
+12,,Voltammetry,Fast response,Low stability,"Yang et al.,2013; Scholz,2015"
+13,,,High selectivity and easy to,Sensitive to noise,
+14,,,operate,,
+15,,Impedance,Label-free analysis,Long time measurement,"Ciucci,2019;Zamfir et al.,2020"
+16,,,High sensitivity, Unstable with low reliability,
+17,,,Easy to analyze complex,,
+18,,,phenomena,,
+19,Micromechanical-based,QCM,Simple electrode design,Sensitive to sample matrix and,"(Becker & Cooper,2011;Voiculescu& Nordin"
+20,biosensor,,High sensitivity,temperature,2012)
+21,,,Label-free detection,,

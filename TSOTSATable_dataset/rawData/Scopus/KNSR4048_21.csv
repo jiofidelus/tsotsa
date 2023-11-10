@@ -1,0 +1,43 @@
+,0,1,2,3,4
+0,Application,Objectives,AI technique,Important outcomes,References
+1,Cheese,To determine the characteristics of controlled-,PCA-ANN,i Sensory attributes of cheese have been deter,Curto et al. [254]
+2,,processing cheese,,mined with sufficient evidence on well-defined,
+3,,,,population which was known to be cost effective,
+4,,,,and useful method for quality control,
+5,Chicken meat,To classify chicken meat with respect to their qual-Decision tree (DTree),,(i) The assessment of the poultry meat was able,Barbon et al. [255]
+6,,ity grades,, to be done by using the spectral analysis and the,
+7,,,,classification using the DTree models (REPTree),
+8,,,,had a better performance compared to the sup-,
+9,,,,port vector machine and decision table model,
+10,,,,that were carried out for comparison purposes,
+11,Chocolate,To develop a model for the quality assessment of,ANN,(i) NIRS was used to obtain the fingerprint of the,Gunaratne et al. [256]
+12,,chocolate,,chocolate using the five taste senses and fused,
+13,,,,with ANN for the prediction of chocolate quality,
+14,,,,"based on chemical, physical, and sensory proper-",
+15,,,,ties and accurate prediction was achieved by the,
+16,,,,developed model,
+17,Civet coffee,To detect any alteration in the civet coffee,ANN.SVM.KNN,iThe combination of trained ANN and NIRS,Arboleda [257]
+18,,,,method was able to discriminate the civet coffee,
+19,,,,from non-civet coffee successfully with an accu-,
+20,,,,racy in the range of 95-100%,
+21,,,,(ii) The performance of classification using ANN,
+22,,,,was compared with other learning algorithms,
+23,,,,"such as decision trees, discriminant analysis,",
+24,,,,"SVM,KNN,and ensemble classifiers,and it was",
+25,,,,proven that ANN has better accuracy compared,
+26,,,,to the others,
+27,Gelatin,To detect the adulteration in edible gelatin,"ANN, SVM",(i) NIRS fused with both methods which were,Zhang et al. [258]
+28,,,,done separately was able to detect the adultera-,
+29,,,,tion in edible gelatin,
+30,,,,(ii) SVM model showed as the best recognition,
+31,,,,methods among the other models that were,
+32,,,,used with an accuracy of 100% meanwhile the,
+33,,,,recognition rate obtained by the ANN model was,
+34,,,,97.44%,
+35,Eggs,To determine the freshness of the egg,"RBFNN,PCA",(i) The system was able to classify the egg fresh-,Aboonajmi et al. [259]
+36,,,,"ness, and the model is appropriate to be imple-",
+37,,,,mented for the rough screening of the eggs,
+38,Food powders,To classify different types of food powders,SVM,(i) The system was able to classify the food pow-,Mohamed et al. [260]
+39,,,,"ders varying of whole wheat flour,organic wheat",
+40,,,,"flour, tapioca starch, corn starch, and rice flour",
+41,,,,with a very high accuracy rate of 100%,

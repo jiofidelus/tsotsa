@@ -1,0 +1,43 @@
+,0,1
+0,Column title,Description
+1,,dried and raw:d
+2,'Species/Subspecies',Gives the scientific name as stated in the original source.
+3,'Cultivar/Variety/Breed/,Gives the cultivar/variety/breed/accession name according to the original
+4,Accession name',source.
+5,'Season',Indicates the sampling season.
+6,,Months are abbreviated with the 3 first letters in English language
+7,,followed by the year (e.g.Mar 2012).If the season is reported as raining
+8,,"season""or other,it is reported as stated in the paper."
+9,'Other',Gives additional information on factors that can influence the nutrient
+10,,"composition (e.g. slaughter weight, size, sex, feeding practices, maturity"
+11,,"stage,soil conditions,storage time,cooking and preserving methods)"
+12,'n',Gives the number of independent analytical samples (often composite
+13,,samples and should not be confused with the number of replicates
+14,Comments on data,Gives information on value conversion (e.g.conversion from dry matter
+15,processing/methods',"to fresh weight,conversion of denominator to per 100 g EP,information"
+16,,on analytical methods and/or assumptions made on data expression or
+17,,any other information on the data that is not captured in another field.
+18,'Publication year',Publication year of source
+19,'BibliolD',Indicates the reference as ID to link the table with bibliography.
+20,,From version 2.0 onwards the ID starts with one (or more) lower case
+21,,"etters,followed by a numbere.g.fr1,fr2,....fr169...;i1,i2,i3..."
+22,'Compiler ID',Gives the identification of the compiler (two or three capital letters of
+23,,initials).
+24,,"Compilers,who revise and change data of a food entry,add their acronym"
+25,,to the former ID(separated by a comma).
+26,'Latest revision in version',"Indicates,when the last revision at the food level was carried out"
+27,In food group fish and shellfish (09) only:,
+28,By using the ASFIS List of Species for Fishery Statistics Purposes(http://www.fao.org/fishery/collection/asfis/en),By using the ASFIS List of Species for Fishery Statistics Purposes(http://www.fao.org/fishery/collection/asfis/en)
+29,the scientific name of all fish and shellfish of the different sources were identified.Two codes are assigned for,the scientific name of all fish and shellfish of the different sources were identified.Two codes are assigned for
+30,each aquatic animal: Commercial species are grouped by the ISSCAAP code (a two figure number) according to,each aquatic animal: Commercial species are grouped by the ISSCAAP code (a two figure number) according to
+31,"their taxonomy,ecology and economy while the 3-alpha code (a 3-letter code) is unique for each fish and shellfish","their taxonomy,ecology and economy while the 3-alpha code (a 3-letter code) is unique for each fish and shellfish"
+32,on species level. The same AsFiS codes for different food entries indicate that fish or shellfish are identical at,on species level. The same AsFiS codes for different food entries indicate that fish or shellfish are identical at
+33,their taxonomic level,
+34,ISSCAAP code,Gives ASFIS classification code (two figure code);
+35,,The ISSCAAP codes for the five main groups presented are given in
+36,,"parenthesis: Freshwater fishes(11-13), diadromous fishes (21-25,"
+37,,"marine fishes31-38),crustaceans41-47),molluscs51-58)"
+38,'3_alpha code',Gives ASFIS identification code (three capital letter code).
+39,'Scientific name(ASFIS),Gives the scientific name according to the ASFIS list on genus/species
+40,,level.
+41,'English name (ASFIS)',Gives the scientific name according to the AsFIS list

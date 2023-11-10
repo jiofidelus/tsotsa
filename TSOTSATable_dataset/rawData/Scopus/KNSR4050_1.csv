@@ -1,0 +1,19 @@
+,0,1,2,3
+0,,Variables,n=97,
+1,Age(y),,55.8  3.7,
+2,Years Since Menopause (y),Years Since Menopause (y),6.6  3.4,
+3,Blood Pressure,,,Reference
+4,Systolic blood pressure (mmHg),Systolic blood pressure (mmHg),121.515.1,<120
+5,Diastolic blood pressure (mmHg),Diastolic blood pressure (mmHg),80.09.4,<80
+6,Anthropometry/Body Composition,Anthropometry/Body Composition,,
+7,Weight (kg),,83.0  13.5,
+8,Height (cm),,163.5 5.8,
+9,Body Mass Index (kg/m2),Body Mass Index (kg/m2),31.04.8,
+10,Total body fat (kg),Total body fat (kg),37.8  10.5,
+11,Total body fat (%),Total body fat (%),45.44.8,
+12,Total body lean mass (kg,Total body lean mass (kg,42.15.1,
+13,Serum Parameters,Serum Parameters,,Reference Range
+14,Glucose(mg/dL),Glucose(mg/dL),100.617.3,6599
+15,Insulin(uIU/mL),Insulin(uIU/mL),10.08.8,<17
+16,Triglycerides (mg/dL),Triglycerides (mg/dL),135.8 75.8,<149
+17,TC(mg/dL),,214.2  42.4,100-199

@@ -1,0 +1,33 @@
+,0,1,2,3
+0,,Food Item,,Mapping Decision
+1,Best of both bread and bread products,Best of both bread and bread products,Macronutrients from BOP. Micronutrients mapped to 50% white bread and 50% wholemeal bread,Macronutrients from BOP. Micronutrients mapped to 50% white bread and 50% wholemeal bread
+2,"Carbonated drinks: dandelion and burdock, tonic water and","Carbonated drinks: dandelion and burdock, tonic water and","Macronutrients from BOP. Micronutrients mapped to ""diet, cola""","Macronutrients from BOP. Micronutrients mapped to ""diet, cola"""
+3, sugar-free soft drinks.,,,
+4,,,"Macronutrients from BOP. Micronutrients for milk based meal replacements mapped to ""Flavoured","Macronutrients from BOP. Micronutrients for milk based meal replacements mapped to ""Flavoured"
+5,Meal replacements,,"milk, pasteurised""",
+6,,,"Meal replacement bars mapped to ""Cereal chewy bar""","Meal replacement bars mapped to ""Cereal chewy bar"""
+7,"Garlic bread (The M&W code is ""Garlic bread,pre-packed,","Garlic bread (The M&W code is ""Garlic bread,pre-packed,","For garlic bread with different kinds of bread this has been mapped as a recipe. For example:""Tesco finest garlic","For garlic bread with different kinds of bread this has been mapped as a recipe. For example:""Tesco finest garlic"
+8,"frozen"") but does not account for different types of bread.","frozen"") but does not account for different types of bread.","ciabatta slices mapped to 98% ciabatta and 2% garlic puree""","ciabatta slices mapped to 98% ciabatta and 2% garlic puree"""
+9,Vegetable juice (Codes for carrot juice and tomato juice but,Vegetable juice (Codes for carrot juice and tomato juice but,,
+10,"no code for""vegetable juice"")",,canned and drained as per ingredients list.,
+11,Seasonal products (these have a very short shelf life and are,,"Most seasonal products removed, some kept (although likely to change at least there might be something similar","Most seasonal products removed, some kept (although likely to change at least there might be something similar"
+12,likely to be different from year to year),likely to be different from year to year),"to select). There are currently; 65 Christmas products, 8 Halloween products, 50 Easter eggs, 3 Valentine's day","to select). There are currently; 65 Christmas products, 8 Halloween products, 50 Easter eggs, 3 Valentine's day"
+13,likely to be different from year to year),likely to be different from year to year),chocolate products,
+14,"High Protein""",,"Macronutrients from BOP and micronutrients mapped to ""Build-up powder, shake""","Macronutrients from BOP and micronutrients mapped to ""Build-up powder, shake"""
+15,,,Cordials mapped to the undiluted cordials or made-up to offer choice. For example the generic codes used,Cordials mapped to the undiluted cordials or made-up to offer choice. For example the generic codes used
+16,Cordial,,"primarily were ""Lime juice cordial, undiluted"" or ""Fruit juice drink, low calorie, ready to drink"".","primarily were ""Lime juice cordial, undiluted"" or ""Fruit juice drink, low calorie, ready to drink""."
+17,,,or diluted product.,
+18,,,Powders were mapped to powders and the portion options presented as per pack instructions and clarified as,Powders were mapped to powders and the portion options presented as per pack instructions and clarified as
+19,,,"powder. For example: Bird's Instant Custard mapped to ""custard powder"" and serving size presented as: 75 g","powder. For example: Bird's Instant Custard mapped to ""custard powder"" and serving size presented as: 75 g"
+20,,,per packet (as powder). This was done because it's not known whether the person would make up the product,per packet (as powder). This was done because it's not known whether the person would make up the product
+21,"Powder based foods (custard, angel delight, gravy","Powder based foods (custard, angel delight, gravy","with milk or with water. There are also versions of the items ""as consumed"" for the user to select. Descriptors in","with milk or with water. There are also versions of the items ""as consumed"" for the user to select. Descriptors in"
+22,stock cubes),,the portion estimation screen have been added to clarify whether the selection is for dry or wet product.,the portion estimation screen have been added to clarify whether the selection is for dry or wet product.
+23,,,"Gravy was mapped to granules, for example: ""Bisto Best Lamb Gravy with a Hint of Mint"" mapped to ""gravy","Gravy was mapped to granules, for example: ""Bisto Best Lamb Gravy with a Hint of Mint"" mapped to ""gravy"
+24,,,"instant, granules"" and serving option was as per BOP: 30 g per packet or 5 g teaspoons.","instant, granules"" and serving option was as per BOP: 30 g per packet or 5 g teaspoons."
+25,,,"Angel delight mapped to ""instant dessert powder"": serving option as per pack: 30 g packet (dry)","Angel delight mapped to ""instant dessert powder"": serving option as per pack: 30 g packet (dry)"
+26,,,"Mapped to the finished product and serving size given as per finished product. For example, Dr. Oetker","Mapped to the finished product and serving size given as per finished product. For example, Dr. Oetker"
+27,"Cake mix,biscuit mix",,"Halloween Cupcake Kit mapped to ""chocolate cake"". Portion options in myfood24 are ""as served""per cake slice","Halloween Cupcake Kit mapped to ""chocolate cake"". Portion options in myfood24 are ""as served""per cake slice"
+28,,,"Betty Crocker Double Choc Chip Cookie Mix mapped to ""cookies, chocolate chip"" and serving is per 29 g cookie","Betty Crocker Double Choc Chip Cookie Mix mapped to ""cookies, chocolate chip"" and serving is per 29 g cookie"
+29,,,Raw and dried products (such as dried pasta and rice) have been mapped to a generic cooked alternative and,Raw and dried products (such as dried pasta and rice) have been mapped to a generic cooked alternative and
+30,Raw and dried foods,,cooking factors (from the UK food composition tables version 7) applied to account for volume change and,cooking factors (from the UK food composition tables version 7) applied to account for volume change and
+31,,,nutrient loss attached to each particular item.,

@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+0,food,Name,Name,Size,Size,u1,u2,,u3,,u4,u5,,u6,u7,,u8,,10
+1,code,Kiswahili,English,-,,bowl,glass,glass,cup,,plate,tbsp,,tsp,saucer,,unit,,Average
+2,116,papai bichi,Pawpaw unripe,,A,,,,,,,,,,,,,,200
+3,117,pesheni,Passion fruit,,Std,,,,,,,,,,,,,60,
+4,117,pesheni,Passion fruit,,A,,,,,,,,,,,,,,150
+5,118,mapeasi,Pears standard,,Sta,,,,,,,,,,,,,275,
+6,118,mapeasi,Pears standard,,A,,,,,,,,,,,,,,275
+7,119,nanasi,Pineapple,,S,,,,,,,.,,,,,,100,
+8,119,nanasi,Pineapple,,M,,,,,,,,,,,,,190,
+9,119,nanasi,Pineapple,,L,,,,,,,,,,,,,550,
+10,119,nanasi,Pineapple,,A,,,,,,,,,,,,,,400
+11,120, juisi ya nanasi,Pineapple juice,,Std,,,200,,,,:,,,,,,,
+12,120, juisi ya nanasi,Pineapple juice,,A,,,,,,,,,,,,,,200
+13,121,matunda damu,Plums,,Std,,,200,,,.,:,,,,,,,
+14,121,matunda damu,Plums,,A,,,,,,,,,,,,,,125
+15,122,ukwaju - kavu,Tamarind -- dry,,Std,,.,,,150,,,30,,,,,,
+16,122,ukwaju - kavu,Tamarind - dry,,A,,,,,,,,,,,,,,60
+17,123,ukwaju - mbichi,Tamarind fresh,,Std,,,,,,,,,,,,,20,
+18,123,ukwaju - mbichi,Tamarind fresh,,A,,,,,,,,,,,,,,60
+19,124,machenza,Tangerine,,S,,.,,,,.,,,.,,.,,40,
+20,124,machenza,Tangerine,,M,,.,,,,.,,,.,,,,70,
+21,124,machenza,Tangerine,,L,,,,,,,.,,,,,,100,
+22,124,machenza,Tangerine,,A,,,,,,,,,,,,,,70
+23,125, tikiti maji,Water melon,,S,,.,,,,,,,,,,,100,
+24,125,tikiti maji,Water melon,,M,,,,,,,,,,,,,200,
+25,125,tikiti maji,Water melon,,L,,.,,,,.,.,,,,,,400,
+26,,,,,,,,,,,,,,,,,,,
+27,125,tikiti maji,Water melon,,A,,,,,,,,,,,,,,230
+28,126, jusi ya pensheni,Passion Juice,,Std,,,200,,,,,,,,,,,

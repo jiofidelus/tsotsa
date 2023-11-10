@@ -1,0 +1,15 @@
+,0,1,2
+0,AMMSE,r,P
+1,Body mass index,0.266,0.028*
+2,Mean blood pressure,0.098,0.428
+3,Sat O,0.171,0.164
+4,"Cerebral rSO,",0.349,0.003*
+5,eGFR,0.047,0.703
+6,Hb,0.216,0.077
+7,ASerum albumin,0.268,0.027*
+8,ASerum Ca,0.007*,0.957
+9,ASerum P,0.109#,0.376
+10,AProteinuria,0.173*,0.158
+11,Salt intake,-0.116,0.345
+12,Energy intake,0.158*,0.197
+13,AProtein intake,0.233#,0.056

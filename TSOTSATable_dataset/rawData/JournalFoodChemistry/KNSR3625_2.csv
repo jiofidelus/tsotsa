@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Composition,Total Ag,Migrated Ag (%),,,,Reference
+1,,(g cm-2,Water,,,3% Acetic acid,
+2,,,20C10 d,40C10 d,70C 2 h,70C2 h,
+3,PP,20390,,,,1.072.46,"(Echegoyen & Nerin,2013)"
+4,PP-PE,<0.00328*,0.0017,,0.050.08,0.050.07,"Artiaga et al.,2015"
+5,HDPE,0.21.4,,0.0250.3,,,"Mackevica et al.,2016"
+6,PC,11,<0.007,0.0067,0.008,5.610-3,"Ramos et al.,2016)"
+7,PP,5.2,0.5,0.78,0.9,0.36,
+8,PP (FC#2),9.15,0.003,0.112,0.002,0.056,This work
+9,FGS-PP (FB),0.1048,0.031,0.053,0.047,16,

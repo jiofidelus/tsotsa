@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Willingness to eat again,Willingness to eat again,,,Signature beet flavor,Signature beet flavor,,
+1,Population,Taster group,n,'Yes' count,%,P,n,Yes' count,%,P
+2,LGC,Core,107,85,79,0.89,105,65,62,1.7 E-04 ***
+3,HGC,Core,106,86,81,,105,90,86,
+4,LGC,Consumer,462,404,87,0.44,447,334,75,8.1 E-02 ^
+5,HGC,Consumer,455,389,85,,437,349,80,

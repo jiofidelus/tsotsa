@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,food,Name,Name,Size,u1,u1,u2,,u3,u4,u5,u6,u7,u8,,10
+1,code,Kiswahili,English,,bowl,bowl,glass,glass,cup,plate,tbsp,tsp,saucer,unit,,Average
+2,106,mapera,Guava,A,,,,,,,,,,,,100
+3,107,mafenesi, Jack fruit,S,.,,,,,,,.,,,50,
+4,107,mafenesi, Jack fruit,M,,,.,,,,,,,,150,
+5,107,mafenesi,Jack fruit,L,,,.,,.,,.,,,,250,
+6,107,mafenesi,Jack fruit,A,,,,,,,,,,,,150
+7,108,juisi ya chungwa,Orange juice,Std,,,,200,,,,,,,,
+8,108,Juisi ya chungwa,Orange juice,A,,,,,,,,,,,,200
+9,109,ndimu,Lemon,Sta,,,,,,,,,,,70,
+10,109,ndimu,Lemon,A,,,,,,,,,,,,15
+11,110,limau,Lime,Std,,,,,,,,,,,30,
+12,110,limau,Lime,A,,,,,,,,,,,,15
+13,111,juisi ya embe, Mango juice,Std,,200,,,,,,,,,,
+14,111,juisi ya embe, Mango juice,A,,,,,,,,,,,,200
+15,112,embe,Mango,S,,,,,.,,,,,,120,
+16,112,embe,Mango,M,.,,,,,.,.,.,,,155,
+17,112,embe,Mango,L,.,,,,,,,,,,270,
+18,112,embe,Mango,A,,,,,,,,,,,,200
+19,113,embe mbichi, Mango unripe,A,,,,,,,,,,,,100
+20,114,chungwa,Orange,S,,,,,,,,,,,120,
+21,114,chungwa,Orange,M,,,:,,.,,.,.,,,170,
+22,114,chungwa,Orange,L,.,,.,,,,,,,,200,
+23,114,chungwa,Orange,A,,,,,,,,,,,,160
+24,115,papai,Pawpaw,S,,,,,,,,,,,250,
+25,115,papai,Pawpaw,M,,,.,,,,:,,,,300,
+26,115,papai,Pawpaw,L,.,,:,,.,,,,,,650,
+27,115,papai,Pawpaw,A,,,,,,,,,,,,400

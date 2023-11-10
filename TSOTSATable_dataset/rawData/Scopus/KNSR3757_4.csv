@@ -1,0 +1,54 @@
+,0,1,2,3,4,5
+0,,Beneficial,Crop,Stress,Mechanism,References
+1,element,element,,,,
+2,V,,Arabidopsis,HO induced Low concentration of V helps in increasing the level of ROS signalling,HO induced Low concentration of V helps in increasing the level of ROS signalling,Libik-Konieczny
+3,,,thaliana,stress,molecule that is involved in organogenesis and also responsible for root,et al.2015
+4,,,,,hair formation (rhizogenesis) in stress condition.,
+5,,,Oryza sativa,Drought and,"Enhances the activity of SOD, CAT, POD, and glutathione.",Imtiaz et al.
+6,,,Cicer arietinum,other abiotic,,2018; Altaf et al.
+7,,,Nicotiana tabacum,stress,,2020; Wu et al.
+8,,,,,,2021
+9,Si,Si,Sorghum bicolour,Drought,Silicon is responsible for improving root growth system and helps in main-,Hattori et al.
+10,,,,,taining photosynthetic activity and stomatal conductance,2005
+11,,,Oryza sativa,Drought,"Increase in photosynthetic activity, stomatal conductance ,water use effi-",Crusciol et al.
+12,,,,,ciency and higher grain yield in rice,2013
+13,,,Triticum astevium,Drought,Increase in chlorophyll content and relative water content on foliar applica-,Maghsoud et al
+14,,,,,tion of Sillicon further grain biomass increased with reduced electrolyte,2016
+15,,,,,leakage,
+16,,,Hordeum vulgare,Salinity,"Increased activity of enzyme SOD,POD,CAT and glutathione reductase",Liang et al. 2003
+17,,,Gossypium,Ni toxicity,Silicon reduces Nickel absorption and increases antioxidant defence,Khaliq et al.
+18,,,hirsutum,,mechanism,2015
+19,Ti,Ti,Triticum astevium,Drought,"Enhances the enzyme activity of catalase, peroxidise and nitrate reductase",Bacilieri et al.
+20,,,Zea maize,,against drought,2017
+21,La,La,Nicotiana tabacum,Drought,"Activity of choline, ATPase and Mg2+ were significantly increased",Chen et al.2001
+22,,,Triticum astevium,"Pb toxicity,","Enhances antioxidant defence mechanism,",Pang et al. 2002;
+23,,,,Saline stress,"Improved activity of SOD, CAT and POD antioxidant enzymes.",Yongsheng 2005
+24,,,Oryza sativa,Cu toxicity,La(III) amino acid chelaters chelates Cu ions and reduces toxicity in rice,"Chen and Zhong,"
+25,,,,,,2021
+26,Se,Se,Oryza sativa,As toxicity,Expression of As transporters and expression of regulatory elements such,Chauhan et al.
+27,,,,,as WRKY,2020
+28,,,Hordeum vulgare,Drought,Enhance the GSH-Px and CAT activity and decreases lipid peroxidation,Habibi 2013
+29,,,,,process,
+30,,,Sorghum bicolor,Chilling,Enhances guaiacol and ascorbic acid peroxidise activity,Abbas 2012
+31,,,,stress,,
+32,,,Sorghum bicolor,High,Increases anti-oxidant activity,Djanaguiraman
+33,,,,temperature,,et al. 2010
+34,,,Triticum astevium,Chilling,"Increases phenolics,anthocyanin and flavonoids and improves antioxidant",Akladious 2012
+35,,,,stress,defence mechanism,
+36,,,Zea maize,Salinity,Improve ion transport and antioxidative properties,Jiang et al.2017
+37,,,Lolium L,Saline and,Increases activity of SOD subsequently activating POD enzyme,Cartes et al.
+38,,,,Heavy metal,,2010
+39,,,,stress,,
+40,Co,Co,Lycopersicon,drought,"Increased activity of SOD,CAT,APX",Zhu et al. 2000
+41,,,esculentum,,,
+42,Al,Al,Camellia sinensis,Drought,Enzymes like superoxide dismutase catalase increases,Ghanati et al.
+43,,,,,,2005
+44,Va,Va,Triticum astevium,Salinity,Sodium transporters removes excess of sodium from roots and provide,Subbarao et al.
+45,,,Oryza sativa,,resistance against salinity,2000
+46,,,Solanum,Drought,"Increases soluble solids fructose, glucose, ascorbic acid and phenols",Smolen et al.
+47,,,lycopersicum,,Increased concentration of salicylic acid,2015
+48,,,Glycine max,,"Increased in concentration of enzymes SOD,APX and GR",Gupta et al. 2015
+49,,,Lactuca sativa,,"Increased in concentration of enzymes SOD,APXGSH and AA",Leyva et al. 2011
+50,Ce,Ce,cucumber,Chilling,Increased proline and chlorophyll content,Li Guo tai 2010
+51,,,,stress,,
+52,,,Vigna unguiculata,Metal stress,,In lower concentration Ce enhances proline and polyphenol oxidase activity Shyam and Aery

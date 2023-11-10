@@ -1,0 +1,34 @@
+,0,1,2,3,4
+0,Food name anddescription,Density in g/ml,Specific,BiblioID,Update
+1,,(including mass,gravity,,Version
+2,,and bulk density),,,2.0
+3,Rice+ meat+ vegetable,0.83,,KEN,X
+4,Rice + potato/banana,0.80,,KEN,X
+5,"Rice + roots (yam, arrowroot etc.",0.90,,KEN,X
+6,Rice+vegetable,0.65,,KEN,x
+7,Rice + vegetable + potato/banana,0.80,,KEN,x
+8,"Rice,plain (rice+ water",0.70,,KEN,x
+9,"Spaghetti and meat balls, canned",1.04,,S&W,
+10,"Stew, banana",1.07,,KEN,x
+11,"Stew, banana + potato + vegetable",1.06,,KEN,X
+12,"Stew,beans",1.01,,KEN,
+13,"Stew,beans/peas+meat+vegetables",0.94,,KEN,
+14,"Stew,beans/peas+vegetables",1.07,,KEN,X
+15,"Stew, meat",1.12,,KEN,x
+16,"Stew, pea + potato/banana",1.10,,KEN,
+17,"Stew, pea + potato/banana + vegetable",1.22,,KEN,x
+18,"Stew, potato",1.10,,KEN,x
+19,"Stew,potato+beans+vegetable",1.08,,KEN,x
+20,"Stew, vegetable",0.68,,KEN,x
+21,"Stew, vegetable + meat",0.86,,KEN,x
+22,"Stew, vegetable + potato",1.10,,KEN,X
+23,"Stew, vegetable + potato + meat",1.08,,KEN,X
+24,Stew: eggs + veg,0.68,,KEN,
+25, Tuna noodle casserole,0.93,,S&W,
+26,Ugali + beans,0.80,,KEN,
+27,Ugali + beans + vegetable,0.80,,KEN,X
+28,"Ugali + vegetable, crumbed",0.75,,KEN,x
+29,"Ugali + vegetables, boiled with fat",1.20,,KEN,x
+30,"Ugali,plain flour + water,crumbed",0.75,,KEN,
+31,Wieners and sauerkraut (mixture),0.61,,S&W,
+32,"Zesty Italian ""hamburger helper""",1.04,,S&W,

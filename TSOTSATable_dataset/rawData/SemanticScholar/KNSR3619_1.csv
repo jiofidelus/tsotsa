@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7
+0,FLIP,Collection period,n*,Number,Collected product variables/information,Collection method,,
+1,database,,,of stores,,,,
+2,2010-11,March 2010-April 2011,"10,487",4,"Name,Brand,Company,Container size,NFt",Food packages purchased for data collection,Food packages purchased for data collection,Food packages purchased for data collection
+3,,,,,"UPC,Marketing information",Variables of interest were manually entered ir,Variables of interest were manually entered ir,Variables of interest were manually entered ir
+4,,,,,,Microsoft Excel.,,
+5,,,,,,Uploaded to FLIP cloud database following,Uploaded to FLIP cloud database following,Uploaded to FLIP cloud database following
+6,,,,,,the 2013 collection.,the 2013 collection.,
+7,2013,May-Sept,"15,342",4,"Name,Brand,Company,Container size,NFt",iPhone app development for digital collectior,iPhone app development for digital collectior,iPhone app development for digital collectior
+8,,,,,"UPC,Marketing information* Ingredients List",of food package images in stores.,of food package images in stores.,
+9,,,,,Photos of all sides of packages,Database software development using Clou,Database software development using Clou,Database software development using Clou
+10,,,,,,storage.,,
+11,,,,,,OCR software development to automate NF,OCR software development to automate NF,OCR software development to automate NF
+12,,,,,,and ingredients list data entry.,and ingredients list data entry.,
+13,,,,,,Excel report generation capabilities added,Excel report generation capabilities added,Excel report generation capabilities added
+14,2017,July-Sept,"19,267",3,"Name,Brand,Company Container size,NFt","Upgraded technology capabilities,including","Upgraded technology capabilities,including","Upgraded technology capabilities,including"
+15,,,,,"UPC,Marketing information*Ingredients List,",ability to update databases using Excel.,ability to update databases using Excel.,
+16,,,,,"Priceregular& sale,Photos of all sides of",Automatedlinking&matchingproducts,Automatedlinking&matchingproducts,Automatedlinking&matchingproducts
+17,,,,,packages,,between databases using UPC or store,between databases using UPC or store
+18,,,,,,specific product codes,specific product codes,
+19,,,,,,Development of algorithms for food,Development of algorithms for food,
+20,,,,,,categorization and nutrient profiling,categorization and nutrient profiling,
+21,2020-21,May 2020-Feb 2021,"74,445",gt,"NameBrand,Container sizeNFt,UPC",Webscraping,tocollectall,produci
+22,,,,,"Ingredients List,Price(regular &sale,Photo of",information,,
+23,,,,,front of package (if available,AI-enhanced OCR technology tocollect al,AI-enhanced OCR technology tocollect al,AI-enhanced OCR technology tocollect al
+24,,,,,,product information.,product information.,
+25,,,,,,Automated linking&matching UPCs/,Automated linking&matching UPCs/,
+26,,,,,,store-specific codes between FLIP 2020 ano,store-specific codes between FLIP 2020 ano,store-specific codes between FLIP 2020 ano
+27,,,,,,"FLIP 2017,and between stores within FLIP","FLIP 2017,and between stores within FLIP","FLIP 2017,and between stores within FLIP"
+28,,,,,,2020,,

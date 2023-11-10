@@ -1,0 +1,19 @@
+,0,1,2,3,4
+0,Model outcome:daily milk yield residual(L),Model outcome:daily milk yield residual(L),,,
+1,Fixed effects,Estimates,CI,P,
+2,(Intercept),-10.31,-12.88 to-7.75,,
+3,DIM,0.03,0.03 to 0.03,,<0.001
+4,Primiparous-control space,(reference),,,
+5,Primiparous-high space,2.64,0.98 to 6.27,,0.153
+6,Primiparous-high space*DIM,0.00,-0.01 to-0.00,,0.002
+7,Multiparous-high space,16.01,12.36 to 19.66,,<0.001
+8,Multiparous-high space*DIM,0.04,-0.04 to-0.03,,<0.001
+9,Multiparous-control space,17.96,14.32 to 21.61,,<0.001
+10,Multiparous-controlspace*DIM,0.05,-0.05to-0.05,,<0.001
+11,Random effects,,,,
+12,Residual variance,16.37,,,
+13,Random effect variance,64.23.cow_parity,,,
+14,Intraclass correlation,0.8,,,
+15,Number of random effect groups,150cow_party,,,
+16,Number of observations,"25,594",,,
+17,Marginal R/conditional R2,0.233/0.844,,,

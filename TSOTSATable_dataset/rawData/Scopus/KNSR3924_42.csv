@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,,,,,
+1,Investigated,"Extract,",Groups,Animal,Conditions,Method for,Microbiome,Method for,,
+2,"Plant, Plant",Sample,(n = Number of,"Species,",Conditions,Microbiome,Changes,Metabolite,Metabolites,Reference
+3,Part,Preparation,Analyzed,Volunteers,,Analysis,Changes,Detection,,Reference
+4,,,Individuals),,,,,,,
+5,,,,,,V4 region of 16S,,,,
+6,,,4 groups:,,,rRNA gene NGS,HF10 group vs. HFD:,,,
+7,,,control LFD (10%,,,(Illumina) of,small intestine:,,,
+8,,,"kcal from fat, CD);",,treated for,mucosal-,decrease in,,,
+9,,GSE,HFD (45% kcal from,male C57BL/6J,16 weeks; small,adherent,"Firmicutes,",,,
+10,,Vitaflavan@,fat);HFD +0.07 g,mice (9 weeks,"intestine, cecum,",metabolically,Bacteroides-Prevotella,,,[189]
+11,,(procyanidin,GSE/4057 kcal,old),and colonic,active bacteria,"spp.,and",,,[189]
+12,,content 75.6%),HF10;HFD+0.70,old),tissue collected,(results,Parabacteroides spp:;,,,
+13,,,g GSE/4057 kcal,,after sacrifice,converted to 16S,increase in,,,
+14,,,HF100n=8 per,,,cDNA values;,Bacteroidetes and,,,
+15,,,group),,,not analyzed),Bifidobacterium spp.,,,
+16,,,,,duration,,,,,
+17,,,,,10 weeks;,,,,,
+18,,,,,6 periods:,,,,,
+19,,,"1 group,",,14-day washout,,,,"GSE, day 14 vs.",
+20,,,3 treatments:,,"period,three",,,,day0:,
+21,,,0.5 g GSE/day,,14-day,,,fecal,tendency to,
+22,,,(0.19 g/day/subject,,administration,,"GSE,day 14 vs.day 0:",putrefactive, decrease in,
+23,,proanthocy-,as, 9 healthy male,periods,bacterial plate,increase in,product analysis," skatol, indole,",
+24,,anidin-rich,proanthocyanidin);,adults (ages,two 14-day,counting,Bifidobacterium;,by GC;,"4-ethylphenol,",[190]
+25,,GSE,0.5 g green tea,3742 years),two 14-day,counting,tendency to decrease,ammonium,"p-cresol, phenol,",
+26,,,extract/day; 0.5 g,,washout,,in Enterobacteriaceae, analysis by,and ammonia,
+27,,,champignon,,samples,,,HPLC,extract,
+28,,,extract/day,,collected on,,,,administration,
+29,,,,,"days 0, 2, 7, and",,,,,
+30,,,,,14 of,,,,,
+31,,,,,administration,,,,,

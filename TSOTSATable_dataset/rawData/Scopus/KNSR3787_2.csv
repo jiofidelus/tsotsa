@@ -1,0 +1,20 @@
+,0,1,2,3,4
+0,,,Stage 2,,
+1,,Stage 1,Iron Deficiency,Stage 3,Stage 3
+2,,Iron Depletion,Erythropoiesis without,Iron Deficiency Anemia,
+3,,,Anemia,,
+4,Body iron stores,Reduced,,,
+5,,Nil or mild,Nil or mild,"Pallor, anorexia, irritability",
+6,Symptoms,"(fatigue, poor","(fatigue, poor concentration)","systolic flow murmur,",
+7,,concentration),"(fatigue, poor concentration)","tachycardia, lethargy","tachycardia, lethargy"
+8,Ferritin,,+,,
+9,Transferrin saturation,,,+,+
+10,Soluble transferrin receptors,,1,,1
+11,Zinc protoporphyrin,,1,,1
+12,Concentration of,,,,
+13,hemoglobin in,,+,,+
+14,reticulocytes,,,,
+15,Hepcidin,,+,,
+16,Mean corpuscular volume,,,,+
+17,Hemoglobin,,or,,
+18,Bone marrow stainable iron,?,0,,0

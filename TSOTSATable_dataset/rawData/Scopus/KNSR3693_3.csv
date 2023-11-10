@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,,Correlation,,,Correlation,,Performance
+1,Stage,Coefficient,Samples,Observations,Coefficient,Slope,(MSE)
+2,,,,,(R),,(MSE)
+3,,Model 3 Inputs: Near-infrared absorbance values (Regression),,,,,
+4,Training,,107,1712,0.98,0.96,2.29 x 1010
+5,Validation,,23,368,0.91,0.89,13.83 x 1010
+6,Testing,,23,368,0.94,0.84,12.69  1010
+7,Overall,,153,2448,0.96,0.92,
+8,,Model 4 Inputs: electronic nose voltage values (Regression),,,,,
+9,Training,,357,5712,0.95,0.90,7.45 x 1010
+10,Testing,,153,2448,0.90,0.88,16.98  1010
+11,Overall,,510,8160,0.93,0.90,

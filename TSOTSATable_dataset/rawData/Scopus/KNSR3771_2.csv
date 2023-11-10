@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,Wine Samples/,White Wine Samples,White Wine Samples,White Wine Samples,,Red Wine Samples,Red Wine Samples,,Rose Wine Samples,,ANOVA,,,Management,Management
+1,Parameters,Org,Conv,Home,Org,Conv,Home,Org,Conv,Home,F-Value,Sig.,Org,Conv,Home
+2,SO total(mg/L,7.40,132.48,6.38,19.44,22.23,12.85,21.15,28.63,14.43,36.685,***,***,***,***
+3,SO total(mg/L,75.96,132.48,75.70,87.81,126.02,88.51,100.93,129.66,130.84,60.026,***,***,***,***
+4,Wine samples/,,Vineyard,,,Tarnave Vineyard,,,Murfatlar Vineyard,,ANOVA,,,Management,Management
+5,SO free (mg/L),Org,Conv,Home,Org,Conv,Home,Org,Conv,Home,F-value,Sig.,Org,Conv,Home
+6,SO free (mg/L),94.19,20.01,13.37,99.88,10.86,11.78,93.58,9.96,12.08,25.164,***,***,***,***
+7,SO2 total (mg/L),94.19,136.49,106.92,99.88,133.63,82.96,93.58,123.78,104.73,47.478,***,***,***,***
+8,Wine samples/,Org,Cotnari Vineyard,,Org,Sarica Niculitel Vineyard,Home,Org,Panciuee-way Vineyard,"""Home",F-value,,Org,Management,Home
+9,Parameters,10.16,Conv,Home,Org,Conv,12.61,13.50,Conv,"""Home",F-value,sig.,Org,Conv,Home
+10,SO free (mg/L),10.16,6.86,4.05,16.54,16.98,79.24,13.50,120.36,20.19,16.027,***,***,***,***
+11,SO2 total (mg/L),123.96,125.22,95.34,70.04,134.80,79.24,88.96,120.36,91.88,21.744,***,***,***,***
+12,Parameters,Org,Conv,Home,Org,Conv,Home,Org,Conv,Home,F-value,Sig:,Org,Conv,Home
+13,SO2 total (mg/L),14.44,14.19,17.52,11.09,17.18,8.97,5.48,8.99,4.26,11.001,***,***,***,***
+14,SO2 total (mg/L),60.74,127.33,51.21,70.51,131.87,69.01,87.32,133.53,51.96,62.945,***,***,***,***

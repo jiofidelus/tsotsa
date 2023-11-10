@@ -1,0 +1,30 @@
+,0,1,2,3
+0,Code of,,Name of food groups and subgroups,N.
+1,food group,,,of foods
+2,01,Cereals and their products,,"1,180"
+3,,01 Rice and rice-based products,01 Rice and rice-based products,346
+4,,02 Maize and maize-based products,02 Maize and maize-based products,148
+5,,03Wheat and wheat-based products,03Wheat and wheat-based products,237
+6,,04 Sorghum and sorghum-based products,04 Sorghum and sorghum-based products,74
+7,,05 Millet and millet-based products,05 Millet and millet-based products,141
+8,,"O6 Other cereals,mixed cereals or unidentified cereals and their products","O6 Other cereals,mixed cereals or unidentified cereals and their products",233
+9,02,"Roots,tubers,plantains and their products","Roots,tubers,plantains and their products",168
+10,,"01 Potato, sweet potato and their products","01 Potato, sweet potato and their products",54
+11,,"02 Cassava, similar roots(excluding taro) and their products","02 Cassava, similar roots(excluding taro) and their products",33
+12,,03 Taro and taro-based products,03 Taro and taro-based products,15
+13,,04 Yam and yam-based products,04 Yam and yam-based products,21
+14,,05 Other starchy roots and tubers (excluding sugary roots and tubers)and their products,05 Other starchy roots and tubers (excluding sugary roots and tubers)and their products,31
+15,,06 Plantain andplantain-based products,06 Plantain andplantain-based products,14
+16,03,Legumes and their products,,923
+17,,01 Pulses (excluding soybeans) and their products,01 Pulses (excluding soybeans) and their products,729
+18,,02 Soybean and soy-based products,02 Soybean and soy-based products,194
+19,04,Vegetables and their products,,378
+20,,01 Leafy vegetables:fresh,,234
+21,,02 Yellow and orange vegetables: fresh,02 Yellow and orange vegetables: fresh,9
+22,,03 Vegetables (excluding leafy and including fresh legumes): fresh,03 Vegetables (excluding leafy and including fresh legumes): fresh,103
+23,,04Vegetables-all types:dried,,33
+24,05,Fruits and their products,,139
+25,,01 Yellow and orange fruits:fresh,01 Yellow and orange fruits:fresh,46
+26,,02 Fruits:fresh,,82
+27,,03Fruits:dried,,7
+28,,04 Fruits: processed (excluding dried and candied),04 Fruits: processed (excluding dried and candied),4

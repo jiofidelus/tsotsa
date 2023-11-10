@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6
+0,Treatment,,,,Survival rate (%),,
+1,,,C.arborescens,S. balangeran,,D.zibethinus,N. lappaceum
+2,Freely drained 0% shading,,100.0 0.0 a,100.00.0a,,100.00.0 a,98.52.9 ab
+3,Freely drained with 30% shading,,100.00.0a,96.52.4 b,,100.0 0.0 a,92.33.7 b
+4,Freely drained with 70% shading,,100.0  0.0 a,100.00.0 a,,92.3 9.0 b,100.0 0.0 a
+5,GW level 10 cm 0% shading,,94.13.4bc,100.0 0.0 a,,81.0 20.2 bc,100.0 0.0 a
+6,GW level 10 cm with 30% shading,,97.6  3.7 ab,100.00.0 a,,86.2 9.6 bc,100.00.0 a
+7,GW level 10 cm with 70% shading,,98.8  4.3 ab,99.2  1.8 ab,,100.0  0.0 a,96.9 3.5 b
+8,GW level zero 0% shading,,95.3  7.4 bc,100.0  0.0 a,,47.7  39.2 d,61.5  27.5 cd
+9,GW level zero with 30% shading,,100.00.0 a,100.00.0a,,72.3 24.6 bc,55.4  36.3 cd
+10,GW level zero with 70% shading,,75.721.0 bc,98.1  2.5 b,,72.330.0 bc,67.2  25.3 cd
+11,1/ stem height flooding 0% shading,,100.00.0 a,100.0  0.0 a,,60.0  44.1 c,74.9  26.4 bc
+12,1/ stem height flooding with 30% shading,1/ stem height flooding with 30% shading,97.63.7 b,100.00.0 a,,83.621.7 b,70.840.0 bc
+13,1/% stem height flooding with 70% shading,1/% stem height flooding with 70% shading,59.2  40.5 c,100.00.0 a,,70.8  37.9 bc,73.331.2 bc
+14,,Grand mean (SEm),93.2 (1.4) f,99.5  (1.4) e,,80.5 (1.4) g,82.5 (1.4) g

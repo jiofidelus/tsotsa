@@ -1,0 +1,51 @@
+,0,1,2,3
+0,,Items,Category to be counted (unit to be,Category to be counted (unit to be
+1,,,,summarized)
+2,The Fitzpatrick skin type,,"I:Pale white skin,blue/green eyes,blond/","I:Pale white skin,blue/green eyes,blond/"
+3,,,"red hair (Always burns, does not tan)","red hair (Always burns, does not tan)"
+4,,,"II: Fair skin, blue eyes (Burns easily, tans","II: Fair skin, blue eyes (Burns easily, tans"
+5,,,poorly),
+6,,,III: Darker white skin (Tans after initial burn),III: Darker white skin (Tans after initial burn)
+7,,,"IV: Light brown skin (Burns minimally, tans","IV: Light brown skin (Burns minimally, tans"
+8,,,easily),
+9,,,"V: Brown skin (Rarely burns, tans darkly","V: Brown skin (Rarely burns, tans darkly"
+10,,,easily),
+11,,,"VI: Dark brown or black skin (Never burns,","VI: Dark brown or black skin (Never burns,"
+12,,,always tans darkly),
+13,BMI (kg/m2),,<25 kg/m2,
+14,,,25 kg/m2,
+15,Medical history,,Hypertension,
+16,,,Dyslipidemia,
+17,,,Diabetes mellitus,
+18,,,Liver diseases,
+19,,,Renal diseases,
+20,,,Thyroid disease,
+21,,,Anemia,
+22,,,Allergic disease,
+23,Medication,,Yes,
+24,,,No,
+25,Supplement use,,No,
+26,,,Vitamin D,
+27,,,Calcium,
+28,,,B vitamins,
+29,,,Vitamin C,
+30,,,Multivitamin,
+31,,,Iron,
+32,,,Others,
+33,Smoking status,,Never smoked,
+34,,,Formerly smoked,
+35,,,Currently smoking,Currently smoking
+36,Alcohol consumption,,Never,
+37,,,Less than once per month,Less than once per month
+38,,,2 to 3 times per month,2 to 3 times per month
+39,,,2 to 3 times per week,2 to 3 times per week
+40,,, More than 4 times per week, More than 4 times per week
+41,Sleeping hours,,Over 9 hours,
+42,,, 8 hours,
+43,,,7hours,
+44,,,6 hours,
+45,,,Less than 5 hours,
+46,Exercise habit,,More than twice per week,More than twice per week
+47,,,Once per week,
+48,,, 1 to 2 times per month, 1 to 2 times per month
+49,,,Rarely,

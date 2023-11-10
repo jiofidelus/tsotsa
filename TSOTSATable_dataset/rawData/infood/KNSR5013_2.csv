@@ -1,0 +1,19 @@
+,0,1,2
+0,,Food Group,Food codes assigned
+1,A1,Cereals and cereal products,1-100
+2,A2,Cereal-based local dishes,501-550
+3,B1,"Roots,tubers, bananas",351-400
+4,B2,"Roots, tubers, and banana-based local dishes",951-1000
+5,C1,"Pulses, nuts, seeds",151-200
+6,C2,"Pulse, nut and seeds-based local dishes",651-700
+7,D1,"Meat, poultry (including eggs),fish",201-250 and 301-350
+8,D2,"Meat, poultry (including eggs), fish-based local dishes",551-600
+9,D3,Milk and milk products,251-300
+10,E,Oils and fats,1101-1150
+11,F1,Fruit and fruit juices,101-150
+12,F2,Fruit-based local dishes,601-650
+13,F3,Vegetables,401-450
+14,F4,Vegetable-based local dishes,751-800
+15,GMI,Miscellaneous,451-500
+16,GM2,Miscellaneous local dishes,
+17,H,Locally prepared broths,851-900

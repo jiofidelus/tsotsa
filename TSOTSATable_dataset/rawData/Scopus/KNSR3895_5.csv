@@ -1,0 +1,18 @@
+,0,1,2,3,4
+0,,DS Users,DS Non-Users,DS Non-Users,
+1,Nutrient and Food Intake,n=762,,n=1043,p-Value a
+2,,,MeanSD,,
+3,Energy (kcal),1767505,,1817568,0.109
+4,Fat % kcal),31.4  6.5,,31.2  6.4,0.772
+5,Carbohydrates(% kcal),47.1 7.5,,48.0 6.8,0.021
+6,Protein (% kcal),18.03.9,,17.5  3.3,0.004
+7,Vegetables (g),312199,,256  162,<0.001
+8,"Legumes, seeds, nuts (g)",25.2  42.3,,14.5  24.4,<0.001
+9,Fruits (g),253177,,232171,0.008
+10,Cereals (g),18071,,19173,0.002
+11,Fish and seafood (g),19.830.0,,18.5 29.7,0.310
+12,Monosaturated to saturated fatty acids ratio,1.24  0.43,,1.190.37,0.014
+13,Dairy products (g),232144,,230132,0.887
+14,Meat and meat products (g),112106,,11983.0,<0.001
+15,Ethanol intake (g),1.900.32,,2.15  0.39,0.377
+16,Mediterranean Diet Score(points),5.161.43,,4.78  1.42,<0.001

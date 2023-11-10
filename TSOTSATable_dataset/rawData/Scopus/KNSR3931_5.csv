@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,,Total,Employees,Students,Women,Men
+1,,Participants,(>30 y.o.),(<30 y.o.),Women,Men
+2,"Participants, n",26,7,19,19,7
+3,SUS score median,73,63,73,73,60
+4,Quartiles Q1-Q3,6684,46-76,63-78,64-80,54-73
+5,Extreme min-max,35-90,35-83,53-90,35-90,50-78

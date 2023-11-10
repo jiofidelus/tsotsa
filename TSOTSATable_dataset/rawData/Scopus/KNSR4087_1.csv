@@ -1,0 +1,52 @@
+,0,1,2
+0,"Age (in years), mean (SD) [minimum-maximum]","Age (in years), mean (SD) [minimum-maximum]",63.30 (8.02) [50-80]
+1,"Sex,n% female","Sex,n% female",924 (54%)
+2,Hispanic or Latino Ethnic background,Hispanic or Latino Ethnic background,40 (2%)
+3,Racial background,Racial background,
+4,White,,1562 (92%)
+5,Black or African American,Black or African American,65 (4%)
+6,Asian,,54 (3%)
+7,Other,,19 (1%)
+8,Education,,
+9,High school or less,High school or less,393 (23%)
+10,"Associate degree, technical or trade school","Associate degree, technical or trade school",384 (23%)
+11,"Bachelor's degree (BA, BS)","Bachelor's degree (BA, BS)",530 (31%)
+12,"Graduate degree (MA, MS, MBA, PhD, JD, MD)","Graduate degree (MA, MS, MBA, PhD, JD, MD)",393 (23%)
+13,Health insurance,Health insurance,
+14,Employer-provided insurance,Employer-provided insurance,593 (35%)
+15,Self-purchased insurance,Self-purchased insurance,153 (9%)
+16,Veterans Affairs/military healthcare,Veterans Affairs/military healthcare,92 (5%)
+17,Medicare,,833 (49%)
+18,Medicaid or another state program,Medicaid or another state program,137 (8%)
+19,Other,,12 (1%)
+20,None,,66 (4%)
+21,Doctor ever recommended screening tests (yes),Doctor ever recommended screening tests (yes),1569 (92%)
+22,Past cancer screening experience (yes),Past cancer screening experience (yes),1331 (78%)
+23,Past cancer screenings received (n = 1331),Past cancer screenings received (n = 1331),
+24,Colonoscopy,Colonoscopy,1059 (62%)
+25,,Cologuard or other stool-based colon cancer screening test (fecal immuno-,393 (23%)
+26,chemical test),chemical test),
+27,Low-dose computed tomography,Low-dose computed tomography,117(7%)
+28,Mammogram,Mammogram,739 (43%)
+29,Pap smeara,Pap smeara,702 (76%)
+30,Prostate-specific antigen testing,Prostate-specific antigen testing,369 (48%)
+31,Other,,23 (1%)
+32,Blood testc,Blood testc,5 (0%)
+33,BRCA testingc,BRCA testingc,2 (0%)
+34,Ever received positive result on cancer screening test (yes) [n = 1331],Ever received positive result on cancer screening test (yes) [n = 1331],266 (20%)
+35,Ever received false-positive result on cancer screening test (yes) [n = 266],Ever received false-positive result on cancer screening test (yes) [n = 266],100 (38%)
+36,Ever been diagnosed with cancer in past (yes),Ever been diagnosed with cancer in past (yes),173 (10%)
+37,Family history of cancer (yes),Family history of cancer (yes),1056 (62%)
+38,Family history of cancer diagnosed before age of 50 years (yes),Family history of cancer diagnosed before age of 50 years (yes),312 (30%)
+39,Visit to any type of doctor within past 12 months (yes),Visit to any type of doctor within past 12 months (yes),1475 (87%)
+40,Overall health in past 12 months,Overall health in past 12 months,
+41,Very good,Very good,428 (25%)
+42,Good,,899 (53%)
+43,Fair,,327 (19%)
+44,Poor,,37 (2%)
+45,Very poor,Very poor,9 (1%)
+46,Factors influencing choice to receive screening tests,Factors influencing choice to receive screening tests,
+47,Out of pocket cost,Out of pocket cost,466 (27%)
+48,Doctor recommendation,Doctor recommendation,1203 (71%)
+49,Family history of cancer,Family history of cancer,929 (55%)
+50,Finding out a friend/acquaintance has cancer,Finding out a friend/acquaintance has cancer,114 (7%)

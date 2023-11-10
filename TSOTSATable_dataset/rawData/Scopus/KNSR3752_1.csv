@@ -1,0 +1,26 @@
+,0,1,2,3,4
+0,Species,Continental distribution,Barcode gene,Commercial,Reference
+1,,,sequence,available,
+2,Afrius figuratus (Germar),Africa,No,No,Roell et al.(2019)
+3,Afrius purpureusWestwood,Africa,No,No,Roell et al.(2019)
+4,Alcaeorrhynchus grandis(Dallas,North and South America,Yes,No,Ribeiro et al. (2010)
+5,Amyotea malabarica(Fabricius),Asia,Yes,No,Santhamma (2017)
+6,Andrallus spinidens (Fabricius),"Asia, North America",Yes,No,Zibaee et al. (2020)
+7,Apateticus racteatus(Fitch,North America,Yes,No,Zack et al. (2012)
+8,Arma chinensis(Fallou,Asia,Yes,No,Zou et al. (2013)
+9,Arma custos (Fabricius,Asia and Europe,Yes,No,Zhao et al. (2018a)
+10,Brontocoris tabidus (Signoret),South America,No,No,Zanuncio et al.2000
+11,Dinorhynchus dybowskyi Jakovlev,Asia,Yes,No,Zhao et al. (2018b)
+12,Eocanthecona furcellata (Wolff),Asia,Yes,No,Keerthi et al.(2020)
+13,Eocanthecona thomsoni (Distant),Asia,Yes,No,Thomas (1994)
+14,Oechalia schellenbergii (Guerin),Oceania,Yes,No,Aldrich et al.1996
+15,Perillus bioculatus Fabricius,"Europe, North America",Yes,No,Coudron and Kim (2004)
+16,Picromerus bidens Linnaeus,"Asia,Europe,North America",Yes,No,Mahdian et al. (2006)
+17,Picromerus griseus Dallas,Asia,Yes,No,Zhao et al (2017)
+18,Pinthaeus humeralis Horvath,Asia,Yes,No,Zhao et al. (2017)
+19,Podisus connexivus Bergroth,"America,Europe",No,No,Zanuncio et al. (1994)
+20,Podisus maculiventris (Say),"Asia,Europe,North America",Yes,Yes,Coudron et al. (2012)
+21,Podisus nigrispinus (Dallas),"America, Europe",Yes,Yes,De Bortoli et al.2011
+22,Rhacognathus corniger Hsiao & Cheng,Asia,Yes,No,Roca-Cusachs et al.(2020
+23,Supputius cincticeps (Stal),South America,No,No,Zanuncio et al. (2005)
+24,Tynacantha marginata Dallas,South America,No,No,Brugnera and Grazia (2018)

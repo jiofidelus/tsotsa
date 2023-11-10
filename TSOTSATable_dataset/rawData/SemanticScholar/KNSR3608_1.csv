@@ -1,0 +1,11 @@
+,0,1,2,3
+0,Versao,Lancamento,Dados CC,Alteracoes principais
+1,TBCA-USP 1.0,Julho/1998,300,Formato de tabela tradicional
+2,TBCA-USP 1.1,Marco/1999,390,Numero de dados
+3,TBCA-USP 2.0,Junho/2000,390,Apresentacao grafica
+4,TBCA-USP 3.0,Marco/2001,696,"Tabela blocada, divisao por grupos de alimentos, num"
+5,,,,de dados
+6,TBCA-USP 4.0,Julho/2004,1200,"Sistema de busca por alimento, medidas caseiras, ener"
+7,,,,em kJ.numero de dados
+8,TBCA-USP4.1,Novembro/2004,1200,Sistema de busca alimento/nutriente
+9,,,,Conferencia Eletronica

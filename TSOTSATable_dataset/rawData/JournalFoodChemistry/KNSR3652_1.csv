@@ -1,0 +1,14 @@
+,0,1,2,3,4
+0,Sample,Spiked,Recovery,Precision (RSD%),Precision (RSD%)
+1,,gg1,(%),,
+2,,,,Intra-,Inter-
+3,,,,day,day
+4,rice complementary food,0.20,94.4,4.0,6.6
+5,1,1.0,99.6,3.0,3.6
+6,,10,94.6,2.2,4.4
+7,rice complementary food,0.20,93.6,3.5,4.2
+8,2,1.0,93.9,2.0,4.0
+9,,10,100.2,3.5,3.4
+10,millet complementary,0.20,91.2,2.4,7.2
+11,food,1.0,94.4,3.6,3.6
+12,,10,100.2,3.0,3.4

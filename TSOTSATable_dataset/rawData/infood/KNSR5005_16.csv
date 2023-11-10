@@ -1,0 +1,46 @@
+,0,1,2
+0,connponent,connponicntnanne,onit
+1,ID/Tagname,,
+2,F18D1T(g),fatty acid 18:1 trans,g
+3,F18D1(g),fatty acid 18:1,bo
+4,F19D1N11(g),fatty acid 19:1 n-11,g
+5,F19D1N10(g),fatty acid 19:1 n-10,g
+6,F20D1N12(g),fatty acid 20:1 n-12,g
+7,F20D1CN11(g),fatty acid 20:1 n-11,g
+8,F20D1N11(g),fatty acid 20:1 n-11,g
+9,F20D1CN9(g),fatty acid 20:1 cis n-9,bo
+10,F20D1C(g),fatty acid 20:1 cis,g
+11,F20D1N9(g),fatty acid 20:1 n-9,
+12,F20D1N8(g),fatty acid 20:1 n-8,
+13,F2OD1N7(g),fatty acid 20:1 n-7,g
+14,F20D1T(g),fatty acid 20:1 trans,g
+15,F2OD1(g),fatty acid 20:1,bo
+16,F22D1N11(g),fatty acid 22:1 n-11,bo
+17,F22D1N9(g),fatty acid 22:1 n-9,bo
+18,F22D1N7(g),fatty acid 22:1 n-7,g
+19,F22D1T(g),fatty acid 22:1 trans,bo
+20,F22D1(g),fatty acid 22:1,bo
+21,F24D1N11(g),fatty acid 24:1 n-11,g
+22,F24D1CN9(g),fatty acid 24:1 cis n-9,bo
+23,F24D1N9(g),fatty acid 24:1 n-9,g
+24,F22D1C(g),fatty acid 22:1 cis,bo
+25,F24D1(g),fatty acid 24:1,
+26,F16D2N9(g),fatty acid 16:2 n-9,bo
+27,F16D2N7(g),fatty acid 16:2 n-7,bo
+28,F16D2N6(g),fatty acid 16:2 n-6,g
+29,F16D2N4(g),fatty acid 16:2 n-4,bo
+30,F16D2(g),fatty acid 16:2,bo
+31,F17D2(g),fatty acid 17:2,g
+32,F18D2C9T11(g),"fatty acid 18:2 n-7 cis9, trans11, conjugated",g
+33,F18D2T10C12(g),"fatty acid 18:2 n-6 trans10, cis12, conjugated",bo
+34,F18D2TCON(g),"fatty acid 18:2 conjugated cis, trans, position unknown",g
+35,F18D2TTN6(g),"fatty acid 18:2 trans, trans n-6",g
+36,F18D2CN6(g),fatty acid 18:2 cis n-6,bo
+37,F18D2TN6(g),fatty acid 18:2 trans n-6,g
+38,F18D2T(g),fatty acid 18:2 trans,g
+39,F18D2N6(g),fatty acid 18:2 n-6,bo
+40,F18D2N5(g),fatty acid 18:2 n-5,g
+41,F18D2N4(g),fatty acid 18:2 n-4,g
+42,F18D2(g),fatty acid 18:2,bo
+43,F20D2N9(g),fatty acid 20:2 n-9,g
+44,F20D2CN6(g),fatty acid 20:2 cis n-6,g

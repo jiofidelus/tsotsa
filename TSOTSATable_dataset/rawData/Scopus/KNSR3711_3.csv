@@ -1,0 +1,62 @@
+,0,1,2,3,4
+0,Sponsor,Cancer type,Drug administration,Phase Status,Phase Status
+1,Duke University,"Glioblastoma, malignant glioma",NCT00626483 CMV pp65-LAMP mRNA-Ioaded DC+GM-CSF I,,Completed
+2,,,NCT00639639 CMV-ALT+CMV pp65-LAMP mRNA-Ioaded DC I,,"Active,not"
+3,,,,,recruiting
+4,,,NCT02529072 DC Ioaded with CMV Ag mRNA in combination I,,Completed
+5,,,with nivolumab,,
+6,,,NCT02366728 Human CMV pp65-LAMP mRNA-pulsed,11,"Active,not"
+7,,,autologous DCs,,recruiting
+8,,Glioblastoma,NCT00890032 BTSC mRNA-loaded DCs,1,Completed
+9,,,NCT03927222 Human CMV pp65-LAMP mRNA-pulsed,,Suspended
+10,,,autologous DCs+ temozolomide+Td toxoid,,
+11,,,+GM-CSF,,
+12,,,NCT03688178 Human CMV pp65-LAMP mRNA-pulsed,II,Recruiting
+13,,,autologous DCs + temozolomide +,,
+14,,,varlilumab+Td toxoid+111In-labeled DCs+,,
+15,,,unpulsed DCs,,
+16,,Melanoma,NCT01216436 DCs transfected with mRNA encoding TAAs,1,Terminated
+17,Radboud University,Melanoma,NCT00929019 Autologous DCs EP with mRNA encoding,1/II,Terminated
+18,,,gp100 and tyrosinase,,
+19,,,NCT00243529 Autologous DCs transfected with mRNA,1/1I,Completed
+20,,,encoding TAAs,,
+21,,,NCT00940004 DCs EP with mRNA encoding TAAs gp100 and I/II,,Completed
+22,,,tyrosinase,,
+23,,,NCT01530698 Autologous DCs EP with mRNA,1/II,Completed
+24,,,NCT02285413 DCs Ioaded with mRNA encoding TAAs gp100 II,,Completed
+25,,,and tyrosinase +/- cisplatinum,,
+26,,Colorectal cancer,NCT00228189 CEA mRNA-loaded DCs,1,Completed
+27,,Hematological Malignancies,NCT02528682 MiHA mRNA-loaded PD-L-silenced DC,1/II,Completed
+28,,Prostatic Neoplasms,NCT02692976 DCs loaded with protamine/mRNA encoding,II,Completed
+29,,,KLH+ DCs loading with MHC I binding,,
+30,,,"peptides,NY-ESO-1 and MUC1 PepTivator",,
+31,Oslo University,Melanoma,"NCT00961844 DCs - transfected with hTERT-, survivin- and",1/II,Terminated
+32,Hospital,,tumor cell derived RNA+ ex vivo T cell,,
+33,,,expansion and reinfusion+temozolomide,,
+34,,,NCT01278940 mRNA-transfected DCs+ IL-2,1/1I,Completed
+35,,Prostate cancer,NCT01197625 Autologous DCs Ioaded with mRNA from,1/1I,"Active,not"
+36,,Prostate cancer,"primary prostate cancer tissue,hTERT, and",,recruiting
+37,,,survivin,,
+38,,,NCT01278914 mRNA-transfected DCs,1/1I,Completed
+39,,Glioblastoma,NCT00846456 Tumor stem cell-derived mRNA-,1/II,Completed
+40,,,transfected DCs,,
+41,,,NCT03548571 DCs transfected with mRNA encoding survivin II/III,,Recruiting
+42,,,and hTERT + temozolomide,,
+43,,Ovarian cancer,NCT01334047 DCs loaded with amplified ovarian cancer,1/II,Terminated
+44,,,"stem cell mRNA,hTERT,and survivin",,
+45,Antwerp University,AML,NCT00834002 WT1mRNA-transfected autologous DCs,1,Completed
+46,Hospital,,NCT01686334 DCs EP with autologous WT1 mRNA,II,Recruiting
+47,,"AML, CML, multiple myeloma",NCT00965224 DCs EP with autologous WT1 mRNA,,Unknown
+48,,Multiple solid tumors,NCT01291420 WT1 mRNA-EP autologous DCs,1/1I,Unknown
+49,,Mesothelioma,NCT02649829 DCs loaded with WT1 + chemotherapy,I/II,Recruiting
+50,,Glioblastoma,NCT02649582 AutologousWT1 mRNA-loaded DCs+,1/II,Recruiting
+51,,,temozolomide,,
+52,Argos Therapeutics,Renal cell carcinoma,NCT01482949 DC EP with autologous tumor mRNA+/-,11,Terminated
+53,,,sunitinib,,
+54,,,NCT00678119 DCs co-EP with CD40L IVT RNA and,11,Completed
+55,,,autologous total tumor RNA + sunitinib,,
+56,,,NCT00272649 DCs co-EP with CD40L IVT RNA and,I/II,Completed
+57,,,autologous total tumor RNA,,
+58,,,NCT01582672 DCs EP with Autologous tumor mRNA plus,1I,Terminated
+59,,,sunitinib,,
+60,,,NCT00087984 Autologous tumor total RNA-transfected DCs,1/II,Completed

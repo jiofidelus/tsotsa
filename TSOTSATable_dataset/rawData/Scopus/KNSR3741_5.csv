@@ -1,0 +1,35 @@
+,0,1,2,3,4,5
+0,Food,Main protein types and protein con,,"DIAAS,%",First limiting AA,Reference
+1,,tent (%) in food groups,tent (%) in food groups,,,
+2,Cereal grains,"Albumins (1-12%), globulins (4-",,,,"38,39,46"
+3,,"80%), prolamins (4-60%), glutelins",,,,
+4,Barley,7-15,7-15,51,Lys,47
+5,Maize,9-12,9-12,48,Lys,47
+6,Millet,6-16,6-16,7a,Lys,"39,40"
+7,Oats,9-16,9-16,77,Lys,47
+8,Rice,7-8,7-8,64,Lys,47
+9,Rye,8-18,8-18,47,Lys,47
+10,Sorghum,10-11,10-11,29,Lys,"19,47"
+11,Wheat,8-18,8-18,43,Lys,41
+12,Legumes,"Albumins (10-30%), globulins",,,,41
+13,,(45-70%),(45-70%),,,42
+14,Pea protein concentrate,54,54,73,SAA,42
+15,Soy flour,,52,105,SAA,42
+16,Soy protein isolate,,93,98,SAA,42
+17,Meat,Sarcoplasmic proteins (30-35%),,,,43
+18,,myofibrillar proteins (55-60%),,,,
+19,,stromal proteins (10-15%),stromal proteins (10-15%),,,45
+20,Beef jerky,,49,120,SAA,45
+21,Bologna (pork),,12,128,Leu,45
+22,"Ground beef,raw",,18,121,Leu,45
+23,"Ground beef, cooked",,31,99,Leu,45
+24,"Ribeye roast,56",,24,111,Val,45
+25,"Ribeye roast,64",,26,130,Val,45
+26,"Ribeye roast,72",,26,107,Val,45
+27,Salami (pork),,17,120,Val,44
+28,Dairy,"Caseins (80%), whey proteins (14%),",,,,44
+29,,fat globule membrane proteins,,,,
+30,Milk protein concentrate,,68,141,SAA,42
+31,Skimmed milk powder,,35,123,SAA,42
+32,Whey protein concentrate,,78,133,His,42
+33,Whey protein isolate,,85,125,His,42

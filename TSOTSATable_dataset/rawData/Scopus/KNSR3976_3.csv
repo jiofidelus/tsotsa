@@ -1,0 +1,19 @@
+,0,1,2,3
+0,Variable,Variable,Common Mental Disorders,
+1,,,Crude OR (CI95%),Adjusted OR (CI95%)
+2,HDP,,,
+3,,First tercile,(Ref.),(Ref.)
+4,,Second tercile,0.81 (0.720.90)***,0.79(0.700.89)**
+5,,Third tercile,0.71 (0.650.78)***,0.86(0.77-0.96)*
+6,UDP,,,
+7,,First tercile,(Ref.),(Ref.)
+8,,Second tercile,1.12(0.981.27),1.00(0.86-1.15)
+9,,Third tercile,1.30(1.13-1.49***,1.17 (0.991.38)
+10,Breakfast consumption,Breakfast consumption,,
+11,,Does not consume,(Ref.),(Ref.)
+12,,Sometimes,0.66 (0.590.75)***,0.71 (0.610.83)***
+13,,Almost every day/every day,0.45 (0.400.50)***,0.54 (0.470.62)***
+14,Practice of having meals with family,Practice of having meals with family,,
+15,,Never or almost never,(Ref.),(Ref.)
+16,,Sometimes,0.58 (0.500.67)***,0.69 (0.570.84)***
+17,,Almost every day/every day,0.38 (0.340.43)***,0.50 (0.440.58)***

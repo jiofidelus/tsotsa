@@ -1,0 +1,28 @@
+,0,1,2,3,4,5
+0,Study Type,Nature of,Duration,Type and Dose of,Main Findings,References
+1,Study Type,Participants,Administered,Fiber Administered,Main Findings,References
+2,"Randomized,",,,,,
+3,double-blind,Hypercholesterolemic,,6 g concentrated,Reduced total and LDL,
+4,design,adults,6 weeks,-glucan/day,cholesterol,[93]
+5,controlled trial,,,,,
+6,"Randomized,",,,,,
+7,"controlled,",Impaired glucose,18 weeks,15 g arabinoxylan/day,Improved fasting serum,[94]
+8,crossover,tolerance participants,18 weeks,15 g arabinoxylan/day,glucose,[94]
+9,intervention trial,,,,,
+10,"single-blind,",,,6 g of fiber partially,Reduced postprandial,
+11,"controlled,",intolerant subjects,one year,hydrolyzed guar gum,"postprandial insulin,",[95]
+12,crossover,intolerant subjects,,with each meal,"postprandial insulin,",
+13,intervention trial,,,,triacylglycerol levels,
+14,"Randomized,",Pre and,,,Reduced total,
+15,"single-blind,","post-menopausal,",,,cholesterol for,
+16,"controlled,",hypercholesterolemic,6 weeks,5 g psyllium/day,post-menopausal,[96]
+17,crossover,hypercholesterolemic,,,women but not in,
+18,intervention trial,women,,,pre-menopausal women,
+19,"crossover, a",,,Control diet: 25 g,,
+20,"single-blind,",Free-living subjects,28 days,LKFibre*diet: 55 g,cholesterol,[97]
+21,intervention,,,dietary fiber/day,,
+22,,,,,Decrease in glycosylated,
+23,,Healthy subjects;,,,"hemoglobin (HbAc1),",
+24,Clinical trial study,type-2-diabetes and,16 weeks,10 g/day gum Arabic,decrease fasting blood,[98]
+25,,pre-diabetics subjects.,,,"glucose, health",
+26,,,,,improvement,

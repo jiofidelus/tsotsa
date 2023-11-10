@@ -1,0 +1,11 @@
+,0,1,2,3
+0,,Nonsarcopenic,Sarcopenic,
+1,Food Group(g),n=690,n=111,p-Value *
+2,,LSmeansSE,LSmeansSE,
+3,Grains,862.0  12.8,814.8 33.1,0.1884
+4,Meat/fish/eggs/legumes,278.9 8.0,247.220.5,0.1539
+5,Vegetables,72.51.6,62.6  4.2,0.0304
+6,Fruits,90.3 3.9,74.310.1,0.1432
+7,Milk/dairy products,35.3 2.4,31.4 6.2,0.5629
+8,Oils/fats/sugars,73.1 2.6,70.2  6.7,0.6905
+9,Total food intake,1037.814.1,953.736.3,0.0329

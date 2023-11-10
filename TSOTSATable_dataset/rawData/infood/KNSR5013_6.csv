@@ -1,0 +1,40 @@
+,0,1
+0,,composition table.
+1,FOOD NAME,This is the field for the food name
+2,MACRONUTRIENTS,
+3,ENERC KCAL,Energy in kilocalories
+4,PROCNT,Total protein in grams
+5,A PROTEIN,Protein in grams from animal sources
+6,MFP_PROTEI,"Protein in grams from meat, fish, and poultry (does not include milk and eggs)"
+7,FAT,Total fat in grams
+8,CHOCDF,Total carbohydrates by difference in grams
+9,SUCS,Total sugar in grams
+10,FASAT,Saturated fatty acids in grams
+11,FAMS,Monounsaturated fatty acids in grams
+12,FAPU,Polyunsaturated fatty acids in grams
+13,CHOLE,Cholesterol in milligrams
+14,FIB,"Fiber, method of determination unknown (dietary fiber), in grams"
+15,PHYTAC,Phytate in milligrams
+16,VITAMINS,
+17,VITA,Vitamin A in retinol equivalents (micrograms)
+18,A_VITA,Animal source vitamin A in retinol equivalents (micrograms)
+19,VITD,Vitamin D in micrograms
+20,VITE,Vitamin E in tocopherol equivalents
+21,VITC,Vitamin C in milligrams
+22,THIA,Thiamin in milligrams
+23,RIBF,Riboflavin in milligrams
+24,NIA,"Niacin, pre-formed in milligrams"
+25,VITB6,Vitamin B6 in milligrams
+26,FOL,Folate in micrograms
+27,VITB12,Vitamin B12 in micrograms
+28,PANTAC,Pantothenic acid in milligrams
+29,MINERALS,
+30,CA,Calcium in milligrams
+31,P,Phosphorus in milligrams
+32,MGM,Magnesium in milligrams
+33,K,Potassium in milligrams
+34,NA,Sodium in milligrams
+35,FE,Iron in milligrams
+36,MFP_FE,"Iron from meat, fish, and poultry in milligrams (does not include milk or eggs)"
+37,ZN,Zinc in milligrams
+38,CU,Copper in milligrams

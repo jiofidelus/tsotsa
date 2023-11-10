@@ -1,0 +1,35 @@
+,0,1,2
+0,TAGNAME,DESCRIPTION,UNIT
+1,FAN3,"Fatty acid, total n-3",g
+2,FAN9,"Fatty acid, total n-9",g
+3,FAESS,"Fatty acids,total essential",g
+4,FAFRE,"Fatty acids,total free",g
+5,Fat components,,
+6,DGLY,"Diglycerides,total",g
+7,Phospholipids,,
+8,PHOLIP,"Phospholipids,total",g
+9,"Carbohydrates, carbohydrate fractions","Carbohydrates, carbohydrate fractions",
+10,CHOAVLDF,Carbohvdrate.available:calculated by difference,g
+11,CHOCDF,"Carbohydrate,total;calculated by difference",g
+12,CHO-,Carbohydrate; method of determination unknown or variable,g
+13,Sugars,,
+14,SUGAR,"Sugars, total",g
+15,SUGAR-,"Sugars, total, expression unknown",g
+16,SUGNRD,"Sugars, non-reducing",g
+17,SUGRD,"Sugars, reducing",g
+18,Monosaccharides,,
+19,FRUS,Fructose,g
+20,GLUS,Glucose,g
+21,TRES,Trehalose,g
+22,Disaccharides,,
+23,SUCS,Saccharose,g
+24,Oligosaccharides,,
+25,RAFS,Raffinose,g
+26,STAS,Stachyose,g
+27,OLSAC,"Oligosaccharides,total available",g
+28,VERS,Verbascose,g
+29,Polysaccharides,,
+30,AMYS,Amylose,g
+31,GLYC,Glycogen,g
+32,PSACNSS,"Polysaccharides,non-starch,water-soluble",g
+33,PSACNSI,"Polysaccharides,non-starch,water-insoluble",g

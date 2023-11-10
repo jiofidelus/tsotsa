@@ -1,0 +1,49 @@
+,0,1,2,3,4
+0,,(including mass,gravity,,Version
+1,,and bulk density),,,2.0
+2,"Vermouth, dry",,1.005,UK 6th,
+3,"Vermouth, sweet",,1.046,UK 6th,
+4,White creme de cacao,,1.14,CG,x
+5,White creme de menthe,,1.12,CG,x
+6,Yellow chartreuse,,1.06,CG,x
+7,Wine and Cider,,,,
+8,"Cider, dry",,1.007,UK 6th,
+9,"Cider, sweet",,1.012,UK 6th,
+10,"Cider, vintage",,1.017,UK 6th,
+11,"Wine, red",,0.998,UK 6th,
+12,"Wine, rose, medium",,1.003,UK 6th,
+13,"Wine, table, all",0.99,0.99,USDA,x
+14,"Wine, table, red",0.99,0.99,USDA,x
+15,"Wine, table,red,Barbera",0.99,0.99,USDA,x
+16,"Wine, table, red, Burgundy",1.00,1.00,USDA,x
+17,"Wine, table,red,Cabernet Franc",0.99,0.99,USDA,x
+18,"Wine, table,red, Cabernet Sauvignon",0.99,0.99,USDA,x
+19,"Wine, table, red, Carignane",0.99,1.00,USDA,x
+20,"Wine, table, red, Claret",0.99,1.00,USDA,x
+21,"Wine, table, red, Gamay",0.99,0.99,USDA,x
+22,"Wine, table, red, Lemberger",0.99,1.00,USDA,X
+23,"Wine, table, red, Merlot",0.99,0.99,USDA,x
+24,"Wine, table, red,Mouvedre",0.99,0.99,USDA,x
+25,"Wine, table, redPetite Sirah",0.99,1.00,USDA,x
+26,"Wine, table, red, Pinot Noir",0.99,0.99,USDA,x
+27,"Wine, table, red, Sangiovese",0.99,0.99,USDA,x
+28,"Wine, table,red, Syrah",0.99,0.99,USDA,x
+29,"Wine, table,red,Zinfandel",0.99,0.99,USDA,x
+30,"Wine, table, white",0.99,0.99,USDA,x
+31,"Wine, table, white, Chardonnay",0.99,0.99,USDA,x
+32,"Wine, table, white, Chenin Blanc",1.00,1.00,USDA,x
+33,"Wine, table,white,Fume Blanc",0.99,0.99,USDA,x
+34,"Wine, table, white, Gewurztraminer",0.99,1.00,USDA,x
+35,"Wine, table, white, late harvest",1.04,1.04,USDA,x
+36,"Wine, table, white, late harvest, Gewurztraminer",1.03,1.03,USDA,x
+37,"Wine, table, white, Muller Thurgau",1.00,1.00,USDA,x
+38,"Wine, table, white, Muscat",1.01,1.01,USDA,x
+39,"Wine, table, white, Pinot Blanc",0.99,0.99,USDA,x
+40,"Wine, table, white, Pinot Gris (Grigio)",0.99,0.99,USDA,
+41,"Wine, table, white, Riesling",1.00,1.00,USDA,x
+42,"Wine, table, white, Sauvignon Blanc",0.99,0.99,USDA,x
+43,"Wine, table, white, Semillon",1.00,1.00,USDA,x
+44,"Wine, white",1-1.04,,DK,
+45,"Wine, white, dry or sparkling",,0.995,UK 6th,
+46,"Wine, white, medium",,1.005,UK 6th,
+47,"Wine, white, sweet",,1.016,UK 6th,

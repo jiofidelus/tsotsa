@@ -1,0 +1,39 @@
+,0,1,2
+0,TAGNAME,DESCRIPTION,UNIT
+1,ZN,Zinc,mg
+2,Heavy metals and contaminants,Heavy metals and contaminants,
+3,AL,Aluminium,mcg
+4,AS,Arsenic,mcg
+5,CD,Cadmium,mcg
+6,HG,Mercury,mcg
+7,,lithium,mcg
+8,PB,Lead,mcg
+9,SB,Antimony,mcg
+10,SN,Tin,mcg
+11,SR,Strontium,mcg
+12,Vitamins,,
+13,Fat-soluble vitamins,,
+14,"Vitamin A,retinol",,
+15,VITA_RAE,Vitamin A retinol activity equivalent (RAE); calculated by,mcg
+16,,summation of the vitamin A activities of retinol and the active,
+17,,carotenoids,
+18,VITA,Vitamin A;calculated by summation of the vitamin A activities,mcg
+19,,of retinol and the active carotenoids,
+20,ERGCAL,Ergocalciferol,mcg
+21,RETOL,Retinol,mcg
+22,RETOLDH,Dehydroretinol,mcg
+23,RETOL13,13-cis retinol,mcg
+24,RETOLDH13,13-cis-dehvdroretinol,mcg
+25,RETOLDHT,All trans dehvdroretino,mcg
+26,RETOLSUM,"Summation, retinol = trans-retinol + cis-retinol",mcg
+27,VITA-,Vitamin A; method of determination unknown,mcg
+28,Carotenoids,,
+29,CARTA,alpha-Carotene,mcg
+30,CARTB,beta-Carotene,mcg
+31,CARTBCIS,beta-Carotene cis,mcg
+32,CARTBEQ,beta-Carotene eguivalents,mcg
+33,CARTOID,"Carotenoids,total",mcg
+34,LUTN,Lutein,mcg
+35,NEOX,Neoxanthin,mcg
+36,VIOLX,Violaxanthin,mcg
+37,ZEA,Zeaxanthin,mcg

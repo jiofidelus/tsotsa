@@ -1,0 +1,23 @@
+,0,1,2,3,4,5
+0,,All,,Female,Male,pvalue
+1,,n=20,n=20,n=10,n=10,
+2,Age (years)*,50 (14),50 (14),53.4 (14.5),46.7 (12.8),0.353
+3,Body Mass Index (kg/m2)*,36.2 (4.6),36.2 (4.6),35.6 (4.3),36.0 (4.2),0.912
+4,Waist to hip ratio*,0.95 (0.08),0.95 (0.08),0.89 (0.04),1(0.07,<0.001
+5,Body fat percentage*,37.7 (7.0),37.7 (7.0),43.3 (4.8),32.2 (3.4),<0.001
+6,RM servings per week*,9.1 (3.4),9.1 (3.4),8.2 (3.0),10.0 (3.8),0.165
+7,GLV servings per week*,0.16(0.18),0.16(0.18),0.2 (0.3),0.1(0.1),0.912
+8,Cardiovascular diseases,,9 (45),4 (40),5 (50),1.000
+9,Type II Diabetess,,210,110),110,1.000
+10,Gastrointestinal diseases,,4 (20),2 (20),2 (20),1.000
+11,Races,,,,,0.582
+12,African-American,,4(20),1(10,3 (30),
+13,White,16 (80),16 (80),9 (90),7 (70),
+14,Educations,,,,,0.587
+15,Associate degree or,,4 (20),2 (20),2 (20),
+16,less,,,,,
+17,Bachelor's degree,,6 (30),2(20),4 (40),
+18,Advanced degree(s,10(50),10(50),6 (60),4 (40),
+19,Marital Statuss,,,,,0.650
+20,Married,,8 (40),3(30),5 (50),
+21,Not currently Married,12(60),12(60),7 (70),5(50),

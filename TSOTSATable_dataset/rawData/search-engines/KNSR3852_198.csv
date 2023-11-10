@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,food,Name,Name,Size,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,code,Kiswahili,English,.,bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,, mchuzi wa samaki wakavu bila,,,,,,,,,,,
+3,566,mafuta,Fish dried relish no oil,S,,,,,,,,120,
+4,,mchuzi wa samaki wakavu bila,,,,,,,,,,,
+5,566,mafuta,Fish dried relish no oil,M,,,,,,,,250,
+6,,mchuzi wa samaki wakavu bila,,,,,,,,,,,
+7,566,mafuta,Fish dried relish no oil,,,,,,,,,400,
+8,,mchuzi wa samaki wakavu bila,,,,,,,,,,,
+9,566,mafuta,Fish dried relish no oil,A,,,,,,,,,250
+10,567,samakiwakavu,Dried fish,S,,,,,,,,120,
+11,567, samakiwakavu,Dried fish,M,,,,,,,,250,
+12,567,samakiwakavu,Dried fish,L,,,,,,,,400,
+13,567,samakiwakavu,Dried fish,A,,,,,,,,,250
+14,569,samaki wa kukaanga,Fried fish,S,,,,,,,,135,
+15,569,samaki wa kukaanga,Fried fish,M,,,,,,,,275,
+16,569,samaki wa kukaanga,Fried fish,L,,,,,,,,450,
+17,569,samaki wa kukaanga,Fried fish,A,,,,,,,,,315
+18,570,sambusa-nyama,Samosa-meat,Std,,,,,,,,50,
+19,570,sambusa -- nyama,Samosa -- meat,A,,,,,,,,,150
+20,571,yai ya kuchemsha,Egg boiled,Std,,,,,,,,70,
+21,571, yai ya kuchemsha,Egg boiled,A,,,,,,,,,70
+22,572,mishikaki,Barbecued meat,A,,,,,,,,,300
+23,,,Chicken relish with,,,,,,,,,,
+24,573,mchuzi wa kuku na tui la nazi,coconut milk,Std,300,,,,,,150,,
+25,,,Chicken relish with,,,,,,,,,,
+26,573,mchuzi wa kuku na tui la nazi,coconut milk,A,,,,,,,,,250
+27,574,kipande cha kuku,Chicken piece,S,,,,,,,,50,
+28,574, kipande cha kuku,Chicken piece,M,,,,,,,,100,

@@ -1,0 +1,48 @@
+,0,1,2,3,4
+0,,(including mass,gravity,,Version
+1,,and bulk density),,,2.0
+2,"Sour milk, cow, whole",0.98,,KEN,X
+3,"Yoghurt, berry, low fat, artificially sweetened",1.06,,FNDDS 4.1,
+4,"Yoghurt, fruits",1.045-1.06,,DK,
+5,"Yoghurt, low fat, fruit",,1.08,UK 6th,
+6,"Yoghurt, plain, unsweetened",1.06,,FNDDS 4.1,
+7,"Yoghurt, plain, unsweetened",1.031,,DK,
+8,"Yoghurt, strawberry, low fat",1.08,,FNDDS 4.1,
+9,Oils and fats,,,,
+10,Oils,,,,
+11,"Cooking oil, elianto oil, salad, golden fry, rina",0.88,,KEN,
+12,"Cooking oil, sima",0.88,,KEN,x
+13,"Cooking oil, tily, chipo, pura",0.88,,KEN,x
+14,"Oil, cod at 15.6 C",,0.928,CSG,X
+15,"Oil, corn (at 15.6 C)",,0.924,CSG,x
+16,"Oil, cotton seed (at 15.6 C)",,0.88-0.93,CSG,X
+17,"Oil, lard (at 15.6 C)",,0.91-0.93,CSG,x
+18,"Oil, linseed (at 15.6 C)",,0.93-0.94,CSG,X
+19,"Oil, olive (at 15.6 C",,0.91-0.92,CSG,x
+20,"Oil, other than palmoil",0.92,,DK,
+21,"Oil, palm (at 15.6 C)",,0.924,CSG,x
+22,"Oil, palmoil",0.89,,DK,
+23,"Oil, peanut (at 15.6 C)",,0.92,CSG,x
+24,"Oil, rapeseed (at 20 C)",,0.92,CSG,x
+25,"Oil, seasame seed (at 15.6 C)",,0.923,CSG,x
+26,"Oil, sunflower",0.96,,RC,
+27,"Oil, vegetable, coconut",0.924,,TB,
+28,"Oil, vegetable, corn",0.922,,TB,
+29,"Oil, vegetable, olive",0.918,,TB,
+30,"Oil, vegetable, palm",0.915,,TB,
+31,"Oil,vegetable, peanut",0.914,,TB,
+32,"Oil, vegetable, soya",0.927,,TB,
+33,"Oil, whale (at 15.6 C)",,0.925,CSG,X
+34,Fats and other,,,,
+35,Animal fat,0.7,, KEN,x
+36,Lard,0.919,,TB,
+37,Lard (at 15.6 C),,0.96,CSG,x
+38,"Mayonnaise, light",1,,TB,
+39,"Mayonnaise, traditional",0.91,,TB,
+40,Solid vegetable fat kimbo,0.6,,KEN,
+41, Solid vegetable fat rina,0.67,,KEN,X
+42,Cereal and cereal products,,,,
+43,Barley,0.62,,TB,
+44,"Barley malt, flour",0.72,,ASI,x
+45,"Barley, fine ground",0.74,,ASI,X
+46,"Barley, meal",0.45,,ASI,x

@@ -1,0 +1,32 @@
+,0,1,2,3,4
+0,Food,Species,Compounds,Production system,References
+1,Apple,"Malus  domestica, cv.Starking DeliciousMalus","Ca,K,Na,MnK,Mg,NP,Ca,Mg",Organic,"Roussos,& Gasparatos,2009Do Amarante,"
+2,," domestica,cv.Royal Gala and FujiMalus",Zn,ConventionalNo,"Steffens,Mafra,& Albuquerque,2008Peck"
+3,,"domestica Borkh., cv.Gala",,effects,"Andrews, Reganold,& Fellman,2006"
+4,Kiwifruits,"Actinidia deliciosa, cv.Hayward","Ca, K, Mg",Organic,"Amodio et al.,2007"
+5,Yellow,"Prunus domestica L., cv. Shiro","K,Mg,Zn",Organic,"Lombardi-Boccia, Lucarini,Lanzi, Aguzzi,"
+6,plums,,,,"Cappelloni, 2004"
+7,Wheat,"Triticum sppTriticum aestivum L., cv.","Ca,Cu,Fe,K,ZnC, K,Mg,P, S,Ca,",OrganicNo effects,"Hussain, Larsson, Kuktaite, & Johansson,2010"
+8,,Tommi Triticum aestivum L.,"Fe, Mn, Zn, Cu, Ba, Sr, NaCa, Fe",Conventional,"Laursen et al,2011Vrcek et al.,2014"
+9,,,Mn,,
+10,Corn,Zea mays,"P,Mg,KMn",Organic,"Yu,Guo,Jiang,Song,& Muminov2018"
+11,Potato,"Ipomoea batatas (L.) Lam.Solanum tuberosum L.,","CaCu,K,PMnZnMg,NaC,N,K,",Organic,"Dos Santos et al.,2019Laursen et al.,2011"
+12,,cv.Sava,"Mg,P,S,Ca,Fe,Mn,B,Zn,Cu",ConventionalNo,
+13,,,"Mo,Ba,Sr,Na",effects,
+14,Lettuce,Lactuca sativa L.,"Cu,FeK,MgMn,Zn",Organic,"de Souza et al.,2014"
+15,,,,Conventional,
+16,Pepper,Capsicum annuum L.,"K,Mg,Na,Zn",Organic,"de Souza et al.,2014"
+17,Yellow,"Prunus domestica L., cv. Shiro","Na,Cu",Conventional,"Lombardi-Boccia,Lucarini, Lanzi, Aguzzi, &"
+18,plums,,,,"Cappelloni,2004"
+19,Strawberry,"Fragaria  ananassa,cv.Diamante,San Juan","K,P",Conventional,"Reganold et al.,2010"
+20,,and Lanai,,,
+21,Lemons,Citrus meyeri Tan.,"ZnCu,Fe,Mn",No effects,"Uckoo,Jayaprakasha,& Patil,2015"
+22,Grapefruit,"Citrus paradisi Macf., cv. Rio Red","B,Cl,CuFe,NaPZn",No effects,"Lester,Manthey Buslig,2007"
+23,juice,,,,
+24,Tomato,"Solanum lycopersicum L., cv. Llado","K,CaNaMgCd,Pb,Ni,Cr,Cu",No effectsNo effects,"Ordonez-Santos,Vazquez-Oderiz,& Romero"
+25,,AntillasSolanum lycopersicum L.,"Fe,Zn",,"Rodriguez,2011de Souza et al.,2014"
+26,Zucchini,Cucurbita pepo L.,"P,N",No effects,"Maggio,De Pascale,Paradiso,& Barbieri,2013"
+27,Barley,"Hordeum vulgare L., cv. Simba, Smilla, Power","C,N,Mg,P,S,CaFeZn,Cu,Ba",No effects,"Laursen et al.,2011"
+28,,,"Sr,Na",,
+29,Faba bean,"Vicia faba L.,cv.Columbo","N,K,Mg,P,Sb,Ca,Fe,MnB,Zn",No effects,"Laursen et al.,2011"
+30,,,"Cu,MoBa,Sr,Na",,

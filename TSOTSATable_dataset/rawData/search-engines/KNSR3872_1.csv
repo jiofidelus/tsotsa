@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Food,Item,Index,Food and,,Refuse,,Energy,,Energy,,Water,
+1,Group,No.,No.,Description,,,,(kcal),,(kJ),,,
+2,,,,,Unit,%,,kcal,kcal,kJ,,g,
+3,,,,,,,,ENERC,ENERC,ENERC,,WATER,
+4,,,,,,,,KCAL,,,,WATER,
+5,01,01001,1,"Amaranth, whole",,,0,,355,1498,1498,,13.5
+6,01,01001,,"grain, raw",,,0,,,,1498,,13.5
+7,01,01002,2,"milled grain, raw",,,,,,1523,1523,,12.5
+8,01,01003,3,glutinous ake,,,,,211,,883,,48.0
+9,,,,at.,,,,,,,,,
+10,01,01004,4,oat,,,,,380,1590,1590,,10.0
+11,,,,[*Syn Oats],,,,,,,,,
+12,,,,"Barley, under-",,,,,,,,,
+13,01,01005,5,milled pressed,,,0,,341,1427,1427,,14.0
+14,,,,"grain, raw",,,,,,,,,
+15,01,01006,6,"Barley, pressed",,,0,,340,1423,1423,,14.0
+16,,,,"grain,raw",,,,,340,,1423,,14.0

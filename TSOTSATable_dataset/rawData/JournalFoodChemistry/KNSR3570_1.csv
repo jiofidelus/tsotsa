@@ -1,0 +1,53 @@
+,0,1,2,3
+0,Food name in,Scientific name of,Food name in,Scientific name of
+1,English,food,English,food
+2,Phase I,,Phase II,
+3,Rice,Oryza sativa,Cabbage,Brassica oleracea
+4,Wheat flour,Triticum aestivum,Cauliflower,Brassica oleracea var.
+5,,,,Botrytis
+6,Lentil,Lens culinaris,Peas,Pisum sativum
+7,Bean,Dolichos lablab,"Cucumber,",Cucumis sativus
+8,,,indigenous,
+9,Brinjal,Solanum,"Cucumber,",Cucumis sativus
+10,,melongena,Kheera,
+11,Carrot,Daucus carota,"Cucumber,",Cucumis sativus
+12,,,Hybrid,
+13,Green chilli,Capsicum,Turnip,Brassica rapa
+14,,frutescens,,
+15,Onion,Allium cepa,Beet root,Beta vulgaris
+16,Tomato,Lycopersicon,Kohlrabi,Brassica oleracea
+17,,esculentum,,
+18,Potato,Solanum tuberosum,"Kohlrabi, Purple",Brassica oleracea
+19,Banana,Musa paradisiaca,"Amaranth, stem",Amaranthus
+20,,,,gangeticus
+21,Jackfruit,Artocarpus,"Amaranth leaves,",Amaranthus
+22,,heterophyllus,green,gangeticus
+23,Mango,Mangifera indica,Amaranth (red,Amaranthus
+24,,,leaf var.),gangeticus
+25,Pangas fish,Pangasius,Amaranth (red,Amaranthus
+26,,pangasius,leaf var.),gangeticus
+27,Rohu fish,Labeo rohita,"Taro, stolon",Colocasia esculenta
+28,Tilapia fish,Oreochromis,Colocasia,Colocasia esculenta
+29,,mossambicus,,
+30,Chicken breast,Gallus bankiva,Bitter gourd,Momordica charantia
+31,,murghi,,
+32,Chicken leg,Gallus bankiva,"Bottle gourd,",Lagenaria siceraria
+33,,murghi,leaves,
+34,Egg,Gallus bankiva,Ridge gourd,Luffa acutangula
+35,,murghi,,
+36,Milk,Bos taurus,Ash Gourd,Benincasa hispida
+37,Soybean oil,Glycine max,Pointed gourd,Trichosanthes dioica
+38,,,Okra,Abelmoschus
+39,,,,esculentus
+40,,,"Tomato, green",Lycopersicon
+41,,,,esculentum
+42,,,"Cowpea, pods &",Vigna unguiculata
+43,,,seeds,
+44,,,Radish,Raphanus sativus
+45,,,"Papaya,unripe",Carica papaya
+46,,,Spinach,Spinacia oleracea
+47,,,Plantain,Musa paradisiaca
+48,,,"Indian spinach,",Basella alba
+49,,,green,
+50,,,Water spinach,Ipomoea aquatic
+51,,,leaves,

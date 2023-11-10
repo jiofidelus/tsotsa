@@ -1,0 +1,23 @@
+,0,1,2
+0,,Baseline,Final
+1,Glycemia (mg/dL),,
+2,Control,95.133.76,97.133.31
+3,Extract,94.122.39,95.642.07
+4,HBA1c(%,,
+5,Control,4.940.07,5.010.09
+6,Extractb,4.980.07,4.900.06
+7,HOMA-IR,,
+8,Control,1.920.18,2.060.19
+9,Extract,1.750.11,1.840.13
+10,Total cholesterol(mg/dL,,
+11,Control,186.965.91,187.477.89
+12,Extract,190.975.55,182.906.06
+13,LDL (mg/dL)a,,
+14,Control,109.725.17,113.08+5.85
+15,Extract,115.335.85,109.985.77
+16,HDL (mg/dL)a,,
+17,Control,54.461.37,53.461.45
+18,Extract,54.941.42,57.461.58
+19,Triglycerides (mg/dL),,
+20,Control,109.226.23,109.06+5.35
+21,Extract,103.905.94,104.254.98

@@ -1,0 +1,11 @@
+,0,1,2
+0,Dependent,Models by Stepwise MLR,R2
+1,Variable,Models by Stepwise MLR,R2
+2,tPV_25,--14.20 free simple phenols +8.51 non-oxidizable substrate,0.575
+3,tK232_25,-9.53 free simple phenols+5.51 non-oxidizable substrate,0.501
+4,kodPh_25,-0.095 + 0.082 degradation rates + 0.011 non-oxidizable substrate,0.937
+5,ksecHTyr_25,-0.106 + 0.087 degradation rates +0.006 non-oxidizable substrate +0.004 initial,0.969
+6,tPV_25,71.78+4.92 tK232_40+1211.12 kodPh_40+8.47 tPV_60,0.881
+7,tK232_25,6.23+7.63 tK232_40+490.05 kodPh_40,0.904
+8,kodPh_25,0.008-0.005 kPV_50+0.001PV -0.001 tK232_50,0.901
+9,ksecHTyr_25,0.029 + 0.114 K270 + 8.104 x 10-5 PUFAs + 0.111 kTPh_50 + 0.004 kUFAs_50,0.915

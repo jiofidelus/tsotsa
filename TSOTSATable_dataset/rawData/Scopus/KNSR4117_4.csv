@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6
+0,,,Tertile distribution of energy-adjusted total BCAA intake,Tertile distribution of energy-adjusted total BCAA intake,Tertile distribution of energy-adjusted total BCAA intake,,
+1,,,T1,T2,T3,Pfortrend,Pfor Interactio
+2,Age,,,,,,
+3,<35years,cases/total,21/74,29/69,19/65,,
+4,,OR (CI),1.00,"1.82(0.87,3.81","0.93 (0.42, 2.02)",0.86,0.30
+5,35years,cases/total,39/67,34/72,36/76,,
+6,,OR(CI),1.00,"0.52(0.25,1.07","0.55 (0.25, 1.13)",0.11,
+7,ver smoked,,,,,,
+8,No,cases/total,57/129,57/132,45/126,,
+9,,OR (CI),1.00,"0.85 (0.50, 1.43)","0.64 (0.38, 1.09)",0.10,0.04
+10,Yes,cases/total,3/12,6/9,10/15,,
+11,,OR (CI),1.00,"4.33 (0.27, 90.56)","8.12 (0.49, 133.08)",0.14,
+12,Alcohol use,,,,,,
+13,No,cases/total,22/57,22/58,24/61,,
+14,,OR (CI),1.00,"0.79(0.34,1.83)","0.92(0.41,2.07)",0.88,0.35
+15,Yes,cases/total,38/84,41/83,31/80,,
+16,,OR (CI),1.00,"1.04 (0.54, 1.98)","0.58 (0.29, 1.14)",0.11,
+17,History of Diabetes,,,,,,
+18,No,cases/total,59/139,62/139,50/135,,
+19,,OR (CI),1.00,"1.00 (0.60, 1.65)","0.72 (0.43, 1.21)",0.21,N/Ac
+20,Yes,cases/total,1/2,1/1,5/6,,
+21,,OR (CI)b,,,,,
+22,History of hypertension,History of hypertension,,,,,
+23,No,cases/total,54/130,59/132,49/132,,
+24,,OR (CI),1.00,"1.06 0.63, 1.79)","0.74 (0.44, 1.25)",0.25,N/Ac
+25,Yes,cases/total,6/11,4/9,6/9,,
+26,,OR (ClI)b,,,,,

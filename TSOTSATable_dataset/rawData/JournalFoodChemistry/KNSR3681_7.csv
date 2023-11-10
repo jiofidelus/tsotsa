@@ -1,0 +1,71 @@
+,0,1,2,3,4,5
+0,Film formulations,Antioxidant activity,,Antimicrobial activity,,References
+1,,In vitro assay,Major results,Microbial/virus type,Major results,
+2,Alginate-lipid films with green tea and grape,ABTS,Increased,"Murine norovirus, hepatitis A",Adding the extracts,"Farha et al.,"
+3,seed extracts,,,virus,significantly inhibited the,2020
+4,,,,,viruses,
+5,Alginate (sodium) with guava leaf extract,DPPH,Increased,"E.coli,",Increasing extract content,"Luo et al.,2019"
+6,,,,S.aureus,increased the antibacterial,
+7,,,,,property,
+8,Alginate with tea polyphenols,"DPPH,ABTS",Increased,N.A.,N.A.,"Yuan et al.,"
+9,,,,,,2019
+10,Alginate-chitosan-fucoidan from seaweed,"FRAP,OH",Adding fucoidan,N.A.,N.A.,"Gomaa et al.,"
+11,(Sargassum latifolium) and fungus,"scavenging, total",decreased the,,,2018a
+12,(Aspergillus niger),antioxidant,antioxidant activity,,,
+13,,capacity,,,,
+14,-Carrageenan with pomegranate peel or,DPPH,Films with peel extract,"E. coli, Salmonella spp.,",Films with peel extract had,"Liu et al.,2020"
+15,flesh extracts,,had higher antioxidant,"L. monocytogenes, S. aureus",higher antimicrobial activity,
+16,,,activity than those with,,than those with flesh extract,
+17,,,flesh extract,,,
+18,K-or i-Carrageenans with lapacho tea extract,"DPPH,FRAP","Increased, polyphenol",N.A.,N.A.,Jancikova
+19,,,concentration-,,,"et al.,2020"
+20,,,dependent,,,
+21,Carboxymethylcellulose with Allium,"DPPH,ABTS","Increased, polyphenol","E. coli,S. typhimurium,",Increasing extract content,"Riaz et al.,"
+22,tuberosum (Chinese chives extract,,concentration-,"S. aureus, B. cereus",increased the antibacterial,2020a
+23,,,dependent,,"property, though the effects",
+24,,,,,were not as good as antibiotic,
+25,,,,,control (tetracycline),
+26,Chitin films with tannic acid on surface,"DPPH,ABTS","Increased, polyphenol",E.coliS.aureus,Tannic acid addition gave,"Wang et al.,"
+27,,,concentration-,,chitin films antibacterial,2016
+28,,,dependent,,capacity. Stronger inhibitory,
+29,,,,,effect on S. aureus than on,
+30,,,,,E.coli,
+31,Chitosan with green and black tea extracts,DPPH,"Increased,polyphenol",N.A.,N.A.,"Peng et al.,"
+32,,,concentration-,,,2013
+33,,,dependent,,,
+34,Chitosan with polyphenols from thinned,DPPH,"Increased, polyphenol","L. monocytogenes, E. coli and",Dose-dependently inhibited,Sun et al.
+35,young apple,,concentration-,"S.aureus),3 yeasts (Baker's","bacteria and moulds,had no","2017,2018"
+36,,,dependent,"yeast, S. cerevisiae and Tropical",effect on yeasts,
+37,,,,candida) and 3 moulds*,,
+38,Chitosan with black soybean seed coat,DPPH,"Increased, polyphenol",N.A.,N.A.,"Wang et al.,"
+39,extract,,concentration-,,,2019
+40,,,dependent,,,
+41,Chitosan with Chinese chive (A. tuberosum),"DPPH,FRAP",Increased,"E. coli, S. aureus, B. cereus,",Dose-dependently inhibited,Riaz et al.
+42,root,,,S. typhimurium,bacteria,2020b
+43,Chitosan-gelatin-starch with quercetin,"DPPH, ABTS",Increased,"B.substilis,E.coli","Inhibited the bacteria,","Yadav et al.,"
+44,,,,,especially effective against,2020
+45,,,,,E.coli,
+46,Furcellaran/gelatin hydrolysate rosemary,"DPPH,FRAP",Increased,N.A.,N.A.,Jancikova
+47,extract,,,,,et al.2019
+48,"Konjac glucomannan, carboxymethyl",DPPH,"Increased, polyphenol","S.aureus,E. coli",Dose-dependently inhibited,"Sun et al.,"
+49,chitosan with epigallocatechin gallate,,concentration-,,bacteria,"2020a,2020b;"
+50,"(EGCG);konjac glucomannan,chitosan",,dependent,,,"Wu et al.,2020"
+51,with mulberry anthocyanin extract; konjac,,,,,
+52,glucomannan and oxidized chitin,,,,,
+53,nanocrystals with red cabbage anthocyanin,,,,,
+54,extract,,,,,
+55,Pectin-konjac glucomannan with tea,DPPH,"Increased, polyphenol","E.coli,S.aureus",Dose-dependently inhibited,"Lei et al.,2019"
+56,polyphenols (purity 98%),,concentration-,,bacteria,
+57,,,dependent,,,
+58,Pomelo peel flours (33% pectin and 49% of,DPPH,"Increased, polyphenol","E. coli, S. aureus",Dose-dependently inhibited,"Wu et al.,2019"
+59,other carbohydrates) with tea polyphenols,,concentration-,,bacteria (Fig.5,
+60,(purity >98%),,dependent,,,
+61,Pectin (lime peel) with peel extract,"DPPH,ABTS","Increased, polyphenol",N.A.,N.A.,Rodsamran&
+62,containing polyphenols,,concentration-,,,"Sothornvit,"
+63,,,dependent,,,2019
+64,Hydroxypropyl starch with tea polyphenols,DPPH,"Increased, polyphenol","S.aureus,E.coli",Increasing extract content,"Feng et al.,"
+65,(purity > 98%),,concentration-,,increased the antibacterial,2018
+66,,,dependent,,property,
+67,Potato starch with phenolic extracts from,DPPH,"Increased, chlorogenic",N.A.,N.A.,"Menzel et al.,"
+68,sunflower hulls,,acid is the major,,,2019;Menzel
+69,,,antioxidant,,,2020

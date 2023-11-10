@@ -1,0 +1,37 @@
+,0,1,2,3
+0,Characteristic,Controls(N=892),Cases(N=879),P value
+1,"Ageyear,meanS.D.)",60.28 (6.82),60.14 (6.87),0.675*
+2,"Body mass index, kg/m2, mean (S.D.)",22.72 (2.49),21.50 (2.92),<0.001
+3,"Total calorie intake(MJ),mean (S.D.)",13.34 (3.13),13.70 (3.76),0.030*
+4,"Prudent pattern score,means(S.D.",167.58 (79.36),211.31 (118.09),<0.001
+5,"Healthy pattern score,means(S.D.)",109.47 (85.56),45.62 (110.01),<0.001
+6,"Sex, N (%)",,,0.646
+7,Male,640 (71.75),621 (70.65),
+8,Female,252 (28.25),258 (29.35),
+9,"Body mass index, N (%)",,,<0.001
+10,< 18.5 kg/m2,34 (3.81),125 (14.22),
+11,18.5~<23.0 kg/m2,455 (51.01),508 (57.79),
+12,23.0~<25.0 kg/m2,258 (28.92),136(15.47),
+13, 25 kg/m2,145 (16.26),11012.51),
+14,"Family cancer history, N (%)",,,0.006
+15,No,715 (80.16),656 (74.63),
+16,Yes,177 (19.84),223 (25.37),
+17,"Cigarette smoking, N (%)",,,<0.001
+18,Non-smoker,534 (59.87),343 (40.13),
+19,Smoker,358 (40.13),536 (60.97),
+20,"Alcohol drinking, N (%)",,,<0.001
+21,Non-drinker,476 (53.36),316 (35.95),
+22,Drinker,416 (46.64),563 (64.05),
+23,"Education, N (%)",,,0.137
+24,Lower than primary school,196 (21.97),183 (20.82),
+25,Primary school,483 (54.15),515 (58.59),
+26,Middle school or above,213 (23.88),181 (20.59),
+27,"Marital status,N(%)",,,0.003t
+28,Married,805 (90.25),827 (94.08),
+29,Otherst,87 (9.75),52 (5.92),
+30,"Dietary intake, mean (S.D.)",,,
+31,Dietary fat,61.77 (22.11),65.74 (27.98),0.001*
+32,Total fatty acid,58.21 (20.83),61.74 (26.23),0.002*
+33,Saturated fatty acid,17.56 (6.49),18.57 (8.25),0.004*
+34,Monounsaturated fatty acid,26.10 (8.91),27.77 (11.20),0.001*
+35,Polyunsaturated fatty acid,12.20 (5.29),13.12 (6.55),0.001*

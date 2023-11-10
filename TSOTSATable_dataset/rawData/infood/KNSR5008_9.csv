@@ -1,0 +1,51 @@
+,0,1,2,3,4
+0,Foodname anddescription,Densitying/ml,Specific,BibliolD,Update
+1,,(including mass,gravity,,Version
+2,,and bulk density),,,2.0
+3,"Corn/maize, germ flour",0.56,,ASI,x
+4,"Corn/maize, gluten flour",0.51-0.69,,ASI,x
+5,"Corn/maize, grits",0.64-0.69,,ASI,x
+6,"Corn/maize, ground",0.54-0.58,,ASI,x
+7,"Corn/maize, kibbled",0.32-0.35,,ASI,x
+8,"Corn/maize, mash",0.72,,ASI,x
+9,"Corn/maize, shelled",0.72,,TB,
+10,"Corn/maize, starch",0.67,,ASI,x
+11,"Corn/maize, starch, tightly packed",0.63,,TB,
+12,"Corn/maize, white, boiled",0.85,,KEN,x
+13,"Corn/maize, white, dry",0.81,,KEN,x
+14,"Corn/maize, whole kernel, dried, cracked (Njenga)",0.81,,KEN,x
+15,"Corn/maize, whole kernel, dried, cracked, boiled",1.07,,KEN,x
+16,(Njenga),,,,
+17,"Corn/maize, whole shelled",0.72,,ASI,
+18,Donut mix,0.64,,ASI,
+19,Dough mix,0.59,,ASI,x
+20,"Finger millet, fermented flour",0.61,,KEN,x
+21,Millet,0.64,,ASI,x
+22,Millet,0.64,,TB,
+23,"Millet flour, bulrush",0.56,,KEN,x
+24,"Millet flour, finger",0.61,,KEN,x
+25,"Millet, bulrush",0.90,,KEN,x
+26,"Millet, finger",0.81,,KEN,x
+27,Oat Flour,0.53,,ASI,x
+28, Oat middlings,0.61,,ASI,
+29,Oats,0.41,,TB,
+30,Oats,0.43,,ASI,x
+31,"Oats groats, whole",0.74,,ASI,x
+32,"Oats, ground",0.46,,ASI,x
+33,"Oats, hulls",0.13,,ASI,x
+34,"Oats, rolled",0.30-0.38,,ASI,x
+35,"Pasta, short macaroni style, boiled",0.55,,RC,
+36,"Pasta, short macaroni style, raw",0.39,,RC,
+37,"Pasta/ noodles, boiled",0.59,,KEN,x
+38,"Porridge flour bonavist, boiled",0.73,,KEN,
+39,"Porridge flour bonavist, raw",0.84,,KEN,x
+40,Porridge flour ken-uji + lemon extract,0.54,,KEN,x
+41,"Porridge flour ken-uji:F.mill, bul, sorg, wheat",0.60,,KEN,x
+42,"Porridge, maize, flour + water",1.05,,KEN,x
+43,Rice,0.72,,ASI,x
+44,"Rice, boiled",0.73,,KEN,x
+45,"Rice, boiled with fat",0.70,,KEN,x
+46,"Rice, bran",0.42,,ASI,
+47,"Rice, hulled",0.75,,TB,
+48,"Rice, puffed",0.1,,ASI,x
+49,"Rice,raw",0.85,,KEN,x

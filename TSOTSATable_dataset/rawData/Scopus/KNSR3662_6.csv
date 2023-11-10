@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7
+0,Microalgae,Lipid,Extraction,Transesterification Process,Transesterification Process,Transesterification Process,Biodiesel,Reference
+1,Microalgae,Content (%),Method,,min,Catalyst,Yield (%),Reference
+2,Tetraselmis suecica,23,Chloroform-methanol (2:1),80,20,H2SO4,78,[149]
+3,Nannochloropsis salina,32.1,Modified Bligh and Dyer,4045,180,NaOH,60.26,[150]
+4,Nitzchia punctata,16,Modified Folch,40,2880,Lipase,87.2,[151]
+5,Dunaliella tertiolecta,69.6,Bligh and Dyer,80,300,NaOH,-,[152]
+6,Phaeodactylum,36,Methanol-Hexane (2:3),N/A,N/A,N/A,7-11,[40]
+7,tricornutum,36,Methanol-Hexane (2:3),N/A,N/A,N/A,7-11,[40]

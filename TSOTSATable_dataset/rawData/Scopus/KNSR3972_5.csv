@@ -1,0 +1,34 @@
+,0,1,2,3,4
+0,,,"13bFor each group,losses and","i Strongly recommended: An attrition diagram (e.g.,proportion of",Highly
+1,,,"exclusions after randomisation,",participants still logging in or using the intervention/comparator in each,Recommende
+2,,,together with reasons,"group plotted over time, similar to a survival curve) [5] or other figures or",
+3,,,,tables demonstrating usage/doselengagement.,
+4,Recruitment,,14a Dates defining the periods of,"i) Indicate if critical ""secular events"" [1] fell into the study period,",Highly
+5,,,recruitment and follow-up,"e.g., significant changes in Internet resources available or ""changes in",Recommende
+6,,,,"computer hardware or Internet delivery resources"" [1].",
+7,,14b,Why the trial ended or was,No EHEAL TH-specific additions here,
+8,,,stopped [early],,
+9,Baseline data,15,A table showing baseline,i) In ehealth trials it is particularly important to report demographics,Essential
+10,,,demographic and clinical,"associated with digital divide issues, such as age, education, gender,",
+11,,,characteristics for each group,"social-economic status, computer/Internet/ehealth literacy of the",
+12,,,"NPT: When applicable, a","participants, if known.",
+13,,,description of care providers,,
+14,,,"(case volume, qualification,",,
+15,,,"expertise, etc.) and centers",,
+16,,,(volume) in each group,,
+17,Numbers,16,"For each group,number of",") Report multiple""denominators""and provide definitions: Report N's",Essential
+18,analysed,,participants (denominator),"(and effect sizes)""across a range of study participation [and use]",
+19,,,included in each analysis and,"thresholds""[1],e.g.,N exposed,N consented,N used more than x",
+20,,,whether the analysis was by,"times, N used more than y weeks, N participants ""used"" the",
+21,,,original assigned groups,intervention/comparator at specific pre-defined time points of interest (in,
+22,,,,"absolute and relative numbers per group). Always clearly define ""use"" of",
+23,,,,the intervention.,
+24,,,,ii) Primary analysis should be intent-to-treat; secondary analyses could,Highly
+25,,,,"include comparing only ""users"", with the appropriate caveats that this is",Recommende
+26,,,,no longer a randomized sample (see 18-i),
+27,Dutcomes and,,17a For each primary and secondary,"i) In addition to primary/secondary (clinical) outcomes, the presentation",Highly
+28,estimation,,"outcome, results for each group,",of process outcomes such as metrics of use and intensity of use,Recommende
+29,,,and the estimated effect size and,"(dose, exposure) and their operational definitions is critical. This does",
+30,,,its precision (such as 95%,"not only refer to metrics of attrition(13-b)(often a binary variable),but",
+31,,,confidence interval),"also to more continuous exposure metrics such as ""average session",
+32,,,,"length"". These must be accompanied by a technical description how a",

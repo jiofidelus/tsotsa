@@ -1,0 +1,12 @@
+,0,1,2,3
+0,Data level,Data type,Identifier(ID),Example/comments
+1,1:Source,Journal article,Digital object identifier,"10.1016/j.foodchem.2008.05.112,for Westenbrink et al.2009"
+2,documents,,(DOI) assigned by journal,
+3,,Reports,Identifier of,"In future,preferably using a DOI"
+4,,,organisation +document,
+5,"2: Documented,",Food/sample records,Document ID+food in,"Food identified by location in paper,e.g.Table 1 row 4as DocID.T1.R4.In future as"
+6,reported data,,"document""ID",extended DOI
+7,,Compositional value,DocID+FoodID+value,Value identified either by location(column number or component identifierto be
+8,,records,identification,"decided.In future as further extended DOI,identifying the specific data point"
+9,3+:Compiled,Set of compositional,International Food Record,"UK.CoF-IDS.2002.17-485,as illustrative example for UK data published in 2002 for the"
+10,data,values for a food item,"IdentifierKlensin,1992)",food item Butter

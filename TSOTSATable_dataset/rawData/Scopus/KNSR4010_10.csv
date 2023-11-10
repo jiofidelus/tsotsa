@@ -1,0 +1,7 @@
+,0,1,2,3
+0,,Value,,dfAsymp.Sig
+1,,,,(2-sided)
+2,Pearson chi-square,8.793a,4,.066
+3,Likelihood ratio,9.582,4,.048
+4,Linear by linear association,.115,1,.734
+5,N of valid cases,1000,,

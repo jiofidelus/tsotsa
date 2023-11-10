@@ -1,0 +1,33 @@
+,0,1,2,3
+0,Ingredient composition (g/kg),Gestation,Lactation,Weaning
+1,Whey powder,,,50.0
+2,Wheat,303.8,352.5,408.0
+3,Barley,300.0,300.0,233.0
+4,Soyabean meal,67.0,182.0,170.0
+5,Dried maize grain distillers grain,60.0,100.0,
+6,Full-fat soya bean,,-,150.0
+7,Soya hulls,70.0,-,-
+8,Beet pulp,100.0,,-
+9,Soya oil,70.0,30.0,10.0
+10,Vitamins and minerals*,3.0,2.5,3.0
+11,Salt,3.0,5.0,3.0
+12,Dicalcium phosphate,11.2,12.0,12.0
+13,Limestone,12.0,12.0,11.0
+14,Lysine HCl,-,2.0,4.0
+15,DL-Methionine,,1.0,1.5
+16,L-Threonine,,1.0,1.5
+17,Casein hydrolysatet,,,0.25
+18,Yeast -glucant,-,,0.25
+19,Analysed chemical analysis,,,
+20,Dry matter,870.9,873.2,866.1
+21,Crude protein (Nx 6.25,140.0,190.0,210.6
+22,Gross energy(MJ/kg),16.9,17.1,17.1
+23,Ash,55.2,57.1,48.4
+24,Neutral-detergent fibre,216.8,160.5,115.1
+25,Digestible energy (MJ/kg),13.5,14.5,15.0
+26,Lysine,5.5 ,10.0,14.5
+27,Methionine and cysteine,3.3,6.0,8.4
+28,Threonine,3.8,7.0,9.1
+29,Tryptophan,1.0,1.8,2.5
+30,Calcium,8.7,9.3,9.5
+31,Phosphorus$,5.0,5.2,6.1

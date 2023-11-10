@@ -1,0 +1,45 @@
+,0,1,2,3,4,5
+0,Component,Unit,TAGNAMES,Component,Unit,TAGNAMES
+1,Edible portion coefficient,ratio,EDIBLE,Fatty acid 18:1 cis n-7,g,F18D1CN7
+2,Energy,"kJ, kcal",ENERC,Fatty acid 18:1 n-9,g,F18D1N9
+3,Water,g,WATER,Fatty acid 20:1,g,F20D1
+4,Protein,g,PROT,Fatty acid 20:1 cis n-9,g,F20D1CN9
+5,Fat by Soxhlet,g,FATCE,Fatty acid 20:1 cis n-11,g,F20D1CN11
+6,Carbohydrate available by difference,g,CHOAVLDF,Fatty acid 22:1,g,F22D1
+7,Dietary fibre or [crude fibre],g,FIBTG or [FIBC],Fatty acid 22:1 cis n-9,g,F22D1CN9
+8,Ash,g,ASH,Fatty acid 22:1 cis n-11,g,F22D1CN11
+9,Calcium,mg,CA,Fatty acid 24:1 cis n-9,g,F24D1CN9
+10,Iron,mg,FE,Fatty acid 20:2,g,F20D2
+11,Magnesium,mg,MG,Fatty acid 20:3 n-6,g,F20D3N6
+12,Phosphorus,mg,P,Fatty acid 18:2,g,F18D2
+13,Potassium,mg,K,Fatty acid 18:2 cis n-6,g,F18D2CN6
+14,Sodium,mg,NA,Fatty acid 18:3,g,F18D3
+15,Zinc,mg,ZN,Fatty acid 18:3 cis n-3,8,F18D3CN3
+16,Copper,mg,CU,Fatty acid 18:3 n-6,g,F18D3N6
+17,Vitamin A (retinol activity equiv.),meg,VITA_RAE,Fatty acid 18:4 cis n-3,g,F18D4CN3
+18,Retinol,meg,RETOL,Fatty acid 20:4,g,F20D4
+19,-Carotene equiv. or [-carotene],meg,CARTBEQ or [CARTB],Fatty acid 20:4 n-6,g,F20D4N6
+20,Vitamin D,meg,VITD,Fatty acid 20:5 cis n-3,g,F20D5CN3
+21,-Tocopherol equiv.or [-tocopherol],mg,VITE or [TOCPHA],Fatty acid 22:5 cis n-3,g,F22D5CN3
+22,Thiamin,mg,THIA,Fatty acid 22:6 cis n-3,g,F22D6CN3
+23,Riboflavin,mg,RIBF,Alanine,mg,ALA
+24,Vitamin B6,mg,NIAEQ or [NIA],Arginine,mg,ARG
+25,Vitamin B6,mg,VITB6A,Aspartic acid,mg,ASP
+26,Folate,meg,FOL,Cystine,mg,CYS
+27,Vitamin C (mainly L-Ascorbic acid),mg,ASCL,Glutamic acid,mg,GLU
+28,Fatty acid 6:0,,F6D0,Glycine,mg,GLY
+29,Fatty acid 8:0,,F8D0,Histidine,mg,HIS
+30,Fatty acid 10:0,,F10DO,Isoleucine,mg,ILE
+31,Fatty acid 12:0,,F12D0,Leucine,mg,LEU
+32,Fatty acid 14:0,g,F14D0,Lysine,mg,LYS
+33,Fatty acid 15:0,,F15D0,Methionine,mg,MET
+34,Fatty acid 16:0,g,F16D0,Phenylalanine,mg,PHE
+35,Fatty acid 17:0,,F17DO,Proline,mg,PRO
+36,Fatty acid 18:0,g,F18D0,Serine,mg,SER
+37,Fatty acid 20:0,g,F20D0,Threonine,mg,THR
+38,Fatty acid 22:0,g,F22D0,Tyrosine,mg,TYR
+39,Fatty acid 14:1,g,F14D1,Valine,mg,VAL
+40,Fatty acid 14:1 cis n-5,g,F14D1CN5,Oxalate,mg,OXALAC
+41,Fatty acid 16:1,g,F16D1,Phytate,mg,PHTAC
+42,Fatty acid 16:1 cisn-7,g,F16D1CN7,Total sugar,g,SUGAR
+43,Fatty acid 18:1,g,F18D1,Cholesterol,mg,CHOL

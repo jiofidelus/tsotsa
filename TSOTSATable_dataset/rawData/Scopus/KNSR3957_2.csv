@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,,,,,Pre-intervention,,,,,Post-intervention,Post-intervention,Post-intervention,,,,
+1,,c,SEC,1,Difference,Difference,SEDiff,c,SEC,1,SEI,Difference,SEDiff,DiD,SEDiD,P
+2,Whole milk*,0.2,0.5,0.1,0.2,-0.1,0.1,0.1,0.3,0.1,0.3,0.0,0.1,0.1,0.0,0.076
+3,Regular sodat,0.7,0.9,0.7,1.3,0.1,0.1,0.6,1.1,0.4,0.7,-0.2,0.1,-0.3,0.1,0.038
+4,Sugary drinks,0.3,0.5,0.2,0.5,0.0,0.0,0.2,0.5,0.3,0.5,0.0,0.1,0.0,0.1,0.981
+5,Alcohols,0.1,0.4,0.2,1.0,0.2,0.2,0.1,0.3,0.2,0.8,0.2,0.2,-0.0,0.0,0.495

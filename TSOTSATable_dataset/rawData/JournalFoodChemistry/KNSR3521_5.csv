@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Food,,Thiamin,Riboflavin,Niacin,B6,Vit C,Vit D,Vit E,Folate,Fibre,Sodium
+1,,,(mg),(mg),(mg),(mg),(mg),g,(mg,(ug),(g),(mg)
+2,Puri (white),Analysed contenta,0.2,<0.1,2.0,ND,ND,ND,6.8,31.9,ND,ND
+3,,Calculated content,0.1,<0.1,0.8,0.1,ND,0,ND,6.7,ND,ND
+4,,Difference (%),-50,0,60,ND,ND,ND,ND,-78.9,ND,ND
+5,Bengali prawn bhuna,Analysed contenta,0,0,1.7,<0.1,0.1,ND,3.2,9.2,ND,ND
+6,,Calculated contenta,0.1,0.1,0.6,0.1,ND,0,ND,3.7,ND,ND
+7,,Difference (%),0,0,64.7,0,ND,ND,ND,59.8,ND,ND
+8,Bengali chicken curry,Analysed contenta,0,0.2,5.0,0.1,ND,ND,1.4,13.6,ND,ND
+9,,Calculated contenta,0.1,0.1,4.0,0.3,2.6,ND,0.1,15.3,ND,ND
+10,,Difference (%),0,-50,-20,200,ND,ND,92.8,12.5,ND,ND
+11,Rasmalai,Analysed contenta,ND,ND,ND,ND,ND,ND,ND,ND,ND,54
+12,,Difference (%,0,ND,ND,0,1.6,ND,ND,4.0,ND,110.3
+13,,Difference (%,ND,ND,ND,ND,ND,ND,ND,ND,ND,104.3
+14,Chicken bhuna,Analysed contenta,0,ND,ND,0.2,ND,0.3,ND,6.5,2.1,340
+15,,Calculated contenta,0,ND,ND,0.1,2.3,0.2,ND,6.4,0.3,662
+16,,Difference (%),0,ND,ND,-50,ND,-33.3,ND,-1.5,-85.7,94.7
+17,Aloo Bombay,Analysed contenta,0,ND,ND,0.1,0.3,ND,ND,6.8,3.5,298
+18,,Calculated contenta,0,ND,ND,0.1,11.8,0,ND,17.2,1.4,108
+19,,Difference (%),0,ND,ND,0,3833.3,ND,ND,152.5,-60,63.8
+20,Lamb kebab,Analysed contenta,ND,ND,ND,0.2,ND,0.3,ND,11.8,3.4,528
+21,,Calculated contenta,0,ND,ND,0,0.5,0.7,ND,5.6,0.5,122.1
+22,,Difference (%),ND,ND,ND,-100,ND,133.3,ND,52.5,86.3,76.9

@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,food,Name,Name,Size,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,code Kiswahili,code Kiswahili,English,,Bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,,,Sorghum and millet ugali,,,,,,,,,,
+3,522,ugali wa unga mtama na ulezi,(stiff porridge),A,,,,,,,,,350
+4,,ugali wa unga mahindi na,Maize and sorghum ugali,,,,,,,,,,
+5,523,mtama,(stiff porridge),Std,400,,,450,,,200,,
+6,,ugali wa unga mahindi na, Maize and sorghum ugali,,,,,,,,,,
+7,523,mtama,(stiff porridge),A,,,,,,,,,350
+8,524, kitumbua,Rice bun,S,,,,,,,,50,
+9,524, kitumbua,Rice bun,L,,,,,,,,75,
+10,524, kitumbua,Rice bun,A,,,,,,,,,75
+11,,,Maize and kidney beans,,,,,,,,,,
+12,525,makande,dish,Std,,,,500,,200,,,
+13,,,Maize and kidney beans,,,,,,,,,,
+14,525,makande,dish,A,,,,,,,,,350
+15,,,Cassava ugali (stiff,,,,,,,,,,
+16,526,ugali wa unga mhogo,porridge),Std,400,,,450,,,200,,
+17,,,Cassava ugali (stiff,,,,,,,,,,
+18,526,ugali wa unga mhogo,porridge),A,,,,,,,,,350
+19,527,tambi zilizoungwa na chumvi,"Vermicelli, plain cooked",Std,350,,,400,,,200,,
+20,527,tambi zilizoungwa na chumvi,"Vermicelli, plain cooked",A,,,,,,,,,225
+21,528,uji wa mchele na sukari,Rice porridge with sugar,Std,400,200,200,,,,,,
+22,528,uji wa mchele na sukari,Rice porridge with sugar,A,,,,,,,,,350
+23,530,mkate wa kumimina,Rice bread,A,,,,,,,,,100
+24,,uji wa mahindi na sukari na,Maize porridge with,,,,,,,,,,
+25,531,siagi,margerine and sugar,Std,400,200,200,,,,,,
+26,,uji wa mahindi na sukari na,Maize porridge with,,,,,,,,,,
+27,531,siagi,margerine and sugar,A,,,,,,,,,350
+28,532,maandazi,African doghnut/bun,S,.,,,,,,,25,
+29,532,maandazi,African doghnut/bun,M,,,,,,,,50,
+30,532,maandazi,African doghnut/bun,,,,,,,,,90,
+31,532, maandazi,African doghnut/bun,A,,..,.,,,,,,100

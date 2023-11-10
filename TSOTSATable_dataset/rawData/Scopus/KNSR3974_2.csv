@@ -1,0 +1,6 @@
+,0,1,2,3,4
+0,,,,Factor Levels,
+1,Input Factors,Variables,1,0,1
+2,Coil (g/L),X1,19,68,117
+3,T (C),X2,20,40,60
+4,P (bar),X3,2,3.5,7

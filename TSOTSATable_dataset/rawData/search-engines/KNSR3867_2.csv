@@ -1,0 +1,20 @@
+,0,1,2,3,4
+0,,YES,NO,N/A,QI
+1,Number of analytical samples QI,,,,2
+2,SAMPLE HANDLING,,,,
+3,"If relevant, were appropriate stabilization treatments applied (e.g. protection from heat/air/light/microbial",,x,,
+4,activity)?,,,,
+5,Were the samples homogenized?,X,,,
+6,Sample handling QI,,,,3
+7,ANALYTICALMETHOD,,,,
+8,Does the analytical method used in the source match the list of appropriate analytical methods given in the x,,,,
+9, guidelines for analytical methods?,,,,
+10,Are the key method steps appropriate for the method described?,X,,,
+11,Analytical method QI,,,,5
+12,ANALYTICAL QUALITY CONTROL,,,,
+13,Were analytical portion replicates tested?,x,,,
+14,Was the laboratory accredited for this method or was the method validated by performance testing?,X,,,
+15,"If available, was an appropriate reference material or a standard reference material used?",x,,,
+16,Analytical quality control QI,,,,5
+17,Overall QI,,,,25
+18,Normalized QI: (overall QI7)/(357)  10,,,,6.4

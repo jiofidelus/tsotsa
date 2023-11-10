@@ -1,0 +1,30 @@
+,0,1,2,3,4
+0,Compound,Dose/Route/Duration,Model,Major Mechanisms,Reference
+1,-Bisabolol,"0, 3, 15,30, 60,125,",CML-T1primary human acute,"cells viability,",[72]
+2,-Bisabolol,250 M,leukemia cell line,induced apoptosis,[72]
+3,,300 L intra-mammary,,tumor mass,
+4,-Bisabolol,injection (3.6 mg and,HER2/neu transgenic mice," HER2/neu, Fgf and Birc5",[73]
+5,,10 mg per mouse),,1 natural killer cytotoxicity,
+6,,,KLM1 and Panc1 human,cell death,
+7,,,"pancreatic cancer cell lines,",volume of tumor,
+8,-Bisabolol and its,62.5 M and 125 M,BALB/c nude mice implanted,CEA and CA19-9,[74]
+9,derivative,1000 mg/kg,with KLM1;cells, disseminated,[74]
+10,,,"1  107 cells/100 L,s.c.) into",tumorous nodules,
+11,,,femoral area,-AKT,
+12,,,human lung carcinoma (A549),,
+13,,,colon adeno-carcinoma,,
+14,,,"(DLD-1), breast",,
+15,,,"adeno-carcinoma (MCF-7),",,
+16,,,"melanoma (SK-MEL-2), ovary",1 -Bisabolol cytotoxicity,
+17,-Bisabolol,IC50>100 M,"teratocarcinoma (PA-1),", BBB penetration,[75]
+18,-D-fucopyranoside,IC50>100 M,prostate adeno-carcinoma,x-Bisabolol lipophilicity,[75]
+19,,,"(PC-3), pancreas",x-Bisabolol lipophilicity,
+20,,,adeno-carcinoma(PANC,,
+21,,,"05.04), glioma (U-251,",,
+22,,,glioblastoma (U-87) and,,
+23,,,murine glioma (GL-261),,
+24,,,"Melanoma UACC-62,breast",,
+25,-Bisabolol-based,,"NCI-ADR, lung NCI-460,",,
+26,thiosemicarbazones,0.25 to 250 mg/mL,"leukemia K-562,ovarian",(-) cell growth,[76]
+27,compounds,,"OVCAR, prostate PCO-3, and",,
+28,,,colon HT29 cell lines,,

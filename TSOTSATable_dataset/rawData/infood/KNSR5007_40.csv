@@ -1,0 +1,35 @@
+,0,1,2,3
+0,Food code,Letter code,Food name,Data source (food number in the source is given in parenthesis
+1,4225,IQ,"Kola nut, fresh",FAO (395)
+2,4220,IL,"Kola nut, dried","FAO(396),except carotene,Vit CPlatt (260)"
+3,4594,WV,"Bambara groundnuts, fresh",FAO (515) except Vit C as 50% of groundnuts fresh
+4,,,Fish,
+5,4001,AA,"Challo, dried","Based on Platt (183) except Ca, p. Zn10"
+6,4021,AU,"Furo/furundingo, dried","Based on Platt (183) except Ca,p6.Zn10"
+7,4002,AB,"Kujalo, dried","Platt (183) except Ca, p6-Zn10"
+8,4023,AW,"Challo,flesh only","FAO (1414) except Ca6,p1 Zn10"
+9,4022,AV,"Furo, flesh only","FAO (1264) except Ca,p3. Zn10"
+10,4024,AX,"Kujalo, flesh only","FAO (1254) except Ca6, p6"
+11,4009,AI,"Shellfish, boiled",Platt (184)
+12,,,Meat,
+13,4014,AN,"Meat, boiled",MW4 based
+14,4020,AT,"Chicken, boiled",MW4 based
+15,4026,AZ,"Corned beef, canned (Aid Food)",MW4 (393)
+16,,,Milk and eggs,
+17,4039,BM,Breastmilk,"Protein10, fat1Ca,p,Zn1; MW4 (138) CHO,Fe,Vit C"
+18,4058,CF,"Milk, cows","MW4(124),except Ca,p6"
+19,4072,CT,"Milk, tinned (for example 'Peak' brand)",MW4 (134)
+20,4111,EG,Egg,"Platt (200) protein, fat, CHO, water; MW4 (165) minerals & vitamins"
+21,,,Oils and fats,
+22,4557,VK,Groundnut oil,MW4 (195)
+23,4120,EP,Vegetable oil,MW4 (195)
+24,4554,VH,Palm oil,"MW4 (195), except carotenel1"
+25,4067,co,Butter,MW4 (140)
+26,,,Sugar,
+27,4539,US,Sugar,"MW4 (843), except Ca6"
+28,4523,UC,Sugar cane,Platt (267)
+29,4522,UB,Honey,FAO (1060)
+30,,,Water and salt,
+31,4592,WT,Water,"Ca6,p6"
+32,4584,WL,"Salt, local","Ca,p6"
+33,4598,WZ,Maggi cube,MW6(17-368&17-369)

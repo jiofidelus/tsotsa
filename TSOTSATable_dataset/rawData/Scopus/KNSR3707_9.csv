@@ -1,0 +1,8 @@
+,0,1,2,3,4
+0,,Budbreak-,Flowering-,Veraison-,Budbreak-
+1,,Flowering,Veraison,Harvest,Harvest
+2,,,Climatic Parameter,,
+3,Air temperature(C),+9.7,+3.5,+2.0,+5.7
+4,Relative humidity (%),-1.7,-12,+11.4,0.20
+5,accumulation (W/m2),+1272,28,916,+165
+6,VPD (kPa),0.65,+12.68,0.20,+0.40

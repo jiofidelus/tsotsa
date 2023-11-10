@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Investigated,"Extract,",Groups,Animal,,Method for,Microbiome,Method for,,
+1,"Plant, Plant",Sample,(n=Number of,"Species,",Conditions,Microbiome,Changes,Metabolite,Metabolites,Reference
+2,Part,Preparation,Analyzed,Volunteers,,Analysis,Changes,Detection,,
+3,,,Individuals),,,,,,,
+4,,,,,,,LCE reduced the,,,
+5,,,6 groups:,,,,enhanced Firmi-,,,
+6,,,control diet (CD);,,,,cutes/Bacteroidetes,,,
+7,,,CD+LCE,,,,ratio and relative,,,
+8,,ethanolic,high-fat diet (HFD);,male C57BL/6J,treated for,V4-V5 region of,in HFD mice;,,,
+9,"Aloysia citrodora,",extract (25%),HFD +LCE,mice (7-9 weeks,6 weeks; colonic,"16S rRNA gene,",reversed reduced,,,[62]
+10,folium,(LCE),1 mg/kg);HFD +,old),luminal contents,NGS (Illumina),"Bacteroidia,",,,[62]
+11,,,LCE(10 mg/kg);,,collected,,"Erysipelotrichia,",,,
+12,,,HFD+LCE,,,,"Cytophaga, and",,,
+13,,,25mg/kg)n=10,,,,Akkermansia relative,,,
+14,,,mice per group),,,, abundances in HFD,,,
+15,,,,,,,mice,,,
+16,,,2 groups:,,,,a-LCD: rel. decrease,,,
+17,,,n=23;,patients with,treated for,V4-V5 region of,in Bacteroidetes and,,,
+18,,,almond-based,type 2 diabetes,3 months; fecal,"16S rRNA,gene",Bacteroides;,,,
+19,,almonds,low-carbohydrate,mellitus (71.98,samples,sequencing,rel. decrease in,,,[68]
+20,,,diet (a-LCD); 56 g, 5.63 years),collected,(Illumina),"Ruminococcus,",,,
+21,Amygdalus,,almonds/day, 5.63 years),collected,(Illumina),Roseburia,,,
+22,"communis,",,n=22,,,,Roseburia,,,
+23,semen,,,,,,increase in alpha,,,
+24,,,2 groups:,female and male,treated for 8,,diversity in the,,,
+25,,"whole,",g/dayn=38;, young adults,samples,"16S rRNA,gene",almond group,,,
+26,,dry-roasted,cracker group (77.5,(BMI,collected at,sequencing,compared to the,,,[67]
+27,,almonds,g/day of graham,18-41 kg/m2;,baseline and,(Illumina),cracker group,,,
+28,,,crackers)(n=35,18-19 years),after 8 weeks,(Illumina),rel. decrease in,,,
+29,,,crackers)(n=35,,after 8 weeks,,Bacteroides fragilis,,,

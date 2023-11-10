@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Strain,Species identified by MALDI-TOF,Score value,Query cover (%) forward/,Identity (%) forward/,Sequence length (n)forward/
+1,,MS,MALDI-TOF,reverse,reverse,reverse
+2,,,,Corynebacterium bovis,,
+3,1b,Corynebacterium bovis,"1,78",85/85,97/97,1495/1527
+4,2b,Corynebacterium bovis,"1,94",83/85,98/97,1482/1522
+5,3b,Corynebacterium bovis,"1,86",82/85,96/97,1641/1496
+6,4b,Corynebacterium bovis,"2,14",86/94,97/97,1487/1218
+7,5b1,Corynebacterium bovis,"1,99",76/83,98/96,1471/1513
+8,5b2,Corynebacterium bovis,"2,05",78/91,97/97,1567/1400
+9,6b,Corynebacterium bovis,"2,04",83/82,96/98,1554/1501
+10,,,,Corynebacterium amycolatum,,
+11,la,Corynebacterium amycolatum,"2,32",74/91,91/86,1238/1283
+12,2a,Corynebacterium amycolatum,"2,20",66/81,82/97,913/1513

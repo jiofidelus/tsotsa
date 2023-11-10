@@ -1,0 +1,50 @@
+,0,1,2,3
+0,,NoDR(n=1657),Any DR(n=247),P-value
+1,Sex,,,0.047
+2,Male,820 (49.49%),139 (56.28%),
+3,Female,837 (50.51%),108 (43.72%),
+4,Age (years),59.7012.91,63.3212.39,<0.001
+5,Ethnicity,,,<0.001
+6,Mexican American,233 (14.06%),42 (17.00%),
+7,Other Hispanic,32 (1.93%),6 (2.43%),
+8,Non-Hispanic White,1037 (62.58%),117 (47.37%),
+9,Non-Hispanic Black,303 (18.29%),75 (30.36%),
+10,Other ethnicities,52 (3.14%),7 (2.83%),
+11,Education,,,<0.001
+12, Lower than 9th grade,168 (10.14%),39 (15.79%),
+13,9-11th grade (includes 12th grade with no diploma,230 (13.88%),48 (19.43%),
+14,High school grade/General education diploma or equivalent,431 (26.01%),66 (26.72%),
+15,Some college or associate of arts degree,441 (26.61%),67 (27.13%),
+16,College graduate or above,386 (23.30%),27 (10.93%),
+17,Not recorded,1 (0.06%),0 (0.00%),
+18,Marital status,,,0.861
+19,Partnered,1073 (64.76%),160 (64.78%),
+20,Single,582 (35.12%),87 (35.22%),
+21,Not recorded,2 (0.12%),0 (0.00%),
+22,Family PIR,2.93  1.59,2.52  1.45,<0.001
+23,Had at least 12 alcohol drinks in one year,,,0.015
+24,Yes,1144 (69.04%),149 (60.32%),
+25,No,487 (29.39%),95 (38.46%),
+26,Not recorded,26 (1.57%),3 (1.21%),
+27,Smoked at least 100 cigarettes in life,,,0.663
+28,Yes,910 (54.92%),132 (53.44%),
+29,No,747 (45.08%),115 (46.56%),
+30,Fasting blood glucose level(mmol/l),5.92 1.47,7.22 3.01,<0.001
+31,"Hemoglobin A1cHbA1c,%)",5.61  0.77,6.58  1.68,<0.001
+32,Diagnosis of diabetes,,,<0.001
+33,Yes,153 (9.23%),104 (42.11%),
+34,No,1464 (88.35%),136 (55.06%),
+35,Borderline,40 (2.41%),6 (2.43%),
+36,Not recorded,0 (0.00%),1 (0.40%),
+37, Insulin use,,,<0.001
+38,Yes,25 (1.51%),52(21.05%),
+39,No,1632 (98.49%),195 (78.95%),
+40,Systolic blood pressure (mmHg),128.1419.51,136.7523.44,<0.001
+41,Diastolic blood pressure (mmHg,70.88  13.74,71.0414.50,0.867
+42,BMI (kg/m2),29.04  6.79,30.36  6.90,0.005
+43,Biscuit consumption frequency,,,<0.001
+44,Never ate,234 (14.12%),17 (6.88%),
+45,1-11 times per year,824 (49.73%),119 (48.18%),
+46,1-3 times per month,386 (23.30%),60 (24.29%),
+47,1times perweek,187 (11.29%),42 (17.00%),
+48,Not recorded,26 (1.57%),9 (3.64%),

@@ -1,0 +1,43 @@
+,0,1,2
+0,AGNAME,DESCRIPTION,UNTT
+1,F17D1C,Fatty acid 17:1 cis,g
+2,F17D1,Fatty acid 17:1,g
+3,F18D1CN11,Fatty acid 18:1 cis n-11,g
+4,F18D1N11,Fatty acid 18:1 n-11,g
+5,F18D1CN9,Fatty acid 18:1 cis n-9,g
+6,F18D1TN9,Fatty acid 18:1 trans n-9,g
+7,F18D1N9,Fatty acid 18:1 n-9,g
+8,F18D1CN7,Fatty acid 18:1 cis n-7,g
+9,F18D1N7,Fatty acid 18:1 n-7,g
+10,F18D1N6,Fatty acid 18:1 n-6,g
+11,F18D1N5,Fatty acid 18:1 n-5,g
+12,F18D1T,Fatty acid 18:1 trans,g
+13,F18D1C,Fatty acid 18:1 cis,g
+14,F18D1,Fatty acid 18:1,g
+15,F19D1N11,Fatty acid 19:1 n-11,g
+16,F19D1N9,Fatty acid 19:1 n-9,g
+17,F20D1N11,Fatty acid 20:1 n-11,g
+18,F20D1CN11,Fatty acid 20:1 cis n-11,g
+19,F20D1N9,Fatty acid 20:1 n-9,g
+20,F20D1N8,Fatty acid 20:1 n-8,g
+21,F20D1N7,Fatty acid 20:1 n-7,g
+22,F20D1CN9,Fatty acid 20:1 cis n-9,g
+23,F20D1T,Fatty acid 20:1 trans,g
+24,F20D1C,fatty acid 20:1 cis,g
+25,F20D1,Fatty acid 20:1,g
+26,F22D1N11,Fatty acid 22:1 n-11,g
+27,F22D1N9,Fatty acid 22:1 n-9,g
+28,F22D1T,Fatty acid 22:1trans,g
+29,F22D1C,fatty acid 22:1 cis,g
+30,F22D1,Fatty acid 22:1,g
+31,F24D1N9,Fatty acid 24:1 n-9,g
+32,F24D1C,fatty acid 24:1 cis,g
+33,F24D1,Fatty acid 24:1,g
+34,F16D2N7,Fatty acid 16:2 n-7,g
+35,F16D2N6,Fatty acid 16:2 n-6,g
+36,F16D2N4,Fatty acid 16:2 n-4,g
+37,F16D2,Fatty acid 16:2,g
+38,F18D2TCON,"Fatty acid 18:2 conjugated cis,trans,position unknown",g
+39,F18D2TTN6,"Fatty acid18:2trans,trans n-6",g
+40,F18D2CN6,Fatty acid 18:2 cis n-6,g
+41,F18D2TN6,Fatty acid 18:2 trans n-6,g

@@ -1,0 +1,32 @@
+,0,1,2,3,4,5
+0,ISCCAAP,3-Alpna,Family,English name,"Sclentificname,autnor",FoodItemID
+1,,PCR,Majidae,Tanner crabs,Chionoecetes spp,"092011,092049,092087,092125"
+2,,SWM,Portunidae,"Swimming crabs, etc.","Includes CRB,SCDMUD,and other species","092012,092050,092088,092126"
+3,,,,,belonging to the Portunidae family,
+4,,CRB,Portunidae,Blue crab,"Callinectes sapidus,Rathbun 1896","092013,092051,092089,092127"
+5,,SCD,Portunidae,Blue swimming crab,"Portunus pelagicus, Linnaeus 1758","092014,092052,092090,092128"
+6,,MUD,Portunidae,Indo-Pacific swamp crab,"Scylla serrata (Forsskal, 1775)","092015,092053,092091,092129"
+7,"43 Lobsters, spiny-rock lobsters","43 Lobsters, spiny-rock lobsters","43 Lobsters, spiny-rock lobsters",,,
+8,,NEX,Nephropidae,"True lobsters, lobsterettes","Includes LBA,LBE,NEPand other species","092016, 092054, 092092, 092130"
+9,,,,,belonging to the Nephropidae family,
+10,,LBA,Nephropidae,American lobster,"Homarus americanus, H. Milne Edwards 1837","092017,092055,092093,092131"
+11,,,,(Northern lobster),,
+12,,LBE,Nephropidae,European lobster,Homarus gammarus (Linnaeus 1758) (syn.,"092018,092056,092094,092132"
+13,,,,,"Homarus vulgaris,H.Milne Edwards 1837-",
+14,,,,,unaccepted),
+15,,NEP,Nephropidae,Norway lobster,Nephrops norvegicus (Linnaeus 1758),"092019,092057,092095,092133"
+16,,,,(Langoustine),,
+17,,VLO,Palinuridae,Spiny lobsters,"Includes LOR, and other species belonging to the","092020,092058,092096,092134"
+18,,,,,Palinuridae family,
+19,,LOR,Palinuridae,Red rock lobster,Jasus edwardsii (Hutton 1875),"092021,092059,092097,092135"
+20,"44 King crabs, squat-lobsters","44 King crabs, squat-lobsters",,,,
+21,,KCX,Lithodidae,"King crabs, stone crabs","Includes KCD, and other species belonging to the","092022,092060,092098,092136"
+22,,,,,Lithodidae family.,
+23,,KCD,Lithodidae,Red king crab,Paralithodes camtschaticus (Tilesius 1815),"092023,092061,092099,092137"
+24,"45 Shrimps,prawns","45 Shrimps,prawns",,,,
+25,,CSH,Crangonidae,Common shrimp,Crangon crangon (Linnaeus 1758),"092024,092062,092100,092138"
+26,,PAL,Palaemonidae,Palaemonid shrimps,Includes a mix of species belonging to the,"092004,092042,092080,092118"
+27,,,,,Palaemonidae family,
+28,,PAN,Pandalidae,Pandalus shrimps,Pandalus spp,"092025,092063,092101,092139"
+29,,PRA,Pandalidae,Northern prawn,"Pandalus borealis, Kryer 1838","092026,092064,092102,092140"
+30,,PEZ,Penaeidae,Penaeid shrimps,"Includes ENS,MPM,MPNPRB,WKP,PBA,GIT,","092027, 092065, 092103, 092141"

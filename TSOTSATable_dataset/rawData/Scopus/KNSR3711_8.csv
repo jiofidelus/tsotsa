@@ -1,0 +1,61 @@
+,0,1,2,3,4,5
+0,Developer(s),vehicles,Antigen/Delivery Route of,,Phase Identifier (Number of participants;,Outcomes
+1,Developer(s),vehicles,administration/,,Location),
+2,,,Schedule/Dose,,,
+3,,,,III,"NCT04811664 (37,500 participants;USA)",
+4,,,,,"NCT04470427 (30,420 participants; USA)",
+5,,,,,NCT04860297 (240 participants; USA),
+6,,,,,NCT04806113 (220 participants; Canada),
+7,,,,,NCT04805125 (431 participants;,
+8,,,,,Switzerland),
+9,,,,II/III,"NCT04649151 (3,732 participants; USA)",
+10,,,,,"NCT04796896 (6,975 participants; USA)",
+11,,,,II,"ISRCTN73765130 (2,886 participants; UK)",
+12,,,,,NCT04847050 (120 participants; USA),
+13,,,,,"NCT04894435 (1,200 participants;",
+14,,,,,Canada),
+15,,,,,NCT04748471 (180 participants; France),
+16,,,,,"NCT04761822 (3,400 participants; USA)",
+17,,,,,NCT04405076 (660 participants; USA),
+18,,,,1/II,NCT04889209 (800 participants; USA),
+19,,,,1,NCT04785144 (135 participants; USA),
+20,,,,,NCT04813796 (125 participants; USA),
+21,,,,,NCT04839315 (100 participants; USA),
+22,,,,,NCT04283461 (120 participants; USA),
+23,BNT162b1/,Secreted spike,IM/Day0+21/II/III,IM/Day0+21/II/III,"NCT04368728 (43,998 participants;",8-50-fold increase in GMCs of RBD-
+24,"BioNTech,Pfizer",RBD/LNP,"10,20,30 or",,"Argentina, Brazil, Germany, South Africa,",binding IgG; 1.9-4.6-fold neutralizing
+25,,,100g,,"Turkey, USA)",GMTs compared to the convalescent
+26,,,,II/II,"EudraCT 2020-001038-36,NCT04380701",panel; higher rate of systemic events
+27,,,,,(476 participants; Germany),compared to BNT162b2278
+28,,,,,"ChiCTR2000034825, NCT04523571(144",
+29,,,,,participants; China),
+30,BNT162b3/,Transmembrane,IM/Day0+21/I/II,IM/Day0+21/I/II,"NCT04537949, EUCTR2020-003267-26- DE Unknown","NCT04537949, EUCTR2020-003267-26- DE Unknown"
+31,"BioNTech,Pfizer",spike RBD/LNP,30g,,(96 participants; Germany),
+32,mRNA-1273.211/,Transmembrane,IM/Day0+28/,II,NCT04405076 (660 participants; USA),Increased neutralizing GMTs when used
+33,"Moderna,",prefusion spike/,"20,50g",,,as a booster415'
+34,"NIAID, BARDA",LNP,,,,
+35,mRNA-1273.351/,Transmembrane,IM/Day0+28/,,NCT04785144 (135 participants; USA),Increased neutralizing GMTs when used
+36,"Moderna,",prefusion spike/,20 or 50g,,,as a booster415'
+37,"NIAID, BARDA",LNP,,,,
+38,mRNA-1283/,Transmembrane,IM/Day0+28/I,,NCT04813796 (125 participants; USA),Unknown
+39,"Moderna,",prefusion spike/,NA,,,
+40,"NIAID, BARDA",LNP,,,,
+41,"TAK-919/Takeda,",Transmembrane,IM/Day0+,1/II,NCT04677660 (200 participants; Japan), Approved in Japan484
+42,Moderna,prefusion spike/,Day29/100 g,,,
+43,,LNP,,,,
+44,ChulaCov19/,Transmembrane,"10, 25 or 50 g",,NCT04566276 (96 participants; Thailand)Unknown,NCT04566276 (96 participants; Thailand)Unknown
+45,Chulalongkorn,spike/LNP,"10, 25 or 50 g",,,
+46,University,,"10, 25 or 50 g",,,
+47,PTX-COVID19-B/,Transmembrane,IM/Day0+28/,,NCT04765436 (60 participants; Canada),High neutralization titers against VOCs432
+48,Providence,spike/LNP,"16,40 or",,,
+49,Therapeutics,,100g,,,
+50,mRNA type: unmodified nucleosides,mRNA type: unmodified nucleosides,,,,
+51,CVnCoV/CureVac,Transmembrane,IM/Day0+29/III,IM/Day0+29/III,"NCT04652102,EUCTR2020-003998-22",48.2% efficacy425; EMA terminated rolling
+52,,prefusion spike/,12g,,"(39,693 participants; Argentina, Belgium,",
+53,,LNP,,,"Colombia, Dominican Republic, Germany,",
+54,,,,,"Mexico, Netherlands, Panama,",
+55,,,,,"Peru, Spain)",
+56,,,,,"NCT04860258 (1,200 participants;",
+57,,,,,Belgium),
+58,,,,,"NCT04848467 (1,000 participants;",
+59,,,,,"Argentina, Colombia, Peru)",

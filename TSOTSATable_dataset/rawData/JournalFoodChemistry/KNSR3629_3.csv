@@ -1,0 +1,35 @@
+,0,1
+0,,Affirmative
+1,ood documentation,
+2,Common name,7
+3,Taxonomicname,7
+4,Technological treatment,7
+5,Cooking preparation process,7
+6,Langual code,1
+7,,(Dairy products
+8,"Additional informationmaduration,brand,sampling,etc.",2
+9,Component documentation,
+10,Component name,7
+11,Detailed definition of the component,7
+12,INFOODS or EUROFOODS codes,1
+13,Value documentation,
+14,All values:,
+15,Mode of expression,7
+16,"Method of obtentionanalytical,estimated or calculated",7
+17,Analytical values:,
+18,Analytical method,7
+19,Date of analysis,7
+20,Sampling details,7
+21,Detailed description of samples,7
+22,Calculated values:,
+23,Calculationmethod,7
+24,Factors used,7
+25,Estimated values:,
+26,Estimation methods,3a
+27,Sources of information,
+28,Own analysis,6
+29,Food composition tables,2
+30,Food companies,3
+31,Scientificarticles,3
+32,Food labels,1
+33,"Other sources(grey literature,labs bulletins,etc.)",1

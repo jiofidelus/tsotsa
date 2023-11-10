@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6
+0,Food component,Food source ID,Food name,Pharmacological actions,Drug,References,Batch
+1,,FOOD00006,Garden Onion,,,,
+2,,FOOD00009,Chives,,,,
+3,,FOOD00011,Cashew Nus,,,,
+4,,FOOD00012,Pineapple,,,,
+5,Oleic acid,FOOD00015,Wild celery,Dietary fatty acids like Oleic acid can,,,
+6,Oleic acid,FOOD00016,Peanuts,interacting with PPAR-g receptor to,,,Top 10 in joint and
+7,,FOOD00017,Burdock,form prostaglandins,VigabatrinPregabalin,"81,84,8689",disjoint-batch I(See Sup-
+8,,FOOD00021,Asparagus,barrier and interact with GABA,Gabapentin Doconexent,,Description and Result
+9,,FOOD00024,Brazil Nut,receptors to induce anxiolytic & pos-,,,
+10,,FOOD00026,Borage,sible anti-epileptic effects,,,
+11,Erucic acid,FOOD00099,Garden Cress,,,,
+12,Elaidic acid,FOOD00151,Pomegranate,,,,
+13,"(Z,Z)-9,12-Octadecadienoic",FOOD00009,,,,,
+14,acid,FOOD00009,,,,,
+15,,,,Eugenol causes vasodilation via,,,
+16,,,,vanilloid TRPV4 receptors found on,,,
+17,Eugenol,FOOD00179,Cloves,Eugenol & Capsaicin have a vanilloid,,,
+18,,,,ring. TRPV4 is involved in BP regula-,,,
+19,,,,tion via various mechanisms,,,
+20,,,,p-Cymene has been reported to cause,,,
+21,Isopropyl-2-methylphenol,FOOD00089,Hyssop,smooth muscle vasodilation and has,,,Top 20 in joint and
+22,,,,antihypertensive effects,"Betaxolol, Atenelol,Esmo-","85,90",disjoint-batch 2See Sup-
+23,,,,Also known as p-cymene. It has been,,,Description and Result)
+24,1-Isopropyl-4-methylb-,,,shown to cause sedative effects via,,,
+25,enzene,FOOD00013,Dill,GABA adrenergic receptors and also,,,
+26,enzene,,,causes vasodilation of smooth arterial,,,
+27,,,,muscles,,,
+28,1-Methoxy-4-2-propenyl),FOOD00137,Anise,Methyl Chavicol has been reported as,,,
+29,benzene,FOOD00019,Tarragon,"hypertension,found in anise",,,

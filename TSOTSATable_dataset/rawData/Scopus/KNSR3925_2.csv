@@ -1,0 +1,44 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Mouse line,,Discovery (year),Expression,Serum GH,Serum IGF1,Size /weightBody composi-,Size /weightBody composi-,Insulin sensitiv-,Insulin sensitiv-,Lifespan,Original refer-
+1,,,lab/1st author),control,,,,tion,ity,ity,,ences
+2,Global GHRKO,GHR-/,1997 Kopchick, NeoR replacing,1,,+,fat;lean,; glucose intol-,; glucose intol-,,"[30,31]"
+3,,,(Zhou),exon4 of Ghr,,,,,,erant,,
+4,Global Adult,aGHRKO,2016 Kopchick,ROSA26/Cre,1,+,, fat; lean,; glucose intol-,; glucose intol-,1 maximal [60],1 maximal [60]
+5,Onset,,(Junnila),,,,,,erant,erant,lifespan,
+6,,,,,,,,,,,?,
+7,Liver-specific,GHRLD,2009 Sperling,albumin/Cre,1,+,-,-,; glucose intol-,; glucose intol-,n/a,[38]
+8,KO,,(Fan),,,,,,erant,erant,,
+9,,LiGHRKO,2014 Kopchick,albumin/Cre,1,+,after 5 mofat at early,after 5 mofat at early, glucose, glucose,,[48]
+10,,,(List),,,,,ages; adult-,,homeostasis,,
+11,,,,,,,,hood,,,,
+12,,aLivGHRkd,2015 Kineman,thyroxin-binding,10,,n/a,n/a,n/a,n/a,n/a,[55]
+13,,,(Cordoba),promotor/Cre,,,,,,,,
+14,,Li-GHRKO,2016 Yakar(Liu)albumin/Cre,2016 Yakar(Liu)albumin/Cre,n/a,,,fat,; increased,; increased,n/a,[59]
+15,,,,,,,,,,blood glucose,,
+16,,L-Ghr-/-,2019 Liang,albumin/Cre,1,+,,,hypoglycemic,hypoglycemic,n/a,[63]
+17,,,(Fang),,,,,,,under CR,,
+18,Muscle-specific,GHR,2010 Clemens,fem-2c-73 k/Cre,,1, weight,fat,+,,n/a,[40]
+19,KO,,(Mavalli),,,,,fat,+,,n/a,[40]
+20,,mGHRKO,2012 LeRoith,Ckmm/Cre,,,,lean,,,n/a,[42]
+21,,,Vijayakumar,,,,,,,,,
+22,,MuGHRKO,2015 Kopchick,Ckmm/Cre,,-,-,-, glucose, glucose,1,[54]
+23,,,(List),,,,,,,homeostasis ,,
+24,Brain-specific,LeprEYFPGHR,2017 Sadagurski,leptin receptor/,,,-,, glucose, glucose,n/a,[61]
+25,KO,,(Cady),Cre,,,,,,homeostasis,,
+26,,AgRP-IRES-Cre2019 Donato,AgRP-IRES-Cre2019 Donato,AgRP IRES/Cre,n/a,n/a,-,,,,n/a,[64]
+27,,,(Furigo,,,,,,,,,
+28,,LepR-IRES-Cre,2019 Donato,LepR IRES/Cre,n/a,n/a,1,fat,n/a,n/a,n/a,[64]
+29,,,(Furigo),,,,,,,,,
+30,,Nestin-Cre,2019 Donato,Nestin/Cre,n/a,n/a,1, lean,n/a,n/a,n/a,[64]
+31,,,(Furigo),,,,,,,,,
+32,Fat-specific KO,FaGHRKO,2013 Kopchick,"aP2/Cre (aka,",,1o, weight,"fat,fluid",-,,+,[44]
+33,,,(List),FABP4/Cre),,,,lean mass ,,,,
+34,,AdGHRKO,2019 Kopchick,adiponectin/Cre,-,,-, fat; brown,1,,n/a,[220]
+35,,,(List),,,,,AT,,,,
+36,,Fat-Ghr-/-,2019 Liang,adiponectin/Cre,n/a,n/a,n/a,-,n/a,n/a,n/a,[63]
+37,,,Fang),,n/a,n/a,n/a,,,,n/a,[63]
+38,Macrophage/,GHRMacD,2010 Menon,Lyzs/Cre,n/a,n/a,-, epididymal fat,-; on HFD,-; on HFD,n/a,"[39,47]"
+39,monocyte-,,(Lu),,,,,on HFD,,,,
+40,specific KO,,,,,,,,,,,
+41,Beta cell-specificGHRKO,Beta cell-specificGHRKO,2011 LeRoith,insulin/Cre,,,,,n/a,n/a,n/a,[41]
+42,KO,,(Wu),,,,,,,,,

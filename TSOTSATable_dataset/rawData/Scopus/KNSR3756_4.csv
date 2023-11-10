@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,S. No.,Genera,,Median Abundance (%),Function
+1,,,CT1,DM1,
+2,,Genera decreased in DM1 group,,,
+3,1,Ophiocordycipitaceae unclassified,0.95,0.03,Plant pathogen
+4,2,Aureobasidium,0.01,0,Human pathogen
+5,3,Eurotiales unclassified,0.01,0,Plant / human pathogen
+6,,Genera increased in DM1 group,,,
+7,4,Curvularia,0.52,3.45,Plant/Human/Animal pathogen
+8,5,Aspergillus,0.24,0.68,Human pathogen
+9,6,Candida,0,1.51,Human pathogen
+10,7,Issatchenkia,0,0.01,Plant/Human pathogen
+11,8,Kluyveromyces,0,0.01,Non-pathogenic

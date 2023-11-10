@@ -1,0 +1,43 @@
+,0,1,2,3,4
+0,Species,Name,Kind,Abiotic Stress Function,Citation
+1,,RGLG1,,,
+2,,RGLG2,RING finger domain E3,Negatively regulates drought,[76]
+3,,RING DOMAIN,ubiquitin ligase,stress tolerance,[76]
+4,,LIGASE,,,
+5,,DOR,,Negatively regulates,
+6,,DROUGHT,Skp1Cullin-F-box (SCF),ABA-dependent drought,[77]
+7,,TOLERANCE,RING finger E3 ligase,tolerance,[77]
+8,,REPRESSOR,,tolerance,
+9,,AFA1,,,
+10,,ARABIDOPSIS F-BOX,Skp1-Cullin-F-box (SCF),Negatively regulates,
+11,,HYPERSENSITIVE,RING finger E3 ligase,tolerance,[78]
+12,,TO ABA1,,,
+13,,SDR,Skp1-Cullin-F-box (SCF),Positively regulate salt stress,
+14,,SALT AND DROUGHT,RING finger E3 ligase,"tolerance,negatively regulate",[79]
+15,,RESPONSIVENESS,RING finger E3 ligase,drought stress tolerance,
+16,,STRESS ASSOCIATED,RING finger domain E3,"drought, and osmotic stress",[80]
+17,,PROTEIN 5,ubiquitin ligase,tolerance,
+18,,AIRP1,,Positively regulates,
+19,,AIRP2,C3H2C3-type RING finger,ABA-dependent drought,"[81,82]"
+20,,RING PROTEIN,E3 ubiquitin ligase,tolerance,
+21,,AIRP3/LOG2,,,
+22,,ABA-INSENSITIVE,,Positively regulates the,
+23,,RING,RING finger domain E3,ABA-mediated drought and,[83]
+24,Arabidopsis,PROTEIN3/LOSS OF,ubiquitin ligase,salt stress tolerance,[83]
+25,,GLUTAMINE,,salt stress tolerance,
+26,,DUMPER 2,,,
+27,,ATRF1,,,
+28,,TOLERANCE RING,E3 ubiquitin ligase,tolerance,[84]
+29,,FINGER1,,,
+30,,NFYA5 ENHANCING,RING finger domain E3,Positively regulates drought,[85]
+31,,RING FINGER,ubiquitin ligase,stress response,[85]
+32,,RDUF1,,Positively regulates salt stress,
+33,,RDUF2,RING finger domain E3,responses and,
+34,,UNKNOWN,ubiquitin ligase,ABA-dependent drought stress,"[84,86]"
+35,,FUNCTION,,responses in arabidopsis,
+36,,PQ3,,Negatively regulates oxidative,
+37,,PARAQUAT,U-box E3 ubiquitin ligase,stress response,[87]
+38,,TOLERANCE 3,,stress response,
+39,,PP2-B11,Skp1Cullin-F-box (SCF),Negatively regulates drought,
+40,,2-B11,RING finger E3 ligase,salt stress,"[88,89]"
+41,,PLANT U-BOX 11,U-box E3 ubiquitin ligase,tolerance,[67]

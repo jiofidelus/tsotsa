@@ -1,0 +1,27 @@
+,0,1,2
+0,,n,%
+1,Personal PDD history,,
+2,Yes,5,O.C
+3,No,9491,90.0
+4,Missing,1047,9.9
+5,Infant characteristics,,
+6,Infant sex,,
+7,Male,5468,51.9
+8,Female,5065,48.0
+9,Missing,10,0.1
+10,Birth season,,
+11,Spring(March-May),2655,25.2
+12,Summer(June-August),2516,23.9
+13,Autumn(September-November),2776,26.3
+14,Winter(December-February,2596,24.6
+15,Breast-feeding duration,,
+16,<6months),1864,17.7
+17,6(months),7056,66.9
+18,Missing,1623,15.4
+19,ASQ-3,,
+20,Failed one domain,1004,9.5
+21,Failed two domains,284,2.7
+22,Failed three domains,154,1.5
+23,Failed four domains,62,0.6
+24,Failed five domains,68,0.6
+25,Failed one or more of the domains,1572,14.9

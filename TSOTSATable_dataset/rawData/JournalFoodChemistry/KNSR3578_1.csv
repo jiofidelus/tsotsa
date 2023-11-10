@@ -1,0 +1,54 @@
+,0,1,2,3,4,5,6,7,8
+0,tep of the compilation process,Specific hazards,Consequences,,,,,CCP,Specific preventive/corrective measures
+1,,,,,,,,SoPa,
+2,. Decision on which foods/nutrients need to be added/,No consensus on data needed,"Non relevant, non consistent, non systematic,","Non relevant, non consistent, non systematic,","Non relevant, non consistent, non systematic,","Non relevant, non consistent, non systematic,","Non relevant, non consistent, non systematic,",No,Involve users to assure user satisfaction
+3,updated,,non representative date collection/production,non representative date collection/production,non representative date collection/production,non representative date collection/production,non representative date collection/production,,Involve users/experts to validate proposals
+4,.. Collection or production of original data from several,Criteria insufficiently defined (e.g. on,Relevant data missed/misunderstood,Relevant data missed/misunderstood,Relevant data missed/misunderstood,Relevant data missed/misunderstood,,No,Involve experts in sampling
+5,sources,"sampling, references, metadata needed)",Poor data quality,Poor data quality,,,,,Make use of accredited laboratories
+6,,,,,,,,,Participate in collaborative scanning of journals
+7, Identification of relevant foodsnutrientsbackground,"Criteria food, component, metadata",,,,,,Yes,Develop (international criteria and guidelines
+8,information,insufficiently defined,,,,,,,Encourage and train data providers (e.g. laboratories) to
+9,,(Metadata insufficiently described in,,,,,,,"provide complete, accurate and unequivocal data"
+10,,reference,,,,,,,
+11,A.Use of data,Hazards occur in previous steps,Incorrect decisions,Incorrect decisions,,,,No,See previous steps
+12,B.Archive rejected data and document decisions made on,No/insufficient archiving,Original,data,and,decisions,taken,not No,
+13,rejected data,,retrievable,,,,,,system
+14,,,Redundant re-evaluation,Redundant re-evaluation,Redundant re-evaluation,,,,Document guidelines
+15,Attribution of QualityIndexto all original data taking into,No/poorly defined data quality assess-,Assessment not repeatable or reproducible,Assessment not repeatable or reproducible,Assessment not repeatable or reproducible,Assessment not repeatable or reproducible,Assessment not repeatable or reproducible,Yes,Use a system validated by experts
+16,"account food description,sampling,analysis",ment system,Assessment not reliable or comparable,Assessment not reliable or comparable,Assessment not reliable or comparable,Assessment not reliable or comparable,,,Use international standard system (e.g. EuroFIR)
+17,,interpretation/,Decisions not traceable,Decisions not traceable,Decisions not traceable,,,,Organize and take part in proficiency-tests'
+18,,understanding,,,,,,,Ensure traceability of quality assessment in the FDBMS
+19, Coding of original data before data entry,Incomplete coding,Errors in database are processed further,Errors in database are processed further,Errors in database are processed further,Errors in database are processed further,Errors in database are processed further,Yes,Use standardised coding format
+20,,Inaccurate/incorrect coding,-Lack of(metadata resulting in poor data quality,-Lack of(metadata resulting in poor data quality,-Lack of(metadata resulting in poor data quality,-Lack of(metadata resulting in poor data quality,-Lack of(metadata resulting in poor data quality,,Reference tables with available codes in place
+21,,,scores,,,,,,Organize and take part in proficiency-tests'
+22,.Original data entry/keyboarding/import of data files,Incomplete data entry,-Insufficient data for comparison and exchange,-Insufficient data for comparison and exchange,-Insufficient data for comparison and exchange,-Insufficient data for comparison and exchange,-Insufficient data for comparison and exchange,No,FDBMS rejects data if compulsory data are missing
+23,,Inaccurate/incorrect data entry,,,,,,,FDBMS gives automatic error warnings (e.g. outliers)
+24,. Check on original data coding and data entry,Incomplete data check,,,,,,Yes,Develop computerised and manual procedures
+25,,Inaccurate/incorrect data check,,,,,,,Document guidelines
+26,,,,,,,,,Organize and take part in proficiency tests'
+27,.Decide whether data are correct or not,Hazards occur in previous steps,Incorrect decisions,Incorrect decisions,,,,No,See previous steps
+28,0.Storage of original computerised data in initial database,Incorrect/insufficient storage in database,Loss of data,Loss of data,,,,Nob,Hazards related to computerised system; out of scope
+29,,,No/low traceability of data,No/low traceability of data,No/low traceability of data,,,,
+30,1. Physical storage of original data,Incorrect/insufficient storage of hard,No/low traceability of original data/decisions Yes,No/low traceability of original data/decisions Yes,No/low traceability of original data/decisions Yes,No/low traceability of original data/decisions Yes,No/low traceability of original data/decisions Yes,,Develop a systematic archival system for all data
+31,,copies/files,taken,,,,,,sources
+32,,,-No corrections/updates based on original data,-No corrections/updates based on original data,-No corrections/updates based on original data,-No corrections/updates based on original data,-No corrections/updates based on original data,,Document guidelines
+33,,,possible,,,,,,Claim sufficient storage room and computer memory
+34,,2.Extraction of all original data available for each pair food/Incorrect/insufficient/redundant,Non relevant data are further processed,Non relevant data are further processed,Non relevant data are further processed,Non relevant data are further processed,,Nob,Hazards related to computerised system;out of scope
+35,component,extraction of data,,,,,,,
+36,3. Selection of original data to produce aggregated data,Insufficient filter for selections,Non relevant data are further processed,Non relevant data are further processed,Non relevant data are further processed,Non relevant data are further processed,Non relevant data are further processed,Yes,Develop selection criteria and procedures
+37,,Infrequent selections,Selection does not meet users need,Selection does not meet users need,Selection does not meet users need,Selection does not meet users need,,,Document guidelines
+38,,Incorrect selections,,,,,,,Improve computerised selections;out of scope
+39,"4.Selection of algorithms to calculate (weighted)means,",Definition of algorithms incorrect,Errors in database,Errors in database,,,,Yes,Involve experts to define algorithms
+40,"recipes, derived nutrients...",,,,,,,,Follow international (e.g. EuroFIR) recommendations
+41,,,,,,,,,Validate and check new and updated algorithms
+42,5.Application of algorithms to produce aggregated and,Algorithm applied to wrong food/,Errors in database,Errors in database,,,,Yes,Develop criteria and procedures to apply algorithms
+43,compiled data,nutrient,Limitedchecks,Limitedchecks,possibleafterautomated,possibleafterautomated,possibleafterautomated,,-Document guidelines
+44,,Algorithm applied at wrong stage in,calculations,calculations,,,,,-Programme algorithms in FDBMS
+45,,process,-Lack of reliability/poor data quality,-Lack of reliability/poor data quality,-Lack of reliability/poor data quality,-Lack of reliability/poor data quality,,,-Develop additional checks in case of manual work
+46,,Errors after manual adjustments to,,,,,,,
+47,,algorithm,,,,,,,
+48,,Errors in data transfer if calculated,,,,,,,
+49,,outside FDBMS,,,,,,,
+50,6.Validation of aggregated and compiled data (see also Table,Non relevant or incomplete validation,-Errors are not detected,-Errors are not detected,-Errors are not detected,,,Yes,-Develop criteria and procedures for validation
+51,2),-Time interval between production and,-Production of non relevant data,-Production of non relevant data,-Production of non relevant data,-Production of non relevant data,,,Document guidelines
+52,,Insufficient attention to underlying,-Low reliability/low quality of data,-Low reliability/low quality of data,-Low reliability/low quality of data,-Low reliability/low quality of data,,,Involve experts (e.g. use of EuroFIR recommendations)

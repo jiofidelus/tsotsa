@@ -1,0 +1,45 @@
+,0,1,2,3
+0,Category,Picture ID 1,Food/Dish Name,Number of Portions
+1,Food item,F1034,Bread roll,6
+2,,F1088b,Pre-cooked rice,7
+3,,F1117,Sticky rice cake,6
+4,,F4032,Tofu,7
+5,,F4046,Natto(fermented soybeans,4
+6,,F6182,Tomato,6
+7,,F7107,Banana,3
+8,,F10381,Chikuwa (Japanese fishcake),3
+9,,F11186,Sausage,6
+10,,F13025a,Packed yoghurt,10
+11,,F13040,Cheese,10
+12,,F15009,Casutera sponge cake,4
+13,,F15069,Anpan (sweet bean-jam bun),4
+14,,F15070,Cream bun,3
+15,,F15076a,Croissant,4
+16,,F15076b,Danish bread,6
+17,,F15082a,Madeleine,3
+18,,F15082b,Pound cake,2
+19,Dish item,D10118,Rolled sushi,4
+20,,D10120,Rice ball,13
+21,,D10201,Toast,6
+22,,D10208,Melon bread (half-melon shaped buns),3
+23,,D10208b,Stick bread,3
+24,,D10209,Sausage roll,3
+25,,D10211,Sandwich,6
+26,,D10213,Hamburger,5
+27,,D10304a,Instant noodle (packet),3
+28,,D10304b,Instant noodle (Cup Noodle-shaped container,3
+29,,D10304c,Instant noodle (Donbei-shaped container),3
+30,,D10304d,Instant noodle (other shaped container),2
+31,,D10308b,Yakisoba(UFO),2
+32,,D10308c,Yakisoba (Peyoung),2
+33,,D10308d,Yakisoba (other),2
+34,,D10510,Potato croquette,5
+35,,D10622,Soymilk 2,5
+36,,D10908,Mandarin orange,3
+37,,D10909,Various kinds of citrus,8
+38,,D11021,Dried fish,5
+39,,D11046,Fish jelly products,8
+40,,D11102,Fried gyoza dumplings,4
+41,,D11108,Hamburg steak,5
+42,,D11143,Deep-fried chicken,5
+43,,D11301,Milk2,5

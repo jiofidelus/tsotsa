@@ -1,0 +1,10 @@
+,0,1,2,3,4
+0,Group and subgroup composition,Mode,Median,Range,n
+1,Group size,2,2,1-7,36
+2,Number of dominant female per group,1,1,1-4,36
+3,Number of subordinates per group,0,1,05,36
+4,Number of outsiders per group,"0,1",1,0-5,36
+5,Number of juveniles per group,0,0,0-10,36
+6,Number of subordinates per subgroup,0,0,04,61
+7,Number of outsiders per subgroup,0,0,0-3,61
+8,Number of juveniles per subgroup,0,0,0-10,61

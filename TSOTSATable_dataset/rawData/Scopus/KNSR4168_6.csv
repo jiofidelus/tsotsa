@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7,8
+0,Group,Number of piglets,Number of piglets,Number of piglets,Number of piglets,,Rate of mortality %,Rate of mortality %,
+1,,do,d3,d15,d 29,do1,d0-3,d0-15,d 0-29
+2,Control,90,78,77,76,0,13.3,14.4,15.6
+3,1.535% BCAA,90,84,84,84,0,6.7,6.7,6.7
+4,3.07% BCAA,90,86,86,86,0,4.4,4.4,4.4

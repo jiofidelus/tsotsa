@@ -1,0 +1,66 @@
+,0,1,2,3,4,5,6,7,8,9
+0, NDB No.,Description,Proanthocyanidin,Mean1,N,SD,Min,Max,CC,Sources of Data
+1,02029,"Spices, parsley, dried (Petroselinum",Dimers,0.00,1,,,,B,24
+2,,crispum),Trimers,0.00,1,,,,3,24
+3,,,4-6mers,0.00,1,,,,B,24
+4,,, Polymers,0.00,1,,,,,24
+5,,, Polymers,0.00,1,,,,,24
+6,02030,"Spices, pepper, black (Piper",Dimers,0.00,1,,,,B,24
+7,,nigrum),Trimers,0.00,1,,,,B,24
+8,,,4-6mers,0.00,1,,,,,24
+9,,,7-10mers,0.00,1,,,,B,24
+10,,,Polymers,0.00,1,,,,,24
+11,02033,"Spices, poppy seed (Papaver",Dimers,0.00,1,,,,B,24
+12,,somniferum),Trimers,0.00,1,,,,B,24
+13,,,4-6mers,0.00,1,,,,,24
+14,,,7-10mers,0.00,1,,,,B,24
+15,,,Polymers,0.00,1,,,,B,24
+16,02043,"Spices, turmeric, ground (Curcuma",Dimers,0.00,1,,,,,24
+17,,longa L.),Trimers,0.00,1,,,,,24
+18,,,4-6mers,0.00,1,,,,B,24
+19,,,7-10mers,0.00,,,,,B,24
+20,,,Polymers,0.00,1,,,,B,24
+21,03-Babyfoods,03-Babyfoods,,,,,,,,
+22,03181,"Babyfood, cereal, barley, dry",Dimers,9.30,2,,,,B,23
+23,,,Trimers,4.50,2,,,,,23
+24,,,4-6mers,4.10,2,,,,B,23
+25,,,7-10mers,0.00,2,,,,B,23
+26,,,Polymers,0.00,2,,,,B,23
+27,97025,"Babyfood,dessert,blueberry buckle",Dimers,1.80,2,,,,,23
+28,,,Trimers,1.30,2,,,,,23
+29,,,4-6mers,5.30,2,,,,,23
+30,,,Polymers,4.40,2,,,,B,23
+31,,,Polymers,4.40,2,,,,B,23
+32,03225,"Babyfood, dessert, cherry vanilla",Dimers,2.70,2,,,,B,23
+33,,"pudding, junior",Trimers,1.70,2,,,,,23
+34,,,4-6mers,5.20,2,,,,B,23
+35,,,7-10mers,2.90,2,,,,,23
+36,,,Polymers,0.00,22,,,,,23
+37,03165," blueberry, junior",Dimers,5.10,22,,,,,23
+38,," blueberry, junior",Trimers,2.80,2,,,,,23
+39,,,4-6mers,7.80,2,,,,B,23
+40,,,7-10mers,5.20,2,,,,B,23
+41,,,Polymers,2.20,2,,,,B,23
+42,97020,"Babyfood, fruit, apple, strawberry",Trimers,7.30,2,,,,B,23
+43,,banana,Trimers,4.30,2,,,,,23
+44,,,4-6mers,14.90,2,,,,B,23
+45,,,7-10mers,10.60,2,,,,,23
+46,,,Polymers,14.00,2,,,,B,23
+47,97018,"Babyfood, fruit, apples, organic",Dimers,8.90,2,,,,,23
+48,,,Trimers,5.10,2,,,,,23
+49,,,4-6mers,17.80,2,,,,B,23
+50,,,7-10mers,12.30,2,,,,,23
+51,,,Polymers,14.80,2,,,,,23
+52,03116,"Babyfood, fruit, applesauce,",Dimers,6.40,2,,,,B,23
+53,,strained,Trimers,3.60,2,,,,B,23
+54,,,4-6mers,9.80,2,,,,B,23
+55,,,7-10mers,6.10,2,,,,B,23
+56,,, Polymers,0.00,2,,,,B,23
+57,97021,"Babyfood, fruit, apricots with pears",Dimers,3.40,2,,,,B,23
+58,,and apples,Trimers,2.30,2,,,,,23
+59,,,4-6mers,7.60,2,,,,,23
+60,,,7-10mers,4.60,2,,,,,23
+61,,,Polymers,0.00,2,,,,B,23
+62,97022,"Babyfood, fruit, banana plum and",Dimers,2.50,2,,,,B,23
+63,,grape,Trimers,1.90,2,,,,,23
+64,,,4-6mers,8.10,2,,,,B,23

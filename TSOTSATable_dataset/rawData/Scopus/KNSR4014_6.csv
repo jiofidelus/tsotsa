@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7
+0,,n,Total,n,Control,n,Intervention,p*
+1,Selenium deficiency (Plasma selenium < 41.8 g/L),418,0 (0.0),220,0 (0.0),198,0(0.0),
+2,Plasma copper (g/L),420,930.4  171.3,221,914.4  183.0,199,948.1  155.8,0.117
+3,Copper deficiency (Plasma copper < 750 g/L for <10.3 years;,420,8 (1.9),221,7 (3.2),199,1 (0.5),0.046
+4,<640 g/L for 10.3-12.5 y;<570 g/L for>12.5 y),,,,,,,
+5,Copper:Zinc ratio,420,1.5 (1.31.7),221,1.4 (1.21.7),199,1.5 (1.31.7),0.214

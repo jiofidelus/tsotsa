@@ -1,0 +1,35 @@
+,0,1,2,3,4
+0,-ixed effects modela,Regression,95% Confidence intervals,P-value,Adjustec
+1,,coefficients,,,P-value
+2,"Neonatal whole-body fat mass g (R0.38,R2adi0.37)",,,,
+3,Sexof infant(Ref:female),-119.85,"219.24,-20.45",0.02,
+4,"Gestational age at birth,wk",15.38,"67.13, 36.38",0.56,
+5,"Infant age, mo",435.35,"187.62,683.09",0.001,
+6,"Infant length,cm",58.80,"29.99,87.57",<0.0001,
+7,UVB period at birth (Ref: non-synthesizing period),105.28,"8.94, 201.63",0.03,
+8,"Gestational weight gain,kg",6.57,"1.61,14.76",0.11,
+9,Maternal pre-pregnancy BMId (Ref: <25 kg/m2),45.26,"173.54,83.02",0.12,
+10,Maternal25(OHDeRef:>50nmol/L,-40.57,"176.04,94.91",0.09,
+11,BMI*25(OH)D interaction(pairwise comparisons,,,0.02,
+12,BMI>25.25OHD<50vs BMI>2525OHD>50,220.40,"56.19,384.60",0.009,0.04
+13,BML>25.25OHD<50ysBMI<25.25OHD<50,215.70,"44.73,386.68",0.01,0.07
+14,"BMI>25.25OHD<50vsBMI<25,25(OHD>50",175.14,"28.38,321.89",0.02,0.09
+15,"BMI>25,25OHD>50vsBMI<2525OHD<50",-4.70,"161.54,152.15",0.95,0.99
+16,"BMI>25,25OHD>50vsBMI<25,25OHD>50",45.26,"173.54, 83.02",0.49,0.90
+17,"BMI<25,25OHD<50vsBMI<2525OHD>50",40.57,"176.04,94.91",0.55,0.93
+18,"Neonatal whole-body lean mass g (R2 0.53,R2adi 0.52)",,,,
+19,Sex of infant (Ref: female),174.52,"73.41, 275.64",0.0009,
+20,"Gestational age at birth,wk",32.29,-20.36.84.94,0.23,
+21,"Infant age, mo",294.98,"42.95,547.00",0.02,
+22,"Infant length, cm",102.26,72.97.131.55,<0.0001,
+23,UVB period (Ref:non-synthesizing period),68.86,"166.88,29.16",0.17,
+24,"Gestational weight gain, kg",4.56,"12.89,3.76",0.28,
+25,Maternal pre-pregnancy BMI (Ref:<25kg/m2),124.67,"5.83,255.17",0.06,
+26,Maternal25OHD(Ref:>50nmol/L,55.67,"82.15,193.49",0.43,
+27,Maternal pre-pregnancy BMI*25(OH)D,,,0.04,
+28,"BMI>25,25OHD<50vs BMI>25,25OHD>50",164.58,"384.34,55.19",0.05,0.21
+29,"BMI>25,25OHD<50vsBMI<25,25OHD<50",95.57,"324.39,133.24",0.28,0.70
+30,"BMI>2525OHD<50vsBMI<25,25OHD>50",-39.91,"236.31,156.50",0.60,0.95
+31,BMI>2525OHD>50vsBMI<2525OHD<50,69.00," 140.90, 278.91",0.39,0.83
+32,"BMI>25,25OHD>50vsBMI<2525OHD>50",124.67,"47.01,296.35",0.06,0.24
+33,"BMI<25,25OHD<50vsBMI<25,25OHD>50",55.67,"125.64,236.97",0.43,0.85

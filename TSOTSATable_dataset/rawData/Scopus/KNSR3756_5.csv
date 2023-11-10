@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,S. No.,Genera,,Median Abundance (%),Function
+1,,,CT3,DRC1,
+2,,Genera decreased in DRC1 group,,,
+3,1,Clitopilus,11.54,10.82,Produce antibacterial agents
+4,2,Echinoderma,1.33,1.06,Mushroom
+5,3,Capnodiales unclassified,0.02,0,Plant/human pathogen
+6,,Cylindrocladiella,0.01,,Plant pathogen
+7,5,Hypoxylon,0.01,0,Plant pathogen
+8,6,Kodamaea,0.01,0,Human pathogen
+9,7,Pyrenochaetopsis,0.01,0,"Plant pathogen, saprophytic, and endophytic species"
+10,,Genera increased in DRC1 group,,,
+11,8,Nectriaceae unclassified,0,0.09, Plant pathogen
+12,9,Nigrospora,0,0.08,Plant/Human pathogen
+13,10,Gymnopus,0,0.03,Mushroom
+14,11,Ustilago,0,0.01,Plant pathogen

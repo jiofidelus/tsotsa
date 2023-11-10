@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Complex,Est. Free Energy of Binding,Est. Free Energy of Binding,"Est. Inhibition Constant,","Est. Inhibition Constant,",vdW+Hbond+desolv,Electrostatic Energy,Electrostatic Energy,Total Intermolec. Energy,Total Intermolec. Energy
+1,,(kcal/mol),,Ki (mM),,Energy (kcal/mol),(kcal/mol),,(kcal/mol),
+2,HSA-Linalool,,-4.21,,0.818,5.68,,-0.11,,5.79
+3,HSA-Carvacrol,,-4.77,,0.318,5.34,,-0.03,,-5.37
+4,HSA-Thymol,,-4.77,,0.318,5.29,,-0.1,,-5.41

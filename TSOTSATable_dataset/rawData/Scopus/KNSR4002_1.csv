@@ -1,0 +1,12 @@
+,0,1,2,3,4,5
+0,,Eating a rice ball in the laboratory,Eating a rice ball in the laboratory,,,Caloric intake
+1,,,,,,"for 1 entire day,"
+2,,,,,,r (P value)
+3,,"Number of chews, r",Number of chews,"Number of bites, r","Chewing rate, r",
+4,,(P value),"per bite, r (P value)",(P value),(P value),
+5,Number of chews,.360 (<.001),.282 (.005),.126 (.21),.328 (.001),.262 (.009)
+6,Number of chews per bite,.122 (.23),.493 (<.001),.281 (.005),.448 (<.001),.062 (.54)
+7,Number of bites,.205 (.04),.104 (.30),.334 (.001),.038 (.71),.151 (.14)
+8,Chewing rate,.185 (.07),.519(<.001),.222 (.03),.512 (<.001),.047 (.65)
+9,Caloric intake for 1 entire day,.172 (.09),.164 (.11),.357 (<.001),.179 (.08),-a
+10,Number of chews per calorie ingested,.484 (<.001),.203 (.04),.324 (.001),.235 (.02),.315 (.002)

@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,To,Project,Year,Picking method,Num-,Number,3D,Environment,,Harvest rate,Speed,,Damage rate,Issues,Note
+1,,,,,ber,of cam-,imaging,Modi-,Description,,Single,Overall,,to be,
+2,,,,,of,eras,tech-,Modi-,Description,,Single,Overall,,improved,
+3,,,,,arms,,niques,fied,,,arm,,,,
+4,5,Kondo-,2010,Stem cut,1,2,Stereo,V,High density,50%*,15 s+/fruit*,15 s+/fruit*,N/A,Obstacle,* Only 20 fruits
+5,,Tomato,,,,,,,plant,,,,,avoid-,were tested
+6,,(Kondo,,,,,,,training,,,,,ance,* 15 s was the
+7,,"et al.,",,,,,,,system,,,,,End-,time taken by
+8,,2010,,,,,,,,,,,,effector,end-effector to
+9,,,,,,,,,,,,,,adapt-,detach a fruit
+10,,,,,,,,,,,,,,Vision,
+11,,,,,,,,,,,,,,detec-,
+12,,,,,,,,,,,,,,tion,
+13,,,,,,,,,,,,,,under,
+14,,,,,,,,,,,,,,occlu-,
+15,,,,,,,,,,,,,,sion,
+16,,Yaguchi-,2016,Rotate+pluck,1,1,Stereo,V,Greenhouse,60%,23 s/fruit,,N/A*,Stem,Damage not
+17,,Tomato,,,,,,,,,,,,detec-,quantified but
+18,,(Yaguchi,,,,,,,,,,,,tion,the author indi
+19,,"et al.,",,,,,,,,,,,,End-,cated a high
+20,,2016),,,,,,,,,,,,effector,calyx damage
+21,,,,,,,,,,,,,,feed-,rate
+22,,,,,,,,,,,,,,back,
+23,,,,,,,,,,,,,,Fruit,
+24,,,,,,,,,,,,,,cluster,
+25,,,,,,,,,,,,,,han-,
+26,,,,,,,,,,,,,,dling,
+27,,,,,,,,,,,,,,success,
+28,,,,,,,,,,,,,,rate,

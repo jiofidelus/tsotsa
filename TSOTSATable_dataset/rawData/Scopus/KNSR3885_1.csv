@@ -1,0 +1,43 @@
+,0,1,2,3,4
+0,Protein,Year of discovery,Size of final protein,Number of Gla sequences,Function
+1,Factor VII,1951,50 kDa,10,"Zymogen, procoagulant"
+2,(proconvertin),,,,
+3,Factor IX (Christmas,1952,56 kDa,12,"Zymogen,procoagulant"
+4,factor),,,,
+5,Factor X (Stuart,1953,56 kDa,11,"Zymogen, procoagulant"
+6,Prower factor),,,,
+7,Gas6,1988 (murine fibroblasts),75 kDa (678 AAs),11,Likely a growth factor
+8,-glutamyl carboxylase,1975,758 AA (94 kDa),,Integral membrane enzyme
+9,Prothrombin,1894,72 kDa,10,"Zymogen,procoagulant"
+10,Protein C(autopro,1960,56 kDa,9,"Zymogen, anticoagulant"
+11,thrombin II-a),,,,
+12,Protein S,1977,80 kDa (635 AAs),11,"Anticoagulant,cofactor of"
+13,,,,,"protein C, immune and"
+14,,,,,vascular system regulation
+15,Protein Z,1977bovine plasma),62 kDa (360 AAs),13,"Anticoagulant,with PZI"
+16,,1984 (human plasma),,,blocks factor Xa
+17,Matrix Gla protein,1983,11 kDa,5,Extracellular matrix protein
+18,(MGP),,,,
+19,Nephrocalcin,1981,14 kDa (110 AAs),2-3,Inhibitor of the formation of
+20,,,,,calcium renal stones
+21,"Osteocalcin(BGP,bone",1977,5.6 kDa (49 AAs),3,Carboxylated-an extracellu
+22,Gla protein),,,,"lar matrix protein, uncar-"
+23,,,,,boxylated - a hormone
+24,Periostin(osteoblastic,1993,90 kDa (836),0 up to 24b,Extracellular matrix protein
+25,"specific factor 2,",,,,influencing the growth
+26,OSF-2),,,,and repair of connective
+27,,,,,tissues
+28,Proline-rich Gla pro-,1997,PRGP1:23 kDa(198AAs),?,Transmembrane receptors
+29,"teinsPRGP1,PRGP2",,PRGP2:17 KDa (153 AAs),,likely involved in signaling
+30,,,,,pathways
+31,Inter-alpha-trypsin in-,1988,72 kDa (648 AAs),2,Heavy chain of inter--tryp-
+32,hibitor heavy chain,,,,sin inhibitor
+33,H2 (ITIH2),,,,
+34,Transmembrane Gla,2000,TGM3:23.7 kDa212 AAs),TGM3:15,Transmembrane receptors
+35,proteins 3 and 4,,TGM4:19.9 kDa (177 AAs),TGM4:9,
+36,"(TGM3,TGM4a",,,,
+37,Gla-rich protein(GRP,2008,,15,Modulator of tissue calcifica
+38,,,,,"tion, anti-inflammatory"
+39,,,,,activity
+40,Transthyretin in,2008,27.5 kDa (dimer),1,Unclearnot present in
+41,Movamova disease,,,,healthy patients

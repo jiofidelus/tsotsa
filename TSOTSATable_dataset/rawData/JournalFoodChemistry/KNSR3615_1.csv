@@ -1,0 +1,50 @@
+,0,1,2,3,4,5,6
+0,Partner,Ethnic group,Selected foods,Food description,No of primary samples,,Regions/locations including outlets
+1,(country),(cuisine type),,,for each food,for each food,
+2,AFSSA(France),North African (Maghreb),Brik pastry sheet,"Pastry sheet, baked",,3,Locations: Strasbourg area
+3,,,Harissa,Spicy sauce/paste,,3,
+4,,,Buttermilk,"Fluid,cultured,low fat",,3,Outlets: supermarkets and grocery stores
+5,,,Frik,"Roasted crushed immature hard wheat, dry",,2,
+6,,,Molokhia sauce,Sauce made with dried Tossa Jute (Corchorus olitorius L.),,,
+7,,,,leaves powder,,,
+8,BGU(Israel),Mediterranean and Ethiopian,Falafel,Fried chick peas,12,12,"Locations: Beer-Sheva, Tel-Aviv and Haifa"
+9,,,Dark bread,Common subsidize bread,10,10,
+10,,,Commercial soy patty,Commercial vegetarian patty,10,10,"Outlets: retailers,restaurants and households."
+11,,,Injera,Ethiopian pita,10,10,
+12,,,Industrialized Hummus,Mashed chick peas,10,10,
+13,CESNID(Spain),Latin American and Asian,Spring roll,Vegetable filled roll,18,18,Locations:Metropolitan area of Barcelona
+14,,,Rice 3 delight,"Cooked rice with peas, ham,shrimp, carrots and egg",18,18,
+15,,,Guacamole,Avocado puree,,5,"Outlets:retailers,restaurants and households"
+16,,,Mexican salsa,Tomato and chilli salsa,,8,
+17,,,Ceviche,Raw marinated fish or seafood in lemon juice,,8,
+18,DFVF(Denmark,Middle Eastern,Durum rolls,Flat bread with salad and strips of meat,,4,Locations:East Jutland area
+19,,,Pita sandwich with kebab,Pita bread with grilled kebab meat and salad.kebab,4,4,Outlets: takeaways
+20,,,,"meat is when big pieces are cut,",,,
+21,,,,"marinated and grilled""normally lamb or beef",,,
+22,,,Sandwich with kebab,Various types of bread with kebab and salad [typically,,4,
+23,,,,lamb or beef],,,
+24,,,Sandwich with falafel,Various types of bread with falafel and salad,4,4,
+25,,,Kebabmix,"A mix of kebab,chips,salad and dressing",,8,
+26,INRAN(Italy),Eastern European (Romanian),Cantonese rice,"Cooked rice with peas, vegetables, ham and egg",,5,Locations: Rome and Milan
+27,,,Nachos,Fried corn tortilla chips,,9,"Outlets: retailers,restaurants and households"
+28,,,Falafel,Broad bean and chickpea balls,,6,
+29,,,Kebab,"rotating meat""lamb or beef grilled",10,10,
+30,,,Sarmale,Cooked rolls of cabbage leaves with rice and meat,,4,
+31,RIVM(The Netherlands),Surinamese,Roti,Pancakes,,3,Locations: Zeist and The Hague
+32,,,Salted meat,Salt cured beef,,3,
+33,,,Yellow split peas,"Channa dhal or Bengal gram dhal, cooked",,1,"Outlets: supermarkets, grocery stores, market"
+34,,,Pomtayer,Roots of the tayer plant (Xanthosoma sagittifolium),,,and takeaways
+35,,,Tayer leaves,Large green leaves of the tayer plant (Xanthosoma,,3,
+36,,,,sagittifolium),,,
+37,UGhent(Belgium),Congolese,Chikwangue,Fermented cassava loaf,,5,Locations:Brussels
+38,,,Mbinzo larva,Small black worms,,5,
+39,,,Saka-saka,Cassava leaves,11,11,Outlets:small African shops in the Matonge
+40,,,Mkayabo,Dried and salted cod,7,7,neighbourhood of Brussels
+41,,,Biteku-teku,Amaranthus leaves,,6,
+42,UL(UK),South Asian,Chicken bhuna,"Medium spiced curry with tomato, onion, garlic and",10,10,"Locations: London, Leeds and Birmingham"
+43,,,,fresh coriander,,,
+44,,,Chicken rogan josh,"Chicken in a spicy, tomato, peppers and onion sauce",12,12,
+45,,,Aloo Bombay,"Chunks of potato in a spicy,tomato and onion sauce",,6,"Outlets: supermarkets, restaurants, takeaways"
+46,,,Rasmalai,"Milky dessert made with specialised milk powder,milk",,9,and households
+47,,,,cream and cardamon,,,
+48,,,Lamb kebab,Patties made with spiced minced lamb,,6,

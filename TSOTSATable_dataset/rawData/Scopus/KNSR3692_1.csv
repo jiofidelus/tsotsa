@@ -1,0 +1,23 @@
+,0,1,2,3,4,5
+0,Tissue type,Tumour or host,Notable growth,Potential dietary,Potential pharmacologic,Preclinica
+1,,biomarkers,substrates,interventions,partners,evidenc
+2,Breast,PIK3CA mutation,Glucose,VLCD or FMD,PI3K-mTOR pathway or ER inhibitor,"12,13,69,71,73,8"
+3,,Triple-negative,Glucose or fatty acids,LFD or FMD,CDK4/6 or EGFR inhibitor,"80,173,22"
+4,,PHGDH elevation,Serine,Serine and,PHGDH inhibitor,
+5,,,,glycine-depleted diet,,
+6,Endometrial,PI3K-mTOR pathway,Glucose,VLCD,PI3K-mTOR pathway inhibitor,"6,12,86,8"
+7,,activation,,,,
+8,Prostate,MYC pathway activation,Fructose or fatty acids,"LFD,calorie restriction",DNL pathway inhibitor,"88-92,22"
+9,,,,orFMD,,
+10,Lunga,KRAS mutation,"BCAAs,ketones,fructose",Unknown,Immunotherapy or chemotherapy,"37,102,106,22"
+11,,,orlactate,,,
+12,Pancreasa,KRAS mutation,Fatty acids,Calorie restriction,SCD inhibitoror chemotherapy,"108,11"
+13,,,,or VLCD with high,,
+14,,,,saturated fatty acids,,
+15,Intestine,WNT pathway activation,Glucose or fatty acids,LFD,DNL inhibitors or chemotherapy,"119,123,13"
+16,,SLC2A5 or KHK,Glucose or fructoseb,Low-sugar diet,"KHK inhibitors,DNL inhibitors","122,12"
+17,,elevation,,,or chemotherapy,
+18,Liver,Microbiome alterations,"Fructose,fatty acids or",LFD,DNL pathway inhibitor,"116,126-128,130-13"
+19,,,short-chain fatty acids,,,
+20,Brain,IDH mutation,"Glutamine,serine or",VLCDor serine and,PI3K-mTOR pathway or PHGDH,"55,58,59,61,223,22"
+21,,,acetate,glycine-depleted diet,inhibitor,

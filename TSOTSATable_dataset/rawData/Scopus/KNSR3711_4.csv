@@ -1,0 +1,60 @@
+,0,1,2,3,4,5
+0,Sponsor,Cancer type,Identifier,Drug administration,Phase Status,Phase Status
+1,,Pancreatic cancer,NCT00664482 Autologous DCs EP with tumor total RNA,NCT00664482 Autologous DCs EP with tumor total RNA,NA,Completed
+2,BioNTech,Melanoma,NCT01684241 Naked RNA encoding TAAs,NCT01684241 Naked RNA encoding TAAs,,Completed
+3,,,NCT02035956 Personalized poly-epitopic RNA-based vaccine I,NCT02035956 Personalized poly-epitopic RNA-based vaccine I,,Completed
+4,,,"NCT02410733 Lipo-MERIT, encoding for 4 melanoma","NCT02410733 Lipo-MERIT, encoding for 4 melanoma",,"Active,not"
+5,,,,associated non-mutated antigens,,recruiting
+6,,,"NCT04526899 RNA-LPX with NY-ESO-1, MAGE-A3, tyrosinase, II","NCT04526899 RNA-LPX with NY-ESO-1, MAGE-A3, tyrosinase, II",,Recruiting
+7,,,,and TPTE +/- cemiplimab,,
+8,,Breast cancer,"NCT02316457 RNA-LPX with TNBC TAAs,p53,and neo-Ags","NCT02316457 RNA-LPX with TNBC TAAs,p53,and neo-Ags",,"Active,not"
+9,,,,,,recruiting
+10,,Prostate cancer,NCT04382898 RNA-LPX with prostate TAAs +/- cemiplimab,NCT04382898 RNA-LPX with prostate TAAs +/- cemiplimab,I/II,Recruiting
+11,CureVac,Prostate cancer,NCT02140138 CV9104 with or without needle-free,NCT02140138 CV9104 with or without needle-free,II,Terminated
+12,,,,injection device,,
+13,,,NCT00831467 RNActive TAAs mRNA CV9103,NCT00831467 RNActive TAAs mRNA CV9103,1/II,Completed
+14,,,NCT01817738 RNActive TAAs mRNA CV9104,NCT01817738 RNActive TAAs mRNA CV9104,I/II,Terminated
+15,,NSCLC,NCT00923312 RNActive TAAs mRNA CV9201,NCT00923312 RNActive TAAs mRNA CV9201,1/1I,Completed
+16,,,NCT01915524 RNActive TAAs mRNA CV9202+local radiation I,NCT01915524 RNActive TAAs mRNA CV9202+local radiation I,,Terminated
+17,Guangdong 999,Glioblastoma,NCT02808364 Autologous DCloaded with TAA mRNA,NCT02808364 Autologous DCloaded with TAA mRNA,I/II,Unknown
+18,Brain Hospital,,NCT02709616 Autologous DC Ioaded with TAA mRNA,NCT02709616 Autologous DC Ioaded with TAA mRNA,I/II,Unknown
+19,,Brain cancer,NCT02808416 Personalized cellular vaccine,NCT02808416 Personalized cellular vaccine,,Unknown
+20,Herlev Hospital,"Breast cancer, melanoma","NCT00978913 DCs transfected with hTERT, survivin, and p53 I","NCT00978913 DCs transfected with hTERT, survivin, and p53 I",,Completed
+21,,Prostate cancer,"NCT01446731 DCs transfected with PSA, PAP, survivin,and","NCT01446731 DCs transfected with PSA, PAP, survivin,and",II,Completed
+22,,,,hTERT mRNA+docetaxel,,
+23,Life Research,Ovarian cancer,NCT01456065 DCs loaded with TERT-mRNA and survivin-,NCT01456065 DCs loaded with TERT-mRNA and survivin-,,Unknown
+24,Technologies,,,peptide,,
+25,Ludwig-Maximilian-,AML,"NCT01734304 DCs EP with mRNA encoding WT1,PRAME,","NCT01734304 DCs EP with mRNA encoding WT1,PRAME,",I/II,Completed
+26,University of Munich,,,and CMVpp65,,
+27,MD Anderson,AML,NCT00514189 Autologous DCs loaded with AML lysate,NCT00514189 Autologous DCs loaded with AML lysate,1,Terminated
+28,Cancer center,,,and mRNA,,
+29,Memorial Sloan,Melanoma,NCT01456104 Autologous LCs EP with mRNA encoding TAA I,NCT01456104 Autologous LCs EP with mRNA encoding TAA I,,"Active,"
+30,Kettering,,,,,notrecruiting
+31,Cancer Center,Multiple myeloma,"NCT01995708 CT7,MAGE-A3,and WT1mRNA-EP LCs","NCT01995708 CT7,MAGE-A3,and WT1mRNA-EP LCs",1,"Active,"
+32,,,,,,notrecruiting
+33,Universitair,Melanoma,NCT01066390 DCs EP with TAA and TriMix mRNA,NCT01066390 DCs EP with TAA and TriMix mRNA,1,Completed
+34,Ziekenhuis Brussel,,NCT01302496 DCs EP with TAA and TriMix mRNA +,NCT01302496 DCs EP with TAA and TriMix mRNA +,,Completed
+35,,,,ipilimumab,,
+36,,,NCT01676779 DC EP with TAA and TriMix mRNA,NCT01676779 DC EP with TAA and TriMix mRNA,II,Completed
+37,University Hospital,Melanoma,NCT01983748 Autologous DCs Ioaded with tumor mRNA,NCT01983748 Autologous DCs Ioaded with tumor mRNA,,Recruiting
+38,University Hospital,Melanoma,NCT00204516 mRNA encoding autologous melanoma,NCT00204516 mRNA encoding autologous melanoma,I/I,Completed
+39,Tubingen,,,associated antigens+GM-CSF,,
+40,,,"NCT00204607 mRNA encoding MART-1, tyrosinase, gp100,","NCT00204607 mRNA encoding MART-1, tyrosinase, gp100,",1/II,Completed
+41,,,,"MAGEA1, MAGE-A3 and survivin+GM-CSF",,
+42,,Recurrent prostate cancer,NCT02452307 Peptide vaccine + montanide ISA-51+/-GM-,NCT02452307 Peptide vaccine + montanide ISA-51+/-GM-,I/II,Unknown
+43,,,,CSF+/- imiquimod +/- mRNA/protamin,,
+44,University of,"AML, myelodysplastic syndromes",NCT03083054 Autologous DCs EP with WT1 mRNA,NCT03083054 Autologous DCs EP with WT1 mRNA,1/1I,"Active, not"
+45,Campinas,,,,,recruiting
+46,University of Florida,Prostate cancer,NCT00906243 CV9103 encoding 4 prostate specific antigens I/II,NCT00906243 CV9103 encoding 4 prostate specific antigens I/II,,Terminated
+47,,"Glioblastoma, Malignant Glioma",NCT02465268 pp65-shLAMP mRNA DCs+GM-CSF,NCT02465268 pp65-shLAMP mRNA DCs+GM-CSF,11,Recruiting
+48,,Metastatic Prostate Cancer,NCT01153113 hTERT mRNA transfected DCs,NCT01153113 hTERT mRNA transfected DCs,1/II,Withdrawn
+49,Ludwig Institute for,Metastatic NSCLC,NCT03164772 RNActive TAAs mRNA CV9202+durvalumab,NCT03164772 RNActive TAAs mRNA CV9202+durvalumab,1/II,Completed
+50,Cancer Research,,,+/-tremelimumab,,
+51,Stemirna,"Esophageal Cancer, NSCLC",NCT03908671 Personalized mRNA vaccine encoding neoAg,NCT03908671 Personalized mRNA vaccine encoding neoAg,NA,recruiting
+52,Therapeutics,,,,,recruiting
+53,Hospital Affiliated to,Esophagus Cancer,NCT02693236 Adenovirus-transfected autologous DCs+,NCT02693236 Adenovirus-transfected autologous DCs+,1/11,Unknown
+54,the Academy of,,,CIK cells,,
+55,Sciences,NSCLC with bone metastases,"NCT02688686 SOCS1, MUC1 and survivin mRNA-loaded DCs I/II","NCT02688686 SOCS1, MUC1 and survivin mRNA-loaded DCs I/II",,Unknown
+56,Sciences,,,+ cytokine-induced killer,,
+57,University Medical,Ovarian Cancer,NCT04163094 RNA-LPX with ovarian TAAs + carboplatin/,NCT04163094 RNA-LPX with ovarian TAAs + carboplatin/,,Recruiting
+58,Center Groningen,,,paclitaxel,,

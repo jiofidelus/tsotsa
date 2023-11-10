@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,Matrix,Extracting solvent,TC,"Energy (W,",Other operation,Target compounds,,,Chemical structure of main compounds,Chemical structure of main compounds,,Extraction recovery/,Antioxidant capacity,Reference
+1,,,,kHz),parameters,,,,,,,yield,(method),
+2,Red grape skins,Water,25,400W,1.5 g/9 mL;,Anthocyanins,Malvidin 3-caffeoylglucoside,Malvidin 3-caffeoylglucoside,Malvidin 3-caffeoylglucoside,Malvidin 3-caffeoylglucoside,,~107.5%,n.d,"Liazid et al.,2014"
+3,,,,,,,,,,OCH,,TAC: 722.6 mg/L,,
+4,,,,,,,,,,,OH,,,
+5,,,,,,,,OH,,,,,,
+6,,,,,,,,,,F,,,,
+7,,,,,,,7.9 mg/L,7.9 mg/L,,,,,,
+8,Cocoa shells,Hexane/ethanol/,40,150W,1:10 (sample/,"Flavanols: catechins,",Catechin,,,,,n.d,76.9 3 g/mL ECso,"Grillo et al.,2019"
+9,,water30:49:21,,,"solvent ratio,w/v;epicatechins and","solvent ratio,w/v;epicatechins and",,,,,,,(DPPH),
+10,,(v/v),,,15 min,proanthocyanidins,,OH,,,,TPC:51.1 mg GAE/g,,
+11,,,,,,,,,,,,,204.7  9.6 molTE/g,
+12,,,,,,,,,,,OH,,(DPPH),
+13,,,,,,,,,,,OH,,,
+14,,,,,,,n.d,,,,,,,
+15,Purple sweet,Acidified 90%,50,200 W,"2 cycles, 15-min c/ Anthocyanins","2 cycles, 15-min c/ Anthocyanins",Pn-3-caffeoyl-p-hydroxybenzoyl soph-,,Pn-3-caffeoyl-p-hydroxybenzoyl soph-,Pn-3-caffeoyl-p-hydroxybenzoyl soph-,,~80.58%,"1036.94110.80 mg TE/Cai et al., 2016","1036.94110.80 mg TE/Cai et al., 2016"
+16,potato peels,ethanol,,,u,,5-glc,,,,,,100 g(ORAC),
+17,,,,,,,,,,,,GAE/100 g,,
+18,,,,,,,,,,,,GAE/100 g,1303.14  1.2 mg TE/,
+19,,,,,,,,,,"R,=CH",,,100 g(FRAP,
+20,,,,,,,n.d,,OALOH,,,,,
+21,Apple pomace,Ethanol:water,40.1,150 W,sample/solvent,Flavan-3-ols; flavonols;,n.d,,,,,~1.25 higher vs.,n.d,"Virot et al.,2010"
+22,,50:50 (v/v),,,ratio< 15% (w/v); phenolic acids,ratio< 15% (w/v); phenolic acids,,,,,,conventional,,
+23,,,,,45 min,,,,,,,extraction,,
+24,,,,,,,,,,,,TPC: 964 mg CE/100 g,,
+25,Red beet roots,Water,,90 W,1:20 sample:,Betaxanthins and,n.d,,,,,4 higher vs.,n.d,"Nutter et al.,2021"
+26,,,,,solvent ratio; 16,betacyanins,,,,,,conventional,,
+27,,,,,min,,,,,,,extraction,,
+28,,,,,,,,,,,,0.1,,

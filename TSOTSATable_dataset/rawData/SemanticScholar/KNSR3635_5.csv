@@ -1,0 +1,18 @@
+,0,1,2,3,4
+0,,,,Required intake (g) to meet RNI,Required intake (g) to meet RNI
+1,,RN(31) (g/d),UK(Ref.18-412,USA(Ref.05661,AustraliaRef.08D10161
+2,(a) Vitamin A,,,,
+3,Child(1-3 years),400,3.8,10.1,3.1
+4,Female15-50 years,600,5.7,15.1,4.6
+5,Pregnant female(15-50 years),700,6.7,17.6,5.4
+6,Breast-feeding female(15-50 years,950,9.1,23.9,7.3
+7,b) Vitamin B12,,,,
+8,Child (1-3 years),0.5,1.1,2.4,2.9
+9,Female(15-50 years),1.5,3.3,7.1,
+10,Pregnant female(15-50 years),1.5,3.3,7.1,8.8
+11,Breast-feeding female(15-50 years),2.0,4.4,9.5,11.8
+12,(c) Folate,,,,
+13,Child 1-3 years,70,5.2,12.1,4.6
+14,Female (15-50 years),200,14.8,34.6,13.1
+15,Pregnant female (15-50 years),300,22.2,51.9,19.6
+16,Breast-feeding female(15-50 years),260,19.3,45.0,17.0

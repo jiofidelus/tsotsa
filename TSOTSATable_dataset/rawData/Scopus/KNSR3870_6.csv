@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6,7
+0,Storage Period,,Crunchiness,,Off-Flavor,,Off-odor,Acceptability
+1,,,,,,ANOVA,,
+2,Source,df,,F-ratio,F-ratio,,F-ratio,F-ratio
+3,Period (P),3,,116 ***,131 ***,,184 ***,239 ***
+4,Treatment (T),2,,0.72 ns,0.27 ns,,0.99 ns,0.91 ns
+5,PT,6,,394 ***,0.17 ns,,14.3 ***,113 ***
+6,PT,6,,0.12 ns,0.17 ns,,1.08 ns,0.64 ns
+7,P x F,6,,24.3 ***,6.00 ***,,3.52 **,16.2 ***
+8,TF,4,,0.24 ns,0.56 ns,,0.77 ns,0.21 ns
+9,PxTF,12,,0.65 ns,1.19 ns,,0.86 ns,0.80 ns

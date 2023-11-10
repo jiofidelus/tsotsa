@@ -1,0 +1,40 @@
+,0,1,2,3,4
+0,Application,Objective,Category in the industry,Important outcomes,References
+1,Banana,To identify the banana disease and methods to,Raw material/agriculture,(i) The system was able to diagnose the diseases,Budiyanto et al. [133]
+2,,overcome them,,"in the plants based on the stems,leaves, and",
+3,,,,roots which assists in preventing from the,
+4,,,,diseases happening,
+5,Barley,To classify the barley grains,Quality control,(i The classification accuracy by using the ES,Szturo & Szczypinski [40]
+6,,,,method was above 72% which was considered,
+7,,,,satisfactory,
+8,Coffee,To determine the appropriate process on the dry,Production/quality control,(i) ES was able to select the correct production,Hernandez-Vera et al. [134]
+9,,mill,,process for a specific coffee with an accuracy,
+10,,,,of 93%,
+11,Coffee beans,To identify the quality grading of the coffee beans Sensory evaluation,To identify the quality grading of the coffee beans Sensory evaluation,"(i) The developed fuzzy ES, namely, AI Cupper,",Livio & Hodhod [135]
+12,,,,was able to grade the coffee with an accuracy,
+13,,,,of 95%,
+14,Corn,To detect the corn pests and diseases,Agriculture/raw material,(i) The system was able to detect the pests and,Sumaryanti et al.[136]
+15,,,,disease with an accuracy of 76.6% and also,
+16,,,,provide ways to control them,
+17,,,,(ii) The developed system was able to provide,
+18,,,,facility explanation regarding the diagnosis,
+19,,,,results,
+20,Food additives,To identify the halal safety rating for food addi-,Food dafety,(i) The developed Halal Food Additive using ES,Zakaria et al. [137]
+21,,tives,,provides the consumers with safety rating key,
+22,,,,according to their past food consumption record,
+23,,,,experience,
+24,,,,(ii) It provides consumers in finding nutritional,
+25,,,,foods and at the same time fulfilling the,
+26,,,,Halalan-Toyyiban criteria,
+27,Food products,To monitor and forecast the product quality in theProduction/food quality,To monitor and forecast the product quality in theProduction/food quality,(i) An intelligent ES was developed which is able,Blagoveshchenskiy et al.
+28,,production process,,to monitor the product quality indicators and,[138]
+29,,,,make changes to the existing methods; recom-,
+30,,,,mendations for the products and the defects for,
+31,,,,the final product can be identified by this system,
+32,Fresh food,To optimize the distribution networks of the freshSustainability,To optimize the distribution networks of the freshSustainability,"(i) The proposed expert system, Food Distribu-",Bortolini et al. [139]
+33,,foods,,"tion Planner, was able to develop the most",
+34,,,,effective distribution method which reduces the,
+35,,,,"emission of carbon dioxide by 9.6%,increase of",
+36,,,,"2.7% in operating cost, and no waste produced",
+37,,,,during the delivery time due to the preservation,
+38,,,,method utilized during the shipment,

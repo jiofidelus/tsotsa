@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Methodology,Assay,,Detection,Analytical features,Analytical features,,,Food Sample,,Ref
+1,Platform,Format,Time,"Technique,",CV,Stability,Conc. Range,LOD,Type,Recovery,
+2,,,,Label,(%),,,,,,
+3,Immunosensor,Sandwich,2h50,"LSV,",<5%,30 days,2.5-20 ng,0.47,"Shrimp, shrimp sauce, Asian",90-105%,This work
+4,Bare SPCE,,min,4.0104M,,,mL-1,ng,"gourmet chips, prawn crackers,",,
+5,,,,silver,,,&,mL-1,"crab paste, mussel, shrimp",,
+6,,,,,,,30-200 ng,,"noodles, seafood sticks, meat,",,
+7,,,,,,,mL-1,,"anchovies,chicken paste,hake",,
+8,Immunosensor,Label-,30,"EIS,",<5%,,0.5-0.25g,0.15,Fresh brown shrimp,,"(Jiang et al.,"
+9,(AuNPs/Cys/,free,min,2.5mM [Fe,,,mL-1,ug,,,2013)
+10,GE),,,CN)6]3-/4,,,,mL-1,,,
+11,Immunoassay,Sandwich,3h,"Amperometry,",,,0.05218.7,47 pg,"Shrimp, pork, chicken, beef,",,(Angulo-
+12,(MBs/SPCE),,,1 mM HQ,,,ng mL-1,mLi,crab sticks,,"Ibanez et al.,"
+13,,,,,,,,,,,2019
+14,Immunosensor,Label-,20,"DPV,",<4%,6 days,0.01-100 pg,0.01,Shrimp-free cream cracker,87-117%,(Mohamad
+15,(SPCM/,free,min,5 mM[Fe,,,mL-1,pg,,,"et al.,2020"
+16,AuMRs/,,,CN]3-/4,,,,mL-1,,,
+17,PdNPs/,,,,,,,,,,
+18,PANI),,,,,,,,,,
+19,ELISA,Sandwich,<2h,Spectrometry,,,0.3-15 ng,0.75,"Soy sauce,tuna and sweet corn",41-143 %,"(Fuller et al.,"
+20,(Microtitre,,,vis),,,mL-1,ng,"spread,pilau rice,vegetable",(cooked),2006)
+21,plate),,,TMB,,,,mL-1,"balti, quiche, thai crackers",74-140 %,
+22,,,,,,,,,"ocean pie,lemon and dill sauce",(raw),
+23,ELISA,Sandwich,>3h,Spectrometry,<9%,,0.125-2.0,0.030,Shrimp,,Lin et al.
+24,(Microtitre,,,(vis),,,ng mL-1,ng,,,2018
+25,plate),,,HRP,,,,mL-1,,,
+26,ELISA,Sandwich,>2h,Spectrometry,,,0.6-50 ng,0.004,"Sausage, cookies, fish sauce",68-87%,Zhao et al.
+27,(Microtitre,,,(vis),6.1%,,mL-1,mg,,,2022)
+28,plate),,,TMB,,,,kg-1,,,

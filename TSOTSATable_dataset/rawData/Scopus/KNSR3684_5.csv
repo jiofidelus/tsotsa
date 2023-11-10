@@ -1,0 +1,27 @@
+,0,1,2,3
+0,Pink III-IV Up-Regulated,p-Value,"phosphotransferase activity,nitrogenous groups",<0.001
+1,RNA binding,<0.001,small molecule sensor activity,<0.001
+2,nucleic acid binding,<0.001,"transferase activity, transferring",<0.001
+3,nucleic acid binding,<0.001,phosphorous groups,<0.001
+4,organic cyclic compound binding,<0.001,ADP binding,0.003
+5,heterocyclic compound binding,<0.001,GTPase activator activity,0.004
+6,binding,0.003,enzyme activator activity,0.004
+7,"catalytic activity,acting on RNA",0.004,GTPase regulator activity,0.006
+8,DNA-directed 5'-3' RNA polymerase activity,0.017,nucleoside-triphosphatase regulator activity,0.006
+9,endoribonuclease activity,0.017,molecular function regulator,0.006
+10,ribonuclease activity,0.017,enzyme regulator activity,0.008
+11,5'-phosphomonoesthers,0.017,phospholipid binding,0.010
+12,5'-3' RNA polymerase activity,0.017,phosphatidylinositol binding,0.010
+13,3'-tRNA processing endoribonuclease activity,0.017,protein dimerization activity,0.012
+14,RNA polymerase activity,0.017,protein binding,0.013
+15,dezoxyribo-nucleic acid,0.033,cytoskeletal protein binding,0.019
+16,endonuclease activity,0.050,adenyl nucleotide binding,0.039
+17,N-methyltransferase activity,0.050,adenyl ribonucleotide binding,0.039
+18,arginine N-methyltransferase activity,0.050,zinc ion binding,0.044
+19,protein-arginine N-methyltransferase activity,0.050,transition metal ion binding,0.044
+20,Yellow III-IV Down-Regulated,p-Value,Yellow I-II Up-Regulated,p-Value
+21,FMN binding,0.006,aspartic-type endopeptidase activity,0.009
+22,"hydrolase activity, acting on ether bonds",0.064,aspartic-type peptidase activity,0.009
+23,,,"transferase activity, transferring acyl groups",0.022
+24,,,endopeptidase activity,0.027
+25,,,peptidase activity,0.048

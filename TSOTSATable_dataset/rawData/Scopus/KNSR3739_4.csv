@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Protein,Gene,Subcellular,Tissue Expression,Phenotypes of KO or Mutant,Diseases Associated
+1,Protein,Gene,Localization,Tissue Expression,Animals,with Mutations
+2,,,Plasma membrane,,KO:embryonic lethal[139,
+3,ZnT1,SLC30A1,(basal pole of,Ubiquitous [138],Heterozygous KO: Higher,
+4,ZnT1,SLC30A1,enterocytes) [137],Ubiquitous [138],sensitivity to maternal Zn deficiency,
+5,,,enterocytes) [137],,[139],
+6,,,,"Human: pancreas [141],",KO:Electrophysiological,
+7,,,Endosome and,"mammary gland [142], prostate",abnormalities of mossy fiber,Transient Infantile
+8,ZnT2,SLC30A2,lysosome [140],intestine [138],synapses onto CA3 pyramidal,(TIZD) [147]
+9,,,,Rat: enterocytes [145],neurons [146],

@@ -1,0 +1,77 @@
+,0,1,2,3,4,5,6
+0,Varieties,Main components (%),Extraction method,Characterization or,Identified,,Ref.
+1,(Stages),,,analysis methods (s),Num.,%,
+2,Luteus,"-Ionone40.32,-Linalool27.71,-Linalool(9.53),Dihydro--ionone",HS-SPME,GC-MS,14,98.78,"Deng et al.,"
+3,,"6.78), trans-Linalool oxide (1.72), cis-Linalool oxide (3.67),-Ionone",,,,,2004
+4,,"(4.24), -Decalactone (3.63)",,,,,
+5,Albus,"-Linalool(39.46), -Ionone (28.32), trans-Linalool oxide (7.11), cis-",HS-SPME,GC-MS,14,97.52,
+6,,"Linalool oxide (9.63), -Ionone (4.61), Capraldehyde(2.54), 2,2-Dihydro-",,,,,
+7,,-ionone (2.32,,,,,
+8,Luteus,"Linalool oxide (29.81), 4-(2,6,6-Trimethyl-cyclohex-1-enyl)-butan-2-ol",SteamDistillation,GCMS,51,94.67,"Hu et al.,"
+9,,"(18.73), (E)-Furan linalool oxide (16.78), Hexadecanoic acid (3.88),",,,,,2009
+10,,"Nonanal1.24),-Linalool(3.17,Tetradecanal1.29)",,,,,
+11,Aurantiacus,"Nonanal13.11,Linalool oxide 12.71,Octadecanal8.59),E-Furan",SteamDistillation,GCMS,45,92.28,
+12,,"linalool oxide (6.66), -Linalool (5.85), Tetrahydroionone (4.15),",,,,,
+13,Albus,"-Ionone (38.53),Linalool(26.65),-Ionone(9.43),2H--Ionone8.37)",SPME,GCMS,15,95.46,Fu et al.
+14,,"trans-Linalool oxide (4.64), cis-Linalool oxide (3.21), -Decalactone",,,,,2019
+15,,1.65,,,,,
+16,Luteus,"-Ionone (36.3) Linalool (33.35,-Ionone (8.52), trans-Linalool oxide",SPME,GCMS,13,92.56,
+17,,"5.07),cis-Linalool oxide 3.94),2H--Ionone 2)",,,,,
+18,Aurantiacus,"Z-Ocimene 31.17,Linalool24.6),-Ionone 16.26),y-Decalactone",SPME,GCMS,20,97.4,
+19,,"(8.07), trans-Linalool oxide (4.62), cis-Linalool oxide (2.77), -Ionone",,,,,
+20,,"3.53),2H--Ionone(2.12",,,,,
+21,Asiaticus,"-Ionone (28.03), Linalool(13.8), trans-2H--Ionone (16.7), Linalool",SPME,GC-MS,20,91.28,
+22,,"oxide (4.62),(Z)-3-Hexen-1-ol, acetate (3.24), cis-Linalool oxide (2.46),",,,,,
+23,,y-Decalactone(1.85,,,,,
+24,Xiangyan stage,"24H)-Benzofuranone,5,6,7,7A-tetrahydro-4,4,7A-trimethyl-29.73",HS-SPME,GCMS,24,93.89,"Wang et al.,"
+25,,"9,12,15-Octadecatrienoic acid14.5,-Ionone 11.67,4-Hydroxy-",,,,,2009
+26,,"-ionone(8.14,-Decalactone(6.79,-Ionone5.95,Hexadecanoic",,,,,
+27,,acid (3.99),,,,,
+28,Initial,"-Ionone 19.51,9,12,15-Octadecatrienoic acid16.93,Hexadecanoic",HS-SPME,GCMS,26,97.27,
+29,flowering,"acid(12.63,y-Decalactone 8.09),4-Hydroxy--ionone (8.14,cis-",,,,,
+30,,"Linalool oxide (pyran(3.61,-Ionone (3.26,trans-Linalool oxide",,,,,
+31,,(furan)2.02),,,,,
+32,Full flowering,"trans-Linalool oxide (12.35),9,12,15-Octadecatrienoic acid (7.28),",HS-SPME,GCMS,27,76.59,
+33,,"Hexadecanoic acid7.21,cis-Linalool oxide 4.62,-Ionone (4.03,4-",,,,,
+34,,"Hydroxy--ionone 2.74),y-Octadecanal(2.03),Decalactone 1.16),",,,,,
+35,Final flowering,"Hexadecanoic acid (15.09,trans-Linalool oxide 4.03),cis-Linalool oxide",HS-SPME,GCMS,22,95.25,
+36,,"6.21),9,12,15-Octadecatrienoic acid (5.56),4-Hydroxy--ionone 4.25",,,,,
+37,,Octadecanal (3.37),,,,,
+38,,"-Decalactone (13.3), (E)--Ionone (11.7), 4-Methoxyphenethyl alcohol",Solvent extraction,GCMS,36,94.6,"Lei et al.,"
+39,,"9.9),Octadecanoic acid (8.4), -Terpineol (5),4-Oxo-7,8-dihydro",,,,,2016
+40,,"-ionol (4.1), Linalool oxide (3.7), 4-Hydroxyphenethyl alcohol (3.6),",,,,,
+41,,"Dihydro--ionone (3.2, Nonanal (1.5, Linalool (1.2)",,,,,
+42,Luteus,"Ethyl acetate16.69,y-Decalactone17.71,-Ionone12.9,Linalool",SDE,GCMS,20,93.78,"Hu et al.,"
+43,,"oxide (8.39), 2H-Pyran-3-ol, 6-ethenyltetrahydro-2,2,6-trimethyl- (6.98)",,,,,2012
+44,,"1,6-Octadien-3-ol,3,7-dimethyl-(6.62),Hexanoic acid 5.87),Heptanoic",,,,,
+45,,acid (3.87,,,,,
+46,Latifolius,"-Decalactone12.92,-lonone 10.75,Linalool oxide 8.2,1,6-Octa-",SDE,GCMS,20,96.12,
+47,,"dien-3-ol, 3,7-dimethyl-(7.17), 2H-Pyran-3-ol, 6-ethenyltetrahydro-",,,,,
+48,,"2,2,6-trimethyl (6.42), Ethyl acetate (3.44)",,,,,
+49,Aurantiacus,"y-Decalactone (30.1,H-Pyran-3-ol,6-ethenyltetrahydro-2,2,6-trimethyl-",SDE,GCMS,24,88.04,
+50,,"14.25), Linalool oxide (5.91), Ethyl acetate (2.88), 1,6-Octadien-3-ol,",,,,,
+51,,"3,7-dimethyl-(1.9)",,,,,
+52,Sempeiflorens,"-Decalactone (19.94),-lonone (16.98),1,6-Octadien-3-ol,3,7-",SDE,GCMS,27,83.3,
+53,,"dimethyl-(3.52), Ethyl acetate (3.36), Linalool oxide (1.61), 2H-Pyran-3",,,,,
+54,,"ol,6-ethenyltetrahydro-2,2,6-trimethyl-(1.89)",,,,,
+55,Albus,"-Ionone (36.31), Fucosterol(14.39), trans-Linalool oxide (14.74),",Steam distillation,GCMS,13,91.74,"Wang,"
+56,,"Dihydro--ionone (8.95), cis-Linalool oxide (5.80), Stigmasterol (2.46),",,,,,2009
+57,,-Ionone(1.51,,,,,
+58,Albus,"-Ionone26.05,trans-Linalool oxide21.17,cis-Linalool oxide10.44",Solvent extraction,GC-MS,21,92.35,
+59,,"-Linolenic acid (8.31), Dihydro--ionone (3.33), Stigmasterol (3.52),",,,,,
+60,Albus,"trans-Linalool oxide (0.99),cis-Linalool oxide (0.37),-Ionone (0.30",Enzymatic,GCMS,20,99.72,
+61,,"-Ionone8.61),Dihydro--ionone(1.38,Hexadecanoic acid(12.94,",hydrolysis,,,,
+62,,"Fucosterol(5.44), Stigmasterol (0.46)",,,,,
+63,Albus,"trans-Linalool oxide (0.38), cis-Linalool oxide (0.14),-Ionone (1.36)",Supercritical carbon,GCMS,29,97.39,
+64,,"-Ionone (7.38), Dihydro--ionone (1.15),-Decalactone (3.61),",dioxide,,,,
+65,,"Hexadecanoic acid (6.48), -Linolenic acid (18.28),Fucosterol (2.61),",,,,,
+66,,Stigmasterol (9.54),,,,,
+67,Luteus,"-Ionone (80.75)Dihydro--ionone (9.41), 1,6-Octadien-3-ol, 3,7-",Steam distillation,GCMS,15,98.79,Sun2011
+68,,dimethyl-(2.12),,,,,
+69,Albus,"-Ionone (75.81), Dihydro--ionone (9.44), 1,6-Octadien-3-ol, 3,7-",Steam distillation,GC-MS,14,96.63,
+70,,"dimethyl-(4.68),",,,,,
+71,Aurantiacus,"-Decalactone (28.66), 1,6-Octadien-3-ol, 3,7-dimethyl- (21.34),",Steam distillation,GC-MS,19,96.48,
+72,,"-Ionone (7.39),Nonanal (3.19)",,,,,
+73,Luteus,"-Ionone13.2,Linalool8.7,Dihydro--ionone8),Geraniol7.1",Solvent extraction,GCMS,49,76.8,WenYu
+74,,"trans-Linalool oxide (7), cis-Linalool oxide (5.6), -Decalactone (4.7),",,,,,"Wang,"
+75,,-Ionone2.3Benzylethanol(2.2,,,,,1983

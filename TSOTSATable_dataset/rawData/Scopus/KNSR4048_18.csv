@@ -1,0 +1,42 @@
+,0,1,2,3,4
+0,Application,Objectives,AI technique,Important outcomes,References
+1,Coffee beans,To develop a system that can classify the coffee,ANN,i Green coffee beans were able to be analyzed and,De Oliveira et al. [108]
+2,,beans,,classified by using the developed system,
+3,,,,(ii) ANN were used in this system as a color space,
+4,,,,transformation model where the transformed value,
+5,,,,was later used for the classification purposes,
+6,Dry beans,To classify different types of seed from the produc-,"ANN, KNN, DT, SVM",i The classification of the beans was able to be,Koklu & Ozkan [239]
+7,,tion,,done by all the ML algorithms with SVM which,
+8,,,,achieved the highest overall classification rates,
+9,,,,"of 93.13% followed by the DT,ANN,and KNN",
+10,,,,"where the classification rates were 92.52%,",
+11,,,,"91.73%, and 87.92%, respectively",
+12,Eggs,To predict the volume of eggs,ANN,(i) The volume of the eggs was predicted by a,Siswantoro et al. [240]
+13,,,,developed system with a good linear coefficient,
+14,,,,of 0.9738 with the actual volume and relative,
+15,,,,absolute error of 2.2078% which indicates that the,
+16,,,,developed system is an efficient model,
+17,Figs,To classify fig fruits based on its visual features,Decision tree-FL,i Comparison was carried out between three dif-,Khodaei & Behroozi-khazaei [241]
+18,,,,ferent types of decision tree for the data obtained,
+19,,,,"from CVS,and it was shown the REP decision",
+20,,,,tree had the highest value of R and lower RMSE,
+21,,,,values and hence was selected to be implemented,
+22,,,,in the fuzzy system,
+23,,,,(ii The developed system was able to classify the,
+24,,,,fig fruits into five qualitative grades with a high,
+25,,,,accuracy,
+26,Fish,To identify the freshness of the fish,"ANN, PCA",(i) The developed system was able to classify the,Huang et al. [242]
+27,,,,freshness of fish with a success rate of 94.17% in,
+28,,,,the training set and 90.00% in the prediction set,
+29,,Gluten-free cakeTo develop a system for quality control of celiac-,FL,(i) The developed system was able to study the tex-,Rezagholi & Hesarinejad [243]
+30,,friendly products,,ture of the cake when different amounts of materi,
+31,,,,"als were added to it, and the optimal ingredients",
+32,,,,value suitable for the gluten-free cake were able to,
+33,,,,be determined,
+34,Lime,To predict the weight of Indian lime fruits,ANFIS,(i) Different clustering methods were fused with,Phate et al. [244]
+35,,,,the ANFIS model to improve the accuracy in the,
+36,,,,"classification system, and it was found that the",
+37,,,,fuzzy C-means clustering (FCM) was the best in,
+38,,,,predicting the weight of the sweet lime,
+39,,,,(ii) The developed system was able to predict the,
+40,,,,weight of the Indian sweet lime fruits accurately,

@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Age Group,,,Men,,,,,,Women,,
+1,,%EI,p25,,Median,,p75,%EI,p25,Median,Median,p75
+2,,,,,,Total fat,,,,,,
+3,18+ years,42.3,80,,99,,121,42.9,57,,70,85
+4,1864 years,42.1,86,,105,,126,42.5,61,,73,88
+5,65+ years,43.3,65,,80,,98,43.3,49,,60,72
+6,,,,,"Saturated fatty acids,SFA","Saturated fatty acids,SFA","Saturated fatty acids,SFA",,,,,
+7,18+years,13.1,24,,31,,38,13.5,18,,23,28
+8,18-64 years,13.1,26,,33,,40,13.4,18,,24,29
+9,65+ years,12.5,19,,24,,29,13.1,15,,19,23
+10,,,,"Monounsaturated fatty acids, MUFA",,"Monounsaturated fatty acids, MUFA",,,,,,
+11,18+ years,20.3,38,,47,,58,20.6,26,,33,40
+12,18-64 years,20.1,41,,50,,60,20.1,28,,34,41
+13,65+ years,21.9,32,,40,,49,21.3,23,,29,36
+14,,,,"Polyunsaturated fatty acids,PUFA",,"Polyunsaturated fatty acids,PUFA",,,,,,
+15,18+ years,5.7,10,,13,,17,5.9,7,,9,12
+16,1864 years,5.8,11,,14,,18,6.1,7,,10,12
+17,65+ years,5.7,8,,11,,13,5.5,6,,8,10
+18,,,,,,Alcohol,,,,,,
+19,18+ years,5.4,3,,10,,23,1.8,0.6,,2,5
+20,1864 years,5.7,3,,10,,25,2.2,0.9,,3,6
+21,65+ years,4.5,2,,8,,18,1.1,0.3,,0.9,3

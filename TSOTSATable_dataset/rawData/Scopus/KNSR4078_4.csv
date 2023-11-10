@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6
+0,,,"Cases,n",KC,,,Pinteraction
+1,,,,HRl (95%CI),HR (95%CI),HR(95%CI),
+2,,,,Residential sun exposure,,,
+3,,,,Tertile 1,Tertile 2,Tertile 3,
+4,N,,,"20,679","21,296","21,819",
+5,,Residential sun exposure at birth (kJ/m2),,2.300.07,2.47 0.07,2.800.15,
+6,,Beta-carotene supplement,,,,,
+7,No,No,2705,1 [Reference],1 [Reference],1 [Reference],
+8,Yes,Yes,79,0.90 (0.571.40),1.40 (0.982.00),1.17 (0.801.72),0.37
+9,,Vitamin A supplement,,,,,
+10,No,No,2646,1 [Reference],1 [Reference],1 [Reference],
+11,Yes,Yes,138,0.85 (0.591.24),1.50 (1.13-2.00),1.75 (1.342.29),0.01
+12,,Vitamin C supplement,,,,,
+13,No,No,2607,1 [Reference],1 [Reference],1 [Reference],
+14,Yes,Yes,177,0.76 (0.56-1.03),1.12 (0.87-1.45),1.23 (0.96-1.58),0.08
+15,Vitamin E supplement,Vitamin E supplement,,,,,
+16,No,No,2581,1 [Reference],1 [Reference],1 [Reference],
+17,Yes,Yes,203,0.93 (0.69-1.25),1.33 (1.041.69),1.56 (1.251.94),0.05
+18,n,n,,"20,679","21,296","21,819",
+19,,Residential sun exposure at baseline (kJ/m2),,2.31 0.07,2.49 0.08,2.84 0.15,
+20,,Beta-carotene supplement,,,,,
+21,No,No,2705,1 [Reference],1 [Reference],1 [Reference],
+22,Yes,Yes,79,0.97 (0.621.51),1.23 (0.811.87),1.27 (0.911.79),0.60
+23,,Vitamin A supplement,,,,,
+24,No,No,2646,1 [Reference],1 [Reference],1 [Reference],
+25,Yes,Yes,138,1.24 (0.901.70),1.68 (1.232.29),1.34 (1.001.73),0.41
+26,,Vitamin C supplement,,,,,
+27,No,No,2607,1 [Reference],1 [Reference],1 [Reference],
+28,Yes,Yes,177,0.92 (0.701.22),1.14 (0.851.52),1.07 (0.84-1.36),0.63
+29,,Vitamin E supplement,,,,,
+30,No,No,2581,1 [Reference],1 [Reference],1 [Reference],
+31,Yes,Yes,203,1.09 (0.831.44),1.54 (1.192.00),1.28 (1.031.60),0.26

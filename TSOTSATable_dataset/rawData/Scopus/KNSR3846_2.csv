@@ -1,0 +1,34 @@
+,0,1,2,3,4,5,6
+0,,,Quartile of the Japanese Food Guide spinning top score,,,,ra
+1,,Q1(n=1756),Q3 (n=1755,Q2(n=1756),Q3 (n=1755,Q4(n=1755),
+2,Nutrients,,,,,,
+3,Calibrated EI [kcal/day]b,2294,2151,2151,2047,1995,0.23
+4,Uncalibrated EI [kcal/day],1832,1702,1722,1702,1697,0.05
+5,Protein [% energy/day],10.7,,12.0,12.4,12.7,0.28
+6,Fat [% energy/day],19.1,,23.3,25.9,28.7,0.35
+7,Carbohydrate [% energy/day],55.9,,56.0,55.7,55.6,0.01
+8,SFA [g/1000 kcal/day],5.4,,6.4,6.9,7.4,0.26
+9,MUFA [g/1000 kcal/day],8.2,,9.6,10.7,12.0,0.29
+10,PUFA [g/1000 kcal/day],7.0,,8.3,8.9,9.8,0.27
+11,n-6 PUFA [g/1000 kcal/day],6.0,,7.3,7.8,8.7,0.28
+12,n-3 PUFA [g/1000 kcal/day],1.0,,1.2,1.3,1.5,0.29
+13,Cholesterol [mg/1000 kcal/day],108,,119,122,125,0.12
+14,Vitamin A [g RE/1000 kcal/day]c,393,,477,520,492,0.11
+15,Vitamin D [ug/1000 kcal/day],2.3,,2.5,2.5,2.4,0.03
+16,-Tocopherol [mg/1000 kcal/day],4.5,,5.4,5.8,6.4,0.28
+17,Folate [g/1000 kcal/day],143,,174,191,216,0.34
+18,Vitamin C [mg/1000 kcal/day],41,,52,61,75,0.46
+19,Sodium [mg/1000 kcal/day],897,,972,978,981,0.08
+20,Potassium [mg/1000 kcal/day],978,1161,1101,1161,1226,0.29
+21,Iron [mg/1000 kcal/day],3.2,,3.7,3.8,4.0,0.19
+22,Calcium [mg/1000 kcal/day],224,,271,309,331,0.31
+23,Total dietary fiber [g/1000 kcal/day],5.0,,5.8,6.1,6.6,0.28
+24,Alcohol [g/1000 kcal/day],0.8,,0.0,0.0,0.0,0.22
+25,Food,,,,,,
+26,Grains [g/1000 kcal/day],272,,262,253,247,0.15
+27,Vegetables [g/1000 kcal/day],59,,85,99,126,0.42
+28,Fruits [g/1000 kcal/day],13,,25,44,70,0.56
+29,Dairies [g/1000 kcal/day],6,,42,81,95,0.46
+30,Red meats [g/1000 kcal/day],11,,12,12,9,0.03
+31,White meats [g/1000 kcal/day],34,,44,46,47,0.19
+32,Confectionery [g/1000 kcal/day],10,,9,9,8,0.13

@@ -1,0 +1,25 @@
+,0,1,2,3,4,5
+0,,MS technique,Aim of the analysis,Aim of the analysis,Peptide/protein biomarker,Reference
+1,Cereals,LC-MS/MS,Differentiation of durum wheat varieties,Differentiation of durum wheat varieties,Peptides from -amylase inhibitor,"Prandi et al.,2013"
+2,,,,,CM3,
+3,,,Detection of common wheat in commercial durum wheat flour,,Peptides from -gliadin,"Prandi et al.,2012"
+4,,,Detection of common wheat in commercial durum wheat flour and pasta,,Peptides from puroindoline-A,"Russo et al.,2014"
+5,,,"Detection of wheat, rye and spelt in bread","Detection of wheat, rye and spelt in bread",Peptides from gluten proteins,"Bonick et al.,2017"
+6,,,Detection of wheat gluten,Detection of wheat gluten,Peptides from gluten proteins,"Schalk et al.,2018"
+7,,,"Detection of wheat in rye, millet, oats, sorghum, buckwheat and soy",,Peptides from gluten proteins,"Colgrave et al.,2015"
+8,,,,flours,,
+9,,,Detection of oats in processed foods,Detection of oats in processed foods,Peptides from gluten proteins,"Dawson et al.,2018"
+10,,,Detection of barley in processed foods,Detection of barley in processed foods,Peptides from gluten proteins,"Colgrave et al.,2016"
+11,,,"Identification of wheat, rye, barley, oats, corn, soy and rice",,Peptides from gluten proteins,"Martinez-Esteso et al.,2016"
+12,Tree nuts,LC-MS/MS,Detection of hazelnut in foods,Detection of hazelnut in foods,Peptides from allergenic proteins,"Van Vlierberghe et al.,2020"
+13,,,Detection of peanut in processed foods,Detection of peanut in processed foods,Peptides from allergenic proteins,"Gavage et al.,2020"
+14,,,Detection of peanut and tree nuts in processed or unprocessed foods,,Peptides from allergenic proteins,"Sealey-Voyksner, et al."
+15,,,,,,2016
+16,,,"Detection of almond,cashew,hazelnut,peanut,pistachio,walnut in foods",,Peptides from allergenic proteins,"Korte et al.,2016"
+17,,,Detection of hazelnut in foods,Detection of hazelnut in foods,Peptides from allergenic proteins,"Ansari et al., 2012"
+18,Wine,MALDI-TOF MS,Classification of Croatian white wines,Classification of Croatian white wines,Wine proteins and peptides,"Resetar et al.,2016"
+19,,LC-MS/MS,Detection of fining agents in white wines,Detection of fining agents in white wines,Peptides from caseins,"Cereda et al.,2010"
+20,,,Detection of fining agents in red wines,Detection of fining agents in red wines,Caseins,"D'Amato et al.,2010"
+21,,,Authentication of Amaro Branzi,Authentication of Amaro Branzi,Soluble liqueur proteins,"Lerma-Garcia et al.,2014"
+22,,,Detection of fining agents in white wines,Detection of fining agents in white wines,Peptides from caseins,Monaci et al.2010;2011
+23,,,Detection of fining agents in white wines,Detection of fining agents in white wines,Peptides from milk and egg proteins,"Monaci et al.,2013"

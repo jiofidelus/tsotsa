@@ -1,0 +1,17 @@
+,0,1,2,3,4,5
+0,Classifier,Predicted class (%,Predicted class (%,,Actual class,Average
+1,,Lacto-,Vinegar-,Fresh cucumber,,(%)
+2,,fermented,pickled,,,(%)
+3,,cucumber,cucumber,,,
+4,Trees-Ran-,97,3,0,Lacto-fermented cucumber 98,
+5,dom Forest,2,98,0,Vinegar-pickled cucumber,
+6,,0,1,99,Fresh cucumber,
+7,Bayes-Bayes,95,5,0,Lacto-fermented cucumber97,
+8,Net,4,96,0,Vinegar-pickled cucumber,
+9,,0,0,100,Fresh cucumber,
+10,'unctions-,95,4,1,Lacto-fermented cucumber 98,
+11,Logistic,2,98,0,Vinegar-pickled cucumber,
+12,,0,0,100,Fresh cucumber,
+13,azyIBk,95,5,0,Lacto-fermented cucumber 97,
+14,,3,97,0,Vinegar-pickled cucumber,
+15,,0,0,100,Fresh cucumber,

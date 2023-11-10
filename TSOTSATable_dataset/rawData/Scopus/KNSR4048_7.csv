@@ -1,0 +1,35 @@
+,0,1,2,3,4
+0,Application,Objectives,Types of ANN Outcomes,Types of ANN Outcomes,References
+1,Potato cubes,To carry out analysis in a fluidized bed dryer for the dryingMLP,,(i The developed model was able to carry out the analysis,Azadbakht et al. [172]
+2,,of potato cubes under different conditions,,of energy and exergy losses in the dryer for the drying of,
+3,,,,the potato cubes,
+4,,,,(ii) All the analysis done by using the ANN model,
+5,,,,obtained a high value of R2 which is greater than 0.98,
+6,,,,and the average value obtained was 0.99,
+7,Potato peels,To model a system that can predict and optimize the,MLP,(i) This study with the aid of the ANN model actually,Anastacio et al. [173]
+8,,extracted conditions by using the response surface meth-,,helped to determine that the potato peels which are often,
+9,,odology and ANN,,thrown away as a waste are actually beneficial,
+10,,,,iiThe Rvalue achieved by the ANN model for the,
+11,,,,analysis of three different extracted values were greater,
+12,,,,than 0.93,
+13,Quince fruit,To determine the moisture ratio of the fruit during the,MLP,"(i) By implementing different ANN structures, the",Chasiotis et al. [174]
+14,,drying process and test the performance of the developed,,moisture content ratio during the drying process for the,
+15,,model,,quince fruits was modeled successfully,
+16,,,,(ii) The developed model was able to predict the moisture,
+17,,,,ratio with high correlation value where the R2 obtained,
+18,,,,was greater than 99%,
+19,Rice crop,To predict rice production yield and investigate the factors,MLP,(i) A good alternative to predict the rice production yield,Gandhi et al. [61]
+20,,affecting the rice crop yield,,compared to traditional linear regression methods,
+21,,,,(ii) The accuracy obtained by the developed algorithm was,
+22,,,,"97.54%, with the sensitivity of 96.33% and specificity of",
+23,,,,98.12%,
+24,Sausage,To forecast the benzo[a]pyrene (BaP) content of smoked,MLP,(i) The model was able to predict the BaP content in,Chen et al. [175]
+25,,sausage,,smoked sausages and create a control system for the,
+26,,,,smoking to reduce the BaP contamination in smoked,
+27,,,,sausages,
+28,,,,(ii) The model has a high accuracy where the overall pre-,
+29,,,,diction was greater than 0.90,
+30,Vegetable oils,"To classify vegetable oils: canola, sunflower, corn, and",MLP,(i) Able to simplify the vegetable oil classification with,"Silva et al.[71],Da et al.[70]"
+31,, soybean using a very few mathematical manipulation and,,high accuracy,
+32,,ANN,,(ii) A fast-network training and uses very few mathemati-,
+33,,,,cal manipulations in the spectra data,

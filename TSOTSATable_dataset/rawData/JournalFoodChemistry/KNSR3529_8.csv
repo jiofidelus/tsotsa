@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Matrix,Extracting,TC,Pressure,Other operation,Target compounds,Chemical structure of main,Extraction recovery/yield,Antioxidant,References
+1,,solvent,,(MPA),parameters,,compounds,,capacity (method,
+2,Potato peel,Water,240,"10*,9**",15 min at 2 mL/,Phenolic compounds,n.d,~10 higher vs.,86.39 mg FeSO4/g,"Alvarez et al.,2014"
+3,,,,,min*/16 min at 3,,,conventional solid-liquid,(FRAP),
+4,,,,,mL/min**,,,batch extraction,,
+5,,,,,,,,TPC:45.13 mg GAE/g DW,,
+6,Yarrow by-,Water,198,3,16.5 min,Phenolic compounds,n.d,n.d,890.92 to,"Vladic et al.,2020"
+7,products,,,,,,,TPC: 52.42 to 128.2 mg,1853.57 g TE/mL,
+8,,,,,,,,TPC: 52.42 to 128.2 mg,(TEAC),
+9,,,,,,,,GAE/g DW,,
+10,,,,,,,,TFC: 26.32 to 79.19 mg/g,,
+11,,,,,,,,DW,,
+12,Coffee powder,Water,"200*,",22.5,~9 min,Phenolic compounds,n.d,n.d,n.d,Mayanga-Torres
+13,and defatted,,175*0,,,,,,,"et al.,2017"
+14,cake,,,,,,,TPC: 26.6  0.6 mg GAE/g,,
+15,,,,,,,,DW,,
+16,,,,,,,,(Coffee powder),,
+17,,,,,,,,TPC: 55.7  1.9 mg GAE/g,,
+18,,,,,,,,DW,,
+19,,,,,,,,(Defatted cake,,

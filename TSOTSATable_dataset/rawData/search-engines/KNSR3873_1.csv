@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7,8
+0,,Food,,Component,Database,Database,Interchange,Data,
+1,,,,nomenclature Nomenclature management,nomenclature Nomenclature management,nomenclature Nomenclature management,nomenclature Nomenclature management,,
+2,presentation,,,,,,,,
+3,INFOODS,Mappable,Mappable,Yes,Yes,,Yes,N/A,
+4,EuroFIR,Mappable,Mappable,Mappable,N/A,,Mappable,N/A,
+5,ISO,N/A,,N/A,N/A,,N/A,Yes,(e.g.
+6,date),,,,,,,,
+7,Codex AlimentariusMappable,Codex AlimentariusMappable,,N/A,N/A,,N/A,N/A,
+8,IUPAC,,N/A,"Yes,when available","Yes,when available","Yes,when available",N/A,N/A,
+9,N/A,,,,,,,,
+10,AgMes,,N/A,N/A,,N/A,N/A,,
+11,Yes (bibliographic data),Yes (bibliographic data),,,,,,,
+12,Taxonomic standards Yes,Taxonomic standards Yes,,N/A,N/A,,Yes,Yes,
+13,,Source:,,Charrondiere and Burlingame (2011,Charrondiere and Burlingame (2011,Charrondiere and Burlingame (2011,Charrondiere and Burlingame (2011,,

@@ -1,0 +1,32 @@
+,0,1,2
+0,Food groups,Group,Notes on food groups
+1,,code,
+2,Cereals and cereal products,A,Products included:bakery
+3,Starchy roots and tubers and,B,
+4,products,,
+5,"Legumes, nuts and seeds and",c,Includes dry seeds only; legume pods are
+6,products,,"they are distributed to various groups, E, K and"
+7,,,Q depending on their stage of maturity and
+8,,,uses.
+9,Vegetables and products,D,
+10,Fruits and products,E,Young coconut is included.
+11,"Meat,meat products,and other",F,
+12,animals,,
+13,"Finfish, shellfish,and other",G,Algae are placed in group D
+14,aguatic animals and products,,
+15,Egg and products,H,
+16,Milk and products,J,
+17,Fats and oils,K,Mature coconut is included
+18,"Sugars, syrup and confectionery",M,
+19,Condiments and spices,N,
+20,"Beverages, alcoholic",P,
+21,"Beverages,nonalcoholic",Q,Coconut juice is included.
+22,Snack foods: commercially,R,Final decision was to distribute data of snack
+23,processed and packed,(deleted),their main ingredient
+24,Fast foods: franchise foods,S,
+25,Mixed food dishes,T,Data from each ASEAN country were classified
+26,,,"into 8 subgroups. They are Cereal dishes, Egg"
+27,,,"dishes, Fish and seafood dishes, Meat dishes"
+28,,,"Soup dishes,Vegetable dishes,Desserts and"
+29,,,"snacks, and Other dishes"
+30,Miscellaneous,U,

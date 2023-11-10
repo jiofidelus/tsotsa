@@ -1,0 +1,55 @@
+,0,1,2,3
+0,Food groups,Healthy dietary pattern,Alcohol dietary pattern,Traditional Japanese dietary pattern
+1,Beer,0.278,0.429,
+2,Shochu,0.222,0.429,
+3,Sake,,0.356,
+4,Wine,,0.327,
+5,Liver,,0.314,
+6,Squid/octopus/shrimps/shellfish,0.182,0.280,0.218
+7,Whisky,-0.150,0.276,
+8,Small fish with bone,0.314,0-263,0-212
+9,Chicken,0.191,0-255,-0-394
+10,Japanese noodles,,0-245,0.354
+11,Oily fish,0.292,0.223,0-350
+12,Lean fish,0.305,0.202,0.227
+13,Dried fish/salted fish,0-227,0.176,0.329
+14,Pickled green leaves vegetable,0-203,0-169,0-348
+15,Pickled other vegetables,0.159,,0.408
+16,Buckwheat noodles,,,0-310
+17,Green tea,0-156,,0-280
+18,Natto*,0-246,,0.180
+19,100%fruit and vegetable juice,,,0.170
+20,Chinese noodle,0.320,,0.163
+21,Low-fat milk,,,
+22,Seaweeds,0.547,,
+23,Pasta,0.184,,
+24,Tomatoes,0.430,,
+25,Black tea/oolong tea,,,
+26,Miso soup,,,
+27,Canned tuna,,,
+28,Potatoes,0.350,,
+29,Cola drink/soft drink,-0.180,,
+30,Lettuces/cabbage(raw),0.443,,
+31,Japanese radish/turnip,0-642,,
+32,Tofu/atsuaget,0.448,,
+33,Rice,0.332,,
+34,Mushrooms,0.651,,
+35,Hum/sausage/bacon,,,
+36,Coffee,,,
+37,Mayonnaise/dressing,,,
+38,Carrots/pumpkin,0.706,,0-158
+39,Egg,0-265,,-0-162
+40,Green leaves vegetable,0.701,,0.167
+41,Cabbage/Chinese cabbage,0-659,,0.170
+42,Other root vegetables,0.684,,0.215
+43,Pork/beef,0.684,,0.427
+44,Milk/yogurt,0.150,-0-215,
+45,Persimmons/strawberries/kiwifruit,0-334,0.223,0.279
+46,Ice cream,,0.245,
+47,Citrus fruit,0-271,0.246,0-293
+48,Other fruit,0-387,0-257,0-245
+49,Japanese confectioneries,,-0.416,0-256
+50,Rice crackers/rice cake/okonomiyak,,0.430,
+51,Bread,,-0.507,
+52,Western-type confectioneries,,0.585,
+53,Variance explained (%),10.2,5.0,3.9

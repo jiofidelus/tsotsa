@@ -1,0 +1,23 @@
+,0,1,2,3,4,5
+0,,Median,Mean,SD,Min,Max
+1,Outcome measures,,,,,
+2,Tobacco retailer count,2.0,2.6,3.0,0.0,54.0
+3,Alcohol retailer count,2.0,2.8,2.6,0.0,20.0
+4,Tobacco density (per 10 mi road,0.9,1.5,2.2,0.0,38.1
+5,Alcohol retailer density(per 10 mi road,1.1,1.8,2.6,0.0,48.9
+6,Key independent variables,,,,,
+7,% of Latinx who are foreign-born,31.9,31.6,14.1,0.0,100.0
+8,% of Asian who are foreign-born,62.7,60.2,21.0,0.0,100.0
+9,Sociodemographic and ecological controls,,,,,
+10,% Latinx,30.5,37.7,26.5,0.0,100.0
+11,% Asian,7.9,13.3,15.2,0.0,91.1
+12,% Non-Latinx White,38.6,39.7,26.4,0.0,100.0
+13,% Under age 18,23.1,23.0,7.1,0.0,53.4
+14,% Ages 18-24,9.3,10.0,6.6,0.0,97.3
+15,% Ages 55+,27.6,29.0,10.8,0.0,99.4
+16,% Less than high school,13.7,18.7,15.7,0.0,80.0
+17,Median household income ($1000 s,62.5,69.7,34.2,4.8,250.0
+18,% HH moved in past 12 months,11.9,13.3,7.3,0.0,80.3
+19,% Commercial land use,1.0,5.0,8.8,0.0,72.0
+20,Population density (per sq.mile),6458,8759,9657,5.2,"151,527"
+21,Rural/small town,0,0.0,0.1,0.0,1.0

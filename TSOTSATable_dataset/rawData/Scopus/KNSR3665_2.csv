@@ -1,0 +1,26 @@
+,0,1,2,3,4
+0,,,PDI,hPDI,uPDI
+1,Plant-based food,,Positive score1,Positive score(1 to 5 based on consumption,Reverse score5 to
+2,Healthful,Whole grains,to 5 based on,quintiles),based on consump
+3,,Vegetables (excluding potatoes),consumption,,tion quintiles)
+4,,Vegetables (excluding potatoes),quintiles),,
+5,,Nuts,,,
+6,,Legumes,,,
+7,,Vegetable oils,,,
+8,,"Coffee, tea",,,
+9,,,,Reverse score(5 to 1 based on consumption,Positive score(1 to 
+10,Unhealthy,Fruit juices,,quintiles),based on consump
+11,,Refined grains,,,tion quintiles)
+12,,Potatoes,,,
+13,,Sugar-sweetened beverages,,,
+14,,Sweets and desserts,,,
+15,Range,,12 to 60,,
+16,Animal-based food,,,,
+17,,"Fish, seafood",Reverse score (5,Reverse score (5 to 1 based on consumption,Reverse score5 to
+18,,Dairy,to l based on,quintiles),
+19,,Poultry,consumption,,
+20,,Poultry,quintiles),,
+21,,Red meats,,,
+22,,Egg,,,
+23,Range,,6 to 30,,
+24,Total range,,18 to 90,,

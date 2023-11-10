@@ -1,0 +1,24 @@
+,0,1,2,3
+0,,,,Percent of
+1,Food component,Number of data points,,data points
+2,Energy,,110,1.9
+3,Proximates,,,
+4,Water,,439,7.7
+5,Carbohydrates,,103,1.8
+6,Dietary fibre,,174,3.0
+7,Ash,,238,4.2
+8,Fat,,256,4.5
+9,Protein,,191,3.3
+10,Polysaccharides,,7,0.1
+11,Fatty acids and aggregations*,,447,7.8
+12,Total nitrogen,,209,3.6
+13,Nitrogen-to-protein conversion factor,,61,1.1
+14,Amino acids and aggergations*,,876,15.3
+15,Vitamins,,,0.0
+16,Fat-soluble vitamins,,315,5.5
+17,Water-soluble vitamins,,207,3.6
+18,Minerals and trace elements,,1997,34.8
+19,Toxic trace elements,,17,0.3
+20,Sterols including cholesterol,,14,0.2
+21,Other**,,73,1.3
+22,Total,,5734,

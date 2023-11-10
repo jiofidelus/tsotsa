@@ -1,0 +1,27 @@
+,0,1,2
+0,AG(mcg),silver,mcg
+1,B(mcg),boron,mcg
+2,BRD(mcg),bromide,mcg
+3,CA(mg),calcium,mg
+4,CLD(mg),chloride,mg
+5,CO(mcg),cobalt,mcg
+6,CR(mcg),chromium,mcg
+7,CS(mcg),cesium,mcg
+8,CU(mg),copper,mg
+9,FD(mcg),flouride,mcg
+10,FE(mg),"iron, total",mg
+11,ID(mcg),lodine,mcg
+12,K(mg),potassium,mg
+13,MN(mg),manganese,mg
+14,MO(mcg),molybdenum,mcg
+15,NA(mg),sodium,mg
+16,NACL(mg),salt,mg
+17,NI(mcg),nickel,mcg
+18,P(mg),phosphorus,mg
+19,RB(mg),rubidium,mg
+20,S(mg),sulphur,mg
+21,SE(mcg),selenium,mcg
+22,Sl(mcg),silicon,mcg
+23,SN(mcg),tin,mcg
+24,TI(mcg),titanum,mcg
+25,V(mcg),vanadium,mcg

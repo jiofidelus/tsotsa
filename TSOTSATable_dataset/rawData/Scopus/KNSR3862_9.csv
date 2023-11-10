@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6
+0,,Fish Powder,,Sorghum Powder,Sorghum Powder,Intervention Effect +,
+1,Month of Follow-Up,n,LAZ,n,LAZ,Mean Difference,p-Value
+2,Month of Follow-Up,n,Mean  SD,n,Mean SD,95% CL,p-Value
+3,Follow-up month 1,78,2.370.96,73,2.84 0.92,0.47 (0.190.76),<0.001
+4,Follow-up month 2,75,2.56 1.06,72,2.721.19,0.16(-0.12-0.46,0.268
+5,Follow-up month 3,74,2.22  0.93,66,3.020.87,0.84 (0.53-1.16),<0.001
+6,Follow-up month 4,72,2.12  0.87,64,3.050.88,0.98 (0.65-1.31),<0.001
+7,Follow-up month 5,69,2.060.85,58,3.040.84,1.07 (0.721.42),<0.001
+8,Follow-up month 6,66,2.04  0.83,57,3.060.84,1.09 (0.711.47),<0.001

@@ -1,0 +1,34 @@
+,0,1,2,3,4
+0,Parametro,Cromatografia,Eletroforese Capilar,Espectroscopia,Fluxo
+1,,Normalmente associada,Normalmente associada,,
+2,,"com etapas de diluicao,","com etapas de diluicao,",Exigem preparo de amostra de,Podem estar associadas
+3,Preparo de Amostra,homogeneizacao e filtracao,homogeneizacao e filtracao,baixa complexidade ou nenhum,"com etapas de diluicao,"
+4,,Extracoes solido-liquido e,Extracoes solido-liquido e,preparo de amostra.97,homogeneizacao e
+5,,liquido-liquido podem ser,liquido-liquido podem ser,preparo de amostra.97,filtracao.99
+6,,necessarias.82,necessarias.82,,
+7,,Necessaria principalmente,condutometrica faz com,,
+8,,para a cromatografia,que nao seja necessaria a,Necessaria principalmente para,Necessaria principalmente
+9,Derivatizacao,gasosa ou quando se utiliza,derivatizacao do edulcorante,espectroscopia na regiao do,para sinais na regiao do
+10,,detectores por espectroscopia,nao detectado na regiao do,ultravioleta e visivel.49,ultravioleta e visivel.99
+11,,no ultravioleta.82,ultravioleta.82,,
+12,,amostra atraves de diluicoes,Utilizados como eletrolitos em,Utilizacao de solvente apenas,Solventes sao necessarios
+13,,e como fase movel para,pequena quantidade.82,necessario.97, transportadoras. 102
+14,,separacao.82,,necessario.97, transportadoras. 102
+15,,Apresentam alta,,,
+16,,quando acoplados a,Apresentam alta,Apresentam alta sensibilidade,
+17,Sensibilidade,espectrometro de massas.82 A,sensibilidade.82 A extracao em,principalmente para,Apresentam boa
+18,,extracao em fase solida das,sensibilidade do metodo.,espectrometro de massas.94,sensibilidade.100
+19,,amostras pode aumentar a,sensibilidade do metodo.,,
+20,,sensibilidade do metodo.103,,,
+21,,,Custo reduzido do equipamento,,
+22,Custo,da coluna de separacao.82,cromatografia e baixo consumo,Alto custo do equipamento.96,equipamento.101
+23,,,de solventes.82,,
+24,,,,Alguns metodos dificultam,
+25,,,,a determinacao de,
+26,,,,varios edulcorantes,Apresentam instrumentacac
+27,,Possibilidade de,Possibilidade de determinacao,simultaneamente.Pode ser,"simples e de baixo custo,"
+28,Outros,edulcorantes de forma,de varios edulcorantes de forma,de um modelo atraves de,porem menor resolucao em
+29,,simultanea.82,simultanea.82,metodos quimiometricos,relacao a outros metodos
+30,,,,para determinacao dos,
+31,,,,edulcorantes.Metodos rapidos,
+32,,,,de deteccao.103,

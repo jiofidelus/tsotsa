@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Country,Population,n,Method,Supplements*,Mean,97.5%
+1,Austriaa,Individual,2488,24h recall,Not defined,11.2,21.9
+2,Germanyb,Individual (M),854,7-day dietary,,12.1,20.5
+3,Germanyb,Individual(F),1134,record,,9.7,16.0
+4,UKc,Individual(M),1087,weighed,+,11.4 (10.9),19.0
+5,UKc,Individual (F),1110,inventory,+,8.4 (8.2),13.6
+6,Italyd,Household,2734,7-day record,+,11,19.0
+7,Netherlandse,"Individual(M,F)",5958,2-day record,,9.4,17.0
+8,Irelandf,Individual (M),662,mated food,+,10.8,23.5
+9,,Individual (F),717,record,+,7.5,22.1

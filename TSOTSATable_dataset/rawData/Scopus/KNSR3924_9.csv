@@ -1,0 +1,40 @@
+,0,1,2,3,4,5,6,7,8
+0,Investigated,Preparation for,Preparation of,Incubation,Method for Microbiome, Microbiome Changes,Metabolite,Metabolites,Reference
+1,"Plant, Plant Part",Incubation,Fecal Samples,Conditions,Analysis, Microbiome Changes,Detection,Metabolites,Reference
+2,,,,,,sequencing:,,,
+3,,,,,,rel. increase in,,,
+4,,,,,,"Proteobacteria,",,,
+5,,,,upper,,"Actinobacteria, and",,,
+6,,,,gastrointestinal,,Roseburia ssp.,,increase in total,
+7,,,fecal sample from,by fecal batch,bacteria plate counting; V4,"Bacteroidetes,",SCFA analysis,"SCFAs, lactic acid,",
+8,,sun-dried raisins,one healthy,by fecal batch,"region of 16S rRNA gene, NGS","Ruminococcus, and",by HPLC-RID,"acetic acid,",[191]
+9,,sun-dried raisins,volunteer,culture,(Illumina),"Ruminococcus, and",by HPLC-RID,"propionic acid, and",[191]
+10,,,volunteer,fermentation,(Illumina),Faecalibacterium,,butyric acid,
+11,,,,"37C,anaerobic,",,prausnitzii;,,butyric acid,
+12,,,,24 h),,plate counting:,,,
+13,,,,,,increase in,,,
+14,,,,,,Bifidobacteria and,,,
+15,,,,,,Lactobacilli,,,
+16,,,,,FISH targeting specific regions,Bifidobacterium spp,,,
+17,,,,,FISH targeting specific regions, and Lactobacillus-,,,
+18,,grape seed,fecal samples from,conditions:,"of 16S rRNA for total bacteria,",Enterococcus group;,,,
+19,,polyphenol,three healthy,"37C,anaerobic;",Lactobacillus-Enterococcus,Bacteroides-Prevotella,SCFA analysis,"acid, propionic",
+20,,extract (80%,volunteers (one,samples were,"group, Bacteroides-Prevotella",and Clostridium,by HPLC,"acid,and butyric",[183]
+21,,ethanol; 23.5 mg,"female, two males,","taken at 0, 12, 24,","group, Clostridium histolyticum",histolyticum; no change,by HPLC,acid,
+22,,GAE/g),ages 25-30,and 36 h,"group, Eubacterium-Clostridium","in total bacteria,",,acid,
+23,,,,,"group, and Atopobium cluster","Clostridium group, and",,,
+24,"Vitis vinifera,",,,,,Atopobium cluster,,,
+25,semen,,,,,,,increase in acetic,
+26,,,,in vitro simulator,,,,"acid,propionic",
+27,,,,of the,,,,"acid,butyric acid",
+28,,,,gastrointestinal,,,SCFA and,and total SCFAs,
+29,,,in vitro cultured,ascending colon,"qPCR,specific primers for total",,fatty acid,and BCFAs in AC;,
+30,,,microbiota with a,(AC)and,"bacteria, Lactobacillus,",,(BCFA),no significant change,
+31,,grape seed, human microbial,descending colon,"Bifidobacterium, Bacteroides,",decrease in all,analysis by,BCFAs in DC;,
+32,,629 mg GAE/g), human microbial,(DC),"Prevotella,Enterobacteriaceae",analyzed bacterial,GC-FID;,BCFAs in DC;,[182]
+33,,629 mg GAE/g),community,compartments;,Blautia coccoides-Eubacterium,groups,phenolic,steady release of,
+34,,,representative of,conditions:,"rectale group, Clostridium",,metabolites by,phenylacetic and,
+35,,,in vivo conditions,"37C,anaerobic,","leptum,and Ruminococcus",,UHPLC-ESI-,phenylpropionic,
+36,,,,48 h; samples were,,,MS/MS,formation of,
+37,,,,and 48 h,,,,flavan-3-ol,
+38,,,,,,,,metabolites,

@@ -1,0 +1,48 @@
+,0,1,2,3,4,5,6
+0,Enzyme inhibition activity (%),Cultivar,Radical scavenging activity (mg TE/g),Radical scavenging activity (mg TE/g),FRAP (uM),Enzyme inhibition activity (%),Enzyme inhibition activity (%)
+1,a-Glucosidase,,DPPH,ABTS,FRAP (uM),a-Glucosidase,Tyrosinase
+2,,Arari,9.090.31f1),11.720.04h,41.620.58g,3.050.56e,44.790.78c
+3,,Chungjupat,15.310.38d,18.130.27e,75.120.76,13.280.18d,52.850.80ab
+4,,Geomguseul,17.270.80c,21.870.00c,94.451.32d,20.700.82,57.770.54a
+5,22.000.43bc,Hongeon,21.080.74a,22.000.43bc,106.951.73,12.510.92,52.800.48ab
+6,,Hongjin,12.520.26e,16.680.37f,65.280.76,18.870.83,49.510.78b
+7,,Huinguseul,19.550.31b,25.920.17a,122.782.08a,29.300.28a,31.950.86d
+8,,Huinnarae,5.990.158,12.810.138,30.451.32,20.810.46c,35.610.41d
+9,47.210.46bc,Seona,19.560.24b,20.940.22d,102.281.26c,25.510.74b,47.210.46bc
+10,49.980.18bc,Yeonduchae,17.770.22c,22.790.46b,103.121.04c,10.770.56d,49.980.18bc
+11,The values represent the meanstandard deviation of three replicates. Different small letters in the same column indicate a signifi.,,,,,,
+12,cantly difference (P<0.05) between cultivars according to Duncan's multiple range tests.,cantly difference (P<0.05) between cultivars according to Duncan's multiple range tests.,cantly difference (P<0.05) between cultivars according to Duncan's multiple range tests.,cantly difference (P<0.05) between cultivars according to Duncan's multiple range tests.,cantly difference (P<0.05) between cultivars according to Duncan's multiple range tests.,,
+13,Table6Ha2019,phyticacid7,phyticacid7,phyticacid7,Table6Ha2019,Table6Ha2019,Table6Ha2019
+14,isoflavone soyasaponina-glucosidase,Rphyticacid,Rphyticacid,Rphyticacid,isoflavone soyasaponina-glucosidase,isoflavone soyasaponina-glucosidase,isoflavone soyasaponina-glucosidase
+15,Kim52011,448,448,448,Kim52011,Kim52011,Kim52011
+16,a-glucosidase,phyticacid877,phyticacid877,phyticacid877,a-glucosidase,a-glucosidase,a-glucosidase
+17,,4,,,,,
+18,a-glucosidaselr=0.517P,,,,a-glucosidaselr=0.517P,a-glucosidaselr=0.517P,a-glucosidaselr=0.517P
+19,0.006Fig.2a-glucosidase,,,,0.006Fig.2a-glucosidase,0.006Fig.2a-glucosidase,0.006Fig.2a-glucosidase
+20,4Table6,4Table6,4Table6,4Table6,,,
+21,DPPHABTSFRAP,DPPHABTSFRAP,DPPHABTSFRAP,DPPHABTSFRAP,,,
+22,tyrosinase31.95,5.99~21.08 mgTE/g11.72~25.92 mg,5.99~21.08 mgTE/g11.72~25.92 mg,5.99~21.08 mgTE/g11.72~25.92 mg,tyrosinase31.95,tyrosinase31.95,tyrosinase31.95
+23,57.77%,E/g30.45~122.78M,E/g30.45~122.78M,E/g30.45~122.78M,57.77%,57.77%,57.77%
+24,57.7752.8552.80%,,,,57.7752.8552.80%,57.7752.8552.80%,57.7752.8552.80%
+25,35.6131.95%,,,,35.6131.95%,35.6131.95%,35.6131.95%
+26,Table6Tyrosinase,,,,Table6Tyrosinase,Table6Tyrosinase,Table6Tyrosinase
+27,Kim2001,Kim2001,Kim2001,Kim2001,,,
+28,tyrosinase,DPPH,DPPH,DPPH,tyrosinase,tyrosinase,tyrosinase
+29,ABTSAA,ABTSAA,ABTSAA,ABTSAA,,,
+30,Kim2020,0.940.0.9870.979,0.940.0.9870.979,0.940.0.9870.979,Kim2020,Kim2020,Kim2020
+31,A,,,,A,A,A
+32,Byun2004Kim2020,P0.001,P0.001,P0.001,Byun2004Kim2020,Byun2004Kim2020,Byun2004Kim2020
+33,tyrosinase,Fig2,Fig2,Fig2,tyrosinase,tyrosinase,tyrosinase
+34,Heatmap,Heatmap,Heatmap,Heatmap,,,
+35,tyrosinase,,,,tyrosinase,tyrosinase,tyrosinase
+36,Fig1,Fig1,Fig1,Fig1,,,
+37,tyrosinase,58787,58787,58787,tyrosinase,tyrosinase,tyrosinase
+38,758,,,,758,758,
+39,a-Glucosidasea-D,a-Glucosidasea-D,a-Glucosidasea-D,a-Glucosidasea-D,,,
+40,glucoside,glucoside,glucoside,glucoside,,of,
+41,Lee2021,Lee2021,Lee2021,Lee2021,,,
+42,87,,,,87,87,87
+43,Gua2006a-glu,Gua2006a-glu,Gua2006a-glu,Gua2006a-glu,,,
+44,cosidase29.30%25.51%,cosidase29.30%25.51%,cosidase29.30%25.51%,cosidase29.30%25.51%,,,
+45,10.03~11.993.46~4.190.30~0.76,20.81%20.70%18.87%%,20.81%20.70%18.87%%,20.81%20.70%18.87%%,10.03~11.993.46~4.190.30~0.76,10.03~11.993.46~4.190.30~0.76,10.03~11.993.46~4.190.30~0.76
+46,21.54~24.09%,3.05%,3.05%,3.05%,21.54~24.09%,21.54~24.09%,21.54~24.09%

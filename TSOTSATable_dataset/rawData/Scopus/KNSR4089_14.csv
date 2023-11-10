@@ -1,0 +1,38 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Study,Species,Probiotic,Model,Probiotic conc.,Duration,Outcome measures,Pro,Crt,Effect
+1,,,,,(CFU/day),of Tx,,,,
+2,,,,,,(Days),,,,
+3,Westfall et al. [85],D. melanogaster,"L. plantarum, L. fer-",AD,3.0109,,"Physiological tests,",5,5,Survivability motility
+4,,,"mentum, B. longum",,,,Biomarkers,,,"increased, improved"
+5,,,infantis,,,,,,,A depositions
+6,,,,,,,,,,"and AChE activity,"
+7,,,,,,,,,,with modulation of
+8,,,,,,,,,,immune and oxida-
+9,,,,,,,,,,tive stress pathways
+10,Woo et al. [86],C57BL/6 J mice,L. pentosus,AD (Subcutane-,1 x 1010,35,"MWM, Y-maze,",6,6,Improved cogni-
+11,,(Male),,ous injection of,,,Passive avoidance,,,"tive tests results,"
+12,,,,D-galactose),,,"task, biomarkers,",,,improved apoptotic
+13,,,,,,,histology,,,"state, decreased"
+14,,,,,,,,,,inflammation and
+15,,,,,,,,,, increased neuro-
+16,,,,,,,,,,trophic factors
+17,Yang et al. [87],SAMP8 mice,ProBiotic-4 (B.,AD (Transgenic;,2109,84,"Y-maze, Passive",12,12,Improved Y-Maze
+18,,,"lactis. L. casei, B.",SAMP8),,,"avoidance test,",,,"results, intestinal bar"
+19,,,"bifidum, L. acido",,,,Gut microbiome,,,"rier, BBB, improved"
+20,,,philus),,,,"analysis, histology,",,,"inflammatory, oxida-"
+21,,,,,,,biomarkers,,,"tive state, altered gut"
+22,,,,,,,,,,microbiome
+23,Zaydi et al. [88],Sprague-Dawley ratsL. plantarum,Sprague-Dawley ratsL. plantarum,AD (intraperito-,109,84,"MWM,Open field",6,6,Improved behaviour
+24,,(Male),,neal injection of,,,"test, Biomarkers,",,,assessment outcome.
+25,,,,D-Galactose),,,histology,,,improvement in
+26,,,,,,,,,, inflammatory out-
+27,,,,,,,,,,"comes,"
+28,Zhang et al. [89],3xTg-ADmice,S. cerevisiae (Se,AD (Transgenic;,ad libitum feeding,84,"MWM, step down",5,5,Improved spatial
+29,,,enriched yeast),3xTg),,,"test, histology,",,,"learning, memory"
+30,,,,,,,biomarkers,,,"retention, neuronal"
+31,,,,,,,,,,"activity, decreased"
+32,,,,,,,,,,activation of astro-
+33,,,,,,,,,,"cytes and microglia,"
+34,,,,,,,,,,and reduced levels of
+35,,,,,,,,,,tau and phosphoryl-
+36,,,,,,,,,,ated tau

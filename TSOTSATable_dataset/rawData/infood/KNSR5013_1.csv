@@ -1,0 +1,16 @@
+,0,1,2,3
+0,Macronutrients (14),Vitamins (12),Minerals (10),Amino Acids (12)
+1,Energy,Vitamin A,Calcium,Tryptophan
+2,Animal kcal,Animal vitamin A,Phophorus,Threonin
+3,Total protein,Vitamin D,Magnesium,Isoleucine
+4,Animal protein,Vitamin C,Potassium,Leucine
+5,*MFP protein,Vitamin E,Sodium,Lysine
+6,Total Fat,Thiamine,Iron,Valine
+7,Carbohydrate by difference,Riboflavin,*MFP-iron,Methionine
+8,Sucrose,Niacin,Zinc,Cystine
+9,Saturated fats,Folate,Copper,Tyrosine
+10,Monounsaturated fats,"Vitamin B6,",Manganese,Phenylalanine
+11,Polyunsaturated fats,Vitamin B12,,Arginine
+12,Cholesterol,Pantothenic Acid,,Histidine
+13,Fiber,,,
+14,Phytic acid,,,

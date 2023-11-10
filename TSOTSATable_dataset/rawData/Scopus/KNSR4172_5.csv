@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Code,Volatile,Threshold,,,,OAVs 2,,,,Odor Description
+1,Code,Compounds,(ug kg-1)1,Anli,Bayuesu,Golden,Brown Peel,KorlaXiangli,Lyubaoshi,Xizilu,Odor Description
+2,Wa1,1-Octanol,110 [23],,0.02,0.01,0.01,<0.01,<0.01,0.14,"Waxy, citrus"
+3,Wa 2,(Z)-3-Nonenol,NE,,,,,,,,Waxy
+4,Wa 3,1-Tetradecanol,NE,,,,,,,,Waxy
+5,Wa4,Hexadecanal,NE,,,,,,,,Waxy
+6,Wa5,Ethyl octanoate,5 [36],,0.16,,,,,,"Waxy, pineapple, apple"
+7,Wa 6,Ethyl laurate,400 [26],,<0.01,,,,,,"Waxy,fruity"
+8,Wa7,Ethyl nonanoate,377 [23],,<0.01,,,,,,wine
+9,Wa 8,Ethyl decanoate,23 [26],,0.01,,,,,,"Waxy, coconut"
+10,Wa 9,Ethyl palmitate,2000 [23],,<0.01,,,,,,"Waxy,balsamic"
+11,Wo 1,4-Oxoisophorone,NE,,,,,,,,"Woody, citrus, musty"
+12,Wo 2,-Farnesene,87 [37],0.03,,0.21,,0.03,0.02,0.05,vegetative nuance

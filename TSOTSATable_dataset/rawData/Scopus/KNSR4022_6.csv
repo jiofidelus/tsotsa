@@ -1,0 +1,38 @@
+,0,1,2,3,4
+0,Species,Name,Kind,Abiotic Stress Function,Citation
+1,,REL1,RING finger domain E3,Negatively regulates,
+2,,RING TYPE E3,ubiquitin ligase,ABA-mediated drought stress,[151]
+3,,LIGASE 1GENE,ubiquitin ligase,tolerance,
+4,,DIR1,,Negatively regulates the,
+5,,DROUGHTINDUCED,RING finger domain E3,Negatively regulates the,[152]
+6,,RINGTYPE E3,ubiquitin ligase,ABA-mediated signaling,[152]
+7,,LIGASE1,,ABA-mediated signaling,
+8,,AIRF1,,Positively regulates the,
+9,,ADIP1 INTERACTING,RING finger domain E3,drought stress response in,[153]
+10,,RING FINGER,ubiquitin ligase,pepper,[153]
+11,,PROTEIN1,,pepper,
+12,,AIRP4: ZEA MAYS,RING finger domain E3,Positively regulates the,
+13,,RINGPROTEIN4,ubiquitin ligase,pathway,[154]
+14,Corn,RINGPROTEIN4,,pathway,
+15,Zea maiz,RFP1,RING finger domain E3,Positively regulates salt and,
+16,,PROTEIN1,ubiquitin ligase,drought stress tolerance,[155]
+17,,SARP1,,,
+18,Cotton,SALT-ASSOCIATED,C3H2C3 RING finger,Negatively regulate the,[156]
+19,Gossypium hirsutum,RING FINGER,domain E3 ubiquitin ligase,response to salt stress,[156]
+20,,PROTEIN,,,
+21,Tomato,INTERESTING NEW,RING finger domain E3,Positively regulates Cd,[157]
+22,Solanum lycopersicum,GENE 1,ubiquitin ligase,tolerance,[157]
+23,,STMIR,,,
+24,Sickle medick,SALTTUNICAMYCIN,RING finger domain E3,Positively regulates salt stress,[158]
+25,Medicago falcata,INDUCEDRING,ubiquitin ligase,Positively regulates salt stress,[158]
+26,,FINGERPROTEIN,,,
+27,,RING,,,
+28,Wild tomato,REALLY,RING finger domain E3,Positively regulates salt stress,[159]
+29,Solanum pimpinellifolium,INTERESTING NEW,ubiquitin ligase,in wild tomato species,[159]
+30,,GENE,,,
+31,,MIEL,,,
+32,Apple,MYB30-,RING finger domain E3,Negatively regulates salt and,[160]
+33,Malus domestica,INTERACTING E3,ubiquitin ligase,oxidative stresses tolerance,[160]
+34,,LIGASE1,,,
+35,Soybean,PUB6,,Negative regulator of drought,
+36,Glycine max,PLANT U-BOX,U-box E3 ubiquitin ligase,stress response in Arabidopsis,"[161,162]"

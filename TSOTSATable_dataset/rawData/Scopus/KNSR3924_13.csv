@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,,,,,
+1,Investigated,Sample,Groups,"Species,",,Method for,Microbiome,Method for,,
+2,Part,Sample,(n = Number of,Volunteers,Conditions,Analysis,Changes,Detection,Metabolites,Reference
+3,Part,Preparation,Analyzed,Volunteers,,Analysis,Changes,Detection,,
+4,Part,,Individuals),,,,,,,
+5,,water extracts,,,,,in GTE group:,,,
+6,,from:,9 groups:,,,, increase in microbial,,,
+7,, green tea,healthy group; DSS,,,,diversity; rel. decrease,,,
+8,,(GTE);black,group;GTE + DSS,,,," in Bacteroides,",,,
+9,,tea (BTE);,group; WTE + DSS,,treated for,,"Oscillibacter,",,increase in,
+10,,yellow tea,group; YTE + DSS,Kunming,14 days;fecal,"16S rRNA gene,","Mucispirillum,", SCFA analysis,"acetic acid,",[76]
+11,,tea (OTE);,group;BTE + DSS,(7-8 weeks old),samples were,NGS (Illumina),"Helicobacter, and",by HPLC,"propionic acid,",[76]
+12,,white tea,group; DTE + DSS,(7-8 weeks old),collected,NGS (Illumina),Brachyspira; rel.,,and butyric acid,
+13,,WTE);dark,group;HTE + DSS,,,,Bifidobacterium and,,,
+14,,tea (DTE);,group; (n=6 per,,,,Ruminococcaceae_,,,
+15,,hawk tea,group),,,,UCG-014,,,
+16,,(HTE),,,,,UCG-014,,,
+17,,,,,,,bacterial community,,,
+18,,,,,,,richness and diversity,,,
+19,,,,,,,unchanged in healthy,,,
+20,,,,,,,mice; healthy GTE,,,
+21,,,,,,,group:,,,
+22,,,,,,,rel. increase in,,,
+23,,green tea,healthy mice:,,treated for,,"Akkermansia,",,,
+24,,water extract,normal group; GTE,female C57BL/6,4 weeks;fecal,V3-V4 region of,Lactobacillus,,,
+25,,(GTE);dark,(5 mg/kg) group;,mice (7-8 weeks,samples were,"16S rRNA gene,","intestinalis, Alistipes,",,,[77]
+26,,extract (DTE),DTE (5 mg/kg),old),4 weeks,NGS (Illumina), and Parabacteroides,,,
+27,,extract (DTE),group,,4 weeks,,distasonis;,,,
+28,,,,,,,"Turicibacter,",,,
+29,,,,,,,"Romboutsia,",,,
+30,,,,,,,"Ileibacterium, and",,,
+31,,,,,,,Muribaculum,,,

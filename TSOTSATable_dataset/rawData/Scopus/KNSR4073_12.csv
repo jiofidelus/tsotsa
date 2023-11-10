@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,Country,Type of survey,n,Method,Supplements*,Mean,97.5%
+1,Germanya,individual (M/F),1988,7-day record,,36.8,86.2
+2,Germanyb,individual(M),1268,record+interview,,52.9,53.7
+3,Germanyb,individual(F),1540,record+interview,,42.5,43.1
+4,,individual (M),1087,7-day record,,38.9,69.7
+5,UKc,individual(M),1087,7-day record,+,39.1,71.4
+6,(16-64 yr),individual(F,1110,7-day record,-,28.3,56.3
+7,,individual(F),1110,7-day record,+,28.7,58.1
+8,Irelanda,individual(M),662,7-day record,,40.4,74.9
+9,(18-64 yr),individual(M),662,7-day record,+,42.8,91.8
+10,(18-64 yr),individual(F),717,7-day record,-,29.8,53.9
+11,,individual (F),717,7-day record,+,34.1,103.3

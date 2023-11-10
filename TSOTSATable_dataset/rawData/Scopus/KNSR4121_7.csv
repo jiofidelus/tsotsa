@@ -1,0 +1,42 @@
+,0,1,2,3,4
+0,Target Toxin,LAB Strain,Mechanism of Action,Maximum effectiveness,References
+1,,L.kefiri KFLM3,Toxin-binding on the,"80% decrease in milk, 0%",[213]
+2,,L.kefiri KFLM3,cell surface,in MRS,[213]
+3,,,Antifungal compounds caused,,
+4,,Lev.brevis NM101-1,52-80% transcriptional,90-96% reduction of the AFB,
+5,,Lc.paracasei ABRIINW.F58,key player in the biosynthesis,A.parasiticus,[214]
+6,,,of AFB1,,
+7,,"Levilactobacillus spp. 2QB383,",Toxin binding is assumed for,>50% reduced amount by,
+8,,"Lp.plantarum 1QB147,1QB314",mechanism proposed for the,>50% reduced production in,[215]
+9,,and 3QB350,reduced production,YES broth at 25C,
+10,Ochratoxin A,,,,
+11,,"Str. thermophilus T4,",,Complete elimination of,
+12,,L. delbrueckii subsp.,None proposed,0.5 mg/L in milk; 36 and 26%,[216]
+13,,bulgaricus LB-51,,drop with 1.0 and 1.5 mg/L,
+14,,L. bulgaricus 259/2 and 171/2,None proposed,very much strain-dependent,[217]
+15,,L.acidophilus CH-5,Toxin binding on the cell,"60-87% decrease,rapid",
+16,,"L. helveticus 8,","surface is assumed, another",process but,[218]
+17,,Lactococcus lactis 202,mechanism hypothesized, partially reversible,
+18,,L.acidophilus VM 20,cell surface,9697% decrease for 4 h,[219]
+19,,P. parvulus UTAD 473,putative peptidase,7 days at 30C,[220]
+20,,Lb.kefiri KFLM3,Toxin-binding on the,"81% decrease in milk, 15%",[213]
+21,,Lb.kefiri KFLM3,cell surface,in MRS,[213]
+22,,"Lc. rhamnosus CECT 749,",,,
+23,,Lp.plantarum CECT 749 and,>90% degradation by,,
+24,,"CECT 288,Lc.casei CECT",proteolytic activity; very,97-99% in MRS at pH 6.5,[221]
+25,,"4045,Lc.casei CECT 4040",little adsorption,,
+26,,L.bulgaricus CECT 4005,,,
+27,,Lp. plantarum 3QB361,Toxin-binding on cell,~60% reduced amount by,[215]
+28,,Lp. plantarum 3QB361,surface assumed,inactivated strain in PPB,[215]
+29,Patulin,,,,
+30,,Lev. brevis 20023,Adsorption on the cell wall,65% adsorption,[222]
+31,,,Adsorption on the cell wall,96% decrease in apple juice,
+32,,Lp. plantarum ATCC 8014,proteins mediated,during 6 weeks of,[223]
+33,,,proteins mediated,cold storage,
+34,,L. kefiranofaciens JKSP109,Adsorption on the cell wall,15Brix,[224]
+35,Deoxynivalenol,,,,
+36,,,Adsorption assumed;,67% reduction by unviable,
+37,,Lp. plantarum GT III,metabolic degradation,cells (sterilized),[225]
+38,,,suggested,cells (sterilized),
+39,,,Cell wall adsorption confirmed,40.7% reduction by the cell,
+40,,Lc. paracasei LHZ-1,as the major mechanism,by SN or cellular lysate,[226]

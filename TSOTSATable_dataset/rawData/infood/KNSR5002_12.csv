@@ -1,0 +1,31 @@
+,0,1,2,3,4,5
+0,,,,,"Salmo gairdneri, Richardson 1836 - unaccepted)","091162-091168, 091223-091229"
+1,Marine fish,,,,,
+2,"31 Flounders,halibuts,soles","31 Flounders,halibuts,soles",,,,
+3,,SOL,Soleidae,Common sole,"Solea solea(Linnaeus,1758)(syn.Solea vulgaris,","091042-091043,091108-091109"
+4,,,,,Quensel 1806 -unaccepted),"091169-091170, 091230-091231"
+5,"32 Cods,hakes,haddocks","32 Cods,hakes,haddocks",,,,
+6,,COD,Gadidae,Atlantic cod,"Gadus morhua, Linnaeus 1758","091044-091051, 091110-091117"
+7,,,,,,"091171-091178, 091232-091239"
+8,,PCO,Gadidae,Pacific cod,"Gadus macrocephalus,Tilesius 1810","091052-091055, 091118-091121,"
+9,,,,,,"091179-091182, 091240-091243"
+10,33 Miscellaneous coastal fishes,33 Miscellaneous coastal fishes,33 Miscellaneous coastal fishes,,,
+11,,BSS,Moronidae,European sea bass,"Dicentrarchus labrax(Linnaeus,1758)(syn","091056-091058, 091122-091124"
+12,,,,,"Morone labrax, Linnaeus 1758 - unaccepted)","091183-091185, 091244-091246"
+13,37 Miscellaneous pelagic fishes,37 Miscellaneous pelagic fishes,37 Miscellaneous pelagic fishes,,,
+14,,HOM,Carangidae,Atlantic horse mackerel,"Trachurus trachurus(Linnaeus,1758)","091059-091061, 091125-091127"
+15,,,,,,"091186-091188, 091247-091249"
+16,Crustaceans,,,,,
+17,41 Freshwater crustaceans,41 Freshwater crustaceans,,,,
+18,,EWA/AYS/CJF,Astacidae/,European crayfishes/,Includes a mix of species belonging to the,"092001-092003, 092039-092041"
+19,,,Cambaridae/,Euro-American crayfishes/,"Astacidae,Cambaridae and Parastacidae family","092077-092079, 092115-092117"
+20,,,Parastacidae,Oceanian crayfishes,,
+21,,PPF,Palaemonidae,River prawns,Macrobrachium spp,"092005,092043,092081,092119"
+22,,MBM,Palaemonidae,Monsoon river prawn,Macrobrachium malcolmsonii (H. Milne Edwards,"092006,092044,092082,092120"
+23,,,,,1844),
+24,,PRF,Palaemonidae,Giant river prawn,Macrobrachium rosenbergii (De Man 1879),"092007,092045,092083,092121"
+25,"42 Crabs,sea-spiders","42 Crabs,sea-spiders",,,,
+26,,CAD,Cancridae,"Jonah crabs, rock crabs","Includes DUN,CRE,and other species belonging","092008,092046,092084,092122"
+27,,,,,to the Cancridae family,
+28,,DUN,Cancridae,Dungeness crab,"Cancer magister, Dana 1852","092009,092047,092085,092123"
+29,,CRE,Cancridae,Edible crab,"Cancer pagurus, Linnaeus 1758","092010,092048,092086,092124"

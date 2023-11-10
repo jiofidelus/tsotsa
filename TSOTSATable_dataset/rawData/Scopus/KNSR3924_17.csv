@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,,,,,
+1,Investigated,"Extract,",Groups,Animal,,Method for,Microbiome,Method for,,
+2,"Plant,Plant",Sample,(n=Number of,"Species,",Conditions,Microbiome,Changes,Metabolite,Metabolites,Reference
+3,Part,Preparation,Analyzed,Volunteers,,Analysis,Changes,Detection,,
+4,,,Individuals),,,,,,,
+5,,,three groups:,,,,ADR group:,,,
+6,,,NC; antibiotic,,,,increase in microbial,,,
+7,,,group (A; 50 mg/kg,,,,diversity reduced by,,CY,
+8,,,BW,,,,antibiotic;,,administration,
+9,,Chinese yam,imipenem/cilastatin, SPF-grade male, treated for,V3-V4 region of,rel. increase in,metabolic,returned fecal,
+10,,extract(hot,(ADR;50 mg/kg,Wistar rats,21 days; fecal,"16S rRNA gene,","Lachnospiraceae,",profile analysis,sample,[100]
+11,,water) (CY),(ADR;50 mg/kg,(100  10 g),samples were,NGS (Illumina),"Ruminococcaceae,",by UPLC-Q-,metabolite,[100]
+12,,,imipenem/cilastatin,,collected,,Firmicutes;,TOF/MS,profile to,
+13,,,Na + 3.4 g/kg BW,,,,rel. decrease in,,normal,
+14,,,CY) (n=6 per,,,,"Blautia, Prevotella, and",,,
+15,,,group),,,,Eisenbergiella,,,
+16,,,,,,agar dilution,,,,
+17,,,,, treated for 42,methods on,,,,
+18,,,,,days;fecal,specified agars,,,different,
+19,,,four groups:,,sampling on day,"for enterococci,",,cecal lactic acid,concentrations,
+20,Eleutherococcus,,"g/100 kg),",post-weaned,0/1 (start of,coagulase-,EE group:,and SCFA,of propionic,
+21," senticosus,",ethanolic,Enterococcus faecium,rabbits (Hyplus,"day 21,and day",negative and,coagulase-negative,GC (days 21 and,experimental,[104]
+22,specified,extract(EE),EFAL41 +EE,old),42; on days 21,positive,staphylococci and,"42, 3 animals",groups in,
+23,,,(n = 24 rabbits in,,animals per,"staphylococci,",Clostridia on day 21,sacrificed),control on day,
+24,,,each group),,group were,"difficile,",,,42,
+25,,,,,sacrificed,"coliforms,",,,,
+26,,,,,,pseudomonads,,,,

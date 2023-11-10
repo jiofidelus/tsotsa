@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,Quartiles of fermented dairy food intakess,Quartiles of fermented dairy food intakess,Quartiles of fermented dairy food intakess,,,
+1,,,,Second,,Third,Fourth (high intake),Fourth (high intake),
+2,"Proportional hazard Cox modelst,#",First(low intake,HR,95% CI,HR,95%CI,HR,95%CI,Prenc
+3,Cases/non-cases,180/26 021,,229/25 972,,232/25 970,,237/25 964,
+4,Model 1,1,0.97,"079,118",0.84,"0-69, 1.02",0.81,"0.66, 0.98",0.01
+5,Model 2,1,0.97,"0.79,1-18",0.84,"0.69, 102",0.81,"0.66, 0.98",0.01
+6,Model 2b,1,0.97,"0.79,1.18",0.84,"069, 102",0.81,"0.66, 0.98",0.01
+7,Model 3,1,0.96,"079,117",0.83,"0.68, 1-02",0.80,"0.66, 0.98",0.01

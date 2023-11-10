@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,,,Required,Required,,
+1,,Exclusively,Still,Still,,number of,number of,Adequately,
+2,,breastfed,Still,Still,,meals in,,breastfed,of low
+3,,(at least 6,,,,children,,children 0-,of low
+4,,months),at 1,(%),,aged,6-,23 months,birth
+5,,(%),,(%),,23 month,23 month,(%),
+6,,,,,,(%),,,
+7,DRC,37,87,53,52,22,,50,10
+8,Urban,37,78,29,56,20,,47,11
+9,Rural,37,90,61,50,22,,51,9
+10,Kinshasa,23,74,18,58,18,,38,12
+11,Bas-Congo,20,92,49,44,16,,41,12
+12,Bandundu,30,91,81,79,42,,64,7
+13,Equateur,41,86,45,28,12,,31,6
+14,Province,,,,,,,,
+15,Orientale,51,76,48,54,24,,57,9
+16,Nord-Kivu,58,87,67,55,23,,57,13
+17,Maniema,57,90,59,56,37,,62,9
+18,Sud-Kivu,39,91,62,40,20,,50,10
+19,Katanga,31,89,42,38,15,,44,10
+20,Kasai,,,,,,,,
+21,Oriental,46,88,54,72,19,,63,12
+22,Kasai,,,,,,,,
+23,Occidental,30,97,76,80,29,,66,7

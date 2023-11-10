@@ -1,0 +1,34 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Food,Code,Letter,Name,Calcium,Phos- I,Magnes:,Potass-,Iron,Zinc,Carot-,Vitamin,Source of
+1,group,Code,code,Name,Calcium,phorus,ium,ium,Iron,Zinc,ene,c,data
+2,,,,,mg,mg,mg,mg,mg,mg,ug,mg,
+3,268,4038,BL,Paw-paw,20,15,11,224,0.6,0.1,1800,60,L
+4,268,4565,VS,Tallo fruit,27,48,25,450,2.8,0.1,170,1290,L
+5,268,4563,VQ,Tamba fruit (Gingerbread plum),42,54,126,450,1.7,0.1,40,95,L
+6,268,4564,VR,Tomborongo (Jujube),25,40,21,350,0.4,0.1,0,65,L
+7,10.3 - Nuts and Seeds,10.3 - Nuts and Seeds,10.3 - Nuts and Seeds,,,,,,,,,,
+8,268,4641,YQ,Baobab seeds,263,1494,297,910,13.9,2.0,0,0,L
+9,264,4225,IQ,"Kola nut, fresh",58,86,15,129,2.0,3.0,30,54,L
+10,264,4220,IL,"Kola nut, dried",108,176,39,348,6.0,7.0,0,0,L
+11,263,4594,WV,"Bambara groundnuts, fresh",14,258,60,539,1.2,1.0,0,5,L
+12,11. - Fish,,,,,,,,,,,,
+13,270,4001,AA,"Challo, dried",750,960,41,851,3.2,3.6,0,0,L
+14,270,4021,AU,"Furo/furundingo, dried",4000,2700,92,657,10.4,11.2,0,0,L
+15,270,4002,AB,"Kujalo,dried",177,409,27,515,1.1,9.4,0,0,L
+16,270,4624,XZ,Dried fish (unspecified),693,863,23,340,5.5,6.4,0,0,c
+17,270,4023,AW,"Challo, flesh only",90,220,18,279,1.7,1.6,0,0,L
+18,270,4022,AV,"Furo, flesh only",50,140,21,308,3.2,1.0,0,0,L
+19,270,4024,AX,"Kujalo, flesh only",30,75,25,321,0.3,1.0,0,0,L
+20,270,4025,AY,Fish (unspecified) flesh only,60,160,31,335,2.0,1.3,0,0,c
+21,270,4009,Al,"Shellfish, boiled",150,225,112,207,10.0,1.6,0,0,L
+22,283,4017,AQ,Fish cakes,25,156,11,155,1.0,1.2,0,0,c
+23,12.- Meat,,,,,,,,,,,,
+24,272,4014,AN,"Meat, boiled",10,190,21,311,2.5,5.0,0,0,L
+25,272,4020,AT,"Chicken, boiled",10,190,21,216,1.5,1.1,0,0,L
+26,272,4026,AZ,"Corned beef, canned (Aid Food)",14,120,15,140,2.9,5.6,0,0,L
+27,13. - Milk and Eggs,13. - Milk and Eggs,13. - Milk and Eggs,,,,,,,,,,
+28,277,4039,BM,Breastmilk,20,14,3,49,0.1,0.2,0,4,L
+29,274,4058,CF,"Milk, cows",128,93,12,159,0.1,0.3,80,2,L
+30,274,4071,Cs,"Milk, sour",128,93,12,159,0.1,0.3,80,2,c
+31,274,4073,CU,Milk and water,85,62,8,106,0.1,0.2,40,1,c
+32,274,4133,FC,,132,87,63,433,0.1,0.5,50,5,c

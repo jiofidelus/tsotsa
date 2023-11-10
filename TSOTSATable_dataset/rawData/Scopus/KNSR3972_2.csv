@@ -1,0 +1,31 @@
+,0,1,2,3,4
+0,,,,v) Conclusions/Discussions in abstract for negative trials: Discuss the,Highly
+1,,,,"primary outcome - if the trial is negative (primary outcome not changed),",Recommende
+2,,,,"and the intervention was not used,discuss whether negative results are",
+3,,,,attributable to lack of uptake and discuss reasons.,
+4,INTRODUCTION,2a,Scientific background and,i) Describe the problem and the type of system/solution that is object of,Essential
+5,Background and,,explanation of rationale,the study: intended as stand-alone intervention vs. incorporated in,
+6,objectives,,,broader health care program? [1] Intended for a particular patient,
+7,,,,"population? [1] Goals of the intervention, e.g., being more cost-effective",
+8,,,,"to other interventions [1], replace or complement other solutions? (Note:",
+9,,,,"Details about the intervention are provided in ""Methods"" under 5)",
+10,,,,"ii)Scientific background, rationale: What is known about the (type of)",Essential
+11,,,,system that is the object of the study (be sure to discuss the use of,
+12,,,,"similar systems for other conditions/diagnoses, if appropriate),",
+13,,,,"motivation for the study, i.e., what are the reasons for and what is the",
+14,,,,"context for this specific study, from which stakeholder viewpoint is the",
+15,,,,"study performed, potential impact of findings [2]. Briefly justify the choice",
+16,,,,of the comparator.,
+17,,2b,Specific objectives or hypotheses,No EHEALTH-specific additions here,
+18,,,,(note: Contrary to STARE-HI we do not recommend to mention IRB,
+19,,,,approval in this section - JMIR and other journals typically recommend,
+20,,,,"this as a subheading under ""methods"".CONSORT-EHEALTH has a",
+21,,,,separate item for ethical considerations),
+22,METHODS,3a,Description of trial design (such,No EHEALTH-specific additions here,
+23,Trial design,,"as parallel, factorial) including",,
+24,,,allocation ratio,,
+25,,3b,Important changes to methods,"i) Bug fixes, Downtimes, Content Changes: ehealth systems are often",Highly
+26,,,after trial commencement (such,dynamic systems. A description of changes to methods therefore also,Recommende
+27,,,"as eligibility criteria),with reasons",includes important changes made on the intervention or comparator during,
+28,,,,"the trial (e.g., major bug fixes or changes in the functionality or content) (5-",
+29,,,,"ili) and other ""unexpected events"" that may have influenced study design",

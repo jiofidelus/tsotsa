@@ -1,0 +1,42 @@
+,0,1,2,3,4,5,6
+0,Component,INFOODS,Unit,Denominator,Sig.,Data-,Comment1
+1,,tagname,,,digits,sheet,
+2,Edible portion,EDIBLE,,,2,04/05,Presented as the edible
+3,,,,,,,coefficients of the total
+4,,,,,,,foodas purchased and
+5,,,,,,,as consumed
+6,Energy,ENERC,"kJ,",/100 g EP,3,04/05,Calc. from energy-
+7,,,kcal,,,,yielding components
+8,,,,,,,"FAT,CHOAVLDF,"
+9,,,,,,,"PROTCNT,FIBTG"
+10,,,,,,,Equations 1&2)
+11,Water,WATER,g,/100 g EP,3,04/05,
+12,"Nitrogen, total",NT,g,/100 g EP,3,04/05,
+13,"Protein, total",PROTCNT,g,/100 g EP,3,04/05,Calc. from NT using
+14,,,,,,,nitrogen-to-protein
+15,,,,,,,factor 6.25
+16,,,,,,,(Equation 3)
+17,"Fat, total",FAT,g,/100 g EP,3,04/05,Notpreferred/improper
+18,,,,,,,"tagname: FATCE,"
+19,,,,,,,determination by
+20,,,,,,,continuous extraction;
+21,,,,,,,"FAT-, unknown or mixed"
+22,,,,,,,method.
+23,Fatty acid,XFA,,,3,,Calc. individually using
+24,conversion factor,,,,,,formula per animal
+25,,,,,,,"group(Equations7,8&"
+26,,,,,,,9)
+27,"Fatty acids, total",FACID,g,/100 g EP,3,04/05,Calc.from FAT using XFA
+28,,,,,,,(Equation 6)
+29,Carbohydrate,CHOAVLDF,g,/100 g EP,3,04/05,Calc.from proximates
+30,"available, by",,,,,,"WATER,FAT,PROTCNT"
+31,difference,,,,,,"ASH,FIBTG(Equation 4)"
+32,"Fiber,total dietary",FIBTG,g,/100 g EP,3,04/05,
+33,Ash,ASH,g,/100 g EP,3,04/05,
+34,Calcium,CA,mg,/100 g EP,3,04/05,
+35,Copper,CU,mg,/100 g EP,3,04/05,
+36,Iron,FE,mg,/100 g EP,3,04/05,
+37,Potassium,K,mg,/100 g EP,3,04/05,
+38,Magnesium,MG,mg,/100 g EP,3,04/05,
+39,Sodium,NA,mg,/100 g EP,3,04/05,
+40,Phosphorus,P,mg,/100 g EP,3,04/05,

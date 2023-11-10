@@ -1,0 +1,51 @@
+,0,1,2,3,4,5
+0,Foodname and description,Density in g/ml,Specific,BibliolD,Update,
+1,,(including mass,gravity,,Version,
+2,,and bulk density),,,2.0,2.0
+3,"Coffee, roasted (beans)",0.35-0.38,0.35-0.38,ASI,,
+4,"Miso, broth, ready to drink",1.06,,FNDDS 4.1,,
+5,"Powder, chocolate drinking powder",0.5-0.55,,RC,,
+6,Powders,0.2-0.25,,KEN,X,X
+7,"Tea, black (tea leaves)",0.48,,KEN,x,x
+8," Tea, herbal, Ciakimora (leaves + water)",1,,KEN,x,x
+9,"Tea, herbal, Ciakimora leaves",0.23,,KEN,x,x
+10,"Tea, flakes",0.38,,ASI,x,x
+11,"Tea, powdered",0.43,,ASI,x,x
+12,Tealiquid,1,,FNDDS 4.1,,
+13,"Tea, only (tea leaves + water)",1,,KEN,x,x
+14,"Tea, ready-to-drink, ARIZONA iced tea, with",1.03,1.04,USDA,x,x
+15,lemon flavor,,,,,
+16,"Tea, ready-to-drink, LIPTON BRISK iced tea, with",1.03,1.03,USDA,x,x
+17,lemon flavor,,,,,
+18,"Tea, ready-to-drink, NESTLE, COOL NESTEA ice",1.03,1.04,USDA,,
+19,tea lemon flavor,,,,,
+20,"Beverages,alcoholic",,,,,
+21,Beer,,,,,
+22,"Beer, lager",,1.005,UK 6th,,
+23,"Beer, light",1.00,1.00,USDA,x,x
+24,"Beer, light, BUD LIGHT",1.00,1.00,USDA,x,x
+25,"Beer,light,BUDWEISER SELECT",1.00,1.00,USDA,x,x
+26,"Beer, light, MICHELOB ULTRA",1.00,1.00,USDA,x,x
+27,"Beer, local (non specific)",0.96,,KEN,x,x
+28,"Beer, pale ale",,1.003,UK 6th,,
+29,"Beer, pilsner",1.007,,DK,,
+30,"Beer, pilsner, 4 C",1.008,,TB,,
+31,"Beer, regular, all",1.01,1.01,USDA,,4
+32,"Beer, regular, BUDWEISER",1.00,1.01,USDA,x,x
+33,"Beer, stout, bottled",,1.014,UK 6th,,
+34,"Beer, stout, extra",,1.002,UK 6th,,
+35,"Beer, strong ale",,1.018,UK 6th,,
+36,"Beer, type bitter or brown ale",,1.008,UK 6th,,
+37,"Beer, type draught",,1.004,UK 6th,,
+38,"Beer, type Keg",,1.001,UK 6th,,
+39,"Beer, type mild, draught",,1.009,UK 6th,,
+40,"Beer, commercial (white cap etc.)",0.97,,KEN,,
+41,Spirits and liqueurs,,,,,
+42,"Alcohol, ethyl",0.789,,TB,,
+43,Amaretto,,1.1,CG,X,X
+44,Amaretto di Saranno,,1.08,CG,x,x
+45,Anisette,,1.175,CG,x,x
+46,Apricot brandy,,1.06,CG,,4
+47,Apricot liquor,,1.09,CG,,A
+48,Bailey's irish cream,,1.05,CG,x,x
+49,Benedictine,,1.04,CG,x,x

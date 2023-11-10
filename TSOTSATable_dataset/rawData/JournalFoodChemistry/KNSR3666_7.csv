@@ -1,0 +1,66 @@
+,0,1,2,3
+0,Food,Species,Production,References
+1,,,system.,
+2,Acerola,Malpighia punicifolia, Organic,"Cardoso, Tomazini,"
+3,,Lvar. Olivier,,"Stringheta Ribeiro,"
+4,,,,"Pinheiro-Sant Ana, 2011"
+5,Red,"Citrus sinensis, cv.",Organic,"Tarozzi et al.,2006"
+6,oranges,Tarocco,,
+7,Passion,P. edulis Sims f., Organic,"Pertuzatti, Sganzerla,"
+8,fruit,"lavicarpa, Degener",,"Jacques,Barcia,"
+9,,,,"Zambiazi,2015;Oliveira"
+10,,,,"et al.,2017"
+11,Kiwifruits,"Actinidia deliciosa,", Organic,"DEvoli et al.,2013"
+12,,cv.Hayward,,
+13,Strawberry,"Fragaria  ananassa,",Organic,"Olsson, Andersson,"
+14,,"cv. Honeoye,",,"Oredsson, Berglund, &"
+15,,Cavendish,,"Gustavsson,"
+16,,,No effects,"2006Reganold et al.,"
+17,,Fragaria x ananassa,,"2010;Drobek,Frac"
+18,,"Duch., cv. Diamante,",,"Zdunek, & Cybulska,"
+19,," San Juan, Lanai,",,2020
+20,,Honeoye,,
+21,,,1,
+22,,"Fragaria vesca L., var.",Conventional,
+23,,Oso Grande,,"Cardoso, Tomazini,"
+24,,,,"Stringheta, Ribeiro, &"
+25,,,,"Pinheiro-Sant'Ana, 2011"
+26,Grapefruits,Citrus paradisi Macf,Organic,"Chebrolu, Jayaprakasha"
+27,,,,"JifonPatil,2012"
+28,Tomato,Lycopersicon,Organic,"Caris-Veyrat et al.,"
+29,,"esculentum, cv.",,"2004Juroszek, Lumpkin,"
+30,,"Felicia, Izabella",,"Yang, Ledesma, & Ma,"
+31,,Paola,,2009
+32,,,No effects,
+33,,Solanum,,
+34,,lycopersicum L.,,
+35,Corn,"Zea mays, cv.",Organic,"Asami,Hong,Barrett,"
+36,,Supersweet Golden,,"Mitchell,2003"
+37,,Jubilee,,
+38,Swamp,Ipomoea aquatica, Organic,"Ismail,& Cheah, 2003"
+39,Citrus juice,Citrus sinensis (L.),No effects,"Letaief, Zemni,Mliki,"
+40,,"Osbeck,cv. Maltaise",,"Chebil,2016"
+41,Persimmon,"Diospyros kaki L.,",No effects,"Cardoso, Tomazini,"
+42,,var. Rama Forte,,"Stringheta, Ribeiro, &"
+43,,,,"Pinheiro-Sant'Ana, 2011"
+44,Broccoli,Brassica oleracea var.,No effects,"Wunderlich, Feldman,"
+45,,italica,,"Kane,&Hazhin,2008"
+46,Chinese,Brassica juncea,No effects,"Ismail,& Cheah,2003"
+47,mustard,,,
+48,Chinese,Brassica alboglabra,No effects,"Ismail,& Cheah,2003"
+49,kale,,,
+50,Lettuce,Lactuca sativa,No effects,"Ismail,  Cheah,2003"
+51,Spinach,Amaranthus viridis,No effects,"Ismail, & Cheah, 2003"
+52,Yellow,"Prunus domestica L.,",No effects,"Lombardi-Boccia,"
+53,plums,cv. Shiro,,"Lucarini, Lanzi, Aguzzi, "
+54,,,,"Cappelloni,2004"
+55,Apples,"Malus domestica, cv.",No effects,"Weibel, Bickel, Leuthold"
+56,,Golden Delicious,,"&Alfoldi,2000"
+57,Pears,"Pyrus communis L.,",No effects,"Carbonaro, Mattera,"
+58,,cv.Williams,,"Nicoli, Bergamo, &"
+59,,,,"Cappelloni,2002"
+60,Peppers,Capsicum annuum,No effects,"Lopez, Fenoll, Hellin &"
+61,,L.,,"Flores,2014"
+62,Blueberry,Vaccinium,1,"Ochmian, Blaszak,"
+63,,"corymbosum L., cv.",Conventional,"Lachowicz,"
+64,,Brigitta Blue,,"Piwowarczyk,2020"

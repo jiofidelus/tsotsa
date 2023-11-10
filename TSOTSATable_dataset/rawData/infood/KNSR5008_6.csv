@@ -1,0 +1,47 @@
+,0,1,2,3,4
+0,,(including mass,gravity,,Version
+1,,and bulk density),,,2.0
+2,Milk and dairy products,,,,
+3,Milk,,,,
+4,Milk (at 15.6 C),,1.02-1.05,CSG,X
+5,Milk (non-fat dry),0.56,,ASI,X
+6,Milk (powdered whole),0.56,,ASI,X
+7,Milk (powdered),0.21,,ASI,x
+8,"Milk shake, fruit and other",1,,FNDDS 4.1,
+9,"Milk, acidophilus cultured",1.01,,DK,
+10,"Milk, buttermilk",1.022,,DK,
+11,"Milk, chocolate milk, skimmed",1.056,,DK,
+12,"Milk, cow, whole",1.04,,KEN,X
+13,"Milk, evaporated",,1.07,UK 6th,
+14,"Milk, goat, whole",1.08,,FNDDS 4.1,
+15,"Milk, liquid (whole, semi-skimmed, skimmed)",,1.03,UK 6th,
+16,"Milk, liquid, partially skimmed",1.034,,DK,
+17,"Milk, liquid, skimmed",1.033,,TB,
+18,"Milk, liquid, skimmed",1.036,,DK,
+19,"Milk, liquid, whole",1.030,,TB,
+20,"Milk, liquid, whole",1.031,,DK,
+21,Dairy products,,,,
+22,Butter,0.911,,TB,
+23,"Butter, margarine",0.96,,RC,
+24,"Buttermilk, dried",0.5,,ASI,x
+25,Casein,0.58,,ASI,X
+26,"Cheese,emmentaler,grated",0.34,,RC,
+27,"Cream,13% fat",1.013,,DK,
+28,"Cream, 38% fat",0.984,,DK,
+29,"Cream, 9% fat",1.017,,DK,
+30,"Cream, double (about 40-50% fat)",,0.94,UK 6th,
+31,"Cream, heavy",0.994,,TB,
+32,"Cream, light",1.012,,TB,
+33,"Cream, single (about 20% fat)",,1.00,UK 6th,
+34,"Cream, sour (creme fraiche about 18% fat)",1.005,,DK,
+35,"Cream, sour (creme fraiche about 38% fat)",0.978,,DK,
+36,"Cream, whipped",0.496,,S&W,
+37,"Cream, whipping (about 40% fat)",,0.96,UK 6th,
+38,Ice cream,0.554,,S&W,
+39,"Ice cream, dairy",,0.61,UK 6th,
+40,"Ice cream, light (formerly ice milk)",0.56,,FNDDS 4.1,
+41,"Ice cream, light, no sugar added",0.58,,FNDDS 4.1,
+42,"Ice cream, no sugar added",0.54,,FNDDS 4.1,
+43,"Ice cream, non dairy",,0.51,UK 6th,
+44,"Ice cream, regular",0.56,,FNDDS 4.1,
+45,"Ice cream, rich",0.62,,FNDDS 4.1,

@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Matrix,Extracting,TC,Pressure,Other operation,Target compounds,Chemical structure of main,Chemical structure of main,,,Extraction recovery/yield,Antioxidant,References
+1,,solvent,,MPA,parameters,,compounds,,,,,capacity (method),
+2,Potato peels,Water,180,6,30 min;,Chlorogenic and,Gallic acid,,,,~1.75 higher vs.,n.d,"Singh & Saldana,"
+3,,,,,2 mL/min,hydroxybenzoic acids,,,,,conventional solid-liquid,,2011
+4,,,,,,,,,,,extraction,,
+5,,,,,,,,,,,TPC: 81.83 mg GAE/100 g,,
+6,,,,,,,HO,,,OH,WB,,
+7,,,,,,,HO,,,,,,
+8,,,,,,,,OH,,,,,
+9,,,,,,,Chlorogenic acid,Chlorogenic acid,,,,,
+10,,,,,,,HC,,,,,,
+11,,,,,,,OH,,,,,,
+12,,,,,,,,,OH,,,,
+13,,,,,,,14.59 mg/100 g WB,14.59 mg/100 g WB,,,,,
+14,Grape seeds,Water,150,67,"30 min, single","Hydroxybenzoic acids,",Gallic acid,,,,~1.3 higher vs.,n.d,Garcia-Marino
+15,,,,,extraction,catechins,,,,,conventional solidliquid,,"et al., 2006"
+16,,,,,,proanthocyanidins,,,,,extraction with MeOH:HO,,
+17,,,,,,,HO,,,,DW,,
+18,,,,,,,,,,OH,,,
+19,,,,,,,HO,,,,,,
+20,,,,,,,,OH,,,,,
+21,,,,,,,232.1  22.7 mg/100 g DW,232.1  22.7 mg/100 g DW,,,,,
+22,Mango peels,Water,180,Atmospheric, 90 min;,Phenolic compounds,n.d,,,,~1.4 higher vs.,n.d,Tunchaiyaphum
+23,,,,,solid/water ratio,,,,,,conventional Soxhlet,,"et al.,2013"
+24,,,,,1:40;,,,,,,ethanol extraction,,
+25,,,,,pH 4,,,,,,,,
+26,,,,,,,,,,,TPC: 50.25 mg GAE/g DW,,

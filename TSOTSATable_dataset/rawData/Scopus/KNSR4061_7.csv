@@ -1,0 +1,15 @@
+,0,1,2,3
+0,,Low(Score of,Intermediate,High (Score of
+1,,0-3 Points),(Score of4-5 Points),6-9 Points)
+2,"Total, %",32.6,39.1,28.3
+3,"Sex, %",,,
+4,Men,29.7,39.0,31.3
+5,Women,35.1,39.2,25.7
+6,"Age,%",,,
+7,<65 years,35.8,38.7,25.5
+8,65years,19.5,40.8,39.7
+9,"Geographic area 1, %",,,
+10,Attiki,35.6,38.7,25.7
+11,Northern Greece,30.0,39.7,30.3
+12,Central Greece,31.2,39.0,29.7
+13,Egeo and Kriti,33.1,39.2,27.7

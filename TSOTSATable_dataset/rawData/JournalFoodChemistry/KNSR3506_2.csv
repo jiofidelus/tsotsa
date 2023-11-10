@@ -1,0 +1,74 @@
+,0,1,2,3,4,5
+0,,,MODEL,,,
+1,,,,,"SVM, 1.26 for GA-LS-SVM, and 1.12 for GA-SPA",
+2,,,,MLR.,MLR.,
+3,"Palmitic, oleic, linoleic, linolenic acid",NIR,UVE-SPA-MLR,,"In comparison with full-PLS,UVE-SPA-MLR","Li,Wang, Xiong, Li, and"
+4,content determination in sea,,,,improved the RMSEP (in % w/w)from 0.40 to 0.16,Feng(2016
+5,buckthorn seed oil,,,,"for palmitic,0.65 to 0.26 for oleic,0.85 to 0.37 for",
+6,,,,,"linoleic, and 0.83 to 0.36 for linolenic acid contents.",
+7,Soluble solid content determination in,Vis-NIR,MCARS-SPA-PLS,,RMSEP were improved from 0.606Brix for full-PLS,"Fan, Guo, Zhang, Huang."
+8,apples,,,,to 0.527Brix for MCARS-SPA-PLS,and Zhao (2016
+9,"Hempseed oil determination in rapeseed,",1H-RMN,FB-Fi-PLS combined,,"In comparison with full-PLS,FB-Fi-PLS combined","Jovic,Piculjan,Hrenar"
+10,"sesame, and sunflower oils",,with iRR,,with iRR improved the RMSEP (in % w/w) from,"Smolic,and Primozic"
+11,,,,,"1.4451 to 1.3722 for rapeseed oil,2.7034 to 1.7764",2019
+12,,,,,"for sesame oil, and 3.9711 to 2.9783 for sunflower",
+13,,,,oil.,,
+14,Total volatile basic nitrogen content,Hyperspectral imaging,PN-GA-PLS,,RMSEP (in mg N/100 g) were improved in the,"Cheng, Sun, and Wei"
+15,determination in fish fillet,,,,"following order for GA-PLS(2.348 and 2.128),GA-",2017
+16,,,,,"LS-SVM (2.280 and 2.123),PN-GA-LS-SVM (1.846",
+17,,,,,"and 1.731), and PN-GA-PLS (1.737 and 1.435) using",
+18,,,,,the optimal wavelengths and image texture,
+19,,,,"variables, respectively.","variables, respectively.",
+20,Spoiled content determination in beef,"UV,Vis-NIRand",AF-PLS,,"RMSEP for full-PLS and AF-PLS were, respectively, of",2018
+21,,UV-Vis-NIR,,,"0.38 and 0.20 using UV spectra, 0.16 and 0.11 using",2018
+22,,,,,"UVVis spectra, and 0.18 and 0.12 using UVVis-NIR",
+23,,,,spectra.,spectra.,
+24,"Cold-pressed linseed, rapeseed, sesame,",MIR,DW-PLS,,"RMSEP (in % w/w) for full-PLS and DW-PLS were,",Jovic(2016)
+25, and sunflower determination in binary,,,,"respectively,of 2.4971 and 2.5293 for rapeseed,",
+26,mixtures of edible oils,,,,"2.0196 and 1.4251 for sesame,1.9698 and 1.3288",
+27,,,,for sunflower oil.,for sunflower oil.,
+28,Soluble solid content determination in,Vis-NIR,VAB-PLS,,RMSEP (inBrix) were improved in the following,Li et al.2020)
+29,citrus,,,,"order for MC-UVE-PLS (0.611), boosting PLS (0.593),",
+30,,,,,"CARS-PLS(0.592),cPLS(0.592),and VAB-PLS",
+31,,,,(0.579).,(0.579).,
+32,"Total sugar,reducing sugar, total",NIR,ICO-PLS,,"RMSEP for full-PLS and ICO-PLS were,respectively","Li, Huang, Song, Zhang."
+33,"nitrogen, and nicotine determination",,,,"of 1.3535 and 0.8672 for total sugar, 1.5484 and",and Min (2019)
+34, in Solanaceae plant,,,,"1.4464 for reducing sugar, 0.0694 and 0.0432 for",
+35,,,,,"total nitrogen, and 0.1537 and 0.1078 for nicotine.",
+36,CLASSIFICATION,,,,,
+37,Classification of aged cachacas,Digital images,SPA-LDA,,Selected variables by SPA-LDA in the Blue channels,"Fernandes, Almeida,"
+38,,,,,and the respective Fisher's discriminant function plot,"Fontes, Araujo,Veras,"
+39,,,,,showed the separation between non-adulterated and,and Diniz 2019
+40,,,,,adulterated aged cachaca samples.,
+41,Classification of goat milk,NIR,iSPA-PLS-DA,,In-situ goat milk authentication in terms of its,dos Santos Pereira et al.
+42,,,,,adulteration by adding cow milk.Four 4 intervals,2021)
+43,,,,,"were selected by iSPA-PLS-DA,which were directly",
+44,,,,,correlated with the spectral regions associated with,
+45,,,,,the information on fat and protein.,
+46,Classification of macadamia kernels,NIR and NMR,GA-LDA,,Both spectroscopy techniques can be successfully,Carvalho et al.2019)
+47,,,,,used to classify unshelled macadamia kernels based,
+48,,,,,"on the defects and,GA-LDA out-performed the higher",
+49,,,,accuracy results.,accuracy results.,
+50,Classification of Serra da Estrela cheese,UPLC-DAD-MS/MS,SA-LDA,,The satisfactory predictive performance pointed out,Reis Lima et al.(2019
+51,,,,,the possibility of using cheeses' amino acids profiles,
+52,,,,,"as origin biomarkers for authenticity control,",
+53,,,,,warranting the correctness identification of the,
+54,,,,,"cheese producer/brand,which was achieved from 19",
+55,,,,,variables dataset selected by the SA algorithm.,
+56,Classification of olive oils,Electronic tongue sensor,SA-LDA,,Based on subsets of 5-8 electronic tongue sensor,"RodriguesDias,Veloso"
+57,,,,,"signals, selected by the meta-heuristic simulated","Pereira,and Peres (2017)"
+58,,,,,"annealing variable selection algorithm,allowed the",
+59,,,,,correct classification of olive oils according to the,
+60,,,,,light exposition conditions and/or storage time.,
+61,Identification of adulteration in extra,FT-NIR,GA-PLS-DA,,"Selecting the variables, the PLS-DA-GA model",Vieira et al. (2021)
+62,virgin olive oil,,,,applied to blend presented great results for all class,
+63,,,,,-allowing differentiation from seven adulterants to,
+64,,,,,genuine extra virgin olive oils- being considered a,
+65,,,,,better model in relation to the complete and,
+66,,,,,extremely sensitive and reliable.,
+67,Identification of coffee adulterations,Voltammetric electronic,SPA-LDA,,To detect the addition of coffee husks and sticks,"de Morais, Rodrigues,"
+68,,tongue,GA-LDA,,(adulterated/unadulterated or evaluate the shelf,"Souto,and Lemos (2019)"
+69,,,,,"life condition(expired/unexpired),both obtained",
+70,,,,,"models presented low classification errors,with GA/",
+71,,,,,LDA model presenting the smallest possible number,
+72,,,,,of errors. The SPA/LDA model employed a smaller,

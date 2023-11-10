@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6,7,8
+0,Vitamin D Form,Quality of data,,,,,,TOTAL,%
+1,,HPLC data with,HPLC data without,Analytical data with,,Analytical data without,Manufacturers' data,,
+2,,reference,reference,reference,,reference,,,
+3,"VITAMIN D,Total",236,107,16,,91,208,658,67
+4,VITAMIN D3,121,0,15,,23,0,159,16
+5,25(OH)D3,57,0,90,,17,0,164,17
+6,TOTAL,,,,981,,,,

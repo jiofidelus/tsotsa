@@ -1,0 +1,16 @@
+,0,1,2,3
+0,Variable,,IF1-Pn=10),IF2-Pn=10
+1,"Body weight (BW, kg)",Pre,86.95.9,99.48.1
+2,,"Post a,b.",82.35.4,92.3  7.2
+3,"WaistCircumference(WC,cm",Pre,98.03.1,108.95.6
+4,,"Post a,b",93.13.4,100.96.1
+5,"Body Mass Index (BMI, kg/m2)",Pre,31.31.6,33.63.1
+6,,"Posta,c",29.61.4,31.22.8
+7,Total Body Fat (%BF%,Pre,38.2  2.3,42.02.6
+8,,Post a,36.2  2.6,40.02.4
+9,"Fat Mass FM,kg)",Pre,33.0 3.3,41.62.6
+10,,"Post a,c",29.73.2,37.04.3
+11,"Fat-Free MassFFM,kg",Pre,53.14.0,56.54.4
+12,,Post a,51.93.9,54.64.1
+13,FFM/BW (%),Pre,61.8 2.3,58.02.6
+14,,Post a,63.8 2.6,60.02.4

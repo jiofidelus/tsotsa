@@ -1,0 +1,24 @@
+,0,1,2,3
+0,Parameters,n=1044,n=1501,p-Value b
+1,Age(meanSD),22.12.5,22.22.3,0.206
+2,Gender (%),,,
+3,Female,82.2,73.9,<0.001
+4,Male,17.8,26.1,<0.001
+5,Living place (%),,,
+6,Village,17.7,21.5,
+7,Small town,19.7,19.3,0.153
+8,City,62.6,59.2,
+9,Socioeconomic status (%,,,
+10,Very good or good,68.7,68.2,0.807
+11,Average or poor,31.3,31.8,0.807
+12,Physical activity,,,
+13,Low,35.9,43.5,
+14,Moderate,34.8,37.7,<0.001
+15,High,29.3,18.8,
+16,Body mass index (kg/m2) (%,,,
+17,<18.5,9.9,8.9,
+18,18.5-24.9,75.0,72.0,0.139
+19,25,15.1,19.1,
+20,Health status (%),,,
+21,At least good,85.8,88.5,0.042
+22,Average or poor,14.2,11.5,

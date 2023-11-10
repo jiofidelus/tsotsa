@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,,Drugs Affected by Tetrahydrocannabinol and Cannabidiol,Drugs Affected by Tetrahydrocannabinol and Cannabidiol,,Drugs Affecting Tetrahydrocannabinol and Cannabidiol Exposure,Drugs Affecting Tetrahydrocannabinol and Cannabidiol Exposure
+1,THC interacts with warfarin via,,"CBD inhibits CYP 2D6,2B6,",,,Both THC and CBD are metabolized by CYP
+2,an unknown mechanism,,"and 2C19,and UGT 1A9 and 2B7","and 2C19,and UGT 1A9 and 2B7",,3A4.CBD is also metabolized by 2C19
+3,THC increases levels of:,CBD increases levels of:,CBD increases levels of:,CBD reduces levels of,Increased levels ofTHC/CBD,Reduced levels of THC/CBD
+4,Mechanism unclear,2D6 substrates,2B6 substrates,Dependent on 2D6 for,Strong 3A4 inhibitors,Strong 3A4 inducers
+5,Warfarin,Amitriptyline,Methadone,activation,Clarithromycin,Carbamazepine
+6,,Nortriptyline,UGT1A9 and UGT2B7,Codeine,Itraconazole,Phenytoin
+7,,Desipramine,substrates,Tamoxifen,Ketoconazole,Rifampin (rifampicin)a
+8,,Flecainide,Mycophenolate,Tramadol,Posaconazole,Moderate 3A4 inducers
+9,,Haloperidol,Dabigatran,Partly dependent on 2C19,Ritonavir,Bosentan
+10,,2C19 substrates,Mechanism unclear,for activation,Voriconazole,Dabrafenib
+11,,2C19 substrates,Everolimus,Clopidogrel,Moderate 3A4 inhibitors,Rifabutin
+12,,Citalopram,Sirolimus,,Amiodarone,Rifabutin
+13,,Diazepam,,,Cyclosporine,St. John's wort
+14,,Escitalopram,,,Diltiazem,2C19 inducersb
+15,,Tacrolimus,,,Erythromycin,Apalutamide
+16,,Voriconazole,,,Fluconazole,
+17,,Warfarin,,,Grapefruit juice,
+18,,Omeprazole,,,Imatinib,
+19,,,,,Verapamil,

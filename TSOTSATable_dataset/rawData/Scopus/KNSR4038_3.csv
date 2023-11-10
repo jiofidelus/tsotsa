@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7
+0,,Source of Variation,d.f,SS,Variance,Percentage of,ST,P
+1,,,,,components,variation (%),,
+2,Species,Among populations,17,37.880,0.032,3.8,0.038,P<0.001
+3,,Within populations,808,650.072,0.804,96.2,,
+4,,"The mid-south cluster ZJ,WN,LS,SD,HC,HZ,NN,JY,LD,SG,Among populations",13,12.471,0.012,2.9,0.029,P<0.001
+5,"SZ,HY, ZP, LP)",Within populations,620,251.144,0.405,97.1,,
+6,The eastern cluster(MZ.GZ.SX.ND),Among populations,3,5.365,0.020,2.4,0.024,P<0.001
+7,,Within populations,188,152.917,0.813,97.6,,
+8,Two clusters,Among populations,7,8.442,0.026,3.0,0.030,P<0.001
+9,,Within populations,824,679.510,0.825,97.0,,
+10,"The mid clusterZJ,SD,HC,HZ,NN,JY,LD,SG,SZ,HYZP,LP)",Among populations,11,8.715,0.009,2.0,0.020,P<0.001
+11,,Within populations,526,216.415,0.411,98.0,,
+12,"The south cluster(WN,LS",Among populations,1,1.687,0.016,1.10,0.011,P<0.005
+13,,Within populations,94,102.104,1.086,98.9,,
+14,Between Hainan island and mainland China,Among populations,1,7.698,0.041,4.7,0.047,P<0.001
+15,,Within populations,824,680.253,0.826,95.3,,
+16,Three clusters,Among populations,2,14.233,0.030,3.5,0.035,P<0.001
+17,,Within populations,825,675.393,0.819,96.5,,

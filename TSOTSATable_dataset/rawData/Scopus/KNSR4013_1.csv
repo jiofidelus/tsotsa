@@ -1,0 +1,36 @@
+,0,1,2
+0,Characteristics,n,%
+1,Sex,,
+2,Male,16,19.3
+3,Female,67,80.7
+4,Age (years),,
+5,19-30,8,9.6
+6,31-44,13,15.7
+7,45-64,41,49.4
+8,65,21,25.3
+9,Race,,
+10,Hispanic or Latinx,53,63.9
+11,Non-Hispanic White,24,28.9
+12,Other 1,6,7.2
+13,Education,,
+14,Less than high school,32,38.6
+15,Completed high school,29,34.9
+16,Some college or more,22,26.5
+17,Employment,,
+18,Employed,18,21.7
+19,Unemployed,28,33.7
+20,Not seeking employment 2,37,44.6
+21,Annual Household Income 3,,
+22,Less than USD 5000,11,13.4
+23,"USD5001-USD10,000",24,29.3
+24,USD10.001-USD 15.000,19,23.2
+25,"USD 15,001-USD30,000",20,24.4
+26,"More than USD 30,000",8,9.8
+27,"Poverty status 3,4",,
+28,Above poverty,29,35.4
+29,Poverty,32,39.0
+30,Extreme poverty,21,25.6
+31,Food security status,,
+32,Food security,25,30.1
+33,Low food security,28,33.7
+34,Very low food security,30,36.1

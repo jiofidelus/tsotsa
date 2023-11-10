@@ -1,0 +1,64 @@
+,0,1,2,3,4,5,6
+0,Cultivars,Organs/,Extraction solvent used,Models,Health-,Main results,References
+1,,Tissues,,,promoting,,
+2,,,,,properties,,
+3,"Malus spp.cv.Royalty',cv.",Leaves,80% methanol (v/v),In-vitro DPPH radical,Antioxidant,DPPH radical scavenging,"LiuWang,"
+4,"Makino,cv.Pink Spire",and,,scavenging capacity and,property,capacity:39-278 mmol TE/g,Wang 2018
+5,cv.Sparkler' and cv.,flowers,,FRAP assays,,FW,
+6,Strawberry Parfait,,,,,FRAP18-11 mg VE/100 g,
+7,,,,,,FW,
+8,Malus baccata,"Seeds,",70% ethanol (v/v),"In-vitro FRAP, SASC and",Antioxidant,FRAP: 0.50-0.69 mg SME/mL,"Sharma & Nath,"
+9,,peels and,,HFRSA assays,property,SASC: 32.5-39.3 g SME/mL,2015
+10,,pulps,,,,HFRSA: 9.8-30.6 g SME/mL,
+11,"Malus spp.cv.r3t4', cv.",Peels,Methanol,"In-vitro FRAP,ORAC and",Antioxidant,FRAP: 21.434.1 g TE/100 g,Huber&
+12,Antanovka' and cv.,,, MLMSTARS assays,property,DW,"Rupasinghe,2009"
+13,'Dolgo',,,,,ORAC10.3-14.2 g TE/100 g,
+14,,,,,,DW,
+15,,,,,,Inhibitory effects on methyl,
+16,,,,,,linolenate oxidation:,
+17,,,,,,94.4-96.5%,
+18,Malus spp. Royalty',Pulps,95% ethanol (v/v),"In-vitro DPPH,ABTS radical",Antioxidant,ECso Values of DPPH radical,"Chen et al.,2014"
+19,,,,"scavenging capacity, SASC",property,scavenging capacity:,
+20,,,,and HFRSA assays,,0.37-1.60 mg/mL,
+21,,,,,,EC5o values of ABTS radical,
+22,,,,,,scavenging capacity:,
+23,,,,,,0.19-0.56 mg/mL,
+24,,,,,,SASC: 1.9012.27 U/g,
+25,,,,,,HFRSA:0.60-4.08 U/g,
+26,Malus spp. Radiant,Leaves,70% methanol (v/v),"A549 lung cancer cells,Bel",Anticancer,Growth-inhibitory effects,"Qin Xing,Zhou, &"
+27,,,,"7402 liver cancer cells,",property,,"Yao,2015"
+28,,,,HepG2 ileocecal cancer cells,,,
+29,,,,and HT-29 colon cancer,,,
+30,,,,cells,,,
+31,Malus spp. cv.Red,Pulps,"A mixture of methanol,","SW480 colon cancer cells,",Anticancer,"IC5o values on SW480,BGC-",Han et al.2019
+32,"Splendor, Malus",,formic acid and water,BGC-803 stomach cancer,property,803 and CasEs-17 cells:,
+33,micromalus and Malus,,"70:2:28,v/v/v",cells and CaEs-17,,"48.34-974.81 g/mL,",
+34,micromalus.cv.,,,esophageal cancer cells,,78.88-910.62 g/mL and,
+35,Haihongguo',,,,,64.472291.38 g/mL,
+36,Malus spp.cv.Xifuhaitang,Pulps,Water,HL-60 human leukemia cells,Anticancer,ECso values: 0.9614.59 mg,"Yoshizawa,"
+37,and other 41 cultivars,,,,property,fruit equivalent per well,"Sakurai, Kawaii,"
+38,,,,,,,"Soejima,&"
+39,,,,,,,"Murofushi,2004"
+40,Malus baccata,Leaves,50% ethanol,In-vitro fatty acid synthase,Lipid-lowering,ICso value: 27.1 g/mL DW,"Wei et al., 2009"
+41,,,,inhibition and kinetic assays,property,,
+42,Malus spp.cv.Indian,Pulps,95% ethanol (v/v),C57BL/6 mice,Lipid-lowering,TC and LDL-c levels in,"Li et al.,2016"
+43,"Magic,cv.Donald,cv.",,,,property,"serum,  the mRNA",
+44,"Red Splendor, Malus",,,,,expression and protein levels,
+45,xaojinesis Cheng et Jiang,,,,,of CYP7A1 in liver,
+46,and Malus prunifolia,,,,,,
+47,Borkh.,,,,,,
+48,Malus  robusta Rehder,Pulps,"Chlormethane, ethyl",C57BL/6 mice,Lipid-lowering,"TG level in serum,TC level","Wang et al.,2017"
+49,,,acetate and n-butanol,,property,"in feces, body weight gain,",
+50,,,,,,fasting blood glucose and lipid,
+51,,,,,,droplet number in liver,
+52,Malus spp. cv.Red jade,Pulps,"Dichloromethane, ethyl",C57BL/6 mice,Lipid-lowering,TC levels and LDL-c levels in,"Wen et al.,2018"
+53,Malus hupehensis Rehd.,,"acetate, n-butanol, 20%",,property,serum,
+54,and Malus prunifolia,,60% and 100% ethanol,,,,
+55,Borkh.,,,,,,
+56,Malus sylvestris,Pulps,,Wistar albino rats,Anti-diabetic, blood glucose level,"Usta, Bedel"
+57,,,,,property,,"Kurtoglu,"
+58,,,,,,,"Kurtoglu,2016"
+59,Malus spp. cv.Indian,Pulps,Water and a mixture of,In-vitro cycloocygenase-2,Anti-,Strong inhibitory effects on,"Seeram,"
+60,Summer' and Malus,,methanol and chloroform,inhibition assays,inflammatory,the activity of,"Cichewicz,"
+61,kornicensis,,"6.58:1,w/w)",,property,cycloocygenase-2,"Chandra,& Nair"
+62,,,,,,,2003

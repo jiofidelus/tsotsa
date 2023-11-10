@@ -1,0 +1,20 @@
+,0,1,2,3,4
+0,Compound,Abbreviation,UV detection,Retention times (min),Retention times (min)
+1,,,wavelength (nm),In standard,In fish
+2,,,,solution,sample
+3,Naphthalene,Nap,220,12.20,12.26
+4,Acenaphthylene,AcPy,230,13.46,13.54
+5,Acenaphthene,Acp,230,14.74,14.86
+6,Fluorene,Flu,264,14.93,15.03
+7,Phenanthrene,PA,251,15.66,15.77
+8,Anthracene,Ant,251,16.03,16.14
+9,Fluoranthene,FL,230,16.99,17.10
+10,Pyrene,Pyr,240,17.25,17.37
+11,Chrysene,CHR,264,18.70,18.83
+12,Benzo[a]anthracene,BaA,290,18.86,18.99
+13,Benzo[b]fluoranthene,BbF,251,19.98,20.13
+14,Benzo[k]fluoranthene,BkF,230,20.13,20.22
+15,Benzo[a]pyrene,BaP,264,20.33,20.47
+16,"Dibenz[a,h]anthracene",DBA,290,21.28,21.41
+17,"Indeno[1,2,3-cd]pyrene",IND,251,21.49,21.63
+18,Benzo[ghi]perylene,BghiP,290,21.62,21.78

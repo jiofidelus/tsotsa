@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,Sample,Technique,Conditions,RSD,LOD(g,Recovery,Reference
+1,,,,(%),L-1,(%),
+2,Honey,1H NMR,pH adjustment to 4.9 and addition of TSP,,,92.0  98.3,"He et al.,2020"
+3,Corn syrups,UV (285 nm),Reduction with sulfite,0.3,100,,"Andrade et al.,2017)"
+4,Honey,UV/Vis,Reaction with Seliwanoff reagent (resorcinol-HCl),2.5 ,2690,96.6,"Besir et al.,2021"
+5,,(485 nm),,5.1,,,
+6,Honey,UV (284 and 336,Treatment with sodium bisulfite,9.7,51000,101.7,"Pasias et al.,2017"
+7,,nm),,,,,
+8,Honey,UV/Vis (532 nm),Formation of the imine adduct and ion:pair with phenosafranine in,3.0 ,0.5  0.7,95.0 -99.0,"(Bas&Giirkan,2021)"
+9,,,SDS medium,4.2,,,
+10,Honey,UV (284 and 336,Reaction with p-nitrophenylhydrazine in SDS medium,2.1 ,1960,93.5 -103.2,"(Guirkan & Altunay,"
+11,,nm),,3.6,6500,,2015)
+12,Sugarcane,UV/Vis (420 nm),"Reaction with p-aminobenzoic, barbituric and hydrochloric acids",3.2 ,740,96.3  106.0,"Milani et al., 2017)"
+13,liquor,,,5.5,,,

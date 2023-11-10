@@ -1,0 +1,5 @@
+,0,1,2,3,4
+0,,,Odds ratio95%CI)by HEI-2015 score tertile,,
+1,Adjustment,1st,2nd,3rd,Pvalue for trend
+2,Model1b,1,1.35(0.88-2.07,1.93(1.25-2.98),.003
+3,Model2c,1,1.30 (0.83-2.03),1.73(1.10-2.72),.03

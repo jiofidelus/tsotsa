@@ -1,0 +1,42 @@
+,0,1,2
+0,Component,Component name,Unit
+1,ID/Tagname,,
+2,HEMCEL(g),hemicellulose,g
+3,MUCIL(g),mucilage,g
+4,CHITIN(g),chitin,g
+5,FIBPEN(g),pentoses in dietary fibre,g
+6,GLUFB(g),glucose in dietary fibre,bo
+7,GALFB(g),galactose in dietary fibre,g
+8,GLUCNB(g),betaglucan,g
+9,PSACNC(g),"polysaccharides, non-cellulosic",g
+10,PSACNSI(g),"polysaccharides, non-starch, water-insoluble",g
+11,PSACNSS(g),"polysaccharides, non-starch, water-soluble",bo
+12,WAX(mg),"wax, total",mg
+13,Water,,
+14,WATER(g),water,g
+15,DM(g),dry matter,g
+16,Ash and other solids,,
+17,ASH(g),ash,g
+18,Polyols,,
+19,MANTL(mg),mannitol,mg
+20,SORTL(mg),sorbitol,mg
+21,Organic acids,,
+22,ACEAC(mg),acetic acid,mg
+23,BENAC(mg),benzoic acid,mg
+24,FUMAC(mg),fumaric acid,mg
+25,MALAC(mg),malic acid,mg
+26,OXALAC(mg),oxalic acid,mg
+27,PHYTCPPI(mg),"phytate, determined by indirect precipitation",mg
+28,PHYTCPPD(mg),"phytate, determined by direct precipitation",mg
+29,PHYTCPP(mg),"phytate, calculated from the phytate phosphorus by anion exchange method",mg
+30,PHYTC-(mg),"phytate, calculated from phytate phosphorus by an unknown method",mg
+31,PPI(mg),"phytate phosphorus,determined by indirect precipitation",mg
+32,PPD(mg),"phytate phosphorus, determined by direct precipitation",mg
+33,PP-(mg),"phytate phosphorus,determined by unknown method",mg
+34,IP3(mg),inositol triphosphate,mg
+35,IP4(mg),inositol tetraphosphate,mg
+36,IP5(mg),inositol pentaphosphate,mg
+37,IP6(mg),inositol hexaphosphate,mg
+38,IP5_A_IP6 (mg),inositol pentaphosphate + inositol hexaphosphate,mg
+39,IP4_A_IP5_A_IP6,inositol tetraphosphate + inositol pentaphosphate + inositol hexaphosphate,mg
+40,IPSUM,total inositol phosphates (SUM of all fractions),mg

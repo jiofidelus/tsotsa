@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7
+0,Qualitative,Quantitative Recommendations of CFGP,Components of CDGI-E,Recommendation for Elderly b,Criteria for Lowest Score (0) d,,Criteria for Highest Score d,
+1,Recommendations of DGC,Quantitative Recommendations of CFGP,Components of CDGI-E,Recommendation for Elderly b,Criteria for Lowest Score (0) d,,,
+2,,"Grains,beans,and tubers: 250-400 g/d",Percentage of energy,50-65%,0% or 100%,,50-65%,5
+3,cereal based.,Whole grains and beans:50-150 g/d,Other grains and beans,50-150 g/d,0g/d,0g/d,100 g/d,5
+4,,Tubers:50-100 g/d,,,,,,
+5,,Vegetables: 300500 g/d,Vegetables,Female: 300400 g/d,0g/d,,Female: 350 g/d a,5
+6,"Eat plenty of vegetables,",Vegetables: 300500 g/d,Dark-colored vegetables c,>1/2,,0,1/2,5
+7,"fruits, dairy products,",Fruits: 200-350 g/d,Fruits,Female:200 g/d,0 g/d,0 g/d,Female: 200 g/d a,10
+8, and soybeans.,Dairy products: 300 g/d,Dairy products,300 g/d,Og/d,0g/d,300 g/d,10
+9,,Soybeans and nuts: 25-35 g/d,Soybeans and nuts,Female:25 g/d,0g/d,,Female:25g/d a,10
+10,,Seafood:40-75 g/d,Seafood,Female: 40-50 g/d,0g/d,0g/d,Female:45 g/d a,10
+11,Eat a moderate amount of,Red meat and poultry: 40-75 g/d,Red meat and poultry,Male50-75g/d,Male: 0 g/d or 125 g/d,,Male:62.5g/d a,
+12,"fish, poultry,eggs",Red meat and poultry: 40-75 g/d,Red meat and poultry,Female:40-50g/d,Female0g/d or>90g/d,,Female:45g/d a,10
+13,,Eggs:40-50 g/d,Eggs,Female:40 g/d,0g/d,,Female:40 g/d,10
+14,,Edible oil: 2530 g/d,Edible oil,25g/d,50 g/d,50 g/d,25 g/d,10
+15,"Limit salt, cooking oil, added",Salt:<6g/d,Salt,<6g/d,12g/d,,<6g/d,10
+16,"sugar, and alcohol.",,Alcohol,Female: <15 g/d,Female:30 g/d,,Female:<15g/d,10

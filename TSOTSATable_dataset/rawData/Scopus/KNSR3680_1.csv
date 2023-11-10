@@ -1,0 +1,53 @@
+,0,1,2,3,4,5
+0,,Characteristics,,Unaware,Aware Only,Aware and Use
+1,,,"(N=32,080)",(N = 8835),"N=16,716)",(N = 6529)
+2,Demographic factors,Demographic factors,,,,
+3,"Age,years","Age,years",43.2  0.1,57.3 0.3,41.4  0.2,35.3  0.2
+4,Sex,,,,,
+5,Men,Men,"22,824 (77.2%)",7092 (87.5%),"12,352 (80.1%)",3380 (61.4%)
+6,Women,Women,9256 (22.8%),1743 (12.5%),4364 (19.9%),3149 (38.6%)
+7,Household income,Household income,,,,
+8,Low,Low,5799 (13.2%),3180 (27.4%),2030 (9.7%),589 (9.2%)
+9,Middle-Low,Middle-Low,7923 (24.2%),2418 (27.4%),4059 (23.7%),1446 (22.5%)
+10,Middle-High,Middle-High,8889 (30.1%),1801 (24.6%),5112 (32.1%),1976 (30.3%)
+11,High,High,9469 (32.6%),1436 (20.7%),5515 (34.6%),2518 (38.0%)
+12,Region,Region,,,,
+13,Urban,Urban,"25,005 (83.9%)",5778 (73.9%),"13,557 (85.4%)",5670 (89.0%)
+14,Rural,Rural,7075 (16.1%),3057 (26.1%),3159 (14.6%),859 (11.0%)
+15,Educational level,Educational level,,,,
+16,,Less than elementary school,6224 (11.3%),4173 (34.8%),1870 (6.7%),181 (1.9%)
+17,,Middle school,3353 (8.2%),1392 (15.6%),1626 (7.5%),335 (3.4%)
+18,,High school,"11,212 (39.6%)",2062 (30.3%),6513 (41.9%),2637 (42.1%)
+19,,College or higher,"11,291 (40.9%)",1208 (19.3%),6707 (43.9%),3376 (52.6%)
+20,Marital status,Marital status,,,,
+21,Single,Single,7173 (32.2%),600 (12.6%),3955 (32.1%),2618 (49.4%)
+22,Married,Married,"22,293 (62.3%)",6873 (75.7%),"11,753 (63.5%)",3667 (47.8%)
+23,,Divorced/Widow/Widower,2614 (5.5%),1362 (11.7%),1008 (4.4%),244 (2.8%)
+24,Dietary intake,Dietary intake,,,,
+25,,"Total energy intake, kcal/d",2191.2  6.7,2112.9  13.4,2249.1  8.7,2119.8  13.2
+26,Healthy behavior factors,Healthy behavior factors,,,,
+27,Smoking,Smoking,,,,5012 (74.2%)
+28,,No current smoker,"21,505 (63.9%)",5879 (62.0%),"10,614 (60.3%)",5012 (74.2%)
+29,,Current smoker,"10,575 (36.1%)",2956 (38.0%),6102 (39.7%),1517 (25.8%)
+30,Drinking,Drinking,,,,
+31,, Non-binge drinker,"27,446 (83.3%)",7703 (83.4%),"13,950 (81.6%)",5793 (87.3%)
+32,,Binge drinker,4634 (16.7%),1132 (16.6%),2766 (18.4%),736 (12.7%)
+33,Physical activity,Physical activity,,,,
+34,Inactive,Inactive,"21,067 (62.1%)",6363 (69.4%),"10,892 (62.9%)",3812 (54.1%)
+35,Active,Active,"11,013 (37.9%)",2472 (30.6%),5824 (37.1%),2717 (45.9%)
+36,Chronic disease factors,Chronic disease factors,,,,
+37,Obesity,Obesity,,,,
+38,,BMI<25.0 kg/m2,"21,174 (65.3%)",5859 (65.4%),"10,879 (64.5%)",4436 (67.1%)
+39,,BMI25.0 kg/m2,"10,906 (34.7%)",2976 (34.6%),5839 (35.5%),2093 (32.9%)
+40,Hypertension,Hypertension,,,,
+41,,No hypertension,"15,306 (51.5%)",2893 (36.0%),8252 (51.9%),4161 (64.1%)
+42,Hypertension,Hypertension,"16,774 (48.5%)",5942 (64.0%),8464 (48.1%),2368 (35.9%)
+43,Diabetes,Diabetes,,,,
+44,No diabetes,No diabetes,"28,336 (91.0%)",7310 (83.4%),"15,113 (92.4%)",6116 (94.6%)
+45,Diabetes,Diabetes,3744 (9.0%),1525 (16.6%),1603 (7.6%),413 (5.4%)
+46,Hypercholesterolemia,Hypercholesterolemia,,,,
+47,,No hypercholesterolemia,"27,584 (87.4%)",7310 (83.4%),"14,442 (87.6%)",5832 (90.4%)
+48,,Hypercholesterolemia,4496 (12.6%),1525 (16.6%),2274 (12.4%),697 (9.6%)
+49,Hyperglycemia,Hyperglycemia,,,,
+50,,No hyperglycemia,"29,587 (93.6%)",7762 (88.7%),"15,588 (94.4%)",6237 (96.0%)
+51,Hyperglycemia,Hyperglycemia,2493 (6.4%),1073 (11.3%),1128 (5.6%),292 (4.0%)

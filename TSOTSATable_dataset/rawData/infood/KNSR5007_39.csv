@@ -1,0 +1,40 @@
+,0,1,2,3
+0,Food code,Letter code,Food name,Data source(food number in the source is given in pare
+1,4146,FP,"Baobab leaves,dried","Toury, except fibre,Ca and P,Zn1, carotene FAO (518)"
+2,4128,EX,"Keren-kerengo leaves, fresh","FAO(676),except Ca,Zn10"
+3,,,Other vegetables,
+4,4035,BI,Aubergine,MW4 (560); except Vit C FAO (619)
+5,4566,VT,Bitter tomato,"As Tomatoes, except Ca, P, carotene; Vit C Toury"
+6,4037,BK,Cabbage,MW4 (560)
+7,4042,BP,"Chilli pepper, fresh",MW6(13-317)
+8,4043,BQ,"Chilli pepper, dried",Platt (229)
+9,4570,VX,Okra,"MW4 (612); except Zn1,Vit C FAO(720)"
+10,4049,BW,"Okra, dried","FAO(722) but protein,CHO, fibre calculated from code 45"
+11,4034,BH,Onions,MW4 (613)
+12,4549,VC,"Pumpkin, boiled",MW4 (653); except Vit C 50 % of FAO (757)
+13,4551,VE,Sweet Potato,MW4 (664); except Vit C FAO (246)
+14,4033,BG,Tomatoes,MW4 (666); except Vit C FAO (831)
+15,4127,EW,Tomato paste,MW6 (17-516)
+16,4560,VN,Yam,FAO (271)
+17,,,Beans,
+18,4210,IB,Beans boiled,"FAO (293),calculated on solids"
+19,4226,IR,"Locust bean, fermented (Tulingo)","Platt (237), except Cab, p6"
+20,4228,IT,Locust Bean Pod Powder,"Toury, except Ca, pVit C Platt (311)"
+21,,,Mangoes,
+22,4314,MB,Mangoes,"MW4 (759), except carotenel1"
+23,4323,MK,"Mangoes, green, unripe","FAO (969), except carotenel1"
+24,4324,ML,"Mangoes, bush",FAO(879)
+25,4336,MX,"Mango, dried","Calculated, except Vit C26"
+26,,,Other fruit,
+27,4568,VV,Banana,"MW4(693),except Vit C Platt(131)"
+28,4550,VD,Baobab fruit,"Toury, except Ca and p,Zn1"
+29,4545,UY,Cashew fruit,FAO(888)
+30,4553,VG,Guava,Platt (144)
+31,4558,VL,Lime,Mostly Platt(136
+32,4561,vO,Oranges,MW4 (773)
+33,4038,BL,Paw-paw,Platt (157)
+34,4565,VS,Tallo fruit,FAO (903)
+35,4563,VQ,Tamba fruit (Gingerbread plum),FAO(1001)
+36,4564,VR,Tomborongo (Jujube),Platt (147)
+37,,,Nuts and seeds,
+38,4641,YO,Baobab seeds,FAO (374)

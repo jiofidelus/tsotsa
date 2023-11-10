@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Section,Question,Reasoning,Possible Responses,Score
+1,,Is extermination usually,"General, prophylactic spraying",Irrelevant (no,0
+2,,prophylactic (against,"General, prophylactic spraying",extermination),0
+3,,insects in general) or aimed,widespread than responsive,Specific,1
+4,,"at specific, existing pests?",treatment of specific targets.,General,3
+5,,Number of pesticide,A higher number of HPPs,,
+6,,home.,indicates more use.,Number of products,product
+7,,,Awareness of the toxicity of,To avoid exposure to,-6
+8,,"If you do not use pesticides,",pesticides and preferring to avoid,toxic chemicals **,-6
+9,,what is the reason?,negatively correlated with,Irrelevant (because,0
+10,,,tendency (see discussion).,there is pesticide use),
+11,(Tendency-factors,Are any of the household,Vegetarians may be less willing,Yes,-1
+12,that may affect the,members vegetarian?,to kill pests (see discussion).,No,1
+13,family's,,,None,2
+14,predisposition,How many pets do you,,None,2
+15,toward using,"keep at home,and of what",See discussion,Pet/s of only one kind,1
+16,pesticides in their,kind (only mammals and,See discussion,Pets of more than one,
+17,home),birds)?,,kind,0
+18,,,,Often (more than once,0
+19,,,,a month),0
+20,,How often do you take,See discussion,Once every month or,
+21,,nature walks?,See discussion,Once every month or,1
+22,,,,months or less,2

@@ -1,0 +1,49 @@
+,0,1,2,3,4,5
+0,Anthocyanin,Solvent system,MW,Amax,Molar absorptivity,References
+1,,,(g/mol),(nm),(,
+2,,,,,Lmol-cm-1,
+3,,0.5% HCl in methanol,433.2,520,29080*,Spayd and SE (1981)
+4,,1% HCl in water,X,520,22400***,Wrolstad (1993)
+5,,1% HCl in methanol,X,516,31600***,Wrolstad (1993)
+6,,1% HCl,X,513,22390**,Swain (1965
+7,,1% HCl in methanol,X,516,31620**,Swain 1965
+8,,pH 1.0 buffer (0.2 M KCl)/0.1 M HCl,X,498,14300*,"Cabrita, Fossen et al. (2000)"
+9,,pH 2.4 to 4.0 buffer (0.1 M KH Phthalate + 0.1 M HCl),,501-507,3900-11600*,"Cabrita, Fossen et al.2000"
+10,,pH 5.0-8.1 buffer (0.1 M KHPO4+0.1 M NaOH),x,515-553,1300-7300*,"Cabrita, Fossen et al. (2000)"
+11,,pH 8.6-9.0 buffer (0.025 M Borax+0.1 M HCl),x,553-555,8400-9500*,"Cabrita, Fossen et al. (2000)"
+12,,pH 9.510.6 buffer (0.025 M Borax + 0.1 M NaOH),,553-554,6600-8800*,"Cabrita,Fossen et al.2000"
+13,,Buffer pH 1.0 buffer (0.2 N KCl),487,496,15600*,"Giusti, Rodriguez-Saona et al.1999"
+14,,1% HCl in methanol,487,508,17330*,"Giusti, Rodriguez-Saona et al. (1999)"
+15,,pH 1.0 buffer with 0.2 M KCl/0.2 M HCl,546.40,497*,21000*,"Jordheim,Aaby et al.2007"
+16,,"Concentrated HCl/methanol (0.01:99.99, v/v)",546.40,502,24000*,"Jordheim, Aaby et al. (2007)"
+17,Pet-3-glu,0.1% HCL in methanol,532.5,546,12900*,Somers 1966
+18,,"10% ethanol, pH 1.5",X,520,18900**,"Heredia, Francia-Aricha et al. (1998)"
+19,,pH 1.0 buffer with 0.2 M KCl/0.2 M HCl,514.86,515,21000*,"Jordheim,Aaby et al.2007"
+20,,"Concentrated HCl/methanol (0.01:99.99, v/v)",592.43,527,23000*,"Jordheim, Aaby et al. (2007)"
+21,,pH 1.0 buffer(0.2 M KCl/0.1 M HCl,X,515,21300*,"Cabrita, Fossen et al. (2000)"
+22,,pH 2.4 to 4.0 buffer (0.1 M KH Phthalate + 0.1 M HCl),X,521-529,5900-18400*,"Cabrita, Fossen et al. (2000"
+23,,pH 5.0-8.1 buffer (0.1 M KHPO4+0.1 M NaOH),,531588,1500-13400*,"Cabrita, Fossen et al.(2000)"
+24,,pH 8.6-9.0 buffer (0.025 M Borax + 0.1 M HCl),x,543-542,10200-10300*,"Cabrita, Fossen et al. (2000)"
+25,,pH 9.5-10.6 buffer (0.025 M Borax +0.1 M NaOH),x,543-546,9800-10300*,"Cabrita, Fossen et al.2000)"
+26,,1% HCl in methanol,x,535,23440**,Swain (1965
+27,Peo-3-glu,0.1% HCl in methanol,516.5,536,11300*,Somers (1966)
+28,,"0.5% tartaric acid, 10% ethanol (pH 1.5)",X,512,14100**,"Heredia, Francia-Aricha et al.1998)"
+29,,pH 1.0 buffer (0.2 M KCl)/0.1 M HCl,X,510,15100*,"Cabrita,Fossen et al.2000"
+30,,pH 2.4 to 4.0 buffer (0.1 M KH Phthalate + 0.1 M HCl),X,516-522,4500-13000*,"Cabrita, Fossen et al. (2000)"
+31,,pH 5.0-8.1 buffer (0.1 M KHPO4+0.1 M NaOH),,527-574,1500-10200*,"Cabrita, Fossen et al. (2000)"
+32,,pH 8.6-9.0 buffer (0.025 M Borax+0.1 M HCl),x,571573,10500-11500*,"Cabrita, Fossen et al. (2000)"
+33,,pH 9.5-10.6 buffer (0.025 M Borax +0.1 M NaOH),X,573-575,9600-12400*,"Cabrita, Fossen et al. (2000)"
+34,Mal-3-glu,0.1% HCl in methanol,562.5,546,13900*,Somers (1966
+35,,0.1% HCl in methanol,562.5,538,29500*,Koeppen and Basson (1966)
+36,,0.1 N HCl,493.5,520,28000***,Niketic-Aleksic and Hrazdina (1972); Wrolstad
+37,,,,,,(1993)
+38,,"methanol, pH 1.0",529,535,36400**,"Metivier,Francis et al.1980"
+39,,"0.5% tartaric acid,10% ethanolpH 1.5",X,520,20200**,"Heredia,Francia-Aricha et al.1998"
+40,,pH 1.0 buffer with 0.2 M KCl/0.2 M HCl,528.88,517,23000*,"Jordheim, Aaby et al.(2007)"
+41,,"Concentrated HCl/methanol(0.01:99.99,v/v)",606.45,529,25000*,"Jordheim, Aaby et al. (2007)"
+42,,pH 1 buffer (0.2 M KCl)/0.1 M HCl,x,517,23400*,"Cabrita, Fossen et al. (2000)"
+43,,pH 2.4 to 4.0 buffer (0.1 M KH Phthalate+ 0.1 M HCl),x,522533,5900-20500*,"Cabrita, Fossen et al. (2000)"
+44,,pH 5.08.1 buffer (0.1 M KHPO4+ 0.1 M NaOH),,535-594,1300-16400*,"Cabrita, Fossen et al. (2000)"
+45,,pH 8.69.0 buffer (0.025 M Borax+0.1 M HCl),X,595-596,19500-22000*,"Cabrita, Fossen et al. (2000)"
+46,,pH 9.510.6 buffer (0.025 M Borax+0.1 M NaOH),x,597598,10500-13000*,"Cabrita, Fossen et al. (2000)"
+47,,pH 11.5 buffer (0.025 M Borax + 0.1 M NaOH),x,588,1100*,"Cabrita, Fossen et al. 2000)"

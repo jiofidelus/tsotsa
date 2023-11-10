@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7
+0,,All,By season,,,By COVID period,,
+1,,,Fall,Winter,P-value,Before Covid-19,During Covid-19,P-value
+2,N of person-days,324,178,146,,214,110,
+3,"Total energy, kcal",1604.2 (639.4),1663.1 (676.5),1532.4 (585.2),0.09,1637.3 (618.0),1539.8 (677.3),0.05
+4,"HEI,score",45.3 (13.5),44.8 (13.7),45.9 (13.3),0.35,46.6 (14.7),42.8 (10.6),0.01

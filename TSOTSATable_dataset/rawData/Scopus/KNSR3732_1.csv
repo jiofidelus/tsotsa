@@ -1,0 +1,31 @@
+,0,1,2,3
+0,,Items,,Category to be counted (unit to be
+1,,,,summarized)
+2,Indices to be measured or calculated,Indices to be measured or calculated,,
+3,1.Biochemical indices,,,
+4,Serum 25(OHD,,(ng/mL),
+5,Serum intact PTH,,(pg/mL),
+6,2. UV-B exposure related index,2. UV-B exposure related index,,
+7,The UV-B irradiation,,(mJ/cm2),
+8,3.Energy and Nutrients intakes (calculated from DHQ),3.Energy and Nutrients intakes (calculated from DHQ),,
+9,Energy,,(kcal/day),
+10,Protein,,(g/day),
+11,Fat,,(g/day),
+12,Carbohydrates,,(g/day),
+13,Calcium,,(mg/day),
+14,Calcium adjusted for energy intake,Calcium adjusted for energy intake,(mg/1000 kcal),
+15,Vitamin D,,(ug/day),
+16,Vitamin D adjusted for energy intake,Vitamin D adjusted for energy intake,g/1000 kcal),
+17,Indices obtained from a questionnaire response,Indices obtained from a questionnaire response,,
+18,1.Characteristics of the Subject,1.Characteristics of the Subject,(y),
+19,Age,,,
+20,The residential area,,,
+21,,,Hokkaido,
+22,,,Tohoku,
+23,,,Kanto,
+24,,,Chubu,
+25,,,Kinki,
+26,,,"Chugoku,Shikoku",
+27,,,Kyushu and Okinawa,Kyushu and Okinawa
+28,The season of blood draw,,SummerJuly to September,SummerJuly to September
+29,,,Winter (December to February),Winter (December to February)

@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7
+0,,Amino Acids Sequence,Bioactive Properties,Starting Material,Hydrolysis,Protein,Hydrophobic,References
+1,,Amino Acids Sequence,Bioactive Properties,Starting Material,Method,Precursor,Residue (%),References
+2,,,Antioxidant (DPPH assay),,,,,
+3,1,GGQHQQEEESEEQK,Antibiofilm (biofilm inhibition of,,,Legumin,0,
+4,,,Pseudomonas aeruginosa PA14),,,,,
+5,2,GPLVHPQSQSQSN,Antityrosinase (tyrosinase inhibition assay),,,Legumin,15,
+6,,,"Antioxidant (DPPH, FRAP, and ferrous",,,,,
+7,3,LSPGDVLVIPAGYPVAIK,ion-chelating assays),,,Vicilin,56,
+8,3,LSPGDVLVIPAGYPVAIK,Antibiofilm (biofilm inhibition of,Faba bean protein isolate,Trypsin hydrolysis,Vicilin,56,[74]
+9,,,Pseudomonas aeruginosa PA14),,(18 h 37C),,,[74]
+10,,,"Antioxidant (DPPH assay),",,,,,
+11,4,VESEAGLTETWNPNHPELR,Antibiofilm (biofilm inhibition of,,,Legumin,26,
+12,,, Pseudomonas aeruginosa PA14),,,,,
+13,,,Antioxidant (DPPH assay),,,,,
+14,5,EEYDEEKEQGEEEIR,Antibiofilm (biofilm inhibition of,,,Vicilin,13,
+15,,,Pseudomonas aeruginosa PA14),,,,,
+16,6,ELAFPGSAQEVDTLLENQK,Fungicide,"Lentil, pea and faba bean",Veron@ pS,Vicilin,36,[142]
+17,7,LSPGDVLVIPAGYPVAIK,Fungicide,flours mixed (1:1:1),(6 h 30 C),Vicilin,50,[142]
+18,8,SAQ,Promoting lactic acid bacteria growth,Faba bean protein isolate,(1 h 37 C),ND,ND,[143]
+19,9,Peptide enriched fraction,,,,,,
+20,,DALEPDNRIESEGGLIETWNPNNRQ,Antioxidant (ABTS assay),,,,,
+21,,FEEPQQSEQGEGR,Antihypertensive (ACE inhibition),,In vitro simulated,,,
+22,,WMNYNDQIPVINNQLDQMPR,Anti-inflammatory (LOX inhibition),flour,gastrointestinal,Legumin,ND,[73]
+23,,RGEDEDDKEKRHSQKGES,lipase inhibition),flour,digestion,,,
+24,,RLNIGSSSSDIYNPQAGR,lipase inhibition),,,,,
+25,,,Promote muscle protein synthesis,,,,,
+26,10,HLPSYSPSPQ,(increased phosphorylation S6 in skeletal,Faba bean protein,Food grade,ND,ND,[144]
+27,,,muscle cells,powder,endopeptidase,ND,ND,[144]
+28,11,TIKIPAGT,Anti-inflammatory (Reduced TNF- in,,,,,
+29,11,TIKIPAGT,macrophages),,,,,

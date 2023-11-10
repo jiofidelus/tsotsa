@@ -1,0 +1,38 @@
+,0,1,2,3
+0,Drug,Source,Target Disease,Reference
+1,Crude extract,Ocimum Basilicum,Anti-inflammatory activity,[50]
+2,Crude extract,Costus pictus,anti-diabetic,[51]
+3,Isopropanol,Synthesis,Used as alcohol,[11]
+4,Isovaleric acid,Essential oils,Anticonvulsant and used in,[52]
+5,Isovaleric acid,Essential oils,perfumery,[52]
+6,Limonene,Essential oils,bacterial,"[53,54]"
+7,Linalool,Essential oils,system,"[55,56]"
+8,Phytoalexins,At sire of infections in plants,anti-oxidative,"[55,57]"
+9,Gibberellin,Gibberella fujikuroi,Elongation of plant and promotes,"[58,59]"
+10,Gibberellin,Gibberella fujikuroi,growth,"[58,59]"
+11,Brassinosteroids,"Brassica napus, Lychnis viscaria",Plant protection,"[60,61]"
+12,Sterols,"Naturally found in plants, fungi",Medicinal effect and nutritional,"[60,61]"
+13,Sterols,and animals,supplements,"[60,61]"
+14,Carotenoids,chromoplasts of plants,Antioxidants,"[60,61]"
+15,,"Atropa belladonna, datura",Adversary of muscarinic,
+16,Atropine,stramonium,"acetylcholine receptors,anti-myopia","[62,63]"
+17,,stramonium,"effects, anti-cholinergic,",
+18,,,"Anti-bacterial, antiviral,",
+19,Berberine,Berberis species,"anti-inflammatory, anti-cancer and","[56,64,65]"
+20,,,anti-diabetic,
+21,,,"Analgesic, antidepressant, antitussive,",
+22,Codeine,Papaver somniferum,"anti-diarrheal, sedative and hypnotic",[66-69]
+23,,,properties,
+24,Coniine,Conium macularum,"Poisonous, neurotoxin","[70,71]"
+25,"Cytisine (baptitoxine, sophorine)",Cytisus laborinum,Smoking cessation drug,"[72,73]"
+26,"Cytisine (baptitoxine, sophorine)",Cytisus laborinum,acetylcholine agonist,"[72,73]"
+27,Morphine,Papaver somniferum,"Edema, acute pulmonary and",[7476]
+28,Morphine,Papaver somniferum,shortness of breath,[7476]
+29,Nicotine, Solanaceae,"stimulant,antiherbivore",[7780]
+30,Quinine,Cinchona succirubra,Antimalarial,[81-84]
+31,,,"Antifungal, ant pesticide, sedative",
+32, Solanine,Solanum tuberosum,"anticonvulsant, anticarcinogenic,",[85-88]
+33,,,anti-inflammatory,
+34,Strychnine,Strychnos nux-vomica,Pesticide,[8992]
+35,Thebaine (paramorphine),Papaver bracteatum,Analgesic,"[48,9395]"
+36,Tomatine,Tomato,antifungal,[9698]

@@ -1,0 +1,42 @@
+,0,1,2,3,4,5,6
+0,Component,INFOODS,Unit,Denominator,Sig.,Data-,Comment
+1,,tagname,,,digits,sheet,
+2,Energy,ENERC,"kJ, kcaI",/100 g EPDM,3,04/05,Calc. from energy-yielding
+3,,,,,,,"components FAT,CHOAVLDF"
+4,,,,,,,"PROTCNT,FIBTG"
+5,,,,,,,(Equations1& 2)
+6,Water,WATER,g,/100 g EPDM,3,04/05,All water values were set to
+7,,,,,,,zero (0) as all data in the
+8,,,,,,,datasheets 04/05 are
+9,,,,,,,expressed per 100 g EPDM
+10,Dry matter,DM,g,/100 g EPDM,3,04/05 All dry matter values were set,04/05 All dry matter values were set
+11,,,,,,,to 100 as all data are
+12,,,,,,,expressed per 100 g EPDM
+13,"Nitrogen, total",NT,g,/100 g EPDM,3,04/05,
+14,"Protein, total",PROTCNT,g,/100 g EPDM,3,04/05Calc.from NT using nitrogen-,04/05Calc.from NT using nitrogen-
+15,,,,,,,to-protein factor 6.25
+16,,,,,,,(Equation 3)
+17,"Fat, total",FATCE,g,/100 g EPDM,3,04/05, Derived by analysis using
+18,,,,,,,continuous extraction
+19,"Fatty acids, total",FACID,g,/100 g EPDM,3,04/05,Calc.from FAT using the
+20,,,,,,,conversion factor for fatty
+21,,,,,,,acids (Equation 8)
+22,"Fatty acids,total",FASAT,g,/100 g EPDM,3,04/05,Calc.from FASAT g/100 g
+23,saturated,,,,,,FACID
+24,"Fatty acids, total",FAMS,g,/100 g EPDM,3,04/05,Calc.from FAMS g/100 g
+25,monounsaturate,,,,,,FACID
+26,d,,,,,,
+27,"Fatty acids, total FAPU","Fatty acids, total FAPU",g,/100 gEPDM,3,04/05 Calc.from FAPU g/100 g,04/05 Calc.from FAPU g/100 g
+28,polyunsaturated,,,,,,FACID
+29,Cholesterol,CHOLE,mg,/100 g EPDM,3,04/05,
+30,Carbohydrate,CHOAVLDF,g,/100 g EPDM,3,"04/05 Calc.from proximates WATER,","04/05 Calc.from proximates WATER,"
+31,"available, by",,,,,,"FAT,PROTCNT,ASH,FIBTG"
+32,difference,,,,,,(Equation 4)
+33,"Fibre, total",FIBTG,g,/100 g EPDM,3,04/05,
+34,dietary,,,,,,
+35,Ash,ASH,g,/100 g EPDM,3,04/05,
+36,Calcium,CA,mg,/100 g EPDM,3,04/05,
+37,Copper,CU,mg,/100 gEPDM,3,04/05,
+38,Iron,FE,mg,/100 g EPDM,3,04/05,
+39,Potassium,K,mg,/100 g EPDM,3,04/05,
+40,Magnesium,MG,mg,/100 g EPDM,3,04/05,

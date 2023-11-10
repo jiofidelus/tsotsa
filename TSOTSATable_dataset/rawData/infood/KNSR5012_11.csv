@@ -1,0 +1,38 @@
+,0,1,2,3,4,5,6
+0,Amino acid,tagname,Unit,Denominator,digits,sheet,Comment1
+1,,,,/100 g EPDM,3,04/05,Calc.from ILE/g N
+2,Isoleucine,ILE,mg,/gN,3,06,
+3,Leucine,LEU,mg,/100 g EPDM,3,04/05,Calc. from LEU/g N
+4,Leucine,LEU,mg,/g N,3,06,
+5,Lysine,LYS,mg,/100 g EPDM,3,04/05,Calc. from LYS/g N
+6,Lysine,LYS,mg,/gN,3,06,
+7,Methionine,MET,mg,/100 g EPDM,3,04/05,Calc.from MET/g N
+8,Methionine,MET,mg,/gN,3,06,
+9,Cystine,CYS,mg,/100 g EPDM,3,04/05,Calc. from CYS/g N
+10,Cystine,CYS,mg,/gN,3,06,
+11,Phenylalanine,PHE,mg,/100 g EPDM,3,04/05,Calc.from PHE/g N
+12,Phenylalanine,PHE,mg,/gN,3,06,
+13,Tyrosine,TYR,,/100 g EPDM,3,04/05,Calc. from TYR/g N
+14,Tyrosine,TYR,mg,/gN,3,06,
+15,Threonine,THR,mg,/100 g EPDM,3,04/05,Calc. from THR/g N
+16,Threonine,THR,mg,/gN,3,06,
+17,Tryptophan,TRP,mg,/100 g EPDM,3,04/05,Calc. from TRP/g N
+18,Tryptophan,TRP,mg,/gN,3,06,
+19,Valine,VAL,mg,/100 g EPDM,3,04/05,Calc. from VAL/g N
+20,Valine,VAL,mg,/g N,3,06,
+21,Arginine,ARG,mg,/100 g EPDM,3,04/05,Calc. from ARG/g N
+22,Arginine,ARG,mg,/gN,3,06,
+23,Histidine,HIS,mg,/100 g EPDM,3,04/05,Calc.from HIS/g N
+24,Histidine,HIS,mg,/g N,3,06,
+25,Alanine,ALA,mg,/100 g EPDM,3,04/05,Calc. from ALA/g N
+26,Alanine,ALA,mg,/g N,3,06,
+27,Aspartic acid,ASP,mg,/100 g EPDM,3,04/05,Calc. from ASP/g N
+28,,ASP,mg,/gN,3,06,
+29,Glutamic acid,GLU,mg,/100 g EPDM,3,04/05,Calc. from GLU/g N
+30,Glutamic acid,GLU,mg,/g N,3,06,
+31,Glycine,GLY,mg,/100 g EPDM,3,04/05,Calc. from GLY/g N
+32,Glycine,GLY,mg,/g N,3,06,
+33,Proline,PRO,mg,/100 g EPDM,3,04/05,Calc.from PRO/g N
+34,Proline,PRO,mg,/gN,3,06,
+35,Serine,SER,mg,/100 g EPDM,3,04/05,Calc. from SER/g N
+36,Serine,SER,mg,/g N,3,06,

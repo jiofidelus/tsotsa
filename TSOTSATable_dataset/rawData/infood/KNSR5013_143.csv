@@ -1,0 +1,41 @@
+,0,1,2
+0,D1,"Meat,Poultry,Fish","Nyama,Kuku,Samak"
+1,205,"Beef liver, raw",Maini mabichi
+2,204,"Beef, boneless","Nyama bila mifupa,steki"
+3,201,"Beef,liver, cooked",Maini ya kupikwa
+4,202,"Beef, medium fat, cooked",Nyama yenye mafuta kiasi iliyopikwa
+5,203,"Beef, tripe",Utumbo
+6,206,"Chicken, liver",Maini ya kuku
+7,208,"Chicken, raw",Nyama ya kuku mbichi
+8,306,Egg yolk,Kiini cha yai
+9,307,"Egg, chicken",Yai la kuku
+10,308,"Fish, dried, cod",Samaki mkavu
+11,309,"Fish, dried, fresh water",Samaki mkavu wa ziwani
+12,220,"Fish, fresh",Samaki mbich
+13,310,"Fish, high fat", Samaki wa mafuta mengi
+14,311,"Fish, raw",Samaki
+15,312,"Fish, sardines",Dagaa
+16,313,"Fish, small, dried, fresh water",Samaki wadogo wakavu wa ziwani/mtoni
+17,314,"Fish, small, fresh, fresh water",Samaki wadogo wabichi wa ziwani/mtoni
+18,319,"Fish,smoked,dried-AP",Samaki wa kukausha kwa moshi
+19,320,"Fish, smoked,dried -EP",Minofu ya samaki iliyokaushwa kwa moshi (EP)
+20,315,Goat meat,Nyama ya mbuzi
+21,316,"Mutton, meat",Nyama ya kondoo
+22,317,"Pork, medium fat, cooked",Nyama ya nguruwe ya kupikwa (mafuta kiasi)
+23,318,Sausage,Soseji
+24,D2,"Meat, Poultry,Fish-based local dishes","Asili ya wanyama,ndege na samaki"
+25,552,Beef relish with coconut milk,Mchuzi wa nyama wenye tui la nazi
+26,578,Beef relish without oil,Mchuzi wa nyama bila mafuta
+27,551,Beef relish with oil,Mchuzi wa nyama wenye mafuta
+28,577,"Beef, fried",Nyama ya kukaanga
+29,576,"Beef, ground relish",Mchuzi wa nyama ya kusaga
+30,574,Chicken boiled or roasted,Kuku wa kuchemsha/choma
+31,554,Chicken relish without oil,Mchuzi wa kuku bila mafuta
+32,573,Chicken relish with coconut milk,Mchuzi wa kuku wenye tui la nazi
+33,556,Chicken relish with oil,Mchuzi wa kuku wenye mafuta
+34,207,"Chicken, fried",Kuku wa kukaanga
+35,571,Egg boiled,Yai la kuchemsha
+36,561,"Egg,fried",Yai la kukaanga
+37,565,Fish fresh stew,Mchuzi wa samaki wa kuchemsha
+38,566,Fish relish without oil, Mchuzi wa samaki bila mafuta
+39,567,Fish relish with coconut milk,Mchuzi wa samaki wenve tui la nazi

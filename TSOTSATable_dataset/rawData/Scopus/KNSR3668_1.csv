@@ -1,0 +1,22 @@
+,0,1,2,3,4,5
+0,,No.(%,,,,
+1,,,Tertiles of HEI-2015 score at study entry,Tertiles of HEI-2015 score at study entry,Tertiles of HEI-2015 score at study entry,
+2,,Total,Lower,Middle,Upper,
+3,Characteristic,N=1770,n=590,n=590,n=590,Pvalue
+4,"HEI-2015 score,meanSD",60(13.0),45.4(6.8),59.7(3.3),74.0(6.2),<.001
+5,Women,943(53),308(52),305(52),330(56),.28
+6,Men,827(47),282(48),285(48),260(44),.28
+7,"Age,meanSD,y",74.6(6.2),74.6(6.4),75.3 (6.4),74.0 (5.8),.002
+8,"Educational level,>12y",610(35),164 (28),201(34),245(42),<.001
+9,Household income category,,,,,
+10,Low,759(43,30351,241(41,21536),
+11,Intermediate,421(24),110(19),143(24),168(29),<.001
+12,High,590(33),177(30),206(35,207(35),
+13,Married,1127(64),358(61),381(65),388 (66),.16
+14,Self-rated health good or very good,979(55),275 (47),325 (54),379(64),<.001
+15,No functional limitationb,1473(83),474 (80),481(82),518(88,.008
+16,Regular physical activity,553(31,12722),186(32),240(41),<.001
+17,"BMI,meanSD)",29.0(4.8),29.6(5.2),29.1(4.8),29.1(4.5),.15
+18,"MMSE score,meanSD",27.1(3.5),26.4(5.2,27.0(3.5),27.7(2.9),<.001
+19,Current smoking status,19011,87(15,68(12),35(6,<.001
+20,"No.of chronic diseases,medianIQR)",3.0 (1.0-4.0),3.0(1.0-4.0),2.0(1.0-4.0),2.0(1.0-3.3),.06

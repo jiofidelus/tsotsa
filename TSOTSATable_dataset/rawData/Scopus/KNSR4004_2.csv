@@ -1,0 +1,10 @@
+,0,1,2,3,4,5
+0,Atmosphere,Storage,TSS (%),TA (% Citric,Taste,Visual
+1,Composition,Time (Days),TSS (%),Acid),Taste,Appearance
+2,Initial,0,18.6 C 1,0.23,5.0A,5.0A
+3,PL1,,19.5 a,0.20,4.6 aB,3.9 aB
+4,PL2,14+3,19.5 a,0.20,4.5 aB,3.9 aB
+5,Control,,21.2 aA,0.21,4.0 bB,2.7 bB
+6,PL1,,19.2 b,0.19,4.0 aC,3.5 aB
+7,PL2,28+3,18.9 b,0.19,3.9 aC,3.3 aC
+8,Control,,19.8 aB,0.18,3.8 aB,1.7 bC

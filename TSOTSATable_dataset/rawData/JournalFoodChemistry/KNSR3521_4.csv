@@ -1,0 +1,38 @@
+,0,1,2,3,4,5
+0,Food,,Water,Protein,Fat,Carbohydrat
+1,,,(g),(g),(g),(g)
+2,Puri (white),Analysed,25,7.2,22.3,44
+3,,contenta,,,,
+4,,Calculated,21.3,6.5,18.4,51.6
+5,,contenta,,,,
+6,,Difference(%,14.8,-9.7,17.4,17.2
+7,Bengali prawn,Analysed,73.5,11.3,9.6,4.0
+8,bhuna,contenta,,,,
+9,,Calculated,66.2,15.1,8.9,2.7
+10,,contenta,,,,
+11,,Difference %,-10,33.6,-7.3,-32.5
+12,Bengali chicken,Analysed,67.8,16,11.5,3
+13,curry,contenta,,,,
+14,,Calculated,70.8,14.1,9.0,4.2
+15,,contenta,,,,
+16,,Difference(%,4.4,-11.8,-21.7,40
+17,Rasmalai,Analysed,65.9,9.6,6.4,17.2
+18,,contenta,,,,
+19,,Calculated,58.1,7.9,11.1,21.6
+20,,contenta,,,,
+21,,Difference(%,-11.8,-18.0,73.4,25.5
+22,Chicken bhuna,Analysed,72.9,13.7,8.7,3.2
+23,,contenta,,,,
+24,,Calculated,54.1,27.6,10.9,2.0
+25,,contenta,,,,
+26,,Difference(%),-25.7,101.5,25.3,-37.5
+27,Aloo Bombay,Analysed,78.1,1.7,5.6,13.1
+28,,contenta,,,,
+29,,Calculated,68.9,2.0,1.0,13.6
+30,,contenta,,,,
+31,,Difference(%),-11.8,17.6,-82.1,3.8
+32,Lamb kebab,Analysed,54.5,22.5,15.7,5.0
+33,,contenta,,,,
+34,,Calculated,40.0,15.5,37.8,5.6
+35,,contenta,,,,
+36,,Difference (%,-26.6,-31.1,140.7,12

@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,food,Name,Name,Size,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,code,Kiswahili,English,,bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,,uji wa ungamchanganyiko na,,,,,,,,,,,
+3,509,sukari,Mix flour porridge+sugar,A,,,,,,,,,300
+4,,,Sorghum porridge with,,,,,,,,,,
+5,511,uji wa ulezi na sukari,sugar,Std,400,200,200,,,,,,
+6,,,Sorghum porridge with,,,,,,,,,,
+7,511,uji wa ulezi na sukari,sugar,A,,,,,,,,,300
+8,512,chapati,Chapati,s,,,,,,,,50,
+9,512,chapati,Chapati,,,,,,,,,100,
+10,512,chapati,Chapati,A,,,,,,,,,100
+11,513,chapati kavu,Chapati dry,Std,,,,,,,,50,100
+12,513,chapati kavu,Chapati dry,A,,,,,,,,,100
+13,514,chapati maji,Pancake,Std,,,,,,,,75,
+14,514,chapati maji,Pancake,A,,,,,,,,,150
+15,515,pilau,Pillau,Std,,,,450,,,200,,
+16,515,Pilau,Pillau,A,,,,,,,,,450
+17,516,wali bila mafuta,Rice boiled no oil,Std,,,,450,,,175,,
+18,516,wali bila mafuta,Rice boiled no oil,A,,,,,,,,,315
+19,517,wali na mafuta,Rice with oil,Std,,,,450,,,175,,
+20,517,wali na mafuta,Rice with oil,A,,,,,,,,,315
+21,518,wali na tui la nazi,Rice with coconut milk,Std,,,,450,,,175,,
+22,518,wali na tui la nazi,Rice with coconutmilk,A,,,,,,,,,315
+23,,,Maize ugali (stiff,,,,,,,,,,
+24,519,ugali wa unga mahindi,porridge),Std,225,,,475,,,250,,
+25,,,Maize ugali (stiff,,,,,,,,,,
+26,519,ugali wa unga mahindi,porridge),A,,,,,,,,,450
+27,521,ugali wa unga mchele,Rice ugali (stiff porridge),Std,200,,,450,,,200,,
+28,521,ugali wa unga mchele,Rice ugali (stiff porridge),A,,,,,,,,,350
+29,,,Sorghum and finger,,,,,,,,,,
+30,522,ugali wa unga mtama na ulezi,millet ugali (stiff porridge),std,200,,,450,,,200,,

@@ -1,0 +1,30 @@
+,0,1,2,3
+0,Variety and Region,Group,Composition,References
+1,"Tomato seeds,San Marzano",,19.9-36.9%,"[31,32,38]"
+2,cultivar;LecceItaly,Lipids/Fatty acid profile,27%,[33]
+3,"Tomato seeds, San Marzano",,27.9%,[22]
+4,"cultivar;Lecce,Italy",SFA,16.19-18.59%,[33]
+5,Tomato seeds;Greece,,20%,"[49,50]"
+6,"Tomato seeds, San Marzano",,23.6%,[22]
+7,"cultivar;Lecce,Italy",MUFA,30%,[33]
+8,Tomato seeds;Greece,,17.79-18.26%,"[50,51]"
+9,"Tomato seeds,San Marzano",,48.5%,[29]
+10,cultivar;LecceItaly,PUFA,85%,[33]
+11,Tomato seeds;Greece,,63.2366.02%,"[46,51]"
+12,Tomato seeds;Greece,n-3 PUFA,1.39-1.5%,[46]
+13,Tomato seeds;Greece,n-6 PUFA,61.73-64.63%,"[50,52]"
+14,cultivar;LecceItaly,,44.8%,[33]
+15,Tomato pomace;Greece,,50%,[46]
+16,"Tomato seeds;Illinois,USA",Linoleic acid (C18:2 n-6),48.22%,[22]
+17,"TSO; Timis county, Romania",,47-73%,[29]
+18,Tomato seeds;Greece,,53.7%,"[50,52]"
+19,"Tomato seeds,San Marzano;Lecce",,23.1%,[33]
+20,"Tomato seeds;Illinois,USA",,9.2%,[22]
+21,"TSO;Timis county,Romania",Oleic acid (C18:1 n-9),8-21%,[29]
+22,TSO;Greece,,23.8%,[45]
+23,Tomato seeds; Greece,,17.33-17.88%,"[50,52]"
+24,"cultivar;Lecce,Italy",,18.8%,[33]
+25,"Tomato seeds;Illinois,USA",,17.18%,[22]
+26,"TSO;Timis county, Romania",Palmitic acid(C16:0),14-25%,[29]
+27,"Tomato seeds; Tarhana, Turkey",,13.7%,[32]
+28,Tomato seeds;Greece,,12.43-14.42%,"[46,51]"

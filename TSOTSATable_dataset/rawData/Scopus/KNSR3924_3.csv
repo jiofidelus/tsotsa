@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8
+0,"Plant,Plant Part",Incubation,Fecal Samples,Conditions,Analysis,Microbiome Changes,Detection,Metabolites,Reference
+1,,,,,fluorescent in situ,,,,
+2,,blanched finely,,fecal batch culture,hybridization (FISH) with 16S,increase in,,,
+3,,ground almonds,,after gastric and,rRNA-targeted probes for,Bifidobacterium and E.,SCFA analysis, increase in lactic,
+4,,FG;blanched,fecal material from,duodenal digestion,"Bifidobacterium, Bacteroides,",rectale in FG group;,by HPLC with,"acid,butyric acid",
+5,,defatted finely,one healthy donor,anaerobic;samples,"Clostridium histolyticum group,",no change in bacterial,refractive index,propionic acid in,[65]
+6,,ground,,were collected over,Clostridium,composition in,detector,FG and DG groups,
+7,,almonds (DG),,24 h),coccoides-Eubacterium,DG group,,,
+8,Amygdalus,,,,rectale group,,,,
+9,"communis, semen",,,fecal batch culture,FISH with 16S rRNA-targeted,increase in Lactobacil-,,,
+10,,,,after gastric and,"probes for Bifidobacterium,",lus/Enterococcus spp.,SCFA analysis,"SCFA, lactic acid,",
+11,,natural almond,,duodenal digestion,"Bacteroides,","group, C. coccoides-E.",SCFA analysis,"SCFA, lactic acid,",
+12,,"skins(NS),",fecal material from,"37C,pH 6.8,","Lactobacillus/Enterococcus spp.,","rectale group, and",by HPLC with,acetic acid,[66]
+13,,blanched almond,one healthy donor,anaerobic;samples,"Clostridium histolyticum group,",Bifidobacteria in NS and,refractive index,"propionic acid, and",[66]
+14,,skins (BS),,"were collected at 0,",Clostridium,BS group; decrease in,detector, and BS groups,
+15,,,,"4, 8, and 24 h)",coccoides-Eubacterium rectale,C. histolyticum group in,, and BS groups,
+16,,,,"4, 8, and 24 h)",group,NS and BS groups,,,
+17,,,one pooled sample,,V3-V4 region of 16S rRNA,,,,
+18,"Centella asiatica,",,healthy vegetarian,conditions:,gene NGS (Illumina);,rel. increase:,,,
+19,herba,powdered herb,or vegan women,pH:7.4, sugar utilization and SCFA,Pseudomonadaceae,,,[83]
+20,,,or 1% glucose,,pathways,,,,

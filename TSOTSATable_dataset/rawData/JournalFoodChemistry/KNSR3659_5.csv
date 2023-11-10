@@ -1,0 +1,49 @@
+,0,1,2,3,4,5,6,7
+0,Phenolic compounds,Phenolic compounds,Concentration,Concentration,,Concentration (g/g,Concentration (g/g,Concentration (g/g
+1,,,(mg/100 g peel,(mg/100 g peel,,extract),,
+2,,,dm),,,,,
+3,Phenolic acids,Phenolic acids,,,,,,
+4,,4-hydroxybenzoic acid,15,?,0.2,450,?,5
+5,,Syringic acid,13,?,0.5,390,,10
+6,,Tyrosol-glucosyl-pentoside,32,?,1.9,950,?,60
+7,,3-O-caffeoylquinic acid,18,?,0.3,535,,8
+8,,4-O-caffeoylquinic acid,37,?,1.7,"1,120",,50
+9,,5-O-caffeoylquinic acid,32,?,1.4,950,+,40
+10,,Subtotal,147,,,"4,395",,
+11,Flavonoids,Flavonoids,,,,,,
+12,,Naringenin,0.9,,0.1,28,+,1
+13,,Kaempferol,1.9,,0.1,58,+,2
+14,,Quercetin,2.2,?,0.1,67,+,3
+15,,Quercetin-3-O-arabinoside,0.9,,0.1,28,,1
+16,,Quercetin-3--glucoside,4.8,?,0.1,143,?,2
+17,,Quercetin glucuronide,3.2,?,0.2,97,,5
+18,,Quercetin derivative,7.5,,0.3,226,,8
+19,,(isomer 1),,,,,,
+20,,Quercetin derivative,2.1,,0.1,63,,2
+21,,(Isomer 2,,,,,,
+22,,Quercetin-xylosyl-,7.1,?,0.3,213,,8
+23,,rhamnoside,,,,,,
+24,,Quercetin-O-arabinosyl-,13,,1,400,,4
+25,,glucoside,,,,,,
+26,Rutin,Rutin,7.0,,0.4,210,,10
+27,,Quercetin-diglucoside,18,,1,530,,20
+28,,(isomer 1,,,,,,
+29,,Quercetin-diglucoside,4.7,,0.1,141,?,1
+30,,isomer 2),,,,,,
+31,,Kaempferol-O-glucosyl.,8.7,?,0.3,263,,8
+32,,rhamnoside,,,,,,
+33,,Luteolin 7-O-2-O,3.7,,0.1,110,?,2
+34,,pentosyl)hexoside,,,,,,
+35,,Multinoside A,40,?,1,"1,210",,30
+36,,Subtotal,126,,,"3,787",,
+37,Catechins,Catechins,,,,,,
+38,,(+)-Catechin,237,?,2,"7,120",?,60
+39,,(-)-Epicatechin,59,,1,"1,760",,10
+40,,Subtotal,296,,,"8,880",,
+41,Condensed tannins,Condensed tannins,,,,,,
+42,,Dimer A,75,?,5,"2,300",?,100
+43,,Dimer B,530,?,7,"15,900",,200
+44,,Trimer A,38,,2,"1,130",,50
+45,,Trimer B,150,+,4,"4,600",,100
+46,,Subtotal,793,,,"23,930",,
+47,Total,,"1,362",,,40.992,,

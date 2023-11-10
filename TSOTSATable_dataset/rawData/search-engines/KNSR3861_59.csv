@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7
+0,Nutrient,Indonesia,Malaysia,Philippines,,Singapore,Thailand,Vietnam
+1,a- and -,,,"hydrolysis with alkali,",,,,
+2,carotenes,,,extract with hexane &,,,,
+3,,,,"acetone,",,,,
+4,,,,chromatographed on,,,,
+5,,,,column of magnesium,,,,
+6,,,,"oxide-hyflo super cel,",,,,
+7,,,,a-carotenes eluted,,,,
+8,,,,with 1% acetone in,,,,
+9,,,,"hexane, read at 444",,,,
+10,,,,nm; -carotene eluted,,,,
+11,,,,with 4% acetone in,,,,
+12,,,,"hexane,OD @ 453",,,,
+13,,,,nm,,,,
+14,B-carotene,,,,HPLC,,,
+15,Carotenes,extract sample with,"hydrolysis with alkali,",,,,,Spectrophotometric or
+16,,"acetone in hexane,",extract with hexane.,,,,,"HPLC ? AOAC 1990,"
+17,,chromatographed on,chromatographed on,,,,,p 1048-1049
+18,,column of magnesium,column of magnesium,,,,,
+19,,"oxide + hyflo super cel,",oxide + hyflo super,,,,,
+20,,carotenes eluted with,"cel, carotenes eluted",,,,,
+21,,"10% acetone in hexane,",with 10% acetone in,,,,,
+22,,read at 450 nm; HPLC,"hexane, read at 450",,,,,
+23,,m.p. of acetonitrile +,nm,,,,,
+24,,"methanol (75+25),",,,,,,
+25,,detector @ 450 nm,,,,,,
+26,Vitamin A and,,"hydrolysis with alkali,",,,,,
+27,individual,,"extract with hexane, filter",,,,,
+28,carotenoids,,"separate on C18, m.p.",,,,,
+29,,,of AcN + MeOH + EA,,,,,
+30,,,"(88+10+2), detectors in",,,,,
+31,,,series @ 325 & 436 nm,,,,,

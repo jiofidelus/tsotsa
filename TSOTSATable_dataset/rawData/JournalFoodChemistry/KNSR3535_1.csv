@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6
+0,Companies,Factories location,Brands,Processing volume,N samples (n),,
+1,(a) Sampling for milk by type,,,10L/day,Whole,,Partially skimmed
+2,Mastellone,Buenos Aires,Serenisima,6.0,4,5,
+3,Sancor,Buenos Aires,Sancor,6.0,2,3,
+4,Milkaut,Santa Fe,,,2,2,2
+5,Milkaut,Santa Fe,Milkaut,2.0,1,1,1
+6,Total,,,14.0,9,11,11
+7,(b)Sampling for sunflower oil,,,Tn/24 h,Sunflower oil,,
+8,Molinos Rio de la Plata SA,Buenos Aires,Cocinero. Patito. Lira.,980,4,,
+9,,Santa Fe,,,4,,
+10,Aceitera Gral. Deheza SAICA,Cordoba,"Natura, Familiar, Cada dia",500,4,,
+11,Nidera S.A.,Buenos Aires,Legitimo,500,4,,
+12,Molino Canuelas,Buenos Aires,"Canuelas, Comodin",300,3,,
+13,Vicentin S.A.,Santa Fe,Vicentin,220,2,,
+14,Total,,,2.500,21,,

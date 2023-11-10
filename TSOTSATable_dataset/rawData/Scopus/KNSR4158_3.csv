@@ -1,0 +1,11 @@
+,0,1,2
+0,Peak name,Band,Corresponding phenomena
+1,,(cm-1),
+2,OH,3850-2980,-OH stretching vibration
+3,CH,2980-2865 C-H stretching vibration of-CH and -CH,2980-2865 C-H stretching vibration of-CH and -CH
+4,A1,1800-1575 C=O stretching of the gluten protein and,1800-1575 C=O stretching of the gluten protein and
+5,,,-OH in plain bending
+6,A2,1575-1485,"N-H bending and C-N,C-C stretching"
+7,A3,1340-1200,N-H bending and C-N stretching
+8,CO/CC,1200-905,C-O and C-C stretching vibrations
+9,COH,905615,C-OH out of plane bending

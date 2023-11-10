@@ -1,0 +1,8 @@
+,0,1,2,3
+0,Mean Body Weight Loss (kg),1 Month (T1),3 Months (T3),6 Months (T6)
+1,Group A,4.31 (SD 1.83),7.97 (SD 4.24),10.14 (SD 5.41)
+2,Group B,1.22 (SD 1.03),2.78 (SD 2.12),2.74 (SD 2.43)
+3,(groups A and B),2.76 (SD 2.15),5.52 (SD 4.25),6.44 (SD 5.57)
+4,Group C (placebo),2.45 (SD 1.11),5.04 (SD 2.69),5.44 (SD 5.69)
+5,,0.604,0.714,0.685
+6,p,0.019, 0.096,0.113

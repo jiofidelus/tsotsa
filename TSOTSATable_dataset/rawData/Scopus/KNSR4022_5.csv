@@ -1,0 +1,44 @@
+,0,1,2,3,4
+0,Species,Name,Kind,Abiotic Stress Function,Citation
+1,,DIRP1,RING finger domain E3,"and salt stress, and positively",
+2,,DROUGHT-INDUCED,ubiquitin ligase,regulates cold stress response,[133]
+3,,RINGPROTEIN 1,,in rice,
+4,,DHSRP1,,,
+5,,DROUGHT-HEAT-,RING finger domain E3,Negatively regulates drought,[134]
+6,,SALT INDUCED RING,ubiquitin ligase,"heat, and salt stress tolerance",[134]
+7,,FINGER PROTEIN 1,,,
+8,,DROUGHT-INDUCED,C3HC4 RING finger,Negatively regulates drought,[135]
+9,,SINA PROTEIN 1,domain E3 ubiquitin ligase,stress tolerance,[135]
+10,,,,Positively regulates heat and,
+11,,FBA1,Skp1-Cullin-F-box (SCF),drought stress in wheat.,[136-138]
+12,,FBOX-AMN1,RING finger E3 ligase,Positively regulates oxidative,[136-138]
+13,,,,stress,
+14,,,,Positively regulates salt and,
+15,,PUB1,,drought stress tolerance,
+16,,PLANT U-BOX1,U-box E3 ubiquitin ligase,in wheat.,[139-141]
+17,Wheat,PLANT U-BOX1,,Positively regulate Cadmium,
+18,Wheat,,,stress tolerance,
+19,,PUB15,U-box E3 ubiquitin ligase,Positively regulates salt stress,[142]
+20,,PLANT U-BOX15,U-box E3 ubiquitin ligase,tolerance in wheat,[142]
+21,,PUB26,U-box E3 ubiquitin ligase,Negatively regulates salt stress,[143]
+22,,PLANT U-BOX 26,U-box E3 ubiquitin ligase,in wheat,[143]
+23,,SAP5,RING finger domain E3,Positively regulates drought,
+24,,STRESS-ASSOCIATED,ubiquitin ligase,stress,[144]
+25,,PROTEIN,ubiquitin ligase,stress,
+26,,ZNF,C3HC4 RING finger,Positively regulates salt and,
+27,,PROTEIN,domain E3 ubiquitin ligase,drought stress,[145]
+28,,ASRF1,RING finger domain E3,Positively regulates drought,[146]
+29,,FINGER E3 LIGASE 1,ubiquitin ligase,stress tolerance in pepper,[146]
+30,,AIRE1,,Positively regulates the,
+31,,ABAINDUCED,RING finger domain E3,drought stress response in,[147]
+32,,RING-TYPE E3,ubiquitin ligase,pepper,[147]
+33,,LIGASE 1,,pepper,
+34,Pepper,ABA-INSENSITIVE,RING finger domain E3,Negatively regulates the,
+35,Capsicum annuum,RING PROTEIN 1,ubiquitin ligase,tolerance mechanism,[148]
+36,,GENE,,tolerance mechanism,
+37,,DTR1,RING finger domain E3,Positively regulates the,
+38,,DROUGHT,ubiquitin ligase,drought stress response in,[149]
+39,,TOLERANCE RING 1,ubiquitin ligase,pepper,
+40,,ATIR1,,Positively regulates abscisic,
+41,,ATBZ1 INTERACTING,RING finger domain E3,acid signaling and drought,[150]
+42,,PROTEIN1,ubiquitin ligase,response,

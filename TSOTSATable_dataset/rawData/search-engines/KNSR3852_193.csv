@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,food,Name,Name,Size,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,code,Kiswahili,English,,bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,475,kinywaji cha soya,Soya drink,Std,200,,150,,,,,,
+3,475,kinywaji cha soya,Soya drink,A,,,,,,,,,200
+4,476,juisi ya stroberi,Strawberry juice,A,,,,,,,,,200
+5,479, jamu ya matunda,Mixed fruit jam,A,,,,,,,,,15
+6,481,sosi ya pilipili,Chilli sauce,A,,,,,,,,,10
+7,482,tangawizi,Ginger,A,,,,,,,,,5
+8,488,chumvi yenye madini joto,Salt iodized,Sta,,,,,10,5,,,
+9,488,chumvi yenye madini joto,Salt iodized,A,,,,,,,,,7.5
+10,491,barafu ya maji (sharubati),Ice sherbet,,,,,,,,,,
+11,,,Maize porridge with sugar,,,,,,,,,,
+12,502,uji wa mahindi na sukari na yai,and egg,Std,400,200,200,,,,,,
+13,,,Maize porridge with sugar,,,,,,,,,,
+14,502,uji wa mahindi na sukari na yai,and egg,A,,,,,,,,,300
+15,,uji wa mahindi bila sukari na,"Maize porridge, no sugar",,,,,,,,,,
+16,505,maziwa,no milk,std,400,200,200,,,,,,
+17,,uji wa mahindi bila sukari na,"Maize porridge, no sugar",,,,,,,,,,
+18,505,maziwa,no milk,a,,,,,,,,,300
+19,,uji wa mahindi na sukari bila,Maize porridge+sugar no,,,,,,,,,,
+20,506,maziwa,milk,std,400,200,200,,,,,,
+21,,uji wa mahindi na sukari bila,Maize porridge+sugar no,,,,,,,,,,
+22,506,maziwa,milk,a,,,,,,,,,300
+23,,uji wa mahindi na sukari na,Maize,,,,,,,,,,
+24,507,maziwa,porridge+sugar+milk,Std,400,200,200,,,,,,
+25,,uji wa mahindi na sukari na,Maize,,,,,,,,,,
+26,507,maziwa,porridge+sugar+milk,A,,,,,,,,,300
+27,508,uji wa mtama na sukari,Millet porridge + sugar,Std,400,200,200,,,,,,
+28,508,uji wa mtama na sukari,Millet porridge+sugar,A,,,,,,,,,300
+29,,uji wa unga mchanganyiko na,,,,,,,,,,,
+30,509,sukari,Mix flour porridge+sugar,Std,400,200,200,,,,,,

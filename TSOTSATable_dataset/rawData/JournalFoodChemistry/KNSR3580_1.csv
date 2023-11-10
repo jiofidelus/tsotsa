@@ -1,0 +1,28 @@
+,0
+0,Food description
+1,Imprecise/missing description of food parts analysede.g.if whole fish or
+2,fish fillet.
+3,Imprecise description of the state of analysed foode.g.if raw or cooked
+4,Data description
+5,Missing units and denominators
+6,Inconsistency in data presentation e.gin the manuscript data refer to
+7,fresh weight basis but the corresponding table presents data on dry matter
+8,basis).
+9, Imprecise description of nutrient definitions(e.gnot clear if vitamin A is
+10,"expressed as retinol equivalent,as retinol activity equivalent or as retinol)"
+11," Data presentation in graphs/figures,without providing related values"
+12,Misleading table/graph description.
+13,.Insufficient documentation of the analytical method.
+14,Missing data that are needed to transform data to'per 100 g edible portion on
+15,a fresh weight basis'(EP)
+16,"Missing wateror dry mattercontent per 100 g EP,if data were expressed"
+17,as percentage or g dry matter.
+18,"Missing protein content per 100 g EP,if data on amino acids were"
+19,expressed as percentage or g protein.
+20," Missing value for lipid or total fatty acid per 100 g EP,if data on fatty acids"
+21,were expressed as percentage or g of total lipids or total fatty acids
+22,Inconsistency
+23,Sum of proximates higher/lower than accepted range of 95-105 g/100 g
+24,EP.
+25,Sum of individual constituents is not in accordance with corresponding
+26,component e.g.sum of amino acids and protein content

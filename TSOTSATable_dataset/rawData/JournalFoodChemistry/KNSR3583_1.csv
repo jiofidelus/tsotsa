@@ -1,0 +1,29 @@
+,0,1,2,3,4
+0,,ANOVA,,,
+1,,AverageSD,Fealculated,n,Ftabulated
+2,Green tea(Camellia sinensis-Brand 1Batch 1,289.9913.04,1.60,16,3.49
+3,Brand 1-Batch 2,293.54 10.27,1.23,16,3.49
+4,Brand 1-Mean,291.7711.66,1.23,32,2.49
+5,Brand 2,265.0414.75,2.34,9,
+6,Brand 3,259.331.78,1.88,9,
+7,Brand 4,230.56  6.06,0.62,9,
+8,Brand 5,264.58  3.59,0.83,9,5.14
+9,Brand 6,237.278.23,4.03,9,
+10,Brand7,290.34 3.44,0.85,9,
+11,Brand 8,251.677.56,0.73,9,
+12,Red tea(Aspalatus linearis,39.551.09,1.31,16,
+13,Black tea(Camellia sinensis),286.48 16.34,0.86,16,4.07
+14,White tea (Camellia sinensis),284.27  4.78,1.78,16,
+15,Darjeeling tea (Camellia sinensis),349.89  4.64,3.52,9,
+16,English breakfast tea (Camellia sinensis,247.23 1.56,4.81,9,
+17,Earl Grey tea (Camellia sinensis),256.7010.77,0.86,9,
+18,Diet infusion (Spergularia rubra),186.79 1.82,1.24,9,5.14
+19,"Diet infusion (Rhamnus fragula, Peumus boldus molina",118.448.30,2.56,9,
+20,"Olea europaea, Cassia angustifolia, both 25%)",,,,
+21,Linden infusion (Tilia europaea),205.3710.02,0.71,9,
+22,Camomile infusion (Matricaria chamomilla,168.223.23,0.45,9,
+23,Melissa infusion (Melissa officinalis),330.790.74,0.09,9,
+24,Powdered garlic(Allium sativum)-Batch 1,397.252.46,1.63,16,3.49
+25,Batch 2,398.513.37,0.87,16,3.49
+26,Mean,397.88 0.89,1.30,32,2.42
+27,Infant formula (pool),304.02  6.79,1.19,16,3.49

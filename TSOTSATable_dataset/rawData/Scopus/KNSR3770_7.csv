@@ -1,0 +1,18 @@
+,0,1,2,3
+0,Antibiotic,Percentage Resistant,Percentage Intermediate Resistance,Percentage Sensitive
+1,Ampicillin,42.16,0,57.84
+2,Cefoxitin,19.61,38.24,42.16
+3,Clindamycin,0,12.75,87.25
+4,Gentamycin,1.96,0,98.04
+5,Amoxicillin,29.41,0,70.59
+6,Doxycycline,2.94,0,97.06
+7,Lincomycin,26.47,39.22,34.31
+8,Ceftazidime,100,0,0
+9,Rifampin,2.94,3.92,93.14
+10,TMP-SMX,12.75,5.88,81.37
+11,Linezolid,2.94,0.00,97.06
+12,Azithromycin,7.84,10.79,81.37
+13,Ceftriaxone,6.86,56.87,36.27
+14,Tetracycline,5.88,3.92,90.2
+15,Norfloxacin,0,1.96,98.04
+16,Erythromycin,2.94,18.63,78.43

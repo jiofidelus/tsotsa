@@ -1,0 +1,46 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Food composition table/,Protein,Fat,Carbohydrates,Dietary,Polyols,Organic,Alcohol,Comments,Comments
+1,database,,,,fiber,,acids,,,
+2,Danish Food Composition,17 kJ,37 kJ,17kJ,8kJ,,,29 kJ,,"Carbohydrate:available,calculated by difference"
+3,Databank version 7.01,,,,,,,,Available in:http//www.foodcomp.dk,Available in:http//www.foodcomp.dk
+4,(Denmark),,,,,,,,,
+5,Dutch Food Composition,17 kJ,37 kJ,17 kJ,8 kJ,10 kJ,13 kJ,29 kJ,,"Carbohydrate:sum of mono-,di-and polysaccharides"
+6,Database version 2013/,,,,,,,,when possible;or calculated by difference,when possible;or calculated by difference
+7,4.0 (NEVO),,,,,,,,,Available in:http//www.rivm.nl/en/Topics/D/Dutch
+8,(Netherlands),,,,,,,,Food_Composition_Database,Food_Composition_Database
+9,New Zealand Food,16.7 kJ,37kJ,16.7kJ,8 kJ,,,29.3 kJ,Carbohydrate:available,Carbohydrate:available
+10,Composition Database,,,,,,,,,"Two types of energy data (energy,total metabolizable"
+11,version 2013(New,,,,,,,,,"and energy,total metabolizable including fiber"
+12,Zealand),,,,,,,,,Available in:http://www.foodcomposition.co.nz
+13,Czech Food Composition,17 kJ,37 kJ,17 kJ,8 kJ,,13kJ,29 kJ,,"Carbohydrate:available,calculated by difference"
+14,Database version 4.13,,,,,,,,,Available in:http://www.nutridatabaze.cz/en/
+15,(Czech Republic),,,,,,,,,
+16,French food composition,17 kJ,37 kJ,17 kJ,8kJ,10kJ,13 kJ,29 kJ,,Carbohydrate: any carbohydrate which is metabolized in
+17,table Ciqual version,,,,,,,,man,
+18,2013(France,,,,,,,,,Available in:https//pro.anses.fr/TableCIQUAL
+19,Souci-Fachmann-Kraut,17 kJ,37 kJ,17 kJ,,,13 kJ,29 kJ,,Carbohydrate:available.For the majority of the food
+20,Online Database 7th,,,,,,,,,products this value was determined as the total of the
+21,edition (Germany),,,,,,,,,"individual data for mono-,oligo- and polysaccharides and"
+22,,,,,,,,,sugar alcohols,sugar alcohols
+23,,,,,,,,,,Available in: http://www.sfk-online.net/cgi-bin/sfkstart.
+24,,,,,,,,,mysql?,mysql?
+25,Canadian Nutrient File,SAF,SAF,SAF,,,,,"Carbohydrate:total, calculated by difference","Carbohydrate:total, calculated by difference"
+26,version 2010(Canada,,,,,,,,,Available in: http://www.hc-sc.gc.ca/fn-an/nutrition/
+27,,,,,,,,,fiche-nutri-data/index-eng.php,fiche-nutri-data/index-eng.php
+28,USDA National Nutrient,SAF,SAF,SAF,,,,,"Carbohydrate:total,calculated by difference","Carbohydrate:total,calculated by difference"
+29,Database for Standard,,,,,,,,Available in:http://ndb.nal.usda.gov/ndb,Available in:http://ndb.nal.usda.gov/ndb
+30,Reference release 27,,,,,,,,,
+31,(United States),,,,,,,,,
+32,Food Composition,4 kcal,9 kcal,4 kcal,,,,,,"Carbohydrate:total,calculated by difference"
+33,Table version 2010,,,,,,,,,Available in:http://www.unlu.edu.ar/~argenfoods
+34,(Argentina),,,,,,,,Tablas/Tabla.htm,Tablas/Tabla.htm
+35,Chilean Food Composition,SAF or,SAF,SAF or 4 kcal,,,,,,"Carbohydrate:available,calculated by difference"
+36,Table 8th edition(Chile,4 kcal,or,,,,,,,Available in:http://mazinger.sisib.uchile.cl/repositorio/
+37,,,9 kcal,,,,,,,lb/ciencias_quimicas_y_farmaceuticas/schmidth03
+38,Peruvian Food Composition,SAF,SAF,SAF,,,,,,"Carbohydrate:available,calculated by difference when"
+39,Tables version 2009,,,,,,,,,dietary fiber values are available; or total by difference
+40,(Peru),,,,,,,,,Available in: http://www.ins.gob.pe/insvirtual/images/
+41,,,,,,,,,otrpubs/pdf/Tabla%20de%20Alimentos.pdf,otrpubs/pdf/Tabla%20de%20Alimentos.pdf
+42,Brazilian Food Composition,17 kJ,37 kJ,17 kJ,8 kJ,,,29 kJ,,"Carbohydrate:available,calculated by difference"
+43,Database version 5.0,,,,,,,,,Not available on line (data in reformulation phase)
+44,(Brazil),,,,,,,,,

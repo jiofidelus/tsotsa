@@ -1,0 +1,41 @@
+,0,1,2
+0,D1,"Meat,Poultry,Fish","Carnes,AvesPeixe"
+1,205,"Beef liver, raw","Bife de figado, cru"
+2,204,"Beef,boneless","Bife,sem osso"
+3,201,"Beef, liver, cooked","Carne de vaca,Figado,Cozido"
+4,202,"Beef,medium fat, cooked","Carne de vaca, Meio gorda, Cozida"
+5,203,"Beef, tripe","Carne de vaca, Dobrada"
+6,206,"Chicken, liver","Galinha,Figado"
+7,208,"Chicken, raw","Galinha, Crua"
+8,306,Egg yolk,Gema de ovo
+9,307,"Egg, chicken","Ovo, Galinha"
+10,308,"Fish, dried, cod","Peixe,Seco,Bacalhau"
+11,309,"Fish, dried, fresh water","Peixe, Seco,Agua doce"
+12,220,"Fish, fresh","Peixe,Fresco"
+13,310,"Fish, high fat","Peixe, Gorduroso"
+14,311,"Fish, raw",PeixeCru
+15,312,"Fish, sardines","Peixe, Sardinha"
+16,313,"Fish, small,dried, fresh water","Peixe,Pequeno,SecoAqua doce"
+17,314,"Fish,small, fresh,fresh water","Peixe,Pequeno,Fresco,Agua doce"
+18,319,"Fish smoked,dried AP","Peixe, Fumado, Seco , toda a porcao"
+19,320,"Fish, smoked, dried EP","Peixe,Fumado, Seco Parte comestivel"
+20,315,"Goat, meat","Cabra, Carne"
+21,316,"Mutton, meat","Carneiro, Carne"
+22,317,"Pork, medium fat, cooked","Porco, Meio gordo,Cozido"
+23,318,Sausage,Salsicha
+24,D2,"Meat, PoultryFish-based local dishes","Derivados de Carnes,Aves e Peixe"
+25,552,Beef relish with coconut milk,Caril de carne da vaca com Coco
+26,578,Beef relish with without oil,Caril de carne da vaca sem Oleo
+27,551,Beef relish with oil,Caril de carne da vaca com Oleo
+28,577,"Beef, fried","Carne de vaca, frita"
+29,576,"Beef, ground Relish",Caril de carne de vaca moida
+30,574,Chicken boiled or roasted,Galinha cozidalassada
+31,554,Chicken Relish without oil,Caril de galinha sem Oleo
+32,,"Meat,PoultryFish-based local",
+33,D3,dishes,"Derivados de Carnes,Aves e Peixe"
+34,573,Chicken relish with coconut milk,Caril de galinha com Coco
+35,556,Chicken relish with oil,Caril de galinha com Oleo
+36,207,"Chicken, fried","Galinha, frita"
+37,571,Egg boiled,Ovo cozido
+38,561,"Egg, fried","Ovo, frito"
+39,565,Fish fresh stew,Refogado de peixe fresco

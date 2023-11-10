@@ -1,0 +1,9 @@
+,0,1,2,3,4
+0,The name of the indicator,,,The norm for milk,
+1,,The highest grade,The highest grade,First class,Unsorted
+2,Acidity,From 15.00 to 18.00,From 15.00 to 18.00,From 16.00 to 19.99,Less than 14.99 or
+3,,,,,more than 20.00
+4,"Purity group,not lower",1,,11,
+5,"Density,kg/m3,not less",1028.0,,1027.0,Less than 1026.9
+6,"Freezing point, ",Less than 14.99 or more than 20.00 Not higher,Less than 14.99 or more than 20.00 Not higher,Less than 14.99 or more than 20.00 Not higher,Above minus
+7,,,than minus 0.520,,0.520

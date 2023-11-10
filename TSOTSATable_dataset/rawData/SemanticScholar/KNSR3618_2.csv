@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6
+0,,,,,,,Number
+1,,,Nutrient,,Criteria,INFOODS,of decima
+2,,,and units,,of acceptance,tag names,places
+3,1,"Moisture,g",,All methods,,WATER,1
+4,2,Proteing,,Total N  converting factor,Total N  converting factor,PROCNT,1
+5,3,"Fat,g",,"All methods,with acid digestion","All methods,with acid digestion",FAT,1
+6,4,"Dietary fibre,g",,Enzymatic gravimetric method,Enzymatic gravimetric method,FIBTG,1
+7,5,"Total available CHO,ginclude FIBTG","Total available CHO,ginclude FIBTG",Calculated by difference:100g,Calculated by difference:100g,CHOCDF,1
+8,,,,-total g of water+protein+fat+ ash),-total g of water+protein+fat+ ash),,
+9,6,Ashg,,All methods,,ASH,1
+10,7,"Energy,kcal",,Calculated by (4  g protein)+ (9 g fat),Calculated by (4  g protein)+ (9 g fat),ENERC,None
+11,,,,+4 g total CHO,+4 g total CHO,,
+12,8,"Calcium,mg",,All methods,,CA,None
+13,9,"Phosphorus, mg",,All methods,,P,None
+14,10,"Iron, mg",,All methods,,FE,
+15,,,,,,,
+16,11,"Sodium, mg",,All methods,,NA,None
+17,12,"Potassium, mg",,All methods,,K,None
+18,13,"Copper,mg",,All methods,,CU,2
+19,14,"Zinc, mg",,All methods,,ZN,1
+20,15,"Vitamin B,mg",,All methods,,THIA,2
+21,16,"Vitamin B2,mg",,All methods,,RIBF,2
+22,17,"Niacin, mg",,All methods,,NIA,1
+23,18,"Vitamin C,mg",,All methods,,VITC,None
+24,19,"Vitamin A(retinol),g","Vitamin A(retinol),g",All methods,,RETOL,None
+25,20,"-Carotene, g",,All methods,,CARTB,None
+26,21,"Total vitamin A (retinol equivalent,RE),g RE","Total vitamin A (retinol equivalent,RE),g RE",All methods,,VITA,None
+27,22,"Total saturated fatty acids, g","Total saturated fatty acids, g",All methods,,FASAT,1
+28,23,"Cholesterol, mg",,Gas-liguid chromatography,Gas-liguid chromatography,CHOLE,None
+29,24,"Sugars,total,g",,Sum of free monosaccharides and,Sum of free monosaccharides and,SUGAR,1
+30,,,,disaccharides,,,

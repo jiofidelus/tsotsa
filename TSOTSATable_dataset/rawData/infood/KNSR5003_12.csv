@@ -1,0 +1,47 @@
+,0,1,2,3,4,5,6
+0,Component,INFOODS,Unit,Denominator,Sig.,Data-,Comment
+1,,tagname,,,digits,sheet,
+2,Thiamin,THIA,mg,/100 g EP,2,04/05,
+3,Riboflavin,RIBF,mg,/100 g EP,2,04/05,
+4,Niacin,NIA,mg,/100 g EP,2,04/05,
+5,Niacin,NIAQ,mg,/100 g EP,2,04/05,Calc.of NIA and NIATRP
+6,equivalents,,,,,,(Equation 7)
+7,Vitamin C,VITC,mg,/100 g EP,3,04/05,
+8,Vitamin B6,VITB6C,mg,/100 g EP,2,04/05,Not preferred/improper
+9,,,,,,,"tagnames: VITB6A,"
+10,,,,,,,microbiological assay;
+11,,,,,,,"VITB6-,unknown"
+12,,,,,,,expression or method.
+13,Vitamin B12,VITB12,ug,/100 g EP,2,04/05,
+14,Folate,FOL,ug,/100 g EP,2,04/05,Not preferred/improper
+15,,,,,,,"tagnames: FOLSUM, sum"
+16,,,,,,,of vitamers determined
+17,,,,,,,by HPLC;FOL-method
+18,,,,,,,unknown or variable.
+19,Vitamin A (RE),VITA,ug,/100 g EP,3,04/05,(Equation 5)
+20,Vitamin A(RAE,VITA_RAE,ug,/100 g EP,3,04/05,(Equation 6)
+21,Retinol,RETOL,ug,/100 g EP,3,04/05,
+22,Beta-carotene,CARTBEQ,ug,/100 g EP,3,04/05,
+23,equivalent,,,,,,
+24,Alpha-carotene,CARTA,ug,/100 g EP,3,04/05,
+25,Beta-carotene,CARTB,ug,/100 g EP,3,04/05,
+26,Beta-,CRYPXB,ug,/100 g EP,3,04/05,
+27,cryptoxanthin,,,,,,
+28,Alpha-,TOCPHA,mg,/100 g EP,2,04/05,
+29,Tocopherol,,,,,,
+30,Inositol,IP3,mg,/100 g EP,3,04/05,
+31,triphosphate,,,,,,
+32,Inositol,IP4,mg,/100 g EP,3,04/05,
+33,tetraphosphate,,,,,,
+34,Inositol,IP5,mg,/100 g EP,3,04/05,
+35,pentaphosphate,,,,,,
+36,Inositol,IP6,mg,/100 g EP,3,04/05,Not preferred tagnames:
+37,hexaphosphate,,,,,,"PHYTCPPD,phytic acid,"
+38,,,,,,,determined by direct
+39,,,,,,,preciptation; PHYTCPP
+40,,,,,,,"phytic acid,calc.from"
+41,,,,,,,"phytate phosphorus,"
+42,,,,,,,anion exchange method;
+43,,,,,,,"PHYTPPI, Phytate,"
+44,,,,,,,determined by indirect
+45,,,,,,,preciptation

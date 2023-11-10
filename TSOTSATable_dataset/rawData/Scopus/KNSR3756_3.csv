@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,S. No.,Genera,,Median Abundance(%,Function
+1,,,CT2,DM2,
+2,,Genera decreased in DM2 group,,,
+3,1,Trichoderma,0.38,0.22,Plant pathogen
+4,2,Alternaria,0.12,0,Plant/Human pathogen
+5,3,Capnodiales unclassified,0.01,0.01,Plant/human pathogen
+6,4,Hypoxylon,0.01,0,Plant pathogen
+7,5,Pyrenochaetopsis,0.01,0, Plant pathogen
+8,,Genera increased in DM2 group,,,
+9,6,Nigrospora,0,0.09,Plant/Human pathogen
+10,7,Cordyceps,0,0.01,Animal pathogen
+11,8,Idriella,0,0.01,Plant pathogen

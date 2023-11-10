@@ -1,0 +1,71 @@
+,0,1,2,3,4
+0,Food,Species,Compounds,Production system,References
+1,Blueberry,"Vaccinium corymbosum, cv.","total anthocyanins, total phenols, chlorogenic",Organic,"Wang et al., 20080chmian, Btaszak,"
+2,,"BluecropVaccinium corymbosum L., cv.","acid, myricetin 3-arabinoside, quercetin 3-",ConventionalNo,"Lachowicz,& Piwowarczyk,2020You"
+3,,Brigitta Blue Vaccinium virgatum,"glucoside,delphinidin 3-galactoside,delphinidin",effects,et al.2011
+4,,,"3-glucoside,cyanidin 3-galactoside,delphinidin",,
+5,,,"3-arabinoside,petunidin 3-galactoside,",,
+6,,,"petunidin 3-glucoside, malvidin 3-glucoside,",,
+7,,,"malvidin 3-arabinosideTotal flavonols,Total",,
+8,,,"anthocyanins, Total polyphenolsTotal",,
+9,,,"anthocyanins, Total quercetin",,
+10,Grapes,"Vitis viniferaVitis vinifera, cv. Monastrell","Total polyphenols contentTotal anthocyanins,",OrganicNo effects,"Bunea et al.,2012Mulero,Pardo,&"
+11,,,"hydroxycinnamic acids,flavonols,Total phenolic",,"Zafrilla,2010"
+12,,,"compounds, all in full ripe grapes",,
+13,Kiwifruits,"Actinidia deliciosa, cv. Hayward",Total phenolics,Organic,"Amodio et al., 2007"
+14,Corn,"Zea mays, cv. Supersweet Golden Jubilee",Total phenolics,Organic,"Asami, Homg, Barrett, & Mitchell, 2003"
+15,Blackberries,"RubusMarion""Rubus fruticosus,cv.Loch",Total phenolicsTotal phenolic compounds,OrganicNo effects,"Asami,Homg,Barrett,& Mitchell,2003"
+16,,"Ness, Chester Thornless",,,"Pinto et al., 2018"
+17,Strawberry,"Fragaria vesca L., cv. FestivalFragaria ","Total phenolicsTotal anthocyanins, quercetin,",OrganicNo effects,"Khalil & Hassan, 2015Reganold et al.,"
+18,,"ananassa Duch., cv. Diamante, San Juan,","kaempferol glycoside,total kaempferol,ellagi",,2010
+19,,Lanai,"acid glycoside,ellagic acid,total ellagic acid",,
+20,,,"phloridzin glycoside, phloretin, total phloretin,",,
+21,,,"R-naringin glycoside, S-naringin glycoside, R-",,
+22,,,"naringenin, S-naringenin, total R-naringenin,",,
+23,,,total S-naringenin,,
+24,Lemons,Citrus meyeri Tan.,"Hesperidin, didymin",Organic,"Uckoo, Jayaprakasha, & Patil, 2015"
+25,Peaches,"Prunus persica L., cv. Regina bianca","Chlorogenic acid, Total polyphenols",Organic,"Carbonaro, Mattera, Nicoli, Bergamo, &"
+26,,,,,"Cappelloni,2002"
+27,Pears,"Pyrus communis L., cv. Williams","Caffeic acid, chlorogenic acid, Total polyphenols",Organic,"Carbonaro, Mattera, Nicoli, Bergamo, &"
+28,,,,,"Cappelloni,2002"
+29,Plums,"Prunus salicina Lindl.Prunus domestica L.,","Total anthocyanins, Total phenolicsTotal",Organict,"Cuevas et al.,2015Lombardi-Boccia"
+30,,cv.Shiro,polyphenols,Conventional,"Lucarini, Lanzi, Aguzzi,  Cappelloni,"
+31,,,,,2004
+32,Oranges,"Citrus sinensis, cv.TaroccoCitrus sinensis","Total phenolics, Total anthocyaninsTotal",Organict,"Tarozzi et al,2006Khalil& Hassan,2015"
+33,,"L., cv. Washington navel",phenols,Conventional,
+34,Red currants,"Rubus rubrum L.,cv.Rondom","Total polyphenols, Total phenolic acids,",Organic,"Wojdylo, Oszmianski, Milczarek, &"
+35,,,"quercetin-3-O-glucoside, Total flavonols,",,"Wietrzyk,2013"
+36,,,oligomeric procyanidins,,
+37,Black,"Rubus nigrum, cv. Ben Alder, Ben Hope,","Total polyphenols, Total anthocyanins, Total",OrganicNo effects,"Wojdylo, Oszmianski, Milczarek,"
+38,currants, TitaniaRibes nigrum L.,"phenolic acids, quercetin-3-O-glucosideTotal",,"Wietrzyk, 2013Anttonen, & Karjalainen,"
+39,,,"phenolic content,phenolic acids,flavonols,",,2006
+40,,,anthocyanins,,
+41,Potato,"Solanum tuberosum L., cv. Arinda, Ditta",Total phenolics, Organic,"Lombardo, Pandino, & Mauromicale"
+42,,Nicola,,,2012
+43,Passion fruits,Passiflora edulis S.,Total phenolics, Conventional,"Oliveira et al., 2017"
+44,Apple,"Malus  domestica Borkh., cv. Starking","Total phenols, Total flavanolsTotal Phenols,",No effectsNo effects,"Roussos, & Gasparatos, 2009Valavanidis."
+45,,"DeliciousMalus pumila, cv. Red Delicious-","-)-Epicatechin,Procyanidin B2S,Cyanidin 3-",,"Vlachogianni, Psomas, Zovoili,  Siatis,"
+46,,"Starking, Golden Delicious, Granny","galactoside, Phloridzin, Quercetin 3-galactoside",,2009
+47,,"Smith,Jona Gold,Royal Gala",,,
+48,Tomato,Solanum lycopersicum L.Solanum,Total phenolicsTotal phenolicsTotal phenolic,No effectsNo,"Juroszek, Lumpkin, Yang, Ledesma, & Ma,"
+49,,"lycopersicum L., cv. Llado,","acids,gallic acid,p-coumaric acid",effectsNo effects,"2009Ordonez-Santos, Vazquez-Oderiz, &"
+50,,"AntillasSolanum lycopersicum L., cv.",,,"Romero-Rodriguez, 2011Hallmann,"
+51,,Rumba,,,"Lipowski, Marszatek, & Rembiatkowska,"
+52,,,,,2013
+53,Eggplants,"Solanum melongena L., cv. Blackbell,",5-caffeoylqunic acid,No effects,"Luthria et al.,2010"
+54,,Millionaire,,,
+55,Cauliflower,"Brassica oleracea, L., subsp. Botrytis, cv.",Total polyphenols,No effects,"Picchi et al.,2012"
+56,,"Emeraude,Magnifico",,,
+57,Broccoli,"Brassica oleracea. L., var. italica, cv.","Total phenolics, Total flavonoids",No effects,"Valverde et al.,2015"
+58,,"Belstar,Fiesta",,,
+59,Sunflower,Helianthus spp,Total polyphenols,No effects,"Perretti,Finotti,AdamuccioDella Sera,&"
+60,seed oil,,,,"Montanari,2004"
+61,Cinnamon,Cinnamomum spp,"Total phenolics, gallic acid, catechin,",No effects,"Lv et al.,2012"
+62,,,"-)-epigallocatechin gallate, vanillic acid, p",,
+63,,,Coumaric acid,,
+64,Peppermint,Mentha  piperita,"Total phenolics, gallic acid, catechin,",No effects,"Lv et al.,2012"
+65,,,")-epigallocatechin gallate, vanillic acid, p-",,
+66,,,Coumaric acid,,
+67,Pepper,Capsicum annuumL,Total phenolics,No effects,"Lopez, Fenoll, Hellin, & Flores, 2014"
+68,Citrus juice,"Citrus sinensis (L.) Osbeck, cv. Maltaise","Total phenolics, gallic acid, caffeic acid, p",No effects,"Letaief, Zemni, Mliki,  Chebil, 2016"
+69,,,"Coumaric acid, vanillic acid, naringin",,

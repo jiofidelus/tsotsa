@@ -1,0 +1,43 @@
+,0,1,2,3,4,5,6,7,8
+0,VARIABLE,RECEIVING>R3000PM,,RECEIVINGR3000PM(201,RECEIVING>R3000PM,RECEIVING>R3000PM,,,P-VALUE
+1,,(>201 USD),USD),,(>201 USD),(>201 USD),,,
+2,,PERCENTAGE (%),N,PERCENTAGE (%),N,PERCENTAGE (%),,,
+3,,How many servings of nuts(including peanuts)do you consume per week?(n=653,,,,,,,
+4,Non-adherence:<3,Non-adherence:<3,280,95.6,330,91.7,,,
+5,,,,,,,,,.05
+6,Adherence:>3servings,Adherence:>3servings,13,4.4,30,8.3,,,
+7,(>90 g),,,,,,,,
+8,,"How many times per week do you consume vegetables,pasta,rice,or other dishes seasoned with sofrito (sauce made with tomato and",,,,,,,
+9,"onion,leek,or garlic and simmered with olive oil)?(n=653)","onion,leek,or garlic and simmered with olive oil)?(n=653)",,,,,,,
+10,Non-adherence:<60ml,Non-adherence:<60ml,233,79.5,258,71.7,,,
+11,(<2 servings),(<2 servings),,,,,,,
+12,,,,,,,,,.02
+13,Adherence:>60ml(>2,Adherence:>60ml(>2,60,20.5,102,28.3,,,
+14,servings),servings),,,,,,,
+15,,GRADE 11 UPTO TERTIARY,PRIMARY EDUCATION,PRIMARY EDUCATION,GRADE 11 UPTO TERTIARY,GRADE 11 UPTO TERTIARY,,,P-VALUE
+16,,EDUCATION,GRADE 10,,EDUCATION,EDUCATION,,,
+17,,PERCENTAGE (%),N,PERCENTAGE (%),N,PERCENTAGE (%),,,
+18,,"How much olive oil do you consume in a given day(including oil used for frying,salads,out-of-house meals,etc.)?(n=681)",,,,,,,
+19,Non-adherence:<4 tbsps,Non-adherence:<4 tbsps,220,96.1,418,92.5,,,
+20,(<60ml),(<60ml),,,,,,,
+21,,,,,,,,,.01
+22,Adherence: >4 tbsps.,Adherence: >4 tbsps.,9,3.9,34,7.5,,,
+23,(60ml),(60ml),,,,,,,
+24,,"How many times per week do you consume vegetables,pasta,rice,or other dishes seasoned with sofrito(sauce made with tomato and",,,,,,,
+25,"onion,leek,or garlic and simmered with olive oil)(n=681)","onion,leek,or garlic and simmered with olive oil)(n=681)",,,,,,,
+26,Non-adherence<60ml,Non-adherence<60ml,184,80.4,330,73.0,,,
+27,(<2 servings),(<2 servings),,,,,,,
+28,,,,,,,,,.02
+29,Adherence:>60ml(>2,Adherence:>60ml(>2,45,19.6,122,27.0,,,
+30,servings),servings),,,,,,,
+31,,CURRENTINCOMEISLESS,CURRENTINCOMEIS MORE,CURRENTINCOMEIS MORE,CURRENTINCOMEISLESS,CURRENTINCOMEISLESS,CURRENTINCOMEISTHE,CURRENTINCOMEISTHE,P-VALUE
+32,,THAN THE USUAL INCOME,THAN THE USUALINCOME,THAN THE USUALINCOME,THAN THE USUAL INCOME,THAN THE USUAL INCOME,SAME AS USUAL INCOME,SAME AS USUAL INCOME,
+33,,RECEIVED (IN THE PAST,RECEIVED (IN THE PAST,RECEIVED (IN THE PAST,RECEIVED (IN THE PAST,RECEIVED (IN THE PAST,RECEIVED IN THE PAST,RECEIVED IN THE PAST,
+34,,6MONTHS),6MONTHS),6MONTHS),6MONTHS),6MONTHS),6MONTHS),,
+35,,PERCENTAGE(%),(N),PERCENTAGE (%),(N),PERCENTAGE(%),(N),PERCENTAGE(%),
+36,How many sweet or carbonated beverages do you drink per day?(n=664,How many sweet or carbonated beverages do you drink per day?(n=664,,,,,,,
+37,Non-adherence:>330ml,Non-adherence:>330ml,3,2.4,2,1.3,22,5.7,
+38,(>1 serving),(>1 serving),,,,,,,
+39,,,,,,,,,.04
+40,Adherence:<330ml1,Adherence:<330ml1,120,97.6,154,98.7,363,94.3,
+41,serving),,,,,,,,

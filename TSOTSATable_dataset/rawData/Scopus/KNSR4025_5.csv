@@ -1,0 +1,7 @@
+,0,1
+0,Field Name,Description
+1,NDB No*,5-digit Nutrient Databank number
+2,Nutr_No*,Unique 3-digit identifier code for a nutrient
+3,DataSrc ID*,Unique ID identifying the reference/source. This is
+4,,"the reference number from the Sources of Data,"
+5,,"preceded with an""R"""

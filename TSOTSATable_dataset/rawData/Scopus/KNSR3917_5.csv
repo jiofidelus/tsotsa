@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7
+0,Quartiles,,,Crude,,,Multivariable modelt,
+1,,,OR,,95%CI,OR,,95%CI
+2,,n,,,"Lower, upper",,"Lower, upper","Lower, upper"
+3,Fruit,,,,,,,
+4,Low-highs,3732,Reference,,"073, 102",Reference,,
+5,Low-highs,1539,0.86,,"073, 102",0.87,,"0.73, 1.04"
+6,High-lowll,1539,1.08,,"0.92, 126",1-10,,"0.93, 1-30"
+7,High-high1,3733,0.84,,"074,0.96",0.88,,"077,101"
+8,Vegetables,,,,,,,
+9,Low-low,3845,Reference,,,Reference,,
+10,High-lowll,1426,0.81,,"0.68,0.96",0.84,,"0.77,1-10"
+11,High-lowll,1426,0.88,,"075, 1.04",0.92,,"0.77,1-10"
+12,High-high1,3846,0.74,,"0.66, 0.84",0.82,,"0.71, 0.95"

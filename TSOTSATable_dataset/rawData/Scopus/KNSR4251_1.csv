@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6
+0,Province,District/City,Ward,Number of,Sample codes,Sub-,Coordinates
+1,,,,sample(s),,population,
+2,,Hue City,Thuy Bieu,15,From B1 to B15,P1,"16.4446N,107.5511E"
+3,,Hue City, Kim Long,1,K,,"16.4652N,107.5605E"
+4,,,Huong Xuan,1,S,,"16.4770N,107.4766E"
+5,,Huong Tra,Huong Van,1,L,,"16.4972N,107.4736E"
+6,Hue,Huong Tra,Huong Toan,1,T,,"16.5128N,107.5348E"
+7,,,Huong Chu,1,W,P2,"16.4931N,107.5209E"
+8,,Huong Thuy,Thuy Chau,1,J,,"16.4355N,107.6630E"
+9,,Huong Thuy,Thuy Thanh,1,G,,"16.4652N,107.6416E"
+10,,Nam Dong,Thuong Long,1,E,,"16.0755N,107.6275E"
+11,Gia Lai,Mang Yang,Lo Pang,2,"GL1,GL2",,"13.9367N,108.2637E"
+12,Thanh Hoa,Thuong Xuan,Luan Thanh,2,"TH1,TH2",,"19.8015N,105.4127E"
+13,Quang Nam,Tien Phuoc,Tien Son,2,"QN1,QN2",,"15.5804N,108.2674E"
+14,Dak Lak,Krong Nang,Tam Giang,2,"DL1,DL2",,12.9749N.108.3920E
+15,Dak Nong,Dak Song,Dak N'Drung,2,"DN1,DN2",,"12.2160N,107.5624E"
+16,Da Nang,Cam Le,Hoa Phat,2,"HP1,HP2",,16.0287N.108.1725E
+17,Quang Tri,Cam Lo,Cam Tuyen,1,QT,,"16.8229N,106.9241E"
+18,Binh Dinh,An Lao,An Tan,2,"BD1,BD2",,"14.5748N,108.8849E"

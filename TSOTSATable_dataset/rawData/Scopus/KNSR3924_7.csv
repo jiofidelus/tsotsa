@@ -1,0 +1,37 @@
+,0,1,2,3,4,5,6,7,8
+0,Investigated,Preparation for, Preparation of,Incubation,Method for Microbiome,Microbiome Changes,Metabolite,Metabolites,Reference
+1,"Plant, Plant Part",Incubation,Fecal Samples,Conditions,Analysis,Microbiome Changes,Detection,Metabolites,Reference
+2,Panax,,6 fecal samples,conditions,,,, ginsenoside Rb1,
+3,"quinquefolius,",ethanolic extract, from healthy adult,"anaerobic, 37 C;",,,HPLC/O-TOF,metabolized to,[149]
+4,radix,(70%),volunteers,sampling after 24 h,,,MS, ginsenoside Rg3,[149]
+5,radix,,volunteers,incubation,,,, ginsenoside Rg3,
+6,,,,,,,,25 identified,
+7,,,,,,,,metabolites:,
+8,,,,,,,,13 metabolites,
+9,,,,,,,,were undoubtedly,
+10,,,,,,,,"assigned, 12 were",
+11,,,,,,,,tentatively,
+12,,,,,,,,assigned;the,
+13,,,one fresh fecal,conditions:,,,,3 most abundant,
+14,,ethanolic extract,sample from a,"anaerobic,37C;",,,HPLC/Q-TOF-,metabolites:,[153]
+15,,(70%),healthy Chinese,sampling after 24 h,,,MS,20S-ginsenoside,[153]
+16,,,man (28 years old),incubation,,,,"Rg3, ginsenoside F2,",
+17,,,,,,,,and compound K;,
+18,,,,,,,,main metabolic,
+19,,,,,,,,pathways:,
+20,,,,,,,,deglycosylation,
+21,,,,,,,,(stepwise cleavage,
+22,,,,,,,,"of sugar moieties),",
+23,,,,,,,,dehydration,
+24,,,,,,,,44 detected,
+25,,,,,,,,metabolites:,
+26,,,,,,,,25 triterpene,
+27,,,rat intestinal,,,,,saponin,
+28,,,bacteria with Radix,conditions:,V4 region of bacterial 16S,,,metabolites,
+29,"Polygala tenuifolia,",ethanolic extract,(final concentration,"sampling after 0, 2,","rRNA gene, NGS (Illumina);",Bacteroides rel. increase,MS and,"deglycosylation,",[162]
+30,radix,(75%),"of 0.02 g/mL),","sampling after 0, 2,",3 replicates of PCR,more than 60%,UHPLC-Q-TOF,deacetylation);,[162]
+31,,,"control,and blank","8, 24, 48, 72, or 96 h",reactions combined,,MS,16 oligosaccharide,
+32,,,samples,,,,,ester metabolites;,
+33,,,,,,,,3 xanthone,
+34,,,,,,,,C-glycoside,
+35,,,,,,,,metabolites,

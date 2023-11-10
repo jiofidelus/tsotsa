@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,,,Copper,Selenium,C-Reactive,Alpha-1-Acid,Copper:Zinc
+1,,,Copper,Selenium,Protein,Glycoprotein,Ratio
+2,Copper,rs,1.000,0.166**,0.216 **,0.252 **,0.744 **
+3,Copper,n,2169,2160,2123,2163,2168
+4,Selenium,rs,0.166**,1.000,0.062**,0.001,0.005
+5,Selenium,n,2160,2165,2119,2158,2159
+6,,rs,0.216 **,0.062 **,1.000,0.456 **,0.189 **
+7,C-Reactive Protein,n,2123,2119,2154,2150,2122
+8,Alpha-1-Acid,rs,0.252 **,-0.001,0.456**,1.000,0.222 **
+9,Glycoprotein,n,2163,2158,2150,2193,2162
+10,Copper:Zinc ratio,rs,0.573 **,0.086 **,0.222 **,0.090 **,1.000
+11,Copper:Zinc ratio,n,2168,2153,2162,2152,2168

@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7
+0,,m/z Exp,m/z Theor,RT (min),MF,RDBeq.,8(ppm),Compound
+1,1,153.0561,153.0546,10.05,CgH1oO3,4.5,1.650,Hydroxytyrosol
+2,2,183.0665,183.0652,12.06,C9H12O4,4.5,0.917,decarboxymethyl elenolic acid
+3,3,195.0656,195.0652,13.19,C1oH12O4,5.5,0.963,Hydroxytyrosol acetate
+4,4,313.2379,313.2373,18.82,C18H34O4,2.5,1.861,Octadecanedioic acid
+5,5,279.2325,279.2319,20.09,C18H32O2,3.5,1.588,Linoleic acid
+6,6,255.2328,255.2319,21.45,C16H34O2,1.5,0.719,Palmitic acid
+7,7,281.2483,281.2475,21.60,C1gH34O2,2.5,1.222,Oleic acid

@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,,Fruits,Fruits,,,,Type-A vegetables,Type-A vegetables,,Type-B vegetables,Type-B vegetables,,,Type-C vegetables,Type-C vegetables,Type-C vegetables,
+1,International,Number of,Number of,,TCFA/,,Number of,,TCFA/,Number of,,TCFA/,TCFA/,Number of,Number of,,TCFA/
+2,FCT,foods,foods,FCTX,ANVISAY,foods,foods,FCTx,ANVISAY,foods,FCTx,ANVISAY,ANVISAY,foods,,FCTx,ANVISAY
+3,DTU FOOD,16,,3.190.9a,3.970.2b,11,11,4.311.31a,4.010.07a,10,6.187.47a,4b,,11,,3.141.49a,3.980.04a
+4,FAO-AA,9,,3.280.93a,40.22b,6,6,4.821.17a,3.980.04a,5,3.461.25a,4a,9,9,,41.07a,3.990.03a
+5,FCNT,7,,3.611.29a,3.960.21a,8,8,4.341.33a,4.010.08a,6,4.071.64a,4a,7,7,,3.411.41a,4a
+6,HCNT,16,,3.742.55a,3.970.2a,10,10,4.31.29a,3.990.03a,11,4.832.46a,4b,9,9,,4.622.26a,3.980.04a
+7,LPFL-PKU,15,,3.161.03a,3.970.2b,15,15,4.461.07a,4.010.06a,11,4.280.96a,4b,4b,12,,4.361.57a,3.980.04a
+8,NUTTAB,7,,3.561.3a,3.960.21a,4,4,3.331.41a,3.980.05a,4,3.530.67a,4a,6,6,,3.930.99a,4a
+9,NZFC,10,,3.131.03a,3.940.17b,3,3,4.531.17a,4a,1,4.9,4,5,5,,3.620.91a,3.980.04a
+10,USDA-SR,16,,3.25 1.04a,3.970.2b,12,12,4.281.19a,4.010.07a,12,4.722.38a,4b,,12,,4.281.72a,3.980.04a
+11,(b),,,,,,,,,,,,,,,,
+12,,,Fruits,,,,Type-A vegetables,Type-A vegetables,Type-B vegetables,Type-B vegetables,,,Type-C vegetables,Type-C vegetables,,,
+13,,,Number of,Spearman's,Spearman's,Number of,Number of,Spearman's,Number of,Number of,Spearman's,,Number of,,Spearman's,Spearman's,
+14,International FCT,,,,correlation,,foods,correlation,foods,foods,correlation,,foods,,correlation,correlation,
+15,DTU FOOD,,16,0.841*,,11,11,0.918*,10,,0.390**,11,11,,0.664*,,
+16,FAO-AA,,9,0.883*,,6,6,0.771**,5,,0.900*,9,9,,0.908*,,
+17,FCNT,,7,0.889*,,8,,0.905*,6,,0.986*,7,7,,0.714**,,
+18,HCNT,,16,0.692*,,10,10,0.879*,11,,0.221**,11,11,,0.764*,,
+19,LPFL-PKU,,15,0.814*,,15,15,0.900*,11,,0.528**,12,12,,0.673*,,
+20,NUTTAB,,7,0.857*,,4,4,1.000*,4,,1.000*,6,6,,0.899*,,
+21,NZFC,,10,0.848*,,4,4,0.400**,1,,,5,5,,0.900*,,
+22,TCFA/ANVISA,,16,0.972*,,15,15,0.997*,12,,0.998*,12,12,,0.995*,,
+23,USDA-SR,,16,0.747*,,12,12,0.923*,.12,,0.377**,,12,,0.722*,,

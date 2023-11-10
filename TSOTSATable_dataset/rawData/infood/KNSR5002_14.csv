@@ -1,0 +1,31 @@
+,0,1,2,3,4,5
+0,ISCCAAP,3-Alpha,Family,English name,"Scientific name,author",Food Item ID
+1,,,,,"TIP,PNV, and other species belonging to the",
+2,,,,,Penaeidae family,
+3,,ENS,Penaeidae,Endeavour shrimp,"Metapenaeus endeavouri, Schmitt 1926","092028,092066, 092104,092142"
+4,,MPM,Penaeidae,Eastern school shrimp,"Metapenaeus macleayi(Haswell,1879)","092029,092067,092105,092143"
+5,,MPN,Penaeidae,Speckled shrimp,"Metapenaeus monoceros (Fabricius,1798)","092030,092068,092106,092144"
+6,,PRB,Penaeidae,Brown tiger prawn,"Penaeus esculentus, Haswell 1879","092031,092069,092107,092145"
+7,,WKP,Penaeidae,Western king prawn,"Penaeus latisulcatus, Kishinouye 1896","092032,092070,092108,092146"
+8,,PBA,Penaeidae,Banana prawn,"Penaeus merguiensis,De Man 1888","092033,092071,092109,092147"
+9,,GIT,Penaeidae,Giant tiger prawn,"Penaeus monodon,Fabricius 1798","092034-092035, 092072-092073,"
+10,,,,,,"092110-092111, 092148-092149"
+11,,TIP,Penaeidae,Green tiger prawn,"Penaeus semisulcatus, De Haan 1844","092036,092074,092112,092150"
+12,,PNV,Penaeidae,Whiteleg shrimp,"Litopenaeus vannamei (Boone, 1931) (syn.","092037,092075,092113,092151"
+13,,,,,"Penaeus vannamei, Boone 1931 - unaccepted)",
+14,,SHS,Sergestidae,Sergestid shrimps,"Includes SHS, and other species belonging to the","092038, 092076, 092114, 092152"
+15,,,,,Sergestidae family,
+16,Molluscs,,,,,
+17,"52 Abalones,winkles, conchs","52 Abalones,winkles, conchs",,,,
+18,,ABX,Haliotidae,Abalones,Haliotis spp,"093001,093036,093071"
+19,,JTX,Strombidae,Conch shells,"Includes TBG, TBI, and other species belonging","093002,093037,093072"
+20,,,,,to the Strombidae family,
+21,,TBG,Strombidae,Giant Eastern Pacific conch,"Strombus galeatus, Swainson 1823","093003,093038,093073"
+22,,TBI,Strombidae,Eastern Pacific fighting,"Strombus gracilior, Sowerby 1825","093004,093039,093074"
+23,,,,conch,,
+24,53 Oysters,,,,,
+25,,OYC,Ostreidae,Cupped oysters,Crassostrea spp,"093005,093040,093075"
+26,,OYG,Ostreidae,Pacific cupped oyster,Crassostrea gigas (Thunberg 1793),"093006-093007, 093041-093042,"
+27,,,,,,093076-093077
+28,,OYM,Ostreidae,Mangrove cupped oyster,Crassostrea rhizophorae (Guilding 1828),"093008,093043,093078"
+29,,OYA,Ostreidae,American cupped oyster,Crassostrea virginica (Gmelin 1791),"093009-093011, 093044-093046,"

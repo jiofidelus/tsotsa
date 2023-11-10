@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Matrix,Extracting,T(C,Pressure,Other,Target compounds,Chemical structure of main,Chemical structure of main,Chemical structure of main,,Extraction,Antioxidant,References
+1,,solvent,,(MPA,operation,,compounds,,,,recovery/yield,capacity,
+2,,,,,parameters,,,,,,,(method),
+3,,Glicerol:,,,,"Monomers of flavanols,",OH,,,,extraction with,TE/g(ORACHuaman-,TE/g(ORACHuaman-
+4,,water 15:85,,,,"flavonols, phenolic",,OH,OH,,water,,Castilla
+5,,(v/v),,,,acids,,,,,,,"et al., 2021"
+6,,,,,,,,,,OH,TPC:20.21,21.590.65,
+7,,,,,,,HO,,,,0.2 mg GAE/g,mg/mL EC5o,
+8,,,,,,,,,,,,(DPPH),
+9,,,,,,,,,,OH,,,
+10,,,,,,,203.60  12.22 g/g DW,203.60  12.22 g/g DW,,,,,
+11,Grape pomace,Ethanol:,,,,,Epicatechin,,,,~2 higher vs.,293.81,
+12,,water 15:85,,,,,,,,,conventional,11.75 mol,
+13,,(v/v),,,,,OH,,,,extraction with,TE/gORAC),
+14,,,,,,,,OH,,,water,,
+15,,,,,,,,,,OH,TPC:18.40,23.780.71,
+16,,,,,,,HO,,,,0.2 mg GAE/g,mg/mL EC5o,
+17,,,,,,,,,,OH,,(DPPH),
+18,,,,,,,,,OH,,,,
+19,,,,,,,189.44 25.52 g/g DW,189.44 25.52 g/g DW,,,,,

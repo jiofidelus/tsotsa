@@ -1,0 +1,19 @@
+,0,1,2,3,4
+0,Fermentation Type,Substrate,End Products,Microorganisms Responsible,Reference
+1,Ethanol,Sugar,"Ethanol, CO2",Zymomonas mobilis,[19]
+2,Acetic Acid,Ethanol,Acetic acid,Komagataeibacter,[20]
+3,,,,Propionibacterium freudenreichii,
+4,,,"Propionic acid,",Propionibacterium jensenii,
+5,Propionic Acid,Lactic Acid,"acetic acid,O2",Propionibacterium thoenii,[21]
+6,,,"acetic acid,O2",Propionibacterium acidipropionici,
+7,,,,Propionibacterium cyclohexanicum,
+8,,,"Acetate,",Lactococcus lactis subsp. lactis biovar diacetylactis,
+9,,,"Formate,",,
+10,,,"Ethanol,",Leuconostoc **,
+11,Citric Acid,Citric Acid,"Diacetyl,",Enterococcus **,[22]
+12,,,"Acetoin,",Lactobacillus **,
+13,,,"CO2,",,
+14,,,Lactate,Oenococcus oeni,
+15,,,,Oenococcus oeni,
+16,Malolactic,Malic Acid,Lactic acidCO2,Lactobacillaceae ***,[23]
+17,,,,Pediococcus **,

@@ -1,0 +1,36 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,Method for,,Method for,,
+1,"Plant, Plant","Extract,",Groups,Animal,,Method for,Microbiome,Metabolite,,Reference
+2,"Plant, Plant", Sample,(n = Number of,"Species,",Conditions,Microbiome,Changes,Metabolite,Metabolites,Reference
+3,Part,Preparation,Analyzed,Volunteers,,Analysis,Changes,Detection,,Reference
+4,,,Individuals),,,,,,,
+5,,,6 groups:,,,,GP treatment shifted,,,
+6,,,"control, model",,,,microbiota,,,
+7,,,group,,,,composition towards,,,
+8,,,(HFD-induced,,rats fed with,, that of healthy,,,
+9,,,nonalcoholic fatty,,chow diet or,V3-V4 region of,control; GP decreased,,,
+10,,Gynostemma,"liver disease,",,HFD for 8,16S rRNA gene;,Firmi-,,,
+11,,pentaphyllum,"NAFLD), NAFLD +",male adult,weeks; from,V4 and V9,cutes/Bacteroidetes,,,
+12,,(GPdecocted,positive control, Sprague Dawley,"week 5,treated",regions of 18S,ratio to a value,,,[118]
+13,,twice with 4 L,"(22.8 mg/kg DLPC),",rats (180-220 g),for 4 weeks;,"rRNA gene,",comparable to healthy,,,[118]
+14,,water,"NAFLD+GP,",rats (180-220 g),"cecum, contents",NGS (Illumina);,control;,,,
+15,,(2 g/mL),"6 g/kg BW (GPH),",,collected after,PCR of ITS1 and,GP rel. increase:,,,
+16,,,"NAFLD+ GP,",,sacrifice,ITS2 regions,Lactococcus;GP,,,
+17,,,3 g/kg BW (GPM);,,sacrifice,,rel. decrease:,,,
+18,,,NAFLD+GP,,,,"pathogenic bacteria,",,,
+19,,,1.5 g/kg BW (GPL),,,,including,,,
+20,,,(n = 10 per group),,,,Ruminococcus spp.,,,
+21,,,,,,,GP restored reduced,,,
+22,,,,,feeding with,,gut microbial,,,
+23,,,3 groups:,,chow diet or,,diversity and,,,
+24,,,control (chow diet +,,HFD for,,microbial shifts,,,
+25,,100 g G.penta-,"water), model group",,28 weeks;,,induced by HFD:,,,
+26,,phyllum dry,(HFD-induced,male C57BL/6J,treatment from,V3-V4 region of,rel. decrease in the,,,
+27,,herb boiled in,"NAFLD + water),",mice (6 weeks,week 13 on;,"16S rRNA gene,",levels including,,,[115]
+28,,water,GP treatment group,old),6 animals per,NGS (Illumina),levels including,,,[115]
+29,,(1.25 g/mL),(HFD-induced,old),group picked for,NGS (Illumina),"genera Eubacterium,",,,
+30,,(GP),NAFLD+GP;,,feces collection,,"Blautia, Clostridium,",,,
+31,,,11.7 g/kg BW,,(once per day on,,and Lactobacillus;,,,
+32,,,(12 mL GP/kg BW),, 3 consecutive,,rel. increase in the,,,
+33,,,,,days),,reduced Parasutterella,,,
+34,,,,,,,levels,,,

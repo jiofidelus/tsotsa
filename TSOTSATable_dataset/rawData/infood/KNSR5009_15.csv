@@ -1,0 +1,42 @@
+,0,1,2
+0,TAGNAME,DESCRIPTION,UNIT
+1,PHYTC-,"phytate, calculated from phytate phosphorus by an unknown",mg
+2,,method,
+3,PPI,"phytate phosphorus,determined by indirect precipitation",mg
+4,PPD,"Phytate phosphorus,determined by direct precipitation",mg
+5,PP-,"Phytate phosphorus,determined by unknown method",mg
+6,XP,Conversion factor for phytate phosphorus,mg
+7,IP3,Inositol triphosphate,mg
+8,IP4,Inositol tetraphosphate,mg
+9,IP5(mg),Inositol pentaphosphate,mg
+10,IP6(mg),Inositol hexaphosphate,mg
+11,IP5_A_IP6,Inositolpentaphosphate+inositolhexaphosphate,mg
+12,IP4_A_IP5_A_IP6,Inositol tetraphosphate + inositol pentaphosphate + inositol,mg
+13,,hexaphosphate,
+14,IPSUM,Total inositolphosphates(SUM of all fractions),mg
+15,PHYT-,"Phytate,determined by an unknown method",mg
+16,Minerals and trace elements,Minerals and trace elements,
+17,AG,Silver,mcg
+18,B,Boron,mcg
+19,BA,Barium,mcg
+20,BRD,Bromide,mcg
+21,CA,Calcium,mg
+22,CLD,Chloride,mg
+23,CO,Cobalt,mcg
+24,CR,Chromium,mcg
+25,CU,Copper,mg
+26,FE,"Iron, total",mg
+27,ID,lodine,mcg
+28,K,Potassium,mg
+29,MG,Magnesium,mg
+30,MN,Manganese,mg
+31,MO,Molybdenum,mcg
+32,NA,Sodium,mg
+33,NACL,Salt,mg
+34,NI,Nickel,mcg
+35,P,Phosphorus,mg
+36,RB,Rubidium,mg
+37,S,Sulphur,mg
+38,SE,Selenium,mcg
+39,TI,Titanum,mcg
+40,V,Vanadium,mcg

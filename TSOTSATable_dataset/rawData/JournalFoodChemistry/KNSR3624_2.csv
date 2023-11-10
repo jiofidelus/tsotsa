@@ -1,0 +1,32 @@
+,0,1,2,3,4
+0,Bioreceptor,Advantage,Disadvantage,Application,Reference
+1,Antibody,Short production time,Cross-reactivity,Biomedical diagnostics,"(Sharma et al.,2016;Sharma et al.,"
+2,,High stability,High cost,,2016)
+3,,High affinity,Short life span,,
+4,Aptamer,Thermal stability,Cross-reactivity,Detection of low molecular weight pollutants,"(Zhang et al.,2018;McConnell"
+5,,Low cost,Time-consuming,Environmental monitoring,"et al.,2020"
+6,,Unlimited applications,Labor-consuming,,
+7,,Convenient,,,
+8,,modifications,,,
+9,Cell,High sensitivity,Time-consuming,Electrochemical and optical-based biosensors,"Blagus et al.,2014;Ye et al.,2019"
+10,,Low cost,Less cost effective,Prediction of in vivo genotoxicity and potential,
+11,,Good selectivity,,carcinogenicity for humans,
+12,,: Long-term,,,
+13,,measurement,,,
+14,MIP,Selective absorption,Difficulties in scaling up,Solid phase extraction,"Sarafraz-Yazdi &Razavi,2015Liu"
+15,,Strong affinity,production,Chemical biomimetic sensing technology,"et al.,2019"
+16,,Simple preparation,Scarce control of MIP,Chromatographic separation,
+17,,Strong stress,physical form,Mimic enzymes,
+18,,resistance,Time-consuming,,
+19,,Low cost,,,
+20,Affinity peptide,Standard synthetic,Proteolytic instability,Biosensors in clinical diagnosis,"Liu et al.,2015;Vanova et al.,"
+21,,protocol,,Enzyme or enzyme-activity sensor,2021)
+22,,Easy modification,,,
+23,,Large chemical,,,
+24,,versatility,,,
+25,Bacteriophage,Easy processing,Relatively short life span,Biosensors in clinical diagnosis,"Xu et al.,2019;Machera et al.,"
+26,,Easy purification,,Drug delivery system,2020)
+27,,Low cost,,,
+28,,Easy modification,,,
+29,,pH and thermal,,,
+30,,stability,,,

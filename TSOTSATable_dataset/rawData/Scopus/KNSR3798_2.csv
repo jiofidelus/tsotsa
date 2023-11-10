@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7
+0,Temperature (C),Temperature (C),Timing (min),,Option,,PPC (psi),
+1,Oven,37,Thermo,5.0,Operating mode,Trap,Column,20.0a
+2,Needle,50,Dry purge,5.0,Dry purge,Yes,Vial,25.0
+3,Transfer,200,Desorb,2.5,Outlet split,Yes,Desorb,20.0
+4,Trap Hi,280,Trap hold,10.0,,,,
+5,Trap Lo,40,GC cycle,25.0,,,,

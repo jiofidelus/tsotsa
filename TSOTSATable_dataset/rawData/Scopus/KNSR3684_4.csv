@@ -1,0 +1,48 @@
+,0,1,2,3
+0,,,Red I-II Up-Regulated,p-Value
+1,Blue III-IV Down Egulated,p-Value,"transferase a., transferring glycosyl group",0.018
+2,serine-type peptidase activity,<0.001,NAD + ADP-ribosyltransferase activity,0.035
+3, serine hydrolase activity,<0.001,"transferase a., transferring pentosyl groups",0.035
+4,peptidase activity,<0.001,,
+5,hydrolase activity,<0.001,Red III-IV Down-Regulated,p-Value
+6,catalytic activity,<0.001,phasphatase activity,0.001
+7,carboxypeptidase activity,0.003,phophoric ester hydrolase activity,0.001
+8,serine-type carboxypeptidase activity,0.003,protein tyrosine phophatase activity,0.007
+9,serine-type exopeptidase activity,0.003,"hydrolase activity, acting on ester bonds",0.013
+10,"hydrolase a., acting on carbon-nitrogen bond",0.006,phosphoprotein phosphatase activity,0.019
+11,exopeptidase activity,0.009,,
+12,serine-type endopeptidase activity,0.012,Turquoise I-II Up-Regulated,p-Value
+13,"catalytic activity, acting on a protein",0.013,cation binding,<0.001
+14,DNA-binding transcription factor activity,0.020,metal ion binding,<0.001
+15,transcription regulator activity,0.041,phosphorelay sensor kinase activity,<0.001
+16,,,protein kinase activity,<0.001
+17,Brown I-II Up-Regulated,p-Value,protein histidine kinase activity,<0.001
+18,antioxidant activity,<0.001,"phosphotransferase activity, nitrogenous groups",<0.001
+19,"oxidoreductase activity, acting on peroxidase",<0.001,small molecule sensor activity,<0.001
+20,peroxidase activity,<0.001,kinase activity,0.001
+21,fatty-acyl-CoA binding,0.013,"phosphotransferase activity, alcohol groups",0.003
+22,hydroxymethylglutaryl-CoA lyase activity,0.013, ion binding,0.007
+23,alanine-glyoxylate transaminase activity,0.013,binding,0.010
+24,transaminase activity,0.013,phosphorous groups,0.011
+25,"transferase activity, transferring nitrogen",0.013,"catalytic activity, acting on a protein",0.017
+26,oxo-acid-lyase activity,0.013,cytoskeletal protein binding,0.029
+27,peroxiredoxin activity,0.013,ADP binding,0.041
+28,acyl-CoA binding,0.013,double-stranded DNA binding,0.047
+29,fatty acid derivative binding,0.013,double-stranded telomeric DNA binding,0.047
+30,sulfur compound binding,0.013,thiol-dependent ubiquitin-specific protease,0.047
+31,carbon-carbon lyase activity,0.026,microtubule binding,0.047
+32,acetyl-CoA C-acyltransferase activity,0.038,omega peptidase activity,0.047
+33,C-acyltransferase activity,0.038,tubulin binding,0.047
+34,catalytic activity,0.047,telomeric DNA binding,0.047
+35,,,ubiquitinyl hydrolase activity,0.047
+36,Green II-III Up-Regulated,p-Value,,
+37,"4 iron, 4 sulfur cluster binding",0.026,Turquoise III-IV Down-Regulated,p-Value
+38,proteasome binding,0.026,cation binding,<0.001
+39,,,metal ion binding,<0.001
+40,Green III-IV Up-Regulated,p-Value,binding,<0.001
+41,double-stranded RNA binding,0.003,ion binding,<0.001
+42,"oxidoreductase activity, acting on a sulfate",0.003,"phosphotransferase activity, alcohol groups",<0.001
+43,oxidoreductase activity,0.013,kinase activity,<0.001
+44,peptidyl-prolyl cis-trans isomerase a.,0.046,phosphorelay sensor kinase activity,<0.001
+45,cis-trans isomerase activity,0.046,protein kinase activity,<0.001
+46,,,protein histidine kinase activity,<0.001

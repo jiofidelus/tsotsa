@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7
+0,,m/z,,MS/MS,Reference,,Flour,
+1,,m/z,,MS/MS,Reference,Cassava,,Malt
+2,,,Amino acids,,,,,
+3,L-Arginine,175,,70,Silva et al.20,+,,-
+4,,Phenolic Compounds(benzoic acid),Phenolic Compounds(benzoic acid),Phenolic Compounds(benzoic acid),,,,
+5,Galloyl pyrogallol,279,,153,Abu-reidah et al.51,+,,
+6,,,Flavonoids,,,,,
+7,Diosmetin,301,,258; 286,Zhang et al.54,+,,
+8,Myricetin 3-O-galactoside,481,,319,Lin and Harnly63,+,,
+9,Chrysoeriol-hexose,579,,301,Abu-reidah et al.51,+,,
+10,malvidin 3-(malonoyl)glucoside pelargonidin 3-rutinoside,579,,433,Rior4,+,,-
+11,cyanidin 3-rutinoside,595,,287,Riorf4,+,,-
+12,Kaempferolrutinoside,595,,287,Abu-reidah et al.51,+,,
+13,Pelargonidin-3-O-(6caffeoyl-glucoside,595,,"433,313",Wang et al.53,+,,
+14,Tiliroside,595,,287,Zhang et al.54,+,,
+15,,,Sugars,,,,,
+16,Sucrose,381,,"201, 219",Silva et al.20,+,,
+17,,,Other,,,,,
+18,Dihydroisovaltrate,424,,"281,365",Abu-reidah et al.51,,,+
+19,Verbonol,453,,435,Abu-reidah et al.51,+,,
+20,Sespendole,520,,184,Abu-reidah et al.51,,,+

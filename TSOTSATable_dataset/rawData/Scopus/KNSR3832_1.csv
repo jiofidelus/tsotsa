@@ -1,0 +1,43 @@
+,0,1
+0,57,
+1,,250mL50mL
+2,300043,281N
+3,74%,8100mL715
+4,84,
+5,DB,0.5N40mL
+6,,%
+7,,g
+8,758,%
+9,2021,10mL2
+10,,40C
+11,7,5mL7
+12,D,membranefilternylon0.45um
+13,,HED
+14,,DD
+15,,/LC-MS/MS
+16,Dergocalciferol,1200 infinityLC sys
+17,"DcholecalciferolSupelcoBellefonte,PAUSA","temAgilent Technologies, Santa Clara,CA,USA"
+18,,6410TripleQuadMS
+19,"certified reference material,CRM Infant for-",8.Table 1Cap
+20,"mula SRM 1849a(NIST,Gaithersburg,MD,USA) QC","cell Core C182.7 um,2.1100 mm;SHI-51105,Osak"
+21,materialCRMD,SodaTokyoJapan
+22,11.11.7ug/100 g.Duksan Pure,5mM5958
+23,"ChemicalsSeoul,Korea),FisherFair LawnNJ",0.45mL/min
+24,"USABurdickJacksonMuskegonMI,USA",4000
+25,,"capillary voltage,300 source temperature,neb"
+26,JunseiTokyoJapan,ulizermultipl
+27,SigmaSt.LouisMO.USA,reactionmonitoringMRM
+28,810,ED
+29,,limitofde
+30,10134,tectionLODlimit of quantitationLOQ
+31,102237-20,Amethod detection limitMDLlinear
+32,,ityrecovery
+33,,/signal/noiseS/N3.3
+34,HED,5S/N1
+35,EDD,A
+36,MinistryofFood andDrugSafety,DD10~200ng/mL
+37,20182~10g,LC-MS/MS
+38,10%40mL,R0.99
+39,90%20mL,SRM1849
+40,30,QCmaterial
+41,,D

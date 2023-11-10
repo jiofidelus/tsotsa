@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Food,Code,Letter,Name,Calcium,Phos-I,Magnes,Potass-,Iron,Zinc,Carot-,Vitamin,Source of
+1,group,Code,code,Name,Calcium,phorus,ium,ium,Iron,Zinc,ene,c,data
+2,,,,,mg,mg,mg,mg,mg,mg,ug,mg,
+3,257,4616,XR,"Kucha, palm oil and dried fish (unspecified)",123,80,57,282,3.6,0.9,3860,6,R
+4,257,4304,LR,"Kucha, palm oil and fresh fish (unspecified)",90,56,55,305,3.4,0.6,3810,6,R
+5,,,, 9.3 - Jambo Leaf Sauces (with groundnuts and chilli pepper),,,,,,,,,
+6,252,4192,HJ,Jambo sauce,133,91,77,416,3.9,0.6,2570,17,A
+7,252,4434,QR, Jambo and tulingo,149,101,73,458,3.9,0.7,2440,16,R
+8,252,4052,BZ,Jambo and bitter tomato,103,73,63,352,3.2,0.5,2130,14,R
+9,252,4510,TP,Jambo and pumpkin,82,62,45,350,2.4,0.4,1630,11,R
+10,251,4435,QS,Jambo and dried challo,162,132,75,436,3.9,0.9,2440,16,R
+11,251,4436,QT,Jambo and dried furo,315,214,70,427,4.2,1.1,2440,16,R
+12,251,4437,QU,Jambo and dried kujalo,135,106,71,421,3.8,1.1,2440,16,R
+13,251,4216,IH,Jambo and dried fish (unspecified),159,127,74,412,4.0,0.9,2440,16,R
+14,251,4439,QW,Jambo and fresh challo,128,106,70,400,3.7,0.6,2260,15,R
+15,251,4440,QX,Jambo and fresh furo,123,97,70,403,3.7,0.6,2260,15,R
+16,251,4441,QY,Jambo and fresh kujalo,121,89,71,405,3.5,0.6,2260,15,R
+17,251,4442,QZ,Jambo and fresh fish (unspecified),124,99,71,406,3.7,0.6,2260,15,R
+18,251,4215,IG,Jambo and fish dajiwo,71,70,48,220,2.5,0.5,1280,8,R
+19,251,4363,NY,Jambo and shellfish,135,107,87,366,4.4,0.8,2260,15,R
+20,260,4526,UF,Jambo and meat,102,116,63,390,3.8,1.7,1920,13,R
+21,260,4527,UG,Jambo and chicken,102,116,63,366,3.2,0.8,1920,13,R
+22,259,4433,QQ,Jambo and palm oil,126,86,73,395,N,0.7,5710,16,R
+23,251,4074,CV,"Jambo, palm oil and dried kujalo",128,101,70,378,3.8,1.1,5590,15,R
+24,251,4525,UE,"Jambo, palm oil and fresh fish (unspecified)",118,95,65,352,3.8,0.6,5400,14,R
+25,9.4 - Other Leaf Sauces,9.4 - Other Leaf Sauces,9.4 - Other Leaf Sauces,,,,,,,,,,
+26,256,4142,FL,Nada kolikolo (no groundnuts),182,76,10,131,3.2,0.5,170,0,c
+27,257,4132,FB,Nada kolikolo (no groundnuts) and dried fish (unspecified),170,87,10,141,3.7,1.1,150,0,c
+28,252,4191,HI,Nada/naa durango (with groundnuts),161,107,25,213,1.2,0.9,870,0,R
+29,251,4184,HB,Naa durango (with groundnuts) and dried fish (unspecified),186,142,25,219,1.5,1.2,830,0,R
+30,256,4242,JH,Jambanduro sauce (no groundnuts) with chilli pepper,320,58,54,145,3.2,0.5,5920,32,R
+31,256,4203,HU,Jambanduro sauce(no groundnuts) and baobab seeds,314,201,79,221,1.4,0.5,5330,29,R

@@ -1,0 +1,20 @@
+,0
+0,Formula I: This formula infers that the true mean (nutrient value of the population is
+1,"within a given confidence interval of a specified width, for a simple random sample:"
+2,"n=zo/,where"
+3,n= the sample size you wish to calculate
+4,z=the square of a value from a table of the normal distribution for a risk a
+5,"[For a 95% confidence level,use 1.96 and square it.]"
+6,"o2 = the square of the population standard deviation, which is the variance"
+7,2 = the square of the margin of error desired for the sample estimate
+8,"[e=P u;P is the relative error,e.g.,5% or 15%;  is the mean]"
+9,The formula may be simplified to:n = (1.96) 02 / (P )2
+10,Formula II: This formula may be used when there is only an estimate of relative variation
+11,"of the population (i.e., the population coefficient of variation, which is the population"
+12,standard deviation divided by the population mean).
+13,"n=z2(CV2/p2,where"
+14,n=the sample size you wish to calculate
+15,z2 = the square of a value from a table of the normal distribution for a risk
+16,"[For a 95% confidence level,use 1.96 and square it.]"
+17,"p= the square of the relative error desired for the sample estimate, e.g., 5%"
+18,The formula may be simplified to: n = (1.96)2(CV) / p

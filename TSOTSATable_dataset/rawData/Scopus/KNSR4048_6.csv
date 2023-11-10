@@ -1,0 +1,44 @@
+,0,1,2,3,4
+0,Application,Objectives,Types of ANN Outcomes,Types of ANN Outcomes,References
+1,Cocoa powder,To predict the effect of process parameters on the proper-,MLP,i) The model could predict the effect of different param-,Benkovic et al. [164]
+2,,ties of cocoa mixtures,,eters changes on the physical and chemical properties of,
+3,,,,the cocoa mixtures with a high accuracy where the value,
+4,,,,of R2 derived was 0.934 with low error of 0.053,
+5,Dried vegetables,To identify the quality of dried carrots and classification of MLP,,(i) Suitable to be used for assessment and classification of,Koszela et al. [165]
+6,,such dried products,,dry carrots,
+7,,,,(ii) Enable the selection of important representative char-,
+8,,,,acteristics for the quality assessment,
+9,,,,"(iii) Comparison between algorithms was done, and the",
+10,,,,backpropagation is the most successful algorithm com-,
+11,,,,pared to other algorithms,
+12,Eggplant,To describe the mass transfer kinetics of eggplants in,MLP,(i) High volume of complicated problems is able to be,Bahmani et al. [166]
+13,,osmotic dehydration (OD),,"modeled and analyzed by using ANN, and it is the most",
+14,,,,suitable software for calculation problems,
+15,,,,(ii) The developed model achieved the highest R2 value of,
+16,,,,0.9825,
+17,,Extra virgin olive oils To evaluate the influence of light exposure conditions and,MLP,(i) ANN showed a high classification performance with an,"S.F.Silva et al.71,70"
+18,,packaging material on the stability of physicochemical,,accuracy of greater than 90% for the test data and greater,
+19,,characteristics of extra virgin olive oils,,than 85% for the training set,
+20,,,,(ii) Showed the robustness of the model which indicates,
+21,,,,"the suitability for solving clustering, pattern recognition,",
+22,,,,"classification, and adulteration issues regarding extra",
+23,,,,virgin olive oils,
+24,Garlic,To forecast the sensory quality of garlic,MLP,(i) A model with the best prediction of the sensory quality,Liu et al. [167]
+25,,,,of the garlic and garlic products was developed with an,
+26,,,,R2 value of 0.9866,
+27,Honey,To predict the stability of the Indian honey crystallization,MLP,(i) The ANN model was able to forecast the stability of,Naik et al. [168]
+28,, of different component ratios,,the honey consisting of different compositions with high,
+29,,,,accuracy where the R value obtained was 0.9994,
+30,Mango,To estimate the weight of the mango,MLP,(i) Estimation of the weight of the mangoes was able to,Dang et al. [169]
+31,,,, be done by applying thirteen different parameters in the,
+32,,,,model,
+33,Mushrooms,To develop an ANN model that can predict the moisture,MLP,(i) The ANN model was able to predict the moisture con-,Omari et al. [170]
+34,,content of the mushrooms during the drying process,,tent of the mushrooms during the drying process with an,
+35,,,,R value of 0.9817,
+36,Mushrooms,To predict the temperature variety of mushroom grow-,"MLP,RBF",(i The prediction by using the RBF method has a higher,Ardabili et al. [171]
+37,,ing hall based on the parameters affecting the room,,accuracy compared to that of MLP where the value of,
+38,,temperature,,"correlation achieved was 0.996 and 0.9612, respectively",
+39,Onions,To estimate the drying behavior of onion,MLP,(i) The develop model was able to forecast the drying,Jafari et al. [157]
+40,,,,kinetics of onions at different temperatures and times,
+41,,,,with a high performance where the R value achieved a,
+42,,,,value of 0.99956,

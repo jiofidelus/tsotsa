@@ -1,0 +1,32 @@
+,0,1,2
+0,FOOD GROUP,FOOD,Range VIT D
+1,,,TOTALg/100 g
+2,FISH,"Mackerel (raw, grilled",3.5-12.8
+3,,smoked),
+4,,Mackerel (canned),3.2-7.4
+5,,Sardines (canned),3.3-10.8
+6,,Salmon (smoked),3.7-11.0
+7,,Salmon (farmed,4.7-11.3
+8,,Trout (smoked),3.8-7.4
+9,,Trout (farmed),4.36-7.9
+10,MILK AND DAIRY,Milk (different fat content),0.01-1.4
+11,,"Dairy (yogurts, pudding,",0.1-1.2*
+12,,chocolate milks.cheeses),
+13,RTEBC,"Processed cereals, fortified,",0.25-42
+14,,enriched,
+15,EGGS,"Egg,whole,raw",0.8-3.2
+16,FAT AND SPREADS,Margarine,7.0-8.4
+17,,Butter,0.9-12
+18,BREAD AND PASTRY,Bread,0.1
+19,,Pasta and noodles,0.1-0.2
+20,,Pastry,0.25-55
+21,FORTIFIED,"Infant food,meal",0.2-1190
+22,FORMULATIONS,"replacements, functional",
+23,,"snacks, powders",
+24,NON-DAIRY BEVERAGES,Cereals based drinks,0.1-0.5
+25,,Vegetarian creams,0.1-0.5
+26,,Fruit nectar,0.5
+27,MEAT,Beef (raw),0.1-0.5
+28,,Chicken (dishes),0.1-0.63
+29,,Pork (raw),0.1-0.63
+30,,Lamb (raw),0.1-0.4

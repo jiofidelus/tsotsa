@@ -1,0 +1,33 @@
+,0,1,2
+0,Technique,Advantages,Difficulties
+1,GC-MS,.Gold standard for quantitative,Not suitable for real-time
+2,,and qualitative analysis,analysis
+3,,Well-established procedures,eed for carrier gas
+4,,High resolution and high,
+5,,sensitivity,
+6,APCI-MS,Real-time analysis,Formation of reagent ions is
+7,,Robust technique,less controllable
+8,,APCI can be interfaced with,Problems with compounds
+9,,many different mass,identification
+10,,spectrometers,Difficulties with quantification
+11,, Could be an ion source for MS/,based on reaction kinetics
+12,,"MS instruments (Badjagbo,",The use of make-up gas leads
+13,,FurtosAlaeeMoore& Sauve,to sample dilution
+14,,2009),
+15,SIFT-MS,Real-time analysis,Problems with compounds
+16,,Controllable ionisation kinetics,identification
+17,,Reagent ions can be changed,Reduced sensitivity
+18,,"during an analysis, facilitating",The use of make-up gas leads
+19,,determination of analytes,to sample dilution
+20,,Quantification based on,
+21,,kinetics,
+22,PTR-MS,Real-time analysis,The switching of reagent ion
+23,,High-purity reagent ion,during analysis is difficult
+24,,No need for make-up gas,(possible for SRI instruments)
+25,,No need for reagent ion,Problems with compounds
+26,,filtering,identification
+27,,High sensitivity and resolution,
+28,,(with modern TOF,
+29,,instruments),
+30,,Quantification based on,
+31,,kinetics,

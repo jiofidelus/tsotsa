@@ -1,0 +1,8 @@
+,0,1,2,3,4,5
+0,,Irrigation per,,Water Supplied per,,Water Recycled per
+1,Phenophase,Day,Irrigation,Day,Period,Day
+2,,(No.),(mL),(L),(L),(L)
+3,BB-F,45,220280,1.121.40,57.272.8,0.330.42
+4,F-V,78,233333,1.802.66,65.293.2,0.700.94
+5,V-H,10-15,333,3.334.99,139.9209.6,0.991.49
+6,BB-H,,,,262.3375.6,

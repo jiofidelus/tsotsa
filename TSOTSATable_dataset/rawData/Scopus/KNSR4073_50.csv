@@ -1,0 +1,18 @@
+,0,1,2
+0,Food,Fluoride(mg/kg),Country of origin
+1,Milk and milk products,0.01 -0.8,"Canada,Hungary,Germany"
+2,Meat and poultry,0.01-1.7,"Canada,Hungary,Germany"
+3,Fish,0.06-4.57,CanadaUSA
+4,Soups,0.41-0.94,"Canada,Hungary"
+5,Baked goods and cereals,0.04-1.85,"Canada,China,HungaryGermany"
+6,Vegetables,0.01-1.34,"CanadaChina,Hungary,Germany"
+7,Fruits and fruit juices,0.01-2.8,"Canada, Hungary, Germany, USA"
+8,Fats and oils,0.05-0.13,Canada
+9,Sugars and candies,0.05-0.13,Canada
+10,Beverages,0.003-1.28,"Canada,Hungary,Germany,USA"
+11,Tea leaves,82-371,"China,Hungary,Hong Kong"
+12,brewed,0.05-4.97,"Canada,Germany"
+13,"Corn,dried naturally",0.55-5.48,China
+14,"Corn,dried over coal fire",3.25-246.1,China
+15,"Vegetables,fresh",0.31-9.25,China
+16,"Vegetables,dried over coal fire",8.0-52.0,China

@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,,,,Phenol (mg,,,,,Total,Total
+1,Mutant clone,,Pro(mol g-1,TSC(mg g-1,Phenol (mg,,MDA (nmol,Chlorophyll a,Chlorophyll b,chlorophylls,carotenoids
+2,no,EL (%),FW,FW),GAEgFW,DPPH(%),gFW,mgg-FW,mg gFW),mg gFW,mgg-FW)
+3,Control,22.10 b,11.53e,16.17 bc,19.92abc,75.53 a,0.170,7.49 a,3.17bc,10.66 bcd,3.51 bcd
+4,Mutl,21.99 b,25.91 b,19.49 ab,21.01 a,75.03 a,0.200 g,7.02 a,2.17e,9.19 e,3.21e
+5,Mut2,23.45 b,21.42c,20.37 a,14.25 f,75.52 a,0.227 b,7.64 a,4.01 a,11.65 ab,3.68 b
+6,Mut3,21.35 b,13.39 e,19.31 ab,16.32 e,74.65 a,0.227 b,7.28 a,2.31 de,9.59 de,3.48 cd
+7,Mut4,21.99 b,23.45 bc,16.41 abc,20.71 ab,75.03 a,0.183 h,7.48 a,3.28bc,10.76bc,3.53 bcd
+8,Mut5,20.08 bc,33.28 a,16.45 abc,18.56 cd,74.90 a,0.157j,7.52 a,3.19 bc,10.72 bcd,3.47 cd
+9,Mut6,26.30 a,13.21 e,10.00 d,19.29 bc,74.07 a,0.260 a,7.49 a,2.68 cde,10.17 cde,3.65 bcd
+10,Mut7,17.57c,11.29 e,13.51 cd,17.35 de,73.49 a,0.207 f,7.46 a,3.09 bc,10.55 bcd,3.46 d
+11,Mut8,23.59 b,13.70 e,16.72 abc,17.68 de,72.59 a,0.220 d,7.50 a,2.86 cd,10.36 cd,3.66 bc
+12,Mut9,22.03 b,11.06 e,13.18 cd,19.60 abc,72.97 a,0.210 e,7.55 a,3.57 ab,11.12bc,3.49 bcd
+13,Mut10,20.93 bc,16.76 d,16.94 abc,20.78 ab,72.20 a,0.223 c,7.51a,3.05bc,10.57 bcd,3.52 bcd
+14,Mut11,22.44 b,24.19 bc,16.38 abc,21.19 a,71.62 a,0.223 c,8.40 a,4.07 a,12.46 a,3.90 a

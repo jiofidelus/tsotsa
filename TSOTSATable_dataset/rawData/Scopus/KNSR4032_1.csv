@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,Tissue,UniProt ID,Gene,Protein Name,FC,p-Value *
+1,AORTA,P24268,Ctsd,Cathepsin D,1.284,0.0083
+2,,O08557,Ddah1,dimethylaminohydrolase 1,1.554,0.0090
+3,,P80254,Dat,D-dopachrome decarboxylase,1.427,0.0164
+4,,Q6IRK8,Sptan1,"Spectrin alpha chain, non-erythrocytic 1",1.580,0.0081
+5,,G3V7N9,C1qb,subunit B/Adiponectin A,1.674,0.0087
+6,,F1LST1,Fn1,Fibronectin,1.600,0.0136
+7,,BOBNN4,Cfp,Complement factor properdin,1.454,0.0152
+8,,P69897,Tubb5,Tubulin beta-5 chain,1.202,0.0161
+9,HEART,MORAM5,Gpx1,Glutathione peroxidase,1.179,0.0110
+10,,P41499,Ptpn11,Tyrosine-protein phosphatase non-receptor type 11,1.340,0.0165
+11,,P49242,Rps3a,40S ribosomal protein S3a,1.153,0.0180
+12,,P24368,Ppib,Peptidyl-prolyl cis-trans isomerase B,1.342,0.0185
+13,,G3V8L3,Lmna,"Lamin A, isoform CRA_b",1.153,0.0187
+14,,P48199,Crp,C-reactive protein,1.653,0.0031
+15,,Q5M9G3,Caprin1,Caprin-1,1.507,0.0036
+16,,A0A0G2JY31,Serpinal,Alpha-1-antiproteinase,1.263,0.0054
+17,,Q6P7Q4,Glo1,Lactoylglutathione lyase,1.338,0.0121
+18,,Q62651,Ech1,"isomerase,mitochondrial",1.144,0.0133
+19,,P11960,Bckdha,mitochondrial (Fragment),1.212,0.0152

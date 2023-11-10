@@ -1,0 +1,33 @@
+,0,1,2,3,4
+0,Themes,,,Future Research Directions,Related Literature
+1,,,Examining the role of the semantic web to support complex issues,Examining the role of the semantic web to support complex issues,
+2,Conceptualization of,,"associated with flexible, automated, and autonomous systems such as","associated with flexible, automated, and autonomous systems such as",
+3,the semantic web,,Industry 4.0 systems,,[169-171]
+4,the semantic web,,Investigating the impact of semantic web technologies on software testing,Investigating the impact of semantic web technologies on software testing,
+5,,.,Studying the potentials and challenges of the geospatial semantic web,Studying the potentials and challenges of the geospatial semantic web,
+6,,,Investigating the applicability of new technologies such as blockchain for,Investigating the applicability of new technologies such as blockchain for,
+7,Semantic web services,,Proposing novel frameworks that integrate the use of AI techniques to,Proposing novel frameworks that integrate the use of AI techniques to,"[21,172]"
+8,,,compose semantic services and provide efficient solutions to user queries,compose semantic services and provide efficient solutions to user queries,
+9,,,Looking into the role of machine learning techniques to aid in the,Looking into the role of machine learning techniques to aid in the,
+10,,,ontology mapping process,ontology mapping process,
+11,Ontology mapping,,mappings and the solutions to address them,mappings and the solutions to address them,"[71,112,113]"
+12,,,Identifying ways to overcome potential ambiguities in background,Identifying ways to overcome potential ambiguities in background,
+13,,,knowledge and relations among concepts,knowledge and relations among concepts,
+14,,,Examining the integration of BIM with real-time data generated from IoT,Examining the integration of BIM with real-time data generated from IoT,
+15,,,devices to optimize construction and operational efficiencies,devices to optimize construction and operational efficiencies,
+16,Building information,.,Exploring the capabilities of rule-based reasoning in semantic BIMs,Exploring the capabilities of rule-based reasoning in semantic BIMs,
+17,modeling,.,Testing use cases with a high-level digital representation of a real building,Testing use cases with a high-level digital representation of a real building,"[114-116,118,173,174]"
+18,,.,Evaluating the potential of new technologies to shape BIM and solve the,Evaluating the potential of new technologies to shape BIM and solve the,
+19,,,limitations of its application,limitations of its application,
+20,,.,Developing robust methods for embedding ontologies containing richer,Developing robust methods for embedding ontologies containing richer,
+21,,,semantic information in bioinformatics,semantic information in bioinformatics,
+22,Bioinformatics,,"Developing programs to acquire datasets of necessity, conduct analyses,","Developing programs to acquire datasets of necessity, conduct analyses,","[106,121,160,175,176]"
+23,,,and design their summarizations and visualizations according to the,and design their summarizations and visualizations according to the,
+24,,,requirements of bioinformaticians,requirements of bioinformaticians,
+25,,,Designing the architecture of semantic-web-enabled recommender,Designing the architecture of semantic-web-enabled recommender,
+26,,,systems in education and e-learning,systems in education and e-learning,
+27,Education and,,Proposing semantic-based frameworks that automate e-learning,Proposing semantic-based frameworks that automate e-learning,
+28,e-learning,,Investigating the challenges related to distance learning through the,Investigating the challenges related to distance learning through the,"[127,129,177179]"
+29,,,"semantic web,such as accuracy,time limitation,cost,information","semantic web,such as accuracy,time limitation,cost,information",
+30,,,"overload,data security personalization,and copyright issues","overload,data security personalization,and copyright issues",
+31,languages,,representation requirements and the structural coverage of ontologies,representation requirements and the structural coverage of ontologies,[180]

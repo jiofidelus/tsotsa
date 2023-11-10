@@ -1,0 +1,28 @@
+,0,1,2,3,4
+0,DISCUSSION,"Trial limitations, addressing",20,i) Typical limitations in ehealth trials: Participants in ehealth trials are,Essential
+1,Limitations,"sources of potential bias,",,"rarely blinded. Ehealth trials often look at a multiplicity of outcomes,",
+2,,"imprecision,and,if relevant",,increasing risk for a Type I error. Discuss biases due to non-use of the,
+3,,multiplicity of analyses,,"intervention/usability issues, biases through informed consent",
+4,,,,"procedures, unexpected events.",
+5,Generalisability,"Generalisability (external validity,",21,"i) Generalizability to other populations: In particular, discuss",Highly
+6,,applicability) of the trial findings,,"generalizability to a general Internet population, outside of a RCT",Recommended
+7,,NPT: External validity of the trial,,"setting, and general patient population, including applicability of the",
+8,,findings according to the,,study results for other organizations [2].,
+9,,"intervention, comparators,",,ii) Discuss if there were elements in the RCT that would be different,Highly
+10,,"patients,and care providers or",,"in a routine application setting (e.g., prompts/reminders, more human",Recommended
+11,,centers involved in the trial,,"involvement, training sessions or other co-interventions) and what",
+12,,,,"impact the omission of these elements could have on use, adoption, or",
+13,,,,outcomes if the intervention is applied outside of a RCT setting,
+14,OTHER INFORMATION,,OTHER INFORMATION,,
+15,Registration,Registration number and name of,23,No EHEALTH-specific additions here,
+16,,trial registry,,,
+17,Protocol, Where the full trial protocol can,24,No EHEALTH-specific additions here,
+18,,"be accessed,if available",,,
+19,Funding,Sources of funding and other,25,No EHEALTH-specific additions here,
+20,,"support (such as supply of drugs),",,,
+21,,role of funders,,,
+22,Competing,X27(not a CONSORT item),,i) In addition to the usual declaration of interests (financial or otherwise),Highly
+23,interests,,,"also state the ""relation of the study team towards the system being",Recommended
+24,,,,"evaluated"" [2], i.e., state if the authors/evaluators are distinct from or",
+25,,,,identical with the developers/sponsors of the intervention.,
+26,* CONSORT=Consolidated Standards of Reporting Trials [10],* CONSORT=Consolidated Standards of Reporting Trials [10],,,

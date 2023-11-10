@@ -1,0 +1,14 @@
+,0,1,2,3,4
+0,Strain ID,Amylolytic,,Lipolytic,Proteolytic
+1,NMCC-M1,++,,++,++
+2,NMCC-f5,++,,,++
+3,NMCC-f12,++,,+,++
+4,NMCC-f13,++,,+,++
+5,NMCC-f14,++,,+,++
+6,NMCC-f15,+,,++,+
+7,NMCC-f16,++,,++,+
+8,NMCC-f17,++,,+,+
+9,NMCC-M16,++,,++,++
+10,NMCC-RU1,++,,-,++
+11,NMCC-RU2,++,,-,++
+12,NMCC-RU3,++,-,,++

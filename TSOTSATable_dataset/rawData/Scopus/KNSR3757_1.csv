@@ -1,0 +1,59 @@
+,0,1,2,3,4
+0,transporter,,,,
+1,LSil (Low,Silicon,Root,Si transport from soil solution,Yan et al.2018;
+2,silicon 1),,,to root cell (Si influx),Deshmukh et al.
+3,silicon 1),,,,2020
+4,LSi2 (Low,Silicon,Root,Si transport from root cell to,Ma et al. 2007;
+5,silicon 2),,,apoplast (Si efflux),Mitani-Ueno and
+6,,,,,"Ma,2021"
+7,LSi3,Silicon,Leaf paren-,Distribution of Si in leaf,Yamaji et al. 2015
+8,,,chyma,,
+9,,,tissue,,
+10,Lsi6,Silicon,Xylem,Si transport from xylem to,Pontigo et al. 2015
+11,,,paren-,above ground and distribution,
+12,,,chyma of,in leaf,
+13,,,leaf sheath,,
+14,,,and leaf,,
+15,,,blade,,
+16,ALMT,Aluminium,Root,"Al uptake, translocation, and",Kochian et al.
+17,,,,tolerance,2015
+18,NIP1;2,Aluminium,Root,Root-to-shoot Al translocation,Wang et al. 2017
+19,ABC,Aluminium,Root,Modify the cell wall under,Huang et al. 2009
+20,,,,stress,
+21,NRAT1,Aluminium,Root,Al uptake and tolerance,Xia et al.2010
+22,ATP bind-,Vanadium,Root,Upregulation on V and metal,Kim et al. 2007
+23,ing cassette,,,tolerance,
+24,(ABC,,,,
+25,DMT,Vanadium,Root,Cellular,Lin et al. 2013;
+26,,,,homeostasis of metals,
+27,ZIP,Vanadium,Root,Cellular,Jenkitkasemwong
+28,,,,homeostasis of metals,et al.2010
+29,SULTR1;1,Selenium,Root,Root influx,El Mehdawi et al.
+30,,,,,2018
+31,SULTR1;2,Selenium,Root,Root influx,El Mehdawi et al.
+32,,,,,2018
+33,SULTR2;1,Selenium,Root,Translocation,El Mehdawi et al.
+34,,,,,2018
+35,SULTR3;1,Selenium,Root,Movement of selenate over,Cao et al. 2013
+36,,,,plastid,
+37,"SULTR4;1,",Selenium,Root,Movement of selenate over,Cao et al. 2013
+38,SULTR4;2,,,vacuolar membrane,
+39,"SULTR2;2,",Selenium,Root,Translocation,Kataoka et al.
+40,SULTR3;5,,,,2004
+41,Phosphate,Selenium,Root,Uptake and transportation in,Adebayo et al.
+42,transporters,,,cell membrane,2020
+43,Na:K/Cl,Iodine,Root,Regulate the concentration of,Fricke 2015
+44,,,,ions in the xylem,
+45,NhlF,Cobalt,Root,Co uptake and transportation,Komeda et al.
+46,,,,,1997
+47,NiCoTs,Cobalt,Root,Co uptake and transportation,Eitinger et al. 2005
+48,Ferropor-,Cobalt,Root,uploading of the xylem,Morrissey et al.
+49,tins (FPNs),,,,2009
+50,ZIP,Cobalt,Root,Co uptake and transportation,Pedas and Husted
+51,,,,,2009
+52,CbiMNQO,Cobalt,Root,Co uptake and transportation,Bao et al.2017
+53,HKTS,Sodium,Root,Na* influx and transportation,Hanin et al.2016
+54,HAKS,Sodium,Root,Na influx and transportation,Hanin et al.2016
+55,NHX,Sodium,Root,transporting Na across cellularApse and Blum-,transporting Na across cellularApse and Blum-
+56,,,,membranes,wald 2007
+57,SOS1-3,Sodium,Root,Transporting Na* across cellular Apse and Blumwald,Transporting Na* across cellular Apse and Blumwald

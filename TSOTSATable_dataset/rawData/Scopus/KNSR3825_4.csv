@@ -1,0 +1,52 @@
+,0,1,2,3,4,5,6
+0,Sample,Isolates no,Serotypes,,Resistance patterns,No of,MARI
+1,,,,,,antibiotics,
+2,Cheese,,,,,,
+3,A,1,2b,,AML-S-ETP-CRO-RL,5,0.23
+4,,2,2b,,AML-CN-S-CRO-CTT-RL-OT,7,0.32
+5,,3,2b,,AML-IPM-CRO-CTT,4,0.18
+6,B,4,2b,,,,
+7,,5,2b,,AML-E-W-RL-OT,5,0.23
+8,C,6,2b,P-DOR-W-RL-OT,P-DOR-W-RL-OT,5,0.23
+9,D,7,4b,S-E-W-RL-FOS,S-E-W-RL-FOS,5,0.23
+10,,8,2b,,P-AML-S-IPM-CRO-E-CIP-W-RL-OT-C,11,0.50
+11,E,9,2b,E-W-RL,E-W-RL,3,0.14
+12,,10,2b,,P-AMP-SAM-CN-S-DOR-E-CLA-W-RL-TS,11,0.50
+13,F,11,2b,,AK-DOR-CRO-CTT-E-W-RL,7,0.32
+14,,12,4b,,AK-CRO-CTT-E-W-RL,6,0.27
+15,,ARI,,,69 /22 12=0.26,69,
+16,Fresh,,,,,,
+17,milk,,,,,,
+18,A,1,2b,,AK-CRO-CTT-W-RL,5,0.23
+19,,2,2b,,,,
+20,B,3,2b,,AK-S-ETP-CRO-CTT-RL-OT,7,0.32
+21,,4,2b,,AML-CN-S-VA-E-W-RL-OT,8,0.36
+22,C,5,2b,DOR-CTT-OT,DOR-CTT-OT,3,0.14
+23,,6,4b,,CTT-OT-FOS,3,0.14
+24,D,7,2b,,CN-DOR-CTT-VA-RL-OT,6,0.27
+25,,ARI,,32/227=0.21,32/227=0.21,32,
+26,Raw milk,,,,,,
+27,A,1,2b,,,,
+28,B,2,2b,,P-AMP-SAM-AML-CN-S-DOR-E-CLA-W-RL-TS|12,,0.55
+29,,ARI,,12/222=0.27,12/222=0.27,,
+30,,,,,Distribution of multiple antibiotic resistance of L. monocytogenes in milk and milk product samples,,
+31,S/N,MARPs patterns,No of,Cheese,Cheese,Fresh milk,Raw
+32,,,antibiotics,,,,milk
+33,1,E-W-RL,3,1,,,
+34,2,CTT-OT-FOS,3,,,1,
+35,3,DOR-CTT-OT,3,,,1,
+36,4,AML-IPM-CRO-CTT,4,1,,,
+37,5,S-E-W-RL-FOS,5,1,,,
+38,6,P-DOR-W-RL-OT,5,1,,,
+39,7,AML-E-W-RL-OT,5,1,,,
+40,8,AK-CRO-CTT-W-RL,5,,,1,
+41,9,AML-S-ETP-CRO-RL,5,1,,,
+42,10,AK-CRO-CTT-E-W-RL,6,1,,,
+43,11,CN-DOR-CTT-VA-RL-OT,6,,,1,
+44,12,AK-DOR-CRO-CTT-E-W-RI,7,1,,,
+45,13,AK-S-ETP-CRO-CTT-RL-OT,7,,,1,
+46,14,AML-CN-S-CRO-CTT-RL-OT,7,1,,,
+47,15,AML-CN-S-VA-E-W-RL-OT,8,,,1,
+48,16,P-AML-S-IPM-CRO-E-CIP-W-RL-OT-C,11,1,,,
+49,17,P-AMP-SAM-CN-S-DOR-E-CLA-W-RL-TS,11,1,,,
+50,18,P-AMP-SAM-AML-CN-S-DOR-E-CLA-W-RL-TS 12,,,,,1

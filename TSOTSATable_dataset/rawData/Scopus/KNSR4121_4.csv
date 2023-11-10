@@ -1,0 +1,28 @@
+,0,1,2,3,4,5
+0,Pathogen,"LAB Species, Strain",Source,Agent,Mode of Action,References
+1,,,,,Bacteriostatic effect on,
+2,,,,,"pathogen's growth,",
+3,,L.acidophilus CGMCC,,,repression of -toxin,
+4,,"No. 1.1878,",,,"synthesis, -toxin",
+5,C.perfringens,Li.fermentum CGMCC,Chicken,Lactic acid,degradation by,[155]
+6,,No. 1.2029,,,inhibits C. perfringens,
+7,,,,,adherence to,
+8,,,,,GIT epithelium,
+9,,,,,Bactericidal effect on,
+10,B.cereus,"Lactococcus lactis,","Skim milk,","Organic acids,",pathogen's growth by,[166-168]
+11,B.cereus,Lactobacillus spp.,fresh cheese,"HO2,nisin",leakage of cytoplasmic,[166-168]
+12,,,,,content of the pathogen,
+13,B.cereus,L. acidophilus LF221,Infant feces,Acidocin,Bactericidal effect on,[169]
+14,B.cereus,L. acidophilus LF221,Infant feces,LF221 A and B,pathogen's growth,[169]
+15,B. cereus,Lc. paracasei,"Raw milk,","Organic acids,","pathogen, prevention of",[170]
+16,,ATCC 27092,human,"HO2,nisin",biofilm formation,
+17,,"Lp. plantarum,",,,,
+18,,"Li. fermentum,",,"Lactic, acetic,",,
+19,Pseudomonas spp,"L. acidophilus,",Milk,citric acids,Reduced growth,[183]
+20,,"Str. thermophilus,",,citric acids,,
+21,,Lactococcus lactis,,,,
+22,,"Lc. paracasei FX-6,",,,Antibacterial activity,
+23,Ps. putida,Lc.rhamnosus,Milk,Organic acids, prevention of,[184]
+24,,Lc.rhamnosus,,,biofilm formation,
+25,S. aureus,Lactococcus lactis,Cheese,Lantibiotics,Reduced growth by,[185]
+26,S. aureus,Lactococcus lactis,Cheese,Lantibiotics,cells disruption,[185]

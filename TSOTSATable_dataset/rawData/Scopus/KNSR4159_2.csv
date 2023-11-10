@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,,Duration of hot,,Total phenol,Anthocyanin,Antioxidant
+1,Temperature C,air treatment,pH,content (mg GAE,content (mg per,activity (%
+2,,(min),,per 100 mL),100 g),DPPHsc)
+3,Control,0*,3.38 c,80.95a,16.60a,70.77a
+4,,30,3.44ab,81.01a,14.56b,67.10ab
+5,35,60,3.42 b,80.61a,13.68b,64.59bc
+6,,120,3.42 b,77.11 b,11.26c,62.87cd
+7,,30,3.46 a,76.65 b,11.16 c,59.82de
+8,40,60,3.44 ab,75.54bc,10.20cd,58.86d-f
+9,,120,3.42 b,73.27 a,10.41b,57.12ef
+10,,30,3.43 ab,75.01b-d,9.24a,57.48ef
+11,45,60,3.44 ab,73.98cd,9.16d,56.10ef
+12,,120,3.42 b,68.51e,7.69e,54.93f

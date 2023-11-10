@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7,8
+0,"Sample, collection",Extraction yield,Total phenolic,Total flavonoid,DPPH(SC5o g/mL,FRAP(umol,TEAC(M,Inhibition of,Inhibition of
+1,year and processing,mg PEE/100 g,content (g GAE/,content (g CE/,or*% inhibition at,TE/g PEE),TE/g PEE),lipoperoxidation(IC5o,
+2,,FW,100 g PEE),100 g PEE,100g/mL,,,g/mL),g/mL)
+3,Decoction water,123.43,21.25  0.23dgij,4.42  0.06cfhi,19.40  0.31dgij,297.08 ,3386.98 ,,-
+4,,,,,,1.68dfhi,86.03dhi,,
+5,"Pino Huacho,2019",,,,,,,,
+6,"Peeled, raw, unbound",108.49,7.34  0.12abcd,0.92 0.02abc,77.20  2.36abed,417.70,599.30 ,,
+7,,,,,,15.20abe,7.98abc,,
+8,"Peeled, boiled,",88.93,5.19  0.27aef,0.38  0.04adef,32.4  1.00aefg,246.72 ,313.68 ,,
+9,unbound,,,,,12.05ade,10.70adef,,
+10,"Boiled,unbound",131.45,16.33  0.21begh,2.62  0.14bdgh,25.61  1.19behi,1223.56 ,2058.63 ,,
+11,,,,,,76.70bfgh,133.99bdgh,,
+12,"Boiled,bound",95.34,6.02  0.10cgi,1.17  0.06egi,50.20  4.80 *cthj,354.98 ,558.49 ,,
+13,,,,,,30.40gi,16.36egi,,
+14,Decoction water,244.35,40.40  0.62jfhi,6.49  0.24cfhi,8.70  0.09dgij,3066.66 ,3636.56 ,,
+15,,,,,,36.42cehi,49.62cfhi,,
+16,Reference compound,,,,,,,,
+17,Catechin,,,,11.111.62,5380.15,-,,
+18,,,,,,80.14,,,
+19,Quercetin,,,,8.010.45,1000.32,8220.15 ,,-
+20,,,,,,12.58,28.08,,
+21,Aminoguanidine,,,,,-,-,317.75  20.44,

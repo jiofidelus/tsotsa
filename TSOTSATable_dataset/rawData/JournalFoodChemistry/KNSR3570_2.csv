@@ -1,0 +1,71 @@
+,0,1,2
+0,Data flow including,Challenges,Approaches/Guidelines
+1,main tasks,,applied
+2,Data sources,,
+3,Collection of analytical,Availability and,Searched for data (time
+4,data,accessibility of relevant,period:1973 to 2013)in
+5,Evaluating quality of,and reliable data,libraries and in journal
+6,papers,Obtaining reliable and,collections at different
+7,,representative,universities of
+8,,compositional data for,Bangladesh;contacted
+9,,foods consumed in,relevant academic and
+10,,Bangladesh,research institute
+11,,,involved in food analysis;
+12,,,conducted literature
+13,,,searches in electronic
+14,,, journals by mail and
+15,,,physical visits
+16,,,Checked quality and
+17,,,relevance of papers;
+18,,,applied Checking and
+19,,,Conversion Guidelines:
+20,,,excluded papers (out of
+21,,,215 papers collected
+22,,,approx.50 were rejected)
+23,,,when 1) no methodology
+24,,,was indicated and 2
+25,,,recalculation to per 100 g
+26,,,EP was impossible
+27,Archival database,,
+28,Decision on food group,Classification of food,Followed food group
+29,and food code system,groups and assignment of,classification example
+30,Data compilation into,foods to food groups,given in the Checking
+31,FAO/INFOODS,"Imprecise, or ambiguous",Guidelines; undertook
+32,Compilation Tool,description of,team discussions and took
+33,version 1.2.1,"methodologies, expression",decisions on how to assign
+34,Evaluation and,of data and description of,foods to food groups
+35,correction of data,foods in original data,based on how the food is
+36,,sources,consumed in Bangladesh
+37,,"Decision taking, which",Applied Conversion
+38,,values/data are still,Guidelines for
+39,,acceptable,recalculation issues;
+40,,,contacted data providers/
+41,,,authors of publications for
+42,,,clarifications on data
+43,,,expression and food
+44,,,descriptions;
+45,,,Applied Checking
+46,,,Guidelines and compared
+47,,,data with other user DB/
+48,,,tables; excluded outliers
+49,Reference database,,
+50,Aggregation and,Selection of data (best,Applied Matching
+51,estimation of data,matchto produce,Guidelines and followed
+52,Selection of,aggregated data and to,the food matching criteria
+53,algorithms/formula,borrow data from external,for food identification and
+54,to calculate,sources to fill missing,
+55,components and,values,Applied Conversion
+56,means,Selection of best algorithms,Guidelines as reference
+57,Recipe calculation,to present data; -precision,document for formula (e
+58,Evaluation and,in avoiding errors when,g. to calculate energy
+59,correction of data,applying formula,carbohydrates available
+60,,Selection of recipes.,by differencevitamin A
+61,,Availability and,activity equivalents).
+62,,accessibility of yield and,Used reference documents
+63,,retention factors,"for retention factors, yield"
+64,,Detection of all,"factors, recipe calculation"
+65,, inconsistencies/errors,systems; looked for
+66,,,recipes and yield factors
+67,,,available in Bangladesh;
+68,,,applied Checking
+69,,,Guidelines.

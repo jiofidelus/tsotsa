@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,,,,,
+1,Investigated,"Extract,",Groups,Animal,,Method for,Microbiome,Method for,,
+2,"Plant, Plant",Sample,(n = Number of,"Species,",Conditions,Microbiome,Changes,Metabolite,Metabolites,Reference
+3,Part,Preparation,Individuals),Volunteers,,Analysis,Changes,Detection,,
+4,,,6 groups:,,,,,,,
+5,,total ethanolic,"control,",,,,SCE and SCL-treated,,,
+6,,extract (95%),lipopolysaccharide,,,,group:,,SCE and,
+7,,"(SCE),lignan",(LPS)-induced,,treated for,,LPS-induced increase,,SCL-treated,
+8,,"fraction (SCL),","(1.2 g/kg) + LPS,",C57BL/6 mice,14 days; fecal,V3-V4 region of, decrease in,SCFA analysis,group:,
+9,,polysaccha-,SCL (500 mg/kg,(1822 g),samples,"16S rRNA gene,",Firmicutes alleviated,by,increased levels,[173]
+10,,ride fraction,"BW) + LPS, SCPS",(1822 g),collected after,NGS (Illumina),rel. increase:,GC-MSTQ8040,of butyric acid,
+11,,volatile oil,"(300 mg/kg) + LPS,",,behavioral tests,,Lactobacillus;,,acid,
+12,,(SCVO),SCVO (150 mg/kg,,,,rel. decrease:,,acid,
+13,,(SCVO),BW+LPSn=10,,,,Bacteroides,,,
+14,,,per group),,,,,,,
+15,Schisandra,"dried,",4 groups:,,,,,,,
+16,"chinensis,",powdered,control (0.9%,,,,,,,
+17,fructus,wine-,unpredictable stress,,treated for,,CUSP:,,,
+18,,processed,procedure (CUSP),Dawley rats, fecal samples,"16S rRNA gene,",increased rel.,in the intestine,reduction: D-,[172]
+19,, main SC and,(280 mg/kg BW);,(180220 g),collected on,NGS; (Illumina),Lachnospiraceae; rel.,by ELISA,and L-lactate,
+20,,WSC,CUSP+WSC,,day 30,,decrease in Bacteroides,,,
+21,,constituent:,(280 mg/kg BW),,,,,,,
+22,,lignans,(n = 6 per group),,,,,,,
+23,,,two groups:,,,denaturing,placebo:,,,
+24,,,placebo (n = 15);,,feces samples,denaturing,"increase: Akkermansia,",,,
+25,,water extract,SCW n=13,female obese,collected at the,gradient gel,"Roseburia, Bacteroides,",,,
+26,,(SCW),"2 pouches in a day,",volunteers BMI,beginning and,electrophoresis;,"Prevotella,",,,[174]
+27,,(SCW),equivalent to 6.7 g,>25 kg/m,the end of,qPCR with,Bifidobacterium;,,,
+28,,,fruits,,treatment,specific primers,decrease:,,,
+29,,,fruits,,,,Ruminococcus,,,

@@ -1,0 +1,15 @@
+,0,1
+0,Variables,Assignments
+1,ow-or high-risk cases,0 for low-risk cases1 for high-risk case
+2,Monthly income,Specific value
+3,Gravidity,Specific value
+4,Parity,Specific value
+5,Physical activity,Specificvalue
+6,Depression scoring,Specific value
+7,Type D personality scoring,Specific value
+8,Social support scoring,Specific value
+9,Environment scoring,Specific value
+10,Working conditions,1for on job;2for unemployed
+11,Whether to be exposed to second- or third-hand smoke,1 for yes;2 for no
+12,Whether to easily buy healthy food,1 for yes; 2 for no
+13,Whether to attend lectures about cardiovascular disease,1 foryes; 2 for no

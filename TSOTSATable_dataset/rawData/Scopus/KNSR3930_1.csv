@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7
+0,,,,,,Intervention period,Intervention period,
+1,,Enrollment,(Baseline),Allocation,,intake,intake,intake
+2,,,(Baseline),Allocation,Start intake,intake,intake,intake
+3,,,,,,(4 weeks),(8 weeks),(12 weeks)
+4,ENROLLMENT:,,,,,,,
+5,Informed consent,,,,,,,
+6,Allocation,,,,,,,
+7,INTERVENTION,,,,,,,
+8,Placebo,,,,,,,
+9,Test sample,,,,,,,
+10,ASSESSMENTS:,,,,,,,
+11,X-ray CT,,,,,,,
+12,Physical examination,,,,,.,,
+13,Urinalysis,,,,,,,
+14,Hematological analysis,,,,,.,.,
+15,Subjective symptoms,,,,,,,
+16,Dietary survey1,,,,,,.,
+17, Medical questionnaire,,,,,,.,
+18,Daily record?,,,,,,,

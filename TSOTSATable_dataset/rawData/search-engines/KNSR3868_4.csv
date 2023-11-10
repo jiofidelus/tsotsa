@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,Distance metric,Top 1,Top 2,Top 3,Top 5,Top 10
+1,(1Jaccard Distance,16.75,20.16,22.20,25.20,27.52
+2,(2) Word Mover's Distance,30.65,35.55,36.92,40.87,44.82
+3,3 Hybrid Distance,32.15,37.12,40.19,43.05,47.41
+4,(4) Fuzzy Jaccard Distance,23.84,29.70,33.37,39.23,45.64
+5,(5) Fuzzy Document Distance,35.55,40.46,43.46,47.00,53.26

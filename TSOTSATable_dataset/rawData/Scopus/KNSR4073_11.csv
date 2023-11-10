@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Country,Type of survey,n,Method,Supplements*,Mean,97.5%
+1,Italya,household,2734,7-day weighed,+,1.10,1.90
+2,Netherlandsb,household,5958,2-day record,,1.23,2.87
+3,Austriac,individual,2488,24 h recall,,1.36,3.55
+4,Germanyd,individual(M),4974,7-day record,,1.40,2.63
+5,Germanyd,individual(F,5304,7-day record,,1.10,2.11
+6,Irelande,individual (M),662,7-day record,+,2.28,4.65
+7,Irelande,individual(F),717,7-day record,+,2.13,6.35
+8,UKf,individual (M),1087,7-day weighed,+,2.01,3.29
+9,UKf,individual (F),1110,7-day weighed,+,1.26,3.09

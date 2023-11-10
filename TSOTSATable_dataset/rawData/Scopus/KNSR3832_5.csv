@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6
+0,Parameter,,,Condition,,,
+1,Column,,"CAPCELL CORE C18 (2.1 X 100 mm,2.7 um)","CAPCELL CORE C18 (2.1 X 100 mm,2.7 um)",,,
+2,Column temperature,,40,,,,
+3,Mobile phase,,5 mM ammonium acetate/ methanol 5:95,5 mM ammonium acetate/ methanol 5:95,,,
+4,Flow rate,,0.45 mL/min,,,,
+5,Injection volume,,10 uL,,,,
+6,MS/MS parameter,,Ion source:ESI mode,,,,
+7,,,Polarity:positive,,,,
+8,,,Nebulizer gas: N,,,,
+9,,,Nebulizer pressure:15 psi,Nebulizer pressure:15 psi,,,
+10,,,Gas flow: 6 L/min,,,,
+11,,,"Ion spray voltage: 4,000 V","Ion spray voltage: 4,000 V",,,
+12,,,Source temperature:300C,Source temperature:300C,,,
+13,MRM,Precusor (m/z),Product (m/z),Product (m/z),Dwell (ms),Fragmentor (V),Collision E (V)
+14,Vitamin D,397.5,105.3 (Quant),105.3 (Quant),200,50,25
+15,,397.5,107.0(Qual),107.0(Qual),200,50,30
+16,Vitamin D3,385.7,104.9 (Quant),104.9 (Quant),200,43,25
+17,,385.7,133.1 (Qual),133.1 (Qual),200,43,30

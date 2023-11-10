@@ -1,0 +1,20 @@
+,0,1,2,3,4,5
+0,,,Enthalpy Analytical,Enthalpy Analytical,CORESTA,
+1,Compound,Units,LOD 1,LOQ1,Method #,LOQ1
+2,NAB,ng/g,0.51,3.3,,3.8
+3,NAT,ng/g,1.3,13,CRM 72 [24],15
+4,NNK,ng/g,1.3,13,CRM 72 [24],15
+5,NNN,ng/g,1.3,13,,15
+6,Nitrite,g/g,0.033,0.10,CRM36[41],23
+7,Benzo[a]pyrene,ng/g,0.060,0.18,CRM 82[42],0.15
+8,Acetaldehyde,ug/g,0.063,0.090,,0.10
+9,Crotonaldehyde,ug/g,0.022,0.045,CRM 86 [25],0.050
+10,Formaldehyde,ug/g,0.050,0.090,,0.10
+11,Arsenic,ng/g,3.0,10,,100-200 4
+12,Beryllium,ng/g,0.25,2.5,,100200 4
+13,Cadmium,ng/g,0.50,5.0,,100-200 4
+14,Chromium,ng/g,11,21,CRM 93 [26],100-200 4
+15,Cobalt,ng/g,0.60,5.0,CRM 93 [26],100-200 4
+16,Lead,ng/g,0.50,5.0,,100200 4
+17,Nickel,ng/g,20,50,,100-200 4
+18,Selenium,ng/g,4.6,20,,100-200 4

@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,Matrix,Extracting,TC,Pressure,Other,Target compounds,,Chemical structure of main,Chemical structure of main,,,Extraction,Extraction,Antioxidant,References
+1,,solvent,,MPA,operation,,,compounds,,,,recovery/yield,,capacity,
+2,,,,,parameters,,,,,,,,,(method),
+3,Red grape skins,Water,75-100,10.1,20 min; 8 g,Anthocyanins,,Malvidin 3-glucoside,,,,~90-100%,,n.d,Liazid et al.
+4,,,,,sample,,,,,,,,,,2014
+5,,,,,,,,,OCH3,,,TAC: 722.6 mg/,,,
+6,,,,,,,,,OH,OH,,,L,,
+7,,,,,,,,HO,,,,,,,
+8,,,,,,,,,,CH,,,,,
+9,,,,,,,,OH,,,,,,,
+10,,,,,,,,381.2 mg/L,,,,,,,
+11,,,,,,,,Peonidin 3-glucoside,,,,,,,
+12,,,,10.3,,,,130 mg/L,,,,,,,
+13,Industrial apple Water,Industrial apple Water,120,10.3,3min,Flavonols,,,,,,~39%,~39%,0.03 mM TE/Plaza et al.,0.03 mM TE/Plaza et al.
+14,products,,,,,,,Hyperoside,,,,,,g (TEAC),2013
+15,,,,,,,,,,,,TPC: 1.59 g/L,,,
+16,,,,,,,,,,,,,,0.97 mg,
+17,,,,,,,,,,,,,,GAE/gFC,
+18,,,,,,,,362 nmol/g DW,,,,,,,
+19,Freeze-dried,Methanol,40,6.9,5 min; 2,"Catechins, quercetin",,Peel:Hyperoside,,,,<9%,<9%,n.d,Alonso
+20,and pulp,,,,cycles,hydroxycinnamic acids,,,,,,GAE/g(Peel),,,2001
+21,,,,,,,,,,,,TPC: 1337 g,,,
+22,,,,,,,,,,,,GAE/g(Pulp),,,
+23,,,,,,,,1680 g/g DW,,,,,,,
+24,,,,,,,,HO,,,,,,,
+25,,,,,,,,OH,,,,,,,
+26,,,,,,,,,,,OH,,,,
+27,,,,,,,,Pulp:,,,,,,,
+28,,,,,,,,Chlorogenic acid,,,,,,,
+29,,,,,,,,540 g/g DW,,,,,,,
+30,Freeze-dried red0.1% HCl,Freeze-dried red0.1% HCl,80-100 10.1,80-100 10.1,35min,Anthocyanins,,,,,,~1.5 higher vs.,,4466 MTE/g Ju&,4466 MTE/g Ju&
+31,grape skin,in 60%,,,extraction,,,Malvidin 3-glucoside,,,,acidified water,,ORAC,"Howard,"
+32,,methanol,,,cycles,,,,,,,,,,2003
+33,,,,,,,,,OCH3,,,TPC: 163.4 mg,,,
+34,,,,,,,,,,,,GAE/g,GAE/g,,
+35,,,,,,,,20.56 mg/g DW,,,,,,,
+36,,,,,,,,,,,,,,(continued on next page),(continued on next page)
+37,,,,,,,8,,,,,,,,

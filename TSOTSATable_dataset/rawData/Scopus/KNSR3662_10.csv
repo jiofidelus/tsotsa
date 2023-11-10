@@ -1,0 +1,9 @@
+,0,1,2,3,4,5
+0,Product,Microalgae Strain,Mode of Cultivation,,Cost (USD,Reference
+1,Biomass,Nannochloropsis oceanica,Open pond,1,56.31,[244]
+2,Biomass,,Open raceway pond,10,3.06-3.70,[245]
+3,Biomass,,Tubular photobioreactor,10,4.55.2,[245]
+4,Biomass,Phaeodactylum tricornutum,photobioreactor,"80,000 *",2.12,[246]
+5,Biodiesel,Phaeodactylum tricornutum,Bubble column,"80,000 *",0.35**,[246]
+6,Biodiesel,Phaeodactylum tricornutum,photobioreactor,"80,000 *",0.35**,[246]
+7,Biomass,Dunaliella salina,Indoor photobioreactor,10,4.64-301.61,[247]

@@ -1,0 +1,43 @@
+,0,1,2,3
+0,,n (%),Mean(Median),SD (IQR)
+1,Maternal characteristics,,,
+2,Mothers age at 5-year follow-up,306,38.44,3.90
+3,Maternal BMI at 5-year follow-up (kg/m2)a,292,(25.87),"(22.77, 28.23)"
+4,Maternal BMI categoryb,,,
+5,Underweight<18.5 kg/mn(%,4 (1.4),,
+6,Healthy (18.5-24.9 kg/m n (%,143 (49.0),,
+7,Overweight (25-29.9 kg/m2 n (%,97 (33.2),,
+8,Obesity (30 kg/m) n (%),48(16.4),,
+9,Completed third level education or above n(%,173 (61.8),,
+10,Third level and Advantaged n (%,145 (51.8),,
+11,Third level and Disadvantaged n (%),30 (10.7),,
+12,Less than third level and advantaged n (%),77 (27.6),,
+13,Less than third level and disadvantaged n (%),37 (10.0),,
+14,Child characteristics,,,
+15,Child age (years),306,5.18,0.15
+16,"Child sex(male),n (%",141 (46.5),,
+17,Child BMI z-score,293,0.40,0.87
+18,Healthy weight>-2and<+1SDn%,223 (76.1),,
+19,Overweight>+1SDn%,58 (19.8),,
+20,Obese>+2SD)n%,12 (4.1),,
+21,Child early feeding and eating behaviours,,,
+22,Some breastfeeding exposure n(%),208 (68.0),,
+23,Age of introduction of solids(weeks),298,23.11,6.70
+24,Met recommendations for timing of introduction to solids n (%,255 (83.3),,
+25,Food Responsiveness(FR(5 items,306,2.49,0.82
+26,Emotional Overeating(EOE4 items,306,1.65,0.52
+27,Enjoyment of Food (EF) (4 items),306,3.73,0.76
+28,Desire to Drink (DD)(3 items),306,2.67,0.93
+29,Satiety Responsiveness(SR(5 items,306,3.06,0.66
+30,Slowness Eating(SE(4 items),306,3.04,0.78
+31,Emotional Undereating(EUE(4 items,306,2.70,0.86
+32,Food Fussiness(FF(6 items,306,3.08,0.98
+33,Children's screen time,,,
+34,Screen time per weeka,226,(11.00),"(7.88,16.50)"
+35,Childcare,,,
+36,Attended childcare n (%,274 (89.5),,
+37,Time spent in childcare(years)a,232,(4.14),"(2.31,4.44)"
+38,Formal childcare(Creche/Preschool)n(%,148 (59.0),,
+39,Informal childcare(nanny or relative in or out of home)n(%,77 (30.6),,
+40,Both formal and informal childcare n (%),26(10.4),,
+41,Food provided in childcare n (%),153 (54.8),,

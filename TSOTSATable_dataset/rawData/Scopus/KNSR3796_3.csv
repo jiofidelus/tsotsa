@@ -1,0 +1,26 @@
+,0,1,2,3,4
+0,Reference,Sweeteners/Doses/Duration,Methods,Bacteria,Saccharine and/or Sucralose
+1,,"Aspartame, sucralose,",,,
+2,"Harpaz et al.,","saccharine,neotame",,E. coli strains,
+3,2018 [38],"advantame,and acesulfame",Bioluminescent,"(TV1061,DPD2544",Toxic effects
+4,2018 [38],potassium-k (ace-k),,and DPD2794),
+5,,ADI (FDA),,,
+6,,"Sucralose, saccharin,",,,
+7,,"acesulfame potassium,and",,,
+8,"Wang et al.,",Liquid assay: equal molarity,Liquid culture assay.,E.coli HB101 and,Bacteriostatic effects
+9,2018 [39],of sodium chloride/5 h,LB agar plate assay,E.coli K-12,Bacteriostatic effects
+10,,Agar: 1.25% (w/v) sucralose,,,
+11,,and 2.5% (w/v) sucralose/24 h,,,
+12,,"Aspartame, sucralose,",,,
+13,,saccharin,,,
+14,,"Bioluminescence assay,","Biosensor assays,",,
+15,,growth assay: 10 L,biophysical protein,,
+16,,non-calorie sweeteners or,characterization,E coli K802NR and,
+17,"Markus V,et al.,",sports supplements.,"methods,microscale",P. aeruginosa lasRI,
+18,2021 [40],Swarming motility assay:,"thermophoresis,",P. aeruginosa PAO1,Inhibition of quorum sensing
+19,2021 [40],"aspartame (1.36 mM),",swarming motility,C. violaceum,
+20,,"sucralose (25.2 mM), or","assays, growth",(CV026),
+21,,saccharine (2.72 mM),"assays,and",,
+22,,QS competition assay using,molecular docking,,
+23,,Chromobacterium Violaceum,,,
+24,,CV026/20 h,,,

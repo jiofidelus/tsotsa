@@ -1,0 +1,11 @@
+,0,1,2,3
+0,Diet,CostofMealPlan,Totalcost of food,(%)
+1,,PerWeek($/g),shop per week($),average
+2,,,,incomeb
+3,Ketogenic,111.70,475.90,28.7
+4,Palaeolithic,114.30,435.00,26.2
+5,Intermittent Fasting,118.90,475.90,28.7
+6,8 Weeks to Wowa,192.40,345.30,20.8
+7,Optifast,125.10,624.90,37.7
+8,MedDiet WL,112.00,452.00,27.2
+9,AGHEWL,93.10,404.40,24.4

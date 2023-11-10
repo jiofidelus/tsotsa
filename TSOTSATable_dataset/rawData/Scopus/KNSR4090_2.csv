@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,,Jan,Feb,Mar,AprPM,May,Jun,Jul,AugHM,Sep,Oct,Nov,Dec
+1,SPEI-1,,,,a,m,i,,a,,,,
+2,SPEI-2,,,,ma,am,mj,,ja,,,,
+3,SPEI-3,,,,fma,mam,amj,mjj,jja,,,,
+4,SPEI-4,,,,,fmam,mamj,amjj,mjja,,,,
+5,SPEI-5,,,,,,fmamj,mamjj,amjja,,,,
+6,SPEI-6,,,,,,,fmamja,mamjja,,,,
+7,SPEI-7,,,,,,,,fmamjja,,,,
+8,SPEI-8,,,,,,,,,,,,
+9,SPEI-9,,,,,,,,,,,,
+10,SPEI-10,,,,,,,,,,,,
+11,SPEI-11,,,,,,,,,,,,
+12,SPEI-12,,,,,,,,,,,,
+13,SPEI-13,,,,,,,,,,,,
+14,SPEI-14,,,,,,,,,,,,

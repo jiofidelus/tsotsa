@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8
+0,S.No,District,State,Major crop1,Percentage,Major crop 2,Percentage,Major crop3,Percentage
+1,1,Arwal,Bihar,Rice,73.64,Wheat,25.21,Maize,0.9
+2,2,Sheikhpura,Bihar,Wheat,49.37,Rice,49.12,Maize,1.5
+3,3,Narayanpur,Chhatisgarh,Rice,87.17,Other millets,7.66,Maize,3.8
+4,4,Narmada,Gujarat,Rice,59.38,Jowar,27.07,Wheat,7.86
+5,5,The Dangs,Gujarat,Rice,64.86,Other millets,16.98,Jowar,16.60
+6,6,Chatra,Jharkhand,Rice,78.44,Maize,11.7,Wheat,8.99
+7,7,Pashchimi,Jharkhand,Rice,98.89,wheat,0.61,Maize,0.47
+8,7,Singhbhum,Jharkhand,Rice,98.89,wheat,0.61,Maize,0.47
+9,8,Gumla,Jharkhand,Rice,88.18,Ragi,6.5,Other millets,2.4
+10,9,Gulbarga,Karnataka,Jowar,86.11,Bajra,5.10,Wheat,3.89
+11,10,Yadgir,Karnataka,Rice,62.26,Jowar,24.99,Bajra,12.35
+12,11,Alirajpur,Madhya Pradesh,Maize,42.4,Wheat,21.99,Bajra,14.42
+13,12,Barwani,Madhya Pradesh,Maize,35.02,Wheat,33.77,Jowar,26.04
+14,13,Bhind,Madhya Pradesh,Wheat,67.57,Bajra,22.00,Jowar,4.06
+15,14,Morena,Madhya Pradesh,Wheat,50.46,Bajra,48.11,Rice,0.44
+16,15,Shajapur,Madhya Pradesh,Wheat,99.44,Jowar,0.53,Rice,0.02
+17,16,Sheopur,Madhya Pradesh,Wheat,66.24,Rice,21.57,Bajra,10.58
+18,17,Banswara,Rajasthan,Maize,51.63,Wheat,34.42,Rice,12.17
+19,18,Dungarpur,Rajasthan,Maize,47.50,Wheat,35.06,Rice,13.19
+20,19,Udaipur,Rajasthan,Maize,62.65,Wheat,29.25,Jowar,2.62
+21,20,Chitrakoot,Uttar Pradesh,Wheat,62.43,Bajra,13.36,Rice,11.23
+22,21,Kaushambi,Uttar Pradesh,Wheat,53.69,Rice,35.95,Bajra,6.33

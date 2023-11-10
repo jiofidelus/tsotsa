@@ -1,0 +1,50 @@
+,0,1,2,3,4
+0,,,Specnie,,Upuate
+1,,(including mass,gravity,,Version
+2,,and bulk density),,,2.0
+3,"Rice, rough",0.58,,TB,
+4,"Rice, white, boiled",0.73,,RC,
+5,"Rice, white, raw",0.82,,RC,
+6,Rye,0.72,,TB,
+7,"Rye, bran",0.24-0.32,,ASI,x
+8,"Rye, flour",0.67,,ASI,x
+9,"Rye, malted",0.51,,ASI,x
+10,"Rye, middlings",0.67,,ASI,x
+11,"Rye, shorts",0.54,,ASI,
+12,"Rye, whole",0.69-0.72,,ASI,
+13,"Semolina, raw",0.78,,RC,
+14,"Sorghum, fermented flour",0.54,,KEN,
+15,"Sorghum, flour",0.54,,KEN,x
+16,"Sorghum, seed",0.51-0.56,,ASI,
+17,"Soy, flour",0.7,,ASI,x
+18,"Soya, flour",0.64,,ASI,x
+19,Wheat,0.77,,TB,
+20,"Wheat, bran",0.18-0.26,,ASI,x
+21,"Wheat, cracked",0.56,,ASI,x
+22,"Wheat, cut",0.74,,ASI,
+23,"Wheat, flour",0.48,,ASI,
+24,"Wheat,flour",0.58,,KEN,X
+25,"Wheat, flour",0.67,,ASI,x
+26,"Wheat, flour",0.521,,S&W,
+27,"Wheat, flour, malted",0.66,,ASI,X
+28,"Wheat, flour, white",0.67,,RC,
+29,"Wheat, flour, wholemeal",0.55,,RC,
+30,"Wheat,gluten",0.69,,ASI,x
+31,"Wheat, hulls",0.7,,ASI,x
+32,"Wheat, middlings",0.24,,ASI,x
+33,"Wheat, shaved",0.54,,ASI,
+34,"Wheat,whole",0.72-0.83,,ASI,
+35,Whey,0.56,,ASI,
+36,Tubers and products,,,,
+37,"Arrowroot/cocoyam, boiled",0.54,,KEN,x
+38,"Arrowroot/cocoyam, raw",0.52,,KEN,x
+39,"Cassava,flour",0.55,,KEN,X
+40,"Cassava, boiled",0.63,,KEN,x
+41,"Cassava,raw",0.63,,KEN,x
+42,"Potato, english, boiled",0.59,,KEN,x
+43,"Potato, english, raw",0.59,,KEN,x
+44,"Potatoes, flakes",0.21,,ASI,x
+45,"Potatoes, powdered",0.77,,ASI,
+46,"Sweet potato, boiled",0.65,,KEN,
+47,"Sweet potato, raw",0.44,,KEN,x
+48,"Yam, boiled",0.79,,KEN,x

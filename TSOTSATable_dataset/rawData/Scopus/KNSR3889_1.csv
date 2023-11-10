@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,Category,,Definition,,Examples
+1,Unprocessed/,,,,
+2,minimally,"Single foods,no or very slight modifications","Single foods,no or very slight modifications","meat, fresh fish.",
+3,processed,,,"meat, fresh fish.",
+4,Basically,"Single foods,processed as isolated food","Single foods,processed as isolated food","unsweetened canned fruit,unsalted","unsweetened canned fruit,unsalted"
+5,processed,methods,,cannedvegetables,cannedvegetables
+6,,,,"Salted nuts, fruit canned in syrup,","Salted nuts, fruit canned in syrup,"
+7,Moderately,Single foods with addition of,Single foods with addition of,"vegetables canned with added salt,whole-","vegetables canned with added salt,whole-"
+8,processed,flavour additives,,grain breads or cereals with no added,grain breads or cereals with no added
+9,,,,sugar.,
+10,,,,"Pre-prepared mixed dishes,refined-grain","Pre-prepared mixed dishes,refined-grain"
+11,Highly,"Multi-ingredient, industrially formulated","Multi-ingredient, industrially formulated","cookies,candy, sugar sweetened","cookies,candy, sugar sweetened"
+12,processed,mixtures,,"cookies,candy, sugar sweetened","cookies,candy, sugar sweetened"
+13,,,,mavonnaise,

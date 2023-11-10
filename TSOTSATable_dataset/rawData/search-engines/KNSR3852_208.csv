@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,food,Name,Name,Size,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,code,Kiswahili,English,.,bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,1003,chai na maziwa bila sukari,Tea with milk no sugar,Std,200,,200,,,,,,
+3,1003,chai na maziwa bila sukari,Tea with milk no sugar,A,,,,,,,,,200
+4,1004,kahawa na sukari bila maziwa,Coffee with sugar no milk,Std,200,,200,,,,,,
+5,1004, kahawa na sukari bila maziwa,Coffee with sugar no milk A,,,,,,,,,,200
+6,,,Coffee with milk and,,,,,,,,,,
+7,1005, kahawa na maziwa and sugar,sugar,Std,200,,200,,,,,,
+8,,,Coffee with milk and,,,,,,,,,,
+9,1005, kahawa na maziwa na sugar,sugar,A,,,,,,,,,200
+10,1006,kahawa na maziwa bila sukari,Coffee with milk no sugar,Std,200,,200,,,,,,
+11,1006,kahawa na maziwa bila sukari,Coffee with milk no sugar,Std,200,,200,,,,,,
+12,1101,kahawa na maziwa bila sukari,Coffee with milk no sugar,A,,,,,,,,,200
+13,1102,samli,Butter oil - ghee,A,,,,,,,,,7.5
+14,,,Coconut milk (squeezed,A,,,,,,,,,
+15,1104, tui la nazi,out of coconut),,,,,,,,,,50
+16,1107,margarine na mkate,Margarine with bread,A,,,,,,,,,15
+17,1107,margarine in mixed dish,Margarine,A,,,,,,,,,10
+18,1108, mafuta ya mawese,Red palm oil,A,,,,,,,,,10
+19,1111,mafuta ya Cowboy,Vegetable fat,A,,,,,,,,,10
+20,, mafuta ya maji (yatokanayo na,,A,,,,,,,,,
+21,1113,mimea),Vegetable oil,,,,,,,,,,10

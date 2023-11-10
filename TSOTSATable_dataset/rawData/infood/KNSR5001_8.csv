@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,,Do not,,,,,
+1,Provinces,read/write,read/write,None,Primary Secondary,Primary Secondary,Higher
+2,Bas-Congo,,23,24,18,52,6
+3,Bandundu,,43,44,14,40,2
+4,Equateur,,26,27,25,47,1
+5,Province,,,,,,
+6,orientale,,36,38,38,22,1
+7,Nord-Kivu,,29,27,35,31,6
+8,Maniema,,24,26,43,27,3
+9,Sud-Kivu,,36,35,27,33,5
+10,Katanga,,32,35,32,33,1
+11,Kasai Oriental,,27,28,26,44,2
+12,Kasai Occidental,,29,30,22,46,2
+13,Rural national,,31,32,28,37,3

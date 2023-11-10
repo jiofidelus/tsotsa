@@ -1,0 +1,8 @@
+,0,1,2,3
+0,Treatment,Formulation a,Incidence (%),Severity b
+1,EPE,40% EPE+60% SDW,100,2.60.55 a b
+2,OEO,12% OEO+88% SDW,100,1.80.84b c
+3,MIX:,40% EPE+12% OEO+48% SDW,60,1.21.1 c d
+4,MIX2,20% EPE+6% OEO+74% SDW,40,0.81.1d e
+5,NCtrl,100%SDW,0,00 e
+6,PCtrl,100% SDW,100,30a

@@ -1,0 +1,44 @@
+,0,1,2,3
+0,,,rats70~80g56Seoul,rats70~80g56Seoul
+1,0.1g,,Korea.4,Korea.4
+2,310mLvolumetricflask10,,5,5
+3,Flask3,,,25C
+4,84mg/mL7syringefil,,605%12,605%12
+5,ter0.45umPVDFHPLC,,,
+6,PEGPartNo.PL2070,,AN-93G,AN-93G
+7,"0201,Agilent,Santa ClaraCAUSA",,normalcontrolNC,normalcontrolNC
+8,31.8mL388,,metabolicfecalnitrogen,metabolicfecalnitrogen
+9,GPCWaters2695,,proteinfreecontrolPFC.,proteinfreecontrolPFC.
+10,"Separations Module RI-detector, Waters, Santa Clara",,10%,10%
+11,"CA,USA)l Shodex column(OHpack SB-G 6B,OHpack",,ISP10%,ISP10%
+12,"SB-802 HQ,OHpack SB-802.5 HQ,OHpack SB-803",,,WPI10%
+13,HQShodexTokyoJapan,,LWCP,LWCP
+14,0.1 M NaNOflow rate 0.8 mL/minin,,3Table1,3Table1
+15,jectionvolume80L,,DHU2021-038,DHU2021-038
+16,CEO,,,
+17,0.5gA50mL10,,,
+18,8syringefilter,,proteinefficiencyratioPER,proteinefficiencyratioPER
+19,0.45mPVDFHPLC,,77gg,77gg
+20,.AnserinecarnosineSigma-Aldrich,,Henry1965,Henry1965
+21,"Darmstadt,GermanyHPLC(Agilent 1260 infinity I",,,Body weight gain
+22,Agilent) Shodex Asahipak NH2P-50 4E column(4.6,,PER=,Protein intake
+23,250mmcolumn40,,,Protein intake
+24,210nm1mg,,netproteinratioNPR,netproteinratioNPR
+25,"1mL1,000g/mL",,,
+26,200ppm8,,7g7%,7g7%
+27,. A 50 mM sodium dihydrogen phos,,g7g,g7g
+28,phateanhydrousaq/ACN40/60,,,BenderDoell1957
+29,BMori2015,,NPR=Weight gain on protein diet-Weight loss on,NPR=Weight gain on protein diet-Weight loss on
+30,"Tomonaga 5,2007.",,N-free diet/ Protein intake,N-free diet/ Protein intake
+31,Invitro,,trueproteindigestibilityTPD,trueproteindigestibilityTPD
+32,AOAC200016,,Nosworthy2018,Nosworthy2018
+33,45C0.1NHC10.002%,,TPD%=[{Nitrogen intake-(Fecal nitrogen loss,TPD%=[{Nitrogen intake-(Fecal nitrogen loss
+34,A,,Metabolic nitrogen)}/N intake]100,Metabolic nitrogen)}/N intake]100
+35,,,PDCAASScha,PDCAASScha
+36,,,afsma2012,afsma2012
+37,,t.,,
+38,KOH0.2%KOH20,,PDCAAS (%)=Amino acid score (AAS)TPD (%),PDCAAS (%)=Amino acid score (AAS)TPD (%)
+39,,,AAS=Contents of limiting amino acid in test protein,AAS=Contents of limiting amino acid in test protein
+40,KOH88,,(mg/g/ Contents of same amino acid in refer-,(mg/g/ Contents of same amino acid in refer-
+41,Dale1987,,ence protein (mg/g),ence protein (mg/g)
+42,3~4weanling Sprague-Dawley,,,

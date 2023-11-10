@@ -1,0 +1,37 @@
+,0,1,2,3
+0,Food,Species,Production,References
+1,,,system,
+2,Cabbage,Brassica oleraceaL.,Organic,"Rembiatkowska,2007"
+3,Celeries,Apium graveolens L.,Organic,"YuGuoJiangSong,&"
+4,,,,"Muminov,2018"
+5,Spinach,Spinacia oleracea,Organic,"Rembiatkowska,2007"
+6,Tomato,Lycopersicon,Organic,"Pieper &Barrett,2009"
+7,,"esculentum, var.",,
+8,,AB2,,
+9,Strawberry,Fragaria x,Organic,Reganold et al.
+10,,"ananassa Duch.,cv",,"2010Olsson, Andersson,"
+11,,"Diamante, San",,"Oredsson,Berglund,"
+12,,"Juan,Lanai",,Gustavsson.2006Drobek.
+13,,,No effects,"Frac,Zdunek,& Cybulska"
+14,,Fragaria ,,2020
+15,,"ananassa, cv.",,
+16,,"Honeoye,",,
+17,,Cavendish,,
+18,Black,Ribes nigrum L.,Organic,"YuGuoJiang,Song,"
+19,currants,,,"Muminov,2018"
+20,Pears,Pyrus communis,Organic,"Yu,GuoJiang,Song,&"
+21,,,,"Muminov,2018"
+22,Pepper,"Capsicum annuum,",Organic,"Hallmann et al.,2019"
+23,,"cv.Roberta,Berceo",,
+24,Carrots,Daucus carota,Organic,"Hallmann et al.,2019"
+25,,subsp.sativus,,
+26,Potatoes,Solanum tuberosum,1,"Yu,GuoJiangSong,&"
+27,,L.,Conventional,"Muminov,2018"
+28,Apples,Malus domestica,1,"YuGuoJiang,Song,&"
+29,,Borkh.,Conventional,"Muminov,2018"
+30,Zucchini,Cucurbita pepo L.,No effects,"Maggio,De Pascale"
+31,,,,"Paradiso,&Barbieri,2013"
+32,Eggplants,Solanum melongena,No effects,"Raigon,Rodriguez"
+33,,,,"Burruezo,&Prohens,2010"
+34,Endive,Cichorium endivia L.,No effects,"Maggio,De Pascale"
+35,bunches,var. Latifolium,,"Paradiso,&Barbieri,2013"

@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6
+0,Country,survey,n,Method,Supplements*,Mean,97.5%
+1,,,,7-day weighed,,,
+2,Austriaa,Individual,4972,3-day weighed,Not defined,834,1678
+3,,,,24h-recall,,,
+4,Germanyb,Individual(M),2006,7-day record,,753,1731
+5,Germanyb,Individual(F),2006,7-day record,,683,1421
+6,Irelandc,Individual(M),1339,7-day record,,949,1657
+7,Irelandc,Individual(F),1339,7-day record,,742,1340
+8,Netherlands,"IndividualM,F",5958,2-day record,,944,1970
+9,UKe,Individual(M),1087,7-day weighed,,940,1607
+10,UKe,Individual(F),1110,7-day weighed,,730,1317

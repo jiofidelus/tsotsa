@@ -1,0 +1,26 @@
+,0,1,2,3,4
+0,Nutrient,Samples,Samples,Method,Reference(s)
+1,Water,,"Samples,n=6 to n=197,of 38 cooked foods.","Loss of weight on freeze drying, followed",Hudson et al.
+2,,"analysed individually, sampled 1975-1977","analysed individually, sampled 1975-1977",by loss of weight on drying to 105 degrees.,
+3,Nitrogen,Same as water above,Same as water above,Micro-Kjeldhal procedure,Hudson et al.8
+4,Fat,,"Bulked samples of each of 10 cooked foods, from",Neutral fat determined by specific gravity,Hudson et al.8
+5,,the individual samples as for water above,the individual samples as for water above,"(Foss Oil Meter, York), after extraction into",
+6,,,,tetrachloroethylene,
+7,Available,Same as fat above,Same as fat above,Free sugars and starch,"Hudson et al.21, Southgate22 reported in Hudson et al."
+8,carbohydrate,,,,
+9,Unavailable,Same as fat above,Same as fat above,Southgate procedure,Southgate22 reported in Hudson et al.8
+10,carbohydrate,,,,
+11,Calcium,,19 cooked foods from samples as collected for,Atomic absorption spectrophotometry,Prentice et al.
+12,,,"water above, individual analyses, n=1 to n=16;",,
+13,,,"l1 raw ingredients, 4 fishes and 11 types of",,
+14,,,"leaves, sampled in 1990, pooled analyses, n=1 to",,
+15,,n=7,,,
+16,Phosphorus,As calcium above,As calcium above,Colorimetric,"Fiske and Subarrow, reported in Prentice et al."
+17,Zinc-,,2 samples analysed of each of 19 cooked foods.,Atomic absorption spectrophotometry,"Davies (unpublished, Rowett Research Institute, 1976)"
+18,cereals,,selected from the samples for water above,,reported in Paul et al.1
+19,Zinc-fish,"Same samples as for calcium, see above","Same samples as for calcium, see above",Flame atomic absorption spectophotometry,"Tsuchiya, as reported in Paul et al.10"
+20,and leaves,,,,
+21,Phytate,,"Same samples as zinc - cereals, see above",Fe precipitation,"Davies and Reid, by modification of Holt, reported in"
+22,,,,,Paul et al.10
+23,Carotene,,"180 foods containing palm oil, leaves or leaf",HPLC,Villard and Bates
+24,,"sauces, fruits, vegetables, mangoes","sauces, fruits, vegetables, mangoes",,

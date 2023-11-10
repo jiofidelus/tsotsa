@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7
+0,,,Dietary,,,,,
+1,,,assessment,,,Number of,Participation,
+2,Country,Survey,method,Year,Age groups,participants,rate (%),Ref.
+3,Denmark,Danskernes kostvaner2011-2013,7-d food record,2011-13,18-75,"3,016",52,(10)
+4,Finland,"FINDIET,FinRavinto 20172",2*24 h recall,2017,25-74,"3,099",53,"(14,17)"
+5,Iceland,Hvao boroa islendingar?3,2*24 h recall,2010-11,18-80,"1,312",69,(16)
+6,Norway,Norkost 34,2*24 h recall,2010-11,18-70,"1,787",37,(11)
+7,Sweden,Riksmaten vuxna 2010-1 15,"4-d food record,",2010-11,18-80,"1,797",36,(8)
+8,,,web based,,,,,
+9,Estonia,"Eesti rahvastiku toitumise uuring 2014, Estonian",,,,,,
+10,,National Dietary Survey 20146,2*24 h recall,2014,18-74,"2,713",~33,(15)
+11,Latvia,Latvian National Dietary Survey on the general,,,,,,
+12,,population?,2*24 h recall,2007-09,17-64,"1,377",~90,"12,13)"
+13,,Study of salt and iodine consumption in the adult,,,,,,
+14,,population in Latvia8,2*24 h recall,20|8-2020,19-64,"1,011",54,
+15,Lithuania,Study of actual nutrition and nutrition habits of,,,,,,
+16,,Lithuanian adult population',2*24 h recall,2013-20|4,19-75,"2,513",61,"(9,24)"
+17,,"Study of actual nutrition,dietary,and physical activity",,,,,,
+18,,habits and knowledge of nutrition and physical activ,,,,,,
+19,,ity of Lithuanian adult and elderly populationo,2*24 h recall,2019,1975,"2,910",,

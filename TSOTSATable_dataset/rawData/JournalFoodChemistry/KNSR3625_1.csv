@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,Sample,Label,Total Ag,Migration,,,
+1,,,g cm-2,FS,Conditions,Migrated Ag (g cm-2),Migration (%)
+2,FC#1,,<LOD,Ultrapure water,20C 10 d,<LOD,=
+3,,,,,40C10 d,<LOD,
+4,,,,,70C 2 h,<LOD,
+5,,,,3% Acetic acid,70C 2 h,<LOD,
+6,FC#2,Contains nano-silver,9.15  0.65,Ultrapure water,40C10 d,2.9  10-4 1.5  10-4,0.003
+7,,,,,70C2h,1.0  10-2  1.5  10-3,0.112
+8,,,,,70C2h,2.2  10-4  7.3  10-5,0.002
+9,,,,3% Acetic acid,70C2 h,5.1  10-3  8.7  10-5,0.056
+10,FB,Contains nano-silver,0.1048  0.0038,Ultrapure water,20C 10 d,,0.031
+11,,,,,40C10 d,5.5 10~5 1.7  10-6,0.053
+12,,,,,70C2h,4.9  10-5  1.7  10-7,0.047
+13,,,,3% Acetic acid,70C 2 h,1.7  10-2  8.4  10-5,16

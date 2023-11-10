@@ -1,0 +1,75 @@
+,0,1,2,3,4
+0,ood,Purpose of analysis,Detection Technology,Main metabolites,Reference
+1,,Measure the quality of chilled chicken meat,,,
+2,,during storage using the metabolomic,,,
+3,,approach.,,,
+4,ry-cured ham,Evaluate the relationship between,CE-MS,"Amino acids (glutamine, cysteine, asparagine,",Sugimoto et al. (2020)
+5,,metabolomic profile and ripening duration of,,"leucine), organic acids, nucleotides",
+6,,dry-cured ham produced in Japan,,,
+7,,Reveal the evolution of the Dahe black pig,GC-MS,"Aldehydes (hexanal, 3-methyl-butanal, nonanal,",Shi et al.2019
+8,,dry-cured ham flavor formation during its,,"octanal), alcohols, glycosaminoglycan",
+9,,ripening process and elucidate the key,,,
+10,,component responsible for its flavor,,,
+11,,characteristics.,,,
+12,,Investigate metabolite changes during,NMR spectroscopy,"Amino acids (alanine, isoleucine, histidine",Zhang et al. (2019)
+13,,processing of boneless dry-cured ham and,,"valine), organic acids (succinate, lactate, acetate,",
+14,,explore the mechanisms that contribute to its,,"citrate), nucleic acids, peptides, sugars",
+15,,taste.,,,
+16,acon,Investigate variations in Chinese bacon taste,NMR spectroscopy,"Amino acids, organic acids, sugars, nucleic acids,",Huang et al.2020
+17,,quality during processing,,alkaloids,
+18,oghurt,Investigate the use of the metabolomic,NMR spectroscopy,"Proteins, amino acids, sugars (lactose, galactose),",Trimigno et al. (2020)
+19,,approach to monitor the changes in milk,,"acetate, lactate, citrate, pyruvate, alanine",
+20,Vine,Find sensorial differences between three,UPLC-FT-ICR-MS,"Phenolic compounds (flavonols,flavanols,",Cuadros-Inostroza et al.2020
+21,,types of wine and determine the metabolites,,anthocyanins),
+22,,associated with these sensorial attributes,,,
+23,,Assess the impact of different closures on,GC-MS,"Alcohols, aldehydes, esters, terpenes, organic",Oliveira et al.2020)
+24,,volatile composition of white wine.,,"acids, lactones,ketones",
+25,eer,Determine metabolite differences of ale and,GC-MS,"Alcohols (propylene glycol, 2,3-butanediol,",Seo et al.2020
+26,,large beers.,,"glycerol, sorbitol), organic acids (propionic acid,",
+27,,,,"malic acid,palmitic acid, stearic acid,",
+28,,,,"carbohydrates (sucrose, fructose)",
+29,,Classify and discriminate craft and industrial,NMR spectroscopy,"Amino acids, organic acids (succinic acid, lactic",Palmioli et al.2020
+30,,beers via identification of molecular,,"acid, formic acid, acetic acid carbohydrates",
+31,,markers.,,"(trehalose, glucose, fructose), organic alcohols,",
+32,,,,"nucleosides (adenosine), phenols",
+33,offee,Explore the impacts of processing parameters,HPAEC-PAD/UPLC-MS/,"Lactic acid bacteria (Leuconostoc, Lactococcus),",Zhang et al.2019)
+34,,"on microbial community dynamics,",MS/GC-FID/HS/SPME,"carbohydrates, organic acids, amino acids,",
+35,,metabolite compositions and quality during,GC-TOF-MS,alcohols,
+36,,wet coffee processing.,,,
+37,,Develop a method to carry out the,CE-ESI-QToF-MS,"Pyridines, choline, pyrroles, betaines, indoles","Perez-Miguez, Sanchez-Lopez,"
+38,,fingerprinting of green and roasted coffee,,,"Plaza,Marina,and"
+39,,and evaluate changes in the metabolic,,,Castro-Puyana 2019
+40,,profiles of samples submitted to different,,,
+41,,roasting degrees.,,,
+42,ocoa,Replicate the microbial dynamics and,UHPLCESIMS/MS,"Yeasts, acid acetic bacteria, phenolic compounds,",John et al. (2019)
+43,,metabolic changes during cocoa bean,,"peptides, ethanol, acid acetic",
+44,,fermentation.,,,
+45,akery,Investigate the effects of olive pomace,HPLC-DAD-MS/,"Phenolic compounds, tocopherols, glucose,",Di Nunzio et al.2020
+46,products,addition in biscuits and bread and evaluate,HPLC-FLD/NMR,"lactate,phosphocholines, choline, alanine,",
+47,,the modification of cell metabolome after in,spectroscopy,ethanol,
+48,,vitro digestion.,,,
+49,,Elucidate the fate of deoxynivalenol (DON),LC-HR-MSLC-MS/MS,"DON, isoDON, norDON B, norDON C, DON-3-",Stadler et al. (2019)
+50,,"during baking of crackers, biscuits and bread",,glucoside,
+51,,through identification and quantification of,,,
+52,,all extractable degradation products.,,,
+53,,Evaluate the influence of chemical,GC-MS,"Alcohols (propanol,hexanol,octenol, sulfur",Balestra et al. (2015)
+54,,"acidification, flour type, and fermentation on",,compounds,
+55,,characteristics of doughs.,,,
+56,ish sauce,Characterize metabolite profiles and,UHPLC-Q/TOF-MS,"Amino acids (aspartic acid, glutamic acid)",Wang et al. (2019)
+57,,evaluate taste qualities of Chinese fish sauce,,"peptides, organic acids, amines, carbohydrates,",
+58,,during fermentation.,,nucleic acids,
+59,Mixed,Analyze metabolite profile changes in,GC/TOF-MS,"Organic acids (lactic acid,acetic acid, sugars,",(2019)
+60,vegetables,fermented mixed vegetables by Lactobacillus,HPLC,"alcohols, amino acids, fatty acids, amines,",(2019)
+61,,plantarum.,,phosphates,
+62,heese,Evaluate the effect of pasteurization and use,GC-MS,"Amino acids (gamma-aminobutyric acid,",Saidi et al. 2020)
+63,,of starter cultures on properties of sheep,,"isoleucine, lysine, alanine), organic acids (lactic",
+64,,cheese during ripening.,,"acid, valeric acid, succinic acid,carbohydrates,",
+65,,,,"fatty acids, amines",
+66,,Analyze the metabolite profile of natural,GC/TOF-MS,"Amino acids, fatty acids, organic acids, amines,","Ochi, Naito, Iwatsuki, Bamba,"
+67,,cheeses and correlate with sensory,,carbohydrates,and Fukusaki (2012)
+68,,evaluation.,,,
+69,trawberry,Study the effect of dielectric barrier,UPLC-MS,"Phenolic compounds,flavonoids,anthocyanins",Li et al.2019
+70,,discharge plasma on the quality of fresh-cut,,,
+71,,strawberries by physiological and,,,
+72,,metabolomic assays.,,,
+73,ork exudates,Monitor the effects of E-beam irradiation,NMR spectroscopy,"Nucleosides, carbohydrates, nucleotides, amino",Garcia-Garcia et al. (2019)

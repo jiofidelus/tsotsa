@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6
+0,Fatty acid,INFOODS,U,Denominator,Sig.,sheet,Comment1
+1,,tagname,U,,digits,sheet,
+2,Fatty acid 24:6,F24D6N3,g,/100 g EP,3,04/05,Calc.from F24D6N3/100 g total FA
+3,n-3,,g,/100 g totalFA,3,07,

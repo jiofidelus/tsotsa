@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,food,Name,Name,Size,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,code,Kiswahili,English,,bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,864,supu kunde na mafuta,Cow pea broth with oil,Std,400,,200,,20,,60,,
+3,,,Cow pea leaf broth with,,,,,,,,,,
+4,864,supu ya kunde na mafuta,oil,A,,,,,,,,,60
+5,865, supu ya kunde bila mafuta,Cow pea broth with no oil,Std,400,,200,,20,,60,,
+6,865,supu ya kunde bila mafuta,Cow pea broth with no oil,A,,,,,,,,,60
+7,,supu ya majani ya kunde na tui,Cow pea leaf broth with,,,,,,,,,,
+8,866,la nazi,cocounut milk,Std,400,,200,,20,,60,,
+9,,supu ya majani ya kunde na tui,Cow pea leaf broth with,,,,,,,,,,
+10,866,la nazi,cocounut milk,A,,,,,,,,,60
+11,,supu ya majani ya kunde na,Cow pea leaf broth with,,,,,,,,,,
+12,867,mafuta,no oil,Std,400,,200,,20,,60,,
+13,,supu ya majani ya kunde na,Cow pea leaf broth with,,,,,,,,,,
+14,867,mafuta,oil,A,,,,,,,,,60
+15,868,supu ya samaki na mafuta,Fish broth with oil,Std,400,,200,,20,,60,,
+16,868,supu ya samaki na mafuta,Fish broth with oil,A,,,,,,,,,60
+17,869,supu ya samaki bila mafuta,Fish broth no oil,Std,400,,200,,20,,60,,
+18,869,supu ya samaki bila mafuta,Fish broth no oil,A,,,,,,,,,60
+19,870,supu ya njegere bila mafuta,Green pea broth no oil,Std,400,,200,,20,,60,,
+20,870,supu ya njegere bila mafuta,Green pea broth no oil,A,,,,,,,,,60
+21,871,supu ya njegere na mafuta,Green pea broth with oil,Std,400,,200,,,20,60,,
+22,871,supu ya njegere na mafuta,Green pea broth with oil,A,,,,,,,,,60
+23,,supu ya maharage na tui la,Kidney bean broth with,,,,,,,,,,
+24,872,nazi,coconut milk,Sta,400,,200,,,20,60,,
+25,,supu ya maharage na tui la,Kidney bean broth with,,,,,,,,,,
+26,872,nazi,coconut milk,A,,,,,,,,,60
+27,873,supu ya maharage bila mafuta,Kidney bean broth no oil,Std,400,,200,,,20,60,,
+28,873,supu ya maharage bila mafuta,Kidney bean broth no oil,A,,,,,,,,,60

@@ -1,0 +1,21 @@
+,0,1,2,3
+0,Grain,Food consumption,Protein provided,Food uses
+1,,(kg per capita per year),(g per capita per day),
+2,Rice and products,81.4,10.3,"Bakery products,breakfast cereals,extruded"
+3,,,,"snacks, gluten-free foods, porridge, baby"
+4,,,,"foods, fermented beverages, dairy analogues"
+5,Wheat and products,65.3,16.0,"Bakery products, breakfast cereals, extruded"
+6,,,,"snacks, pasta, porridge, baby foods, meat and"
+7,,,,dairy analogues
+8,Maize and products,20.0,3.9,"Bakery products, gluten-free foods, extruded"
+9,,,,"snacks, breakfast cereals, baby foods"
+10,Sorghum and products,3.3,0.8,"Bakery products, gluten-free foods, porridge"
+11,Millet and products,2.8,0.6,
+12,Barley and products,1.1,0.2,Bakery products (bread and biscuits mainly)
+13,Rye and products,0.6,0.1,"Bakery products (mainly bread and crackers),"
+14,,,,"extruded snacks, porridge"
+15,Oats and products,0.6,0.1,"Bakery products, breakfast cereals and flakes,"
+16,,,,"porridge, baby foods, gluten-free foods, meat"
+17,,,,and dairy analogues
+18,Other cereals,1.0,0.2,
+19,Total,176.1=480g/d,32.2,

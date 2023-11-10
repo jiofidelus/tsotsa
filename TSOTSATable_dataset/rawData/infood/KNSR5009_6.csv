@@ -1,0 +1,14 @@
+,0,1,2,3
+0,Code of,Name of food groups and,Food ItemIDs added,
+1,food group,subgroups,,
+2,01,Cereals,0100104-0100214,
+3,02,Starchy roots and tubers,0202010-0202062,
+4,03,Legumes,0300001-0300007,
+5,04,Nuts and seeds,0500603-0500621,
+6,05,Vegetables,0500617-0500621,
+7,06,Fruits,0600001-0600011,
+8,07,Meat and poultry,0700001-0700002,
+9,08,Eggs,0800001,
+10,09,Fish and shellfish,0902183-0902204,
+11,10,Milk,,-
+12,11,Herbs and spices,,

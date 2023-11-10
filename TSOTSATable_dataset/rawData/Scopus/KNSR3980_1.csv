@@ -1,0 +1,28 @@
+,0,1,2,3
+0,Program name,,Short description,sources
+1,AQUATRIT,Estimate of H transfer along aquatic food chains,Estimate of H transfer along aquatic food chains,[274]
+2,BIOMASS,,Modeling the transfer of'H in the environment under conditions of its long-term release from,[278-280]
+3,TWG,,orimary or secondary sources near long-term atmospheric and underground sources,
+4,CROPTRIT,,Dynamics ofH transfer by agricultural plants in thesoil-plants-atmospheresystem,[242]
+5,CTEM+,,"3H transfer in the Canadian Model of Terrestrial Ecosystem, taking into account plant phenom-",[281]
+6,CLASS v.2.7,enology,,
+7,EMRASII,,Modeling the release of H into the environment as a result of its emergency releases from,"[85, 282]"
+8,,,"nuclear facilities,comparison of models for assessing the transfer ofH into aquatic and terres-",
+9,,trial biota and the human body,,
+10,FEFLOW 5.0,,"Modeling the groundwater flow and 3H transfer from a hypothetical nuclear power plant reactor,",[214]
+11,,aking into account water level monitoring data,aking into account water level monitoring data,
+12,MARINA II,,Modeling the transfer and accumulation of 3H in seawaters of Northern Europe and marine,[283-285]
+13,,,biota to estimate doses to biota and humans and the biological effects of this exposure,
+14,MGMTP,,Global model for predicting 3H Concentration in precipitation,[106]
+15,SIBYLLA,,Assessment of contamination of water bodies and doses received by the population as a result of,[286]
+16,,,"radioactivity discharges (fallouts, leaks, or washouts) into the hydrosphere under normal operat-",
+17,,,ing conditions or emergency conditions (at all stages of the life cycle of a nuclear facility),
+18,TERM,,Modeling 3H releases into the environment (atmosphere and river and coastal ecosystems),[287]
+19,TOCATTA,,"Modeling the transfer of'H to agricultural plants, taking into account the composition of air and",[288]
+20,,,rain and soil water and different processes (photosynthesis and evapotranspiration),
+21,TRIF,Modeling the transfer ofH to agricultural crops and animals,Modeling the transfer ofH to agricultural crops and animals,[289]
+22,TRANSAT,,"Development of strategies to reduce 3H releases, methodology for assessing pollution levels.","[51, 290]"
+23,,,"improvement of waste management, and expansion of the knowledge in the field of radionuclide",
+24,,toxicity and dosimetry,,
+25,VATO,,"Study of the behavior of3H in the environment (air, soil, rainwater, migration to plants, and esti-",[103]
+26,,mation of the half-life of OBT in plants),,

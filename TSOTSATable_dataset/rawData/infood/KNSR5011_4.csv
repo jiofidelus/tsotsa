@@ -1,0 +1,19 @@
+,0,1,2
+0,Phytic acid (by anion,PHYTCPP:FE,Phytate:lron ratio calculated using phytic acid analyzed
+1,exchange:Iron ratio,,by ferric precipitation with an additional anion-exchange
+2,,,purification step(PHYTCPP-See equation 2
+3,Phytic acid (by anion,PHYTCPP:ZN,Phytate:Zinc ratio calculated using phytic acid analyzed
+4,exchangeZinc ratio,,by ferric precipitation with an additional anion-exchange
+5,,,purification stepPHYTCPP)-See equation1
+6,Phytic acid(by unknown,PHYTC-:FE,Phytatelron ratio calculated using phytic acid analyzed by
+7,colorimetry): Iron ratio,,unknown ferric precipitation(PHYTC-)-See equation 2
+8,Phytic acid (by unknown,PHYTC-:ZN,Phytate:Zinc ratio calculated using phytic acid analyzed by
+9,colorimetry)Zinc ratio,,unknown ferric precipitationPHYTC--See equation1
+10,Phytic acid (by unknown,PHYT-:FE,Phytate:lron ratio calculated using phytic acid analyzed by
+11,method: Iron ratio,,an unknown methodPHYT--See equation 2
+12,Phytic acid(by unknown,PHYT-:ZN,Phytate:lron ratio calculated using phytic acid analyzed by
+13,methodZinc ratio,,an unknown method (PHYT-) - See equation 1
+14,Phytic acid (by HPLC/HPAE):,PHY:FE,Phytate:lron ratio calculated using phytic acid analyzed by
+15,Iron ratio,,"HPLC/HPAE(IP4,IP5 and IP6 forms)-See equation4"
+16,Phytic acid(by HPLC/HPAE):,PHY:ZN,Phytate:Zinc atio calculated using phytic acid analyzed by
+17,Zinc ratio,,HPLC/HPAEIP5andIP6forms-See equation3

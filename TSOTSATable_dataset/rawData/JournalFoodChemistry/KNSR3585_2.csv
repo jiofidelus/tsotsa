@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,Extraction method,Detection,Matrix,PF,LOD (ng/mL),RSD (%),Ref.
+1,EME,ET-AAS,"River, mineral and tap waters",110,0.02,11.3,"Tahmasebi and Davarani, 2016"
+2,DEME,HPLC,"River, mineral and tap waters",33,2.8,10.7,"Safari et al.,2013"
+3,Electroenhanced HF-LPME,UV-Vis,Drinking water,200,<3.5,4,"Chanthasakda et al.,2016"
+4,SAE-DLLME,ET-AAS,Drinking Water and rice,54.47,0.0052,3,"Dokpikul et al.,2018"
+5,IS-DLLME,UV-Vis,Beverages,36,0.2,6,"Shishov et al.,2020"
+6,UA-CPE-D--SPE,ICP-OES,"Potato, carrot, spinach and lettuce",185,0.1,3,"Nyaba and Nomngongo, 2020"
+7,SPE,ICP-OES,"Chicken, flour and honey",80,0.016,3.2,"Ozdemir et al.,2017"
+8,SPE,ICP-MS,"Rice, corn, wheat and Tieguanyin tea",100,0.0037,4.1,"Liu et al., 2015"
+9,EME--EME,ET-AAS,"Milk powder, Fish and Ocimum basilicum",584,0.003,11.8,This study

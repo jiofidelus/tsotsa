@@ -1,0 +1,38 @@
+,0,1,2
+0,connponent,,onit
+1,ID/Tagname,,
+2,MET(mg),methionine,mg
+3,ORN(mg),ornithine,mg
+4,PHE(mg),phenylalanine,mg
+5,PRO(mg),proline,mg
+6,SER(mg),serine,mg
+7,TAU(mg),taurine,mg
+8,THR(mg),threonine,mg
+9,TRP(mg),tryptophan,mg
+10,TYR(mg),tyrosine,mg
+11,VAL(mg),valine,mg
+12,GLU_A_HIS(mg),glutamine + histidine,mg
+13,ALA_A_ARG(mg),alanine+ arginine,mg
+14,PHE_A_TYR(mg),phenylalanine+tyrosine,mg
+15,CYS_A_MET(mg),cysteine + methionine,mg
+16,GLY_A_SER(mg),glycine+ serine,mg
+17,NPRO(g),"nitrogen,protein",g
+18,NNP(mg),"nitrogen,non-protein",mg
+19,NWHEY(g),"nitrogen,whey protein",g
+20,NNC(g),"nitrogen,non-casein",g
+21,NT(g),"nitrogen, total",g
+22,NFIBAD(g),acid detergent fibre nitrogen,g
+23,PROTCNT(g),"protein, total; calculated from total nitrogen",g
+24,PROTCNA(g),"protein,total;calculated from amino nitrogen",g
+25,PROTCNP(g),"protein, total; calculated from protein nitrogen",g
+26,PROTA(g),"protein, total; determined by direct analysis",g
+27,PROT-(g),"protein,total;method of determination unknown or variable",g
+28,XN,conversion factor to calculate total protein from nitrogen,
+29,Protein components,,
+30,ALBU(mg),albumin,mg
+31,CASN(mg),casein,mg
+32,LACFE(mg),lactoferrin,mg
+33,GLOB(mg),globulin,mg
+34,Other nitrogen-containing components,Other nitrogen-containing components,
+35,AMMON(mg),ammonia,mg
+36,CYAN(mcg),cyanide,mcg

@@ -1,0 +1,45 @@
+,0,1,2,3,4
+0,Origin,Extract,Method,Findings,Ref.
+1,Whole plant,,,,
+2,,,-Carotene,Fresh samples: 78.13% at 0.02 mg/L,
+3,,Methanolic,-Carotene,Dried samples: 66.67% at 0.02 mg/L,[22]
+4,,Methanolic,ABTS,Fresh samples: 76% at 0.02 mg/L,[22]
+5,,,ABTS,Dried samples: 68% at 0.02 mg/L,
+6,Leaves,,,,
+7,,Ethanolic,Prooxidant,IC5o=0.13 0.03 mg/mL,
+8,,Aqueous,DPPH,ICso =0.33 0.07 mg/mL,[47]
+9,,Aqueous,Prooxidant,ICso = 0.26  0.09 mg/mL,
+10,,,DPPH,IC5o = 4.65  0.02 mg/mL,
+11,,,Galvinoxyl,IC5o =11.98  0.01 mg/mL,
+12,,Ethanolic,ABTS,IC5o=34.520 mg/mL,
+13,,,Lipid,IC5o=2.4  0.06 mg/mL,
+14,,,peroxidation,IC5o=2.4  0.06 mg/mL,[50]
+15,"Klang Valley, Malaysia",,DPPH,IC5o=3.07  0.07 mg/mL,[50]
+16,,,Galvinoxyl,IC5o = 6.68  0.04 mg/mL,
+17,,Water,ABTS,ICso =5.22  0.07 mg/mL,
+18,,,Lipid,ICso =1.2  0.09 mg/mL,
+19,,,peroxidation,ICso =1.2  0.09 mg/mL,
+20,Malaysia,Ethanolic,DPPH,IC5o=23.6 13.2 mg/mL,[51]
+21,Malaysia,Aqueous,DPPH,IC5o =3.4 mg/mL,[51]
+22,,,DPPH,ICso = 0.21  0.02 mg/mL,
+23,,,ABTS,ICso =0.08  0.01 mg/mL,
+24,"Kuala Lumpur, Malaysia",Aqueous,Galvinoxyl,IC5o=0.03  0.002 mg/mL,[21]
+25,,,Lipid,ICso =0.04  0.001 mg/mL,
+26,,,peroxidation,,
+27,,,DPPH,ICso =0.33  0.07 mg/mL,
+28,,Aqueous,Galvinoxyl,ICso =0.15 0.04 mg/mL,
+29,,,ABTS,ICso=0.190.07 mg/mL,[16]
+30,"Kuala Lumpur, Malaysia",,DPPH,ICso = 0.21  0.02 mg/mL,[16]
+31,,Ethanolic,Galvinoxyl,ICso =0.08 0.01 mg/mL,
+32,,,ABTS,IC5o=0.03 0.003 mg/mL,
+33,,Methanol,,IC5o= 14.47 to 17.59 g/mL,
+34,,Ethyl,DPPH,ICso =35.72 to 38.69 g/mL,
+35,,acetate,,ICso =35.72 to 38.69 g/mL,[34]
+36,,Methanol,Lipid,IC5o =44.02-55.85 g/mL,[34]
+37,,Ethyl,peroxidation,IC5o = 16.44-18.99 ug/mL,
+38,,acetate,peroxidation,IC5o = 16.44-18.99 ug/mL,
+39,Fruits,,,,
+40,,Acetone,,IC5o=245.98 g/mL fresh mass,
+41,"South Andaman Island, India",Methanol,DPPH,IC5o=245.12 g/mL fresh mass,[18]
+42,,Aqueous,,ICso =227.77 g/mL fresh mass,
+43,,,DPPH,IC5o =12.8 mg/mL,[52]

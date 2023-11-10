@@ -1,0 +1,41 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Year,Tasting,Cultivar,Variety,Perceived,Perceived,Perceived,Perceived,Perceived,Flavor
+1,,event,type,,sweetness,earthiness,bitterness,intensity,complexity,liking
+2,2018,NYC,HGC,Blushing Not,3.85a,3.00ab,2.33a,3.26a,3.38,3.70a
+3,,,,Bashful,,,,,,
+4,2018,NYC,HGC,Moving,3.45a,2.94ab,2.20a,3.00a,3.15abc,3.54ab
+5,,,,Target,,,,,,
+6,2018,NYC,LGC,Snowglobe,3.23ab,2.58b,1.81a,2.63a,2.84abc,3.48ab
+7,2018,NYC,Check,Badger Flame,2.55b,3.19ab,2.11a,2.77a,2.54c,2.92b
+8,2018,NYC,Check,Bull's Blood,2.64b,3.32a,2.51a,3.00a,2.76bc,3.18ab
+9,2018,NYC,Check,Touchstone,3.44a,2.86ab,1.85a,3.10a,3.28ab,3.61ab
+10,,,,Gold,,,,,,
+11,2018,Chef,HGC,Blushing Not,3.57ab,2.65ab,1.43a,3.14a,2.43a,4.00a
+12,,,,Bashful,,,,,,
+13,2018,Chef,HGC,Moving,2.43bc,3.02ab,2.14a,2.71a,2.86a,3.71ab
+14,,,,Target,,,,,,
+15,2018,Chef,LGC,Snowglobe,4.00a,2.14b,1.57a,3.68a,3.57a,4.00a
+16,2018,Chef,Check,Badger Flame,2.00c,3.71a,2.57a,3.14a,2.43a,2.29b
+17,2018,Chef,Check,Bull's Blood,3.14abc,2.86ab,2.00a,2.86a,2.57a,3.00ab
+18,2018,Chef,Check,Touchstone,2.00c,3.71a,2.01a,3.18a,2.57a,2.86ab
+19,,,,Gold,,,,,,
+20,2019,FtF,HGC,Blushing Not,3.55ab,2.32ab,1.16c,2.50a,2.79a,4.11a
+21,,,,Bashful,,,,,,
+22,2019,FtF,HGC,Moving,2.79c,2.66a,1.71ab,2.72a,2.73a,3.72ab
+23,2019,FtF,LGC,Snowglobe,3.01bc,2.49a,2.15a,2.71a,2.81a,3.44b
+24,2019,FtF,Check,Avalanche,3.95ab,1.89b,1.41bc,2.76a,2.58a,3.78ab
+25,2019,FtF,Check,Chioggia,2.68c,2.76a,2.19a,2.84a,2.97a,3.46b
+26,2019,Hort,HGC,Blushing Not,4.11ab,2.22a,1.60b,2.89ab,2.89a,3.78a
+27,,,,Bashful,,,,,,
+28,2019,Hort,HGC,Moving,3.22ab,2.44a,2.04ab,2.59ab,2.74a,3.44a
+29,,,,Target,,,,,,
+30,2019,Hort,LGC,Snowglobe,3.33ab,2.11a,1.74ab,2.22ab,2.44a,3.11a
+31,2019,Hort,Check,Avalanche,2.74bc,1.91a,1.60b,1.81b,1.98a,2.77ab
+32,2019,Hort,Check,Chioggia,1.53c,2.67a,2.92a,3.00a,2.56a,1.89b
+33,2019,Chef,HGC,Blushing Not,4.17a,3.26a,2.02a,3.00ab,2.80a,4.00a
+34,,,,Bashful,,,,,,
+35,2019,Chef,HGC,Moving,2.67ab,3.50a,2.37a,3.40ab,3.32a,3.67a
+36,,,,Target,,,,,,
+37,2019,Chef,LGC,Snowglobe,4.17a,2.19a,1.92a,3.20ab,3.12a,3.67a
+38,2019,Chef,Check,Avalanche,2.50b,2.83a,2.17a,2.20b,2.91a,3.33a
+39,2019,Chef,Check,Chioggia,2.56b,3.33a,2.67a,3.90a,3.33a,4.00a

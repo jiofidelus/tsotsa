@@ -1,0 +1,17 @@
+,0,1,2
+0,Bias domain,Source of bias,Support for judgment
+1,Selection bias Random sequence,Selection bias Random sequence,State how the cachectic patients were selected in sufficient detail to allow an
+2,,generation,assessment of whether it should produce comparable groups
+3,,Allocation,Describe the control group (groups that did not receive cachectic intervention) or
+4,,concealment,compare between interventions in sufficient detail to determine whether
+5,,,intervention allocations were effective during enrollment
+6,Performance,Blinding of,"State all measures used, if any, to prevent trial participants from having the"
+7,bias,participantsa,knowledge of which intervention they received
+8,Detection,Blinding of outcome,"State all measures used, if any, to prevent influence of the knowledge of"
+9,bias,assessmenta,intervention received on the outcome assessment
+10,Attrition biasIncomplete outcome,Attrition biasIncomplete outcome,"Describe the completeness of outcome data for each endpoint, including"
+11,,dataa,incomplete and excluded participants from the analysis
+12,Reporting,Selective reporting,State how the endpoint reporting was done and what was the conclusion
+13,bias,,
+14,Other biases,"Anything else, ideally","Other biases not covered elsewhere in the examined domains. For example, the"
+15,,prespecified,inclusion of other tumors besides head and neck cancer in the analysis

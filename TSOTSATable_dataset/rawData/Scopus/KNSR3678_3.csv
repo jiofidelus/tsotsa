@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,To,Project,Year,Picking method,Num-,Number,3D,Environment,Environment,Harvest rate,Speed,,Damage rate,Issues,Note
+1,,,,,ber,of cam-,imaging,Modi-,Description,,Single,Overall,,to be,
+2,,,,,of,eras,tech-,Modi-,Description,,Single,Overall,,improved,
+3,,,,,arms,,niques,fied,,,arm,,,,
+4,,Dogtooth-,2018,Stem pinch+cut,1-2,N/A,Stereo,V&X,Modified-,N/A,8s/,N/A,N/A,Not,*Half rate of
+5,,Strawberry,,,,,,,Table top,,fruit*,,,speci-,human pickers
+6,,(Dogtooth,,,,,,,trough &,,,,,fied,
+7,,"Company,",,,,,,,Unmodi-,,,,,,
+8,,2020;,,,,,,,fied- Open,,,,,,
+9,,"Hodge,",,,,,,,field,,,,,,
+10,,2020),,,,,,,,,,,,,
+11,,Octinion-,2018,Fruit clasp+90twist.,1,3*,Stereo,,Table top,70%,3 s/fruit,,0%*,Path-,* 3 RGB cameras
+12,,Strawberry,,,,,,,trough,,,,,plan-,* Bruise-free as
+13,,(Octinion,,,,,,,,,,,,ning,claimed
+14,,"Company,",,,,,,,,,,,,End-,
+15,,2020;,,,,,,,,,,,,effector,
+16,,De Peter,,,,,,,,,,,,adapt-,
+17,,"et al.,",,,,,,,,,,,,ability,
+18,,Agrobot-,2018,Stem pinch+ cut,24,24,N/A,V,Table top,50-80%,5 s/fruit,N/A,N/A,Not,Need human to
+19,,Strawberry,,,,,,,trough &,,,,,speci-,do stem-cutting
+20,,(Agrobot,,,,,,,Open field,,,,,fied,and sorting
+21,,2020;,,,,,,,,,,,,,after harvesting
+22,,"Griffin,",,,,,,,,,,,,,
+23,,2020),,,,,,,,,,,,,
+24,,Traptic-,2019,Fruit clasp+pull,2,N/A,N/A,X,Open field,N/A,N/A,,N/A,Not,* Potential target
+25,,Strawberry,,,,,,,,,,,,speci-,crops include
+26,,(Traptic,,,,,,,,,,,,fied,"oranges,"
+27,,"Company,",,,,,,,,,,,,,melons and
+28,,2020;,,,,,,,,,,,,,peppers
+29,,2020),,,,,,,,,,,,,

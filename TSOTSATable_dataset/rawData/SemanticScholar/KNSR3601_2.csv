@@ -1,0 +1,19 @@
+,0,1,2,3,4
+0,Parameters,Description,"Analytical methods used, Assay name (Eurofood Codea)","Analytical methods used, Assay name (Eurofood Codea)","Analytical methods used, Assay name (Eurofood Codea)"
+1,,,Institute of Nutrition,LabNettac Stordal,ARC-Irene
+2,,,and Seafood,"A/S, Norway","Analytical Services,"
+3,,,"research, Norway",,South-Africa
+4,Protein,Determination of,PROT0916(ME61,93/28EOF(ME61,ASM 041 Dumas
+5,,crude protein,Kjeldahl method),Kjeldahl method),Combustion
+6,,,,,(ME73-protein
+7,,,,,from total nitrogen)
+8,Carbohydrate,Determination of,,HPLC(ME52,Enzymatic hydrolysis
+9,,sugar,,HPLC),
+10,,,,,(ME85
+11,,,,,spectrophotometry)
+12,,Determination of,,99/79/EU (ME70,Enzymatic hydrolysis
+13,,starch,,polarimetry),
+14,,,,,(ME85
+15,,,,,spectrophotometry)
+16,Fibre,Total dietary fibre,,AOAC (ME50,
+17,,,,gravimetric method),

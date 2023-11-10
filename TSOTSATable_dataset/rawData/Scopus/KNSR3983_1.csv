@@ -1,0 +1,38 @@
+,0,1,2
+0,,Adults,Children
+1,,n=113,n=106
+2,Age (year),39.9310.77,12.353.21
+3,Sex (Male) n (%),53 (46.9),56 (52.8)
+4,Marital status n (%),,
+5,Single,1815.9,99 (93.4)
+6,Married,91 (80.5),1(6.6)
+7,Spouse(dead/divorced,4 (3.6),
+8,Education n (%),,
+9,Illiterate and elementary schoo,15 (13.2),
+10,Guidance school,22(19.4),
+11,High school and diploma,39 (34.5),-
+12,University,37 (32.7),
+13,Education (Father) n (%),,
+14,Illiterate and elementary school,,20 (18.8)
+15,Guidance school,,30 (28.3)
+16,High school and diploma,,47 (44.3)
+17,University,,9 (8)
+18,Education(Mather)n (%),,
+19,Illiterate and elementary school,,17 (16)
+20,Guidance school,,35 (33)
+21,High school and diploma,,39 (36.8)
+22,University,,15 (14.2)
+23,Weight (kg),71.8215.18,44.7717.31
+24,Height (cm),165.3710.17,148.4316.78
+25,BMIa(kg/m2),26.43  4.32,19.584.56
+26,Wcb(cm),91.3611.60,70.4412.37
+27,Physical activity (METS min/week),547.12216.56,653.42  249.53
+28,Systolic blood pressure(mmHg),115.8811.00,103.0212.05
+29,Diastolic blood pressure (mmHg),72.318.99,59.547.17
+30,24 - hour urinary Sodium (mg/d),4130.81741.56,
+31,24 - hour urinary Potassium,3801.72861.51,
+32,(mg/d),,
+33,24 -- hour urinary Creatinine,1287.85577.22,
+34,(mg/d),,
+35,24 -- hour urinary Volume (ml/d),1174.82671.54,
+36,a BMI Body mass index,,

@@ -1,0 +1,22 @@
+,0,1,2,3,4,5
+0,,Boiled without,Boiled without,Water-soaked and,Water-soaked and,Water-soaked and
+1,Component,soaking,,,boiled,
+2,Component,seeds,total,seeds,total dish,total dish
+3,,,dish,,,
+4,Calcium,0.85,1.00,0.85,,1.00
+5,Iron,0.85,1.00,0.85,,1.00
+6,Magnesium,0.85,1.00,0.85,,1.00
+7,Phosphorus,0.90,1.00,0.90,,1.00
+8,Potassium,0.75,1.00,0.75,,0.90
+9,Sodium,0.75,1.00,0.75,,0.90
+10,Zinc,0.90,1.00,0.90,,1.00
+11,Copper,0.70,1.00,0.70,,1.00
+12,Carotenoids,1.00,1.00,1.00,,1.00
+13,a-tocopherol,0.90,1.00,0.90,,1.00
+14,Thiamin,0.65,0.80,0.65,,0.75
+15,Riboflavin,0.75,1.00,0.75,,1.00
+16,Niacin,0.65,0.80,0.65,,0.75
+17,Vitamin B6,0.70,0.80,0.70,,0.70
+18,Folate,0.50,0.60,0.50,,0.55
+19,Vitamin C,0.60,0.60,0.60,,0.60
+20,Inositol hexaphosphate(IP6)*,0.67,0.74,0.67,,0.74

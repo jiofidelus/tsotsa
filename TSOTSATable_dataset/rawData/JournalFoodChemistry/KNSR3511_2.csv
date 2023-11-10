@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6
+0,Biosensorsa,Detection limit (M),Linear range (mM),Methodsb,Sensitivity (Acm,Kapp(mM),References
+1,HRP/PEG,0.67,0.0020.1,CV,-,1.38,Xu et al.2004)
+2,HRP/LDH/Au,9,00.2,"CV,CA",-,-,Baccar and Hafaiedh (2011)
+3,HRP/TiO2,,10-100,DPV,22.22,-,Prakash et al.(2015)
+4,HRP/Au/ DVB-AA,0.5,0.001-8.0,CV,,,Xu et al.2007
+5,HRP-Pd/f-GE,0.05,0.0253.5,"CV,DPV",92.82,0.11,Nandini et al.(2013
+6,Pt/MRGO/chit/HRP,1.53,0.01-1,"CV,EIS",48.08,,Waifalkar et al.2018
+7,HRP-AG/GC,0.1,0.0006-0.132,CV,,-,Wang et al.2007
+8,PTHNWs-HRP/Au,0.3,0.0005-0.13,"CV,CA",168,,Shi et al.2008)
+9,HRP/Au/TiO2,2,0.005-0.4,"CV,CA",-,,Kafi et al.2009
+10,G-FeO4/CH/HRP/ITO,0.6,0.005-3.81,"CV,EIS",132,5.8,Zhou et al.2011)
+11,HRP/RuNPs/GCE,,0.059-0.615,"CV,EIS",--,,Periasamy et al.2011
+12,HRP/DMSNs/GCE,0.28,0.003-0.068,CV,19.1,0.0114,Bai et al.2019
+13,Cat/OE,3,0.01-1.0,CV,-,,Choi and Yiu (2004)
+14,Cat/Ru,25,0.1-1,CV,-,,Ortega et al. (2013)
+15,Cyt. c/ MPCE,14.6,0.020.24,CV,-,,Zhang(2008)
+16,Cyt.c/Au,0.63,0.01-12,"CV,CA",-,-,Zhu et al.2009)
+17,Nf/Cyt.c-VAErGO/GCE,2.3,0.005-2.0,"CV,CA",46.3,,Thirumalai et al.(2017)
+18,Cytc/TPP-HA[TFSI]/MWCNT/,6.2,0.020-0.892,CV,0.14,-,Manoharan et al.(2019)
+19,GCE,,,,,,
+20,Cyt.c/NiO-NPs/cMWCNT/PANI/,0.2,0.003-0.7,"CV,EIS",3.3,-,Lata et al.2012)
+21,Au,,,,,,
+22,Cyt.c/Au/CP,10,0.01-1.0,CV,,2.28,Ju et al.(2002)
+23,Cyt.c/Au/Chit,9.8,0.85-13,"CV,CA",-,1.2,"Feng,Zhao,Xu,and Chen (2005)"
+24,ITO/AuNP/Cyt.c,0.5,0.16,"CV,DPV",-,,Yagati et al.2012
+25,MPA-Cyt.c/Au,1,0-0.25,CV,,33,Suarez et al.2013
+26,Nf/Cyt.c-VAErGO/GCEs,2.3,0.005-2.0,"CV,CA",46.3,5.4,Thirumalai et al.(2017)

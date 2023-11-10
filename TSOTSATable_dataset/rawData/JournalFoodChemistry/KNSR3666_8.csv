@@ -1,0 +1,38 @@
+,0,1,2,3,4
+0,Food,Species,Compounds,Production,References
+1,,,,system,
+2,Peaches,Prunus,-tocopheroly-,Conventional,"Carbonaro,"
+3,,"persica L.,",tocopherol,,"Mattera,"
+4,,cv.Regina,,,"Nicoli,"
+5,,bianca,,,"Bergamo,"
+6,,,,,"Cappelloni,"
+7,,,,,2002
+8,Sunflower,,-tocopherol,Conventional,"Perretti,"
+9,seed oil,,,,"Finotti,"
+10,,,,,"Adamuccio,"
+11,,,,,"Della Sera,&"
+12,,,,,"Montanari,"
+13,,,,,2004
+14,Plums,Prunus,-tocopheroly,,Lombardi-
+15,,domestica,-tocopherol,Conventionalt,"Boccia,"
+16,,"L., cv.",,Organic,"Lucarini,"
+17,,Shiro,,,"Lanzi,"
+18,,,,,"Aguzzi,"
+19,,,,,"Cappelloni,"
+20,,,,,2004
+21,Pears,Pyrus,-tocopherol,Organic,"Carbonaro,"
+22,,communis,,,"Mattera,"
+23,,"L.,cv.",,,"Nicoli,"
+24,,Williams,,,"Bergamo,&"
+25,,,,,"Cappelloni,"
+26,,,,,2002
+27,Passion,P.edulis,Total,Organic,"Pertuzatti,"
+28,fruits,Sims f.,Tocopherols+,,"Sganzerla,"
+29,,"flavicarpa,",-Tocopherols-,,"Jacques,"
+30,,Degener,Tocopherol,,"Barcia,&"
+31,,,,,"Zambiazi,"
+32,,,,,2015
+33,Kiwifruits,Actinidia,-tocopheroly-,No effects,D'Evoli et al.
+34,,"deliciosa,",tocopheroly-,,2013
+35,,CV.,tocotrienol,,
+36,,Hayward,,,

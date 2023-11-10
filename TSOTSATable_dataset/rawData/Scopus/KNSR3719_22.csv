@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,,Industry,Output,Value-added,no.ofjobs,Income
+1,Wholesale/Retail,Wholesale/Retail,"$44,655,604","$30,125,823",193.4,"$14,856,115"
+2,Manufacturing,Manufacturing,"$967,197","$329,597",2.4,"$147,872"
+3,Transportation & Warehousing,Transportation & Warehousing,"$2,209,480","$1,219,520",16.2,"$922,691"
+4,Services**,,"$21,234,018","$12,621,573",148.1,"$7,678,444"
+5,-Food & accommodation,-Food & accommodation,"$1,211,072","$655,803",19.4,"$451,083"
+6,-Other,,"$20,022,946","$11,965,770",128.7,"$7,227,362"
+7,Agriculture,,"$28,107","$11,634",0.7,"$5,184"
+8,Other,,"$2,205,620","$1,026,696",13.2,"$807,781"
+9,Total**,,"$71,300,026","$45,334,843",374.1,"$24,418,088"

@@ -1,0 +1,10 @@
+,0,1
+0,Nutrient,Purpose
+1,Animal-source energy (kcal),Marker for dietary quality
+2,Animal-source protein (g),Marker for dietary quality; affects zinc bioavailability
+3,Meat/fish/poultry-source protein (g),Affects iron bioavailability
+4,Animal-source vitamin A(ug RAE),Refine calculation of vitamin A bioavailability
+5,Meat/fish/poultry iron (mg),Affects iron bioavailability
+6,Phytate (mg),Affects iron and zinc bioavailability
+7,Sucrose (g),Marker for dietary quality
+8,Essential amino acids (mg),Calculation of protein quality

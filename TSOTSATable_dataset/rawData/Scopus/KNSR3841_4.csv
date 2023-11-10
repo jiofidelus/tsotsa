@@ -1,0 +1,28 @@
+,0,1,2,3,4,5
+0,,No.of effect sizes,OR (95% CI,P within,12%,P between
+1,Overall,11,"0.88 (0.73, 1.06)",0.00,69.5,
+2,Representativeness of population,,,,0.25,
+3,Representative,7,"0.930.77,1.11)",0.05,51.0,
+4,Non-representative,4,"0.59 (0.25, 1.35)",<0.001,84.4,
+5,Questionnaire,,,,,0.00
+6,FFQ,7,"0.92 (0.76, 1.10)",0.01,61.9,
+7,Recall,3,"1.07 (0.81, 1.43)",0.35,3.7,
+8,Record,1,"0.43 (0.28,0.66)",,-,
+9,Outcome,,,,,0.45
+10,T2D,3,"1.07(0.81,1.43)",0.35,3.7,
+11,High blood glucose (HBG),8,"0.83 (0.66, 1.04)",<0.001,76.8,
+12,Health status of participants,,,,0.00,
+13,Healthy,8,"0.82 (0.64, 1.04)",0.00,69.0,
+14,Un healthy,3,"1.07 (0.96, 1.19)",0.43,0.0,
+15,Mean age,,,,,0.28
+16,<50,6,"0.82 (0.53, 1.27)",0.00,70.9,
+17,50,5,"0.90 (0.73, 1.11)",0.00,72.5,
+18,Asian vs.Non-Asian counties,,,,0.00,
+19,Asian,6,"0.79 (0.61,1.04)",0.00,74.8,
+20,Non-Asian,5,"1.07(0.97,1.18)",0.54,0.0,
+21,Development status of study location,,,0.01,,
+22,Developed,8,"0.86 (0.68, 1.07)",0.00,70.3,
+23,Developing,3,"0.71 (0.23, 2.21)",0.26,25.1,
+24,Quality score,,,,,0.23
+25,Low quality(Scores7,3,"0.62 (0.26, 1.50)",<0.001,89.1,
+26,High quality(Scores>7),8,"0.92 (0.77, 1.10)",0.07,46.4,

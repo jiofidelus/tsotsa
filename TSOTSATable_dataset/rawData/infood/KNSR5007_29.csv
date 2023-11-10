@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Food,Code,Letter,Name,Energy,Energy,Protein,Fat,Carbo-,Fibre Phytate,Fibre Phytate,Water
+1,group,Code,code,Name,Energy,Energy,Protein,Fat,hydrate,,,Water
+2,,,,,kcal,kJ,g,g,g,g,g,g
+3,9.5 - Other Vegetables,9.5 - Other Vegetables,9.5 - Other Vegetables,,,,,,,,,
+4,264,4035,BI,Aubergine,14,59,0.7,0.0,3.0,2.5,0.03,93
+5,264,4566,VT,Bitter tomato,14,59,0.9,0.0,2.8,1.5,0.03,93
+6,264,4037,BK,Cabbage,22,92,1.9,0.0,3.8,2.7,0.03,90
+7,264,4042,BP,"Chilli pepper, fresh",26,109,1.8,0.3,4.2,3.5,0.03,86
+8,264,4043,BQ,"Chilli pepper, dried",283,1190,15.0,11.0,33.0,23.0,0.20,90
+9,264,4570,VX,Okra,17,71,2.0,0.1,2.3,4.0,0.03,90
+10,264,4049,BW,"Okra, dried",159,665,17.8,1.2,20.5,35.6,0.20,11
+11,264,4034,BH,Onions,23,96,0.9,0.0,5.2,1.3,0.01,93
+12,262,4549,VC,"Pumpkin, boiled",18,75,0.5,0.0,3.4,1.0,0.03,95
+13,262,4547,VA,Pumpkin and groundnuts,73,305,2.8,5.1,4.3,1.8,0.08,87
+14,264,4551,VE,Sweet potato,94,393,1.2,0.6,22.3,2.5,0.01,69
+15,264,4033,BG,Tomatoes,14,59,0.9,0.0,2.8,1.5,0.03,93
+16,283,4127,EW,Tomato paste,76,318,5.0,0.3,14.2,2.8,0.02,75
+17,264,4560,VN,Yam,119,498,1.9,0.2,27.8,2.5,0.01,69
+18,9.5.1 - Beans,9.5.1 - Beans,,,,,,,,,,
+19,263,4210,IB,"Beans, boiled",142,594,10.8,0.5,25.2,7.4,0.44,60
+20,263,4226,IR,"Locust beans, fermented (Tulingo)",423,1770,37.0,25.5,12.0,3.5,0.98,22
+21,263,4228,IT,Locust Bean Pod Powder (Nete munko),220,920,3.1,0.3,54.6,24.4,0.93,15
+22,263,4227,IS, Nete mono and sugar,49,206,0.1,0.0,12.0,1.5,0.12,86
+23,9.6 - Vegetable Oil Stew - Oil Sauce,9.6 - Vegetable Oil Stew - Oil Sauce,9.6 - Vegetable Oil Stew - Oil Sauce,9.6 - Vegetable Oil Stew - Oil Sauce,,,,,,,,
+24,258,4552,VF,Vegetable oil stew (oil sauce),294,1230,1.4,30.3,4.1,1.0,0.03,64
+25,258,4197,HO,Vegetable oil stew and cassava,266,1112,1.3,24.3,11.0,1.2,0.04,63
+26,258,4589,WQ,Vegetable oil stew and pumpkin,142,595,0.9,13.6,3.7,1.0,0.03,81
+27,271,4199,HQ,Vegetable oil stew and fresh challo,213,889,10.3,18.4,2.4,0.6,0.02,69
+28,271,4200,HR,Vegetable oil stew and fresh furo,213,889,10.3,18.4,2.4,0.6,0.02,69
+29,271,4201,HS,Vegetable oil stew and fresh kujalo,213,889,10.3,18.4,2.4,0.6,0.02,69
+30,271,4540,UT,Vegetable oil stew and fresh fish (unspecified),213,889,10.3,18.4,2.4,0.6,0.02,69
+31,271,4333,MU,Vegetable oil stew and shellfish,205,856,8.4,18.2,2.4,0.6,0.02,69
+32,273,4196,HN,Vegetable oil stew and meat,243,1016,14.6,19.5,2.2,0.5,0.02,64
+33,273,4185,HC,Vegetable oil stew and chicken,234,978,8.1,21.2,2.7,0.6,0.02,68

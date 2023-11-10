@@ -1,0 +1,21 @@
+,0,1,2,3,4
+0,Parameters,Parameters,n=1044,n=1501,p-Value b
+1,Cigarette smoking(%,Cigarette smoking(%,,,
+2,No,No,88.4,81.5,<0.001
+3,Yes,Yes,11.6,18.5,<0.001
+4,Current chronic diseases(%,,,,
+5,No,No,76.3,88.9,<0.001
+6,Yes,Yes,23.7,11.1,<0.001
+7,Special diet (%),Special diet (%),,,
+8,No,No,73.3,86.9,<0.001
+9,Yes,Yes,26.7,13.1,<0.001
+10,Nutritional knowledge(%),,,,
+11,Low,Low,6.7,14.7,
+12,Average,Average,39.2,44.9,<0.001
+13,High,High,51.8,38.5,
+14,Number of meals/days (%)c,,,,
+15,,4,38.6,30.8,
+16,5,5,17.2,13.5,<0.001
+17,Fortified food consumption (%) c,,,,
+18,No,No,26.0,45.0,<0.001
+19,Yes,Yes,54.7,45.0,<0.001

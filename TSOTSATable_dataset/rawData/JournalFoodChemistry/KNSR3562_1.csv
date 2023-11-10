@@ -1,0 +1,34 @@
+,0,1,2,3,4
+0,Source,Protein,Origin,Use,References
+1,Animal,,,,
+2,,Lysozyme,Egg,Active,"Syngai & Ahmed,"
+3,,,,packaging,2019;Pranata
+4,,,,,"et al.,2019"
+5,,Tropomyosin;,Chitins and,Film,de la Caba et al.
+6,,arginine kinase,Chitosan from,,"2019;Hajji et al.,"
+7,,,shellfish,,2021
+8,,Casein,Milk,Film/,"Mohamed et al.,"
+9,,,,coating,2020
+10,,Whey proteins,Milk,Film,"Wagh et al.,"
+11,,,,,"2014;Oses et al.,"
+12,,,,,2009
+13,,Collagen,Connective,Film/,Wang and Rhim
+14,,,tissues,coating,2015;Ahmad
+15,,,,,"et al.,2016"
+16,,Gelatin,"Bovine hide,",Film/,"Ramos et al.,"
+17,,,pig skin,coating,2016;
+18,,Keratin,Feather,Film,Pardo-Ibanez
+19,,,,,"et al.,2014"
+20,Plant,,,,
+21,,Quinoa proteins,Quinoa,Film,"Caro et al.,2016"
+22,,Sunflower,Sunflower,Film,"Salgado et al.,"
+23,,proteins,,,2013
+24,,Soy proteins,Soybeans,Film/,"Swain et al.,"
+25,,,,coating,2004;Han et al.
+26,,,,,2018
+27,,Pea proteins,Pea,Film/,"Acquah et al.,"
+28,,,,coating,2020
+29,,Zein,Corn,Film/,"Cho et al.,2010"
+30,,,,coating,
+31,,Gluten,Wheat,Coating,"Mihalca et al.,"
+32,,,,,2021

@@ -1,0 +1,15 @@
+,0,1,2,3,4
+0,,,Use of Nutrition Labels,,
+1,,Unaware Group*,Aware only Group **,Aware and Use Group ***,P for Trend ****
+2,CKD cases with moderate risk of progression +,CKD cases with moderate risk of progression +,,,
+3,Cases/Non-cases,530/8080,"392/16,165",93/6398,
+4,Age-adjusted,1.00 (ref,0.81(0.68-0.96,0.81 (0.62-1.07),0.05
+5,Multivariable-adjusted,1.00(ref),0.82(0.69-0.97),0.79(0.59-1.05,0.04
+6,CKD cases with high risk of progression tt,CKD cases with high risk of progression tt,,,
+7,Cases/Non-cases,156/8080,"117/16,165",26/6398,
+8,Age-adjusted,1.00 (ref),0.79 (0.611.03),0.64 (0.39-1.06,0.03
+9,Multivariable-adjusted,1.00 (ref),0.75(0.57-0.99,0.58(0.35-0.96,0.01
+10,CKD cases with very high risk of progression +++,CKD cases with very high risk of progression +++,,,
+11,Cases/Non-cases,69/8080,"42/16,165",12/6398,
+12,Age-adjusted,1.00 (ref),0.84 (0.521.38),0.92 (0.422.01),0.68
+13,Multivariable-adjusted,1.00 (ref),0.81 (0.521.27),0.91 (0.43-1.93),0.61

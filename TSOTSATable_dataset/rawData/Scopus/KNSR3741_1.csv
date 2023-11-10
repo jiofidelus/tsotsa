@@ -1,0 +1,22 @@
+,0,1,2,3,4
+0,Source,"Land use, m2","CO2-equivalents, kg","Freshwater withdrawals,L","Eutrophying emissions, g"
+1,Grains,4.6,2.7,,
+2,- Maize,3.1,n.a.,227,4.2
+3, Rice,3.9,n.a.,3167,49.4
+4,- Wheat and rye,5.8,n.a.,531,5.9
+5,-- Oatmeal,5.8,n.a.,371,8.6
+6,Tofu,2.2,0.44,93,3.9
+7,Peas,3.4,0.44,178,3.4
+8,Groundnuts,3.5,1.23,708,5.4
+9,Other legumes,7.9,0.84,204,8.0
+10,Nuts,7.9,0.26,2531,11.7
+11,Milk,27.1,9.5,1904,44.6
+12,Cheese,39.8,10.82,1375,44.6
+13,Dairy herd,21.9,16.87,1375,185.1
+14,Beef herd,163.6,49.89,728,151.2
+15,Pig meat,184.8,19.85,1110,47.2
+16,Lamb and mutton,184.8,19.85,901,48.5
+17,Poultry meat,7.1,5.7,1619,28.1
+18,"Fish, farmed",2.0,5.98,1619,103.1
+19,"Prawns, farmed",2.0,18.19,2380,153.8
+20,Eggs,5.7,4.21,521,19.6

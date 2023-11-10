@@ -1,0 +1,70 @@
+,0,1,2,3,4,5
+0,Foodstuffs,Salt/origin/composition,Concentration,Variation of cooking time,pH,References
+1,,,,%*,,
+2,Cowpeas (Vigna unguiculata L. Walp),Lake deposits / Ghana,0.02g/L,-8.10,9.9,"Ankrah &Dovlo,1978"
+3,,,0.04 g/L,16.21,9.9,
+4,,,0.06 g/L,21.02,9.9,
+5,,,0.08 g/L,26.27,9.9,
+6,,,0.1 g/L,34.38,9.9,
+7,,"Lake deposits/Nigeria (25.2% CO32, 5.54%",0.1g/L,-11.11,9.8,"Edijala,1980"
+8,,HCO,0.5 g/L,22.22,10.1,
+9,,,1.0 g/L,22.22,10.1,
+10,,,0.1 g/L,33.33,10.1,
+11,,NaHCO3,0.1 g/L,0.00,8.6,
+12,,,0.5 g/L,-11.11,8.6,
+13,,,5.0 g/L,22.22,8.7,
+14,,,5.0 g/L,22.22,8.6,
+15,,Lake deposits/Nigeria,1.0 g/L,22.22,10.3,"Uzogara, Morton,& Daniel"
+16,,NaHCO3,1.0 g/L,22.22,8,1992
+17,,"Lake deposits/Nigeria (23.9% CO2,13.7%",0.5g/L,33.33,10,"Uzogara et al., 1988"
+18,,HCO,1.0 g/L,41.67,10.3,
+19,,,5.0 g/L,-41.67,10.8,
+20,,NaHCO3,0.5 g/L,41.67,7.5,
+21,,,1.0 g/L,41.67,8,
+22,,,5.0 g/L,-25.00,8.2,
+23,,,10.0 g/L,25.00,8.2,
+24,,NaCl,1.0 g/L,+1.15,NR,"Onayemi et al., 1986"
+25,,Lake deposits/Nigeria,3.0g/L,37.40,NR,
+26,,,5.0 g/L,42.72,NR,
+27,,NaHCO3,1.0g/L,34.21,NR,
+28,,,3.0 g/L,36.84,NR,
+29,,,5.0 g/L,44.71,NR,
+30,,NaHCO3/NaCO buffer,NR,42.59,8.4,
+31,,,NR,41.29,9.8,
+32,,Citrate buffer,NR,+1.34,4.4,
+33,,,NR,+0.37,6.4,
+34,,Lake deposits/Nigeria,0.2 g/L,19.00,NR,"Onwuka &Okala,2003"
+35,,,0.4 g/L,22.00,NR,
+36,,,0.6 g/L,21.50,NR,
+37,,NaHCO3,0.2 g/L,25.00,NR,
+38,,,0.4 g/L,25.00,NR,
+39,,,0.6 g/L,26.00,NR,
+40,,NaCl,0.2 g/L,12.25,NR,
+41,,,0.4 g/L,-15.50,NR,
+42,,,0.6 g/L,-20.50,NR,
+43,,CaCl2,0.2 g/L,+55.00,NR,
+44,,,0.4 g/L,+55.00,NR,
+45,,Lake deposits/Nigeria,0.1g/L,+49.50,NR,
+46,Africa yam beans (Sphenostylis,Lake deposits/Nigeria,0.1g/L,-12.27,NR,
+47,sternocarpa,,0.2 g/L,17.27,NR,
+48,,,0.3 g/L,19.09,NR,
+49,,NaHCO3,0.1 g/L,19.09,NR,
+50,,,0.2 g/L,24.55,NR,
+51,,,0.3 g/L,30.00,NR,
+52,,NaCl,0.1 g/L,11.36,NR,
+53,,,0.2 g/L,-12.27,NR,
+54,,,0.3 g/L,19.09,NR,
+55,,CaCl2,0.1 g/L,+181.81,NR,
+56,,,0.3 g/L,+90.91,NR,
+57,Common beans (Phaseolus vulgaris),Lake deposits/Uganda,2.5 g/L,24.90,9.6,"Bergeson et al., 2016"
+58,,NaCl,2.5 g/L,+7.70,7.7,
+59,,Plant-based ashes filtrates,22.5%(V/V),17.96,10.5,
+60,,Lake deposits/Tanzania,4%(W/W),30.55,9.65,"Mamiro et al., 2011"
+61,,Plant-based ashes/Tanzania,4%(W/W),26.11,9.74,
+62,Parkia biglobosa Benth,Evaporites of plant-based ash filtrates/,3.0 g/L,75.00,NR,"Doumta & Tchiegang,2012"
+63,,Cameroon,,,,
+64,Treculia africana,Lake deposits/Nigeria,NR,68.80,NR,"Nzomiwu,1990"
+65,Mucuna (Mucuna pruriens),Lake deposits/Kenya,5.0g/L,68.80,NR,"Wanjekeche et al.,2003"
+66,,Plant-based ash filtrates/Kenya,NR,73.33,NR,
+67,,,NR,-60.00,NR,
+68,,Citric acid,5.0 g/L,44.44,NR,

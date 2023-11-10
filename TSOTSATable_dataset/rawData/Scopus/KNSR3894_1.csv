@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Analytes,Transition,Fragmentor,College Energy,Retention Time (min),Polarity
+1,GA3,204.13 > 136,99,16,2.30,Positive
+2,GA3,345.13 > 239.1,162,12,3.34,Negative
+3,IAA,137>93,89,20,4.01,Negative
+4,IAA,174.1 > 130,85,8,4.30,Negative
+5,ABA,263.1 > 153,104,8,5.34,Negative
+6,JA,209.12 > 59.1,118,12,6.47,Negative
+7,IBA,202.1 > 158,128,12,6.57,Negative
+8,MeIAA,190.1 >130,84,24,6.91,Positive
+9,MeSA,153.1 > 121,65,16,7.74,Positive
+10,MeJA,225.15 > 151,95,12,9.45,Positive
+11,BL,481.36 > 445.4,133,12,9.66,Positive
+12,TPP,327 > 215,170,30,12.60,Positive

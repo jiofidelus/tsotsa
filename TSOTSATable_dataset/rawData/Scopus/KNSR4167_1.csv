@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,Polymer,Indicator compound,Indicator ions (m/z)*,Calibration function,R2,LOD (g),Linearity range (g)
+1,PE,"-Alkenes (e.g., C14)",83/97,y=3020x-971,0.9995,0.1,0.5200
+2,,",-Alkenes",85/99,Reference for identification,,,
+3,,"-Alkenes (e.g., C16)",83/97,,,,
+4,PP,"2,4-Dimethyl-1-heptene",70/126,y=74879x-3710,0.9994,0.05,0.1200
+5,PS,Styrene,104/78,Reference for identification,,,
+6,,"5-Hexene-1,3,5-triyltribenzene",91/207,"y=258109x -128,641",0.9981,0.01,0.0550
+7,PET,Dimethyl terephthalate,163/194,"y=641910x-18,538",0.9997,0.005,0.005-30
+8,PVC,Benzene,78/52,Reference for identification,,,
+9,,Naphthalene,128,y=16027x+903,0.9989,0.01,0.05100
+10,PA-6,e-Caprolactam,113,"y=109823x-69,421",0.9994,0.1,0.1150
+11,PMMA, Methyl methacrylate,69/41/100,"y=602538x-23,486",0.9999,0.005,0.0150

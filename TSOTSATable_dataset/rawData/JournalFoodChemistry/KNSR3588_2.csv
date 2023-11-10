@@ -1,0 +1,71 @@
+,0,1,2,3,4,5
+0,Plant of spice,Source of SEOs or,Target bacterial species,MIC value,MIC determination/treatment method,References
+1,,extraction,,,,
+2,Clove,Plant,Escherichia coli,MIC2.5uL/mL,disc diffusion,"Oulkheir et al., 2017)"
+3,,,Salmonelle spp,MIC:2.5uL/mL,,
+4,,,Pseudomonas aeruginosa,MIC:5 uL/mL,,
+5,,,Streptocoque group D,MIC: 2.5 uL/mL,,
+6,,,Staphylococcus aureus,MIC:5 uL/mL,,
+7,Star anise,Fruit,Bacillus subtilis,,agar-well diffusion and broth,"Tian & Li,2015"
+8,,,Escherichia coli,,microdilution,
+9,Cardamom,Seed,Campylobacter jejuni,MIC0.025uL/,agar-well diffusion and broth,"(Mutlu-Ingok & Karbancioglu-Guler,"
+10,,,Campylobacter coli,mL,microdilution,2017)
+11,,,,MIC:0.025uL/,,
+12,,,,mL,,
+13,Fennel,Seeds,Staphylococcus aureus,MIC0.781uL/,broth macro-dilution,"Abdurahim et al.,2017"
+14,,,Escherichia coli,mL,,
+15,,,Pseudomonas aeruginosa,MIC0.781uL/,,
+16,,,,mL,,
+17,,,,MIC25uL/mL,,
+18,Cinnamon,Bark,Escherichia coli,MIC: 4.88 uL/mL,agar disc diffusion,"El Atki et al.,2019"
+19,,,Staphylococcus aureus,MIC: 4.88 uL/mL,,
+20,,,Pseudomonas aeruginosa,MIC19.53 uL/,,
+21,,,,mL,,
+22,,Bark,Escherichia coli,MIC2.5 uL/mL,disc diffusion,"Oulkheir et al., 2017)"
+23,,,Salmonelle spp,MIC5uL/mL,,
+24,,,Klebsiella pneumonia,MIC2.5 uL/mL,,
+25,,,Pseudomonas aeruginosa,MIC: 5 uL/mL,,
+26,,,Streptocoque group D,MIC5uL/mL,,
+27,,,Staphylococcus aureus,MIC:5 uL/mL,,
+28,,Plant,Listeria monocytogenes,MIC:0.1 mg/mL,disc diffusion,"(Somrani et al., 2020"
+29,Oregano,Plant,Aliyclobacillus Acidiphilus,MIC: 125 g/mL,96-well microplate microdilution,"Dutra et al.,2019"
+30,Oregano,Plant,Aliyclobacillus,MIC: 125 g/mL,technique,
+31,,,cycloheptanicus,MIC: 62.5 g/mL,,
+32,,,Aliyclobacillus herbarius,MIC: 62.5 g/mL,,
+33,,,Aliyclobacillus,MIC:2.25 mg/,,
+34,,,acidoterrestris,mL,,
+35,,,Escherichia coli,,,
+36,Thyme,Plant,Escherichia coli,MIC5mg/mL,disc diffusion,Oulkheir&Moukale2017)
+37,,,Salmonelle spp,MIC:10 mg/mL,,
+38,,,Streptocoque group D,MIC5mg/mL,,
+39,,,Staphylococcus aureus,MIC:10 mg/mL,,
+40,Caraway,Seeds,Staphylococcus aureus,MIC: 0.62 mg/,Disc Diffusion,"Sahar et al., 2013"
+41,Dill,Seeds,Staphylococcus aureus,MIC: 0.62 mg/,broth dilution technique,"(Derakhshan, 2017)"
+42,,,Clinical V. cholera,mL,,
+43,,,Escherichia coli,MIC:0.7 mg/mL,,
+44,,,,MIC:1.25 mg/,,
+45,,,,mL,,
+46,Garlic,Bulbs,Escherichia coli,MIC:70l/mL,vapor-phase,(Zhang& Wang 2019)
+47,,,Salmonella enteritidis,MIC:80 l/mL,,
+48,,,Staphylococcus aureus,MIC: 60 l/mL,,
+49,,,Bacillus subtilis,MIC80l/mL,,
+50,,Bulbs,Listeria monocytogenes,MIC: 0.1 mg/mL,disc diffusion,"(Somrani, et al. 2020)"
+51,Pepper,Berries,Staphylococcus aureus,MIC: 3.9 g/mL,agar well diffusion,"Morsy &Abd El-Salam,2017"
+52,,,Bacillus subtilis,MIC: 0.98 g/mL,,
+53,,,Escherichia coli,MIC:1.95 g/mL,,
+54,Assafoetida,Seeds,Bacillus subtilis,MIC:12g/mL,microdilution,"Samadi et al., 2016"
+55,,,Staphylococcus,MIC: 12 g/mL,,
+56,,,Klebsiella,MIC: 24 g/mL,,
+57,,,Escherichia coli,MIC: 24 g/mL,,
+58,,,Pseudomonas,MIC: 24 g/mL,,
+59,,Seeds,Methicillin resistant S.,MIC1l/mL,Disc diffusion,"Zomorodian et al.,2018"
+60,,,aureus,MIC:2 l/mL,,
+61,,,Streptococcus mutans,MIC:1l/mL,,
+62,,,Enterococcus faecalis,MIC:1l/mL,,
+63,,,Bacillus cereus,MIC: 2 l/mL,,
+64,,,Listeria monocytogenes,MIC:16l/mL,,
+65,,,Escherichia coli O157,MIC:64l/mL,,
+66,,Plant,Multidrug resistant P.,,broth dillution,
+67,Ginger,Plant,Bacillus subtilis ATCC 6633,MIC: 62.5 l/mL,broth dillution,"Hamad et al., 2016"
+68,Onions,Plant,Listeria monocytogenes,MIC: 0.025 mg/,disc diffusion,"Somrani, et al. 2020)"
+69,,,,mL,,

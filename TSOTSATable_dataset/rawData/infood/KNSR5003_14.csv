@@ -1,0 +1,44 @@
+,0,1,2,3,4,5,6
+0,,,"Boiled,drained",,,Boiled,
+1,Specie/Common,,(only seeds),,,(cooking water+seeds),
+2,name,YF,(source)/description,Food,YF,source/description,Food
+3,,YF,(source)/description,Item ID,YF,source/description,Item ID
+4,Phaseolus vulgaris L,,,,,,
+5,Common bean,2.67,"(1) common bean,",PHVO11;,4.33,"(1) Common bean,",PHV012;
+6,(all types),,"soaked,drained, boiled",PHV023;,,"soaked,drained, boiled",PHV024;
+7,,,drained,PHV025;,,(water+seeds),PHV026;
+8,,,,PHV029,,,PHV030
+9,Black turtle bean,"2.353)beans,black,soaked,PHV013;","2.353)beans,black,soaked,PHV013;","2.353)beans,black,soaked,PHV013;",4.33,"2)from common bean,",PHV014;
+10,,,boiled,PHV027,,"soaked,drained, boiled",PHV028
+11,,,,,,(water+seeds),
+12,Kidney bean,2.61,(4) kidney beans dried,PHV015,"4.33*(2) from common bean,","4.33*(2) from common bean,",PHV016
+13,,,(soaked and boiled),,,"soaked,drained, boiled",
+14,,,,,,(water+seeds),
+15,Kidney bean Red,2.61,(4)kidney beans dried,PHV017,"4.33'(2) from common bean,F","4.33'(2) from common bean,F",PHV018
+16,,,(soaked and boiled),,,"soaked,drained, boiled",
+17,,,,,,(water+seeds),
+18,Navy bean,2.60,(4) haricot beans dried,PHV019,4.332) from common bean,4.332) from common bean,PHV020
+19,,,(soaked and boiled),,,"soaked,drained,boiled",
+20,,,,,,(water+seeds),
+21,Pinto bean,2.38,(4) pinto beans dried,PHV021,"4.33* (2) from common bean,","4.33* (2) from common bean,",PHV022
+22,,,(soaked and boiled),,,"soaked,drained,boiled",
+23,,,,,,(water+seeds),
+24,Phaseolus lunatus L,,,,,,
+25,Lima bean,2.50,(4)butter beans,PHL002,"4.33*(2) from common bean,","4.33*(2) from common bean,",PHL003
+26,,,(soaked and boiled),,,"soaked, drained, boiled",
+27,,,,,,(water+seeds),
+28,Vigna angularis,,,,,,
+29,Adzuki bean,2.80,"(1) adzuki bean,",VIA002,4.60,"1 adzuki bean,soaked,",VIA003
+30,,,"soaked, drained,",,,"drained, boiled",
+31,,,"boiled,drained",,,(water+seeds),
+32,Vigna radiata(L) R Wilczek,,,,,,
+33,Mung bean,2.69,"(1) mung beans,",VIR004;,"4.251) mung beans,soaked","4.251) mung beans,soaked",VIR005;
+34,,,"soaked, drained",VIR006;,,"drained, boiled",VIR007;
+35,,,"boiled,drained",VIR008,,(water+seeds),VIR009
+36,Vigna mungo (L) Hepper,,,,,,
+37,Mungo bean,"3.084) black gram,whole","3.084) black gram,whole",VIM003;,4.60,"(2from adzuki bean,",VIM004;
+38,,,(soaked and boiled),VIM005,,"soaked,drained, boiled",VIM006
+39,,,,,,(water+seeds),
+40,Vigna umbellata (Thunb.) Ohwi &H Ohashi,Vigna umbellata (Thunb.) Ohwi &H Ohashi,Vigna umbellata (Thunb.) Ohwi &H Ohashi,,,,
+41,Rice bean,2.69*,(2) average of original,VIU003;,4.42*,(2)average of original,VIU004;
+42,Rice bean,,YF for Vigna genus,VIU005,4.42*,YF for Vigna genus,VIU006

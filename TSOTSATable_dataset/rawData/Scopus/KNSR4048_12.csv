@@ -1,0 +1,45 @@
+,0,1,2,3,4,5
+0,Application,Objectives,AI technique,AI technique,Outcomes/impacts,References
+1,Fruits,To apply Kernel extreme learning machines,,Kernel extreme machine learning,(i) The proposed system performed signifi.,Ucar & Ozalp [203]
+2,,in E-nose for recognition and perception of,,,cantly good in odor recognition,
+3,,fruit odors,,,(ii) It achieved higher testing accuracy and,
+4,,,,,smallest value of training time and testing,
+5,,,,,time compared to other systems that were,
+6,,,,,used for the comparison for recognizing the,
+7,,,,,fruit odors,
+8,Fruits,To apply artificial bee colony (ABC) algo-,ANN & artificial bee colony,ANN & artificial bee colony,(i) ABC-ANN is more successful in odor,Adak & Yumusak [204]
+9,,rithm in ANN to classify data from elec-,,,classification of e-nose data and has higher,
+10,,tronic nose and evaluate its performance,,,performance compared to the backpropaga-,
+11,,,,,tion algorithm that was used,
+12,,,,,(ii) The system was able to classify four,
+13,,,,,different aroma which are the aroma of the,
+14,,,,,"lemon, cherry, strawberry, and melon",
+15,Fruit juice,"To figure out the amount of the food additivesRF, SVM, ELM, PLSR",,"To figure out the amount of the food additivesRF, SVM, ELM, PLSR",(i) The additives which are benzoic acid and,Qiu & Wang [205]
+16,,in the fruit juice,,,chitosan in the juice could be predicted,
+17,,,,,with accurately by using the ELM and RF,
+18,,,,,"methods with R value of 0.92 and 0.91,",
+19,,,,,respectively,
+20,,,,,(ii) ELM and RF method has a higher,
+21,,,,,accuracy in predicting the additives when,
+22,,,,,compared to ELM and PLSR where the R2,
+23,,,,,value obtained by ELM and PLSR are 0.72,
+24,,,,,"and 0.51, respectively",
+25,Honey,"To determine the best classifier in forecastingANN, SVM",,"To determine the best classifier in forecastingANN, SVM",(i) Both the ANN and SVM model combined,lFaal et al.[206]
+26,,the physicochemical properties of Iranian,,,with the e-nose showed a good prediction,
+27,,ziziphus honey samples,,,rate in determining the physicochemical,
+28,,,,,properties of the honey sample,
+29,,,,,(ii) The developed model using ANN method,
+30,,,,,shower a higher accuracy in the prediction,
+31,,,,,compared to that of with SVM method,
+32,Lemon,To characterize and predict the quality of,"ELM, RF, SVM","ELM, RF, SVM",i) Prediction using the ELM method,Guo et al. [207]
+33,,various lemon slices,,,obtained the highest accuracy of 0.959,
+34,,,,,followed by RF and SVM with 0.935 and,
+35,,,,,0.922 respectively which indicates that,
+36,,,,,ELM integrated with the E-nose is the best,
+37,,,,,classification model,
+38,Pear,To enhance the food quality by optimize the,FL,,(i) The drying time was able to be shortened,Li et al.[208]
+39,,drying process of balsam pear,,,to retain the aroma and enhance the product,
+40,,,,,quality,
+41,,,,,(ii) Designation of industrialized control,
+42,,,,,method was established to simplify the,
+43,,,,,control and has good drying effects,

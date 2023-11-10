@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,,Country,Mean,2.5th Percentile,97.5th Percentile
+1,Austriaa,,319,116,628
+2,Germanyb,,327,148,558
+3,,males,353,188,618
+4,,females,288,134,499
+5,talyc,,208,117,350
+6,Vetherlandsd,Vetherlandsd,312,139,558
+7,USe,,,,
+8,,males,323,177(5th P),516(95th P
+9,,females,228,134 (5th P),342 (95th P)

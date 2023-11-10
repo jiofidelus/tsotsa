@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,,,Age (months or,,,
+1,,Chart,height (cm) range,Primary data sources,,Supplemental data sources
+2,Weight-for-age,,Birth to 36 months,National surveys 3--52,National birth certificate data from,National birth certificate data from
+3,,,,,United States Vital Statistics,United States Vital Statistics
+4,Length-for-age,,Birth to 36 months, National surveys 352.3,Birth certificate data from Wisconsin,Birth certificate data from Wisconsin
+5,,,,,and Missouri State Vital Statistics2.4,and Missouri State Vital Statistics2.4
+6,,,,,CDC Pediatric Nutrition Surveillance,CDC Pediatric Nutrition Surveillance
+7,,,,,System data for birth to 5 months,System data for birth to 5 months
+8,Head circumference-for-age,Head circumference-for-age,Birth to 36 months,National surveys 3-52,Fels Longitudinal Study data2,Fels Longitudinal Study data2
+9,Weight-for-length,,45-103 cm, National surveys 352.5,Birth certificate data from Wisconsin,Birth certificate data from Wisconsin
+10,,,,,and Missouri State Vital Statistics,and Missouri State Vital Statistics
+11,Weight-for-stature,,77-121 cm,National surveys 3-55,None,
+12,Weight-for-age,,24 to 240 months,National surveys 1-55,None,
+13,Stature-for-age,,24 to 240 months,National surveys 1-5,None,
+14,BMI-for-age,,24 to 240 months, National surveys 155,None,

@@ -1,0 +1,19 @@
+,0,1,2,3
+0,,Control diet,RSL diet,DSL diet
+1,At 1week,,,
+2,"Body weight gain, g",510.534.6a,535.222.0a,273.623.3b
+3,Feed intakeg,787.724.5a,802.227.5a,590.510.7b
+4,Feed efficiency%,64.32.9a,66.92.6a,46.03.4b
+5,"Body weight,g",1561.843.9a,1587.329.9a,1327.515.1b
+6,At 2weeks,,,
+7,"Body weight gain, g",1101.559.6,1140.971.9,690.850.8b
+8,"Feed intake, g",1836.647.0a,1840.283.7a,1448.842.9b
+9,Feed efficiency%,59.82.2a,61.61.8a,47.32.4b
+10,"Final body weight,g",2152.864.3a,2192.976.7a,1744.741.8b
+11,"Tissue weight, g",,,
+12,Breast,183.18.5a,182.09.4,154.53.7b
+13,Tender,42.71.3a,44.51.5,35.70.6b
+14,Thigh,180.38.9a,173.99.3,136.74.8b
+15,Heart,12.60.7,13.00.5,9.70.4b
+16,Liver,47.02.0a,44.25.9ab,34.21.2b
+17,Gizzard,20.11.0,16.71.1b,16.00.6b

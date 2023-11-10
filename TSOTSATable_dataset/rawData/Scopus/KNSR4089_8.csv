@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,Study,Study details,,,,,Participant details,Participant details,,,,,,Outcomes,,
+1,Author:,Study,Probiotic,Duration,Conc. of,Outcome,Model,Probiotic Placebo Mean age,Probiotic Placebo Mean age,Probiotic Placebo Mean age,Sex ratio,BMI,Ethnicity,Effect,Compli-,Level of
+2,,design,,of Tx,probiotic,measures,,,,,M:F,,,,cations,Evidence
+3,,,,(weeks),(CFU/,,,,,,,,,,,
+4,,,,,day),,,,,,,,,,,
+5,Xiao,RCT,B. breve,16,2 1010,"RBANS,",Elders,40,40,61.37.7,19:21,21.02.1,Japanese, scores for,None,1I
+6,et al.,,Al,,,"JMCIS,",with,,,,,,, scores for,,
+7,[51],,,,,blood,mem-,,,,,,,"memory,",,
+8,,,,,,tests,ory,,,,,,,"memory,",,
+9,,,,,,,com-,,,,,,,visuos-,,
+10,,,,,,,plaints,,,,,,,patial/,,
+11,,,,,,,,,,,,,,construc-,,
+12,,,,,,,,,,,,,,tional and,,
+13,,,,,,,,,,,,,,delayed,,
+14,,,,,,,,,,,,,,memory,,
+15,,,,,,,,,,,,,,was,,
+16,,,,,,,,,,,,,,"improved,",,
+17,,,,,,,,,,,,,,JMCIS,,
+18,,,,,,,,,,,,,,score,,
+19,,,,,,,,,,,,,,was also,,
+20,,,,,,,,,,,,,,improved,,

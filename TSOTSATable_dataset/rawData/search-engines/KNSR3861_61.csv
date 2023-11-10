@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7
+0,Nutrient,Indonesia,,Malaysia,Philippines,Singapore,Thailand,Vietnam
+1,Niacin,sample hydrolysed,sample hydrolysed,sample hydrolysed,microbiological,,microbiological,"colorimetric, AOAC"
+2,,"with acid, pH","with acid, pH","with acid, pH",method using,,method using,1990 (pp 1054-1055)
+3,,"adjusted,added NH4","adjusted, added NH4","adjusted, added NH4",Lactobacillus,,Lactobacillus,
+4,,"sulphate, react with","sulphate, react with","sulphate, react with",plantarum,,plantarum,
+5,,CNBr and sulphanilic,CNBr and sulphanilic,CNBr and sulphanilic,,,,
+6,,"acid, read colour at","acid, read colour at","acid, read colour at",,,,
+7,,450 nm,450 nm,,,,,
+8,Ascorbic acid,mix/blend sample with,mix/blend sample with,mix/blend sample with,,,titration method:,titrimetric method
+9,,HPO3 + acetic acid.,"HPO3 + acetic acid,","HPO3 + acetic acid,",,,mix/blend sample with,"indophenol),AOAC"
+10,,titrate with indophenol,titrate with indophenol,titrate with indophenol,,,"HPO3 + acetic acid,","1990,p 1058"
+11,,reagent; modification,reagent; modification,reagent; modification,,,titrate with indophenol,
+12,,for intensely coloured,for intensely coloured,for intensely coloured,,,reagent; or add,
+13,,solutions,solutions,solutions,,, indophenol and read,
+14,,,,,,,OD @ 520 nm,
+15,Total ascorbic,"for total AA, treat",,,determines,,,
+16,acid,sample with bromine.,,,"combination of AA,",,,
+17,,for dehydro AA &,,,dehydro AA &,,,
+18,,diketoglutaric acid,,,diketoglutaric acid:,,,
+19,,treat with SnCl and for,,,mix/blend sample with,,,
+20,,"diketoGA, treat with",,,HPO3 + acetic acid or,,,
+21,,H2S before reaction,,,"oxalic acid, oxidise",,,
+22,,with phenylhydrazine,,,"with indophenol,",,,
+23,,,,,remove excess with,,,
+24,,,,,"oxalic acid-thiourea,",,,
+25,,,,,couple with,,,
+26,,,,,"phenylhydrazine, OD",,,
+27,,,,,at 540 nm,,,
+28,Ascorbic and,fluorometric method:,,,,,,
+29,dehydroascorbic,,,,,,,
+30,acid,,,,,,,

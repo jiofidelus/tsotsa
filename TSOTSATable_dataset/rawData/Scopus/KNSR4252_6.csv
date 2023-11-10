@@ -1,0 +1,33 @@
+,0,1,2,3,4
+0,Compound name,Bioactivity,Methods,Results,Ref.
+1,Leaves,,,,
+2,,,DPPH,IC5o=3.21 ug/mL in comparison to,
+3,,Antioxidant,DPPH,ascorbic acid 2.94 ug/mL,[21]
+4,Myricetin-3-O-rhamnoside,activity,FRAP,quercetin 23.18 ug/mL,
+5,,,-Glucosidase inhibition,IC5o=1.1 M,
+6,,,-Amylase inhibition,IC5o=1.9 M,[9]
+7,4-Hydroxybenzaldehyde,,,IC5o=20 uM,[9]
+8,,,-Glucosidase inhibition,IC5o=1.9 uM,[9]
+9,,Antidiabetic,-Amylase inhibition,IC5o=2.3 M,
+10,,activity,a-Glucosidase inhibition,IC5o=7 uM,
+11,Myrigalone G,,-Amylase inhibition,IC5o=33 uM,[9]
+12,,,-Glucosidase inhibition,IC5o=19 uM,[9]
+13,,,-Amylase inhibition,IC5o=8.3 uM,[9]
+14,Phloretin,,-Glucosidase inhibition,IC5o=31 uM,[21]
+15,,Anticancer,MCF-7,,[53]
+16,,activity,MCF-7,IC5o=270 uM (24 h) and 250 M (48 h),[53]
+17,"2',4'-Dihydroxy-6'-methoxy-3',5'",Apoptosis,Activation of PARP,IC5o=250 uM,[53]
+18,dimethylchalcone,Apoptosis,protein,IC5o=250 uM,[53]
+19,,Antiproliferative,Jurkat cell lines,ICso =59.5 M after 24 h treatment,[54]
+20,,effect,Jurkat cell lines,,[54]
+21,"rhamnoside, europetin 3-O-rhamnoside",Antiproliferative,Complete 3T3-L1 cells.,The compounds have enhanced,
+22,"phloretin, myrigalone G and B",effect,Complete 3T3-L1 cells.,and increased adiponectin secretion,
+23,"2',4'-dihydroxy-6-methoxyl 3,5-",Antiproliferative,MCF-7,"IC5o=74.5ug/mL, promoted apoptosis","[53,"
+24,dimethylchalcone,activity,MCF-7,via the activation of PARP,55]
+25,Stem bark,,,,
+26,,,HeLa,ICso= 43.59  0.393 g/mL,
+27,Butyrospermol,Cytotoxicity,T47D,IC5o=419.05  0.246 ug/mL,[37]
+28,,,A459,ICso=354.85 0.017 g/mL,
+29,,,HeLa,,
+30,Sitosterone,Cytotoxicity,T47D,,[37]
+31,,,A459,IC5o=29.96 0.0422 g/mL,

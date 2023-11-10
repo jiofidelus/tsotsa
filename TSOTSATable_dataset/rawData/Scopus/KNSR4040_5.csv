@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7
+0,S.O.V,DF,,,,Mean square,,
+1,S.O.V,DF,berry weight,berry length,berry width,panicle weight,panicle length,panicle width
+2,Block,5,0.023 ns,0.022ns,0.018ns,6346.54ns,6.590ns,3.860s
+3,Humic acid,3,1.740**,0.428**,0.154**,307335.83**,86.481*,112.39**
+4,Error,15,0.039,0.016,0.006,7805.84,23.630,6.682
+5,CV%,,10.47,8.27,6.16,20.25,18.36,19.17

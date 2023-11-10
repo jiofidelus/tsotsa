@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,Target Toxin,LAB Strain,Mechanism of Action,Maximum effectiveness,References
+1,Aflatoxin B1,,,,
+2,,L.amylovorus CSCC 5197,Probable adsorption on the,>50% AFB bound from,
+3,,"and CSCC 5160,",cell surface,"solution, but reversibly",[209]
+4,,Lc. rhamnosus Lc1/3,cell surface,"solution, but reversibly",
+5,,Lc.rhamnosus LBGG,None proposed,80% removal from liquid,[210]
+6,,and LC-705,None proposed,"media,very rapidly",[210]
+7,,"Lc. paracasei LOCK 0920,",,"39-55% decrease, depending",
+8,,"Lev.brevis LOCK 9044,",None proposed,on the initial concentration,[211]
+9,,Lp.plantarum LOCK0945,,of AFB1,
+10,,"Lactococcus lactis,",Low-molecular proteins,"81% combined,",[212]
+11,,Lp. plantarum,"involved, possibly bacteriocins",27-46% separately,[212]

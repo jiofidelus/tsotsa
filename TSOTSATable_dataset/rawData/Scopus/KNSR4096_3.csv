@@ -1,0 +1,7 @@
+,0,1,2,3,4
+0,,Microplastic,Height,Length,
+1,,concentration,(mm),(mm),
+2,Microplastic concentration,,,,
+3,Height (mm),0.841**,-,,
+4,Length (mm),0.028,-0.103,,
+5,Weight (g),-0.644**,-0.548**,0.058,1

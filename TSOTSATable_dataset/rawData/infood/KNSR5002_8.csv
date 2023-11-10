@@ -1,0 +1,21 @@
+,0,1,2,3
+0,Type of source,Abbreviation,Abbreviation,Comment
+1,acquisition/value,used,,
+2,type,,,
+3,Article from,,,
+4,scientificliterature,,a,Analytical value
+5,Analytical report,,,
+6,Reference dataset,,r,"Value taken from data compilation, i.e. food composition"
+7,,,,datasets/databases
+8,Mix of data sources,,ar,Value represents a mix of data from the scientific literature
+9,,,,or reports(i.e.analytical data or from reference data sets
+10,Calculated,,C,"Value derived by calculation in present datasheets, e.g."
+11,,,,"PROTCNT,ENERGY(ANNEX 2)."
+12,Estimated,,e,Value borrowed from similar/same food (values may be
+13,,,,"adjusted/unadjusted), or estimated from calculations."
+14,,,Z,Value is assumed zero.
+15,,,*,Tag for values for which INFOODS tagnames referring to a
+16,,,,lesspreferred/improperanalytical method were also
+17,,,,"included in the aggregation, or were the only option"
+18,,,,available. In the latter case the respective tagname is added
+19,,,,in the documentation field(ANNEX 2)

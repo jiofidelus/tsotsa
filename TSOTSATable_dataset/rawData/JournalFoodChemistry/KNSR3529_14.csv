@@ -1,0 +1,36 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Matrix,Extracting solvent,T(C,"Energy (W,",Other operation,Target compounds,Chemical structure of main compounds,,,,Extraction recovery/,Antioxidant capacity,Reference
+1,,,,kHz),parameters,,,,,,yield,method,
+2,Cherry peels,80% ethanol,,,1:10 (sample/,,Cyanidin 3-O-glucoside,Cyanidin 3-O-glucoside,Cyanidin 3-O-glucoside,Cyanidin 3-O-glucoside,n.d,0.88 mg AAE/g WB,
+3,,,,,"solvent ratio, w/v);",,,,,,,(DPPH,
+4,,,,,20 min,,,,,,TPC: 1.44 mg GAE/g,,
+5,,,,,,,,,,,FW,,
+6,,,,,,,,,HO-,,,,
+7,,,,,,,,,,HO,,,
+8,,,,,,,11.39g/g FW,11.39g/g FW,,,,,
+9,Red pear peels,60% ethanol,,,1:10 (sample/,,Cyanidin 3-O-galactoside,Cyanidin 3-O-galactoside,Cyanidin 3-O-galactoside,Cyanidin 3-O-galactoside,n.d,5.71 mg AAE/g WB,
+10,,,,,"solvent ratio, w/v);",,,,,,,(DPPH),
+11,,,,,60 min,,,,,OH,TPC:1.48 mg GAE/g,,
+12,,,,,,,,,,,FW,,
+13,,,,,,,,OH,HO,,,,
+14,,,,,,,,,,HO,,,
+15,,,,,,,6.39 g/g FW,6.39 g/g FW,,,,,
+16,Red grape wastes,Ethanol:PEG:,53.6,1800 W,19.4 min,trans-Resveratrol,trans-Resveratrol,trans-Resveratrol,trans-Resveratrol,,~1.38 higher vs.,"2735.88 36 to 4726.8 Babazadeh et al.,","2735.88 36 to 4726.8 Babazadeh et al.,"
+17,(different,water48:32:20,,,,,,,,,conventional,78 uM TE/g,2017
+18,varieties),(v/v),,,,,,,,,extraction,(TEAC,
+19,,,,,,,,OH,,,,,
+20,,,,,,,Skin: 98.7  9.83 to 862  4.67 g/g,,,,,,
+21,,,,,,,DW,,,,,,
+22,,,,,,,Pulp: 78  8.04 to 384.3  6.02 g/g,,,,,,
+23,,,,,,,DW,,,,,,
+24,Dried habanero,Methanol:water,28,42 kHz,30 min,Phenolic compounds,Leaves: Myricetin,Leaves: Myricetin,Leaves: Myricetin,,n.d,n.d,Chel-Guerrero
+25,pepper by-,80:20(v/v),,,,,,,,,,,"et al., 2021"
+26,products,,,,,,,,,,Leaves:,,
+27,,,,,,,OH,,,,TPC: 154.04  0.23,,
+28,,,,,,,OH,,,,mg/100 g DW,,
+29,,,,,,,HO,,,,Peduncles:,,
+30,,,,,,,OH,,,,TPC:140.26  0.46,,
+31,,,,,,,OH,,,OH,mg/100 g DW,,
+32,,,,,,,29.76  0.68 mg/100 g DW,OH,,,Stems:,,
+33,,,,,,,29.76  0.68 mg/100 g DW,29.76  0.68 mg/100 g DW,,,TPC: 56.94  0.16,,
+34,,,,,,,,,,,mg/100 g DW,,

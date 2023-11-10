@@ -1,0 +1,51 @@
+,0,1,2,3,4,5
+0,,Observed initial,Modeled diet,,Modeled diet,
+1,,diet,without meat,,with the optimized meat substitute,with the optimized meat substitute
+2,,,With energy,Without energy,With energy,Without
+3,,,adjustmenta,adjustment,adjustmenta,energy
+4,,,,,,adjustment
+5,,,Difference from observed initial diet,Difference from observed initial diet,,
+6,PANDiet score (0100),73.68, 2.53b, 2.50,+5.68,+5.48
+7,Adequacy Sub-score (AS) (0100),78.55, 2.36, 7.91,+6.06,+ 6.43
+8,Probabilities of adequacy for AS components (0-1),,,,,
+9,Protein,1.00,0.00,0.00,0.00,0.00
+10,LA,0.50, 0.07, 0.07,+0.38,+0.38
+11,ALA,0.00,0.00,0.00,+0.88,+0.87
+12,DHA,0.25,+0.07, 0.06, 0.05, 0.03
+13,EPA+DHA,0.09,+0.04, 0.03, 0.02, 0.02
+14,Fiber,0.36,+0.17, 0.01,+ 0.63,+0.63
+15,Vitamin A,0.96,+0.01,0.07, 0.02, 0.01
+16,Thiamine,1.00,0.00,0.00,0.00,0.00
+17,Riboflavin,1.00,0.00, 0.03,0.01,0.00
+18,Niacin,1.00,0.00,0.00,0.00,0.00
+19,Pantothenic acid,0.99,0.01, 0.03,+0.01,+0.01
+20,Vitamin B-6,0.98, 0.19, 0.42, 0.05, 0.04
+21,Folate,0.89,+0.05, 0.04,+0.08,+0.08
+22,Vitamin B-12,1.00, 0.16, 0.31, 0.33, 0.31
+23,Vitamin C,0.50,+ 0.21, 0.04,+0.34,+0.36
+24,Vitamin D,0.00,0.00,0.00,0.00,0.00
+25,Vitamin E,0.99,0.00,0.00,+0.01,+0.01
+26,Iodine,0.98,+0.01, 0.01,0.00,0.00
+27,Magnesium,0.99,0.00, 0.01,+0.01,+0.01
+28,Phosphorus,1.00,0.00,0.00,0.00,0.00
+29,Potassium,0.84, 0.02,0.15,+0.04,+0.05
+30,Selenium,1.00,0.00,0.00,0.00,0.00
+31,Zinc,0.46, 0.42, 0.44, 0.30, 0.30
+32,Copper,0.99,0.00, 0.01,+0.01,+0.01
+33,Manganese,0.99,+0.01,0.00,+0.01,+0.01
+34,Calcium,0.97,0.02,0.01,+0.02,+0.02
+35,Iron,0.85, 0.29, 0.35, 0.08, 0.08
+36,Moderation Sub-score (MS) (0-100),68.80, 2.71,+ 2.91,+ 5.30,+ 4.53
+37,Probabilities of adequacy for MS components (01),Probabilities of adequacy for MS components (01),,,,
+38,Carbohydrates,1.00,0.00,0.00,0.00,0.00
+39,Protein,1.00,0.00,0.00,0.00,0.00
+40,Total fat,1.00,0.00,0.00,0.00,0.00
+41,SFA,0.08,+0.04,+0.04,+0.19,+0.19
+42,Sodium,0.38, 0.04,+0.13,+0.15,+0.12
+43,Sugars without lactose,0.66,0.16,+0.01, 0.02,0.04
+44,SecDiet (01),1.00, 0.01, 0.01,0.00,0.00
+45,Probabilities of adequacy of the SecDiet (0-1),,,,,
+46,Vitamin A,1.00,0.00,0.00,0.00,0.00
+47,Thiamine,1.00,0.00,0.00,0.00,0.00
+48,Riboflavin,1.00,0.00,0.00,0.00,0.00
+49,Niacin,1.00,0.00,0.00,0.00,0.00

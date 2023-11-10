@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7
+0,Variable,,Model1(unadjustedn=501,Model1(unadjustedn=501,,Model2adjustedn=510,Model2adjustedn=510,
+1,,,B Coeff,95% CI,p-value,B Coeff,95% CI,p-value
+2,ge stopped receiving breastmilk (months),ge stopped receiving breastmilk (months),,,,,,
+3,Indian vs Australian,Indian vs Australian,2.5,"1.4,3.6",<0.001,2.13,"1.23,3.01",<0.001
+4,Age when first drank infant formula products (months),Age when first drank infant formula products (months),,,,,,
+5,Indian vs Australian,Indian vs Australian,0.07," 0.29, 0.43",0.705,0.05,"0.35, 0.44",0.817
+6,Age when first drank cow's milk(months,Age when first drank cow's milk(months,,,,,,
+7,Indian vs Australian,Indian vs Australian,-1.35,"-2.64, 0.05",0.042,-1.97,"-3.04, -0.89",0.001
+8,Age when first drank water (months),Age when first drank water (months),,,,,,
+9,Indian vs Australian,Indian vs Australian,0.48,"0.12,0.85",0.009,0.41,"-0.02,0.80",0.038
+10,Age when first drank water-based drinks(months,Age when first drank water-based drinks(months,,,,,,
+11,Indian vs Australian,Indian vs Australian,-2.4,"-4.3, -0.49",0.014,-2.82,"-4.01,-1.62",<0.001
+12,Age when first drank fruit juice(months,Age when first drank fruit juice(months,,,,,,
+13,Indian vs Australian,Indian vs Australian,-2.36,"-3.71, -1.0",0.001,-2.66,"-3.49, -1.83",<0.001
+14,"Age when first ate soft, semisolid solid foods (months)","Age when first ate soft, semisolid solid foods (months)",,,,,,
+15,Indian vs Australian,Indian vs Australian,0.65,"0.41,0.90",<0.001,0.64,"0.39, 0.88",<0.001
+16,Variable,,OR,95% CI,p-value,OR,95% CI,p-value
+17,Infant currently receiving breastmilk (yes),Infant currently receiving breastmilk (yes),2.11,"1.59, 2.78",<0.001,2.67,"1.53,3.36",<0.001
+18,Infant ever had formula (yes),Infant ever had formula (yes),1.11,"0.78, 1.60",0.559,1.39,"0.89, 2.16",0.145
+19,Infant ever had cow's milk(yes,Infant ever had cow's milk(yes,1.3,"0.90, 1.89",0.165,1.91,"0.94, 3.89",0.076
+20,Infant ever had soymilk (yes),Infant ever had soymilk (yes),0.5,"0.17,1.46",0.203,0.77,"0.21, 2.86",0.696
+21,Infant ever had water (yes),Infant ever had water (yes),0.89,"0.66,1.22",0.478,0.8,"0.52,1.21",0.286
+22,Infant ever had any water-based drinks (yes),Infant ever had any water-based drinks (yes),1.63,"1.13,2.36",0.009,1.79,"1.06, 3.03",0.029
+23,,Infants given water based drinks<6 months(ves,1.81,"0.85, 3.83",0.122,2.65,"0.63,11.12",0.184
+24,Infant ever had fruit juice (yes),Infant ever had fruit juice (yes),1.94,"1.39, 2.69",<0.001,2.74,"1.62, 4.64",<0.001
+25,Infants given fruit juice<6 months (yes),Infants given fruit juice<6 months (yes),1.68,"0.87, 3.23",0.121,1.68,"0.87,3.23",0.121
+26,Infant ever had solids (yes),Infant ever had solids (yes),0.64,"0.48,0.85",0.002,0.30,"0.16,0.56",<0.001
+27,Infants given solids<6 months(yes),Infants given solids<6 months(yes),0.33,"0.22,0.49",<0.001,0.33,"0.18,0.58",<0.001

@@ -1,0 +1,36 @@
+,0,1,2
+0,AI algorithm,Advantages,Limitations
+1,ES,(i Reliable and understandable,iThe construction and designing of the ES are expensive and
+2,,(ii Highly responsive,rare as it requires expert engineers
+3,,(iii)High performance,(ii Vocabulary utilized by the experts is limited and often is
+4,,(iv Error rate is lower than human errors,difficult to be understood
+5,,(vBetter use of production capacities,
+6,FL,"(i) Imprecise, incomplete, and uncertain information can be",i Generalization is not possible as it can only deduce the giver
+7,,solved,rules
+8,,(ii Simpler and direct results can be obtained,(ii) Sometimes requires the knowledge of an expert in creating
+9,,"(iii Accountable,noise tolerant,and robust to disturbances",the rules
+10,,(iv) Faster interpretation than ANN and support vector,
+11,,machine method,
+12,,(v The knowledge base can be extended easily with the exten-,
+13,,sion of the rules,
+14,,(vi Saves costs and time,
+15,,(vii Can improve the quality and safety of the products,
+16,ANN,(i) Able to model complex functions or problems accurately,(i The performance of the model is hard to be explained com
+17,,and easily,pared to the others as it appears as a black box model
+18,,"(ii Accurate,robust to disturbances,and noise tolerant",(ii Requires more time compared to the FL as the suitable num
+19,,,ber of layers should be determined
+20,,iv) Has the generalization ability,(iii Need sufficient and reliable data
+21,,"(v) Affordable, noise tolerant, easy, and flexible method",
+22,,(vi) Solving non-linear problems are more appropriate by using,
+23,,this method,
+24,,"vii Useful as prediction, classification,and control tool",
+25,ANFIS,(i Able to merge details from various resources,(i The data available should be reliable to avoid any confusion
+26,,"(ii Noise tolerant,accurate,and effective method in solving",or misinformation during the training process as it will affect
+27,,complex problems,the final results
+28,,(iii) It has a higher performance compared to ANN and FL,
+29,,methods,
+30,,(iv) Possesses the benefits from both ANN and FL method,
+31,,(vClassification and prediction tasks can be done more,
+32,,conveniently,
+33,,(vi Able to save time and cost overall in general compared to,
+34,,manual methods,

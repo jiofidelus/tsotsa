@@ -1,0 +1,43 @@
+,0,1,2
+0,Component,Component name,Unit
+1,ID/Tagname,,
+2,ERGCAL(mcg),ergocalciferol(D2),mcg
+3,VITD(mcg),vitamin D(D2+D3);sum of ergocalciferol and cholecalciferol,mcg
+4,VITD-(mcg),vitamin D; method unknown or variable,mcg
+5,Vitamin E,,
+6,VITE(mg),vitamin E; calculated by summation of the vitamin E activities of the active,mg
+7,,tocopherols and tocotrienols; expressed as alpha-tocopherol equivalents,
+8,TOCPHA(mg),alpha-tocopherol,mg
+9,TOCPHA(IU),alpha-tocopherol,IU
+10,TOCPHB(mg),beta-tocopherol,mg
+11,TOCPHG(mg),gamma-tocopherol,mg
+12,TOCPHD(mg),delta-tocopherol,mg
+13,TOCPHB_A_TOCPH,beta-tocopherol+gamma-tocopherol,mg
+14,G(mg),,
+15,TOCTRA(mg),alpha-tocotrienol,mg
+16,TOCTRB(mg),beta-tocotrienol,mg
+17,TOCTRD(mg),delta-tocotrienol,mg
+18,TOCTRG(mg),gamma-tocotrienol,mg
+19,VITE-(mg),vitamin E; method or determination unknown or variable,mg
+20,VITE-(IU),vitamin E; method or determination unknown or variable,IU
+21,VITEA(IU),Vitamin E; determined by bioassay,IU
+22,Vitamin K,,
+23,VITK(mcg),"vitamin K,total",mcg
+24,VITK1 (mcg),Vitamin K-1,mcg
+25,VITK2 (mcg),Vitamin K-2,mcg
+26,Water-soluble vitamins,,
+27,Thiamin (vitamin B1),,
+28,THIA(mg),thiamin,mg
+29,THIA-(mg),"thiamin, unknown",mg
+30,THIAHCL(mg),vit B1 analysed and expressed as thiamin hydrochloride,mg
+31,Riboflavin (vitamin B2),,
+32,RIBF(mg),riboflavin,mg
+33,Folate,,
+34,FOLSUM(mcg),sum of folate vitamers;determined by HPLC,mcg
+35,FOL(mcg),"folate, total",mcg
+36,FOL-(mcg),folate; method unknown or variable,mcg
+37,FOLFRE(mcg),"folate, free",mcg
+38,FOLFM10(mcg),10-formylfolic acid,mcg
+39,FOLH4(mcg),tetrahydrofolate,mcg
+40,FOLH4ME5(mcg),"5-methyl-dihydrofolic acid, folate",mcg
+41,FOLH4FM5(mcg),5-Formyltetrahydrofolate,mcg

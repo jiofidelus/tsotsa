@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6,7,8,9
+0,In the fatty acid,,Listed,,,,Missing,,,Total
+1,food composition table 1.2,,,,,,,,,
+2,Total fat content of food,,,,TF=,trace<TF<10,trace<TF<10,1.0TF,Total,
+3,(TF)(g/100g portion),,,,0or,,,,,
+4,Appearance,Did not,Appeared,Total,(trace),Did not Appeared,Did not Appeared,,,
+5, in the dietary record 3,appear,,,,appear,,,,
+6,Cereals,22,18,40,0,18,6,70.,94,134
+7,Potatoes and starches,0,5,5,2,17,10,0,29,34
+8,Sugars and sweeteners,0,0,0,25,0,0,0,25,25
+9,Confectioneries,1,12,13,11,1,32,57,101,114
+10,Fats and oils,2,7,9,0,0,0,0,0,9
+11,Nuts and seeds,5,11,16,0,4,1,14,19,35
+12,Pulses,5,19,24,0,3,3,31,37,61
+13,Fishes and shellfishes,31,99,130,2,17,28.,156,203,333
+14,Meats,66,45,111,0,3,3,90,96,207
+15,Eggs,3,4,7,0,1,0,12,13,20
+16,Milks,5,10,15,1,1,6,27,35,50
+17,Vegetables,15,29,44,11,94,99,7,211,255
+18,Fruits,2,9,11,13,33,70,6,122,133
+19,Fungi,1,6,7,0,13,11,0,24,31
+20,Algae,1,7,8,2,5,17,12,36,44
+21,Beverages,0,5,5,45,0,5,10,60,65
+22,Seasonings and spices,1,5,6,11,2,7,29,49,55
+23,Total,160,291,451,123,212,298,521,1154,1605

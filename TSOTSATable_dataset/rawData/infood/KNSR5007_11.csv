@@ -1,0 +1,34 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Food,Code,Letter,Name,Energy,Energy,Protein,Fat,Carbo-,Fibre Phytate,Fibre Phytate,Water
+1,group,Code,code,Name,Energy,Energy,Protein,Fat,hydrate,,Fibre Phytate,Water
+2,,,,,kcal,kJ,g,g,g,g,g,g
+3,1.5 - Mani Fajiringo and Bukolo,1.5 - Mani Fajiringo and Bukolo,1.5 - Mani Fajiringo and Bukolo,1.5 - Mani Fajiringo and Bukolo,,,,,,,,
+4,107,4483,so,Mani fajiringo and bukolo,102,427,2.5,0.4,23.7,2.9,0.05,70
+5,107,4767,RUI,"Mani fajiringo,bukolo and dried challo",104,436,3.1,0.5,23.6,2.9,0.05,70
+6,107,4776,RXT,"Mani fajiringo, bukolo, dried challo and naa",105,437,3.1,0.5,23.6,3.0,0.05,69
+7,107,4768,RUJ,"Mani fajiringo, bukolo and dried furo",104,435,3.1,0.5,23.6,2.9,0.05,70
+8,107,4777,RXU,"Mani fajiringo, bukolo, dried furo and naa",104,437,3.1,0.5,23.6,3.0,0.05,69
+9,107,4769,RUK,"Mani fajiringo, bukolo and dried kujalo",104,435,3.1,0.5,23.6,2.9,0.05,70
+10,107,4778,RXV,"Mani fajiringo,bukolo,dried kujalo and naa",104,437,3.1,0.5,23.6,3.0,0.05,69
+11,107,4170,GN,"Mani fajiringo, bukolo and dried fish (unspecified)",104,436,3.1,0.5,23.6,2.9,0.05,70
+12,107,4779,RXS,"Mani fajiringo, bukolo, dried fish (unspecified) and naa",104,437,3.1,0.5,23.6,3.0,0.05,69
+13,107,4771,RUN,"Mani fajiringo, bukolo and fresh challo",103,430,3.0,0.5,23.4,2.9,0.05,68
+14,107,4772,RUP,"Mani fajiringo, bukolo and fresh furo",103,430,3.0,0.5,23.4,2.9,0.05,68
+15,107,4773,RUQ,"Mani fajiringo, bukolo and fresh kujalo",103,430,3.0,0.5,23.4,2.9,0.05,68
+16,107,4774,RUR,"Mani fajiringo, bukolo and fresh fish (unspecified)",103,430,3.0,0.5,23.4,2.9,0.05,68
+17,107,4775,RNZ,"Mani fajiringo, bukolo and shellfish",102,428,2.9,0.5,23.4,2.9,0.05,70
+18,110,4260,JZ,"Mani fajiringo, bukolo,naa and palm oil",111,462,2.5,1.4,23.6,2.9,0.05,69
+19,,1.6 - Mani Fajiringo and Other Additions,1.6 - Mani Fajiringo and Other Additions,1.6 - Mani Fajiringo and Other Additions,,,,,,,,
+20,105,4714,RHI,Mani fajiringo and nada (naa durango),111,466,3.4,1.9,21.9,4.0,0.08,68
+21,109,4680,RFL,Mani fajiringo and nada kolikolo,99,413,2.7,0.4,22.9,3.7,0.06,69
+22,109,4677,RJH,"Mani fajiringo, jambanduro sauce and chilli pepper",84,354,2.8,0.4,18.9,1.9,0.05,72
+23,101,4212,ID,"Mani fajiringo, tulingo and chilli pepper",113,472,3.1,0.7,25.6,3.2,0.07,66
+24,114,4469,SA,Mani Fajiringo and oil (Benechin),186,778,1.9,6.5,30.0,3.3,0.06,62
+25,114,4833,RAZ,Benechin and corned beef,194,810,8.1,7.9,22.5,2.5,0.05,61
+26,110,4476,SH,Mani fajiringo and palm oil,186,778,1.9,6.5,30.0,3.3,0.06,62
+27,1.7 - Mani Nyankantango,1.7 - Mani Nyankantango,1.7 - Mani Nyankantango,,,,,,,,,
+28,102,4443,RA,Mani nyankantango,153,640,3.3,4.5,27.4,3.0,0.12,63
+29,102,4453,RK,Mani nyankantango and tulingo,163,682,4.8,3.9,28.9,3.1,0.12,61
+30,103,4354,NP,"Mani nyankantango, dried challo and tulingo",163,682,5.3,4.8,27.0,4.0,0.16,60
+31,103,4473,SE,Mani nyankantango and dried fish (unspecified),153,640,4.8,3.5,27.4,3.0,0.10,62
+32,113,4492,SX,"Mani nyankantango, dried fish (unspecified) and palm oil",141,590,4.8,4.1,22.6,3.0,0.10,62

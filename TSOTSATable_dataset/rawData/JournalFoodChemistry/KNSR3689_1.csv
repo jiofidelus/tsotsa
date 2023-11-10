@@ -1,0 +1,10 @@
+,0,1,2,3,4,5
+0,Targeted,Composition of mobile phase gradient,Sample,Average recovered oligosaccharide per,,Percent oligosaccharide recovered from
+1,Oligosaccharide,b (% ethanol),load c,chromatographic run  (mg),loaded samplee,loaded samplee
+2,FOS DP3,8580,1.2,40,30,
+3,FOS DP4,85-80,1.2,80,49,
+4,GOS DP3,8580,2.7,100,47,
+5,GOS DP4,8580,2.7,120,75,
+6,XOS DP2,7565-55,4.0,270,44,
+7,XOS DP3,756555,4.0,190,76,
+8,XOS DP4,756555,4.0,110,73,

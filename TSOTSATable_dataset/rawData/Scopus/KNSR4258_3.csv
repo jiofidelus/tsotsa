@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6
+0,Radionuclide,Half-life,Emission,%,Energy [keV],Production method,Clinical use
+1,C-11,20.36 min,Positron,99.8,960,Cyclotron,PET imaging
+2,F-18,1.83 h,Positron,96.9,634,Cyclotron,PET imaging
+3,Cu-64,12.7 h,Positron,17.5,653,Cyclotron,PET imaging
+4,,,Beta,38.5,579,,RNT
+5,Cu-67,61.8 h,Beta,100,577,Linear Accelerator,RNT
+6,Ga-68,67.83 min,Positron,87.7,1899,Ge-68 Generator,PET imaging
+7,Y-90,2.668 d,Beta,100,2279,Sr-90 Generator,RNT
+8,I-124,4.176 d,Positron,22.5,2137,Cyclotron,PET imaging
+9,I-131,8.023 d,Beta,89.9,606,Reactor,RNT
+10,Tb-152,17.5 h,Positron,16.5,2968,Cyclotron,PET imaging
+11,Tb-161,6.88 d,Beta,100,518,Reactor,RNT
+12,Lu-177,6.647 d,Electron,100,498,Reactor,RNT

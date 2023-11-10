@@ -1,0 +1,29 @@
+,0,1,2,3,4,5
+0,Method Types,,Main Approaches,Strengths,Weaknesses,Examples
+1,,,,,Unable to reflect the,Comparison of
+2,,Nutrient comparison,Nutrient detection;data,Fast and simple,beneficial effects of,nutrients in foodstuff
+3,,Nutrient comparison,analysis,Fast and simple,foodstuffs,with FCTs or control
+4,,,,,foodstuffs,samples
+5,,,,,,Amino acid score
+6,,,,,,AAS;protein-
+7,,,,,Individual scores can,digestibility-corrected
+8,,,,,only reflect the,amino acid score
+9,,,,,nutritional,(PDCAAS); digestible
+10,Based on food nutrients,,,Scientific and effective;,characteristics of food,indispensable amino
+11,,Chemical scoring,Nutrient detection;data,further analysis of,from a certain angle;,acid score(DIAAS);
+12,,Chemical scoring,analysis;calculation,nutrient status,scores should be,essential amino acid
+13,,,,,combined to reflect,of nutrition quality
+14,,,,,the nutritional,INQ;naturally
+15,,,,,properties of food,nutrient rich(NNR);
+16,,,,,,calories-for-nutrients
+17,,,,,,(CFN)
+18,,,,,Needs professional,
+19,,,"Description of color,",Intuitiveeasily,researchers to,
+20,Based on sensory perceptions,,aroma and taste,accepted by consumers,preferences vary,Sensory evaluation
+21,,,,,widely,
+22,,,Nutrient detection;,Objective and fair;,Complicated,DQI;dietary quality
+23,,,calculation; cell,reflecting the effect of,high experimental,index-Revised
+24,Based on the health effects and mechanisms of food,Based on the health effects and mechanisms of food,experiments;animal,food/diet on human,costs; long study,DQI-R);diet quality
+25,,,experiments;human,"health, such as chronic",cycles;accompanied,index-International
+26,,,trials,disease prevention,by certain safety risks,DQI-I); glycemic
+27,,,,,by certain safety risks,index(GI)

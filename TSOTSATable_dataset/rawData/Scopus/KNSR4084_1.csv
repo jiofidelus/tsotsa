@@ -1,0 +1,26 @@
+,0,1,2
+0,Variety,Thesis,Acronyms
+1,Aglianico,Control,AC
+2,,Control--gastric-digested,ACg
+3,,Control--intestinal-digested,ACi
+4,,Vine shoots boiled and toasted,ABT
+5,,Vine shoots boiled and toasted-gastric-digested,ABTg
+6,,,ABTi
+7,,Vine shoots toasted,AT
+8,,Vine shoots toasted--gastric-digested,ATg
+9,,Vine shoots toasted--intestinal-digested,ATi
+10,,Oak chips,AQ
+11,,Oak chips-gastric-digested,AQg
+12,,Oak chips-intestinal-digested,AQi
+13,Nero di Troia,Control,NC
+14,,Control--gastric-digested,NCg
+15,,Control-intestinal-digested,NCi
+16,,Vine shoots boiled and toasted,NBT
+17,,Vine shoots boiled and toasted--gastric-digested,NBTg
+18,,Vine shoots boiled and,NBTi
+19,,Vine shoots toasted,NT
+20,,Vine shoots toasted--gastric-digested,NTg
+21,,Vine shoots toasted-intestinal-digested,NTi
+22,,Oak chips,NQ
+23,,Oak chips-gastric-digested,NQg
+24,,Oak chips--intestinal-digested,NQi

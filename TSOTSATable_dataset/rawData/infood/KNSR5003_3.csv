@@ -1,0 +1,10 @@
+,0,1,2
+0,Tagname,Description,Unit
+1,PHYTCPPI,"Phytate,determined by indirect preciptation",mg
+2,PHYTCPPD,"Phytate,determined by direct preciptation",mg
+3,PHYTCPP,"Phytate, calculated from phytate phosphorus by anion exchange method",mg
+4,PHYTC-,"Phytate,calculated from phytate phosphorus by an unknown method",mg
+5,IP3,Inositol triphosphate,mg
+6,IP4,Inositol tetraphosphate,mg
+7,IP5,Inositol pentaphosphate,mg
+8,IP6,Inositol hexaphosphate,mg

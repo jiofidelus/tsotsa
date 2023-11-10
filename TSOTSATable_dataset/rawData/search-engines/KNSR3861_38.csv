@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+0,,,,,,,,,,,Main nutrients,,,,,,,Minerals,,,,,,,Vitamins,,,
+1,,,,,,,DEN,CENERG,WATER,PROCNT,FAT,,FIBTG,ASH,CA,P,NA,K,FE,CU,ZN,RETOL,CARTB,VITA_RAE,THIA,RIBF,NIA,VITC
+2,ASEAN,Origin,Food and description,,,Alternate name,g/mL,kcal,g,,,g,g,g,mg,mg,mg,mg,mg,mg,mg,mcg,mcg,mcg,mg,mg,mg,mg
+3,Food ID,Origin,,,,Alternate name,,,,,,,,,,,,,,,,,,,,,,
+4,,"Beverages, alcoholic","Beverages, alcoholic",,,,,,,,,,,,,,,,,,,,,,,,,
+5,AAP1,"VNP446,PHP001","Beer, pale pilsen",,"Serbesa, pale pilsen(PH).","Serbesa, pale pilsen(PH).",,16,95.8,0.4,(T),3.6,0,0.2,53,16,,,0.2,,,0,0,0,,0.03,0.50,0
+6,Q,"Beverages, nonalcoholic","Beverages, nonalcoholic",,,,,,,,,,,,,,,,,,,,,,,,,
+7,AAQ9,THQ3,"Coffee,icedper",100,,,1.056,63,90.0,1.7,0.6,12.6,p,0.7,49,,68,,0.1,,,,,,,,,
+8,A4Q16,THQ25,,,TH),,1.000,49,88.3,0.0,.0.6,10.7,0.2,0.2,31,3,22,12,,-,0.1,0,-,,,0.03,T,16
+9,AAQ47,THQ11,"Drink, roselle, per 100 ml",,ajnnstlSau(TH),ajnnstlSau(TH),1.062,66,89.6,0.0,0.0,16.4,0.1,0.1,10,-,10,-,0.4,,-,0,,,0.00,1.00,1.80,8
+10,AAQ59,THQ6,(Milo+Ovaltine),,TH),"ntastausaienuan, we",,396,2.3,12.0,5.5,74.7,Op,5.5,474,482,,,9.8,,,0,-,,-,,,
+11,AAQ65,THQ20,"Juice,coconut per100 ml","Juice,coconut per100 ml",NN5(TH),NN5(TH),1.000,(41,89.7,0.1,0.3,(9.5),,0.4,15,,14,,0.1,,,0,,,,,,
+12,AAQ5,,"kernel, per 100 g",,on(VN),,,(22),94.2,0.2,0.0,(5.2),,0.4,30,16,1,198,0.2,,,0,0,0,0.00,0.00,0.00,5
+13,AAQ15,THQ24,er100ml,,jaa 25%(TH),jaa 25%(TH),1.041,55,90.3,0.1,0.0,13.6,0.0,0.1,2,,12,,0.2,,,0,,,,0.03,T,1
+14,AAQ43,THQ27,00ml,,ijha 10%(TH),ijha 10%(TH),1.055,56,91.1,0.6,0.1,13.1,0.1,0.5,8,-,26,117,0.3,,-,0,-,-,0.03,0.20,2.10,0
+15,AAQ32,THQ14,"Juice. palm,100%,per 100",,ijnna 10%(TH),ijnna 10%(TH),1.088,(96),84.0,0.0,T,(24.1),,0.7,26,,26,,0.2,,,0,,,0.01,0.05,0.60,41
+16,AAQ33,THQ31,L00ml,"Juicepassion frit,25%pe",s 25%(TH),s 25%(TH),1.060,73,87.5,0.2,T,18.0,0.1,0.2,5,-,11,,0.2,-,,0,,:,-,0.01,-,1
+17,AAQ57,,Soybean milk,,Ianh(VN),,,53,88.7,2.3,1.9,6.7,0.1,0.3,20,23,2,38,0.4,,-,0,75,6,0.08,0.04,0.50,0
+18,AAQ66,THQ10,,,uNdWaas(TH),uNdWaas(TH),1.048,82,88.0,2.5,3.5,10.0,0.4,0.4,24,,37,,0.4,-,-,,-,,0.01,0.05,,
+19,AAQ55,/THQ8,"Tea, wl mik, per",100,lar2(TH),lar2(TH),1.036,68,87.8,0.1,1.1,14.5,Op,0.1,1,,18,,0.1,,,,-,,,,,-

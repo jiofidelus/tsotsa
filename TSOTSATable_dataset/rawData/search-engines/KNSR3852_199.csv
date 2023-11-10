@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,food,Name,Name,Size,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,Code,Kiswahili,English,.,bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,574,kipande cha kuku,Chicken piece,L,,,,,,,,200,
+3,574,kipande cha kuku,Chicken piece,A,,,,,,,,,200
+4,577,nyama ya kukaanga,Meat fried,Std,300,,,300,,,150,,
+5,577,nyama ya kukaanga,Meat fried,A,,,,,,,,,250
+6,601,juisi ya zabibu,Grape juice,Std,200,,,,,,,,
+7,601,juisi i ya zabibu,Grape juice,A,,,,,,,,,200
+8,651,mchuzi wa kunde bila mafuta,Cow pea relish no oil,Std,450,,,,,,175,,
+9,651,mchuzi wa kunde bila mafuta,Cow pea relish no oil,A,,,,,,,,,200
+10,,,Cow pea relish with,,,,,,,,,,
+11,652,mchuzi wa kunde na tui la nazi,coconut milk,Sta,450,,,,,,175,,
+12,,,Cow pea relish with,,,,,,,,,,
+13,652,mchuzi wa kunde na tuil la nazi,coconut milk,A,,,,,,,,,200
+14,653,Kunde,Cow peas plain,Std,400,,,,,,150,,
+15,653, kunde,Cow peas plain,A,,,,,,,,,150
+16,654,mchuzi wa kunde na mafuta,Cow pea relish with oil,Std,450,,,,,,175,,
+17,654,mchuzi wa kunde na mafuta,Cow pea relish with oil,A,,,,,,,,,200
+18,655,maharage mchanganyiko,Beans in mixed dish,Std,200,,,,,,150,,
+19,655,maharage mchanganyiko,Beans in mixed dish,A,,,,,,,,,100
+20,656,maharage kwa ugali au wali,Bean with ugali or rice,Std,200,,,,,,150,,
+21,656,maharage kwa ugali au wali,Bean with ugali or rice,A,,,,,,,,,120
+22,656,maharage kwa ugali au wali,Bean with ugali or rice,A,,,,,,,,,120
+23,657,maharage- tupu bila mafuta,Beans alone-no oil,Sta,450,,,,,,175,,
+24,657,maharage matupu,Beans alone,A,,,,,,,,,200
+25,658,choroko -- ya kuiva,Mung beans -- cooked,Std,400,,,,,,200,,
+26,658,choroko --ya kuiva,Mung beans-cooked,A,,,,,,,,,150

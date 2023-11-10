@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,No,Project,Year,Picking method,Num-,Number,3D,Environment,Harvest rate,Speed,,Damage rate,Issues,Note
+1,,,,,ber,of cam-,imaging,,,Single,Overall,,to be,
+2,,,,,of,eras,tech-,Description,,Single,Overall,,improved,
+3,,,,,arms,,niques,fied,,arm,,,,
+4,26,Zhao-Apple,2011,Clamp+stem cut,1,1,Stereo,Apple tree,77%*,15s/fruit,,10%*,Effi-,* Vision algo-
+5,,"(Zhao et al.,",,,,,(vision,,,,,(dropped to,ciency,rithm removes
+6,,2011;,,,,,servo),,,,,the ground),Obstacle,occluded fruit
+7,,"Ji et al.,",,,,,,,,,,,avoid-,intentionally
+8,,2012),,,,,,,,,,,ance,before picking
+9,,,,,,,,,,,,,End-,
+10,,,,,,,,,,,,,effector,
+11,,,,,,,,,,,,,adapt-,
+12,,,,,,,,,,,,,ability,

@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6
+0,,,Carbohydrate Extraction,,Fermentation Process,Fermentation Process,
+1,Strain,Content (%),Process,Yield,Organism,Glucose to Bioethanol,Reference
+2,Strain,Content (%),Process,(%),Used,Conversion (g/g glucose),
+3,Tetraselmis seucica,27,"NaOH,120 C",N/A,S. cerevisiae,0.073,[157]
+4,Synechococcus sp.,60,Lysozyme hydrolysis,80,S.cerevisiae,0.37,[158]
+5,Chlorella vulgaris,N/A,"HSO4,120 C",22,E.coli SJL2526,0.4,[159]
+6,infusionum,43.8,"NaOH,120C",79.9,S. cerevisiae,0.26,[160]
+7,Dunaliella tertiolecta,37.8,Chemo-enzymatic,81.7,S. cerevisiae,0.44,[161]

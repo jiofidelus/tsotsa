@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Factor,Major effectsA,Minor effects(B),Proposed relative rates(A+B),factor,factor
+1,Lineament density,1 (D+1 (LULC),0.5 (Geo),2.5,,12
+2,LULC,1(D+1(P),0.5 (Sl) +0.5(Geo + 0.5(Lin) +0.5(Lith),4,,20
+3,Lithology,1 (D) +1 (Lin)+ 1 (LULC) + 1 (So),0.5(Geo),4.5,,22
+4,Drainage density,1(LULC),0.5 (Geo)+ 0.5(So) + 0.5(Lin),2.5,,12
+5,Slope,1 (P)+1 (D),0.5(LULC),2.5,,12
+6,Precipitation,1 (D,0.5(LULC)+0.5(So),2,,10
+7,Soil,1 (LULC),,1,,5
+8,Geomorphology,,0.5(LULC+0.5(So+0.5D,1.5,,7
+9,,,,=20.5,=100,=100

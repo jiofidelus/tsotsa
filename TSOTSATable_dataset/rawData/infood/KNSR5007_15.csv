@@ -1,0 +1,34 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Food,Code,Letter,Name,Energy,Energy,Protein,Fat,Carbo-,Fibre Phytate,Fibre Phytate,Water
+1,group,Code,code,,Energy,Energy,Protein,Fat,hydrate,,,Water
+2,,,,,kcal,kJ,g,g,g,g,g,g
+3,2.3 - Sanyo Mono,2.3 - Sanyo Mono,,,,,,,,,,
+4,145,4637,YM,Sanyo mono,38,159,0.8,0.2,8.8,1.2,0.04,88
+5,146,4625,YA,Sanyo mono and sugar,50,209,1.2,0.2,11.0,1.4,0.04,85
+6,147,4627,YC,Sanyo mono and sour milk,52,218,1.7,1.0,8.9,1.3,0.04,86
+7,148,4373,10,"Sanyo mono, milk and sugar",51,213,1.5,0.5,10.6,1.4,0.04,85
+8,145,4390,oZ,Sanyo mono and baobab juice,38,159,0.8,0.2,8.8,1.2,0.04,88
+9,147,4369,OE,"Sanyo mono, sour milk and baobab juice",48,201,1.5,0.8,9.3,1.4,0.04,87
+10,146,4606,XH,"Sanyo mono, sugar and baobab juice",46,191,0.7,0.2,11.1,1.4,0.04,86
+11,150,4630,YF,"Sanyo mono, groundnuts, sugar and baobab juice",80,336,1.9,1.8,15.0,1.2,0.10,80
+12,3 - Millet (Findo),3 - Millet (Findo),,,,,,,,,,
+13,156,4105,EA,Findi nyelengo and naa,108,452,2.8,0.4,25.0,4.6,0.11,65
+14, 3.1 - Findi Nyelengo and Tia Durango, 3.1 - Findi Nyelengo and Tia Durango, 3.1 - Findi Nyelengo and Tia Durango, 3.1 - Findi Nyelengo and Tia Durango,,,,,,,,
+15,157,4082,DD,"Findi nyelengo, naa and tia durango",97,406,3.5,2.4,14.8,3.4,0.12,72
+16,157,4789,DBE,"Findi nyelengo,naa,tia durango and okra and chilli pepper",98,410,3.3,2.3,17.6,3.5,0.11,71
+17,157,4790,DBD,"Findi nyelengo, naa, tia durango and tomato",99,415,3.3,2.4,17.6,3.5,0.11,71
+18,157,4793,DQA,"Findi nyelengo, naa, tia durango and pumpkin",90,376,2.8,1.6,17.4,3.4,0.10,73
+19,157,4794,DPQ,"Findi nyelengo, naa, tia durango and bitter tomato",96,403,3.2,2.2,17.5,3.5,0.11,72
+20,158,4799,DPX,"Findi nyelengo, naa, tia durango and dried fish (unspecified)",106,444,4.4,2.7,17.6,3.4,0.11,70
+21,158,4803,DQV,"Findi nyelengo, naa, tia durango and fresh fish (unspecified)",102,429,4.2,2.5,17.5,3.4,0.11,67
+22,158,4804,DPZ,"Findi nyelengo, naa, tia durango and fresh fish and oil",117,491,4.1,4.2,17.4,3.4,0.11,66
+23,158,4805,DHL,"Findi nyelengo, naa, tia durango and fish dajiwo",86,361,2.9,1.5,16.7,3.2,0.10,73
+24,161,4786,DTL,"Findi nyelengo, naa, tia durango and chicken",100,419,4.9,1.8,17.3,3.5,0.11,70
+25,157,4787,DOQ,"Findi nyelengo, naa, tia durango and oil",117,490,3.3,4.4,17.6,3.4,0.11,69
+26,3.2 - Findi Nyelengo and Other Sauces,3.2 - Findi Nyelengo and Other Sauces,3.2 - Findi Nyelengo and Other Sauces,3.2 - Findi Nyelengo and Other Sauces,,,,,,,,
+27,160,4090,DL,"Findi nyelengo, naa and jambo",123,515,4.9,2.2,22.2,2.4,0.12,70
+28,160,4169,GM,"Findi nyelengo, naa, jambo and pumpkin",93,391,2.9,1.6,17.9,3.5,0.11,71
+29,3.3 - Findi Mono,3.3 - Findi Mono,,,,,,,,,,
+30,167,4085,DG,Findi mono,32,134,0.8,0.1,7.9,1.5,0.03,89
+31,168,4084,DF,Findi mono and sugar,44,184,1.1,0.2,11.2,1.5,0.03,86
+32,169,4097,DS,Findi mono and sour milk,52,218,1.7,1.0,8.9,1.3,0.03,86

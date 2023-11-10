@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Supplementation,Galactosyl-sucrose,Galactosyl-sucrose,Insoluble dietary fibre,Insoluble dietary fibre,Resistant Starch,,Trypsin inhibitor activity,Trypsin inhibitor activity,Phytic acid,
+1,level,Oligosaccharides,Oligosaccharides,g/100 g,,g/100 g,,(TIU/mg),,mg/100 g,
+2,,millimoles/100 g,millimoles/100 g,,,,,,,,
+3,,Raw,Extruded,Raw,Extruded,Raw,Extruded,Raw,Extruded,Raw,Extruded
+4,RF,0.01,0.92,0.02 ,0.02 ,0.22 ,0.97,1.20,0.23 ,22.21 ,11.341.79
+5,,"0.02d,B","0.06d,A","0.03d,ns","0.01e,ns",0.03cB,"0.04e,4","0.94d,A","0.07e,B","3.65b,ns",ns
+6,R9oC10,1.05,3.34 ,0.79 ,0.72,0.30,1.43 ,10.22 ,4.44,84.67 ,13.40
+7,,"0.26c,B",0.14cA,0.13cns,"0.17d,ns",0.08cB,"0.04d,A",2.47cA,"0.1gd,B","8.13b,A","3.22bc,B"
+8,R8oC1sWo5,0.90 ,3.56 ,1.02 ,0.970.02,0.59 ,2.33 ,13.06 ,5.25 ,123.53 ,18.04 
+9,,0.60cB,0.14c.A,"0.17b,ns","cd,ns","0.06c,B","0.04c,A","3.21c,A","0.18c,B","6.33ab,A","3.22abc,B"
+10,R7oC2oW10,1.50,4.18 ,1.13 ,1.09 ,1.27 ,2.53 ,16.59 ,6.56 ,240.13 ,25.78 
+11,,"0.60a,B","0.07b,A","0.13bc,ns","0.03bc,ns","0.06b,B",0.11CA,"2.87bc,A","0.19b,B","11.43ab,A","2.36abc,B"
+12,R6oC2sW15,2.15 ,4.54 ,1.38 ,1.30,1.60 ,3.10 ,21.77 ,7.04 ,280.38 ,26.29 
+13,,"0.26bc,B",0.08aA,"0.31ab,ns","0.03ab,ns","0.12ab,B",0.13bA,"2.73ab,A","0.04a,B","10.03ab,A","2.6gab,B"
+14,R5oC3oW20,2.30,4.71 ,1.65 ,1.52,1.79 ,4.32 ,23.83 ,7.40 ,365.05 ,33.23 
+15,,"0.03a,B",0.24aA,"0.39a,ns","0.03a,ns","0.31a,B",0.25aA,"2.70a,A",0.0gaB,12.46aA,"7.39a,B"

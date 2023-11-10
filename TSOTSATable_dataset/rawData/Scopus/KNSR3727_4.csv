@@ -1,0 +1,53 @@
+,0,1,2,3,4,5
+0,Peak,Compound,Rt (min),[M-H](m/z),MS2 ion fragments (m/z),Class
+1,[M-H],,,,,
+2,1,Fumaric acid,1.815,115,"71 (100%), 44.8 (29.82%",Organic acids
+3,2,L-Asparagine,2.096,131,114 (100%),Amino acids and derivatives
+4,3,Tartaric acid *,2.154,149,149 (100%),Organic acid
+5,4,10-Hydroxydecanoic acid,2.805,187,115.1 (100%),others
+6,5,Quinic acid*,2.921,191,"87 (171.6%), 111 (25.17%)",Organic acid
+7,6,Laricitrin-3-O-galactoside,4.018,493,331 (100%),Flavonols
+8,7,1-O-Trans-cinnamoyl--glucose,4.357,309,"147.04(100%,103 (15.87)",Flavonols
+9,8,Hydroxybenzoic-4--glucoside,5.421,299,"93 (100%), 137 (50.38%)",Hydroxybenzoic acids and
+10,,,,,,derivatives
+11,9,2-Hydroxybenzoic acid,5.454,137,"137 (100%), 93 (73.6%)",Hydroxybenzoic acids and
+12,,,,,,derivatives
+13,10,4-Hydroxybenzoic acid*,5.479,137,93 (100%),Hydroxybenzoic acids and
+14,,,,,,derivatives
+15,11,Monogalloyl-glucose,5.933,331,"169 (100%), 125 (64.84%)",Hydroxybenzoic acids and
+16,,,,,,derivatives
+17,12,Pantothenic acid,6.096,218,"145.8 (100%), 88.1 (48.28%)",Vitamin
+18,13,Zeatin hexoside,6.717,380,146 (100%),Others
+19,14,Vanillic acid-glycoside,6.948,329,"167 (100%), 151.7 (77.85%",Hydroxycinnamic acid
+20,15,Dihydro-caffeoyl-O-hexoside,7.187,343,"137 (100%), 181 (42.42%)",Flavonoids
+21,16,Hydroxybenzoyl hexose,7.583,299,"136.9 (100%,179(46.18%",Hydroxybenzoic acids
+22,17,Protocatechuic acid,7.847,153,109 (100%),Hydroxybenzoic acids
+23,18,Hydroxybenzoic acid hexose,7.996,299,137 (100%),Hydroxybenzoic acids
+24,19,3-O-Caffeoylquinic acid,8.697,353,"191(100%,135 (39.62%",Hydroxycinnamic acids
+25,20,Tyrosine,9.085,181,119 (100%),Amino acids and derivatives
+26,21,Kaempferol glucoside,10.414,447,"284 (100%), 227 (46.37%), 285",Flavonoids
+27,,,,,(14.61%),
+28,22,Catechin glucoside,10.463,451,289 (100%),Flavan-3-ols
+29,23,O-Coumaric acid 2-O-glucoside,11.140,325,"119.1 (100%),163(8.73%",Hydroxycinnamic acids
+30,24,Caffeic acid-glycoside,11.165,341,"135 (100%), 179 (39.47%)",Hydroxycinnamic acids
+31,25,p-Coumaric acid,11.247,163,119 (100%),Hydroxycinnamic acids
+32,26,O-Coumaric acid diglucoside,11.47,487,"119 (100%),163 (47.64%",Hydroxycinnamic acids
+33,27,Kaempferol hexoside,11.792,447,"284100%,28514.61%",Flavonoids
+34,28,Ellagic acid rhamnoside,12.196,447,301 (100%). 257 (20.05%),Hydroxybenzoic acids
+35,29,Kaempferol-3-O-rutinoside,12.416,593,"285 (100%), 284 (54.15%)",Flavonol glycosides
+36,30,Benzyl alcohol-hexose-pentose,12.485,401,161 (100%),Others
+37,,isomer,,,,
+38,31,Taxifolyn-rutinoside,12.66,611,"285 (100%), 241 (39.75%), 475",Flavonoids
+39,,,,,(22.53%),
+40,32,Taxifolyn-hexoside,13.120,465,"241 (100%), 284.7 (56.38%)",Flavonoids
+41,33,Caffeic acid-glycoside,13.277,341,"179 (100%), 135 (17.46%)",Hydroxycinnamic acids
+42,34,Feruloyl hexose isomer,13.343,355,"149.1 (100%), 134 (6.11%), 192.7",Hydroxycinnamic acid
+43,,,,,(5.6%),
+44,35,Vanillic acid hexoside,13.987,329,"167 (100%,122 (70.78%), 165",Hydroxybenzoic acids
+45,,,,,(20.74),
+46,36,Dihydro-o-coumaric acid 2-O-glu-,14.045,327,"165100%,121(80.94%,147",hydroxycinnamic acid
+47,,coside,,,(14.11%),
+48,37,Catechin*,14.309,289,"245 (100%), 205 (35%)",Flavan-3-ols
+49,38,Quercetin-3-O-xylosylrhamnosyl-,16.017,741,"300 100%,301(16.07%",Flavanonols glycosides
+50,,glucoside,,,,
+51,39,Cinnamic acid,16.355,147,119 (100%),hydroxycinnamic acids

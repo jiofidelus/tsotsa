@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Harvest,Agroclimatic Zone,Orchard,Dry Matter (%),Dry Matter (%),Firmness (N)
+1,Harvest,Agroclimatic Zone,Orchard,Epicarp,Mesocarp,Firmness (N)
+2,,Coast,A,22.1  2.1 ab,"23.3  3.1 a,A","24114 b,A"
+3,,Coast,B,21.1  1.2 a,23.9  2.4 a,241 28 b
+4,Early,Intermediate,D,25.9  2.8 c,26.6  2.7 b,249  11 b
+5,,Interior,F,23.4  1.2 b,23.5  1.7 a,23912 b
+6,,Coast,A,21.9  1.0 a,26.5  1.8 B,"221  9.4 a,B"
+7,,Coast,B,21.8  1.5 a,25.6  2.8,248  21 cd
+8,Middle,,c,24.9  1.5 b,26.0  1.9,"229  8.1 ab,A"
+9,Middle,Intermediate,D,25.6 1.7 b,24.91.4,251 11 d
+10,,Interior,E,21.9  1.2 a,24.7  2.4 B,"238#9.4 bc,A"
+11,,Interior,F,24.3  1.1 b,25.6  2.5,249  12 cd

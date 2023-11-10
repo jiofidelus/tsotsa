@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7
+0,,,Water,Protein,Fat,TDF,Ash,CHO
+1,,Food name,(g),(g),(g),(g),(g),(g)
+2,Cerelas,"Rice, BR-28, parboiled, milled, raw",12.4,6.5,0.4,3.8,0.5,76.4
+3,Cerelas,"Wheat, flour, white",12.2,10.6,1.6,4.4,0.8,70.3
+4,Pulses,"Lentil, dried, raw",12.2,27.7,0.8,13.2,2.9,43.2
+5,,"Bean,seeds and pods,raw",90.0,2.4,0.1,4.3,0.6,2.5
+6,,"Brinjal, purple, long, raw",91.4,1.9,0.1,4.1,0.7,2.0
+7,,"Carrot, raw",89.7,0.9,0.3,2.6,0.6,6.0
+8,,"Green chili, with seeds, raw",85.5,2.8,0.1,8.4,1.0,2.1
+9,,"Onion, raw",83.7,1.4,0.1,1.9,0.7,12.2
+10,,"Tomato, ripe, red, raw",95.0,1.1,0.2,1.7,0.5,1.4
+11,roots,"Potato, Diamond, raw",81.7,1.2,0.2,2.1,0.9,14.0
+12,,"Banana, Sagar,ripe, raw",75.2,1.3,0.838,2.6,0.8,19.2
+13,Fruits,"Jackfruit, ripe,raw",77,1.2,0.2,7.2,1.1,13.3
+14,,"Mango, Langra,yellow flesh,ripe,raw",78.4,0.8,0.4,1.6,0.8,18
+15,,"Pangas, without bones, raw",70.8,15.9,11,0,1,0
+16,Fish,"Rohu, without bones, raw",76.3,20.6,2.6,0,0.9,0
+17,,"Tilapia, without bones, raw",76.2,20.8,3,0,1.1,0
+18,Meat,"Chicken breast,without skin,raw",72.9,22.3,1.8,0,1.1,0
+19,Meat,"Chicken leg, without skin, raw",71.9,19.2,5.7,0,1,0
+20,Egg,"Eggs, chicken, farmed, raw",72.3,14.5,9.0,0,0.8,Tr
+21,Milk,"Milk, cow, whole fat (pasteurised, UTH)",88.3,3.1,3.7,0,0.6,4.3

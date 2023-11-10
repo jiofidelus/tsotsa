@@ -1,0 +1,66 @@
+,0,1,2,3,4
+0,Plant,Species,Compounds,Production,References
+1,foods,,,system,
+2,Passion,P.edulis Sims,Total,1,"Pertuzatti,"
+3,fruits,"f. flavicarpa,",carotenoids,Conventional,"Jacques, Barcia,"
+4,,Degener,-carotene,,"Jacques, Barcia,"
+5,,,Lycopene,,"& Zambiazi,"
+6,,,-Criptoxantin,,2015
+7,Grapefruits,Citrus,-carotene,1," Chebrolu,"
+8,,paradisi Macf,Lycopene,Conventional," Jayaprakasha,"
+9,,,,,"Jifon,& Patil,"
+10,,,,,"2012;Lester,"
+11,,,,,"Buslig,2007"
+12,Acerola,Malpighia,-carotene,1,"Cardoso,"
+13,," punicifolia L.,",,Conventional,"Tomazini,"
+14,,var.Olivier,,,"Stringheta,"
+15,,,,,Pinheiro-
+16,,,,,Sant'Ana2011
+17,Olive oil,Gemilik and,Total,1,DolgunOzcan
+18,,Memecik,carotenoids,Conventional,"&Erbay,2010"
+19,Plums,Prunus,-carotene,,Lombardi-
+20,,"domestica L.,",-carotene,Conventional,"Boccia,"
+21,,cv. Shiro,-carotene,,"Lucarini, Lanzi,"
+22,,,,Organic,"Aguzzi,"
+23,,,,,"Cappelloni,"
+24,,,,,2004
+25,Chinese,Brassica,-carotene, Organic,"Ismail,&"
+26,mustard,juncea,,,"Cheah, 2003"
+27,Swamp,Ipomoea,-carotene,Organic,"Cheah, 2003"
+28,cabbage,aquatica,,,"Cheah, 2003"
+29,Kiwifruits,Actinidia,-carotene,Organic,"D'Evoli et al.,"
+30,," deliciosa, cv.",,,2013
+31,,Hayward,,,
+32,Pepper,Capsicum,Total,Organic,"Hellin,&"
+33,,annuum L.,carotenoids,Organic,"Hellin,&"
+34,,,-carotene,,"Flores,2014;"
+35,,,-carotene,,"Hallmann et al.,"
+36,,,,,2019
+37,Tomato,Solanum,-carotene,No effects," Juroszek,"
+38,,lycopersicum,Lycopene,,"Ledesma, & Ma,"
+39,,L.,,,"Ledesma, & Ma,"
+40,,,,,2009; Ordonez-
+41,,,,,"Santos,"
+42,,,,,Romero-
+43,,,,,"Rodriguez,"
+44,,,,,2011
+45,Carrots,carota cv.,-carotene,No effects,"Soltoft, et al.,"
+46,,bolero,Lutein,,
+47,Wheat,Triticum,Total,No effects,"Stracke, Eitel,"
+48,,aestivum L.,carotenoids,,"Watzl,Mader"
+49,,,Lutein,,"& Rufer,2009"
+50,,,Zeaxanthin,,"Picchi et al.,"
+51,Cauliflower,Brassica,Total,No effects,"Picchi et al.,"
+52,," oleracea, L.,",carotenoids,,2012
+53,Chinese,Botrytis,,,"Ismail,&"
+54,Chinese,Brassica,,,"Ismail,&"
+55,kale,alboglabra,-carotene,No effects,"Cheah, 2003"
+56,Lettuce,Lactuca,-carotene,No effects,"Ismail,"
+57,,sativa,,,"Cheah,2003"
+58,Spinach,Amaranthus,-carotene,No effects,"Ismail,"
+59,,viridis,,,"Cheah,2003"
+60,Pepper,Capsicum,Lutein,No effects,"Hallmann et al.,"
+61,, annuum L.,Zeaxanthin,,2019
+62,Persimmon," kaki L., var.",-carotene,,"Cardoso,"
+63,," kaki L., var.",Lycopene,No effects,"Tomazini,"
+64,,Rama Forte,,," Stringheta,"

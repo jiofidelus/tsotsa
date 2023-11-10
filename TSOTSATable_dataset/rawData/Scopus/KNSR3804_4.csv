@@ -1,0 +1,20 @@
+,0,1,2,3,4
+0,,,B,p,Padj
+1,TMAO,Betaine(uM),-1.376,0.422,0.630
+2,,Carnitine (M),1.444,0.081,0.331
+3,,Choline(uM),0.234,0.249,0.543
+4,Anthropometrics,Waist circumference (cm),1.965,0.117,0.331
+5,,BMI (kg/m2),0.829,0.100,0.331
+6,Endothelial,Systolic BP (mmHg),0.233,0.838,0.950
+7,,Diastolic BP (mmHg),-1.756,0.054,0.305
+8,,Reactive Hyperemia Index,0.007,0.906,0.963
+9,,Augmentation Index 75,-1.200,0.481,0.630
+10,Clinical Chemistry,HDL (mg/dL),1.683,0.287,0.543
+11,,LDL (mg/dL),2.225,0.467,0.630
+12,,Cholesterol (mg/dL),0.039,0.991,0.991
+13,,Glucose(mg/dL),0.022,0.052,0.305
+14,,Insulin (mg/dL),0.069,0.272,0.517
+15,,Triglycerides (mg/dL),0.010,0.825,0.950
+16,Inflammatory,CRP (mg/dL),0.129,0.326,0.554
+17,,TNF-(pg/mL),0.112,0.001,0.024
+18,,IL-6 (pg/mL),0.072,0.283,0.543

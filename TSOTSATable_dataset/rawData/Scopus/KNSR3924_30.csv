@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Investigated,"Extract,",Groups,Animal,,Method for,Microbiome,Method for,,
+1,"Plant, Plant",Sample,(n = Number of,"Species,",Conditions,Microbiome,Changes,Metabolite,Metabolites,Reference
+2,Part,Preparation,Analyzed,Volunteers,,Analysis,Changes,Detection,,Reference
+3,,,Individuals),,,,,,,
+4,,,2 groups:,,,,,,compound K,
+5,,,drinking water;,,,,,,detected in feces,
+6,,,metronidazole-,,treated for 3,,,,from mice,
+7,,ethanolic,supplemented,male C57BL6,"days, fecal",,,,treated with no,
+8,,PQE,"after 7 days, mice",weeks),samples,,,HPLC/TOF-MS,undetectable in,[148]
+9,,,received POE,,collected,,,,feces of,
+10,,,(30 mg/kg/day),,,,,,metronidazole-,
+11,,,(n = 3 per group),,,,,,pretreated mice,
+12,,,,,,,,,16 metabolites,
+13,,,,,,,,,in feces:,
+14,,,1 group:,,,,,,compound K,
+15,"quinquefolius,",American,2 g American,healthy male,and day 7: feces,,,,metabolite; Rk1,
+16,radix,ginseng,day for 7 days,18-45 years,samples,,,LC-Q-TOF-MS,"and Rh4,Rg6",[150]
+17,,powder,n =6; no control,18-45 years,collected,,,,"and Rh4,Rg6",
+18,,,n =6; no control,,,,,,and F4,
+19,,,,,,,,,produced via,
+20,,,,,,,,,dehydration,
+21,,,,,,,,,higher relative,
+22,,,,,,,,,abundance in,
+23,,,1 group:, healthy male,,,,,Asian diet,
+24,,air-dried,2 g American,volunteers (ages,day 1 (control),,,,ginsenoside Rb1;,
+25,,American,ginseng powder in,18-45 years;,and day 7: feces,,,LC-Q-TOF-MS,higher relative,[151]
+26,,ginseng,capsules per day for,three on Asian,samples,,,LC-Q-TOF-MS,abundance in,[151]
+27,,powder,"7 days(n=6,no",diet and three,collected,,,,Western diet,
+28,,,control,on Western diet,,,,,subjects:,
+29,,,,,,,,,"compound K,",
+30,,,,,,,,, ginsenoside Rh2,

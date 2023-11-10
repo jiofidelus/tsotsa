@@ -1,0 +1,45 @@
+,0,1,2,3,4,5
+0,Application,Objective,Fuzzy,Membership functionImportant outcomes,Membership functionImportant outcomes,References
+1,,,inference,,,
+2,,,system,,,
+3,Fava beans,To predict the physical parameters of the beans,Mamdani,Triangular,(i) The model was able to predict thirteen,"Farzaneh et al.(152, 153"
+4,,with various moisture contents,,,parameters of the beans with the moisture con.,
+5,,,,,tent ranging from 9.3 to 31.3% in the input,
+6,,,,,(ii) Comparison was done between the FL,
+7,,,,,results and the experimental value where a,
+8,,,,,high correlation value which is 0.999 and,
+9,,,,,mean standard deviation ranging 1.23-12.56%,
+10,,,,,were obtained as an effective system and can,
+11,,,,,be used to develop a model for controlling and,
+12,,,,,managing various stages during processing,
+13,Flixweed seed,To rank different ways of extraction in prepar-,Mamdani,Triangular,"(i) Ranking based on the properties, extraction",Shahidi et al. [154]
+14,,ing the seeds,,,"output, and duration was able to determine the",
+15,,,,,best method for the preparation of the seeds,
+16,Fresh mango juice,To study the effect of high pressure processes,Mamdani,Triangular,(i) The model was able to determine that the,Kaushik et al. [155]
+17,(litchi juice),(HPP) on sensory attributes of fresh mango,,,HPP effect depended on the type of products,
+18,, juice and litchi juice,,,and domain of pressure-temperature,
+19,,,,,(ii) HPP is proven to be a promising method for,
+20,,,,,the preservation of fruit products,
+21,Hydrogel colloidosomes, To estimate the release of caffeine from hydro-,Mamdani,"Type S, type Z",(i) The proposed diffusional-fuzzy model able,Amiryousefi et al. [156]
+22,,gel colloidosome,,,to describe the caffeine release from hydrogel,
+23,,,,,colloidosomes,
+24,,,,,"(ii) The model has a higher precision, better",
+25,,,,,handling of uncertainty property and better,
+26,,,,,generalization capability,
+27,Onions,To predict the drying kinetics of the onions,Mamdani,Triangular,(i) The model was able to predict the moisture,Jafari et al. [157]
+28,,,,,ratio at varying conditions with high perfor-,
+29,,,,,mance where the value of R obtained was,
+30,,,,,0.9999 and the low root mean square error,
+31,,,,,(RMSE) was 0.004157,
+32,Pineapple Rasgulla,To rank the pineapple Rasgulla with respect to,TSK,Triangular,(i) Sensory evaluation for different concentra,Sarkar et al. [158]
+33,,the parameters,,,tions of pineapple Rasgulla and ranking of the,
+34,,,,,samples was performed successfully by using,
+35,,,,,the FL model,
+36,Pizza production industry To develop a system in order to improve the,Pizza production industry To develop a system in order to improve the,Mamdani,Triangular,(i The developed FL control system is able to,Blasi[159]
+37,,production system,,,identify the amounts of workers and ovens,
+38,,,,,needed in pizza production which improves the,
+39,,,,,customer's satisfactory level by reducing the,
+40,,,,,waiting time as well as reducing the wastage,
+41,Salt,To estimate the production of salt by variables,TSK,Triangular,"(i) By using the Sugeno zero-order model, the",Yulianto et al. [160]
+42,,that affect it,,,time for production of salt could be estimated,
+43,,,,,with a minor error value of 0.0917,

@@ -1,0 +1,17 @@
+,0,1,2,3,4
+0,Condition,Breastfeeding(Months),Comments *,,OR **
+1,Otitis media,3,Exclusive BF,,0.50
+2,Upper RTI,>6,Exclusive BF,,0.30
+3,Lower RTI,4,Exclusive BF,,0.28
+4,Asthma,3,No atopic family history,,0.74
+5,RSV bronchiolitis,>4,,,0.26
+6,NEC,NICU stay,Preterm infants with exclusive HBM,,0.84
+7,Atopic dermatitis,>3,Exclusive BF negative family history,,0.84
+8,Gastroenteritis,Any,Exclusive BF positive family history,,0.36
+9,Gastroenteritis,Any,,-,0.36
+10,Obesity,Any,-,-,0.76
+11,Obesity,Any,,-,0.76
+12,Celiac disease,>2,Gluten exposure when BF,,0.71
+13,T2D,>3,Exclusive BF,,0.71
+14,T2D,Any,,-,0.80
+15,ALL,Any,,,0.64

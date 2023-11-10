@@ -1,0 +1,8 @@
+,0,1,2,3,4
+0,Fouling,N,Linearized Form,,Schematic
+1,Mechanism,N,Linearized Form,,Diagram
+2,blocking,2,LnJ1=LnJ+Kt,(6),
+3,Standard pore,1.5,-0.5+Kst,(7),
+4,blocking,1.5,-0.5+Kst,(7),
+5,pore blocking,1,J1=J1+Kt,(8),
+6,Cake filtration,0,J2=J2+Kct,(9),

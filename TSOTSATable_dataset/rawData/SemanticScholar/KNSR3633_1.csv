@@ -1,0 +1,52 @@
+,0,1,2,3
+0,,,Number,Pearson
+1,,Food set for comparison (food name and food code 1),of fatty,correlation
+2,,,acids,coefficient
+3,Cereals,,,
+4,Between processed cereal and its source,,,
+5,"Barley,milled grain,under-milled pressed barley1-6a","Wheat,soft flourfirst grade1-10a",10,0.96
+6,"Udon,boiled1-21b)","Wheat, soft flour, first grade (1-10a)",10,1.00
+7,Pulses,,10,
+8,Between different harvested areas,,,
+9,China soybeans(7-17,Domestic soybeans(7-15a),12,1.00
+10,U.S.A soybeans(7-16,Domestic soybeans (7-15a),12,1.00
+11,Between processed pulse and its source,,,
+12,Momen tofu (7-2la,U.S.A soybeans{7-16,12,0.99
+13,Itohiki-natto(7-29,China soybeans(7-17),12,1.00
+14,Lght yellow type miso(7-32b,Domestic soybeans (7-15a),11,0.99
+15,Between different portions (with fat or skin),,,
+16,"Beef,inside round,with fat9-15b","Beef, chuck loin, with fat (9-7b)",14,0.99
+17,"Pork,picnic shoulder,with fat(9-63a)","Pork,loin,with fat 9-67a)",12,0.93
+18,"Broiler,breast,with skin(9-47b)","Broiler,thigh,with skin9-49b",18,0.99
+19,"Beef, inside round,without fat9-16b","Beef, chuck loin, without fat (9-8b)",13,0.99
+20,"Broiler,breast, without skin (9-48b)","Pork, loin,without fat (9-68a)",15,1.00
+21,Between fat and meat with fat trimming,"Broiler, thigh, without skin (9-50b)",18,1.00
+22,"Beef separable fat,chuck loin(9-23b)","Beef,chuck loin,without fat (9-8b)",14,0.98
+23,"Beef separable fat, inside round (9-33f)","Beef,inside round,without fat9-16b)",12,0.98
+24,"Pork separable fat,picnic shoulder(9-77b","Pork,picnic shoulder,without fat (9-64a)",16,0.99
+25,"Pork separable fat,loin(9-77c)","Pork,loin,with fat9-67a",15,0.99
+26,"Beef,Chuck loin,with fat (9-7b)","Beef, chuck loin,without fat (9-8b)",14,1.00
+27,"Pork,loin,with fat9-67a","Pork,loin,without fat (9-68a)",15,1.00
+28,Between different sub-species,"Broiler,breast, without skin 9-48b)",18,1.00
+29,Between processed meat and its source,"Beef, chuck loin,with fat,dairy fattened steer (9-7b",14,0.99
+30,Bacon(9-85a),"Pork,loin,with fat 9-67a)",15,1.00
+31,Wiener sausage (9-87e),"Pork,loin,with fat (9-67a)",15,1.00
+32,Fishes and shellfishes,"Pork, loin, with fat (9-67a)",15,0.99
+33,Between wild fish and its cultivated one,,,
+34,"Sweetfish,wild(8-11a)","Sweetfish,cultivated (8-12a)",20,0.72
+35,"Red sea bream,cultivated (8-110a2)","Red sea bream,wild8-110al",21,0.93
+36,"Tiger prawns, cultivated (8-219a2)","Tiger prawns,wild (8-219a1)",20,0.93
+37,Between cooked fish and its raw one,,,
+38,"Horse mackerel, broiled (8-43)",Horse mackerel(8-4a,22,1.00
+39,Octopus.boiled(8-238b,Octopus (8-238a),22,0.99
+40,Between processed fish and its source,Octopus (8-238a),14,0.96
+41,"Sardine,brined and canned (8-88a)",Japanese sardine (8-84a),22,0.98
+42,Hot-smoked salmon(8-80b,Pacific saury (8-95a),22,0.97
+43,Between different portions,Pacific saury (8-95a),22,1.00
+44,Between organ and muscle,Bluefin tuna lean meat (8-150a),22,0.95
+45,"Scallop,adductor muscle(8-196a)",Squid (8-206a),16,0.91
+46,"Scallop,adductor muscle(8-196a)",Scallop (8-195a),20,0.86
+47,Between processed milks and its material,,,
+48,Processed cheese(11-23),Ordinary liquid milk (11-2),19,1.00
+49,Butter (11-28),Ordinary liquid milk (11-2),19,0.99
+50,Butter (11-28),Ordinary liquid milk (11-2),17,0.99

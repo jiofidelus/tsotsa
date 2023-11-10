@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,,,,Age-adjusted model 1,Multivariable-,Multivariable-
+1,,,,,adjusted model 2b,adjusted model
+2,,,,,,3c
+3,,n,"AHEI-2010,",OR (95% CI),OR (95% CI),OR (95% CI)
+4,,,mean (sd),,,
+5,Uncontrolled asthma (after imputation)a,2587,,,,
+6,AHEI-2010 tertile 1,895,38.3 (4.4),1.00 (ref),1.00 (ref),1.00 (ref)
+7,AHEI-2010 tertile 2,884,47.4 (2.0),0.73 (0.560.94),0.72 (0.550.94),0.73 (0.55-0.98)
+8,AHEI-2010 tertile 3,808,56.1 (4.3),0.82 (0.641.06),0.84 (0.651.10),0.86 (0.65-1.12)
+9,P for trend,,,0.11,0.19,0.24
+10,Uncontrolled asthma (before imputation),1858,,,,
+11,AHEI-2010 tertile 1,651,38.2 (4.5),1.00 (ref),1.00 (ref),1.00 (ref)
+12,AHEI-2010 tertile 2,633,47.4 (2.0),0.76 (0.571.00),0.75 (0.571.00),0.76 (0.571.00)
+13,AHEI-2010 tertile 3,574,55.9 (4.2),0.87 (0.661.14),0.89 (0.671.18),0.92 (0.691.2)
+14,P for trend,,,0.32,0.39,0.51

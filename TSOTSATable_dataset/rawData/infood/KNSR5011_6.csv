@@ -1,0 +1,53 @@
+,0,1
+0,Column title,Description
+1,Food item ID,Indicates a unique identification code for each food entry (the first four figures indicate the food
+2,,group and subgroup followed by four sequential figures representing the food number within the
+3,,respective foodgroup)
+4,Old code as in the original,Indicates the unigue identification code for the food entry used in the original FCT/FCDB
+5,source),
+6,Food group,"Indicates which of the 19 groups considered is the product part of (see section Foods,food"
+7,,groups and coding)
+8,'Subgroup',"Indicates the corresponding subgroup of the product (see section Foods,food groups and coding)"
+9,'FoodEx2 code',Indicates the FoodEx2 identification code assigned to each of the food entries
+10,FoodEx2 name,Gives the description of the FoodEx2 code given to the food entry
+11,'Missing facet',Gives the FoodEx2 code that would have to be applied as facet of a facet described within the
+12,,main code
+13,'Exact match',"'Yes' indicates a full match between the food entry and FoodEx2 code,while 'No' indicates that"
+14,,the food entry couldn't be completely described within the system
+15,'Matching comments',Gives the reasons why the exact match wasnt possible
+16,"'Country, region'",Indicates the sampling place (country/region)
+17,'Food type',Gives the type according to the Cultivar/Variety/Accession name' column and the information
+18,,extracted from the original source:
+19,,"C:cultivar,A:accession,V:varietyCncloneBC:breeding clone,G:genotype,B:breed,H:"
+20,,"hybridWwild,T:transgenic,U:underutilizedL:landrace,Li:line,M:mutant"
+21,'Food name in own language',Gives the food name in the own/local language
+22,Food name in English,Gives the food name in English along with a food description
+23,'Processinglinfluencing factor,Minuscule letters indicate the state of the food:
+24,,r=raw;p=processedd=dried
+25,,And the processing method or nutrient content influencing factor:
+26,,"ws:water-soaked, wss:water and salt-soaked,as: ash-soaked, s-: soaked (other or unknown)"
+27,,"f:fermented,f-:unknown fermentation, pb: parboiled,wb:water-boiled,wsb:water and salt-"
+28,,"boiled,b-: boiled(other or unknown)bk:baked,rp: recipe(mix of ingredients,not industrialized"
+29,,"cookedrpi:industrial recipe(mix of ingredients,industrializedcooked, ro:roasted,st: steamed"
+30,,"fr:fried,ac:autoclaved,mw:microwaved,c:cookedunknown exact process),bl:blanched,t:"
+31,,"toasted,sk:smoked,cn:canned,dt:defatted,ex:extruded, ir:irradiated,fz:frozen,a:abrased"
+32,,"th thermally treated (in solution),dh: dehulled, g: germinated, sd: stored, ft: soil fertilization, pt:"
+33,,"pesticide application,ly:lyophilization,gr:grilled, ch:chemically treated"
+34,Species/Subspecies,Gives the scientific name as stated in the original source
+35,'Cultivar/VarietylAccession,"Gives the specific name of the type (cultivar, variety...) according to the original source"
+36,name',
+37,'Season',Indicates the sampling season
+38,'Other',Gives additional information on factors that can influence the nutrient composition (e.g. slaughter
+39,,"weight, size, sex, practices, maturity stage, soil conditions, storage time, cooking and preserving"
+40,,methods)
+41,'n',Gives the number of independent analytical samples (often composite samples).It should not be
+42,,confused with the number of replicates
+43,Comments on data,"Gives information on value conversion (e.g. conversion from dry matter to fresh weight,"
+44,processing/methods',"conversion of denominator to per 100 g EP),information on analytical methods and/or"
+45,,assumptions made on data expression or any other information on the data that are not captured
+46,,in another field
+47,'Publication year',Publication year of the source
+48,'BibliolD,Indicates the reference as ID to link the sheet 'Bibliography'
+49,CompilerID,Gives the identification of the compiler (two/three capital letters of initials)
+50,,"Compilers, who revise and change data of a food entry, add their acronym to the former ID"
+51,,(separated by a coma)

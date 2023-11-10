@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Food,Code,Letter,Name,Energy,Energy,Protein,Fat,Carbo-,Fibre Phytate,Fibre Phytate,Water
+1,group,Code,code,Name,Energy,Energy,Protein,Fat,hydrate,,,Water
+2,,,,,kcal,kJ,g,g,g,g,g,g
+3,256,4400,PJ,Kucha and tulingo,47,196,4.2,0.9,4.7,7.3,0.07,83
+4,256,4607,XI,Kucha and bitter tomato,30,125,2.7,0.3,3.7,5.3,0.03,88
+5,256,4148,FR,Kucha and chilli pepper,34,140,3.0,0.4,3.5,6.0,0.03,87
+6,257,4149,FS,"Kucha, chilli pepper and dried challo",47,199,5.8,0.8,3.5,5.7,0.03,84
+7,257,4397,PG,Kucha and dried challo,48,200,5.8,0.8,3.3,6.0,0.03,84
+8,257,4138,FH,"Kucha,dried challo and okra",46,194,5.7,0.8,3.4,5.7,0.03,84
+9,257,4420,QD,"Kucha, dried challo and naa",50,210,5.9,0.8,3.8,6.3,0.03,83
+10,257,4297,LK,"Kucha,dried challo,naa and okra",48,202,5.8,0.8,3.9,6.0,0.03,83
+11,257,4401,PK,"Kucha, dried challo and tulingo",61,254,6.9,1.3,4.7,7.0,0.07,80
+12,257,4418,QB,Kucha and dried furo,47,196,5.9,0.7,3.3,6.0,0.03,84
+13,257,4421,QE,Kucha and dried furo and naa,49,206,6.0,0.7,3.8,6.3,0.03,83
+14,257,4424,QH,"Kucha, dried furo and tulingo",60,250,7.0,1.1,4.7,7.0,0.07,80
+15,257,4398,PH,Kucha and dried kujalo,47,197,5.9,0.7,3.3,6.0,0.03,84
+16,257,4422,QF,"Kucha, dried kujalo and naa",49,206,6.0,0.7,3.8,6.3,0.03,83
+17,257,4425,QI,"Kucha, dried kujalo and tulingo",60,251,7.0,1.1,4.7,7.0,0.07,80
+18,257,4419,QC,Kucha and dried fish (unspecified),48,199,5.9,0.8,3.3,6.0,0.03,84
+19,257,4423,QG,"Kucha, dried fish (unspecified) and naa",50,208,6.0,0.8,3.8,6.3,0.03,83
+20,257,4608,XJ,"Kucha, dried fish (unspecified) and tulingo",60,253,6.9,1.2,4.7,7.0,0.07,80
+21,257,4359,NU,"Kucha, dried fish (unspecified), tulingo and naa",62,262,7.0,1.2,5.1,7.3,0.08,79
+22,257,4426,QJ,Kucha and fresh challo,42,175,5.4,0.6,3.2,5.5,0.03,77
+23,257,4427,QK,Kucha and fresh furo,42,175,5.4,0.6,3.2,5.5,0.03,77
+24,257,4428,QL,Kucha and fresh kujalo,42,175,5.4,0.6,3.2,5.5,0.03,77
+25,257,4429,QM,Kucha and fresh fish (unspecified),42,175,5.4,0.6,3.2,5.5,0.03,77
+26,257,4431,QO,"Kucha,fresh fish(unspcifiedand naa",44,184,5.5,0.6,3.7,5.8,0.03,76
+27,257,4430,QN,"Kucha, fresh fish (unspecified) and tulingo",55,229,6.5,1.0,4.6,6.5,0.07,73
+28,257,4362,NX,Kucha and shellfish,40,166,4.9,0.5,3.2,5.5,0.03,86
+29,261,4306,LT,Kucha and meat,72,300,9.7,2.2,3.0,4.7,0.02,81
+30,258,4432,QP,Kucha and oil,77,323,2.9,5.4,3.3,6.0,0.03,83
+31,259,4609,XK,Kucha and palm oil,77,323,2.9,5.4,3.3,6.0,0.03,83
+32,257,4404,PN,"Kucha, palm oil and dried challo",91,382,5.7,5.8,3.3,5.7,0.03,80
+33,257,4610,XL,"Kucha, palm oil and dried furo",90,377,5.8,5.6,3.3,5.7,0.03,80

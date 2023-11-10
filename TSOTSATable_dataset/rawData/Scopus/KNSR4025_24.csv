@@ -1,0 +1,67 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Deschpton,,Mean,,,MM,I Max,,
+1,14 - Beverages,,,,,,,I Max,,
+2,14003,"Alcoholic beverage, beer, regular",Dimers,0.82,,0.42,0.08,1.17,BB,"14, 23, 26, 32, 36"
+3,,all,Trimers,0.16,,0.07,0.07,0.30,BB,"14, 23, 26, 36"
+4,,,4-6mers,0.34,3,0.10,0.21,0.40,,"23, 26"
+5,,,7-10mers,0.00,3,0.00,0.00,0.00,,"23, 26"
+6,,,Polymers,0.00,3,0.00,0.00,0.00,,"23, 26"
+7,14096,"Alcoholic beverage, wine, table, red",Dimers,12.30,270,8.90,0.50,95.10,B,"12, 14, 16, 19,"
+8,,(Vitis vinifera),,,,,,,,"20,23,26,30,"
+9,,,,,,,,,,"39, 50, 53, 59, 63"
+10,,,Trimers,2.43,73,2.25,0.17,15.70,,"12, 14, 19, 23,"
+11,,,4-6mers,2.51,57,1.05,0.54,8.60,3,"23, 26, 53"
+12,,,7-10mers,3.77,3,1.95,1.30,5.00,B,"23, 26"
+13,,,Polymers,8.60,3,3.79,3.80,11.00,B,"23, 26"
+14,14097,"red, Cabernet Sauvignon",Dimers,15.16,34,7.79,1.06,39.32,,"9, 12, 59, 63"
+15,,"red, Cabernet Sauvignon",Trimers,2.64,1,,,,,12
+16,14602,"Alcoholic Beverage, wine, table,",Dimers,14.69,14,3.71,4.90,22.66,,63
+17,,"red, Merlot",,,,,,,,
+18,14099,"Alcoholic Beverage, wine, table,",Dimers,18.33,20,9.89,6.70,53.51,B,63
+19,,"red,Pinot Noir",,,,,,,,
+20,14108,"Alcoholic Beverage, wine, table,",Dimers,10.97,4,0.20,10.72,11.21,c,63
+21,,"red, Sangiovese",,,,,,,,
+22,14100,"Alcoholic Beverage, wine, table,",Dimers,11.41,10,2.03,8.25,15.65,B,63
+23,,"red,Syrah",,,,,,,B,63
+24,99439,"Alcoholic beverage, wine, table,",Dimers,0.86,3,,,,,14
+25,,rose,Trimers,0.01,3,,,,c,14
+26,14106,"Alcoholic beverage, wine, table,",Dimers,0.28,90,0.06,0.04,0.56,,"5, 14,51,53, 59"
+27,,white (vitis vinifera),Trimers,0.07,49,0.01,0.00,0.11,B,"14, 51, 53"
+28,,,4-6mers,0.04,45,0.00,0.02,0.06,,53
+29,97002,"Alcoholic beverage, wine, white,",Dimers,4.56,3,,,,c,
+30,,sherry,,,,,,,,
+31,14209,"Coffee, brewed from grounds,",Dimers,0.00,5,0.00,0.00,0.00,,"14, 23, 26"
+32,,prepared with tap water,Trimers,0.00,5,0.00,0.00,0.00,B,"14, 23, 26"
+33,,,4-6mers,0.00,2,,0.00,0.00,3,"23, 26"
+34,,,7-10mers,0.00,2,,0.00,0.00,,"23, 26"
+35,,,Polymers,0.00,2,,0.00,0.00,B,"23, 26"
+36,97081,"Coffee,grounds",Dimers,0.00,3,,,,,14
+37,,,Trimers,0.00,3,,,,c,14
+38,14242,"Cranberry juice cocktail, bottled",Dimers,2.08,13,0.33,1.53,2.71,A,"21, 23, 41a"
+39,,,Trimers,3.62,10,0.85,1.59,4.48,A,"23, 41a"
+40,,,4-6mers,6.63,10,1.04,4.58,7.79,A,"23, 41a"
+41,,,7-10mers,2.26,10,0.68,1.73,3.84,,"23, 41a"
+42,,,Polymers,40.34,10,13.72,8.33,51.86,A,"23, 41a"
+43,14431,"Cranberry juice cocktail,frozen",Dimers,2.23,4,0.53,1.36,2.53,c,21
+44,,"concentrate, prepared with water",,,,,,,,21
+45,,(Vaccinium macrocarpon Ait.),,,,,,,,
+46,14317,"Malted drink mix, chocolate, powder",Dimers,20.60,3,11.59,11.70,33.70,,34
+47,,(Theobroma cacoa),Trimers,8.77,3,5.24,5.40,14.80,c,34
+48,,,4-6mers,12.10,31,9.66,5.60,23.20,c,34
+49,,,7-10mers,0.77,3,0.68,0.00,1.30,c,34
+50,14355,"Tea, black, brewed",Dimers,2.98,4,1.39,0.70,3.74,c,"14, 26"
+51,,,Trimers,0.37,,0.02,0.34,0.38,c,"14, 26"
+52,,,4-6mers,0.35,1,,,,,26
+53,,,7-10mers,0.00,1,,,,,26
+54,,,Polymers,0.00,1,,2.21,,,26
+55,14278,"Tea, green, brewed",Dimers,2.60,4,0.73,2.21,3.80,,"14, 26"
+56,,,Trimers,0.70,,0.30,0.54,1.20,c,"14, 26"
+57,,,4-6mers,0.95,11,,,,, 26
+58,,,7-10mers,0.00,11,,,,,26
+59,,,Polymers,0.00,1,,,,c,26
+60, 16 -- Legumes and Legume Products, 16 -- Legumes and Legume Products,,,,,,,,
+61,16001,"Beans, adzuki, mature seeds, raw",Dimers,19.40,2,,,,,23
+62,,(Vigna angularis),Trimers,18.10,2,,,,,23
+63,,,4-6mers,80.00,2,,,,,23
+64,,,7-10mers,75.70,2,,,,B,23
+65,,,Polymers,252.90,2,,,,B,23

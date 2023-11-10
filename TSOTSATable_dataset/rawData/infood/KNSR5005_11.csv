@@ -1,0 +1,40 @@
+,0,1,2
+0,Component,Component name,Unit
+1,ID/Tagname,,
+2,General description of food,General description of food,
+3,EDIBLE,edible portion coefficient,
+4,PH,"pH, hydrogen ion concentration",
+5,Macronutrients including energy,Macronutrients including energy,
+6,Energy,,
+7,ENERC(kJ)(original),"energy, total metabolizable; calculated from the energy-producing food",kJ
+8,,components (original as from source),
+9,ENERC(kcal),"energy, total metabolizable; calculated from the energy-producing food",kcal
+10,(original),components (original as from source),
+11,ENERA(kJ),"energy, gross; determined by direct analysis using bomb calorimetry",g
+12,ENERA(kcal),"energy,gross; determined by direct analysis using bomb calorimetry",kcal
+13,Alcohol,,
+14,ALC(g),alcohol; assumed to be ethyl alcohol,g
+15,Protein,,
+16,Individual amino acids and aggregations,Individual amino acids and aggregations,
+17,AAE8(mg),"amino acids, total essential (8)",mg
+18,AAE-(mg),"amino acids, total essential;unknown or variable which AS are included in total",mg
+19,AANE(mg),"amino acids, total non-essential",mg
+20,AAA(mg),"amino acids,total aromatic",mg
+21,AAS(mg),"amino acids, total sulphur-containing",mg
+22,AAT-(mg),"amino acids, total; precise definition not specified",mg
+23,AAT19(mg),sum of 19 amino acids (excluding tryptophan),mg
+24,AAT24(mg),"amino acids, total",mg
+25,ALA(mg),alanine,mg
+26,ARG(mg),arginine,mg
+27,ASN(mg),asparagine,mg
+28,ASP(mg),aspartic acid,mg
+29,CYS(mg),cystine,mg
+30,CYSTE(mg),cysteine,mg
+31,GLN(mg),glutamine,mg
+32,GLU(mg),glutamic acid,mg
+33,GLY(mg),glycine,mg
+34,HIS(mg),histidine,mg
+35,HYP(mg),hydroxyproline,mg
+36,ILE(mg),isoleucine,mg
+37,LEU(mg),leucine,mg
+38,LYS(mg),lysine,mg

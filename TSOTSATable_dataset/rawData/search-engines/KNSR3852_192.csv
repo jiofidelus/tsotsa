@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,food,Name,Name,Size,u1,u2,,u3,,u4,u5,,u6,,u7,u8,10
+1,code,Kiswahili,English,,bowl,glass,glass,cup,,plate,tbsp,,tsp,,saucer,unit,Average
+2,432,saladi,Salad green,A,,,,,,,,,,,,,30
+3,451,bia,Beer,Std,,,0.25,,0.2,,.,,,,,,
+4,451,bia,Beer,Std,,,,,,,.,,,,,0.5,
+5,451,bia,Beer,A,,,,,,,,,,,,,500
+6,452, pombe ya kienyeji,Local brew,A,,,,,,,,,,,,,500
+7,455,chocolate,Candy chocolate,A,,,,,,,,,,,,,40
+8,458,soda,Carbonated drink,Std,,,,,,,,,,,,350,
+9,458,soda,Carbonated drink,Std,,,,,,,,,,,,500,
+10,458,soda,Carbonated drink,A,,,,,,,,,,,,,250
+11,460,senene,Cricket,Std,100,,,,,,,,,,,,
+12,460,senene,Cricket,A,,,,,,,,,,,,,100
+13,461,asali,Honey,A,,,,,,,,,,,,,10
+14,462, maji ya matunda yoyote,Any fruit juice,Std,,,250,,,,,,,,,,
+15,462,maji ya matunda yoyote,Any fruit juice,A,,,,,,,,,,,,,250
+16,463,chumvi,Salt,Std,,,,,,,,10,,5,,,
+17,463,chumvi,Salt,A,,,,,,,,,,,,,7.5
+18,464,chumvi bila madini joto,Salt non iodized,Std,,,,,,,,10,,5,,,
+19,464,chumvi bila madini joto,Salt non iodized,A,,,,,,,,,,,,,7.5
+20,465,sukari,Sugar,Std,,,,,,,,15,,5,,,
+21,465,sukari,Sugar,Std,,,,,,,,,,,,,20
+22,466,miwa,Sugar cane,A,,,,,,,,,,,,,400
+23,467,juisi ya miwa,Sugar cane juice,A,,,,,,,,,,,,,250
+24,470, sosi ya nyanya,Tomato ketchup,A,,,,,,,,,,,,,20
+25,474, sosi ya soya,Soy sauce,A,,,,,,,,,,,,,10

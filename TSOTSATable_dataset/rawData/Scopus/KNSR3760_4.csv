@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,,,Isotretinoin(I),Isotretinoin(I),,,Isotretinoin with Evening Primrose Oil (IOW),Isotretinoin with Evening Primrose Oil (IOW),Isotretinoin with Evening Primrose Oil (IOW),Isotretinoin with Evening Primrose Oil (IOW),
+1,,,,,n=25,,,,,n=25,,
+2,Analyzed,Reference Value,before Treatment,before Treatment,after Treatment,after Treatment,Test,before Treatment,before Treatment,after Treatment,after Treatment,McNemar's
+3,Parameter,Reference Value,,Beyond,,Beyond,Test,,Beyond,,Beyond,Test
+4,,,Normal,the Norm,Normal,the Norm,,Normal,the Norm,Normal,the Norm,
+5,,,[%],[%],[%],[%],,[%],[%],[%],[%],
+6,TCH (mg/dL),150-190 mg/dL,92,8,16,84,<0.001,92,8,96,4,1.000
+7,HDL (mg/dL),K-40-80 mg/dL,100,0,100,0,No statis-,100,0,100,0,No statis-
+8,LDL (mg/dL),<115 mg/dL,96,4,96,4,signifi-,100,0,100,0,signifi-
+9,AST (IU/D),35-150 mg/dL,100,0,100,0,cant,100,,96,4,cant
+10,AST (IU/D),032 U/L,100,0,96,4,changes,100,,92,8,changes
+11,ALT (IU/I),033U/L,100,0,100,0,changes,100,0,100,0,changes

@@ -1,0 +1,16 @@
+,0,1
+0,Data were excluded in the following cases,Data were excluded in the following cases
+1,Insufficient food description,Insufficient food description
+2,It was not clear whether data referred to the edible portion,It was not clear whether data referred to the edible portion
+3," Mixed dishes:only single foods were included,except for the addition of the ingredients fat and salt during cooking",
+4,Insufficient data description,Insufficient data description
+5, Missing or ambiguous units and denominators e.g.not clear whether dry or fresh weight basis,
+6,Data displayed only graphically in figures and graphs without providing the related values,
+7,Conversion to'per 100 g edible portion on a fresh weight basis'(EP was not possible because of missing,
+8,"Total protein or total lipid contents as g/100 g EP,when values on fatty (or amino acids were expressed as g/100 g or fatty acids or as g/100 g total lipid(protein)",
+9,"Water(or dry matter content per 100 g EP,when data were expressed as percentage or g per dry matter content",
+10,Inconsistency,Inconsistency
+11," The sum of the proximate composition below 95 or above 105 g,if all proximates were given and no comprehensible reason for a value out of this range could be",
+12,,found
+13,The sum of the amino acids was too low/high in comparison to the protein content,
+14,The sum of the fatty acids was too low/high in comparison to the total lipid content,

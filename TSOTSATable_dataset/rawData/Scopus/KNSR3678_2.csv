@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,No,Project,Year,Picking method,Num-,Number,3D,Environment,Environment,Harvest rate,Speed,,Damage rate,Issues,Note
+1,,,,,ber,of cam-,imaging,Modi-,,,Single,Overall,,to be,
+2,,,,,of,eras,tech-,Modi-,Description,,Single,Overall,,improved,
+3,,,,,arms,,niques,fied,,,arm,,,,
+4,,Xiong-,2019,Isolate+stem cut,1-2,1,Struc-,V,Table top,50-97.1%*,6.1 s/,4.6 s/,N/A,Vision,* Depend on the
+5,,Strawberry,,,,,tured,,trough,,fruit,fruit,,detec-,portion of par-
+6,,"(Xiong et al.,",,,,,light,,,,,(dual,,tion,"tial occlusion,"
+7,,"2019a,",,,,,,,,,,arm),,under,success rate for
+8,,2019b),,,,,,,,,,,,occlu-,fully occluded
+9,,,,,,,,,,,,,,sion,fruit is 5%
+10,,,,,,,,,,,,,,Obstacle,
+11,,,,,,,,,,,,,,dling,
+12,,,,,,,,,,,,,,End-,
+13,,,,,,,,,,,,,,effector,
+14,,,,,,,,,,,,,,ability,
+15,,Shibuya,2014,Stem pinch+cut,-,3*,Stereo,V,Customized,54.90%,8 s/fruit,,N/A,Ripeness,*3CCD cameras
+16,,Seiki,,,,,,,green-,,,,,detec-,
+17,,-Straw-,,,,,,,house,,,,,tion,
+18,,"(Hornyak,",,,,,,,,,,,,detec-,
+19,,2020),,,,,,,,,,,,tion,
+20,,,,,,,,,,,,,,under,
+21,,,,,,,,,,,,,,occlu-,
+22,,,,,,,,,,,,,,Fruit,
+23,,,,,,,,,,,,,,clusters,
+24,,,,,,,,,,,,,,han-,
+25,,,,,,,,,,,,,,Effi-,
+26,,,,,,,,,,,,,,ciency,

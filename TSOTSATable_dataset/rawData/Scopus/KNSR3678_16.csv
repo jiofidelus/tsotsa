@@ -1,0 +1,36 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,No,Project,Year,Picking method,Num-,Number,3D,Environment,,Harvest rate,Speed,,Damage rate,Issues,Note
+1,,,,,ber,of cam-,imaging,,Description,,,Overall,,to be,
+2,,,,,of,eras,tech-,Description,Description,,Single,Overall,,improved,
+3,,,,,arms,,niques,fied,,,arm,,,,
+4,40,Williams-,2019,Grasp+rotate+pull,4,8,Stereo,Typical',Typical',51%*,5.5 sl,N/A,25%*,Adjacent,*51% included
+5,,Kiwifruit,,,,,,,orchard,,fruit*,,,fruit,the unreachable
+6,,(Williams,,,,,,Scaffolding,Scaffolding,,,,,protec-,fruits(normally
+7,,2019),,,,,,canopy,canopy,,,,,Harvest,harvest rate
+8,,2019),,,,,,,cultivation,,,,,Harvest,only account
+9,,,,,,,,,,,,,,rate,for reachable
+10,,,,,,,,,,,,,,Vision,fruits)
+11,,,,,,,,,,,,,,pro-,* 5.5 s/fruit
+12,,,,,,,,,,,,,,cessing,include the
+13,,,,,,,,,,,,,,effi-,time cost on
+14,,,,,,,,,,,,,,ciency,mobile base
+15,,,,,,,,,,,,,,,moving
+16,,,,,,,,,,,,,,,* 25% include
+17,,,,,,,,,,,,,,,15.3% drop
+18,,,,,,,,,,,,,,,rate and 6.7%
+19,,,,,,,,,,,,,,,knock off rate
+20,41,Mu-Kiwi-,2020,Grasp+rotate+pull,1,1,Struc-,Scaffolding,Scaffolding,94.2%*,4-5 s/fruit,,4.9%,Obstacle,*94.2%was
+21,,fruit,,,,,tured,canopy,canopy,,,,,avoid-,based on 240
+22,,"(Mu et al.,",,,,,light,,cultivation,,,,,ance,samples
+23,,2020),,,,,,,,,,,,Effi-,* End-effector
+24,,,,,,,,,,,,,,ciency,to fit various
+25,,,,,,,,,,,,,,End-,kiwifruit size
+26,,,,,,,,,,,,,,effector,and shape
+27,,,,,,,,,,,,,,adapt-,
+28,,,,,,,,,,,,,,ability*,
+29,42,Muscato-,2005,Grasp+stem cut,2,N/A,Cam-,Not specified N/A,Not specified N/A,Not specified N/A,8.7+s/,N/A,N/A,Effi-,* The 8.7 s was
+30,,Orange,,Stem cut,,,era+,,,,fruit*,,,ciency,the time take
+31,,(Muscato,,,,,Ultra-,,,,,,,End-,from vision
+32,,"et al.,",,,,,sonic,,,,,,,effector,localization to
+33,,2005),,,,,sensor,,,,,,,adapt-,fruit removal
+34,,,,,,,,,,,,,,ability,

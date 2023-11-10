@@ -1,0 +1,42 @@
+,0,1,2
+0,component,,Onit
+1,ID/Tagname,,
+2,SUCS(g),sucrose,g
+3,TRES(g),trehalose,g
+4,MALS(g),maltose,g
+5,LACS(g),lactose,g
+6,Oligosaccharides,,
+7,OLSAC(g),"oligosaccharides, total available",g
+8,RAFSM(g),raffinose; expressed as monosaccharide equivalents,g
+9,RAFS(g),raffinose,g
+10,STAS(g),stachyose,g
+11,STASM(g),stachyose; expressed as monosaccharide equivalents,g
+12,VERS(g),verbascose,g
+13,GALSD(g),alpha galactosides,g
+14,Polysaccharides,,
+15,AMYS(g),amylose,g
+16,GLYC(g),glycogen,g
+17,STARCH(g),"starch, available",g
+18,STARCHM(g),"starch, available; expressed as monosaccharide equivalents",g
+19,STARES(g),"starch,resistant",g
+20,STARES3(g),"starch, resistant RS3",g
+21,STARCH-(g),"starch,available; expression unknown",g
+22,"Dietary fibre, fibre, dietary fibre fractions","Dietary fibre, fibre, dietary fibre fractions",
+23,FIBTG(g),"fibre,total dietary; determined gravimetrically by the AOAC total dietary fibre",g
+24,,method (Prosky and similar methods),
+25,FIBTS(g),"fibre, total dietary; sum of non-starch polysaccharide components and lignin",
+26,,(Southgate colorimetric procedure),
+27,FIBTGLCS(g),"fibre, total, insoluble and soluble dietary; determined by enzymatic-",
+28,,gravimetric method and liquid chromatography (A0AC 2011.25),
+29,FIBND(g),fibre;determined by neutral detergent method,g
+30,FIBAD(g),fibre;determined by acid detergent method,g
+31,FIBC(g),"fibre, crude",g
+32,FIB-(g),fibre;method of determination unknown or variable,g
+33,NSP(g),"polysaccharides,non-starch(Englyst method)",g
+34,Dietary fibre fractions,,
+35,FIBINS(g),"fibre,water-insoluble",g
+36,FIBGLCSINS(g),"fibre,water-insoluble(AOAC 2011.25)",
+37,FIBSOL(g),"fibre,water-soluble",g
+38,FIBGLCSSOL(g),"fibre, water-soluble (AOAC 2011.25)",
+39,PECT(g),pectin,g
+40,CELLU(g),cellulose,g

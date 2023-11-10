@@ -1,0 +1,49 @@
+,0,1,2
+0,TOTALMEDAS14SCORE OUTOF,NUMBER OF,PERCENTAGE
+1,13(N=681,PARTICIPANTS,(%)
+2,,(N),
+3,1,1,0.2
+4,2,11,1.6
+5,3,56,8.2
+6,4,218,32.1
+7,5 (median score),276,40.5
+8,6,98,14.4
+9,7,18,2.6
+10,8,3,0.4
+11,Socio-demographics,,
+12,Level of education (n=681),n,Percentage
+13,,,(%)
+14,None,1,0.1
+15,Primary school,47,6.9
+16,Grade 8-10,181,26.6
+17,Grade 11-12,373,54.8
+18,Tertiary education,78,11.5
+19,Don't know,1,0.1
+20,Household income per month (n=679),,
+21,None,2,0.3
+22,R100(7 USD)-R500(33 USD),29,4.3
+23,R501 (33.3 USD)-R1000 (67,58,8.5
+24,USD),,
+25,R1001 (67 USD)-R3000 (201,204,30.0
+26,USD),,
+27,R3001(201 USD)-R5000,160,23.6
+28,(333 USD),,
+29,Over R5000 (>333 USD),200,29.5
+30,Don't know,26,3.8
+31,Employment status (n=681),,
+32,Full time employed,141,20.8
+33,Part time employed,76,11.2
+34,Unemployed,357,52.4
+35,Self-employed,54,7.9
+36,Housewife by choice,34,4.9
+37,Other,19,2.8
+38,Stability of income (past 6 months) (n=664),,
+39,Current income is more than,123,18.5
+40,the usual income received (in,,
+41,the past 6 months),,
+42,Current income is less than,156,23.6
+43,the usual income received (in,,
+44,the past 6 months),,
+45,Current income is the same,385,57.9
+46,as usual income received (in,,
+47,the past 6 months),,

@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Microalgae,,Feedstock Composition,,Biomass,(L CH4/g VS),Reference
+1,,Carbohydrate,Protein,Lipid,Biomass,(L CH4/g VS),
+2,Isochrysis galbana,6.5,15.3,22.8,Acid hydrolysis,0.016,[171]
+3,Nannochloropsis salina,11.5,17.2,37.2,No treatment,0.56,[165]
+4,tricornutum,19,26.5,7.2,No treatment,0.34,[165]
+5, Nanofrustulum sp.,9.0,12.5,13,No treatment,0.51,[165]
+6,Tetraselmis sp.,NA,11.3,NA,Supercritical fluid,0.24,[172]

@@ -1,0 +1,19 @@
+,0,1,2,3
+0,Indicator,Healthy,Unhealthy,KMOa
+1,,Dietary,Dietary,
+2,,Pattern,Pattern,
+3,Sweetened Beverages,0.2080,0.5152,0.5591
+4,Candies,-0.0217,0.3227,0.5114
+5,Packaged snacks,-0.03337,0.3399,0.5494
+6,Cookies (biscuits),0.0572,0.4301,0.5259
+7,Vegetables,0.3171,-0.1973,0.5654
+8,Fruits,-0.1848,-0.5046,0.5675
+9,Legumes,0.4684,0.0005,0.5751
+10,Cereals,0.5563,-0.1067,0.5864
+11,Eggs and Meats,0.5369,-0.1581,0.5896
+12,Eigenvalue,1.43952,1.15046,
+13,Explainedvariance (%,15.99,12.78,
+14,Cumulative variance explained,15.99,28.78,
+15,(%),,,
+16,Overall,,,0.5756
+17,Bartlett's sphericity test,,,p<0.001

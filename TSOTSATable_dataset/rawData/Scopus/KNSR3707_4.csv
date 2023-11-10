@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,Crop Cycle,Setting,Setting-,Harvest,Harvest,Yield
+1,,,Interval (No.of Days),,,t ha-1
+2,1st,65,62,30,157,20
+3,2nd,33,48,18,99,10
+4,,,,(%),,
+5,2nd/1st,50.8,77.4,60.0,63.1,50.0

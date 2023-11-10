@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,Detection technology,Advantages,Disadvantages,Detection range,Limit,References
+1,Chemiluminescent Method,"Visible, High sensitivity, Lower detection limit",Narrow application range,0-0.1M,1600M,Gudkov et al. (2020)
+2,The refractive index method,"Simple operation, Low cost",Poor selectivity,0-110M,3.3X103M,Peng et al.(2005)
+3,Chromatography,"Simple operation, Low cost",Poor selectivity,0-12M,0.05M,Zou et al.2019)
+4,Titration,"High precision, Low cost","Low efficiency, Poor sensitivity",79-17750M,20 M,Gimeno et al.2013
+5,Electrochemical analysis,"Short response time, Better sensitivity",Poor specificity,0.002-2500M,2000 M,Sun et al.2017

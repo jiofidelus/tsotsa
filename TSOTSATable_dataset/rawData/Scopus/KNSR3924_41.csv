@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,"Extract,",Groups,,,,,,,
+1,Investigated,"Extract,",Groups,Animal,,Method for,Microbiome,Method for,,
+2,Part,Sample,(n = Number of,"Species,",Conditions,Microbiome,Changes,Metabolite,Metabolites,Reference
+3,Part,Preparation,Analyzed,Volunteers,,Analysis,Changes,Detection,,
+4,,,Individuals),,,,,,,
+5,,,,,,,rel. increase in,,,
+6,,,4 groups:,,,,Proteobacteria and,,,
+7,,,control group,,,,rel. decrease in,,,
+8,,,"(standard diet, SD);",,treated for,,"Lactobacillus in DSS,",,increase in,
+9,,,DSS colitis group,weaned, 30 days;,,"GSM, and DSS + GMS",,butyric acid and,
+10,,grape seed,BW);GSM group,TOPIGS-40,descending,16S rRNA gene,Megasphaera and, SCFA analysis,"valeric acid, and",[187]
+11,,meal(GSM),(SD + 8% GSM);,hybrid piglets,colon contents,NGS (Illumina),Anaerovibrio in GSM,by GC-FID,decrease in,[187]
+12,,,DSS+GSM group,(9.13  0.03 kg),collected after,NGS (Illumina),and DSS+GSM,,acetic acid by,
+13,,,(SD + 8% GSM +,(9.13  0.03 kg),sacrifice,,groups; rel. decrease,,GSM,
+14,,,DSS 1 g/kg BW),,,,in Roseburia in GSM,,,
+15,,,,,,,groups,,,
+16,,,sham-operated,,,qPCR with,OVX + GSE vs.OVX,,,
+17,,GSE,group (standard,,treated for,group-specific,group:,,,
+18,,Leucoselect@,"diet,SD);OVX",female,8 weeks;fecal,primers,increase in,,,
+19,,(proantho-,group (SD); OVX +,C57BL/6J mice,collected 8,rRNA of total,decrease in,,,[188]
+20,,cyanidin,GSE group (GSE,7 weeks old),weeks after,"bacteria,",Firmicutes and Firmi-,,,
+21,,content >80%),dietn=5per,,surgery,"Firmicutes, and",cutes/Bacteroidetes,,,
+22,,,group),,,Bacteroidetes,ratio,,,

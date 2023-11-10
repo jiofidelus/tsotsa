@@ -1,0 +1,11 @@
+,0,1,2,3
+0,'Food item ID',,,new in version 2.0
+1,'Subgroup'*,,,new in version 2.0
+2,'Processing',,,new in version 2.0
+3,"'Season'*,'Other'*",,,have been separated into two variables
+4,'Comments,on,data,new in version 2.0
+5,processing/methods',,,
+6,'Publication year',,,new in version 2.0
+7,'Compiler ID'*,,,previously added in version 1.1
+8,'Latest revision in version'*,'Latest revision in version'*,,new in version 2.0
+9, * Data from version 1.1 have been updated accordingly,,, * Data from version 1.1 have been updated accordingly

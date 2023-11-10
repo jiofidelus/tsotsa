@@ -1,0 +1,41 @@
+,0,1,2,3,4,5,6
+0,Component,INFOODS,Unit,Denominator,Sig.,Data-,Comment'
+1,,tagname,,,digits,sheet,
+2,Zinc,ZN,mg,/100 g EP,3,04/05,
+3,lodine,ID,ug,/100 g EP,2,04/05,
+4,Selenium,SE,ug,/100 g EP,2,04/05,
+5,Retinol,RETOL,ug,/100 g EP,3,04/05,
+6,B-carotene,CARTB,ug,/100 g EP,3,04/05,Not preferred/improper
+7,,,,,,,"tagname: CARTBEQ, B-"
+8,,,,,,,carotene equivalents
+9,Cholecalciferol,CHOCAL,ug,/100 g EP,2,04/05,
+10,a-tocopherol,TOCPHA,mg,/100 g EP,2,04/05,Not preferred/improper
+11,,,,,,,"tagnames:VITE,a-"
+12,,,,,,,tocopherol equivalents;
+13,,,,,,,"VITE-, unknown"
+14,,,,,,,expression or method
+15,Thiamin,THIA,mg,/100 g EP,2,04/05,
+16,Riboflavin,RIBF,mg,/100 g EP,2,04/05,
+17,Niacin,NIA,mg,/100 g EP,2,04/05,
+18,Niacin equivalents,NIAQ,mg,/100 g EP,2,04/05,Calc.from NIA and
+19,,,,,,,NIATRP(Equation 5).
+20,,,,,,,"NIATRP,niacin"
+21,,,,,,,equivalents from
+22,,,,,,,tryptophan
+23,Pantothenic acid,PANTAC,mg,/100 g EP,2,04/05,
+24,Vitamin B6,VITB6C,mg,/100 g EP,2,04/05,Notpreferred/improper
+25,,,,,,,"tagnames:VITB6A,"
+26,,,,,,,microbiological assay;
+27,,,,,,,"VITB6-, unknown"
+28,,,,,,,expression or method
+29,Folate,FOL,ug,/100 g EP,2,04/05,Not preferred/improper
+30,,,,,,,"tagnames:FOLSUM,sum"
+31,,,,,,,of vitamers determined
+32,,,,,,,by HPLC;FOL-method
+33,,,,,,,unknown orvariable
+34,Vitamin B12,VITB12,ug,/100 g EP,2,04/05,
+35,Vitamin C,VITC,mg,/100 g EP,3,04/05,
+36,Cholesterol,CHOLE,mg,/100 g EP,3,04/05,Not preferred/improper
+37,,,,,,,"tagname: CHOLE-,"
+38,,,,,,,unknown or mixed
+39,,,,,,,iothod

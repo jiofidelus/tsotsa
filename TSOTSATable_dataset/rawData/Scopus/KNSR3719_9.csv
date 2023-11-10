@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7
+0,,Industry,no.ofjobs,Output,Value-added,no.ofjobs,Income,Taxes*
+1,Wholesale/Retail,Wholesale/Retail,"$11,364,383","$16,200,958","$11,364,383",61.2,"$7,623,827","$1,337,832"
+2,Manufacturing,Manufacturing,"$3,426","$9,048","$3,426",0.0,"$3,101",$222
+3,Transportation & Warehousing,Transportation & Warehousing,"$112,008","$218,996","$112,008",1.7,"$100,335",$750
+4,Services**,,"$3,600,317","$5,146,513","$3,600,317",25.9,"$2,355,328","$161,556"
+5,Food&accommodation,Food&accommodation,"$152,190","$224,810","$152,190",2.6,"$94,923","$14,241"
+6,-Other,,"$3,448,127","$4,921,702","$3,448,127",23.4,"$2,260,405","$147,315"
+7,Agriculture,,,$18,$10,0.0,$10,$0
+8,Other,,"$260,836","$443,814","$260,836",2.5,"$273,376","$15,172"
+9,Total**,,"$15,340,980","$22,019,347","$15,340,980",91.4,$10.355.977,$1.515.532
+10,*Indirect Business Taxes,*Indirect Business Taxes,**Services (Totaland Total may not add due to rounding,,,,,

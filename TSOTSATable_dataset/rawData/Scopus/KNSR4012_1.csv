@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Selected textures,,,,,,,,,
+1,Color chan-,Color chan-,Color channel L,Color chan-,Color chan-,Color chan-,Color chan-,Color chan-,Color channel U,color channel
+2,nel R,nel G,,nel a,nel b,nel X,nel Y,nel Z,,V
+3,RHPerc01,GHMaxm10,LHMean,aHMean,bHPerc90,XHSkewness,YHDomn10,ZSGNonZeros,UHSkewness,VHVariance
+4,RHDomn01,GS5SZ5Sum-,LHDomn01,aHSkewness,,XHMaxm01,YS5SN5Su-,,US5SHICon-,VHPerc10
+5,,Varnc,,,,,mEntrp,,trast,
+6,RHDomn10,GS5SZ5Su-,LS4RHLngREmph,aHPerc01,,XS5SZ1Su-,,,US5SN-,VHPerc90
+7,,mEntrp,,,,mEntrp,,,5SumAverg,
+8,RSGArea,GS5SN5Su-,,aHPerc10,,XS5SH5Su-,,,,VHMaxm01
+9,,mEntrp,,,,mEntrp,,,,
+10,RS5SH3Con-,,,aHPerc90,,XS5SZ5Su-,,,,VHDomn01
+11,trast,,,,,mEntrp,,,,
+12,RS5SN5Cor-,,,aHMaxm01,,,,,,VS5SN3Su-
+13,relat,,,,,,,,,mEntrp
+14,RAArea,,,aSGSkewness,,,,,,VS5SZ5Su-
+15,,,,,,,,,,mEntrp
+16,,,,aSGKurtosis,,,,,,
+17,,,,aS4RVG-,,,,,,
+18,,,,LevNonU,,,,,,
+19,,,,aATeta4,,,,,,

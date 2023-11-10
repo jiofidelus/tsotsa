@@ -1,0 +1,33 @@
+,0,1,2,3,4,5
+0,Peak,Compound,Rt (min),[M-H](m/z),MS2 ion fragments (m/z),Class
+1,40,Kaempferol glycoside derivative,17.023,739,"284 (100%), 327 (17.47%)",Flavonoid glycosides
+2,,,,,285(11.34%),
+3,41,Ferulic acid,17.453,193,"134 (100%), 149 (27.54%)",hydroxycinnamic acids
+4,42,Feruloyl hexose isomer,17.477,355,"149 (100%),193 (31.55%)",Hydroxycinnamic
+5,43,Quercetin-3-O-rutinoside*,18.154,609,"300100%,30113.4%",Flavanols
+6,44,Dihydrokaempferol(aromadendrin),18.492,449,269 (100%),Flavanonols
+7,,3-O-hexoside,,,,
+8,45,quercetin-3-0-glucoside,18.822,463,"300 (100%), 301 (8.31%)",Flavanols
+9,46,Gallocatechin*,19.524,305,125 (100%),Flavanols
+10,47,Vanillin,20.019,151,136 (100%),Hydroxybenzoic acids
+11,48,Quercetin-3-O-hexoside,20.423,463,"165 (100%), 301 (86.26%)",Flavanols
+12,49,linoleic acid,20.605,279,,Oxylipins
+13,50,Epicatechin,20.828,289,"163.8 (100%), 124.2 (24.6%)",Hydroxybenzoic acids
+14,51,Kaempferol 3-O-glucoside,21.793,447,285 (100%),Flavonoids
+15,52,Luteolin,22.338,285,151 (22%),Flavonoids
+16,53,Quercetin,22.453,301,"151 (100%),106.8 (41.47%)",Flavonoids
+17,54,Trihydroxy-octadecadienoic acid,22.899,327,"211 (100%), 170.6 (26.61%)",Oxylipins
+18,,isomer,,,,
+19,55,Trihydroxy-octadecaenoic acid,23.542,329,"329100%,17116.48%,211",Oxylipins
+20,,isomer,,,(11.06%,
+21,56,naringenin,23.683,271,"119.3(100%,151.1(58.92%",Flavonoids
+22,57,Kaempferol,23.872,285,"285 (100%), 151 (22%)",Flavonoids
+23,58,palmitic acid,26.612,255,,Fatty acids
+24,59,Hydroxy-octadecadienoic acid,29.830,295,"277 (100%), 208.6 (42.41%)",Fatty acids
+25,,isomer,,,,
+26,M+H]+,M+H]+,,,,
+27,60,Cyanidin 3-O-xylosyl-rutinoside,11.726,727,"287 (100%), 727 (99.32%), 581",Anthocyanins
+28,,,,,(5.86%),
+29,61,Cyanidin-3-glucoside,11.845,449,287 (100%),Anthocyanins
+30,62,Cyanidin 3-O-rutinoside,12.386,595,"287 (100%), 595 (32.39%), 449",Anthocyanins
+31,,,,,(7.33%,

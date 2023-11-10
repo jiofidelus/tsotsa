@@ -1,0 +1,29 @@
+,0,1,2
+0,Abbreviation,Description,Description
+1,AA,amino acid,amino acid
+2,av.,average,average
+3,calc.,calculated,calculated
+4,COFI,Committee on Fisheries,Committee on Fisheries
+5,DP,decimal place,decimal place
+6,EP,edible portion,edible portion
+7,est.,estimated,estimated
+8,FA,fatty acid,fatty acid
+9,FAO,,Food and Agriculture Organization of the United Nations
+10,FCDB,food composition database,food composition database
+11,FCT,food composition table,food composition table
+12,g,gram,
+13,INFOODS,International Network of Food Data Systems,International Network of Food Data Systems
+14,mg,milligram,milligram
+15,N,nitrogen,nitrogen
+16,n.s.,not specific,not specific
+17,RF,nutrient retention factor,nutrient retention factor
+18,sig.,significant,significant
+19,tr,trace,
+20,U,unit,
+21,uFiSh,,FAO/INFOODS Global Food Composition Database for Fish and Shellfish
+22,ug,microgram,microgram
+23,YF,weight yield factor,weight yield factor
+24,w/,with,
+25,w/o,without,without
+26,XFA,fatty acid conversion factor,fatty acid conversion factor
+27,Z,estimated zero,estimated zero

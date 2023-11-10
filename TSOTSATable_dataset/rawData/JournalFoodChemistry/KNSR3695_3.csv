@@ -1,0 +1,27 @@
+,0,1,2,3
+0,Theme,Topic,Example,
+1,,,," When water is absorbed in the cooking process,all other values for nutri-"
+2,,,,ents are lower in the boiled food (if no other ingredients were added in
+3,,,the cooking process),the cooking process)
+4,,,,Exception: vitamin contents (carotenoids can appear to increase due to
+5,,,,cooking as it is easier to extract the carotenoids from the cooked food
+6,,,matrix than from the raw,matrix than from the raw
+7,Checks on recipes,Before starting the recipe calculation,,All ingredients from the recipes are entered in the DB and have a complete
+8,,,,set of components which have been checked and validated
+9,,,,Added water was not forgotten in the recipe calculation e.g.water added in
+10,,,,soups) as it is often not part of the ingredient list in cook books
+11,,Recipe calculation,All formulas in the recipe calculation were correctly applied,All formulas in the recipe calculation were correctly applied
+12,,,,Water or fat as ingredients in recipes were not confused with the compo-
+13,,,"nents 'water' or fat,total' that are measured","nents 'water' or fat,total' that are measured"
+14,,Documentation,,"The source of recipes,YF and RF are included in the documentation of the"
+15,,,user table/DB,user table/DB
+16,,,,The recipe calculation system usedif recipes were calculatedis docu
+17,,,mented in the user table/DB,mented in the user table/DB
+18,Checks on data documentation,Introduction/general documentation,,General information on the total number of foods and total number of com-
+19,,,,ponents presented in the user table/DB is reported
+20,,,,The publication year and number/version/release of the edition are given
+21,,Documentation in the user table/DB,"Comprehensive data documentation at value level (preferably,and/or at food","Comprehensive data documentation at value level (preferably,and/or at food"
+22,,,level is given: source and calculation method (and if possible additionally,level is given: source and calculation method (and if possible additionally
+23,,,"analytical methods, sampling, n, etc","analytical methods, sampling, n, etc"
+24,,Food index and reference list,,"In user tables,the food names are listed alphabetically in the food index in"
+25,,,the national language(s) and English,the national language(s) and English

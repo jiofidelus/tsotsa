@@ -1,0 +1,51 @@
+,0,1,2,3,4,5
+0,nanneanddescripton,,Specific,,Biblio1b,Update
+1,,(including mass,gravity,,,Version
+2,,and bulk density),,,,2.0
+3,Grape juice,1.054,,,S&W,
+4,"Grape juice, canned or bottled, unsweetened, with",1.06,1.07,,USDA,
+5,added ascorbic acid,,,,,
+6,"Grape juice, canned or bottled, unsweetened,",1.06,1.07,,USDA,
+7,without added ascorbic acid,,,,,
+8,"Guanabana nectar, canned",1.02,1.02,,USDA,X
+9,"Guava nectar, canned",1.02,1.02,,USDA,x
+10,"Ice,crushed",0.56-0.72,,,ASI,X
+11,"Juice, apple and grape blend, with added ascorbic",1.05,1.05,,USDA,
+12,acid,,,,,
+13,"Juice, apple, grape and pear blend, with added",1.05,1.05,,USDA,
+14,ascorbic acid and calcium,,,,,
+15,"Lemonade, frozen concentrate, pink",1.24,1.24,,USDA,
+16,"Lemonade, frozen concentrate, white",1.17,1.17,,USDA,
+17,"Lime juice cordial, undiluted",,1.102,,UK 6th,
+18,"Mango nectar, canned",1.00,1.00,,USDA,x
+19,"Meal supplement drink,NESTLE,SUPLIGEN",1.04,1.04,,USDA,x
+20,"canned, peanut flavor",,,,,
+21,Orange juice,1.038,,,S&W,
+22,Orange juice with calcium,1.038,,,S&W,
+23,"Orange juice, canned, unsweetened",1.04,1.05,,USDA,x
+24,Orange soda (sweetened with sugar),1.029,,,S&W,
+25,"QUAKER OATS,PROPEL Fitness Water,fruit-",1.00,1.00,,USDA,x
+26,"flavored, non-carbonated",,,,,
+27,"Soft drinks, cola type",,1.040,,UK 6th,
+28,"Soft drinks, diet soda",0.988,,,S&W,
+29,"Soft drinks, lemonade type",,1.020,,UK 6th,
+30,"Soft drinks, lucozade type",,1.070,,UK 6th,
+31,Soy drink,1.08,,,FNDDS 4.1,
+32,Soya + milk + sugar,1.05,,,KEN,
+33,Soya+ sugar,1.05,,,KEN,
+34,"Sports drink,COCA-COLA,POWERADE,lemon-",1.03,1.03,,USDA,
+35,"lime flavored, ready-to-drink",,,,,
+36,"Sports drink,PEPSICO QUAKER GATORADE,",1.03,1.03,,USDA,X
+37,"GATORADE, original, fruit-flavored, ready-to-",,,,,
+38,drink,,,,,
+39,"Tamarind nectar, canned",1.01,1.01,,USDA,x
+40,Water,,,,CG,x
+41,"Water,ice,0C",0.916,,,TB,
+42,"Water, ice,4C",0.999,,,TB,
+43,"Water, liquid, 20 C",0.998,,,TB,
+44,"Water, mineralwater",1.035-1.04,,,DK,
+45,"Tea,cacao,coffee and drinking powders",,,,,
+46,"Coffee, brewed",1,,,FNDDS 4.1,
+47,"Coffee, expresso",1,,,FNDDS 4.1,
+48,"Coffee, green (beans)",0.59-0.62,0.59-0.62,,ASI,
+49,"Coffee, powder (nescafe)",0.25,,,RC,

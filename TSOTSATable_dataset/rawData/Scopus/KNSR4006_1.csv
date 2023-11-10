@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7
+0,Depth (cm),Texture,pH,Total CaCO3,,,,Organic Matter (O.M.)
+1,Depth (cm),Texture,pH,(mg/L),,,,(%)
+2,060,Sandy Loam,8.0,38.35,,2,,1.36
+3,,Cations (meq/100 g soil),Cations (meq/100 g soil),,,,Anions (meq/100 g soil),
+4,Na+,K+,Ca2+,Mg2+,HCO3,,Cl=,SO42
+5,8.20,1.5,6.20,1.65,8.65,,12.43,3.20

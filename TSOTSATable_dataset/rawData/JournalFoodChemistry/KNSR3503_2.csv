@@ -1,0 +1,38 @@
+,0,1,2
+0,Nutrient,Unit,INFOODS
+1,,,component
+2,,,identifier
+3,Edible portion,ratio,EDIBLE
+4,Energy,"kJ,",ENERC
+5,,kcal,
+6,Water,g,WATER
+7,"Protein, total",g,PROT(formerly
+8,,,PROTCNT)
+9,Fat.total or if missing total fat value for cereals,g,FAT or[FATCE]
+10,then[fat by Soxhlet],,
+11,Carbohydrate available by difference,g,CHOAVLDF
+12,"Fibre,total dietary or if missing then [crude fibre]",g,FIBTG or[FIBC]
+13,Ash,g,ASH
+14,Calcium,mg,CA
+15,Iron,mg,FE
+16,Magnesium,mg,MG
+17,Phosphorus,mg,P
+18,Potassium,mg,K
+19,Sodium,mg,NA
+20,Zinc,mg,ZN
+21,Copper,mg,CU
+22,Vitamin A(expressed in retinol activity,meg,VITA_RAE
+23,equivalents),,
+24,Retinol,meg,RETOL
+25,Beta-carotene equivalents or [beta-carotene],meg,CARTBEQ or
+26,,,[CARTB]
+27,Vitamin D,meg,VITD
+28,Vitamin E(in alpha-tocopherol equivalents or,mg,VITE or
+29,[alpha-tocopherol],,[TOCPHA]
+30,Thiamin,mg,THIA
+31,Riboflavin,mg,RIBF
+32,Niacin,mg,NIA
+33,Vitamin B6,mg,VITB6C
+34,Folate,meg,FOL
+35,Vitamin B2,meg,VITB12
+36,Vitamin C,mg,VITC

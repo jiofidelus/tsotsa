@@ -1,0 +1,21 @@
+,0,1,2,3,4
+0,Population ID,Locality,Specimen Voucher no,Geographical coordinates,Sample sizes
+1,ZJ,"Zhanjiang,Guangdong","20,201.003-ZJ(ZJ1~ZJ12",N21.168E:110.338,12
+2,LS,"Lingshui, Hainan","2,020,718-LS (LS1~LS24)",N18.663E109.931,24
+3,WN,"Wanning, Hainan","2,020,717-WN (WN1~WN24)",N18.719E110.172,24
+4,SD,"Sandu, Guizhou","2,020,721-SD(SD1~SD24)",N25.968E107.846,24
+5,HC,"Hechi,Guangxi","2,020,720-HC(HC1~HC24",N24.402E108.142,24
+6,HZ,"Hezhou,Guangxi","2,020,723-HZ (HZ1~HZ23)",N24.519E111.587,23
+7,NN,"Nanning,Guangxi","2,020,719-NN(NN1~NN24)",N: 22.866; E: 108.237,24
+8,JY,"Jiangyong, Hunan","2,020,724-JY (JY1~ JY24)",N: 25.321; E: 111.402,24
+9,LD,"Guangzhou,Guangdong","20,201,001-LD(LD1~LD24",N23.206E113.357,24
+10,SG,"Shaoguan,Guangdong","20,201,004-SG (SG1~ SG24)",N24.778E113.499,22
+11,SZ,"Shenzhen, Guangdong","20,201,007-SZ(SZ1~SZ21",N22.575E114.07,21
+12,HY,"Heyuan,Guangdong","20,201,005-HY (HY1~HY24)",N23.738E114.662,24
+13,ZP,"Heyuan,Guangdong","20,201,006-ZP (ZP1~ZP24)",N23.543E:114.608,24
+14,LP,"Lianping, Guangdong","20,201,005-LP (LP1~ZP24)",N24.219E114.667,24
+15,MZ,"Meizhou,Guangdong","20,201,006-MZ(MZ1~MZ24)",N24.251E116.121,24
+16,GZ,"Ganzhou, Jiangxi","2,020,727-GZ(GZ1~GZ24)",N25.794E114.991,24
+17,SX,"Shaxian, Fujian","2,020,728-SX (SX1~SX24)",N26.387E117.744,24
+18,ND,NingdeFujian,"2,020,729-ND (ND1~ND24)",N: 26.637;E: 119.53,24
+19,Total,,,,414

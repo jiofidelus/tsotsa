@@ -1,0 +1,16 @@
+,0,1,2,3
+0,Targeted,Percent,Assay Parameters,
+1,Oligosaccharide a,Carbohydrate,Spectrophotometer,Calibration
+2,,,Wavelength (nm),Standard
+3,,,,composition d
+4,FOS DP3,98.3 1.49,672,1 Glucose:2
+5,,,,Fructose
+6,FOS DP4,99.10.19,672,1 Glucose :3
+7,,,,Fructose
+8,GOS DP3,100.60.74,672,1Glucose:2
+9,,,,Galactose
+10,GOS DP4,99.91.89,672,1Glucose:3
+11,,,,Galactose
+12,XOS DP2,99.70.51,465,Xylose
+13,XOS DP3,100.81.55,465,Xylose
+14,XOS DP4,100.2 0.29,465,Xylose

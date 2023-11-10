@@ -1,0 +1,72 @@
+,0,1,2,3,4,5,6,7
+0,,Chemical compound,Molecular,Kenaf,Solvent,Roselle,Solvent,References
+1,,,formula,,,,,
+2,s,Caffeic acid,CgHgO4,"Leaves,","Ethanol,",Calyces,50%,"Sim and Nyam, 2019b; Ryu"
+3,,,CgHgO4,"Stem,","Methanol,",Calyces,"Methanol,","et al.,2017;Zhen et al.,"
+4,,,,Flowers,Water,,70%,"2016; Amaya-Cruz, Perez"
+5,,,,,,,Methanol,"Ramirez, Perez-Jimenez,"
+6,,,,,,,,"Nava & Reynoso-Camacho,"
+7,,,,,,,,2019
+8,,Caffeoylshikimic acid,C16H16O8,-,-,Leaves,70%,"Zhen et al.,2016"
+9,,,,,,,Methanol,
+10,,Chlorogenic acid,C16H1gO19,Leaves,Water,Calyces,70%,"Sim and Nyam,2019b;Zhen"
+11,,,,,,Calyces,Methanol,"et al., 2016; Clifford et al."
+12,,,,,"Chloroform,",,,2003
+13,,Tannic acid,C76H54O46,"Leaves,","Chloroform,",,,"Sim and Nyam, 2019b; Ryu"
+14,,,C76H54O46,Seed,"Ethanol,",,,"et al.,2017"
+15,,,,,"Methanol,",,,
+16,,,,,Water,,,
+17,,Gallic acid,C?H6O5,"Stem,Seed","Ethanol,",Calyces,50%,"Ryu et al.,2017; Amaya"
+18,,,C?H6O5,,Water,Calyces, Methanol,"Cruz et al.,2019"
+19,,Vanillin,CgHgO3,Stem Seed,"Methanol,",,-,"Ryu et al.,2017"
+20,,,,,Water,,,
+21,,p-Hydroxybenzoic acid,C?H6O3,"Stem,","Methanol,",,-,"Ryu et al.,2017"
+22,,,C?H6O3,"Flowers,",Water,,,
+23,,,,Seed,,,,
+24,,p-coumaric acid,CgHgO3,Seed,Water,,,"Ryu et al.,2017"
+25,,Syringic acid,CgH1oOs,Seed,"Methanol,",,,"Ryu et al.,2017"
+26,,,C16H1gO9,,Water,,,
+27,,Cryptochlorogenic acid,C16H1gO9,Leaves,Methanol,,,"Pascoal et al.,2015"
+28,,Feruloylquinic acid,C17H2oO9,Leaves,Methanol,Calyces,50%,"Pascoal et al., 2015; Amaya-"
+29,,,,,,,Methanol,"Cruz et al.,2019"
+30,,Protocatechuic acid,CHO4,Seed,Petroleum ether,,,"Nyam et al., 2009"
+31,,Caffeoylquinic acid,C16H1gO9,,,Calyces,50%,"Amaya-Cruz et al., 2019"
+32,,,,,,,Methanol,
+33,,Ellagic acid,C14H6O8,-,-,Calyces,50%,"Amaya-Cruz et al.,2019"
+34,,,,,,,Methanol,
+35,,Protocatechuic acid,C?HgO4,,"Ethanol,",Calyces,Ethanol,"Lee et al.,2002"
+36,yanins,Anthocyanin,C15HO,Flower,"Ethanol,",,,"Ryu et al.,2017"
+37,,,,," Methanol,",,,
+38,,,,,Water,,,
+39,,Cyanidin sambubioside- hexoside,C32H39O20,,,Calyces,50%,"Amaya-Cruz et al.,2019"
+40,,,,,,,Methanol,
+41,,Delphinidin dihexoside,C21H21O2,,,Calyces,50%,"Amaya-Cruz et al., 2019"
+42,,,,,,,Methanol,
+43,,Pelargonidin,C15HO,,,Calyces,50%,Amaya-Cruz et al.2019
+44,,,,,,,Methanol,
+45,oid,Kaempferol,C15H1oO6,Leaves,"70%Ethanol,","Leaves,",50%,"Sim and Nyam,2019bZhen"
+46,,,C15H1oO6,,Water,Calyces,Methanol,"et al., 2016; Amaya-Cruz"
+47,,,,,,,,"et al.,2019"
+48,,Catechin hydrate,C1sH14O6,Leaves,Water,,,"Sim and Nyam, 2019b"
+49,,Kaempferol glycoside,C21H1oO11,"Leaves,","Ethanol,",Leaves,70%,"Ryu et al.,2017;Zhen et al.,"
+50,,Kaempferol glycoside,C21H1oO11,Stem,"Methanol,",,Methanol,2016
+51,,Myricetin glycoside,C2H2oO13,Flowers,"Ethanol,",Calyces,50%,"Ryu et al., 2017; Amaya-"
+52,,,,,"Methanol,",,Methanol,"Cruz et al.,2019"
+53,,,,,Water,,,
+54,,Afzelin,C21H2oO10,"Leaves,","Ethanol,",,,"Ryu et al., 2017"
+55,,,,Stem," Methanol,",,,
+56,,Isoquercitrin,C21H2oO12,"Leaves,","Ethanol,",,,"Ryu et al.,2017"
+57,,,,Stem,"Methanol,",,,
+58,,,,,Water,,,
+59,,Quercetin hexoside,C2H2oO12,,,Calyces,50%,"Amaya-Cruz et al.,2019"
+60,,,C27H3oO16,,,Leaves, Methanol,
+61,,Quercetin 7-rutinoside,C27H3oO16,,,Leaves,70%,"Zhen et al., 2016;"
+62,,,,,,,Methanol,
+63,,Kaempferitrin,C27H3oO14,"Leaves,","Chloroform,",,,"Ryu et al.,2017"
+64,,,,Stem,"Methanol,",,,
+65,,,,,Water,,,
+66,,Naringin,C27H32O14,"Leaves,","Chloroform,",,,"Ryu et al.,2017"
+67,,,,Seed,Ethanol,,,
+68,,Proanthocyanidin,C31H2gO12,Seed,"Chloroform,",,,"Ryu et al.,2017"
+69,,,C31H2gO12,,Ethanol,,,
+70,,Tiliroside,C3H26O13,Leaves,Methanol,,>,"Pascoal et al.,2015"

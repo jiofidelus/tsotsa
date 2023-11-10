@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6
+0,Outcomes/subgroup,Number of,Number of,Statistical method,Effect estimate,The value of P,Hetero-
+1,,studies,participants,,,,geneity
+2,,,,,,,(12)
+3,Body weight,,,,,,
+4,6 months,7,956,"MD (IV,random95%CI)",3.63[-5.73to-1.53],0.0007,92%
+5,6~12 months,3,321,"MD (IV,random,95%CI)",1.06[-3.48 to1.35],0.39,85%
+6,> 12 months,1,90,"MD (IV,random,95%CI)",5.50 [-7.53 to-3.47],<0.00001,
+7,Waist circumference,,,,,,
+8,6 months,7,1069,"MD (IV, random,95%CI)",2.65 [-4.30 to-0.99],0.002,89%
+9,6~12 months,2,234,"MD (IV,random,95%CI",1.08 [-2.64 to 0.48],0.17,0%
+10,> 12 months,1,90,"MD (IV,random95%CI",-4.50 [-6.98 to-2.02],0.0004,
+11,Hip circumference,,,,,,
+12,6 months,3,880,"MD (IV,random,95%CI)",3.19 [-4.63 to-1.75],<0.0001,85%
+13,6~12 months,2,234,"MD (IV, random,95%CI)",0.93 [-2.73 to-4.58],0.62,81%
+14,> 12 months,1,90,"MD (IV, random,95%CI)",3.90 [-5.74 to-2.06],<0.0001,
+15,Fat-free mass,,,,,,
+16,6~12 months,1,523,"MD (IV,random,95%CI",0.02 [-0.57 to 0.61],0.95,79%
+17,> 12 months,1,90,"MD(IV,random95%CI",2.30[-3.33to-1.27],<0.00001,
+18,LDL-C,,,,,,
+19,6 months,2,568,"MD(IV,random.95%CI",0.12 [-0.25 to 0.02],0.09,0%
+20,6~12 months,1,83,"MD(IV,fixed,95%CI)",-0.97[-1.54to-0.40],0.0009,
+21,Glucose,,,,,,
+22,6 months,2,60,"MD (IV,random,95%CI)",-7.09 [-25.90 to 11.72],0.46,85%
+23,6~12 months,1,83,"MD (IV,random,95%CD",8.30 [-3.58 to 20.18],0.17,
+24,Insulin,,,,,,
+25,6 months,3,134,"MD (IV,random,95%CI)",-2.04 [-5.15 to 1.06],0.20,42%
+26,6~12 months,1,29,"MD (IV, random,95%CI)",2.20 [9.11 to 4.71],0.53,
+27,CRP,,,,,,
+28,6 months,3,157,"MD (IV,fixed,95%CI)",-1.63 [-2.58 to-0.68],0.0008,0%
+29,6~12 months,1,83,"MD (IV,fixed,95%CI)",4.30 [7.68 to0.92],0.01,

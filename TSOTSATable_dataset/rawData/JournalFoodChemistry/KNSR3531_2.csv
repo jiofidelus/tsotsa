@@ -1,0 +1,28 @@
+,0,1,2,3,4,5
+0,,,Secondary structure composition (%,Secondary structure composition (%,Secondary structure composition (%,
+1,,Temperature,-Turn,-Helix,-Sheet,Irregular
+2,,,(%),(%),(%),structure (%)
+3,Protein,25,24.82d3,26.81a2,35.48c1,12.88c4
+4,isolate,,,,,
+5,Albumin,,29.71b2,14.91d3,48.98b1,6.4d4
+6,Globulin,,19.68e3,24.96b2,51.61al,3.75e4
+7,Glutelin,,25.52c3,12.94e4,34.2d1,27.34a2
+8,Prolamin,,33.16a2,15.91c4,34.06d1,16.87b3
+9,Protein,50,16.87b4,23.77c3,31.73e1,27.63a2
+10,isolate,,,,,
+11,Albumin,,30.21a2,16.4d3,46.87b1,6.52d4
+12,Globulin,,16.92b3,23.51c2,44.52c1,15.04b4
+13,Glutelin,,13.46c3,31.25b2,51.91al,3.39e4
+14,Prolamin,,11.88d2,39.9a1,39.36d1,8.86c3
+15,Protein,70,24.01c2,12.49d4,43.12a1,20.38a3
+16,isolate,,,,,
+17,Albumin,,15.61e3,33.08c2,37.66b1,13.65b4
+18,Globulin,,29.92b2,42.73b1,23.51d3,3.84d4
+19,Glutelin,,20.63d2,57.42a1,18.74e3,3.21e4
+20,Prolamin,,44.63a1,11.77e3,36.94c2,6.66c4
+21,Protein,80,24.44b2,12.29c4,42.79d1,20.47a3
+22,isolate,,,,,
+23,Albumin,,15.6d3,16.01d2,56.88al,11.5d4
+24,Globulin,,24.95a2,3.57e4,51.59b1,19.88b3
+25,Glutelin,,17.01c3,27.47a2,51.56b1,3.96e4
+26,Prolamin,,13.11e4,24.27b2,47.19c1,15.44c3

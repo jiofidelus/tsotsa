@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,Composition per 100g ingredient,Composition per 100g ingredient,,,,
+1,Food code,Ingredient,,Water,Protein,Fat,Carbohydrate,kcal,
+2,,,,g,g,g,g,,
+3,4192,Jambo sauce,,78.0,5.5,7.3,5.1,107,
+4,4554,Palm oil,,0,0,99.9,0,900,
+5,4002,Dried kujalo,,20.0,63.0,6.3,0,309,
+6,,,,Amounts in multi-ingredient food,Amounts in multi-ingredient food,,,,
+7,Food code,Ingredient,Weight,Water,Protein,Fat,Carbohydrate,kcal,(kJ)
+8,,,g,g,g,g,g,,
+9,4192,Jambo sauce,90.3,70.4,5.0,6.6,4.6,97,
+10,4554,Palm oil,5.0,0,0,5.0,0,45,
+11,4002,Dried kujalo,4.7,0.9,2.9,0.3,0,14,
+12,Total in recipe,,100.0,71.3,7.9,11.9,4.6,156,(654)

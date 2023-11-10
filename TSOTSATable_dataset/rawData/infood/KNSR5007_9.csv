@@ -1,0 +1,36 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Food,Code,Letter,Name,Energy,Energy,Protein,Fat,Carbo-,Fibre,Phytate,Water
+1,group,Code,code,,Energy,Energy,Protein,Fat,hydrate,Fibre,Phytate,Water
+2,,,,,kcal,kJ,g,g,g,g,g,g
+3,1.3 - Mani Fajiringo and Jambo,1.3 - Mani Fajiringo and Jambo,1.3 - Mani Fajiringo and Jambo,1.3 - Mani Fajiringo and Jambo,,,,,,,,
+4,105,4457,RO,Mani fajiringo and jambo,119,498,4.0,2.2,22.2,2.4,0.10,70
+5,105,4737,RQR,"Mani fajiringo, jambo and tulingo",115,481,4.0,2.8,20.0,2.9,0.11,69
+6,105,4750,RBZ,"Mani fajiringo, jambo and bitter tomato",104,436,3.3,2.1,19.4,2.4,0.08,71
+7,105,4752,RTP,"Mani fajiringo, jambo and pumpkin",97,407,2.9,1.7,19.1,2.3,0.07,72
+8,104,4738,RQS,"Mani fajiringo, jambo and dried challo",115,482,4.5,2.8,19.5,2.4,0.09,69
+9,104,4739,RQT," Mani fajiringo, jambo and dried furo",115,481,4.5,2.7,19.5,2.4,0.09,69
+10,104,4740,RQU," Mani fajiringo, jambo and dried kujalo",115,481,4.5,2.7,19.5,2.4,0.09,69
+11,104,4741,RIH,"Mani fajiringo, jambo and dried fish (unspecified)",115,482,4.5,2.8,19.5,2.4,0.09,69
+12,104,4742,RQW,"Mani fajiringo, jambo and fresh challo",111,466,4.3,2.5,19.4,2.4,0.09,67
+13,104,4743,RQX,"Mani fajiringo, jambo and fresh furo",111,466,4.3,2.5,19.4,2.4,0.09,67
+14,104,4744,RQY," Mani fajiringo, jambo and fresh kujalo",111,466,4.3,2.5,19.4,2.4,0.09,67
+15,104,4685,RQZ,"Mani fajiringo, jambo and fresh fish (unspecified)",111,466,4.3,2.5,19.4,2.4,0.09,67
+16,104,4746,RNY,"Mani fajiringo, jambo and shellfish",111,463,4.1,2.5,19.4,2.4,0.09,70
+17,106,4748,RUG,"Mani fajiringo, jambo and chicken",113,473,4.9,2.5,19.2,2.3,0.08,70
+18,106,4747,RUF,"Mani fajiringo, jambo and meat",118,494,5.6,2.8,19.2,2.3,0.08,69
+19,116,4736,RQQ,"Mani fajiringo, jambo and palm oil",125,522,3.5,4.3,19.5,2.4,0.09,69
+20,,1.4 - Mani Fajiringo and Vegetable Oil Stew,1.4 - Mani Fajiringo and Vegetable Oil Stew,1.4 - Mani Fajiringo and Vegetable Oil Stew,,,,,,,,
+21,114,4467,RY,Mani fajiringo and vegetable oil stew,137,575,2.5,4.3,23.7,2.8,0.06,65
+22,114,4753,RWQ,"Mani fajiringo, vegetable oil stew and pumpkin",118,492,2.5,2.2,23.7,2.7,0.06,68
+23,114,4754,RHQ,"Mani fajiringo, vegetable oil stew and fresh challo",127,531,3.7,2.8,23.5,2.6,0.05,66
+24,114,4755,RHR,"Mani fajiringo, vegetable oil stew and fresh furo",127,531,3.7,2.8,23.5,2.6,0.05,66
+25,114,4756,RHS,"Mani fajiringo,vegetable oil stew and fresh kujalo",127,531,3.7,2.8,23.5,2.6,0.05,66
+26,114,4757,RMU,"Mani fajiringo,vegetable oil stew and shellfish",126,526,3.4,2.8,23.5,2.6,0.05,66
+27,115,4758,RVM,Mani fajiringo and vegetables in palm oil,137,575,2.5,4.4,23.8,2.7,0.06,66
+28,115,4759,RUU,"Mani fajiringo, vegetables in palm oil and fresh challo",127,531,3.7,2.8,23.5,2.6,0.05,66
+29,115,4760,RUV,"Mani fajiringo, vegetables in palm oil and fresh furo",127,531,3.7,2.8,23.5,2.6,0.05,66
+30,115,4761,RUW,"Mani fajiringo, vegetables in palm oil and fresh kujalo",127,531,3.7,2.8,23.5,2.6,0.05,66
+31,115,4762,RUX," Mani fajiringo, vegetables in palm oil and fresh fish (unspecifie",127,531,3.7,2.8,23.5,2.6,0.05,66
+32,115,4763,RMV," Mani fajiringo, vegetables in palm oil and shellfish",126,526,3.4,2.8,23.5,2.6,0.05,66
+33,115,4764,RXW,"Mani fajiringo, vegetables in palm oil and meat",131,547,4.2,3.0,23.5,2.6,0.05,66
+34,115,4765,RXX,"Mani fajiringo, vegetables in palm oil and chicken",130,542,3.4,3.2,23.6,2.6,0.05,66

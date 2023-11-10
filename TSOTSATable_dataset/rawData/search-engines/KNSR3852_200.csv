@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,food,Name,Name,Size,,u1,u2,u3,u4,u5,u6,u7,u8,10
+1,code,Kiswahili,English,,,bowl,glass,cup,plate,tbsp,tsp,saucer,unit,Average
+2,658,choroko,Mung bean,Std,,200,,,,,,100,,
+3,658,choroko, Mung bean,A,,,,,,,,,,100
+4,659,mbaazi mbichi za kuchemshwa,Pigeon peas fresh boiled,Std,,400,,,,,,200,,
+5,659,mbaazi mbichi za kuchemshwa,Pigeon peas fresh boiled,A,,,,,,,,,,120
+6,,mchuzi wa mbaazi na tui la,Pigeon pea relish with,,,,,,,,,,,
+7,660,nazi,coconut milk,Std,,400,,,,,,200,,
+8,,mchuzi wa mbaazi na tui la,Pigeon pea relish with,,,,,,,,,,,
+9,660,nazi,coconut milk,A,,,,,,,,,,120
+10,661,mchuzi wa mbaazi na mafuta,Pigeon pea relish with oil,Std,,400,,,,,,200,,
+11,661,mchuzi wa mbaazi na mafuta,Pigeon pea relish with oil,A,,,,,,,,,,120
+12,662,uji wa soya na sukari,Soya porridge+suga,Std,,400,,200,,,,,,
+13,662, uji wa soya na sukari,Soya porridge+sugar,A,,,,,,,,,,350
+14,663,njugumawe,Bambara nuts,Std,,500,,,,,,200,,
+15,663,njugumawe,Bambara nuts,A,,,,,,,,,,120
+16,664,Dengu iliyopikwa,Chick peas cooked,Std,,200,,,,,,100,,
+17,664,Dengu iliyopikwa,Chick peas cooked,A,,,,,,,,,,75
+18,,,Chick pea relish with,,,,,,,,,,,
+19,664,mchuzi wa dengu na tui la nazi,coconut milk,Std,,300,,,,,,150,,
+20,,,Chick pea relish with,,,,,,,,,,,
+21,664,mchuzi wa dengu na tui la nazi,coconut milk,A,,,,,,,,,,150
+22,752,mchicha bila mafuta,Spinsch relish no oil,Std,,400,,,,,,200,,
+23,752,mchicha bila mafuta,Spinach relish no oil,A,,,,,,,,,,200
+24,753,mchicha na mafuta,Spinach relish+oil,Std,,400,,,,,,200,,
+25,753,mchicha na mafuta,Spinach relish + oil,A,,,,,,,,,,200
+26,754,kachumbari,Cabbage and onion salad,Std,,,,,,,,100,,
+27,754,kachumbari,Cabbage and onion salad,,A,,,,,,,,,50

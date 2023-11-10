@@ -1,0 +1,49 @@
+,0,1,2,3,4,5,6
+0,PlantSpecies,,Familyname,,,,
+1,,,,IHC,VIP,CPI,PCP
+2,Euphorbia hirta L.,Eup hir,Euphorbiaceae,0.00,0.00,0.09,0.25
+3,Euphorbia prostrata Ait.,Eup pro,Euphorbiaceae,0.00,0.00,0.00,0.07
+4,Euphorbia serpens Kunth,Eup ser,Euphorbiaceae,0.00,0.00,0.08,0.30
+5,Fagopyrum tataricum (L.) Gaertn.,Fag tat,Polygonaceae,0.00,0.21,0.00,0.06
+6,Filipendula vestita(Wall.ex G.Don.)Maxim,Fil ves,Rosaceae,0.58,2.22,1.26,0.32
+7,Foeniculum vulgare Mill,Foe vul,Apiaceae,0.70,1.00,0.00,0.68
+8,Fragaria nubicola (Hook. f.) Lindl. ex Lacaita,Franub,Rosaceae,0.15,1.95,0.36,4.11
+9,Fumaria indica (Hausskn) Pugsley,Fum ind,Fumaricaceae,0.00,0.00,0.00,0.13
+10,Galium aparine L.,Gal apa,Rubiaceae,0.00,0.00,0.00,0.01
+11,Galium asparagifolium Boiss.& Heldr.,Gal asp,Rubiaceae,0.00,0.00,0.04,0.02
+12,Galium elagans Wall.,Gal ela,Rubiaceae,0.00,0.00,0.05,0.13
+13,Galinsoga parviflora Cav.,Gal par,Asteraceae,0.00,0.00,0.04,0.02
+14,Gentianodes clarkei (Kusn.) Omer,Gen cla,Gentianaceae,0.00,0.00,0.00,0.10
+15,Gerbera gossypina(Royle) Beauverd,Ger gos,Asteraceae,0.00,0.00,0.00,0.21
+16,Geranium nepalense Sweet.,Ger nep,Geraniaceae,1.83,0.28,1.04,2.16
+17,Geranium wallichianum D.Don ex Sweet,Ger wal,Geraniaceae,2.94,1.04,0.66,3.18
+18,Gymnosporia royleana Wall.ex M.A.Lawson,Gym roy,Celastraceae,0.00,0.46,0.00,0.00
+19,Hackelia uncinata (Benth. C.E.C.Fisch,Hac unc,Boraginaceae,0.33,0.00,0.00,0.00
+20,Hedera nepalensis K. Koch,Hed nep,Araliaceae,0.00,0.00,0.00,2.61
+21,Helianthus annuus L.,Hel ann,Asteraceae,0.14,0.00,0.00,0.00
+22,Heracleum candicans Wall. ex DC.,Her can,Apiaceae,5.89,1.79,0.00,0.00
+23,Hyoscyamus niger L.,Hyo nig,Solanaceae,0.00,0.00,0.07,0.00
+24,Hypericum perforatum L.,Hyp perf,Clusiaceae,0.00,0.00,0.06,0.22
+25,Impatiens bicolor Royle.,Imp bic,Balsaminaceae,0.12,0.29,2.10,3.56
+26,Impatiens brachycentra Kar. & Kir.,Imp bra,Balsaminaceae,3.98,0.16,0.00,0.00
+27,Indigofera australis Willd.,Ind aus,Papilionaceae,1.15,1.27,0.00,0.00
+28,Indigofera hebepetala Baker,Ind heb,Papilionaceae,0.78,1.83,0.00,0.00
+29,Indigofera heterantha Brandis,Ind het,Papilionaceae,5.08,23.51,2.33,2.83
+30,Inula cuspidata(Wall. ex DC.) C.B.Clarke,Inu cus,Asteraceae,0.00,0.00,0.00,0.24
+31,Inula falconeri Hook.f.,Inu fal,Asteraceae,0.00,0.00,0.05,0.10
+32,Ipomoea nil (L.) Roth,Ipo nil,Convolvulaceae,0.00,0.00,0.26,0.50
+33,Isodon rugosus (Wall. ex Benth.) Codd,Iso rug,Lamiaceae,0.00,0.00,5.77,3.32
+34,Juglans regia L,Jug reg,Juglandaceae,4.41,0.56,0.00,0.00
+35,Lactuca tatarica (L.) C.A. Mey,Lac tat,Asteraceae,0.35,0.00,0.48,0.41
+36,Lamium album L.,Lam alb,Lamiaceae,0.00,0.00,0.10,0.06
+37,Lamium amplexicaule L.,Lam amp,Lamiaceae,1.23,0.25,0.53,0.88
+38,Lathyrus aphaca L.,Lat aph,Papilionaceae,4.17,0.70,1.65,1.61
+39,Lathyrus odoratus L,Lat odo,Papilionaceae,0.30,0.74,0.00,0.00
+40,Lathyrus sativa L.,Lat sat,Papilionaceae,0.34,0.90,0.00,0.00
+41,Launaea procumbens (Roxb.) Ramayya and Rajagopal,Laupro,Asteraceae,0.00,0.00,0.91,0.40
+42,Lavatera cachemiriana Camb. in Jacq.,Lav cac,Malvaceae,0.04,0.00,0.00,0.00
+43,Leptodermis virgata Edgew. ex Hook.F.,Lep vir,Rubiaceae,1.36,0.63,1.24,1.67
+44,Ligularia amplexicaulis DC.,Lig amp,Asteraceae,0.00,0.34,0.00,0.11
+45,Lindelofia sp.,Lin sp,Boraginaceae,0.05,0.00,0.00,0.00
+46,Lomatogonium spathulatum (A. Kern.) Fernald,Lom spa,Gentianaceae,0.00,0.00,0.00,0.22
+47,Lonicera caerulea L.,Lon cae,Caprifoliaceae,0.05,0.28,0.07,0.17

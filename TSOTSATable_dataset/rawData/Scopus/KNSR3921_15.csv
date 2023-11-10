@@ -1,0 +1,24 @@
+,0,1,2,3
+0,Dose/Route/Duration,Model,Major Mechanisms,Reference
+1,"Cells treated with:2.5,5",," iNOS, COX-2, TNF-, p65 PGE2, nitrite,",
+2,10 uM for 24 h,AGEs (50ug/mL for 2 h) induced OA,"IL-6,MMP13",
+3,Mice treated with,in chondrocytes," collagen II, aggrecan",[121]
+4,30 mg/kg/day p.o daily,meniscus in mice,"pJNK,p-p38, chondrocytes",
+5,,,and proteoglycans,
+6,,,"neutrophils,MPO,AHR,",
+7,"30, 50, or 100 mg/kg, p.o,",LPS(25ug/25 uL intranasal) induceo,elastanceMIP-2andKC,
+8,4 h before LPS,acute lung inflammation in mice,"alveolar wall thickening,inflammatory",[122]
+9,4 h before LPS,acute lung inflammation in mice,"cell infiltration,alveolar hemorrhage,and",
+10,,,lung tissue damage,
+11,,LPS(10 ug/mL for 24 h) induced,,
+12,"560,860 and 1200uM",inflammation in human,TNF-IL-1,[123]
+13,,myometria biopsies,,
+14,"50 mg/kg,p.o",induced pleurisy in mice,TNF-,[4]
+15,"In vitro:0.5,1,3,10,30","Zymosan (1 mg/cavity, i.p.) induced",1 phagocytosis of neutrophils,
+16,or 90 g/mL,neutrophils in peritoneal cavity of mice,"leukocytes, NO,  mortality",
+17,"and in vivo:50,100",and Cecal ligation and puncture, colony forming units,[124]
+18,or 200 mg/kg p.o 1 h,induced systemic infection, colony forming units,
+19,before surgery,induced systemic infection,,
+20,,LPS(500 ng/mL) induced,"NO, PGE2,  iNOS, COX-2, NF-jB,",
+21,25 and 100 uM for 2h,inflammatory response in RAW264.7,"AP-1,pERK,p-p38",[125]
+22,,macrophages cells,"AP-1,pERK,p-p38",

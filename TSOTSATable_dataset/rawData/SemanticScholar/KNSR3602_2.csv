@@ -1,0 +1,17 @@
+,0,1,2,3,4,5
+0,,Mean difference,,,,LOA(reference
+1,Nutrient,(95% CI),P-value,Mean*,% biast,range for difference
+2,Energy (kcal),182.1(161.2 to 203.0),<0.001,2610.5,7.0,23.0 to 387.3
+3,Carbohydrates (g),33.1 (28.4 to 37.8),<0.001,380.2,8.7,12.9 to 79.1
+4,Protein (g),9.5 (8.3 to 10.7,<0.001,106.2,8.5,-2.5 to 21.6
+5,Total fat (g),4.3 (3.3 to 5.3),<0.001,81.8,5.2,-5.5 to 14.2
+6,Saturated fatty acids(g,0.14-0.14 to 0.7),0.69,27.7,0.5,-5.3 to 5.6
+7,Monounsaturated fatty acids (g,0.1 (0.7 to 0.4),0.33,31.1,-0.3,-0.6 to 5.7
+8,Polyunsaturated fatty acids (g),3.2 (2.7 to 3.7),<0.001,20.5,15.6,1.8 to 8.3
+9,Vitamin A (mg),-72.3-81.2to-63.3,<0.001,1899.9,3.8,-160.1 to 15.4
+10,Vitamin C (mg),2.2 (-1.0 to 5.4),0.90,228.5,1.0,-29.5 to 33.9
+11,Vitamin E (mg),0.8 (0.4 to 1.2),<0.001,17.5,4.6,3.2 to 4.9
+12,Iron (mg),3.5 (3.0 to 3.9),<0.001,18.4,19.0,-1.1 to 8.1
+13,Magnesium (mg),20.6(12.0 to 29.2,<0.001,304.5,6.8,64.0 to 105.3
+14,Selenium (g),9.5-12.1 to-6.9,<0.001,115.2,8.3,35.0 to 15.9
+15,Zinc (mg),0.1 (0.4 to 0.2),0.24,9.0,-1.1,3.1 to 2.9

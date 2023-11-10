@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,Growth Index,Growth Index,Canopy Density,,Days to First,Days to First,Total Fruit,Total Fruit,Total Fruit Fresh,Total Fruit Fresh,Total Fruit Fresh
+1,,,Growth Index,Canopy Density,,Harvest,Harvest,,,,Mass,Mass
+2,Cultivar(Abbreviation),,,,,(No.),,,,,(g),
+3,,GH,IN,GH,IN,GH,IN,GH,IN,GH,,IN
+4,Red (CR),fg w,fgh,0.4 g,*0.6 h,57.6 ab,57.4 ab,hij z,54.2 efg,258.9 e,,284.8 ef
+5,YellowCY,0.019 hi,0.013 hi,0.6 def,0.8 fgh,49.4 def,54.7 ab,64.1 ghi,79.0 ab,281.6 e,,334.4 de
+6,Orange(HBTO,0.014 ij,0.008 jk,0.3 g,*0.6 h,47.0 f,ab,54.9 ij,54.8 efg,200.9 e,,203.9 f
+7,Red (HBTR),0.011 jk,0.010 ij,0.4 efg,* 0.9 efg,49.0 ef,ab,39.2 kl,48.1 gh,177.1 e,,232.8 ef
+8,Little Bing (LB),0.134 a,* 0.046 a,0.6 de,*1.0 c-f,54.7 a-e,56.0 ab,117.6 bc,* 73.8 bc,1020.6,,* 563.4
+9,Little Bing (LB),0.134 a,* 0.046 a,0.6 de,*1.0 c-f,54.7 a-e,56.0 ab,117.6 bc,* 73.8 bc,ab,,ab
+10,Micro Tom (MT),0.0061,0.007 jk,0.4 efg,* 0.9 def,52.5b-f,56.4 ab,46.7 jk,*97.7 a,146.0 e,,236.3 ef
+11,Mohamed (MO),0.034 g,gh,1.3 ab,1.2 abc,61.2 a,62.1 a,70.6 fgh,73.1 bc,605.5d,,479.1 bc
+12,PonchiTM F1-Fa(FA),0.009 k,*0.0051,0.4 fg,*0.7 gh,50.1 c-f,54.5b,33.71,37.9 h,165.3 e,,192.0 f
+13,PonchiTM F1-Mi(MI),0.010 jk,0.006 kl,0.4 g,*0.6 h,46.9 f,53.6 b,46.0 jk,c-f,152.1 e,,220.6 f
+14,PonchiTM F1-Re (RE),0.023 h,jk,0.5 efg,1.0c-f,57.0 abc,59.2 ab,55.1 ij,d-g,204.4 e,,233.0 ef
+15,Rosy Finch (RF),0.051,0.021,1.6a,1.4 ab,61.6 a,60.2 ab,89.1 de,*60.0,847.5 bc,,*510.6
+16,Rosy Finch (RF),def,d-g,1.6a,1.4 ab,61.6 a,60.2 ab,89.1 de,c-g,847.5 bc,,abc
+17,Red Robin (RR),0.037 g,d-g,1.4 ab,1.2b-e,61.2 a,62.4 a,78.0 efg,c-g,736.4 cd,,*448.3 c
+18,Siam (S),def,bed,1.0bc,1.3 abc,54.6 a-e,56.6 ab,93.3 de,* 73.6 bc,681.5 cd,,abc
+19,Sweet'n'Neat Scarlet(SNS),efg,efg,1.0bc,1.2bc,60.4 a,61.1 ab,96.9 cde,bed,723.6 cd,,bc
+20,Sweet'n'Neat Yellow(SNY),0.087 b,bc,0.9 bc,1.2bcd,58.2 ab,60.0 ab,131.6 b,*75.1 bc,885.1 bc,,bc
+21,Sweet SturdyTM,0.086 bc,*0.034,1.4 ab,1.1b-e,58.6 ab,57.4 ab,200.0 a,* 96.7 a,1237.8 a,,*615.9a
+22,F1-Grace(SSG,0.086 bc,ab,1.4 ab,1.1b-e,58.6 ab,57.4 ab,200.0 a,* 96.7 a,1237.8 a,,*615.9a
+23,Sweet SturdyTM,0.061 cd,0.036 ab,1.0bc,1.4ab,56.5 a-d,56.6 ab,92.3 de,60.1,818.0,,*456.5
+24,F1Jimmy (SSJ),0.061 cd,0.036 ab,1.0bc,1.4ab,56.5 a-d,56.6 ab,92.3 de,c-g,bed,,bc
+25,Sweet SturdyTM F1-Jo(SSJO),0.065,*0.034,1.1 abc,*1.6a,58.4 ab,56.7 ab,87.8 def,*67.6,830.4,,*435.6
+26,,bed,ab,1.1 abc,*1.6a,58.4 ab,56.7 ab,87.8 def,b-e,bcd,,cd
+27,Tarzan F1 (TZ),0.132 a,b-e,0.8 cd,1.1b-e,53.9 a-f,57.0 ab,87.3 def,* 50.5 fg,1215.5 a,,abc
+28,Yellow Canary (YC),0.056 de,*0.024,1.0 abc,1.2bc,61.6 a-e,63.1 ab,100.0 cd,*67.5,826.6,,*541.4
+29,Yellow Canary (YC),0.056 de,c-f,1.0 abc,1.2bc,61.6 a-e,63.1 ab,100.0 cd,b-e,bed,,abc
+30,Standard errorx,0.030,0.010,0.2, 0.2,0.11,0.16,1.1,0.1, 84.83,,43.0

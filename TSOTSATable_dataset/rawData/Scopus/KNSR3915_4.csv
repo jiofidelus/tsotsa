@@ -1,0 +1,26 @@
+,0,1,2,3
+0,,,Breast cancer patients,
+1,,,"(BlackN=776,WhiteN=2540)",
+2,,,"Black patients,","White patients,"
+3,,,"multivariate AOR,95% CI","multivariateAOR,95%"
+4,Model1:Age and ICE-Race,Model1:Age and ICE-Race,,
+5,Age at diagnosisa,Age at diagnosisa,"0.89(0.83,0.95)*","0.97 (0.92, 1.01)"
+6,ensustractICE-Raceref=Q5,ensustractICE-Raceref=Q5,,
+7,Q1(most disadvantaged,Q1(most disadvantaged,"2.90 (0.98, 12.42)","2.53 (1.49, 4.22)**"
+8,,Q2,"2.40 (0.80, 10.40)","1.62 (1.07,2.45)*"
+9,Q3,Q3,"2.78(0.91,12.12)","1.40 (0.94, 2.08)"
+10,,Q4,"2.63 (0.78, 12.15)","1.71 (1.17, 2.52)*"
+11,Aodel2:Age and ICE-Income,Aodel2:Age and ICE-Income,,
+12,Age at diagnosisa,Age at diagnosisa,"0.89 (0.83, 0.95)**","0.96(0.92,1.01)"
+13,ensustractICE-Incomeref=Q5,ensustractICE-Incomeref=Q5,,
+14,Q1 (most disadvantaged),Q1 (most disadvantaged),"1.50 (0.85, 2.76)","1.25 (0.76, 2.01)"
+15,,Q2,"1.22 (0.67, 2.28)","1.52 (1.05, 2.20)*"
+16,Q3,Q3,"1.76 (0.88, 3.56)","0.94 (0.63, 1.39)"
+17,,Q4,"1.44 (0.78, 2.72)","1.27 (0.91, 1.77)"
+18,Model 3:Age and ICE-Race/Income,Model 3:Age and ICE-Race/Income,,
+19,Age at diagnosisa,Age at diagnosisa,"0.89 (0.83, 0.95)**","0.97 (0.92, 1.01)"
+20,ensustractICE-Race/Rncomeref=Q5,,,
+21,Q1 (most disadvantaged),Q1 (most disadvantaged),"1.81 (0.84, 4.34)","1.25 (0.70, 2.15)"
+22,,Q2,"1.84 (0.85, 4.47)","1.30 (0.91, 1.87)"
+23,,Q3,"1.68 (0.69,4.40)","1.02 (0.71, 1.45)"
+24,,Q4,"1.83 (0.81, 4.57)","0.89 (0.63, 1.27)"

@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,,TWS-NSP,B.infantis,E.coli,IL-8 Reduction,K. oxytoca,IL-8 Reduction
+1,,TWS-NSP,(CFU/mL),(CFU/mL),(%),(CFU/mL),(%)
+2,,Undigested,,,"49.2  3.1 ABCDEF,L,Q,X",,"34.1  2.3 G,L,S,X"
+3,CE,Undigested,,,,,"34.1  2.3 G,L,S,X"
+4,,Digested,,,"50.6  2.9 ABCD,L,Q,X",,"35.4  1.3 G,L,RS,X"
+5,,,4.56  105,,"49.3  2.2 ABCDEF,L,Q,X",,
+6,,Undigested,,,"49.3  2.2 ABCDEF,L,Q,X",,"35.2  1.5 G,L,RS,X"
+7,ICE,Undigested,,,,,
+8,,Digested,,,"51.4  3.4 ABC,L,Q,X",,"35.5  1.7 G,L,RS,X"
+9,,,,4.33 x 106,"52.0  4.1 ABC,L,Q,X",4.00  106,"38.3  1.4 G,L,QRS,X"
+10,CE,Undigested,,,"52.0  4.1 ABC,L,Q,X",,"38.3  1.4 G,L,QRS,X"
+11,,Digested,,,"52.4  3.0 AB,L,Q,X",,"38.9  1.1 G,L,QR,X"
+12,ICE,Undigested,1.53 x 108,,"52.4  4.5 AB,L,Q,X",,"39.4  1.1 FG,L,QR,X"
+13,,Digested,,,"54.2  3.6 A,L,Q,X",,"40.9  2.1 DEFG,L,Q,X"

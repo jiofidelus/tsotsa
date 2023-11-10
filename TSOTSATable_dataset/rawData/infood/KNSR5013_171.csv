@@ -1,0 +1,36 @@
+,0,1,2
+0,505,Maize porridge (no sugar or milk),
+1,,10 g maize flour,
+2,,Total = 100 g,
+3,506,Maize porridge with sugar,
+4,,10 g maize flour,
+5,,15 g sugar,
+6,,Total = 100 g,
+7,507,Maize porridge with milk and sugar,
+8,,10 g maize flour,50 g milk
+9,,50 g sugar,
+10,508,Millet porridge with sugar,
+11,,10 g millet flour,
+12,,15 g sugar,
+13,,Total =100 g,
+14,509,Mixed flour porridge with groundnuts,Mixed flour porridge with groundnuts
+15,,10 g millet flour,5 g groundnut
+16,,5 g rice flour,4 g vegetable oil
+17,,4 g sugar,
+18,,Total = 100 g,
+19,511,Sorghum flour porridge,
+20,,10 g sorghum,
+21,,15 g sugar,
+22,,Total = 100 g,
+23,512,Chapati,
+24,,500 g wheat flour,250 mg salt
+25,,190 g vegetable oil,
+26,,Total = 1.1 kg,
+27,513,Chapati (dry with less oil),
+28,,500 g wheat flour,
+29,,30 g vegetable oil,
+30,,Total =1 kg,
+31,514,Pancake,
+32,,1 kgplain flour,200 g cooking oil
+33,,300 g egg,5 g salt
+34,,Total =2 kg,

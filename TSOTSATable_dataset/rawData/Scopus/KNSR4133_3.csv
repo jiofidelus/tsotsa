@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,"Species, infection definition",Number of infections,14,28,42,56,70,84,98,112,126,140,Median
+1,Corynebacterium bovis,,,,,,,,,,,,
+2,Definition A-all,347,-,96,63,45,46,25,24,19,13,16,56
+3,Definition A-excl. censored,123,,43,27,17,17,10,4,5,0,0,42
+4,Definition B-all,800,474,168,82,37,22,8,4,1,2,2,14
+5,Definition Bexcl. censored,463,299,90,40,19,12,2,,0,0,0,14
+6,Definition C,1,1,0,0,0,0,0,0,0,0,0,14
+7,Corynebacterium amycolatum,,,,,,,,,,,,
+8,Definition A-all,24,-,9,5,1,2,4,3,0,0,0,42
+9,Definition A-excl. censored,10,-,3,4,0,,1,2,0,0,0,42
+10,-all,69,44,16,3,4,,2,0,0,,0,14
+11,Definition B-excl. censored,39,26,8,3,1,0,1,0,0,0,0,14
+12,Corynebacterium xerosis,,,,,,,,,,,,
+13,Definition B-all,14,14,0,0,0,,0,0,0,0,0,14
+14,Definition B-excl. censored,9,9,0,0,0,0,0,0,0,0,0,14

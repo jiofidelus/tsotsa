@@ -1,0 +1,56 @@
+,0,1,2,3,4,5
+0,Protein,Gene,Subcellular,Tissue Expression,Phenotypes of KO or Mutant,Diseases Associated
+1,Protein,Gene,Localization,Tissue Expression,Animals,with Mutations
+2,,,,,KO: Fear memory decrease [153],
+3,,,,,Long-term memory impairment in,
+4,,,,Brain [150]: synaptic vesicles of,males [154],
+5,,,Synaptic vesicles,glutamatergic neurons of,Spatial navigation and memory,
+6,ZnT3,SLC30A3,"[148,149]","hippocampus [151,152] and","defects [154,155]",
+7,,,"[148,149]","cerebral cortex [151,152], testis",Autism-like phenotype in males:,
+8,,,,"[150], epididymis [138]","decreased social interaction,",
+9,,,,,decreased locomotion and increased,
+10,,,,,anxiety-like behavior[156],
+11,,,,"Human:wide expression,",,
+12,,,,enriched in brain (hippocampus,,
+13,,,,"and caudate), thyroid, lung",,
+14,,,"Plasma membrane,",Mouse: mammary gland,Mutations:low zinc in breast milk,
+15,ZnT4,SLC30A4,intracellular vesicles,"[158,159]","(lethal milk mouse) [158,159,161]",
+16,,,"[144,157]",Human and mouse: SLC30A4,"(lethal milk mouse) [158,159,161]",
+17,,,,transcript expression in small,,
+18,,,,intestine but not protein,,
+19,,,,"[138,160]",,
+20,,,,,Homozygous loss of function:,
+21,,,"Golgi [162], plasma",,"perinatal death, cardiomyopathy",
+22,,,"membrane [163,164],",Ubiquitous [138] with higher,"hydrops fetalis, cystic hygroma",
+23,ZnT5,SLC30A5,cytoplasmic vesicles,"levels in stomach (parietal cells),",[167],
+24,,,[165],duodenum and jejunum [166],muscle weakness and male-specific,
+25,,,,,sudden cardiac death[168],
+26,,,,Human:ubiquitous [138],,
+27,ZnT6,SLC30A6,vesicles [169],lung and small intestine [169],,
+28,,,,(duodenum and jejunum) [166],,
+29,,,,Human: ubiquitous with higher,,
+30,,,,levels in small intestine and,,
+31,,,,"colon, but low levels in the",,
+32,,,,brain[138],,
+33,,,"Golgi, intracellular",Mouse: SLC30A7 transcript,KO: Irreversible growth retardation,
+34,ZnT7,SLC30A7,vesicles [170],"expression in liver, kidney",KO: Irreversible growth retardation,
+35,,,vesicles [170],spleen and small intestine [170],"small weight, zinc deficiency [171]",
+36,,,,but protein only detected in,,
+37,,,,duodenum and jejunum (high),,
+38,,,,and along the gastrointestinal,,
+39,,,,tract (lower expression) [166],,
+40,,,Secretory granules,Mouse: pancreatic beta and,Pancreatic function defects,
+41,ZnT8,SLC30A8,"[172,173]","alpha islet cells, thyroid,",[172-176],
+42,,,"[172,173]",adrenal gland [173],Increased adiposity [177],
+43,,,,Ubiquitous [138] with higher,"No KO model,but",
+44,,,"Cytoplasm,nucleus","levels in cerebellum, skeletal","(c.1047_1049delGCA,p.(A350del))",
+45,ZnT9,SLC30A9,[178-180];endoplasmic,"muscles, thymus and kidney",mutation causes neurological,
+46,,,reticulum [181],"muscles, thymus and kidney",alterations and severe intellectual,
+47,,,,,disability [181],
+48,,,,,,Juvenile-onset
+49,,,,,,"dystonia, adult-onset"
+50,,,,"Small intestine, liver, cerebral",No changes in plasma or tissue Zn,"parkinsonism, severe"
+51,ZnT10,SLC30A10,membrane[182],"cortex [138,182], and retina","concentration, but high manganese","polycythemia,and"
+52,,,membrane[182],[181],[183],chronic hepatic
+53,,,,,,disease (steatosis and
+54,,,,,,"cirrhosis) [184,185]"

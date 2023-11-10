@@ -1,0 +1,45 @@
+,0,1,2,3,4,5,6
+0,Attempted identification,m/z,MS/MS,Reference,,Flour,
+1,,Organic acids,,,,,
+2,Malic acid,133,115,Abu-reidah et al1,+,,
+3,Citric acid,191,111,Cheikhrouhou and,+,,
+4,,,,"Khemakhem,52 Silva",,,
+5,,,,et al20,,,
+6,Traumatic acid,227,83,Wang et al.53,+,,
+7,Palmitic acid,255,237,Zhang et al.54,+,,
+8,Oleic Acid,281,237,Wang et al.53,+,,
+9,Ricinoleic acid,297,183,Zhang et al.54,+,,
+10,Octadecanedioic acid,313,295,Zhang et al.54,-,,+
+11,,Phenolic Compounds,,,,,
+12,,Benzoic acids,,,,,
+13,Gallic acid,170,125,Ee et al5,+,,+
+14,Ellagic acid,302,284,Ee et al55,+,,-
+15,,Cinnamic acids,,,,,
+16,Caffeic acid,179,135,Kang et al6,+,,+
+17,Ferulic Acid,193,134,Zhang et al.49,+,,
+18,1-O-Dihydrocaffeoylglycerol,255,"135,181",Kang et al 6,+,,
+19,Caffeic acid hexose,341,179,Kang et al.56,,,+
+20,Ferulic acid glucoside,355,193,Svarc-gaji57,+,,
+21,Hydroxycinnamic acid derivative,379,185,Valerie et al.58,-,,+
+22,Coumaric acid derivative,487,145,Laura M. et al9,+,,
+23,Chlorogenic acid,353,179,"Ammerer, Arle and",+,,
+24,,,,Chieber6,,,
+25,,Quinones,,,,,
+26,Spinochrome A,265,235,Abu-reidah et al.51,+,,-
+27,,Flavonoids,,,,,
+28,Catechin,289,245,Valls et al.61,+,,
+29,Quercetin,301,"151,178",Wang et al.53,+,,
+30,Epigallocatechin,305,"261, 287",Valls et al.61,+,,
+31,Vitexin,431,311,Simirgiotis et al.62,,,+
+32,Apigenin-7-O-glucoside,431,269,Svarc-gajis7,,,+
+33,Apigenin-6-C-glucoside,431,"269, 311, 341",Kang et al.56,,,+
+34,"9,10-Dihydro-10-(4-hydroxyphenyl)pyrano[2,3-h]epicatechin-8-on",435,"189, 341",Zhang et al.54,,,+
+35,Dihydrokaempferol hexoside,449,"243,405",Kang et al-6,+,,
+36,Procyanidin B,577,"451, 425, 407, 289",Svarc-gaji57,+,,
+37,Rutin,609,301,Valerie et al58,+,,
+38,"Apigenin-5-O--D-glucopyranosyl, 8-C-(6"" acetyl)--D-",635,473,Simirgiotis et al2,+,,
+39,glucopyranoside,,,,,,
+40,,Triterpenoids,,,,,
+41,Asiatic acid,487,469,Zhang et al.54,+,,-
+42,,Other,,,,,
+43,9-Hode,295,"171, 277",Wang et al.53,,,+

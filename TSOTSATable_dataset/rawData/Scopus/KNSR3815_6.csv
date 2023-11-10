@@ -1,0 +1,27 @@
+,0,1,2,3,4
+0,,DGA+BAGEL,DGA +POTATO,DGA +POTATO,
+1,,,umol/g Feces,,p-Value
+2,Acetate,52.3  4.7,,46.63.9,0.19
+3,Propionate,23.1  2.2,,19.32.1,0.03
+4,Isobutyrate,2.70.2,,2.30.2,0.13
+5,Butyrate,21.32.7,,17.92.6,0.16
+6,2-Methylbutryrate,1.60.2,,1.40.1,0.23
+7,Isovalerate,1.80.2,,1.60.2,0.16
+8,Valerate,3.10.3,,2.40.3,0.02
+9,4-Methylvalerate,0.040.01,0.030.01,0.030.01,0.23
+10,Hexanoate,1.00.3,,0.7 0.2,0.38
+11,Total SCFA,106.99.5,106.99.5,92.28.5,0.09
+12,,,mol % of total SCFA,,
+13,Acetate,49.31.0,,51.61.0,0.03
+14,Propionate,21.9  0.8,,20.70.8,0.03
+15,Isobutyrate,2.9  0.2,,2.80.2,0.82
+16,Butyrate,18.4 1.0,,17.51.1,0.39
+17,2-Methylbutryrate,1.70.2,,1.7 0.2,0.99
+18,Isovalerate,2.0  0.2,,2.0  0.2,0.84
+19,Valerate,3.0  0.2,,2.8 0.2,0.02
+20,4-Methylvalerate,0.030.0,,0.030.0,0.54
+21,Hexanoate,0.8  0.2,,0.8  0.2,0.74
+22,,mol % of straight SCFA,mol % of straight SCFA,mol % of straight SCFA,
+23,Acetate,52.81.0,,55.31.1,0.02
+24,Propionate,23.50.8,,22.10.8,0.04
+25,Butyrate,19.61.1,,18.7 1.1,0.36

@@ -1,0 +1,30 @@
+,0,1,2
+0,Variable,Variable,n (%)
+1,Age (years),Age (years),
+2,9,,349 (29.8)
+3,10,,397 (33.9)
+4,11,,424 (36.2)
+5,Sex,,
+6,Female,Female,636 (54.3)
+7,Area of residence,Area of residence,
+8,Moshi Rural,Moshi Rural,601 (51.4)
+9,Moshi Urban,Moshi Urban,569 (48.6)
+10,School ownership,School ownership,
+11,Government,Government,589 (50.3)
+12,Private,Private,581 (49.7)
+13,Nutritional status,Nutritional status,
+14,,BMIz-score>1(overweight/obese,176 (15.0)
+15,BMI z-score<-2(thinness,BMI z-score<-2(thinness,121(10.3)
+16,Anthropometry,Anthropometry,Mean(SD)
+17,Height (m),Height (m),1.37 (0.07)
+18,Height for age z-score,Height for age z-score,-0.22 (1.04)
+19,,,Median (25th
+20,,,75th percen-
+21,,,tiles)
+22,Body mass index (kg/m2),Body mass index (kg/m2),"15.6(14.6,17.3)"
+23,,Body mass index for age z-score,"-0.58-1.3,0.37)"
+24,,Body fat by bioelectrical impedance(%,"14.911.5,20.0)"
+25,Skinfold measurements (mm),Skinfold measurements (mm),
+26,Triceps,Triceps,"7.6 (5.8,11.0)"
+27,Subscapular,Subscapular,"6.0 (4.9, 8.2)"
+28,"Waist circumference,cm","Waist circumference,cm","57.1 (54.3, 61.0)"

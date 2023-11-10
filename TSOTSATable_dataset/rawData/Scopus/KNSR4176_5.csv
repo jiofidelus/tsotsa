@@ -1,0 +1,32 @@
+,0,1,2,3,4,5
+0,,,Bioactive compounds,,,
+1,Compounds,IUPAC name,Chemical,Health benefits,Kodo/,References
+2,Compounds,IUPAC name,formula,Health benefits,Little,References
+3,,,,"Anticancer, anti-obesity, and",,Khan et al.[56];
+4,Catechin,"dihydro-2h-chromene-3,5,7-triol",C15H14O6,Alzheimer's and Parkinson's,Kodo,shankar et al.[57];
+5,,,,disease,,singh et al. [58]
+6,,7-[2-O-(6-deoxy--L-mannopyranosyl),,"Anti-apoptotic,",,
+7,Naringin,"-D-glucopyranosyl]oxy]-2,3-dihydro-5-",C27H32O14,"anticarcinogenic, anti-",Kodo,Wang et al. [59]
+8,Naringin,hydroxy-2-(4-hydroxyphenyl)-4H-1-,C27H32O14,"inflammatory, antiulcer, anti-",Kodo,Wang et al. [59]
+9,,benzopyran-4-one,,osteoporotic,,
+10,,,,"Anti-inflammatory, anticancer,",,"Boz,[60];Kannan"
+11,acid,(2E)-3-(4-hydroxyphenyl)prop-2-enoic,CgHgO3,"peroxidation, cholesterol",Kodo,et al.[61];Fergusor
+12,acid,,,"oxidation, and LDP",,et al. [62]
+13,Taxifolin,"trihydroxy-2,3-dihydrochromen-4-one",C15H14O6,Anti-inflammatory,Kodo,Gupta et al. [63]
+14,,,,"Antithrombotic, anti-allergic,",,"Graf,[64]; Akihisa"
+15,,(2E)-3-(4-hydroxy-3-methoxyphenyl),,"antimicrobial, anti-",,et al.[65];
+16,Ferulic acid,prop-2-enoic acid,C1oH1oO4,"inflammatory, antiviral,",Kodo,Oosterveld et al.
+17,,prop-2-enoic acid,,"anticarcinogenic, hepta-",,[66]; Rukkumani
+18,,,,"protective,vasodilatory effect",,et al.[67]
+19,Sinapic acid,"3,5-Dimethoxy-4-hydroxycinnamic acid",C1H2O5,Anticarcinogenic and anti-,Kodo,Connelly et al. [68]
+20,Sinapic acid,"3,5-Dimethoxy-4-hydroxycinnamic acid",C1H2O5,inflammatory,Kodo,Connelly et al. [68]
+21,Pterin-6-,2-Amino-4-oxo-3h-pteridine-6-carboxylic,,,,
+22,carboxylic,2-Amino-4-oxo-3h-pteridine-6-carboxylic,C?H5N5O3,Antitumor,Kodo,Hadi et al. [69]
+23,acid,,,,,
+24,,"5,6-dimethylheptan-2-yl]-10,13-dimethyl-",,"Lowers cholesterol, shows",,
+25,Campesterol,"2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-",C2gH4gO,anticarcinogenic and,Kodo,Choi et al. [70]
+26,,1H-cyclopenta[a]phenanthren-3-ol,,chemopreventive effect,,
+27,Kaempferol,"3,4,5,7-Tetrahydroxyflavone",C15H1oO6,diseases,Little,[71]
+28,Luteolin,"2-(3,4-Dihydroxyphenyl)-5,7-dihydroxy-",C15H1oO6,"Antioxidant, anti-inflammatory",Little,[25]; Dykes &
+29,,4H-1-benzopyran-4-one,,,,"Rooney,[72]"
+30,Apigenin,chromen-4-one,C15H1oO5,anticancerous,Little,[73]

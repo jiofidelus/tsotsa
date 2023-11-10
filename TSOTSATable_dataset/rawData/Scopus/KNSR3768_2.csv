@@ -1,0 +1,20 @@
+,0,1,2,3
+0,Fixed effects,Estimates,CI,P
+1,(Intercept),3.26,2.93 to 3.60,
+2,High space,(reference),,
+3,Control space,0.31,0.16 to 0.78,0.198
+4,DIM,0.012,0.001 to 0.023,0.032
+5,DIM2,1.510-4,-2.710-4to-2.610-5,0.017
+6,DIM3,5.910-7,7.710-to 1.110-6,0.024
+7,DIM4,-810-10,-1.510-to-110-10,0.027
+8,Control space*DIM,-0.017,-0.032to-0.001,0.037
+9,Control space*DIM2,1.710-4,-2.110-to 3.510-4,0.053
+10,Control space*DIM3,6.5 10-7,-1.410-6 to 8.410-8,0.083
+11,Control spaceDIM4,810-10,-210-10to 1.810-9,0.112
+12,Random effects,,,
+13,Residual variance,0.26,,
+14,Random effect variance,0.33,,
+15,Intraclass correlation,0.56,,
+16,Number of random effect groups,145,,
+17,Number of observations,788,,
+18,Marginal R/conditional R2,0.076/0.593,,

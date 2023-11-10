@@ -1,0 +1,30 @@
+,0,1,2
+0,Signal,Chemical shift (ppm),Functional group
+1,A,0.68 (s),-CHposition 18-sitosterol)
+2,B,0.70 (s),-CHposition 185-stigmasterol)
+3,C,0.83-0.93 (t-o-br),-CHsaturatedoleic and linoleic acyl and
+4,,,other groups)
+5,D,0.93-1.03 (t),-CHomega-3 acyl and other groups
+6,E,1.22-1.42o-br,-CHn-(acyl and other groups)
+7,F,1.52-1.70(o-br,"-OCO-CH-CH-acyl groups,except DHA"
+8,,,and similars)
+9,G,1.94-2.14(o-br,"-CH-CH=CH-(acyl and other groups,"
+10,,,except DHA and similars partially
+11,H,2.23-2.36 (t-o-br,"-OCO-CH2-(acyl group,except DHA and"
+12,,,similars)
+13,1,2.63 (m),"(E)-9,10-epoxystearyl groups"
+14,,,-CH-CH-
+15,J,2.70-2.86 (o-br),HC-CH-CH=acyland other groups
+16,K,2.88(m),"(Z-9,10-epoxystearyl groups)"
+17,,,-CH-CH-
+18,L,3.54-3.59m,-CHOH-secondary alcohols
+19,M,3.62 (t),-CHOH-(primary alcohols
+20,N,3.71 (d),"-CHOH1,2-diglycerides"
+21,0,4.04-4.10 (m),"-CHOH(1,3-diglycerides"
+22,P,"4.10-4.32(dd,dd",-CHOCOR(glyceryl groups)
+23,,5.20-5.26 (tt),>CHOCOR(glyceryl groups)
+24,R,5.26-5.40 (br),-CH=CH-acyl and other groups
+25,S,9.49 (d),-CHOE-2-alkenals
+26,T,9.52 (d),"-CHO ((E,E-2,4-alkadienals)"
+27,U,9.75 (t),-CHO(n-alkanals
+28,V,9.78 (t),-CHO(4-oxo-alkanals

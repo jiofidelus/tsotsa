@@ -1,0 +1,49 @@
+,0,1,2,3,4,5
+0,Factors,,Low-risk,High-risk,x2,P
+1,,,group,group,,
+2,,,n=207,n=93),,
+3,Working conditions,"On job (n, %)",26 (12.6%),1 (1.1%),14.23,0.001**
+4,,"Retirement (n, %)",180 (86.9%),91 (97.8%),,
+5,,"Without job (n, %)",1 (0.5%),1(1.1%),,
+6,Education,"Primary school or without (n, %)",8 (3.9%),2 (2.1%),3.06,0.383
+7,,"High school (n, %)",120 (57.9%),56 (60.2%),,
+8,,"College or university(n,%)",79 (38.2%),34 (36.6%),,
+9,,"Graduate school(n,%)",0 (0.0%),1(1.1%),,
+10,Marriage status,"Being married (n,%",198 (95.7%),88 (94.6%),4.54,0.104
+11,,"Being widowed (n,%)",5 (2.4%),5 (5.4%),,
+12,,"Being divorced (n,%)",4 (1.9%),0 (0.0%),,
+13,Ways of menopause,"Natural (n, %)",189 (91.3%),88 (94.6%),1.06,0.303
+14,,"Surgical (n, %)",18 (8.7%),5 (5.4%),,
+15,Types of health care,"Basic health insurance (n, %)",197 (95.2%),89 (95.7%),6.21,0.184
+16,,"The rural cooperative medical care (n, %)",3 (1.4%),0 (0.0%),,
+17,,"Out-of-pocket medical services(n,%)",2 (1.0%),0 (0.0%),,
+18,,"Medical services at state expense(n,%)",5 (2.4%),3 (3.2%),,
+19,,"Commercial health insurance (n,%)",0 (0.0%),1(1.1%),,
+20,Residence,"Rural (n,%)",4 (1.9%),0 (0.0%),3.330.189,3.330.189
+21,,"Urban (n, %)",12(5.8%),4 (4.3%),,
+22,,"Suburban (n, %)",191 (92.3%),89 (95.7%),,
+23,Drinking,"Yes (n,%)",11 (5.3%),1 (1.1%),3.74,0.053
+24,,"No (n,%)",196 (94.7%),92 (98.9%),,
+25,Salt intake per day,"36 g (n, %)",145 (70.0%),68 (73.1%),0.30,0.586
+26,,">6 g(n,%",62 (30.0%),25 (26.9%),,
+27,Oil intake per day,"30-50 g (n, %)",156 (75.4%),75 (80.6%),1.04,0.309
+28,,">50 gn,%)",51 (24.6%),18 (19.4%),,
+29,Dietary habit,Balance of meat and vegetables(n%),133 (64.2%),58 (62.4%),2.70,0.259
+30,,"Most of meat (n, %)",8 (3.9%),8 (8.6%),,
+31,,"Most of vegetables (n,%)",66(31.9%),27 (29.0%),,
+32,Breast cancer,"Yes (n,%)",1 (0.5%),2 (2.2%),1.63,0.202
+33,,"No (n, %)",206 (99.5%),91 (97.8%),,
+34,Taking hormones,"Yes (n, %)",4 (1.9%),4 (4.3%),1.29,0.257
+35,,"No (n,%)",203 (98.1%),89 (95.7%),,
+36,House facing the street,"Yes (n, %)",53 (25.6%),19 (20.4%),0.96,0.327
+37,,"No (n, %)",154 (74.4%),74 (79.6%),,
+38,Second-hand or third-hand smoke,"Yes (n, %)",80 (38.6%),22 (23.7%),6.67,0.010*
+39,,"No (n,%)",127 (61.4%),71 (76.3%),,
+40,Easy access to healthy food,"Yes (n,%)",195 (94.2%),80 (86.0%),5.21,0.022*
+41,,"No (n,%)",12 (5.8%),13 (14.0%),,
+42,Always reading news about cardiovascular disease,"Yes (n,%)",137 (66.2%),60 (64.5%),0.08,0.779
+43,,"No (n, %)",70 (33.8%),33 (35.5%),,
+44,Always attending to lectures about cardiovascular disease,"Yes (n,%)",61 (29.5%),40 (43.0%),5.17,0.023*
+45,,"No (n,%)",146 (70.5%),53 (57.0%),,
+46,Always watching advertisements about diets and exercises,"Yes n,%)",135 (65.2%),60 (64.5%),0.01,0.906
+47,,"No (n,%)",72 (34.8%),33 (35.5%),,

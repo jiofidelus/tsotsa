@@ -1,0 +1,53 @@
+,0,1,2,3,4,5,6,7,8
+0,Components,Components,Score range,19-29 yrs,30-39 yrs,40-49 yrs,50-59yrs,60-69yrs,70 yrs+
+1,Total,,,"n=1,890","n=2,583","n=2,848","n=3,063","n=2,749","n=2,873"
+2,Total score,Total score,0-100,57.430.39a,61.050.33b,64.310.28,66.150.28e,67.76  0.32f,64.550.30
+3,Have breakfast,Have breakfast,0-10,5.390.12a,5.83  0.10b,7.43 0.08c,8.26  0.08d,9.21 0.06e,9.540.05f
+4,Mixed grains intake,Mixed grains intake,0-5,1.740.06,1.840.05b,2.320.05c,2.590.05e,3.050.06f,2.570.06d
+5,Total fruits intake,Total fruits intake,0-5,1.610.06a,2.010.05b,2.310.05c,2.55  0.05e,2.72  0.06f,2.39  0.06d
+6,Fresh fruits intake,Fresh fruits intake,0-5,1.730.06a,2.22  0.06b,2.530.05,2.79  0.06e,2.900.06f,2.550.06d
+7,Total vegetables intake,Total vegetables intake,0-5,2.97  0.04a,3.62  0.03c,3.80  0.03d,3.87  0.03e,3.89  0.03f,3.47  0.04b
+8,,Vegetables intake excluding Kimchi and pickled,0-5,2.830.05a,3.350.04c,3.500.03d,3.580.03e,3.590.04f,3.190.04b
+9,vegetables intake,vegetables intake,,,,,,,
+10,"Meat, fish, eggs and beans intake","Meat, fish, eggs and beans intake",0-10,7.34  0.08e,7.52  0.07f,7.210.07d,6.780.07,6.54  0.08b,5.880.08
+11,Milk and milk products intake,Milk and milk products intake,0-10,4.04  0.13f,3.61 0.11e,3.06  0.09d,2.93  0.10b,2.93  0.11c,2.09  0.09a
+12,,Percentage of energy from saturated fatty acid,0-10,6.320.11a,7.340.10b,8.100.07c,8.850.06d,9.180.06e,9.53  0.04f
+13,Sodium intake,Sodium intake,0-10,5.900.09c,5.28  0.08a,5.47  0.08b,5.950.08d,6.560.08e,7.70  0.07f
+14,,Percentage of energy from Sweets and beverages,0-10,8.430.09a,8.85  0.06b,9.030.05c,9.290.05,9.46  0.04f,9.43  0.04e
+15,,Percentage of energy from carbohydrate,0-5,2.78  0.05e,2.87  0.05f,2.700.04d,2.28  0.05c,1.82  0.05b,1.22  0.04a
+16,Percentage of energy from fat,Percentage of energy from fat,0-5,3.490.05d,3.75 0.04f,3.63  0.04e,3.220.05c,2.660.05b,1.960.05a
+17,Energy Intake,Energy Intake,0-5,2.86  0.06a,2.97  0.05b,3.21  0.05e,3.21  0.05e,3.25  0.05f,3.02  0.05c
+18,Men,,,n=836,"n=1,038","n=1,163","n=1,239","n=1,235","n=1,177"
+19,Total score,Total score,0-100,56.710.55a,58.860.46b,63.000.37,64.460.36e,66.230.41f,64.040.37d
+20,Have breakfast,Have breakfast,0-10,5.350.16b,5.35 0.14a,7.410.11,8.460.11d,9.290.08e,9.690.05f
+21,Mixed grains intake,Mixed grains intake,0-5,1.810.08,1.760.07,2.24  0.07c,2.56  0.07d,3.040.07f,2.610.08e
+22,Total fruits intake,Total fruits intake,0-5,1.270.07a,1.600.06b,1.850.07,2.000.07d,2.25 0.07f,2.190.07
+23,Fresh fruits intake,Fresh fruits intake,0-5,1.410.09a,1.80  0.07b,2.080.07c,2.260.07d,2.480.08f,2.430.08e
+24,Total vegetables intake,Total vegetables intake,0-5,3.300.06a,3.930.04,4.080.04,4.130.04f,4.030.04d,3.550.05b
+25,,Vegetables intake excluding Kimchi and pickled,0-5,3.040.07a,3.620.05,3.700.05e,3.74  0.05f,3.620.05c,3.040.05b
+26,vegetables intake,vegetables intake,,,,,,,
+27,"Meat,fish,eggs and beans intake","Meat,fish,eggs and beans intake",0-10,7.580.11,7.85 0.11f,7.560.09d,7.100.10c,6.680.11b,6.030.11a
+28,Milk and milk products intake,Milk and milk products intake,0-10,3.930.19f,3.480.16e,2.830.14d,2.34  0.14b,2.520.15,1.940.12a
+29,,Percentage of energy from saturated fatty acid,0-10,6.330.16a,7.130.14b,8.180.11,8.700.09d,9.070.09e,9.460.06f
+30,Sodium intake,Sodium intake,0-10,5.000.13d,4.110.12,4.300.11b,4.900.11,5.640.12,6.840.11f
+31,,Percentage of energy from Sweets and beverages,0-10,8.690.11,8.780.10b,8.980.08c,9.300.07d,9.400.07e,9.450.06f
+32,,Percentage of energy from carbohydrate,0-5,2.730.08d,2.900.08f,2.800.06,2.410.07,2.04  0.07b,1.450.06
+33,Percentage of energy from fat,Percentage of energy from fat,0-5,3.410.08d,3.720.07f,3.710.06e,3.340.07c,2.830.07b,2.210.08a
+34,Energy Intake,Energy Intake,0-5,2.86 0.09b,2.850.08a,3.29  0.07e,3.220.07d,3.35  0.07f,3.140.07c
+35,Women,,,"n=1,054","n=1,545","n=1,685","n=1,824","n=1,514","n=1,696"
+36,Total score,Total score,0-100,58.24  0.50a,63.36 0.38b,65.660.35,67.84  0.35e,69.180.39f,64.87 0.39c
+37,Have breakfast,Have breakfast,0-10,5.440.15a,6.330.11b,7.46  0.10c,8.06  0.10d,9.14  0.08e,9.44  0.06f
+38,Mixed grains intake,Mixed grains intake,0-5,1.670.08a,1.930.06b,2.410.06c,2.620.06,3.06  0.07f,2.540.07d
+39,Total fruits intake,Total fruits intake,0-5,1.99  0.07a,2.440.06b,2.770.06d,3.110.06e,3.150.07,2.520.07c
+40,Fresh fruits intake,Fresh fruits intake,0-5,2.100.08a,2.670.07c,2.990.06,3.320.07e,3.29  0.07f,2.62 0.08b
+41,Total vegetables intake,Total vegetables intake,0-5,2.590.05a,3.29  0.04b,3.520.04,3.61 0.04e,3.76  0.04f,3.430.05
+42,,Vegetables intake excluding Kimchi and pickled,0-5,2.600.06,3.060.04b,3.290.04c,3.410.04,3.560.05f,3.290.05
+43,vegetables intake,vegetables intake,,,,,,,
+44,"Meat,fish,eggs and beans intake","Meat,fish,eggs and beans intake",0-10,7.07  0.11e,7.16  0.09f,6.860.09d,6.450.09c,6.410.10b,5.78  0.10a
+45,Milk and milk products intake,Milk and milk products intake,0-10,4.16  0.16f,3.75  0.13e,3.30  0.12b,3.52  0.12d,3.310.14c,2.190.10a
+46,,Percentage of energy from saturated fatty acid,0-10,6.310.15a,7.56  0.11b,8.020.09c,9.000.07,9.28  0.06e,9.580.05f
+47,Sodium intake,Sodium intake,0-10,6.910.12c,6.52  0.09a,6.67  0.09b,6.99  0.09d,7.42  0.10e,8.25  0.07f
+48,,Percentage of energy from Sweets and beverages,0-10,8.140.13,8.940.07b,9.080.07c,9.270.06d,9.520.05f,9.420.06e
+49,Percentage of energy from carbohydrate,Percentage of energy from carbohydrate,0-5,2.83  0.07e,2.84  0.06f,2.590.06d,2.160.06c,1.62  0.06b,1.070.05a
+50,Percentage of energy from fat,Percentage of energy from fat,0-5,3.58  0.07e,3.78  0.05f,3.560.05d,3.100.06c,2.500.06b,1.800.06a
+51,Energy Intake,Energy Intake,0-5,2.85  0.07a,3.11  0.06c,3.13  0.06d,3.200.06f,3.17  0.07e,2.95  0.06b

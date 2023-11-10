@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,,,Case Group (Cancer),Control Group (Healthy),
+1,Mineral,Cancer Entity,Mean Mineral Intake,Mean Mineral Intake,Reference
+2,,,Number of Patients,Number of Patients,
+3,Zinc,Oral,"12,851 g/day (n=27)","11,788 g/day (n =86)",[71]
+4,,Bladder,14.5 mg/day (n =198),14.7 mg/day (n =377),[135]
+5,Copper,Bladder,2.5 mg/day (n =198),2.8 mg/day (n =377),[135]
+6,Selenium,Oral,142.9 g/day (n = 27),166.7 g/day (n = 86),[71]
+7,Phosphorus,Oral,1761 mg/day(n=27),1431 mg/day (n =86),[71]
+8,,Bladder,1898.3 mg/day (n = 198),1940.4 mg/day (n = 377),[135]
+9,Iron,Oral,22.4 mg/day (n = 27),18.9 mg/day (n =86),[71]
+10,,Bladder,21.3 mg/day (n =198),23.1 mg/day (n = 377),[135]
+11,Calcium,Bladder,1127.2 mg/day (n = 198),1194.5 mg/day (n =377),[135]

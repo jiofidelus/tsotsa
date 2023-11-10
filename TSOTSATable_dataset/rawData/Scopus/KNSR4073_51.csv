@@ -1,0 +1,16 @@
+,0,1,2,3
+0,Fluoride intake (mg/day),age,age,adults
+1,Fluoride intake (mg/day),1-1.9 years 12-14.9 years,1-1.9 years 12-14.9 years,adults
+2,"1Milk,meat,fish,eggs,cereals,vegetables, potatoes,fruit",0.042,0.114,0.120
+3,"2Fruit juice,soft drinks,mineral water,teaadults",0.011,0.065,0.259
+4,(3)Sum fluoride from food and beverages(1+(2,0.052,0.191,0.379
+5,(4Drinking water(0.013 mg fluoride/L,0.060,0.073,0.065
+6,5Total fluoride intake(3+4),0.112,0.264,0.444
+7,6Drinking water1.0 mg fluoride/L,0.458,0.560,0.500
+8,(7 Total fluoride intake 3+6,0.510,0.751,0.879
+9,(8Drinking water2.0 mg/l),0.916,1.120,1.000
+10,(9Total fluoride intake3)+8,0.968,1.311,1.379
+11,"(10Fluoridated salt,3 g/day,250 mg fluoride/kg",,0.750,0.750
+12,11Total fluorideintake5)+(10),,1.014,1.194
+13,(12Total fluoride intake(7)+10),,1.501,1.629
+14,13Total fluoride intake(9)+10),,2.061,2.129

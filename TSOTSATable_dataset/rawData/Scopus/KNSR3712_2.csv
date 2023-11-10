@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8
+0,,Food list,,1st,2nd,3rd,4th,5th,
+1,,,,quintile,quintile,quintile,quintile,quintile,
+2,,,Overall,N=200,N=201,N=201,N=201,N=201,
+3,Food group,,n%),n (%),n (%),n (%),n (%),n(%),P-
+4,,,,,,,,,value
+5,Starchy staples,"African doughnut(mandazi),maise,bread,cassava,chapati",1002,198,201,201,201,201,0.09
+6,,"irish potato,pilau,plantain,sweet potato,taro,ugali",(99.8),(19.8),(20.1),(20.1),(20.1),(20.1),
+7,Beans and peas,"Bambara nuts,beans,Mung bean (choroko), chickpea (dengu)",38 (3.8),1 (2.6),4 (10.5,615.8,7 (18.4),20 (52.6),<0.01
+8,,"cowpea(kunde),pigeon peas(mbaazi),peas",,,,,,,
+9,Nuts and seeds,Groundnuts,17(1.7),0 (0.0),0 (0.0),4(23.7),5(29.4),8 (47.1),0.01
+10,Dairy,Cow's milk,29 (2.8),00.0,0 (0.0),0 (0.0),0 (0.0),29(100,<0.01
+11,Flesh foods (meats),"Beef, chicken, fish, goat, liver, pork",103,2 (1.9),0 (0.0),3 (2.9),8(7.8),90(87.4),<0.01
+12,,,(10.3),,,,,,
+13,Eggs,Eggs,0(0.0,00.0,0(0.0,0(0.0,0 (0.0),4(100,0.03
+14,Vitamin A rich dark,"Cassava leaves(kisamvu),cowpea leaves(kunde leaves),",105,0(0.0),11.0,14 (13.3),23(21.9),67(63.8),<0.01
+15,green vegetables,"pumpkin leaves,spinach,sweet potato leaves",(10.5),,,,,,
+16,Other vitamins A rich,"Peppers (fresh hoho), mango, papaya, pumpkin, passion fruit,",706,29(4.1),126(17.9),159(22.5),192(28.3),200(28.3),<0.01
+17,fruits&vegetables,passion fruit juice,(70.3),,,,,,
+18,Other vegetables,"Bitter tomato, chinese cabbage, cabbage, eggplant, hare lettuce",273,6 (2.2),17(6.2),23(8.4),65(23.8),162(59.3),<0.01
+19,,"(mchunga),okra,tomato,green maize",(27.2),,,,,,
+20,Other fruits,"Avocado,baobab,cucumber,guava jackfruit,lemon, lime,",519,17(3.3),5310.2,118(22.7),159(30.6,172(33.1,<0.01
+21,,"orange,peach,pineapple,plum,banana,tangerine,",(51.7),,,,,,
+22,,"watermelon,other fruit juices",,,,,,,
+23,Sugar Sweetened,"Malts drinks, energy drinks, coffee or tea with sugar, sweetened",8(0.8),0(0.0),0(0.0),0(0.0),2(25.0),6(75.0),0.002
+24,beverages,"fruits juices, and soft drinks",,,,,,,
+25,Fried and Salt foods,"samosa,packed salts snacks,fried cassava balls,cassava chips",124,9(7.3),21(16.9),25(20.2),30(24.2),39(31.5),<0.01
+26,,"potato chips,snacks foods, and corns",(12.4),,,,,,
+27,Sweet foods,"Biscuits,cakes, ice cream,cookies and frozen yoghurt",11(1.1),1(19.9),0(0.0),2(18.2),4(36.4),4(36.4),0.209

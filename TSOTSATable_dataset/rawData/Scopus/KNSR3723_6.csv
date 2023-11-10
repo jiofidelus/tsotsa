@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,,,Rotated Component Matrixa,Rotated Component Matrixa,Rotated Component Matrixa,Components Score Coeficient,Components Score Coeficient,Components Score Coeficient
+1,,,,,,(Loadings),,,Matrix,
+2,,,Component,,,Component,,,Component,
+3,,,,,1:Non,2:Initial,,1: Non,2: Initial,
+4,,1,2,3,Oxidisable,Oxidation,3: Simple,Oxidisable,Oxidation,3: Simple
+5,,1,2,3,Substrate,State and,Phenols,Substrate,State and,Phenols
+6,,,,,Substrate,Conditions,,Substrate,Conditions,
+7,1-10T,0.183,0.538,0.627,0.178,0.822,0.094,0.020,0.183,0.423
+8,PV,0.341,0.720,0.257,0.295,0.716,0.318,0.038,0.246,0.173
+9,K232,0.152,0.731,0.274,0.195,0.725,0.261,0.017,0.249,0.185
+10,K270,0.529,0.539,0.327,0.550,0.610,0.055,0.059,0.184,0.221
+11,CAROT,0.864,0.052,0.002,0.863,0.021,0.055,0.096,0.018,-0.001
+12,CHLOR,0.778,0.105,0.057,0.778,0.101,0.055,0.086,0.036,0.038
+13,HTyr,0.015,0.762,-0.515,0.113,0.229,0.884,0.002,0.260,0.347
+14,Tyr,0.312,0.691,0.635,0.210,0.102,0.961,0.035,0.236,0.429
+15,TPh,0.968,0.010,0.148,0.973,0.110,0.015,0.107,0.003,0.100
+16,secHTyr,0.974,-0.138,0.040,0.959,0.149,0.163,0.108,0.047,0.027
+17,secTyr,0.933,0.190,0.069,0.907,-0.115,0.274,0.103,0.065,0.046
+18,odPh,0.973,0.049,0.102,0.970,0.124,0.058,0.108,0.017,0.069
+19,Tyr + Der,0.919,0.106,0.218,0.937,0.084,0.136,0.102,0.036,0.147
+20,xToh,0.726,0.147,0.283,0.691,0.063,0.384,0.080,0.050,0.191
+21,UFAs,0.686,0.297,0.020,0.706,0.222,0.108,0.076,0.101,0.014
+22,PUFAs,0.832,0.221,0.047,0.849,0.118,0.093,0.092,0.075,0.031
+23,RancimatOS,0.945,0.005,0.008,0.940,0.028,0.096,0.105,-0.002,0.006
+24,,Extraction method: Principal Components,Extraction method: Principal Components,,Rotation method: Varimax.,Rotation method: Varimax.,Rotation method: Varimax.,Rotation method: Without rotation,Rotation method: Without rotation,Rotation method: Without rotation
+25,,,Analysis,,Highest loadings in grey color,Highest loadings in grey color,Highest loadings in grey color,,Components score,

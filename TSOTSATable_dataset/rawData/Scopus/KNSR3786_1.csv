@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,Factors,Low-risk group(n=207),High-risk group(n=93,t,P,
+1,,xs,xs,,,
+2,TG (mmol/L),1.631.31,1.741.40,0.68,,0.505
+3,Monthly income(),2931.40859.91,3230.751004.59,2.65,,0.009**
+4,Age of menarche (years old),14.42.0,14.81.8,-1.74,,0.083
+5,Age of first deliveryyears old,27.4  3.1,26.7 2.4,1.77,,0.077
+6,Age of menopause,49.8 3.7,50.64.5,1.67,,0.095
+7,(years old),,,,,
+8,Parity (times),1.560.84,1.960.82,-3.61,,<0.001**
+9,Gravidity (times),1.190.49,1.750.71,7.93,,<0.001**
+10,Physical activity (scores),4268.431681.15,2325.43939.13,10.43,,<0.001**
+11,Depression(scores),41.055.88,50.48 6.06,12.72,,<0.001**
+12,Type D personality (scores),11.526.19,19.03 6.43,9.61,,<0.001**
+13,Social support,35.34  6.38,27.65 4.49,10.51,,<0.001**
+14,Environment (scores),58.44  9.29,53.354.75,5.09,,<0.001***

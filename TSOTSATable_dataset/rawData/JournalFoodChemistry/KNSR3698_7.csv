@@ -1,0 +1,29 @@
+,0,1,2,3,4,5
+0,Pharmaceutical effect,Part,Solvent,Assay,Experimental,References
+1,,,,,dose,
+2,Antioxidant activity,Leaves/,Water/80%,TPC;DPPH;-Carotene bleaching;,1 mg/mL,"Mohd-Esa et al.,"
+3,,Seed,methanol,,,2010
+4,,Seed,Petroleum ether,TPC;TFC;FTC;ABTS,25-100 g/mL,Al-Okbi et al.
+5,,,,,,2017
+6,Antimicrobial activity,Seed,70% Ethanol;,MIC (disc diffusion),7.6 mg/mL,Borras-Linares
+7,,,0.1% HCl,,,"et al.,2015"
+8,Antityrosinase activity,Leaves,Methanol,Mushroom tyrosinase (L-dopa),20 mg/mL,"Wong et al.,2010"
+9,Anticancer activity,Leaves,Water,MTT; Wound healing; Cell invasion; Gelatin Zymography; Western blot;,0.1-0.5 mg/mL,"Chiu et al.,2015"
+10,,,,Real time- polymerase chain reaction (LNCaP),,
+11,,,,In vivo-mice,,
+12,Antihyperlipidemia,Leaves,50% Ethanol: 50%,Clinical study-57 subject,1g/day,"Kuriyan et al.,"
+13,activity,,Water,Anthropometric measurements; Blood glucose; Lipid profile; Dietary and,,2010
+14,,,,physical activity assessment,,
+15,,Leaves,80% Ethanol,In vivo-rats,500 mg/kg,"Ochani & Mello,"
+16,,,,Body weight;Serum lipid profile; SGOT;SGPT;ALP;Histopathological,,2009
+17,,,,evaluation,,
+18,,Seed,Hexane,In vivo- rats,10%,"Ali et al.,2017"
+19,,,,"Body, hearts, livers and kidneys weight; Serum lipid profile; AI",,
+20,Antiulcer activity,Seed,Hexane,In vivo-rats,500 mg/kg,"Nyam et al.,2016"
+21,,,,Ulcer index; Gastric juice pH;Histopathological evaluation,,
+22,Anti-inflammation,Leaves,70% Methanol,Nitrite assay (RAW 264.7),20-80g/mL,"Zhen et al., 2016"
+23,activity,,,,500 mg/kg,
+24,,Seed,Hexane; 80%,In vivo- rats,500 mg/kg,"Nyam et al.,2015"
+25,,,Ethanol,Paw diameter,,
+26,Hepatoprotective,Leaves,Water,In vivo- rats,200/400 mg/,"Rajani et al.,2017"
+27,activity,,,AST;ALT;ALP;bilirubin level; Histopathological evaluation,kg,

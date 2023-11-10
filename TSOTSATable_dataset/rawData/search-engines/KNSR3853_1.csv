@@ -1,0 +1,45 @@
+,0,1,2,3,4,5,6,7
+0,,,Analytical,,,,,
+1,Source,Country,method,Foods analysed,No. of samples,,Sample handling,Sampling plan
+2,Carlson et al.,USA,Glucose-,European radish,Six cultivars,Raw samples analysed.Edible portion only,Raw samples analysed.Edible portion only,Samples grown in one geographical
+3,(1985),,release,European-American,Forty-four,analysed. Storage before preparation and,analysed. Storage before preparation and,location. Multiple cultivars analysed
+4,,,method,radish,cultivars,analysis not documented,analysis not documented,
+5,,,,Japanese radish,Forty-one,,,
+6,,,,,cultivars,,,
+7,,,,Korean radish,Fifteen cultivars,,,
+8,Carlson et al.,USA,Glucose-,Broccoli,Six cultivars,Raw samples analysed. Edible portion,Raw samples analysed. Edible portion,Samples grown in one geographical
+9,(1987),,release,Brussels sprouts,Six cultivars,analysed only. Stored frozen after,analysed only. Stored frozen after,location.Multiple cultivars analysed
+10,,,method,Cauliflower,Five cultivars,sample preparation,sample preparation,
+11,,,,Kale,Two cultivars,,,
+12,,,,Mustard greens,Two cultivars,,,
+13,,,,Kohlrabi,One cultivar,,,
+14,et,Poland,HPLC,White cabbage,Seventeen,Raw vegetables analysed. Edible portion,Raw vegetables analysed. Edible portion,Samples grown in one geographical
+15,(1994),,,Red cabbage,samples,analysed. Vegetables frozen and stored,analysed. Vegetables frozen and stored,location. Multiple individual
+16,,,,,Seventeen,at -- 18C before preparation and analysis,at -- 18C before preparation and analysis,samples analysed
+17,,,,,samples,,,
+18,,,,Savoy cabbage,Seventeen,,,
+19,,,,,samples,,,
+20,,,Glucose-,Brussels sprouts,Forty samples,,,
+21,Daxenbichler,USA,Glucose-,Chinese cabbage,Fourteen,Raw samples analysed. Edible portion,Raw samples analysed. Edible portion,Samples grown in one geographical
+22,et al.1979),,release,,cultivars,only analysed. Vegetables refrigerated,only analysed. Vegetables refrigerated,location. Multiple cultivars analysed
+23,,,method,,(Eighteen,before sample preparation,before sample preparation,
+24,Goodrich et al.,USA,HPLC,Broccoli,One cultivar,Raw samples analysed.Vegetables were,Raw samples analysed.Vegetables were,Samples grown in one
+25,(1988),,,Brussels sprouts,One cultivar,freeze-dried and stored before sample,freeze-dried and stored before sample,geographical location
+26,,,Glucose-,Cabbage,One cultivar,preparation and analysis,preparation and analysis,
+27,Heaney&,UK,Glucose-,Brussels sprouts,Twenty two,Raw samples analysed. Edible portion only,Raw samples analysed. Edible portion only,Multiple geographical locations
+28,Fenwick,,release,,cultivars,analysed. Vegetables frozen and stored,analysed. Vegetables frozen and stored,Multiple cultivars analysed
+29,(1980),,Glucose-,,,at -40C before sample preparation,at -40C before sample preparation,
+30,Hill et al.,USA,Glucose-,Mustard greens,Seven cultivars,Raw samples analysed. Edible portion only,Raw samples analysed. Edible portion only,Seeds from multiple geographical
+31,(1987),,release,Pe-tsai Chinese,Fourteen,analysed.Vegetables refrigerated(4'C),analysed.Vegetables refrigerated(4'C),"sources, grown in one location."
+32,,,method,Pe-tsai Chinese,Fourteen,before sample preparation and analysis,before sample preparation and analysis,Multiple cultivars analysed
+33,,,,Pak-choi,Seventeen,,,
+34,,,,,cultivars,,,
+35,,,,Turnip,Fifteen cultivars,,,
+36,,,,,(Four samples of,,,
+37,,,HPLC,,each cultivar),,,
+38,Hrncirik&,Czech,HPLC,Cauliflower,Not reported,Raw samples analysed. Storage,Raw samples analysed. Storage,Samples collected from one geographical
+39,Velisek 1997,Republic,,Cauliflower,,before sample preparation and analysis,before sample preparation and analysis,location (samples collected from local
+40,,,,White cabbage,,not reported,,market so could represent wider region
+41,,,,Brussels sprouts,,,,
+42,,,,Kohlrabi,,,,
+43,,,,Broccoli,,,,

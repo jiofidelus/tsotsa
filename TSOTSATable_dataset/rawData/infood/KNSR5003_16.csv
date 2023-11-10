@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6
+0,,,"Boiled,drained",,,Boiled,
+1,Specie/Common,,(only seeds),,,(cooking water+seeds),
+2,name,YF,,Food,YF,,Food
+3,,YF,(source)/description,Item ID,YF,(source)/description,Item ID
+4,Lens culinaris Medik,,,,,,
+5,"Lentil, whole",2.65,drained,LEC019,4.25,boiled (water+seeds),LEC020
+6,"Lentil, green, whole2.65*","Lentil, green, whole2.65*","boiled,drained",LEC015,4.25,"(2 from lentil,whole,",LEC016
+7,"Lentil,red,whole",2.65*,"boiled,drained",LEC017,4.25,"(2) from lentil, whole,",LEC018
+8,"Lentil, split",2.40,"boiled,drained",LEC021,3.90,boiled (water+seeds),LEC022
+9,Lupinus spp.,,,,,,
+10,,,,LUS007;,,,
+11,,,"(1) lupin, whole,",LUS008;,,,
+12,"Lupin, whole",2.33,"soaked, drained,",LUS010;,,,
+13,,,"boiled,drained",LUS011;,,,
+14,,,,LUS012,,,
+15,Lablab purpureus(L)Sweet,,,,,,
+16,Hyacinth bean,2.61*,YF for all pulses,LAP002,4.13*,YF for all pulses,LAP003

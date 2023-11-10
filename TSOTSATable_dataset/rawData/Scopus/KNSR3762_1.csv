@@ -1,0 +1,36 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,Country,Method of dietary,Survey CODE,Year,Total daily food consumption,Total daily food consumption,Total daily food consumption,,Ultra-processed foods and drinks consumption,Ultra-processed foods and drinks consumption,Ultra-processed foods and drinks consumption,Ultra-processed foods and drinks consumption,,
+1,,assessment,,,Grams,% solid food,Energy,%EN,%UPFD,%UPF%UPD,%UPF%UPD,,,
+2,,,,,,,,solid,,,,,,
+3,,,,,,,,food,,,,,,
+4,22 countries,-,,-,2734,39,2065,87,12.0,6.7,5.3,27.2,24.8,2.4
+5,Men,,,,,,,,,,,,,
+6,Eur--22 countries,,,-,2971,39,2415,86,12.8,7.0,5.8,26.4,24.1,2.3
+7,Austria,24HR,AT-NATIONAL-2016,2014 4091,2014 4091,28,2496,87,13.4,6.6,6.8,31.7,28.1,3.6
+8,Belgium,"24HR,FFQ",NATIONAL-FCS-2014,2014,3075,35,2335,87,17.7,6.9,10.8,31.9,28.8,3.1
+9,Croatia,"24HR,48HR",NIPNOP-,2011,3039,36,2424,88,8.9,4.0,4.9,18.5,16.2,2.3
+10,,,HAH-2011-2012,,,,,,,,,,,
+11,Cyprus,24HR,CY 2014-2017-LOT2,2014 3154,2014 3154,35,2255,89,8.0,3.7,4.3,20.3,18.0,2.3
+12,Czech Republic,24HR,SISP04,2003,3504,33,3003,84,12.4,7.5,4.9,27.0,24.7,2.3
+13,Denmark,Food record,DANSDA 2005-08,2005,3855,28,2630,79,9.5,3.8,5.7,25.3,21.2,4.1
+14,Estonia,24HR,DIET-2014-EST-A,2013,3046,37,2215,83,6.7,3.9,2.7,17.4,16.0,1.4
+15,Finland,48HR,FINDIET2012,2012,3416,33,2399,83,11.0,7.9,3.1,31.0,29.6,1.4
+16,France,"24HR, FFQ",INCA3,2014,3284,38,2553,89,11.4,7.3,4.1,28.4,26.5,1.9
+17,Germany,24HR,NATIONAL NUTRI-,2007,3626,28,2527,81,16.6,8.8,7.8,38.0,34.5,3.5
+18,,,TION SURVEY II,,,,,,,,,,,
+19,Greece,24HR,GR-EFSA-LOT2 2014-,2014,1930,51,2235,89,11.0,5.9,5.1,20.1,19.0,1.1
+20,,,2015,,,,,,,,,,,
+21,Hungary,Food record,NATIONAL REPR,2003,2056,57,2637,89,16.5,6.5,10.0,18.0,15.7,2.3
+22,,,SURV,,,,,,,,,,,
+23,Ireland,Food record,NANS 2012,2008,3173,34,2684,78,13.2,8.3,4.9,31.8,29.7,2.1
+24,Italy,Food record,INRAN SCAI 2005-06,2005,2275,51,2338,92,6.4,4.1,2.3,13.0,12.2,0.8
+25,Latvia,"24HR,FPQ",LATVIA_2014,2012,2546,49,2488,91,14.3,11.5,2.8,32.0,31.0,1.0
+26,The Netherlands,"24HR, lifestyle question-",FCS2016_CORE,2012,3578,32,2714,84,20.0,9.0,11.0,37.0,33.0,4.0
+27,,naire,,,,,,,,,,,,
+28,Portugal,"24HR, FPQ",IAN.AF 2015-2016,2015,2885,38,2230,85,11.2,4.1,7.1,19.8,16.1,3.7
+29,Romania,Food record,DIETA PILOT,2012,2255,59,2439,92,10.8,5.0,5.8,14.6,12.8,1.8
+30,Slovenia,"24HR, FPQ",SI.MENU-2018,2017,2566,42,2106,91,9.5,6.1,3.4,21.7,20.5,1.2
+31,Spain,24HR,ENALIA2,2013,2148,40,1725,85,11.5,6.1,5.4,25.0,22.9,2.1
+32,Sweden,Food record,RIKSMATEN 2010,2010,2825,40,2415,84,22.9,15.7,7.2,40.6,37.9,2.7
+33,United Kingdom,Food record,NDNS ROLLING PRO-,2008,3040,32,2270,81,18.3,10.4,7.9,39.7,36.6,3.1
+34,,,GRAMME YEARS,,,,,,,,,,,

@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,CESNID,INYTA,UMU,UCM1,UCM2,UCO,IG-CSIC,HPH IF-CSIC,UB
+1,Data source,,,,,,,,,
+2,Food industry,75,70,0,1,95,0,0,0,0
+3,Food industry,6,8,0,1,0,0,0,0,0
+4,Scientific articles,18,7,0,-,0,0,0,0,0
+5,Other sources (lab.analyses,1,15,100,-,5,100,100,100,100
+6,Data generation,,,,,,,,,
+7,Analytical,31,30,100,,15,100,100,100,90
+8,Estimated or calculated,46,20,0,,85,0,0,0,10
+9,Unknown,46,50,0,,0,0,0,0,0
+10,Data management,,Yes,,,,Yes,,,Yes
+11,Excel,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes
+12,"Access, oracle",Yes,Yes,,11,,Yes,,Yes,Yes
+13,Informatics programme,Yes,Yes,Yes,11,Yes,Yes,Yes,Yes,Yes
+14,"Other (hard-copy,paper,etc.)",Yes,Yes,Yes,,Yes,Yes,Yes,,Yes
+15,Food items and nutrients,,,,,,,,,
+16,Food items,557,1138,,40,153,86,124,63,21
+17,Nutrients,>250,60,,27,42,17,27,15,-

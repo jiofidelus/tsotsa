@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,,%,Annual income,Annual income,,,Second most,,Third most,
+1,,,,per capita,,Most important income,,important income,,important income,
+2,,,f,,,,,,,,
+3,,,H,Media,,,,% contribution to,,% contribution to,
+4,,N,H,n,Mean,% contribution to total income,,total income,,total income,
+5,,546,5,"40,00",,,9,,,Sales of,
+6,Agriculturalist (food crops),546,7,0,"95,625",Food crop production,0,Handcraft,1,prepared food,1
+7,"Agriculturalist (cash crops,",95,1,"50,00","165,36",Cash crop production&,4,Food crop,1,,1
+8,"forest , livestock)",95,2,0,1,forest& livestock,6,production,0,Transport,0
+9,,24,,"71,25","270,23",Formal employment in,8,Food crop,,Sales of,
+10,Salaried and consultant,24,7,0,8,private/public sector,4,production,8,prepared food,2
+11,,35,,"52,50","214,24",,8,Food crop,,Formal,
+12,Prepared meals seller,35,5,0,9,Sales of prepared food,6,production,7,employment,1
+13,,806,,"46,18","143,69",,8,Food crop,1,,
+14,Artisan,,4,2,2,Artisan,4,production,0,Petty trading,1
+15,,706,,"62,50","219,38",Petty trading and street,8,Food crop,,Sales of,
+16,Petty trader,,3,0,2,vending,4,production,7,prepared food,2
+17,,687,,"41,00","103,97",,1,Food crop,1,,
+18,Fisherman,,3,0,6,Fishing,9,production,3,Petty trading,1
+19,,556,,"44,44","196,80",,8,Food crop,,,
+20,Other livelihood group,,3,4,6,Other livelihood,6,production,8,Petty trading,1
+21,,507,,"69,61","313,93",,8,Food crop,,Sales of,
+22,Skilled laborer,,2,5,0,Skilled labor,4,production,8,prepared food,2
+23,,507,,"70,00","308,74",,8,Food crop,,Sales of,
+24,Unskilled laborer,,2,0,6,Unskilled labor,5,production,6,prepared food,2
+25,,478,,"60,00","225,58",,9,Food crop,,Sales of,
+26,Agriculturalwagelaborer,,2,0,6,Agriculturalwage labor,0,production,4,prepared food,1

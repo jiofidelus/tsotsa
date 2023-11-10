@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+0,No,Project,Year,Picking method,Num-,Number,3D,Environment,,Harvest rate,Speed,,Damage rate,Issues,Note
+1,,,,,ber,of cam-,imaging,Modi-,,,Single,Overall,,to be,
+2,,,,,of,eras,tech-,Modi-,Description,,Single,Overall,,improved,
+3,,,,,arms,,niques,fied,,,arm,,,,
+4,30,Abandant,2019,Vacuum,1,N/A,N/A,V,Fruits planar,N/A,1 s/fruit,,5%,Leaves,System can
+5,,Robotics-,,,,,,,distributed,,,,,occlu-,not pick
+6,,Apple,,,,,,,Canopy,,,,,sion,fruit behind
+7,,(Abundant,,,,,,,manage-,,,,,Branch,branches or
+8,,"Robotics,",,,,,,,ment,,,,,inter-,trellis wires
+9,,2019;Her-,,,,,,,required,,,,,ference,
+10,,"rick,2017;",,,,,,,,,,,,,
+11,,"Wheat,",,,,,,,,,,,,,
+12,,2019;,,,,,,,,,,,,,
+13,,2019),,,,,,,,,,,,,
+14,31,FFRobotics-,2019,Grasp+Twist,12,N/A,N/A,V,Fruits grown,80%-90%*,N/A,0.1 s/,N/A,Not,*Harvest rate
+15,,Apple,,,,,,,on proper,,,fruit,,speci-,depend on tree
+16,,"(Wheat,",,,,,,,trained,,,,,fied,design
+17,,2019;,,,,,,,trellis,,,,,,* 10times faster
+18,,Courtney,,,,,,,,,,,,, than human
+19,,FFRobot-,,,,,,,,,,,,,
+20,,"ics,2019",,,,,,,,,,,,,
+21,32,RipeRobot-,2020,Vacuum,1*,N/A,N/A,,Not specified N/A,Not specified N/A,N/A,N/A,N/A,Effi-,* May upgrade to
+22,,ics-Apple,,,,,,,(2D trellis or,,,,,ciency,multiple arms
+23,,(Ripe Robot-,,,,,,,V-trellis,,,,,Reliabil-,* Field tests has
+24,,"ics,2020;",,,,,,,prefered),,,,,ity,been applied
+25,,"Barber,",,,,,,,,,,,,,to orange
+26,,2020),,,,,,,,,,,,,and might be
+27,,,,,,,,,,,,,,,planned for

@@ -1,0 +1,14 @@
+,0,1,2,3
+0,Items,Number of Selections,,Cup/Glass/Spoon
+1,Cylindrical mugs,,3,7
+2,Corn-shaped mugs,2,2,7
+3,Teacups,,2,
+4,Tall glasses,4,4,7
+5,Short glasses,2,2,7
+6,Wine glasses,,4,
+7,Sake glasses,3,3,5 for a small glass and 7 for others
+8,Yunomis (Japanese-style teacups),5,5,5 for two small yunomis and 7 for others
+9,Tokkuri (sake bottle),2,2,1 (maximum volume)
+10,Choko (small cup),2,2,1 (maximum volume)
+11,Measuring spoons,,2,1 (maximum volume)
+12,Meal spoons,3,3,1 (maximum volume)

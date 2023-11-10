@@ -1,0 +1,74 @@
+,0,1,2,3,4,5
+0,Species,Tissue,Compound,Assay,Activity,Ref.
+1,Antioxidant activity,,,,,
+2,A. arguta,L,Polyphs,In vitro assay (erythrocytes),"Cellular membrane protection against UVB-, UVC-","(Cyboran et al.,"
+3,,,,,and AAPH-free radicals,2014)
+4,"A. chinensis,A. deliciosa,A.",sd,Phs and FA,FRAPORACDDPPH,3.3-107.3 mg Trolox/kg1.3-2.0 mM Trolox/,Deng et al.
+5,arguta,,,,kg26-35 mg/mL (IC5o),2018)
+6,A. deliciosa,P,"VitC,polyphs,","FRAP, ABTS, ORAC",520 mol Trolox/g,"(D'Evoli et al.,"
+7,,,carotenoidsand tocols,,,2015)
+8,A. deliciosa,F,Polyphs,ORAC,12.5 mmol Trolox,"(Prior et al.,"
+9,,,,,,2007)
+10,"A. deliciosavar. Hayward,","P,Sd","VitC, polyphs,and",TBARSOxHLIA,76-406 g/mL182-545 g/mL,"Dias et al., 2020)"
+11,Actinidia spp.,,organic acids,,,
+12,A. deliciosavar. Monty,Sk,Polyphs,DPPH,1079 g/mL,"(Salama et al.,"
+13,,,,ABTS,258 1 g/mL,2018)
+14,,Sk,"VitC, flavonoids,",FRAP,0.54.1 mol of Trolox/g,"(Soquetta et al.,"
+15,,(flour),carotenoids,,,2016)
+16,Antitumor activity,,,,,
+17,A. arguta,P,AAP-3b,HepG2,Inhibition of cell proliferation (GIso = 76193 g/,X.-L.Yu et al.
+18,,,,,"mL,24-72 h)",2015)
+19,"A. arguta,A. chinensis,A.","P,L","VitC, phs, and flavonoids",HepG2 and HT-29,Inhibition of cell proliferation (GIso = 30175 mg/,"Zuo et al., 2012)"
+20,kolomikta,,,,mL),
+21,A. chinensis,P,ND,In vitro assays,Prevented the mutagenic activity of N-nitrosamines,"(Ikken et al.,"
+22,,,,,,1999)
+23,A. chinensis,"P,Sk",Polyphs and flavonoids,HepG2,Inhibition of cell proliferation (ICso = 170 and 291,"Alim et al., 2019"
+24,,,,,g/mL for P and Sk),
+25,A. deliciosa,"p,Sk","VitC,polyphs,", In vitro assays,"Cytotoxic activity for MCF-7,NCI-H460,HeLa and","(Dias et al., 2020)"
+26,,,"tocopherols, and organic",,HepG2,
+27,,,acids,,,
+28,Anti-inflammatory activity,,,,,
+29,A. arguta,P,Anthocyanins,A549 cell line,Inhibited secretion and activation of chemokines and,"(Peng et al., 2020)"
+30,,,,,NF-KB,
+31,A. chinensis,sd,Phenolic acids,LPS-RAW 264.7,Decreased secretion of inflammatory cytokines IL-1,"(Deng et al.,"
+32,,,,,and TNF-,2016)
+33,A. chinensis,Sd oil,Phs and FA,C57BL/6 mice,"Decreased body weight, lipid accumulation,blood","(Qu, Liu, Zhang,"
+34,,,,,"glucose, and inflammatory cytokines","Tuo, et al., 2019)"
+35,"A. chinensis,A. deliciosa",F,ND,BALB/c mice,"Enhancement of immune system, modulation of","Shu et al., 2008)"
+36,,,,,innate and acquired immune cells,
+37,Antimicrobial activity,,,,,
+38,A. arguta,L,Flavonoids and phenolic,,Antimicrobial effect against S. aureus,Almeida et al.
+39,,,acids,,,2018)
+40,A. chinensis,"Sk,P,",ND,MIC,Inhibition of S. aureus and S. pyogenes (8-4 g/mL) //,X.He et al.
+41,,"Sd, St",,,"E. faecalis, S. typhi, P. mirabilis, P. aeruginosa,",2019)
+42,,,,,"K. pneumoniae, E. coli, (16128 g/mL)",
+43,A. chinensis,"P,Sk",Polyphs and flavonoids,MIC,Inhibition against S. pyogenes and P. aeruginosa (18,"(Alim et al., 2019)"
+44,,,,,g/mL),
+45,Digestion enhancement and gastrointestinal health,,Digestion enhancement and gastrointestinal health,,,
+46,A. chinensis,"P,Sk",Protease,In vivo assays,Enzymatic activity 28.8 U/g,"Alim et al.,2020"
+47,A. deliciosa Planch,P,Protease,Protease activity,Enzymatic activity 28.8 U/g,"Sun et al.,2016"
+48,A.deliciosavar.Hayward,P,Protease,Digestibility,In vitro digestion of several dietary proteins,"Kaur et al., 2010)"
+49,"A. deliciosa var. Hayward,",P,Actinidin,In vivo assay,Improvement of digestion and rate of gastric,"(Montoya et al.,"
+50,A. chinensis var.,,,,emptying of meat proteins,2014)
+51,Hort16A,,,,,
+52,A. deliciosa,F,Polyphs,In vitro assays,Postprandial oxidative stress,"(Prior et al.,"
+53,,,,,,2007)
+54,A. deliciosavar.Hayward,F,"VitC, lutein,catechin,",In vivo assays,Increased frequency of daily bowel movements in,"Ansell et al.,"
+55,,,fiber,,C57BL/6J mice,2015)
+56,A. deliciosavar. Hayward,FF,Short chain FA,In vitro assays,Increase of gastrointestinal defensins in HT29,(M.A.Skinner
+57,,,,,,"et al.,2013)"
+58,"A. deliciosavar. Hayward,",FF,ND,"Gastrointestinal digestion,","Increment of organic acids, Bifidobacterium spp., and","(Blatchford et al.,"
+59,A. chinensisvar. Hort16A,,,anaerobic fecal batch cultures,Bacteroides spp.,2015)
+60,Other biological properties,,,,,
+61,A.arguta,St,"Moisture, ash, lipids,",In vitro assays,"Inhibition of -glucosidase,reduced levels of post-","Lee et al.,2014"
+62,,,"proteins,phs",,prandial blood G in diabetics,
+63,A. arguta,P,Polyphs,In vitro assays,Inhibition of -amilase (ICso 4.14.4 mg/mL) and,(Wojdyto et al.
+64,,,,,-glucosidase (IC5o 0.2-1.0 mg/mL),2017)
+65,"A. chinensis,A. deliciosa",P,Dietary fiber,In vitro digestion,Slows down the rate of glucose diffusion,"(Mishra & Monro,"
+66,,,,,,2012)
+67,A. deliciosa,F,ND,In vivo assay,Decrease of 9-10 mm Hg of blood pressure in male,"Karlsen et al.,"
+68,,,,,smokers,2013)
+69,A.deliciosavar.Hayward,P,"Carbohydrates (glucose,",In vivo assay,Improve glycemic response in humans,"(Mishra et al.,"
+70,,,fructose),,,2017)
+71,A.deliciosavar.Planch,Sd oil,FA, In vivo assay,"Lower weight gain, cholesterol, TAG and LDL in",Qu Liu Zhang
+72,,,,,obese mice,"Liu,et al.,2019"

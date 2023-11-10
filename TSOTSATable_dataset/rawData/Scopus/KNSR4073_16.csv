@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Total Mg Dose*,Diarrhoea,Doses,,,Subjects,,,,
+1,(mg/day),(n),Doses,Form,Mean age,Mean age,,Salt,Weeks,Ref.
+2,(mg/day),(n),per day,,(rangeyr,(rangeyr,Gender,,,
+3,180,0/130,3,Tablets,5.3-17.4,5.3-17.4,"M,F",Asp.HCL#,3,1
+4,245,0/112,2,Granules,8.1 (4-12),8.1 (4-12),"M,F",Asp.HCL,3,2
+5,245,0/181,2,Granules,4-12,4-12,"M,F",Asp.HCL,3,3
+6,250,0/31,1,Tablets,58,,F,Hydroxide,72,4
+7,,,,,,,,Pyrrolidone,,
+8,360,1/32,3,Granules,37 (18-65),37 (18-65),"M,F",carboxylic,4,5
+9,,,,,,,,acid salt,,
+10,365,0/17,3,Tablets,52 (33-66),52 (33-66),"M,F",Asp.HCL,4,6
+11,365,0/39,3,Granules,40 (20-59),40 (20-59),"M,F",Asp.HCL,8,7
+12,365,1/278,3,Tablets,28 (20-38),28 (20-38),F,Asp.HCL,26,8
+13,365,4/17,3,Tablets,71(56-88,71(56-88,nd,Citrate,6,9
+14,365,4/22,nd,Tablets,62,,"M,F",Hydroxide,12,10
+15,384,1/25,6,Ent.coated,21,,F,Chloride,4,11
+16,384,2/21,Divided,Ent.coated,63 (42-73),63 (42-73),"M,F",Chloride,6,12
+17,400,2/20,nd,Ent.coated,46 (26-65),46 (26-65),"M,F",Oxide,8,13
+18,476,18/50,2,Capsules,30 (21-50),30 (21-50),"M,F",Oxide,8.5,14
+19,480,2/12,nd,nd,16(11-21),16(11-21),"M,F",Asp.HCL,12,15
+20,480,2/37,2,Granules,28.54.5,28.54.5,F,Asp.HCL,4,16
+21,500,2/20,3,Capsules,57,,"M,F",Oxide,12,17
+22,576,0/5,3,Tablets,54 (38-75),54 (38-75),"M,F",Oxide,6,18
+23,970,to doses,1-3,Tablets,50,,"M,F",Hydroxide,3x3,19
+24,,,,Tablets,,,,,,
+25,1095,8/8,nd,Granules,nd,,"M,F",Asp.HCL,1,20
+26,,,,Capsules,,,,,,

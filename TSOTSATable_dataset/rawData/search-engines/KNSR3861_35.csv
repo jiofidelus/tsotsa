@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+0,,,,,,,,,, Main nutrients,,,,,,,Minerals,,,,,,,Vitamins,,,
+1,,,,,,DEN,(ENERC),WATER,PROCNT,FAT,CHOAVLDP,FIBTG,ASH,CA,P,NA,K,FE,CU,ZN,RETOL,CARTB,VITA_RAE,THIA,RIBF,NIA,VITC
+2,,,,,,,(ENERC),WATER,PROCNT,FAT,(CHOCDF),FIBTG,ASH,CA,P,NA,K,FE,CU,ZN,RETOL,CARTB,VITA_RAE,THIA,RIBF,NIA,VITC
+3,ASEAN,,Food and descriptior,,Alternate name,g/mL,kcal,g,g,g,g,g,g,mg,mg,mg,mg,mg,mg,mg,mcg,mcg,mcg,mg,mg,mg,mg
+4,,,,,,,,,,,,,4sh,,,,,,,,,,,,,,
+5,K,Fats and oils,,,,,,,,,,,,,,,,,,,,,,,,,
+6,AAK23,THKS,ButturreeTH,ButturreeTH,ButturreeTH,-,758,14.0,0.4,84.0,Op,0,2.2,15,-,563,,0.2,,,415,,415,Op,Op,-,0
+7,AAK1,"VNK250,THK7","Butter, unsalted",,"UaTinTH,BVN",,760,15.6,0.7,84.1,Op,0,0.1,21,-,11,-,0.2,,,685,-,685,Op,0.12,1.00,0
+8,AAK3,"PHK002,MYC117",Coconut cream,,"Niyog, kakang gata(PH)",,(310),61.0,4.2,31.6,(2.2),,1.0,12,103,16,445,1.5,,,0,0,,0.06,0.01,0.40,0
+9,AAK4,THK2,,,"nn, nssilas(TH)",0.990,184,75.9,1.9,19.0,1.4,0.1,0.7,5,,19,-,0.6,,,-,-,,-,-,-,0
+10,AAK5,"MYC118,THK1","oconut milk,powder,instant","oconut milk,powder,instant","Kelapa(MY, nu,(TH)",,668,2.3,8.9,57.2,28.9,0.9,1.8,19,184,100,531,1.9,,,0,,,0.08,0.04,0.20,1
+11,AAK6,VNC54,"oconut, mature kemel",,gia(VN),,362,49.3,5.2,35.3,2.7,6.5,1.0,24,117,3,281,10.7,,,0,0,0,0.06,0.01,0.20,2
+12,AAK9,"PHK007,THK14",Mayonnaise,,,-,712,16.2,1.8,76.7,3.6,0,1.7,19,22,515,-,0.6,,,61,T,61,0.02,0.02,-,Op
+13,AAK24,THK19,"Oi, com",,100%(TH),0.896,833,,Op,92.6,Op,0,,,,.,-,.,,,,,,Op,Op,,0
+14,AAK28,THK21,"Oil, palm, per 100 ml",,ns100%(TH),0.892,791,,Op,87.9,Op,0,,,,,,,,,,,,Op,Op,,0
+15,AAK29,THK20,,100,100%(TH),0.887,817,-,Op,90.8,Op,0,,-,-,-,-,-,,-,,-,-,Op,Op,-,
+16,AAK25,THK22,"Oil, sunflower",,n3100%(TH),0.900,856,,Op,95.1,Op,0,,-,-,-,,,-,,,,,Op,Op,,0
+17,AK30,THK3,Sandwich spread,,,,481,32.0,1.1,43.8,20.6,tr,2.5,12,,605,,0.7,,,58,,58,0.10,0.04,,
+18,M,"Sugar, Syrup and confectionery","Sugar, Syrup and confectionery",,,,,,,,,,,,,,,,,,,,,,,,
+19,AAM14,THT150,"Jelly, wl coconut cream",,RuneluLma(TH),-,(128),72.8,0.6,5.3,(19.5),,1.8,1,,,,,,,0,,,,,,-
+20,AAMS,,Honey,,,,285,28.6,0.2,0.0,71.0,0,0.2,20,9,5,24,2.0,,,0,0,0,0.00,0.04,0.10,0
+21,AAM20,THT151,"roddy palm, in heavy syrup","roddy palm, in heavy syrup",@nnaLau(TH),,(243),38.8,1.5,0.1,(59.1),,0.5,-,,-,,,,,0,,0,,,,

@@ -1,0 +1,19 @@
+,0,1,2,3
+0,,,Food group,Food code
+1,1,Cereals and products,Cereals and products,A
+2,2,"Starchy roots,tubers and products","Starchy roots,tubers and products",B
+3,3,"Legumes,nuts,seeds and products","Legumes,nuts,seeds and products",c
+4,4,Vegetables and products,Vegetables and products,D
+5,5,Fruits and products,Fruits and products,E
+6,6,"Meat,other animal flesh and products","Meat,other animal flesh and products",F
+7,7,"Finfish, shellfish,other aquatic animals and","Finfish, shellfish,other aquatic animals and",G
+8,,products,,
+9,8,Eggs and products,Eggs and products,H
+10,9,Milk and products,,J
+11,10,"Fats,oils and products","Fats,oils and products",K
+12,11,"Sugars, syrup and confectioneries","Sugars, syrup and confectioneries",M
+13,12,Condiments and spices,Condiments and spices,N
+14,13,"Beverages,non-alcoholic","Beverages,non-alcoholic",Q
+15,14,Fast foods:franchise foods,Fast foods:franchise foods,S
+16,15,Mixed food dishes:local,Mixed food dishes:local,T
+17,16,Miscellaneous,,U

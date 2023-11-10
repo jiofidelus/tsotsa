@@ -1,0 +1,48 @@
+,0,1,2,3
+0,Sample(s),Operating conditions,Findings,Reference
+1,Grain pea protein isolate,"Surface DBD plasma with air; 8.8 kV,3.0 kHz;a",Water and fat binding capacities as well as solubility increased;,BuBler et al.(2015
+2,,distance of 12 mm to the plasma source; 10,structural and/or compositional modifications occurred due to,
+3,,min,oxidation as confirmed by the changes in tryptophan flourescense,
+4,,,spectra.,
+5,Bovine gelatin films,"DBD plasma with air60,70, and 80 kV;",Surface roughness and surface oxygen content increased; the increase,Pankaj et al.
+6,,"distance between electrodes 22 mm; 1, 2, 3, 4,",in the O/C ratio mainly depending on the treatment time has led to an,(2015b)
+7,,and 5 min,increase in hydrophilicity of the gelatin film and the polar component,
+8,,,of the surface free energy; the water vapor and oxygen permeability,
+9,,,properties remained unchanged.,
+10,Wheat flour,Plasma discharge by DC power supply with air;,Although total proteins were not significantly influenced; oxidation of,Bahrami et al.
+11,,"15 and 20V,9 kHz,40 and 60 W;60 and 120 s",proteins with more intense treatment led to a shift towards higher,(2016)
+12,,,molecular weights in the protein profile and increased the dough,
+13,,,strength.,
+14,King prawn myofibrillar,APPJ with dry filtered air (10-15 L/min,Decrease in pH due to the generation of reactive species; modification,Ekezie et al.(2019)
+15,proteins,flowrate); 7 kV; a distance of 30 mm to the,of both secondary and tertiary structures led to a reduction in solubility,
+16,,"plasma source;2, 4, 6, 8, and 10 min",and an increase in particle size and turbidity; longer treatment times,
+17,,,could result in complete unfolding and degradation of secondary,
+18,,,"structure, thus 5 min or below were found to be suitable.",
+19,Myofibrillar proteins,,"Treatments up to 10 min increased the emulsion capacity, emulsion",Sharifian et al.
+20,,"the plasma source 12 kV,30 W,7 kHz;5,10,","stability, and foaming capacity due to opening of -helix structures and",(2019)
+21,,"15, and 20 min","unfolding, whereas prolonged treatments led to the intense oxidation",
+22,,,"and protein aggregation, causing a decrease in the above-mentioned",
+23,,,properties.,
+24,"Haemoglobin (Hg), pork",DBD plasma with air; 80 kV; 15 min,Solubility of Hg and BVL decreased under pH 6 due to an increase in,Perez-Andres et al.
+25,gelatine (PG) and bovine lung,,surface hydrophobicity; emulsifying capacity of all proteins decreased,(2019)
+26,protein (BVL),,as a consequence of protein aggregation and alteration in the protein,
+27,,,structure; gelation temperature decreased due to partial denaturation;,
+28,,,water and oil holding capacity of BVL significantly increased.,
+29,Peanut allergen (whole and,,No change in the protein intensity bands; a reduction in the,Venkataratnam
+30,defatted flour),min,antigenicity up to 43% and 9.3% for defatted peanut flour and whole,et al.2019
+31,,,"peanut, respectively; reactive plasma species induced modifications in",
+32,,,the secondary structure,
+33,Zein suspension,,"Modifications in particle size, morphology, surface hydrophobicity,",Li et al.2020)
+34,,V;70s,"and secondary structure have led to a dramatic increase in solubility,",
+35,,,"free --SH content, specific surface area, and dispersion stability.",
+36,Alaska pollock myofibrillar,"DBD plasma;10,20,30,40,50,and 60 kV;10","Water holding capacity, textural properties and colour properties of",Miao et al.2020
+37,protein,min,"gels increased; free sulfhydryl content decreased, while the turbidity",
+38,,,and surface hydrophobicity increased depending on voltage; thermal,
+39,,,"stability improved, however, band intensity decreased dramatically at",
+40,,,a higher voltage.,
+41,Bovine milk casein and whey,"Spark discharge (SD) with air; 8 kV, 25 kHz;",Casein and -lactalbumin intensity decreased after both SD and GD,Ng et al.(2021)
+42,proteins,"distance of 2.5 mm to the plasma source; 10,","treatments, while -lactoglobulin remained unchanged; modifications",
+43,,"20, and 30 min","in the content of secondary structures, especially -sheets and -turns,",
+44,,,and amino acid compositions occurred; antigenicity of casein and,
+45,,"distance of 5 mm to the plasma source;10,20,","-lactalbumin decreased, while -lactoglobulin antigenicity increased.",
+46,,and 30 min,,

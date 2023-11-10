@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6
+0,Dependent,Independent,Beta,,95% CL,,p-Value
+1,Variables,Variables,Beta,,95% CL,,p-Value
+2,delta log non-HDL-C,,0.120,0.051,,0.190,0.001*
+3,delta log LDL-C,log SFA T1,0.112,0.033,,0.191,0.006 *
+4,delta log TC,,0.092,0.033,,0.150,0.002*

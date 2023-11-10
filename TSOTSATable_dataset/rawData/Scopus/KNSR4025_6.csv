@@ -1,0 +1,5 @@
+,0,1
+0,Field Name,Description
+1,Nutr_No*,Unique 3-digit identifier code for each proanthocyanidin
+2,Description,Name of the proanthocyanidin
+3,Unit,Units of measure (e.g. mg)

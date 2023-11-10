@@ -1,0 +1,34 @@
+,0,1,2,3,4
+0,,,BV-affected women,Healthy women,
+1,Characteristic*,Characteristic*,n=144,n=151,P Valuet
+2,"Age, year, median (Q1-Q)","Age, year, median (Q1-Q)",30 (25-33),32 (24-37),0.177
+3,Familial history of BV,Familial history of BV,77 (53.5),37 (24.5),<0.001
+4,Education,Education,,,0.408
+5,Primary/secondary school,Primary/secondary school,37 (25.7),39 (25.8),
+6,Bachelor's degree,Bachelor's degree,76 (52.8),70 (46.4),
+7,Master's/Doctoral degree,Master's/Doctoral degree,31(21.5),42 (27.8),
+8,Cigarette per day,Cigarette per day,,,<0.001
+9,0,,118 (82),149 (98.7),
+10,1-2,,12(8.3),2(1.3),
+11,3,,14 (9.7),0(0),
+12,"Employment status,Employed","Employment status,Employed",43 (29.9),42 (27.8),0.698
+13,Monthly family income<250 US$,Monthly family income<250 US$,111(77.1,121 (80.1),0.523
+14,Frequency of pregnancy,Frequency of pregnancy,,,0.885
+15,0,,64 (44.4),70 (46.4),
+16,1-2,,66 (45.8),65 (43),
+17,3,,14 (9.7),16 (10.6),
+18,"Menstrual cycle,Regular","Menstrual cycle,Regular",95 (66),102 (67.5),0.774
+19,,Number of sexual partners in the previous month,,,0.794
+20,0,,43 (29.6),44 (28.9),
+21,1,,95 (66),103 (68.1),
+22,2,,6 (4.4),4(3),
+23,,"Physical activity (MET/h/day),median (Q-Q)",40.3 (35.244.7),40.3 (36.446.6),0.599
+24,BMI status,BMI status,,,0.016
+25,Underweight and healthy,Underweight and healthy,59 (41),83(55,
+26,Overweight,Overweight,64 (44.4),44 (29),
+27,Obese,Obese,21 (14.6),24 (16),
+28,Abdominal obesity,Abdominal obesity,50 (34.7),37 (24.5),0.05
+29,Calcium supplement 500 mg/day,Calcium supplement 500 mg/day,10(6.9),24 (15.9),0.016
+30,Folate supplement 400g/day,Folate supplement 400g/day,30 (20.8),22 (14.6),0.158
+31,,"Vitamin D supplement 50,000 IU/month",49 (34),66 (43.7),0.088
+32,Iron supplenet 30 mg/day,Iron supplenet 30 mg/day,26 (18.1),41 (27.2),0.062

@@ -1,0 +1,17 @@
+,0,1,2
+0,Activity,Description,Detail
+1,,Collect dietary,Obtain details of food consumption from
+2,,information,client's food diary(paper or electronic
+3,2,Initial checking and,Check information provided by client-face-to
+4,,clarification of data,face/telephone/email
+5,3,Coding and portion,Assign codes to foods manually(optional)
+6,,size assessment,Assess portion sizes and convert to grams using
+7,,,food portion size book and manufacturer's date
+8,,,(optional)
+9,4,Data entry,Enter food diary data into dietary analysis
+10,,,programme
+11,5,Data analysis,"Analyse diet for macronutrients,"
+12,,,"micronutrients,energy,other constituents"
+13,6,Report writing,Present results in appropriate format for both
+14,,,"dietitian and client,based on original purpose"
+15,,,of dietary analysis

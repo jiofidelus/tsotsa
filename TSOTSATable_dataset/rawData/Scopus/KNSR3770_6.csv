@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,,,,Molecular Characterization,Molecular Characterization,,AntisepticAntibiotic Resistance Genes,AntisepticAntibiotic Resistance Genes,AntisepticAntibiotic Resistance Genes,AntisepticAntibiotic Resistance Genes
+1,Isolate No.(%),Type No. (%),No. (%),ST Type,spa Type,agr Type,SCCmec Type,qacA/B,smr,mupAt,mupB'
+2,S.aureus 102(50.7%),MSSA 82 (80.4%),12 (14.6%),ST101,t2078,1,,0,0,0,0
+3,,,25 (30.5%),ST9,t7286,11,,(0%),(0%),(0%),(0%)
+4,,,45 (54.9),ST9,t7867,11,,,,,
+5,,MRSA 20(19.6%),20 (100%),ST22,t8934,,IVa,,,,

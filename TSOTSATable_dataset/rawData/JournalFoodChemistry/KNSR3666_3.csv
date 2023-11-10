@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Food,Species,Compounds,Production,References
+1,,,,system,
+2,Kiwifruits,Actinidia,Color,Organic,"Amodio et al.,"
+3,,"deliciosa, cv",Firmness,1,2007D'Evoli
+4,,Hayward,,Conventional,"et al.,2013"
+5,,,Firmness,,
+6,,Actinidia,,Organic,
+7,,"deliciosa, cv.",,,
+8,,Hayward,,,
+9,Apple,Malus,Color,Organic,Do Amarante
+10,,"domestica, ev.",,,"Steffens,Mafra"
+11,,"Royal Gala,",,,&Albuquerque
+12,,Fuji,,,2008
+13,,,Firmness,Organic,
+14,,,,,"Peck,Andrews"
+15,,Malus,,,"Reganold,&"
+16,,domestica,,,"Fellman,2006"
+17,,"Borkh., cv.",,,
+18,,Galaxy Gala,,,
+19,Black,Rubus,Color,Organic,"Pinto et al.,"
+20,berries,"fruticosus, cv.",,,2017
+21,,"Loch Ness,",,,
+22,,Chester,,,
+23,,Thornless,,,
+24,Strawberry,Fragaria ,Color,Organic,Reganold et al.
+25,,ananassa,Firmness,No effects,"2010Drobek,"
+26,,"Duch., cv.",,,"Frac,Zdunek&"
+27,,"Diamante, San",,,"Cybulska,2020"
+28,,JuanLanai,,,
+29,,,Firmness,Organic,
+30,,Fragaria x,,,
+31,,ananassa,,,
+32,,"Duch., cv.",,,
+33,,Honeoye,,,
+34,Blueberries,Vaccinium,Color,No effects,"Ochmian,"
+35,,corymbosum,,,"Blaszak,"
+36,,"L.,cv.Brigitta",,,"Lachowicz,&"
+37,,Blue,,,"Piwowarczyk,"

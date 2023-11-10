@@ -1,0 +1,46 @@
+,0,1,2
+0,Component,Component name,Unit
+1,ID/Tagname,,
+2,LI(mcg),lithium,mcg
+3,NITRA(mg),nitrates,mg
+4,NITRI(mg),nitrites,mg
+5,PB(mcg),lead,mcg
+6,SR(mcg),strontium,mcg
+7,Vitamins,,
+8,Fat-soluble vitamins,,
+9,"Vitamin A, retinol",,
+10,VITA_RAE(mcg),vitamin A retinol activity equivalent (RAE); calculated by summation of the,mcg
+11,,vitamin A activities of retinol and the active carotenoids,
+12,VITA(mcg),vitamin A; calculated by summation of the vitamin A activities of retinol and,mcg
+13,,the active carotenoids,
+14,RETOL(mcg),retinol,mcg
+15,RETOL(IU),retinol,IU
+16,RETOL13(mcg),13-cis retinol,mcg
+17,RETOLDH(mcg),dehydroretinol,mcg
+18,RETOLSUM(mcg),"summation, retinol = trans-retinol + cis-retinol",mcg
+19,VITA-(mcg),vitamin A; method of determination unknown,mcg
+20,VITA-(IU),vitamin A;method unknown or variable,IU
+21,Carotenoids,,
+22,ANTHX(mcg),antheraxanthin,mcg
+23,ATX(mcg),astaxanthin,mcg
+24,CAROT(mcg),"carotene, total trans",mcg
+25,CARTA(mcg),alpha-carotene,mcg
+26,CARTB(mcg),beta-carotene,mcg
+27,CARTBCIS(mcg),beta-carotene cis,mcg
+28,CARTBEQ(mcg),beta-carotene equivalents,mcg
+29,CARTG(mcg),gamma-carotene,mcg
+30,CARTOID(mcg),"carotenoids, total",mcg
+31,CRYPX(mcg),"cryptoxanthin, total",mcg
+32,CRYPXA(mcg),alpha-cryptoxanthin,mcg
+33,CRYPXB(mcg),beta-cryptoxanthin,mcg
+34,LUTN(mcg),lutein,mcg
+35,LUTNZEA(mcg),lutein+zeaxanthin,mcg
+36,LYCPN(mcg),lycopene,mcg
+37,NEOX(mcg),neoxanthin,mcg
+38,NEUROSP(mcg),neurosporene,mcg
+39,VIOLX(mcg),violaxanthin,mcg
+40,ZEA(mcg),zeaxanthin,mcg
+41,Vitamin D,,
+42,CHOCAL(mcg),cholecalciferol (D3),mcg
+43,CHOCAL(IU),cholecalciferol (D3),IU
+44,CHOCALOH(mcg),25-hydroxycholecalciferol,mcg

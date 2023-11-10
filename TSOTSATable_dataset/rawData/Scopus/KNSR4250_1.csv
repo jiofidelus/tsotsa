@@ -1,0 +1,34 @@
+,0,1,2,3
+0,Components,Score range,Standard for maximum score,Standard for minimum score
+1,Adequacy(8),,,
+2,Have breakfast*,0-10,5-7 times/wk,0 times/wk
+3,Mixed grains intake*.t,0-5,0.3 serving/day,0 serving/day
+4,Total fruits intaket,0-5,- Men aged 19-64 years:  3 serving/day,0 serving/day
+5,,,Men aged 65years and overs:2 serving/day,
+6,,,Women aged19-64years:2serving/day,
+7,,,-Women aged 65 years and overs: 1 serving/day,
+8,Fresh fruits intake*.t,0-5,Men aged 19-64 years:  1.5 serving/day,0 serving/day
+9,,,Women aged19-64years:1serving/day,
+10,,,Men aged65years and overs:1serving/day,
+11,,,Women aged 65years and over:0.5serving/day,
+12,Total vegetables intaket,0-5,Men and women aged 19-64 years:8 serving/day,0 serving/day
+13,,,Men aged 65 years and overs:8 serving/day,
+14,,,Women aged 65 years and overs:6 serving/day,
+15,Vegetables intake excluding Kimchi and pickled,0-5,- Men and women aged 19-64 years:  5 serving/day,0 serving/day
+16,vegetables intake*.t,,Men aged 65years and overs:5serving/day,
+17,,, - Women aged 65 years and overs:  3 serving/day,
+18,"Meat, fish, eggs, and beans intaket",0-10,Men aged 19-64 years:5 serving/day,0 serving/day
+19,,,Women aged 19-64 years:4 serving/day,
+20,,, Men aged 65 years and overs:  4 serving/day,
+21,,,Women aged 65 years and overs:2.5 serving/day,
+22,Milk and milk products intakef,0-10,z1serving/day,0 serving/day
+23,Moderation(3,,,
+24,Percentage of energy from saturated fatty acidt.t,0-10,<7% of total energy intake,>10% of total energy intake
+25,Sodium intaket.s,0-10,"2,000 mg/day",">6,500 mg/day"
+26,Percentage of energy from sweets and beveragest,0-10,s10% of total energy intake,>20% of total energy intake
+27,Energy balance3,,,
+28,Percentage of energy from carbohydratet.s,0-5,55-65% of total energy intake,<50% or >75% of total energy
+29,,,,intake
+30,Percentage of energy intake from fatt.t.s,0-5,15-30% of total energy intake,<10% or >35% of total energy
+31,,,,intake
+32,Energy intaket.s,0-5,75-125% of the estimated energy intake reguirement (EER),<60%or>140%of EER

@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7
+0,Flour origin,Extrusion condition,Pasting parameters,,,,,Reference
+1,,,PV (cP),FV (cP),BD(cP),SB(cP),PTC,
+2,pearled barley,before extrusion,1375,1752,699,1077,-,"Guldiken et al.,2020)"
+3,,"160C,18 %,320 rpm",57,ND,57,ND,-,
+4,oat,before extrusion,2491,3052,1091,1652,91.4,"Wang,Xia,Wang,Ali,& Li,2019)"
+5,,"159C,18 %,150 rpm",881,437,655,211,88.0,
+6,kiwicha,before extrusion,1680,1437,-,-,63.1,"Basilio-Atencio et al.,2020)"
+7,,"160C,14 %,125 rpm",653,738,,,61.0,
+8,,"160C,18 %,125 rpm",231,331,-,-,67.5,
+9,white sorghum,before extrusion,2287,4377,837,2928,87.1,"Wang, Ai et al.,2019)"
+10,,"150C,20 %,317 rpm",200,158,79,38,ND,
+11,common buckwheat,before extrusion,2959,5176,350,2567,-,"Cheng et al,2020"
+12,,"100C,30 %,60 rpm",1881,552,1577,248,-,
+13,polished adlay,before extrusion,1336,1853,77,588,-,"Zhang et al, 2020)"
+14,,"120C,25%,200 rpm",106,159,20,71,,
+15,defatted polished adlay,before extrusion,1024,1647,13,615,,"Zhang et al,2020)"
+16,,"120C,25%,200 rpm",116,136,39,57,-,
+17,finger millet,before extrusion,3550,5028,1520,1990,71.6,"Kumar,Kaur,Sethi,Kaur Jambh2020"
+18,,"130C,21%,375 rpm",1432,338,1228,128,64.1,
+19,finger millet,before extrusion,1906,4375,1296,3765,73.9,"Patil,RudraVarghese,& Kaur,2016"
+20,,"110C,20%,350 rpm",622,620,140,138,70.2,
+21,amaranth,before extrusion,1451,1590,254,393,72.8,"(Rudra,Anand, Kaur,Bhooshan,& Bhardwaj,2020"
+22,,"100 C, 14 %, 40 rpm",333,584,6,157,69.8,

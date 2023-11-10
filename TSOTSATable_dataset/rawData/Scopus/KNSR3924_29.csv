@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Animal or Study,,,,,,,
+1,Investigated,"Extract,",Groups,Animal,,Method for,Microbiome,Method for,,
+2,"Plant, Plant",Sample,(n = Number of,"Species,",Conditions,Microbiome,Changes,Metabolite,Metabolites,Reference
+3,Part,Preparation,Individuals),Volunteers,,Analysis,Changes,Detection,,
+4,,,,,,,,,ginseng group:,
+5,,,,,,,,,25 significantly,
+6,,,,,,,,,changed,
+7,,,,,,,,,metabolites,
+8,,,,,,,,,from cecum and,
+9,,,2 groups:,,treated for 34,V3 region of 16S,rel. increase in,,35 from ileum;,
+10,,ginseng,control (distilled,male Wistar rats,"weeks, intestinal","rRNA gene,",ginseng group:,,upregulated:,
+11,,extract (not,"water), ginseng",(34 weeks with,"(cecum, ileum)",NGS (pyrose-,"Bifidobacterium,",untargeted,"amino acids,",[142]
+12,,defined),extract (100 mg/kg;,300 g),contents,quencing with,Lactobacillus,GC-TOFMS,"arachidonic acid,",[142]
+13,,defined),n = 9 per group),300 g),collected after,the GS FLX,"Methylobacteriaceae,",,"polyamines, and",
+14,,,n = 9 per group),,sacrifice,platform),and Parasutterella,,organic acids;,
+15,,,,,,,,,downregulated:,
+16,,,,,,,,,"linoelaidic acid,",
+17,,,,,,,,,palmtelaidic,
+18,,,,,,,,,"acid, oleic acid,",
+19,,,,,,,,,and glycerol,
+20,,saponin,3 groups:,,,,GS group vs. control:,,,
+21,,extract (80%,control group,,treated for 15,ERIC-PCR;,increased:,,,
+22,,saponins),(500 mg GS/kg BW,male C57BL/6,collected for 2,primers,Lactobacillus,,,
+23,,(GS); red,1 per day); RGS,mice(8 weeks,consecutive,targeting 16S,RGS group vs.,,,[120]
+24,,ginseng,group (500 mg,old)," hours on days 0,",rRNA gene of,control:,,,[120]
+25,,saponin,RGS/kg BW 1x per,old),"5,10,and 15",specific bacterial,increased:,,,
+26,,saponins,day),,upon treatment,groups,Clostridium Cluster IV,,,
+27,,(RGS,(n=10 per group),,,,,,,

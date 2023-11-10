@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,,Constituent,Constituent,Units,Trace = amount,Trace = amount
+1,,,,,less than,
+2,"Main nutrients: water, protein, fat,carbohydrate","Main nutrients: water, protein, fat,carbohydrate","Main nutrients: water, protein, fat,carbohydrate",g,,0.06
+3,,"dietary fiber,ash","dietary fiber,ash",,,
+4,"Inorganic constituents: calcium, phosphorus,","Inorganic constituents: calcium, phosphorus,","Inorganic constituents: calcium, phosphorus,",mg,,0.6
+5,,,"sodium,potassium",,,
+6,"Trace elements:iron,zinc","Trace elements:iron,zinc",,mg,,0.06
+7,,: copper,,mg,,0.006
+8,"Vitamins:RAE,retinol,B-carotene","Vitamins:RAE,retinol,B-carotene","Vitamins:RAE,retinol,B-carotene",mcg,,0.6
+9,":B1,B2",":B1,B2",,mg,,0.006
+10,: niacin,,,mg,,0.06
+11,C,,,mg,,0.6

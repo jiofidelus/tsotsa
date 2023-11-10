@@ -1,0 +1,25 @@
+,0,1,2,3,4,5,6
+0,Element,Chemical,Crop,*Beneficial,*Toxic levels,*Lethal,References
+1,,form,Crop,levels,,levels,
+2,Silver,AgNPs,Fenugreek(Trigonella foenum,20-60 mg,,,Sadak (2019)
+3,,,graecum),L-1,,,
+4,,AgNPs,Raphanus sativus,,250-500 mg,,Zuverza-Mena et
+5,,,,,L-1,,al.2016
+6,,Ag2S,Lettuce (L.,,,26 mg kg-1,Hirsch (1998
+7,,,"sativa cv.Ithaca,Chinese cabbageBras-",,,"(lettuce),",
+8,,,sica campestris cv. China Doll),,,43 mg kg-l,
+9,,,,,,(Chinese,
+10,,,,,,cabbage),
+11,Tin,SnCl2,Spinacea oleracea L.,220 mg L-l,,,Muller et al.2015
+12,,SnCl2,Pea,0.2 ppm,1-20 ppm,100 ppm,Cohen (1940)
+13,,,Corn,0.2-1.0 ppm,5-100 ppm,,
+14,,,Sunflower,0.01 ppm,1-10 ppm,100 ppm,
+15,Vanadium,NH4VO,Pepper (Capsicum annuum),5 uM,10-15M,>15 M,Garcia-Jimenez et
+16,,,,,,,al.(2018)
+17,Rubidium,"Rb,SO4",Sugarbeet(Beta vilgaris) var.MS NB1.x,1.0 meq L-1,8.0 meq L-1,nd,El-Sheikh et al.
+18,,,NB4,,,,(1967)
+19,Strontium,Sr2+,Soybean (Glycine max),2 mM,,,Wojciak-Kosior et
+20,,,,,,,al.(2016)
+21,,Sr(NOz)2,Soybean (Glycine max),,0.5-4 mM,,Dresler et al.2018
+22,,SrCl2,Onion (Allium cepa),,,>80 ppm,Meena et al.2013
+23,Zinc,ZnSO4,Beans(Phaseolus vulgaris L.),25 uM,50-450 M,>550uM,Nejad et al.2014

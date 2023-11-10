@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7
+0,,Salt intake (NaCl as g per day),,,25-34,35-44,45-54,55-64
+1,,Mean,By sex and (adult) age group,Male,,,,
+2,,,,Female,,,,
+3,2,Smoking (prevalence,,,25-34,35-44,45-54,55-64
+4,,Mean,By sex and (adult) age group,Male,,,,
+5,,,,Female,,,,
+6,3, Systolic blood pressure (mmHg),,,25-34,35-44,45-54,55-64
+7,,Mean,By sex and (adult) age group,Male,,,,
+8,,,,Female,,,,
+9,,Std deviation (SD),By sex and (adult)age group,Male,,,,
+10,,,,Female,,,,
+11,4,BMI (kg/m2),,,25-34,35-44,45-54,55-64
+12,,Mean,By sex and (adult) age group,Male,,,,
+13,,,,Female,,,,
+14,,Std deviation (SD),By sex and (adult) age group,Male,,,,
+15,,,,Female,,,,
+16,,5 Total blood cholesterol (mmol/L),,,25-34,35-44,45-54,55-64
+17,,Mean,By sex and (adult) age group,Male,,,,
+18,,,,Female,,,,
+19,,Std deviation (SD),By sex and (adult) age group,Male,,,,
+20,,,,Female,,,,

@@ -1,0 +1,29 @@
+,0,1,2,3,4,5
+0,,,,Case Group (Cancer),Control Group (Healthy),
+1,Mineral,Cancer Entity,Sample,Mean Mineral Content,Mean Mineral Content,Reference
+2,,,,Number of Patients,Number of Patients,
+3,Zinc,Breast,Tissue t,3.5-19.5 ppm (n = 26),0.8-11.4 ppm (n =26),[70]
+4,,Glioblastoma,Tissue,0.0403 g/cm2 (n =11),0.0285 g/cm2n=11),[75]
+5,,,Tissue +,0.20 g/kg (n=6),0.27 g/kgn=6,[76]
+6,,Colon,Serum,96.4 g/dL (n =966),97.1 g/dL (n =966),[29]
+7,Copper,Glioblastoma,Tissue,0.0090 g/cm2 (n=11),0.0079 g/cm2 (n =11),[75]
+8,,,Tissue t,0.48 g/kg(n=6),1.26 g/kg (n = 6),[76]
+9,,,Serum,27.5 mol/L (n = 52),19.7 mol/L (n = 52) ,[77]
+10,,Colon,Serum,138.6 g/dL (n=966),135.8 g/dL (n = 966),[29]
+11,,Pancreas,Serum,1432 g/L(n=100),1098 g/L (n=100),[74]
+12,Selenium,Any,Serum,58.8 g/L *,84.8 g/L (n = 966),"[99,106]"
+13,,Esophageal,Tissue t,0.73 g/g (n = 30) ,0.59 g/g(n=30),[107]
+14,,Prostate,Tissue,191 g/kg (n=49),168 g/kg(n=49),[103]
+15,,,Serum,0.13 g/g(n=467),0.14 g/g (n = 936),[104]
+16,,Breast,Serum,90.5 ng/mL (n =100),91.3 ng/mL (n =1186),[109]
+17,,Liver,Serum,67.47 g/L(n=187),108.38 g/L(n=120),[105]
+18,,Colon,Serum,84.0 g/L (n = 966),85.6 ug/L (n=966),[106]
+19,,Pancreas,Serum,60.0g/L(n=100,76.0g/L(n=100),[74]
+20,,Lung,Serum,166.00 ng/g (n =48),144.74 ng/g (n=39),[100]
+21,,Renal,Serum,161.7 g/L (n = 401),288.8 g/L (n=774),[102]
+22,Phosphorus,Glioblastoma,Tissue,1.71 g/cm2(n =11),3.01 g/cm2 (n=11),[75]
+23,Iron,Glioblastoma,Tissue,0.037 g/cm2(n=11),0.118 g/cm2(n=11),[75]
+24,,Oral,Serum,194.6 g/dL *,128.6 g/dL *,[73]
+25,Calcium,Prostate,Tissue,657 mg/kg(n=50),1431 mg/kg (n = 49),[103]
+26,,Oral,Serum,14.7 mEq/L *,9.4 mEq/L *,[73]
+27,,Ovary,Serum,9.34 mg/dL (n =170),9.31 mg/dL (n =344),[180]

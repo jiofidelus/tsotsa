@@ -1,0 +1,51 @@
+,0,1,2
+0,component,Componentname,onit
+1,ID/Tagname,,
+2,F20D6 (g),fatty acid 20:6,g
+3,F21D5N3(g),fatty acid 21:5 n-3,g
+4,F22D5N6(g),fatty acid 22:5 n-6,g
+5,F22D5N3(g),fatty acid 22:5 n-3,g
+6,F22D5(g),fatty acid 22:5,g
+7,F22D6N6(g),fatty acid 22:6 n-6,g
+8,F22D6CN3(g),fatty acid 22:6 cis n-3,g
+9,F22D6N3(g),fatty acid 22:6 n-3,g
+10,F22D6(g),fatty acid 22:6,g
+11,F24D6N3(g),fatty acid 24:6 n-3,g
+12,F16D1N5_A_F16D1,fatty acid 16:1 n-5 + fatty acid 16:1 n-7,g
+13,N7(g),,
+14,F16D1N7_A_F16D1,fatty acid 16:1 n-7 + fatty acid 16:1 n-9,g
+15,N9(g),,
+16,F18D1N7_A_F18D1,fatty acid 18:1 n-7 + fatty acid 18:1 n-9,g
+17,N9(g),,g
+18,F20D1N7_A_F20D1,fatty acid 20:1 n-7 + fatty acid 20:1 n-9,g
+19,N9(g),,
+20,F20D1N9_A_F20D1,fatty acid 20:1 n-9 +fatty acid 20:1 n-11,g
+21,N11(g),,
+22,F22D1N9_A_F22D1,fatty acid 22:1 n-9 + fatty acid 22:1 n-11,g
+23,N11(g),,
+24,F18D1TN10_A_F18,fatty acid 18:1 trans n-10 + fatty acid 18:1 trans n-12,g
+25,D1TN12(g),,
+26,F18D1TN4_A_F18D,fatty acid 18:1 trans n-4 + fatty acid 18:1 trans n-5,g
+27,1TN5(g),,g
+28,F20D3N3_A_F20D4,fatty acid 20:3 n-3 + fatty acid 20:4 n-6,g
+29,N6(g),,
+30,F18D2C9T11_A_F1,"fatty acid 18:2 n-7, cis9, trans11, conjugated + fatty acid 18:2 n-6, trans10,",g
+31,8D2T10C12(g),"cis12, conjugated",
+32,F20D1N11_A_F20D,fatty acid 20:1 n-11 + fatty acid 20:1 n-13,g
+33,1N13(g),,
+34,F22D1N11_A_F22D,fatty acid 22:1 n-11 + fatty acid 22:1 n-13,g
+35,1N13(g),,
+36,FACID(g),"fatty acids,total",g
+37,FAR(g),"fatty acids,remainder",g
+38,FASAT(g),"fatty acids, total saturated",g
+39,FAMS(g),"fatty acids, total monounsaturated",g
+40,FAPU(g),"fatty acids,total polyunsaturated",g
+41,FATRN(g),"fatty acids, total trans",g
+42,FAUN(g),"other fatty acids,not specified",g
+43,FAPUN9(g),"fatty acids, total n-9 polyunsaturated",g
+44,FAPUCN9(g),"fatty acids, total n-9 polyunsaturated in cis configuration",g
+45,FAPUN6(g),"fatty acids, total n-6 polyunsaturated",g
+46,FAPUCN6(g),"fatty acids, total n-6 polyunsaturated in cis configuration",g
+47,FAPUN3(g),"fatty acids, total n-3 polyunsaturated",g
+48,FAPUCN3(g),"fatty acids, total n-3 polyunsaturated in cis configuration",g
+49,FAPULCCN3(g),"fatty acids, total n-3 long-chain polyunsaturated in cis configuration",g

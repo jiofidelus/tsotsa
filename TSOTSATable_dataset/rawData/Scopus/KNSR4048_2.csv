@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Application,Objective,Category in the industry,Important outcomes,References
+1,Livestock production,To analyze the outcome of various variables on,Production/raw material,i ES can be utilized as a decision support system,Vasquez et al.[140]
+2,"(milk, meat)",the performance of the livestock production,,for livestock producers for identifying the best,
+3,,,,practices for the livestock which maximizes the,
+4,,,,production of the meat and milk,
+5,,,,ii The greatest impact on the production is the,
+6,,,,type of grazing being fed to the cattle as the diet,
+7,,,,affects the health of the cow who produces the,
+8,,,,milk and the meat,
+9,Red wine and rum,To forecast the key aroma compounds for foods,"Sensory evaluation/quality control (i) The developed rapid method system, Sensom-","Sensory evaluation/quality control (i) The developed rapid method system, Sensom-",Nicolotti et al. [141]
+10,,without using the human olfactory system,,"ics Based Expert System, resulted in a good",
+11,,,,agreement in the key odorants for the food,
+12,,,,aroma distillate,
+13,Rice crops,To aid the farmers in making decisions for the,Agriculture/,i The farmers are assisted by the ES in selecting,Kharisma et al. [142]
+14,,rice crops,production,the seeds and tackling the pests and diseases for,
+15,,,,the rice crops which eventually will improve the,
+16,,,,production of the rice crops,
+17,Soybean,To identify the diseases on soybeans,Agriculture,(i) The study successfully designed an ES to,Rajendra et al. [143]
+18,,,,identify soybean diseases by comparing the,
+19,,,,accuracy using the frame-based representation,
+20,,,,and rule-based representation method,
+21,,,,(ii) Frame-based representation ES has shown a,
+22,,,,higher accuracy compared to the rule-based ES,
+23,White winemaking,To develop a knowledge-based ES for the,Processing/sustainability,(i) A cost-efficiency advanced control system,Sipos [42]
+24,,alcoholic fermentation process of the white,,through the knowledge-based ES was developed,
+25,,winemaking,,for the alcoholic fermentation process which,
+26,,,,"was used for the supervision, control, and data",
+27,,,,recovery software of the bioreactor,
+28,,,,(ii) It was proven to be applied in winemaking at,
+29,,,,the industrial scale and can be adjusted for few,
+30,,,,areas in the food manufacturing sectors,
+31,Wine,To measure the environmental impact of viticul-,Sustainability,(i) ES integrated with the geographic information,Lamastra et al. [144]
+32,,ture at wine estate,,system software was able to measure the envi-,
+33,,,,ronmental impact of viticulture in a comprehen-,
+34,,,,sive way,
+35,,,,(ii) The model is said to be an environmental sup-,
+36,,,,port system in supporting policy and decision-,
+37,,,,making in the management,

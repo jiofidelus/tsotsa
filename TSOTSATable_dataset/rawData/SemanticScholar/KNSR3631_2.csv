@@ -1,0 +1,10 @@
+,0,1
+0,Validation Testing,Step as HACCP
+1,translation errors.,Harmonization
+2,Classification and consistency verification of food name and grouping,Harmonization
+3,Verification of FoodEx2 coding and INFOODS compound tagging,Harmonization
+4,within the range: 95-105 g,Unification
+5,"Cholesterol=0,or fiber in fish.",Unification
+6,Outlier values within each nutrient or compound.,Unification
+7,Spreadsheet to MySQL data transfer checking,Management
+8,Model recipe testing.,Recipes Calculation

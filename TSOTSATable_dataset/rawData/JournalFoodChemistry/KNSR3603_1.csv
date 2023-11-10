@@ -1,0 +1,36 @@
+,0,1
+0,Vitamin D value data source,"-Analytical results, analytical, generic"
+1,,"analytical methods (non-defined,HPLC"
+2,Vitamin D forms,-Vitamin D-total
+3,,-Cholecalciferol(D)
+4,,-25-hydroxycholecalciferol(25OHD)
+5,Country datasets,-USDA
+6,,-UK FCD
+7,,-DTU
+8,,-French FCDB
+9,,-Dutch FCDB
+10,,-Swedish FCDB
+11,,- Norwegian FCDB
+12,,-Finnish FCDB
+13,,-Turkish FCDB
+14,Food groups (merged EuroFIR,-FISH AND SEA FOOD
+15,food groups and ODIN,-MEATAND MEATPRODUCTS
+16,groups& sub-groups),-DAIRY
+17,,o NON-FORTIFIED
+18,,o FORTIFIED
+19,,-NON DAIRY DRINKS
+20,,o FORTIFIED
+21,,-FATAND FATTY SPREADS
+22,,o BUTTER
+23,,O FORTIFIED OILS AND MARGARINES
+24,,-EGGS
+25,,o NON-FORTIFIED
+26,,o FORTIFIED
+27,,-MUSHROOMS
+28,, FORTIFIED
+29,,-BAKERY YEASTS
+30,,o FORTIFIED
+31,,-FORTIFIEDJUICES
+32,,-FORTIFIED CEREALS PRODUCT
+33,,-MEAL REPLACEMENT(FORMULATED
+34,,LIQUID DIETS

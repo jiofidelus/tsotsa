@@ -1,0 +1,45 @@
+,0,1,2
+0,Variable,n%,Mean  SD(Min-Max)
+1,Characteristic of family,,
+2,Marital status,,
+3,Married,30,100.0
+4,Widow/widower,0,0.0
+5,Mothers'age y.o,,33.3  6.2 (2047)
+6,2029,6,20.0
+7,30-39,19,63.3
+8,40-46,5,16.7
+9,Mothers'education,,
+10,Graduated from junior high school or less,17,56.7
+11,Graduated from senior high school,10,33.3
+12,Academy/bachelor,3,10.0
+13,Working status of mother,,
+14,No,28,93.3
+15,Yes(trader),2,6.7
+16,Working type of father,,
+17,Private,9,30.0
+18,Trader,6,20.0
+19,Laborer,6,20.0
+20,Government employee,3,10.0
+21,No job,6,20.0
+22,Residence status,,
+23,"Family(father,mother,children",22,73.3
+24,Join with another family,8,26.7
+25,Characteristic of children under-five,,
+26,Gender,,
+27,Female,17,56.7
+28,Male,13,43.3
+29,Age (months),,
+30,11-23,7,23.3
+31,24-35,8,26.7
+32,36-47,7,23.3
+33,48-57,8,26.7
+34,Ownership of birth certificate,,
+35,Yes,22,73.3
+36,No,8,26.7
+37,Number of children under-five in family,,
+38,One,27,90.0
+39,Two,3,10.0
+40,The person who most often takes care of toddlers,,
+41,Mother,21,70.0
+42,Father and mother,4,13.3
+43,Mother and grandmother/aunt,5,16.7

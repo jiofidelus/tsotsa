@@ -1,0 +1,36 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Food,Code,Letter,Name,Energy,Energy,Protein,Fat,Carbo-,Fibre,Phytate,Water
+1,group,Code,code,,Energy,Energy,Protein,Fat,hydrate,Fibre,Phytate,Water
+2,,,,,kcal,kJ,g,g,g,g,g,g
+3,4. - Sorghum (Kinto),4. - Sorghum (Kinto),4. - Sorghum (Kinto),,,,,,,,,
+4,183,4267,KG,Kinti nyelengo and naa,106,444,3.2,0.5,21.7,3.6,0.04,68
+5,175,4274,KN,Kinti futo and naa,202,845,6.3,1.3,42.4,7.0,0.31,38
+6,4.1 - Kinti Nyelengo and Sauces,4.1 - Kinti Nyelengo and Sauces,4.1 - Kinti Nyelengo and Sauces,4.1 - Kinti Nyelengo and Sauces,,,,,,,,
+7,184,4264,KD,"Kinti nyelengo, naa and tia durango",98,410,3.7,2.2,15.0,2.9,0.09,72
+8,185,4307,LU,"Kinti nyelengo, naa, tia durango and dried fish",105,439,4.7,2.8,15.5,2.8,0.07,71
+9,185,4256,JV,"Kinti nyelengo, naa, tia durango, dried challo and oil",120,502,4.6,4.5,15.4,2.8,0.07,70
+10,187,4268,KH,"Kinti nyelengo, naa, meat and durango",115,481,8.9,3.3,12.0,2.3,0.09,70
+11,189,4255,JU,"Kinti nyelengo, naa, kucha and dried fish (unspecified)",97,405,3.6,0.5,18.4,4.0,0.04,71
+12,190,4250,JP,"Kinti nyelengo, naa and jambo",106,445,4.0,2.7,16.2,2.9,0.08,71
+13,188,4780,KUL,"Kinti nyelengo, naa, bukolo and dried fish (unspecified)",98,409,3.5,0.5,19.5,3.5,0.04,71
+14,4.2 - Kinti Futo and Sauces,4.2 - Kinti Futo and Sauces,4.2 - Kinti Futo and Sauces,,,,,,,,,
+15,176,4269,KI,"Kinti futo, naa and water",117,490,3.7,0.8,24.6,4.1,0.18,64
+16,176,4279,KS,"Kinti futo, naa and fish dajiwo",117,491,4.3,0.8,24.6,4.1,0.18,64
+17,177,4177,GU,"Kinti futo, naa, tia dajiwo and chilli pepper",119,499,3.9,1.8,22.4,3.8,0.18,65
+18,4.3 - Kinti Mono,4.3 - Kinti Mono,,,,,,,,,,
+19,194,4261,KA,Kinti mono,37,155,1.1,0.2,8.8,1.5,0.05,87
+20,195,4266,KF,Kinti mono and sugar,47,197,0.9,0.2,11.0,1.1,0.05,86
+21,196,4265,KE,Kinti mono and sour milk,52,218,1.7,1.0,9.5,1.6,0.05,87
+22,194,4294,LH,Kinti mono and baobab juice,37,155,1.1,0.2,8.8,1.5,0.05,87
+23,197,4283,KW,"Kinti mono, sour milk and sugar",49,205,1.3,0.5,10.2,1.3,0.05,86
+24,196,4286,KZ,"Kinti mono, sour milk and baobab juice",52,218,1.7,0.9,9.5,1.6,0.05,87
+25,5. - Maize (Tubanyo),5. - Maize (Tubanyo),5. - Maize (Tubanyo),,,,,,,,,
+26,202,4657,ZG,"Tubanyo, on the cob, roast",231,967,7.9,4.9,41.4,10.6,0.58,34
+27,209,4664,ZN,Tubanyo nyelengo and naa,142,594,3.9,1.1,30.4,6.3,0.27,60
+28,201,4651,ZA, Tubanyo futo and naa,206,862,5.7,1.6,44.1,9.1,0.32,42
+29,, 5.1 - Tubanyo Nyelengo and Tia Durango, 5.1 - Tubanyo Nyelengo and Tia Durango, 5.1 - Tubanyo Nyelengo and Tia Durango,,,,,,,,
+30,210,4671,ZU,"Tubanyo nyelengo, naa and tia durango",123,516,4.2,3.1,21.2,4.6,0.22,68
+31,210,4821,ZBE,"Tubanyo nyelengo, naa, tia durango, okra and chilli pepper",120,500,4.0,2.8,21.0,4.6,0.21,68
+32,210,4822,ZQA,"Tubanyo nyelengo, naa, tia durango and pumpkin",111,465,3.5,2.0,20.8,4.4,0.20,70
+33,210,4823,ZPQ,"Tubanyo nyelengo, naa, tia durango and bitter tomato",118,493,3.9,2.6,20.9,4.5,0.21,68
+34,211,4810,ZHK,"Tubanyo nyelengo,naa, tia durango and dried challo",127,531,5.2,3.2,21.1,4.5,0.21,66

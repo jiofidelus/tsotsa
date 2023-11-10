@@ -1,0 +1,46 @@
+,0,1,2,3,4,5,6
+0,Fatty acid,INFUODS,U,Denominator,Sig.,sheet,Comment1
+1,Fatty acid,tagname,U,Denominator,digits,sheet,
+2,,,,/100g total FA,3,07,
+3,Fatty acid 18:1,F18D1,g,/100 g EP,3,04/05,Calc.from F18D1/100 g total FA
+4,,,g,/100g total FA,3,07,
+5,Fatty acid 18:1,F18D1N11,g,/100 g EP,3,04/05,Calc.from F18D1N11/100 g total FA
+6,n-11,,g,/100 g total FA,3,07,
+7,Fatty acid 18:1,F18D1N9,g,/100 g EP,3,04/05,Calc.from F18D1N9/100 g totalFA
+8,n-9,,g,/100 g total FA,3,07,
+9,Fatty acid 18:1 cis,F18D1CN9,,/100 g EP,3,04/05,Calc.from F18D1CN9/100 g total FA
+10,n-9,,g,/100 g total FA,3,07,
+11,Fatty acid 18:1,F18D1TN9,,/100 g EP,3,04/05,Calc. from F18D1TN9/100 g total FA
+12,trans n-9,F18D1TN9,g,/100 g total FA,3,07,
+13,Fatty acid 18:1,F18D1N7,g,/100 g EP,3,04/05,Calc.from F18D1N7/100 g total FA
+14,n-7,F18D1N7,g,/100 g total FA,3,07,
+15,Fatty acid 18:1 cis,F18D1CN7,g,/100 g EP,3,04/05,Calc.from F18D1CN7/100 g total FA
+16,n-7,F18D1CN7,g,/100 g total FA,3,07,
+17,Fatty acid 18:1,F18D1N5,g,/100 g EP,3,04/05,Calc.from F18D1N5/100 g total FA
+18,n-5,,g,/100g total FA,3,07,
+19,Fatty acid 18:1 cis,F18D1C,g,/100 g EP,3,04/05,Calc.from F18D1C/100 g total FA
+20,,,g,/100 g total FA,3,07,
+21,Fatty acid 18:1,F18D1T,g,/100 g EP,3,04/05,Calc.from F18D1T/100 g total FA
+22,trans,,g,/100 g total FA,3,07,
+23,Fatty acid 19:1,F19D1,g,/100 g EP,3,04/05,Calc.from F19D1/100 g total FA
+24,,,g,/100 g total FA,3,07,
+25,Fatty acid 20:1,F20D1,g,/100 g EP,3,04/05,Calc.from F20D1/100 g total FA
+26,,,g,/100 g total FA,3,07,
+27,Fatty acid 20:1,F20D1N11,,/100 g EP,3,04/05,Calc. from F20D1N11/100 g total FA
+28,n-11,F20D1N11,g,/100 g total FA,3,07,
+29,,F20D1CN1,,,,,Calc. from F20D1CN11/100 g total
+30,Fatty acid 20:1 cis,F20D1CN1,g,/100 g EP,3,04/05,FA
+31,n-11,,,/100 g total FA,3,07,
+32,Fatty acid 20:1,F20D1N9,g,/100 g EP,3,04/05,Calc.from F20D1N9/100 g total FA
+33,n-9,F20D1N9,g,/100 g total FA,3,07,
+34,Fatty acid 20:1 cis,F20D1CN9,,/100 g EP,3,04/05,Calc.from F20D1CN9/100 g total FA
+35,n-9,,g,/100 g total FA,3,07,
+36,Fatty acid 20:1,F20D1N7,g,/100 g EP,3,04/05,Calc.from F20D1N7/100 g total FA
+37,n-7,,g,/100 g total FA,3,07,
+38,Fatty acid 20:1 cis,F20D1C,g,/100 g EP,3,04/05,Calc.from F20D1C/100 g total FA
+39,,,g,/100g total FA,3,07,
+40,Fatty acid 22:1,F22D1,g,/100 g EP,3,04/05,Calc.from F22D1/100 g total FA
+41,,,g,/100 g total FA,3,07,
+42,Fatty acid 22:1,F22D1N11,,/100 g EP,3,04/05,Calc.from F22D1N11/100 g total FA
+43,n-11,,g,/100 g total FA,3,07,
+44,Fatty acid 22:1,F22D1N9,g,/100 g EP,3,04/05,Calc.from F22D1N9/100 g total FA

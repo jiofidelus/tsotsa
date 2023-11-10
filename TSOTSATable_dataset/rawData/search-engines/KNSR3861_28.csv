@@ -1,0 +1,32 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+0,,,,,,,,,,Main nutrients,,,,,,,Minerals,,,,,,,,Vitamins,,,
+1,,,,,,DEN,(ENERC),WATER,PROCNT,FAT,(CHOCDF),FIBTG,ASH,CA,P,NA,,,FE,CU,ZN,RETOL,CARTB,VITA_RAE,THIA,RIBF,NIA,VITC
+2,ASEAN,Origin,Food and description,,Alternate name,g/mL,kcal,g,g,g,g,g,,mg,mg,mg,mg,,mg,mg,mg,mcg,mcg,mcg,mg,mg,mg,mg
+3,,,,,,,,,,,,,4sh,,,,,,,,,,,,,,,
+4,G,,"Finfish, shelfish, other aquatic animals and products (continued)",,"Finfish, shelfish, other aquatic animals and products (continued)",,,,,,,,,,,,,,,,,,,,,,,
+5,AAG270,THG36,"Grouper, steamed","aLn,(TH)","aLn,(TH)",,103,73.8,23.9,0.7,0.2,0,1.4,122,193,164,303,,0.5,0.00,0.2,,,,0.01,0.04,1.30,
+6,AAG71,"THG165,PHG172","Jellyis, dried",,"UnWau, usa(TH)",,53,72.2,7.1,0.3,5.5,0,14.9,124,40,,,,1.9,,,,,,0.01,0.03,T,0
+7,AAG77,HGN,"Mackerel, ndian, raw","i,(TH)","i,(TH)",,119,73.4,21.5,3.7,Op,0,1.5,48,263,59,370,,1.8,,,24,4,24,0.09,0.14,4.70,0
+8,AAG226,THG82,khem),"Jany, LA(TH)","Jany, LA(TH)",,145,54.8,24.4,4.2,2.3,0,14.3,131,50,-,-,-,,-,,-,,,0.10,0.24,,
+9,AAG199,THG88,"Mackerel, short- bodied,",ayimaaTH),ayimaaTH),-,233,53.6,27.5,13.6,0.1,0,5.2,190,361,1018,726,,1.6,0.20,1.1,-,-,-,0.18,0.25,5.90,
+10,AAG195,THG94,"Mackerel, short-bodied,","ay, a, N(TH)","ay, a, N(TH)",,145,69.4,23.4,5.6,0.2,0,1.4,93,267,101,216,,1.1,0.10,0.7,,-,-,0.08,0.14,5.10,-
+11,AAG196,THG95,"Mackerel, short-bodied, fried",ayananTH),ayananTH),,236,56.2,28.0,13.6,0.3,,1.9,114,343,132,333,,2.4,0.20,1.0,,,,0.13,0.22,1.70,-
+12,AAG75,THG92,"oi, canned, drained",,"nsilan, Lawnetila(TH)",,138,68.3,23.0,4.9,0.5,0,3.3,506,,417,,,2.0,,-,,-,-,-,-,-,-
+13,AAG78,THG90,"tomato sauce and chill,",,"Wn, Ussgnsila(TH)",,101,75.4,15.2,3.3,1.8,1.7,2.6,276,,389,,,2.1,,,,,-,,,,-
+14,AAG76,"THG89,PHG179","omato sauce, canned",,Mellaina. ussgngvilas,,98,76.3,15.2,3.6,0.5,1.6,2.8,343,261,347,,,2.0,,,8,-,8,0.03,0.26,5.20,.4
+15,,,,TH,"Hasahasa(PH), Hay.",,,,,,,,,,,,,,,,,,,,,,,
+16,AAG129,"PHG070,THG93","Mackerel, short-bodied, raw",,"Hasahasa(PH), Hay.",,122,74.1,21.4,4.0,,0,1.5,62,250,97,331,,1.4,0.20,0.6,102,61,107,0.11,0.24,7.10,5
+17,AAG76,"THG89,PHG179","tomato sauce, canned",,"Netian,ussgnsilas",,98,76.3,15.2,3.6,0.5,1.6,2.8,343,261,347,-,-,2.0,-,-,8,-,8,0.03,0.26,5.20,4
+18,AAG198,THG87,"steamed, boiled",,,,120,70.4,21.9,2.7,1.9,,3.1,193,254,568,444,,1.4,0.10,0.9,,,,0.13,0.18,4.70,
+19,AAG201,THG152,"Mackerel, Spanish, fried",,"anaums,iuman(TH)",,190,61.2,28.2,8.5,0.2,0.0,1.9,27,312,161,390,,0.5,0.10,0.2,,-,,0.04,0.23,3.20,-
+20,,,"THG153,MYG448,PMackerel., Spanish, sliced,",Tenggiri(MY).,"Tangigi(PH,ant",,,,,,,,,,,,,,,,,,,,,,3.30,
+21,AAG141,"THG153,MYG448,PMackerel., Spanish, sliced,",raw,,uan(TH),-,103,76.3,19.4,2.8,0.0,0,1.5,17,230,109,228,,0.8,0.00,0.4,134,45,138,0.03,0.10,3.30,0
+22,AAG262,THG19,"Mullet, bluespot gray,raw.",Nn(TH),Nn(TH),,117,76.3,24.7,2.0,Op,0,1.7,94,217,,,,4.3,,,20,-,20,0.04,0.19,4.10,-
+23,AAG255,THG177,"Mussel, gren,raw",MATILAN(TH),MATILAN(TH),,53,85.4,9.3,0.9,2.0,0,2.4,25,178,211,,12,10.3,0.20,1.0,,-,,0.01,0.26,1.90,11
+24,AAG221,THG97,"Nile ilapia, boiled",,,,123,73.4,21.4,4.2,Op,0,1.1,190,173,74,344,,1.0,0.00,0.2,,-,,0.04,0.22,2.30,
+25,AAG222,THG99,"Nile tilapia, fried","Jania, man(TH)","Jania, man(TH)",,,44.7,30.9,21.8,0.3,0,2.3,264,328,146,600,,2.1,0.10,0.4,,,,0.04,0.42,2.50,
+26,AAG95,,"Oyster, raw",Ma(TH,Ma(TH,-,58,86.4,7.5,1.9,2.6,0,1.6,110,102,40,22,,5.2,6.39,7.1,96,15,97,0.23,0.21,2.20,7
+27,,,,Puyu/Betok(MY).,"Martiniko(PH),",,,,,,,0,,,,,,,,,,,,,,,,
+28,AAG98,,"[Perch, cimbing","Martiniko(PH),",iaalnaTH,-,145,76.7,17.9,8.2,Op,0,1.2,110,184,22,231,,1.2,,-,38,0,38,0.03,0.39,2.90,1
+29,,,,Ikan bawal hitam,"goreng(MY), ular",,,,,,,0,,,,,,,,,,,,54,,,,
+30,AAG9,"THG43,MYT708","Pomfret, black, fried","goreng(MY), ular",iniTH),-,259,49.8,31.8,14.3,0.8,0,3.3,114,297,157,311,,1.4,0.09,0.7,54,,54,0.28,0.28,0.30,0

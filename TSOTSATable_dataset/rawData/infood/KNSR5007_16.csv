@@ -1,0 +1,34 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Food,Code,Letter,Name,Calcium,Phos- Magnes.,Phos- Magnes.,Potass-,Iron,Zinc,Carot-,Vitamin,Source of
+1,group,Code,code,Name,Calcium,phorus,ium,ium,Iron,Zinc,ene,c,data
+2,,,,,mg,mg,mg,mg,mg,mg,ug,mg,
+3,2.3 - Sanyo Mono,2.3 - Sanyo Mono,,,,,,,,,,,
+4,145,4637,YM,Sanyo mono,5,13,22,86,3.6,0.3,0,0,A
+5,146,4625,YA,Sanyo mono and sugar,5,13,21,85,3.5,0.3,0,0,A
+6,147,4627,YC,Sanyo mono and sour milk,32,33,19,102,2.7,0.4,60,0,A
+7,148,4373,10,"Sanyo mono, milk and sugar",32,33,19,101,2.7,0.4,60,0,c
+8,145,4390,oZ,Sanyo mono and baobab juice,9,13,22,86,3.3,0.3,0,6,c
+9,147,4369,OE,"Sanyo mono, sour milk and baobab juice",36,33,20,101,3.0,0.4,60,3,A
+10,146,4606,XH,"Sanyo mono, sugar and baobab juice",9,12,19,101,3.3,0.3,0,5,R
+11,150,4630,YF,"Sanyo mono, groundnuts, sugar and baobab juice",10,19,27,153,4.3,0.5,0,3,c
+12,3 - Millet (Findo),3 - Millet (Findo),,,,,63,,,,,,
+13,156,4105,EA,Findi nyelengo and naa,38,51,63,267,1.6,0.6,60,0,A
+14, 3.1 - Findi Nyelengo and Tia Durango, 3.1 - Findi Nyelengo and Tia Durango, 3.1 - Findi Nyelengo and Tia Durango, 3.1 - Findi Nyelengo and Tia Durango,,,,,,,,,
+15,157,4082,DD,"Findi nyelengo, naa and tia durango",33,56,70,297,1.2,0.6,60,1,A
+16,157,4789,DBE,"Findi nyelengo,naa, tia durango and okra and chilli pepper",33,57,68,293,1.4,0.6,140,1,R
+17,157,4790,DBD,"Findi nyelengo, naa, tia durango and tomato",31,56,67,293,1.4,0.6,80,1,R
+18,157,4793,DQA,"Findi nyelengo, naa, tia durango and pumpkin",32,51,57,284,1.3,0.5,130,1,R
+19,157,4794,DPQ,"Findi nyelengo, naa, tia durango and bitter tomato",31,53,64,279,1.4,0.6,50,1,R
+20,158,4799,DPX,"Findi nyelengo, naa, tia durango and dried fish (unspecified)",43,71,69,279,1.7,0.7,50,1,R
+21,158,4803,DQV,"Findi nyelengo, naa, tia durango and fresh fish (unspecified)",33,62,67,297,1.4,0.6,50,1,R
+22,158,4804,DPZ,"Findi nyelengo, naa, tia durango and fresh fish and oil",33,60,66,290,1.5,0.6,50,1,R
+23,158,4805,DHL,"Findi nyelengo, naa, tia durango and fish dajiwo",32,58,58,237,1.4,0.5,60,1,R
+24,161,4786,DTL,"Findi nyelengo, naa, tia durango and chicken",31,67,64,285,1.5,0.7,60,1,R
+25,157,4787,DOQ,"Findi nyelengo,naa, tia durango and oil",31,56,68,291,1.4,0.7,50,1,R
+26,3.2 - Findi Nyelengo and Other Sauces,3.2 - Findi Nyelengo and Other Sauces,3.2 - Findi Nyelengo and Other Sauces,3.2 - Findi Nyelengo and Other Sauces,,,,,,,,,
+27,160,4090,DL,"Findi nyelengo, naa and jambo",67,63,68,322,2.0,0.6,1230,6,A
+28,160,4169,GM,"Findi nyelengo, naa, jambo and pumpkin",52,54,60,298,1.8,0.5,570,4,R
+29,3.3 - Findi Mono,3.3 - Findi Mono,,,,,,,,,,,
+30,167,4085,DG,Findi mono,6,13,20,79,0.6,0.2,0,0,A
+31,168,4084,DF,Findi mono and sugar,6,13,19,78,0.4,0.2,0,0,c
+32,169,4097,DS,Findi mono and sour milk,33,33,18,96,0.5,0.3,60,0,c

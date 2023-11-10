@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,Sponsor,Cancer type,Identifier,Drug administration,Phase,Status
+1,ModernaTXInc.,Melanoma,NCT03897881 mRNA-4157 encoding neoAg+,NCT03897881 mRNA-4157 encoding neoAg+,11,Recruiting
+2,,,,pembrolizumab,,
+3,,Solid tumors,NCT03313778 mRNA-4157 encoding neoAg+/-,NCT03313778 mRNA-4157 encoding neoAg+/-,1,Recruiting
+4,,,,pembrolizumab,,
+5,Asterias,AML,NCT00510133 DCs transfected with hTERT mRNA with a,NCT00510133 DCs transfected with hTERT mRNA with a,,Completed
+6,Biotherapeutics,,,LAMP-1 targeting sequence,,
+7,National Cancer,"Melanoma,Colon Cancer",NCT03480152 Personalized cancer mRNA vaccine NCI-4650,NCT03480152 Personalized cancer mRNA vaccine NCI-4650,I/I,Terminated
+8,Institute,"Gastrointestinal Cancer, Genitourinary",,,,
+9,,"Cancer,Hepatocellular Cancer",,,,
+10,Changhai Hospital,"Esophageal Squamous Carcinoma,",NCT03468244 Personalized mRNA vaccine encoding neoAg,NCT03468244 Personalized mRNA vaccine encoding neoAg,NA,Recruiting
+11,,"Gastric Adenocarcinoma,Pancreatic",,,,
+12,,"Adenocarcinoma,Colorectal",,,,
+13,,Adenocarcinoma,,,,

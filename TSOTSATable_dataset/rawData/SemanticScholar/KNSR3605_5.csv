@@ -1,0 +1,35 @@
+,0,1,2,3
+0,,Unit,,
+1,Food components and,(for 100 g,,
+2,definition,of food),Type of method,Referencesi
+3,ASH,g,Dry ashing,Osborne and Voogt (1978
+4,Material derived from the,,,Egan (1981)
+5,incomplete combustion of the food item,,,
+6,MOISTURE OR WATER,g,Air oven,AOAC(1980(and updates)
+7,Water content of the item,,At 100-105C(heat stable food),
+8,,,"At 130C(grains,flours,pastas)",
+9,,,Vacuum oven,
+10,,,"At 60C(heat sensible food,or rich in sugars",
+11,,,and fats),
+12,,,Freeze drying,Makower and Nielsen (1948
+13,,,,Thung1964
+14,,,"Dean & Stark distillation (fat food,food",AOAC (1980)
+15,,,"rich in volatile substances, alcoholic beverages)",
+16,PROTEIN,g,Kjeldhal procedure(manual or,AOAC(1980(and updates)
+17,Determination of total nitrogen (N),,"automatic, according to availability)",Egan et al. (1981) (automatic)
+18,,,Biuret reaction(colorimetry),
+19,,,Dye-binding procedures (colorimetry),
+20,,,IR spectrophotometer (IR absorption,
+21,,,or NIR reflectance transmittance,
+22,TOTAL FAT,g,Solvent extraction,"AOAC1980,Folch et al.1957)"
+23,"Sum of triglycerides, phospholipids",,Ether,
+24,sterols and related compounds,,Chloroform/methanol,
+25,,,Acid hydrolysis (Schmidt),AOAC (1980)
+26,,,Alkaline hydrolysis(Roose-Gottlieb,AOAC (1980)
+27,FATTY ACIDS,g,Extraction,Folch et al.(1957
+28,Total saturated fatty acids,,Esterification,MetCalf et al.1961)
+29,Oleic acid (C18:1),,GLC,IUPAC(1979)
+30,Total monounsaturated fatty acids,,,
+31,Linoleic acid (C18:2),,,
+32,Other polyunsaturated fatty acids,,,
+33,Total polyunsaturated fatty acids,,,

@@ -1,0 +1,32 @@
+,0,1,2,3,4,5
+0,Study,Year,Country of Data,Objectives,Methods,Main results
+1,,,,To empirically group fruits and,,
+2,,,,vegetables based on food components,Agglomerative hierarchical,Eight clusters were identified that could be used to
+3,Pennington and,,,of public health significance and,"clustering with Ward's linkage,",classify the 104 fruits and vegetables.Clusters were
+4,Fisher [29],2009,United States of America,"thereafter, relate them to four",multivariate analysis of variance,best defined by a combination of classification variables
+5,Fisher [29],,,"classification variables: botanic family,",(MANOVA),"such as colour and part of the plant,and were"
+6,,,,"colour, part of the plant, and total",(MANOVA),predictive of the nutritional profile.
+7,,,,antioxidant capacity.,,
+8,Pennington and,,,To determine fruit and vegetable,"Kruskal--Wallis, one-way analysis",Concentrations of the 24 food components differed
+9,Fisher [30],2010,United States of America,subgroups with significantly higher,of variance (ANOVA),between the subgroups and can be used to aid
+10,Fisher [30],,,concentrations of 24 food components.,of variance (ANOVA),nutritional guidelines.
+11,,,,To develop a food recommendation,,
+12,,,,system for diabetic patients enabling,,The resulting clusters contained foods that provided
+13,Phanich et al. [31],2010,Thailand,diabetic patients to find suitable,"Self-Organising Map (SOM),",similar amounts of eight selected nutrients. Patients
+14,Phanich et al. [31],2010,Thailand,"substitutions, similar in nutrient", k-means clustering,were able to use the developed software to select
+15,,,,"composition and characteristics,for",,healthier alternatives to current food choices.
+16,,,,food items.,,
+17,,,,,,The results showed that using pre-established food
+18,,,,To compare the change in the nutrient,"Percentage change, hierarchical",groups alone may be inaccurate in assessing changes in
+19,do Prado et al. [32],2016,Brazil,composition of specific Brazilian food,"cluster analysis, principal",combined with percentage change allowed efficient
+20,,,,groups between 2003 and 2013.,component analysis,identification of the changes in the nutritional
+21,,,,,,composition of food items.
+22,,,,,,"Four nutrient content patterns, which was consistent"
+23,,,,To obtain information about nutrient,,"with prior knowledge, were identified. The patterns"
+24,Simila et al. [33],2006,Finland,co-occurrence patterns among food,Factor analysis,"were characterised by (1) fish, meat, dairy products,"
+25,,,,items.,,"legumes, seeds, and nuts; (2) vegetable fats; (3) staple"
+26,,,,,,"foods; and (4) offal foods (liver, kidney)."
+27,,,,,,The proposed optimisation software was able to
+28,Westrich et al. [34],1998,United States of America,To estimate unknown nutrient values,"optimisation, quadratic",conventional methods with the same degree of accuracy
+29,Westrich et al. [34],1998,,in commercial food products.,programming optimisation,The linear programming method was found to be faster
+30,,,,,,than the quadratic programming method.

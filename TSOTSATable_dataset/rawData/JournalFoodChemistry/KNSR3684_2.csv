@@ -1,0 +1,26 @@
+,0,1,2,3,4
+0,Essential amino acid,Alhydwan,Wheatd,FAO/WHO/,
+1,(EAA,,,UNUb,
+2,,,,Child,Adult
+3,Histidine,0.330.07,0.186,1.90,1.60
+4,Threonine,0.46 0.02,0.367,3.40,0.90
+5,Valine,0.580.12,0.394,3.50,1.30
+6,Methionine,0.150.10,0.108,2.70c,1.70c
+7,Phenylalanine,0.490.13,,6.30d,1.90d
+8,Isoleucine,0.450.09,0.341,2.80,1.30
+9,Leucine,0.750.06,0.651,6.60,1.90
+10,Lysine,0.550.12,0.320,5.80,1.60
+11,Non-essential amino acid,,,,
+12,Tyrosine,0.380.12,0.380.12,,0.326
+13,Cystenie,,0.10.15,,
+14,Aspartic acid,1.060.05,1.060.05,,0.645
+15,Glutamic acid,,2.1  0.17,,0.991
+16,Serine,0.540.13,0.540.13,,0.550
+17,Glycine,0.840.11,0.840.11,,0.549
+18,Arginine,0.830.19,0.830.19,,
+19,Proline,0.660.13,0.660.13,,0.550
+20,Percentage of amino acid with different characteristics,Percentage of amino acid with different characteristics,Percentage of amino acid with different characteristics,,
+21,Basic,,,,1.710.32
+22,Acidic,,,,3.160.16
+23,Hydrophobic,,,,3.58  0.67
+24,Uncharged polar,,,,2.32 0.50

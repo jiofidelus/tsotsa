@@ -1,0 +1,41 @@
+,0,1
+0,riable Name,Variable Description
+1,od_code,Food code (country specific)
+2,od_description,"Food description, general"
+3,od_state,Food state (raw and cooked states)
+4,od_state_code,Food state code
+5,_source,Source of original food composition data
+6,_source_code,Food composition table original source code
+7,_source_descr,Description of source of imputed food composition data
+8,nter_source_descr,Description of the source of water content data for adjusted food iter
+9,tention_source,Source of nutrient retention data applied
+10,ention_source_code,Source code for nutrient retention data applied
+11,ention_source_descr,Description of source of nutrient retention data
+12,od_group,Food group name
+13,od_group_code,Food group code
+14,y_matter-g,Dry matter content (grams)
+15,nter_g,Water content (grams)
+16,ergy_kcal,Energy (kilocalories)
+17,otein_g,Protein (grams)
+18,id_total_g,Total lipid/fat (grams)
+19,rbohydrate_g,Carbohydrate (grams)
+20,er_g,Fiber (grams)
+21,Icium_mg,Calcium (milligrams)
+22,n_mg,Iron (milligrams)
+23,nc_mg,Zinc (milligrams)
+24,_c_mg,Vitamin C (milligrams)
+25,iamin_mg,Thiamin (milligrams)
+26,oflavin_mg,Riboflavin (milligrams)
+27,acin_mg,Niacin (milligrams)
+28,_b6_mg,Vitamin B6 (milligrams)
+29,late_total_mcg,Total folate (micrograms)
+30,lic_acid_mcg,"Folic acid, from fortificant (micrograms)"
+31,late_food_mcg,Folate from natural food source (micrograms)
+32,late_dfe_mcg,Dietary Folate Equivalents (micrograms
+33,_b12_mcg,Vitamin B12 (micrograms)
+34,_a_iu,Vitamin A International Units (IU)
+35,_a_rae_mcg,Vitamin A Retinol Activity Equivalents (micrograms)
+36,tinol_mcg,Retinol (micrograms)
+37,oha_carot_mcg,Alpha carotene (micrograms)
+38,ta_carot_mcg,Beta carotene (micrograms)
+39,ta_crypt_mcg,Beta cryptoxanthin (micrograms)

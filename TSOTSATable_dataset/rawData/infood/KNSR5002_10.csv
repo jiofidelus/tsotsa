@@ -1,0 +1,36 @@
+,0,1
+0,Datasheet title,Description
+1,01 Introduction,"Gives an introduction to the tables, incl. information on copyright"
+2,,and disclaimer.
+3,02 Overview Species,Presents an overview of the fish and shellfish species for which
+4,,"compiled nutrient values are given in uFiSh, relating to their"
+5,,respective food item IDs used in the actual datasheets (sheets 04-
+6,,07).
+7,03 Components uFiSh,Gives an overview of all components that are covered by the uFiSh
+8,,"(sheets04-07), listingINFOODStagnames,"
+9,,"descriptions, recommended units, max. decimal places and"
+10,,significant digits used.
+11,04 NV_sum (per 100 g EP),"Presents compiled nutrient values per 100 g EP for raw,processed"
+12,,and cooked foods - without information on statistics and
+13,,documentation per component.
+14,05 NV_stat (per 100 g Ep),Presents compiled nutrient values per 100 g EP with information
+15,,"on statistics for raw, processed and cooked foods - includes"
+16,,information on statistics and documentation per component.
+17,06 AA (per g N),"Presents compiled amino acid values per g nitrogen for raw,"
+18,,processed and cooked foods - includes information on statistics
+19,,and documentation per AA
+20,07 FA (per 100 g FA),"Presents compiled fatty acid values per 100 g fatty acids for raw,"
+21,,"processed and cooked foods, and includes information on"
+22,,statistics and documentation per FA
+23,08 DefaultProfile AA,Provides information on the default amino acid profiles used to
+24,,"estimate missing amino acid data for fish, crustaceans and"
+25,,molluscs.
+26,09 Yield Factors,Lists yield factors and the corresponding source(s) for each food.
+27,10 RefDatasets,Contains nutrient values of selected reference datasets per 100 g
+28,,"EP, as well as amino acids per g nitrogen, and fatty acids per 100 g"
+29,,fatty acids.
+30,11Components RefDatasets,Gives an overview of all components that are covered by the
+31,,"reference datasets (sheet 10). It lists INFOODS tagnames, units"
+32,,"and descriptions, and indicates which components are available"
+33,,per reference dataset.
+34,12 Bibliography,Presents the entire reference list with the corresponding ID.

@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6
+0,Dish,Total raw,Total cooked,Weight change due,Total water,Fat gained,Total added fat
+1,,(g),weight (g),to cooking,loss (%)a,(g)b,content (g)c
+2,Puri (white),433.3,364.4,94.8,21.9,49.3,61.3
+3,Puri (brown),436,364.4,71.6,16.4,52.0,63.9
+4,Aloo palak,931,733,198,21.3,,
+5,Bengali chicken and potato curry,1117,908,209,18.7,,
+6,Bengali prawn bhuna,613,506,107,17.5,,
+7,Pakistani zarda,1173,1156,17,1.5,,
+8,Rasmalai,311.7,675.3,159.4,19.1,,
+9,Chicken bhuna,311.7,249.4,62.3,20.0,,
+10,Aloo Bombay,807.3,615.9,191.4,23.7,,
+11,Lamb kebab,388.7,294.0,94.7,24.4,,
