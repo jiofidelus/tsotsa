@@ -79,3 +79,7 @@ eas build -p android --profile preview
     ```bash
     eas build -p ios --profile preview
     ```
+
+## Download Appk
+
+[Twinkeu](./Twinkeu.apk)
