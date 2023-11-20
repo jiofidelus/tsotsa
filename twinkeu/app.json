@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Twinkeu",
+    "slug": "Twinkeu",
+    "version": "1.0.0",
+    "description": "Welcome in Twinkeu",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo_home.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jeanpetit.Twinkeu"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e3f91a80-cd0d-4834-98f2-8c89c403a263"
+      }
+    }
+  }
+}
