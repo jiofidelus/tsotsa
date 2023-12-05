@@ -1,3 +1,8 @@
+.vscode
+__pycache__
+
 # KNSR3854_1.json
 test_comparison.json
 test.*
+data.json
+test.py
