@@ -1,0 +1,43 @@
+{
+    "Githeri": {
+      "en": ["Maize", "Beans", "Water", "Salt (optional)"],
+      "fr": ["Maïs", "Haricots", "Eau", "Sel (optionnel)"]
+    },
+    "Irio": {
+      "en": ["Maize", "Green peas", "Mashed potatoes", "Salt", "Butter (optional)"],
+      "fr": ["Maïs", "Petits pois", "Pommes de terre écrasées", "Sel", "Beurre (optionnel)"]
+    },
+    "Kuku Paka": {
+      "en": ["Chicken", "Coconut milk", "Tomatoes", "Onions", "Garlic", "Ginger", "Curry powder", "Turmeric", "Chili peppers", "Coriander", "Lemon juice", "Salt", "Oil"],
+      "fr": ["Poulet", "Lait de coco", "Tomates", "Oignons", "Ail", "Gingembre", "Poudre de curry", "Curcuma", "Piments chili", "Coriandre", "Jus de citron", "Sel", "Huile"]
+    },
+    "Mandazi": {
+      "en": ["All-purpose flour", "Sugar", "Baking powder", "Coconut milk", "Water", "Oil (for frying)"],
+      "fr": ["Farine tout usage", "Sucre", "Levure chimique", "Lait de coco", "Eau", "Huile (pour la friture)"]
+    },
+    "Matoke": {
+      "en": ["Green bananas", "Onions", "Tomatoes", "Garlic", "Ginger", "Green chili peppers", "Salt", "Oil"],
+      "fr": ["Bananes vertes", "Oignons", "Tomates", "Ail", "Gingembre", "Piments chili verts", "Sel", "Huile"]
+    },
+    "Mutura": {
+      "en": ["Beef or goat intestines (cleaned)", "Blood (optional)", "Fat (from the animal)", "Green vegetables (kale or spinach)", "Onions", "Garlic", "Ginger", "Salt", "Chili peppers"],
+      "fr": ["Intestins de bœuf ou de chèvre (nettoyés)", "Sang (optionnel)", "Graisse (de l'animal)", "Légumes verts (chou frisé ou épinards)", "Oignons", "Ail", "Gingembre", "Sel", "Piments chili"]
+    },
+    "Nyama": {
+      "en": ["Beef or goat meat", "Onions", "Tomatoes", "Garlic", "Ginger", "Curry powder", "Salt", "Oil"],
+      "fr": ["Viande de bœuf ou de chèvre", "Oignons", "Tomates", "Ail", "Gingembre", "Poudre de curry", "Sel", "Huile"]
+    },
+    "Nyama Choma": {
+      "en": ["Beef or goat meat", "Salt", "Pepper", "Garlic", "Ginger", "Lemon juice", "Oil"],
+      "fr": ["Viande de bœuf ou de chèvre", "Sel", "Poivre", "Ail", "Gingembre", "Jus de citron", "Huile"]
+    },
+    "Sukuma Wiki": {
+      "en": ["Collard greens (kale)", "Onions", "Tomatoes", "Garlic", "Ginger", "Green chili peppers", "Salt", "Oil"],
+      "fr": ["Chou vert (chou frisé)", "Oignons", "Tomates", "Ail", "Gingembre", "Piments chili verts", "Sel", "Huile"]
+    },
+    "Ugali": {
+      "en": ["Maize flour", "Water", "Salt (optional)"],
+      "fr": ["Farine de maïs", "Eau", "Sel (optionnel)"]
+    }
+  }
+  

@@ -1,0 +1,180 @@
+{
+  "PLats Zimbabween": [
+  {
+    "Nom": "Sadza",
+    "Description": "Le Sadza est un plat traditionnel du Zimbabwe, semblable à une bouillie de maïs blanc, souvent servi avec une sauce ou un ragoût.",
+    "Ingrédients": ["Farine de maïs blanc", "Eau", "Sel"],
+    "Image": "sadza.jpg"
+  },
+  {
+    "Nom": "Nyama ne Dovi",
+    "Description": "Le Nyama ne Dovi est un ragoût de viande de bœuf ou de chèvre préparé avec du beurre de cacahuète et des légumes.",
+    "Ingrédients": ["Viande de bœuf ou de chèvre", "Beurre de cacahuète", "Tomates", "Oignons", "Arachides", "Épinards"],
+    "Image": "nyama_ne_dovi.jpg"
+  },
+  {
+    "Nom": "Muriwo ne Nyama",
+    "Description": "Muriwo ne Nyama est un plat zimbabwéen de légumes verts cuits avec de la viande.",
+    "Ingrédients": ["Viande (bœuf, poulet)", "Épinards", "Tomates", "Oignons", "Ail", "Épices"],
+    "Image": "muriwo_ne_nyama.jpg"
+  },
+  {
+    "Nom": "Dovi",
+    "Description": "Le Dovi est une sauce zimbabwéenne à base de beurre de cacahuète, souvent servie avec du riz ou du Sadza.",
+    "Ingrédients": ["Beurre de cacahuète", "Tomates", "Oignons", "Ail", "Épices"],
+    "Image": "dovi.jpg"
+  },
+  {
+    "Nom": "Huku ne Dovi",
+    "Description": "Huku ne Dovi est un plat zimbabwéen de poulet préparé avec une sauce au beurre de cacahuète.",
+    "Ingrédients": ["Poulet", "Beurre de cacahuète", "Tomates", "Oignons", "Ail", "Épices"],
+    "Image": "huku_ne_dovi.jpg"
+  },
+  {
+    "Nom": "Matemba",
+    "Description": "Les Matemba sont des poissons séchés, souvent grillés ou cuits dans une sauce épicée.",
+    "Ingrédients": ["Poissons séchés", "Tomates", "Oignons", "Piments", "Épices"],
+    "Image": "matemba.jpg"
+  },
+  {
+    "Nom": "Boerewors",
+    "Description": "Le Boerewors est une saucisse zimbabwéenne épicée, souvent grillée et servie avec du Sadza ou du pain.",
+    "Ingrédients": ["Viande de bœuf ou de porc", "Épices", "Boyau naturel"],
+    "Image": "boerewors.jpg"
+  },
+  {
+    "Nom": "Dovi re Huku",
+    "Description": "Dovi re Huku est une variante du Dovi avec du poulet comme ingrédient principal.",
+    "Ingrédients": ["Poulet", "Beurre de cacahuète", "Tomates", "Oignons", "Ail", "Épices"],
+    "Image": "dovi_re_huku.jpg"
+  },
+  {
+    "Nom": "Maputi",
+    "Description": "Les Maputi sont des grains de maïs soufflé, souvent consommés comme collation.",
+    "Ingrédients": ["Grains de maïs"],
+    "Image": "maputi.jpg"
+  },
+  {
+    "Nom": "Nhedzi",
+    "Description": "Les Nhedzi sont des champignons sauvages zimbabwéens, souvent cuits dans une sauce tomate ou dans un ragoût.",
+    "Ingrédients": ["Champignons", "Tomates", "Oignons", "Ail", "Épices"],
+    "Image": "nhedzi.jpg"
+  },
+  {
+    "Nom": "Muboora",
+    "Description": "Le Muboora est un plat zimbabwéen de citrouille, souvent cuit avec des arachides et du lait de coco.",
+    "Ingrédients": ["Citrouille", "Arachides", "Lait de coco", "Tomates", "Oignons", "Ail"],
+    "Image": "muboora.jpg"
+  },
+  {
+    "Nom": "Mahewu",
+    "Description": "Le Mahewu est une boisson fermentée à base de maïs, populaire au Zimbabwe.",
+    "Ingrédients": ["Farine de maïs", "Eau", "Sucre", "Levure"],
+    "Image": "mahewu.jpg"
+  },
+  {
+    "Nom": "Mabhonzo",
+    "Description": "Mabhonzo est un plat de maïs pilé mélangé à des haricots rouges et des arachides.",
+    "Ingrédients": ["Maïs pilé", "Haricots rouges", "Arachides", "Oignons", "Tomates", "Épices"],
+    "Image": "mabhonzo.jpg"
+  },
+  {
+    "Nom": "Chimodho",
+    "Description": "Chimodho est un plat de maïs écrasé, généralement préparé avec des arachides.",
+    "Ingrédients": ["Maïs écrasé", "Arachides", "Sel", "Oignons"],
+    "Image": "chimodho.jpg"
+  },
+  {
+    "Nom": "Rupiza",
+    "Description": "Rupiza est un plat de riz épicé, souvent servi avec des légumes.",
+    "Ingrédients": ["Riz", "Épices (curcuma, piment, cumin)", "Légumes", "Oignons", "Ail"],
+    "Image": "rupiza.jpg"
+  },
+  {
+    "Nom": "Nhedzi na Madora",
+    "Description": "Nhedzi na Madora est un plat de champignons sauvages cuits avec des chenilles.",
+    "Ingrédients": ["Champignons", "Chenilles", "Tomates", "Oignons", "Ail", "Épices"],
+    "Image": "nhedzi_na_madora.jpg"
+  },
+  {
+    "Nom": "Bota",
+    "Description": "Bota est un porridge traditionnel à base de maïs ou de millet.",
+    "Ingrédients":
+
+ ["Maïs ou millet", "Eau", "Sucre"],
+    "Image": "bota.jpg"
+  },
+  {
+    "Nom": "Mabhonzo ne Dovi",
+    "Description": "Mabhonzo ne Dovi est un plat de maïs pilé mélangé à des haricots rouges et servi avec une sauce au beurre de cacahuète.",
+    "Ingrédients": ["Maïs pilé", "Haricots rouges", "Beurre de cacahuète", "Tomates", "Oignons", "Ail"],
+    "Image": "mabhonzo_ne_dovi.jpg"
+  },
+  {
+    "Nom": "Mabhonzo ne Nyama",
+    "Description": "Mabhonzo ne Nyama est un plat de maïs pilé mélangé à des haricots rouges et de la viande.",
+    "Ingrédients": ["Maïs pilé", "Haricots rouges", "Viande (bœuf, poulet)", "Tomates", "Oignons", "Ail"],
+    "Image": "mabhonzo_ne_nyama.jpg"
+  },
+  {
+    "Nom": "Mopane Worms",
+    "Description": "Les Mopane Worms sont des chenilles comestibles séchées ou cuisinées dans une variété de plats.",
+    "Ingrédients": ["Chenilles", "Épices"],
+    "Image": "mopane_worms.jpg"
+  },
+  {
+    "Nom": "Chikafu",
+    "Description": "Chikafu est un plat de riz accompagné de viande ou de légumes.",
+    "Ingrédients": ["Riz", "Viande ou légumes", "Épices"],
+    "Image": "chikafu.jpg"
+  },
+  {
+    "Nom": "Mupunga une dovi",
+    "Description": "Mupunga une dovi est un plat de riz mélangé à une sauce au beurre de cacahuète.",
+    "Ingrédients": ["Riz", "Beurre de cacahuète", "Tomates", "Oignons", "Ail"],
+    "Image": "mupunga_une_dovi.jpg"
+  },
+  {
+    "Nom": "Nhedzi na Nyama",
+    "Description": "Nhedzi na Nyama est un plat de champignons sauvages cuits avec de la viande.",
+    "Ingrédients": ["Champignons", "Viande (bœuf, poulet)", "Tomates", "Oignons", "Ail", "Épices"],
+    "Image": "nhedzi_na_nyama.jpg"
+  },
+  {
+    "Nom": "Muboora ne Nyama",
+    "Description": "Muboora ne Nyama est un plat de citrouille cuite avec de la viande.",
+    "Ingrédients": ["Citrouille", "Viande (bœuf, poulet)", "Tomates", "Oignons", "Ail", "Épices"],
+    "Image": "muboora_ne_nyama.jpg"
+  },
+  {
+    "Nom": "Nyama ne Muriwo",
+    "Description": "Nyama ne Muriwo est un plat de viande servie avec des légumes verts.",
+    "Ingrédients": ["Viande (bœuf, poulet)", "Légumes verts", "Tomates", "Oignons", "Ail", "Épices"],
+    "Image": "nyama_ne_muriwo.jpg"
+  },
+  {
+    "Nom": "Nyama ne Muboora",
+    "Description": "Nyama ne Muboora est un plat de viande servi avec de la citrouille cuite.",
+    "Ingrédients": ["Viande (bœuf, poulet)", "Citrouille", "Tomates", "Oignons", "Ail", "Épices"],
+    "Image": "nyama_ne_muboora.jpg"
+  },
+  {
+    "Nom": "Muriwo une dovi",
+    "Description": "Muriwo une dovi est un plat de légumes verts mélangés à une sauce au beurre de cacahuète.",
+    "Ingrédients": ["Épinards", "Beurre de cacahuète", "Tomates", "Oignons", "Ail", "Épices"],
+    "Image": "muriwo_une_dovi.jpg"
+  },
+  {
+    "Nom": "Mufushwa",
+    "Description": "Mufushwa est un porridge épais à base de maïs ou de millet, souvent sucré et aromatisé avec des épices.",
+    "Ingrédients": ["Maïs ou millet", "Eau", "Sucre", "Épices"],
+    "Image": "mufushwa.jpg"
+  },
+  {
+    "Nom": "Mapopo",
+    "Description": "Les Mapopo sont des fruits de papaye séchés, souvent consommés comme collation.",
+    "Ingrédients": ["Papaye"],
+    "Image": "mapopo.jpg"
+  }
+]
+}

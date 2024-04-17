@@ -1,0 +1,123 @@
+{
+    "Githeri": {
+      "en": {
+        "description": "Traditional Kenyan dish made with maize (corn) and beans, boiled together until tender.",
+        "ingredients": ["Maize", "Beans", "Water", "Salt (optional)"],
+        "components": ["Starch", "Protein", "Water"]
+      },
+      "fr": {
+        "description": "Plat traditionnel kényan à base de maïs et de haricots, bouillis ensemble jusqu'à tendreté.",
+        "ingredients": ["Maïs", "Haricots", "Eau", "Sel (optionnel)"],
+        "components": ["Amidon", "Protéines", "Eau"]
+      }
+    },
+    "Irio": {
+      "en": {
+        "description": "Popular Kenyan dish consisting of mashed potatoes mixed with green peas and maize.",
+        "ingredients": ["Maize", "Green peas", "Mashed potatoes", "Salt", "Butter (optional)"],
+        "components": ["Starch", "Protein", "Fat", "Water"]
+      },
+      "fr": {
+        "description": "Plat kényan populaire composé de pommes de terre écrasées mélangées avec des petits pois et du maïs.",
+        "ingredients": ["Maïs", "Petits pois", "Pommes de terre écrasées", "Sel", "Beurre (optionnel)"],
+        "components": ["Amidon", "Protéines", "Graisse", "Eau"]
+      }
+    },
+    "Kuku Paka": {
+      "en": {
+        "description": "Kenyan coconut chicken curry, cooked with tomatoes, onions, garlic, and ginger in a creamy coconut sauce.",
+        "ingredients": ["Chicken", "Coconut milk", "Tomatoes", "Onions", "Garlic", "Ginger", "Curry powder", "Turmeric", "Chili peppers", "Coriander", "Lemon juice", "Salt", "Oil"],
+        "components": ["Protein", "Fat", "Carbohydrates", "Water", "Vitamins", "Minerals"]
+      },
+      "fr": {
+        "description": "Curry de poulet au lait de coco kényan, cuisiné avec des tomates, des oignons, de l'ail et du gingembre dans une sauce crémeuse au coco.",
+        "ingredients": ["Poulet", "Lait de coco", "Tomates", "Oignons", "Ail", "Gingembre", "Poudre de curry", "Curcuma", "Piments chili", "Coriandre", "Jus de citron", "Sel", "Huile"],
+        "components": ["Protéines", "Graisse", "Glucides", "Eau", "Vitamines", "Minéraux"]
+      }
+    },
+    "Mandazi": {
+      "en": {
+        "description": "Kenyan fried dough snack, similar to a doughnut, made from flour, sugar, baking powder, and coconut milk.",
+        "ingredients": ["All-purpose flour", "Sugar", "Baking powder", "Coconut milk", "Water", "Oil (for frying)"],
+        "components": ["Carbohydrates", "Fat", "Water"]
+      },
+      "fr": {
+        "description": "Collation kényane de pâte frite, similaire à un beignet, composée de farine, de sucre, de levure chimique et de lait de coco.",
+        "ingredients": ["Farine tout usage", "Sucre", "Levure chimique", "Lait de coco", "Eau", "Huile (pour la friture)"],
+        "components": ["Glucides", "Graisse", "Eau"]
+      }
+    },
+    "Matoke": {
+      "en": {
+        "description": "Kenyan dish made with green bananas, cooked with tomatoes, onions, garlic, and spices.",
+        "ingredients": ["Green bananas", "Onions", "Tomatoes", "Garlic", "Ginger", "Green chili peppers", "Salt", "Oil"],
+        "components": ["Starch", "Protein", "Fat", "Water", "Vitamins", "Minerals"]
+      },
+      "fr": {
+        "description": "Plat kényan à base de bananes vertes, cuisinées avec des tomates, des oignons, de l'ail et des épices.",
+        "ingredients": ["Bananes vertes", "Oignons", "Tomates", "Ail", "Gingembre", "Piments chili verts", "Sel", "Huile"],
+        "components": ["Amidon", "Protéines", "Graisse", "Eau", "Vitamines", "Minéraux"]
+      }
+    },
+    "Mutura": {
+      "en": {
+        "description": "Kenyan sausage made from beef or goat intestines, stuffed with a mixture of blood, fat, and spices.",
+        "ingredients": ["Beef or goat intestines (cleaned)", "Blood (optional)", "Fat (from the animal)", "Green vegetables (kale or spinach)", "Onions", "Garlic", "Ginger", "Salt", "Chili peppers"],
+        "components": ["Protein", "Fat", "Carbohydrates", "Fiber", "Water", "Vitamins", "Minerals"]
+      },
+      "fr": {
+        "description": "Saucisse kényane à base d'intestins de bœuf ou de chèvre, farcie d'un mélange de sang, de graisse et d'épices.",
+        "ingredients": ["Intestins de bœuf ou de chèvre (nettoyés)", "Sang (optionnel)", "Graisse (de l'animal)", "Légumes verts (chou frisé ou épinards)", "Oignons", "Ail", "Gingembre", "Sel", "Piments chili"],
+        "components": ["Protéines", "Graisse", "Glucides", "Fibres", "Eau", "Vitamines", "Minéraux"]
+      }
+    },
+    "Nyama": {
+      "en": {
+        "description": "Kenyan dish made with beef or goat meat, cooked with tomatoes, onions, garlic, and spices.",
+        "ingredients": ["Beef or goat meat", "Onions", "Tomatoes", "Garlic", "Ginger", "Curry powder", "Salt", "Oil"],
+        "components": ["Protein", "Fat", "Carbohydrates", "Water", "Vitamins", "Minerals"]
+      },
+      "fr": {
+        "description": "Plat kényan à base de viande de bœuf ou de chèvre, cuisiné avec des tomates, des oignons, de l'ail et des épices.",
+        "ingredients": ["Viande de bœuf ou de chèvre", "Oignons", "Tomates", "Ail", "Gingembre", "Poudre de curry", "Sel", "Huile"],
+        "components": ["Protéines", "Graisse", "Glucides", "Eau", "Vitamines", "Minéraux"]
+      }
+    },
+    "Nyama Choma": {
+      "en": {
+        "description": "Kenyan grilled meat dish, typically made with beef or goat meat marinated in spices and grilled until tender.",
+        "ingredients": ["Beef or goat meat", "Salt", "Pepper", "Garlic", "Ginger", "Lemon juice", "Oil"],
+        "components": ["Protein", "Fat", "Water", "Vitamins", "Minerals"]
+      },
+      "fr": {
+        "description": "Plat kényan de viande grillée, généralement à base de viande de bœuf ou de chèvre marinée dans des épices et grillée jusqu'à tendreté.",
+        "ingredients": ["Viande de bœuf ou de chèvre", "Sel", "Poivre", "Ail", "Gingembre", "Jus de citron", "Huile"],
+        "components": ["Protéines", "Graisse", "Eau", "Vitamines", "Minéraux"]
+      }
+    },
+    "Sukuma Wiki": {
+      "en": {
+        "description": "Kenyan dish made with collard greens (kale), cooked with onions, tomatoes, garlic, and spices.",
+        "ingredients": ["Collard greens (kale)", "Onions", "Tomatoes", "Garlic", "Ginger", "Green chili peppers", "Salt", "Oil"],
+        "components": ["Vegetables", "Carbohydrates", "Protein", "Fat", "Water", "Vitamins", "Minerals"]
+      },
+      "fr": {
+        "description": "Plat kényan à base de chou vert (chou frisé), cuisiné avec des oignons, des tomates, de l'ail et des épices.",
+        "ingredients": ["Chou vert (chou frisé)", "Oignons", "Tomates", "Ail", "Gingembre", "Piments chili verts", "Sel", "Huile"],
+        "components": ["Légumes", "Glucides", "Protéines", "Graisse", "Eau", "Vitamines", "Minéraux"]
+      }
+    },
+    "Ugali": {
+      "en": {
+        "description": "Kenyan staple food made from maize flour and water, cooked into a thick porridge-like consistency.",
+        "ingredients": ["Maize flour", "Water", "Salt (optional)"],
+        "components": ["Starch", "Water"]
+      },
+      "fr": {
+        "description": "Aliment de base kényan à base de farine de maïs et d'eau, cuit en une consistance épaisse de type porridge.",
+        "ingredients": ["Farine de maïs", "Eau", "Sel (optionnel)"],
+        "components": ["Amidon", "Eau"]
+      }
+    }
+  }
+  
